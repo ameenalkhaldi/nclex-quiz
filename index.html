@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NCLEX Practice</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f5f5f5;
+      color: #1a1a1a;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 24px 16px;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 24px;
+      text-align: center;
+    }
+
+    .topics {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 24px;
+      justify-content: center;
+    }
+
+    .topic-btn {
+      padding: 8px 16px;
+      border: 2px solid #e0e0e0;
+      background: white;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      transition: all 0.15s;
+    }
+
+    .topic-btn:hover { border-color: #888; }
+    .topic-btn.active { background: #1a1a1a; color: white; border-color: #1a1a1a; }
+
+    .progress {
+      text-align: center;
+      font-size: 0.85rem;
+      color: #666;
+      margin-bottom: 16px;
+    }
+
+    .question-card {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      margin-bottom: 16px;
+    }
+
+    .question-tag {
+      display: inline-block;
+      font-size: 0.75rem;
+      background: #e8e8e8;
+      padding: 4px 10px;
+      border-radius: 12px;
+      margin-bottom: 12px;
+      color: #555;
+    }
+
+    .question-stem {
+      font-size: 1rem;
+      margin-bottom: 20px;
+    }
+
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .option {
+      padding: 14px 16px;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.15s;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .option:hover:not(.disabled) { border-color: #888; }
+    .option.selected { border-color: #1a1a1a; background: #f8f8f8; }
+    .option.correct { border-color: #22c55e; background: #f0fdf4; }
+    .option.incorrect { border-color: #ef4444; background: #fef2f2; }
+    .option.disabled { cursor: default; }
+    .option.show-correct { border-color: #22c55e; }
+
+    .option-letter {
+      font-weight: 600;
+      color: #666;
+      min-width: 20px;
+    }
+
+    .rationale {
+      margin-top: 20px;
+      padding: 16px;
+      background: #f8f8f8;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      display: none;
+    }
+
+    .rationale.show { display: block; }
+    .rationale h4 { margin-bottom: 8px; font-size: 0.85rem; color: #666; }
+    .rationale p { margin-bottom: 8px; }
+    .rationale .correct-text { color: #16a34a; }
+    .rationale .incorrect-text { color: #666; }
+
+    .nav-buttons {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 24px;
+    }
+
+    .nav-btn {
+      padding: 12px 24px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.95rem;
+      transition: all 0.15s;
+    }
+
+    .nav-btn.secondary {
+      background: #e8e8e8;
+      color: #333;
+    }
+
+    .nav-btn.primary {
+      background: #1a1a1a;
+      color: white;
+    }
+
+    .nav-btn:hover { opacity: 0.85; }
+    .nav-btn:disabled { opacity: 0.4; cursor: default; }
+
+    .results {
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    .results h2 { font-size: 1.3rem; margin-bottom: 16px; }
+    .results .score { font-size: 3rem; font-weight: 700; margin-bottom: 8px; }
+    .results .score-label { color: #666; margin-bottom: 24px; }
+
+    .hidden { display: none; }
+
+    @media (max-width: 480px) {
+      .topics { gap: 6px; }
+      .topic-btn { padding: 6px 12px; font-size: 0.8rem; }
+      .question-card { padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>NCLEX Practice</h1>
+
+    <div class="topics" id="topics"></div>
+
+    <div class="progress" id="progress"></div>
+
+    <div id="quiz-area"></div>
+
+    <div class="nav-buttons" id="nav-buttons">
+      <button class="nav-btn secondary" id="prev-btn" onclick="prevQuestion()">Previous</button>
+      <button class="nav-btn primary" id="next-btn" onclick="nextQuestion()">Next</button>
+    </div>
+  </div>
+
+<script>
+const QUESTIONS = {
+  "upper-gi": [
+    {
+      stem: "A nurse is caring for a client with a nasogastric tube connected to low intermittent suction. The client reports nausea. Which action should the nurse take first?",
+      options: [
+        "Administer prescribed antiemetic medication",
+        "Check the placement and patency of the NG tube",
+        "Increase the suction pressure",
+        "Remove the NG tube and notify the provider"
+      ],
+      answer: 1,
+      rationale: {
+        correct: "Checking tube placement and patency is the priority assessment. A kinked, clogged, or displaced tube can cause nausea and must be ruled out before other interventions.",
+        incorrect: [
+          "Antiemetic may be appropriate but assessment comes first to identify the cause.",
+          "Increasing suction without assessing could cause mucosal damage.",
+          "Removing the tube is not indicated without further assessment and provider consultation."
+        ]
+      }
+    },
+    {
+      stem: "A client with peptic ulcer disease reports sudden, severe epigastric pain with a rigid, board-like abdomen. Which action is the nurse's priority?",
+      options: [
+        "Administer the prescribed proton pump inhibitor",
+        "Prepare the client for emergency surgery",
+        "Obtain a stool sample for occult blood",
+        "Encourage the client to ambulate to relieve gas"
+      ],
+      answer: 1,
+      rationale: {
+        correct: "Sudden severe pain with rigid abdomen indicates perforation—a surgical emergency. Immediate preparation for surgery is critical.",
+        incorrect: [
+          "PPI will not address a perforation and delays critical intervention.",
+          "Stool occult blood is not the priority in an emergency situation.",
+          "Ambulation is contraindicated with suspected perforation."
+        ]
+      }
+    }
+  ],
+  "lower-gi": [
+    {
+      stem: "A nurse is teaching a client scheduled for a colonoscopy. Which statement by the client indicates a need for further teaching?",
+      options: [
+        "I will drink only clear liquids the day before the test",
+        "I should stop taking aspirin one week before the procedure",
+        "I can drive myself home after the procedure",
+        "I will need to complete the bowel preparation as prescribed"
+      ],
+      answer: 2,
+      rationale: {
+        correct: "Sedation is used during colonoscopy, so the client cannot drive afterward. This statement shows misunderstanding and requires clarification.",
+        incorrect: [
+          "Clear liquid diet the day before is correct preparation.",
+          "Stopping aspirin to reduce bleeding risk is appropriate.",
+          "Completing bowel prep is essential for adequate visualization."
+        ]
+      }
+    },
+    {
+      stem: "A client with a new colostomy asks why the stoma appears dark red and swollen. Which response by the nurse is most appropriate?",
+      options: [
+        "The stoma is necrotic and the surgeon should be notified immediately",
+        "This is expected in the immediate postoperative period due to surgical manipulation",
+        "You are having an allergic reaction to the ostomy appliance",
+        "This indicates an obstruction and you should not eat anything"
+      ],
+      answer: 1,
+      rationale: {
+        correct: "A beefy red, edematous stoma is normal postoperatively due to surgical manipulation. It will shrink over 6-8 weeks.",
+        incorrect: [
+          "A necrotic stoma would appear dusky, blue, or black—not red.",
+          "Allergic reaction would show on the peristomal skin, not the stoma itself.",
+          "There are no signs of obstruction described in this scenario."
+        ]
+      }
+    }
+  ],
+  "neoplasms-cancer": [
+    {
+      stem: "A client receiving chemotherapy has a platelet count of 18,000/mm³. Which intervention should the nurse include in the plan of care?",
+      options: [
+        "Place the client in protective isolation",
+        "Avoid intramuscular injections and use a soft toothbrush",
+        "Encourage increased oral fluid intake",
+        "Administer prescribed colony-stimulating factors"
+      ],
+      answer: 1,
+      rationale: {
+        correct: "Platelet count below 20,000 indicates severe thrombocytopenia with high bleeding risk. Avoiding IM injections and trauma is essential.",
+        incorrect: [
+          "Protective isolation is for neutropenia, not thrombocytopenia.",
+          "Fluids are important but don't address the bleeding risk priority.",
+          "Colony-stimulating factors stimulate WBCs, not platelets. Thrombopoietin agents would be used for platelets."
+        ]
+      }
+    },
+    {
+      stem: "A nurse is caring for a client receiving radiation therapy to the chest. Which finding requires immediate intervention?",
+      options: [
+        "Fatigue that worsens as treatment progresses",
+        "Dry, reddened skin over the treatment area",
+        "Moist desquamation with open areas on the skin",
+        "Temporary hair loss in the treatment field"
+      ],
+      answer: 2,
+      rationale: {
+        correct: "Moist desquamation with open areas indicates severe skin breakdown requiring immediate intervention to prevent infection and promote healing.",
+        incorrect: [
+          "Fatigue is an expected side effect of radiation therapy.",
+          "Dry erythema is common and managed with routine skin care.",
+          "Hair loss in the treatment field is expected and temporary."
+        ]
+      }
+    }
+  ],
+  "neuro": [
+    {
+      stem: "A client is prescribed phenytoin for seizure management. Which instruction should the nurse include in discharge teaching?",
+      options: [
+        "Stop taking the medication when seizures are controlled for 6 months",
+        "Report signs of gingival hyperplasia to the provider",
+        "Take the medication with antacids to reduce GI upset",
+        "Expect drowsiness to resolve within the first week"
+      ],
+      answer: 1,
+      rationale: {
+        correct: "Gingival hyperplasia is a common side effect of phenytoin that requires monitoring and dental care. The client should report this finding.",
+        incorrect: [
+          "Anticonvulsants should never be stopped abruptly—this can trigger status epilepticus.",
+          "Antacids decrease phenytoin absorption and should be avoided.",
+          "CNS effects may persist and require dosage adjustment, not just time."
+        ]
+      }
+    },
+    {
+      stem: "A nurse is assessing a client experiencing a tonic-clonic seizure. Which action should the nurse take during the seizure?",
+      options: [
+        "Insert a padded tongue blade between the teeth",
+        "Restrain the client's extremities to prevent injury",
+        "Turn the client to the side and protect the head",
+        "Begin rescue breathing immediately"
+      ],
+      answer: 2,
+      rationale: {
+        correct: "Side-lying position maintains airway and allows secretions to drain. Protecting the head from injury is priority during active seizure.",
+        incorrect: [
+          "Never insert anything into the mouth during a seizure—risk of injury to client and nurse.",
+          "Restraining extremities can cause musculoskeletal injury.",
+          "The client is not in respiratory arrest; positioning maintains airway adequately."
+        ]
+      }
+    },
+    {
+      stem: "A client reports a migraine with visual aura and unilateral throbbing pain. Which intervention should the nurse anticipate?",
+      options: [
+        "Administer a triptan medication as prescribed",
+        "Apply a warm compress to the affected side",
+        "Encourage the client to ambulate in the hallway",
+        "Provide a high-protein snack"
+      ],
+      answer: 0,
+      rationale: {
+        correct: "Triptans are first-line abortive therapy for migraines with aura. They work best when given early in the attack.",
+        incorrect: [
+          "Cold, not warm, compresses may help—heat can worsen vasodilation and pain.",
+          "A dark, quiet environment is preferred; activity can worsen symptoms.",
+          "There is no indication for high-protein snack in acute migraine management."
+        ]
+      }
+    }
+  ]
+};
+
+const TOPIC_LABELS = {
+  "all": "All",
+  "random": "Random",
+  "upper-gi": "Upper GI",
+  "lower-gi": "Lower GI",
+  "neoplasms-cancer": "Neoplasms & Cancer",
+  "neuro": "Migraine / Insomnia / Seizures"
+};
+
+let currentTopic = "all";
+let currentIndex = 0;
+let answers = {};
+let showingResults = false;
+let currentQuestions = [];
+
+function getAllQuestions() {
+  const all = [];
+  Object.entries(QUESTIONS).forEach(([topic, questions]) => {
+    questions.forEach((q, i) => all.push({ ...q, topic, originalIndex: i }));
+  });
+  return all;
+}
+
+function shuffle(array) {
+  const arr = [...array];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function getQuestionsForTopic(topic) {
+  if (topic === "all") {
+    return getAllQuestions();
+  } else if (topic === "random") {
+    return shuffle(getAllQuestions());
+  } else {
+    return QUESTIONS[topic].map((q, i) => ({ ...q, topic, originalIndex: i }));
+  }
+}
+
+function init() {
+  currentQuestions = getQuestionsForTopic(currentTopic);
+  renderTopics();
+  renderQuestion();
+}
+
+function renderTopics() {
+  const container = document.getElementById("topics");
+  container.innerHTML = Object.entries(TOPIC_LABELS).map(([key, label]) =>
+    `<button class="topic-btn ${key === currentTopic ? 'active' : ''}" onclick="selectTopic('${key}')">${label}</button>`
+  ).join("");
+}
+
+function selectTopic(topic) {
+  currentTopic = topic;
+  currentIndex = 0;
+  showingResults = false;
+  answers = {};
+  currentQuestions = getQuestionsForTopic(topic);
+  renderTopics();
+  renderQuestion();
+}
+
+function renderQuestion() {
+  const questions = currentQuestions;
+  const area = document.getElementById("quiz-area");
+  const progress = document.getElementById("progress");
+  const navButtons = document.getElementById("nav-buttons");
+
+  if (showingResults) {
+    renderResults();
+    return;
+  }
+
+  const q = questions[currentIndex];
+  const answered = answers[currentIndex] !== undefined;
+  const selected = answers[currentIndex];
+  const topicLabel = TOPIC_LABELS[q.topic] || q.topic;
+
+  progress.textContent = `Question ${currentIndex + 1} of ${questions.length}`;
+  navButtons.classList.remove("hidden");
+
+  area.innerHTML = `
+    <div class="question-card">
+      <span class="question-tag">${topicLabel}</span>
+      <p class="question-stem">${q.stem}</p>
+      <div class="options">
+        ${q.options.map((opt, i) => {
+          let classes = "option";
+          if (answered) {
+            classes += " disabled";
+            if (i === selected && i !== q.answer) classes += " incorrect";
+            if (i === q.answer) classes += " correct show-correct";
+            if (i === selected && i === q.answer) classes += " selected";
+          }
+          return `<div class="${classes}" onclick="selectAnswer(${i})">
+            <span class="option-letter">${String.fromCharCode(65 + i)}.</span>
+            <span>${opt}</span>
+          </div>`;
+        }).join("")}
+      </div>
+      <div class="rationale ${answered ? 'show' : ''}">
+        <h4>Rationale</h4>
+        <p class="correct-text"><strong>Correct (${String.fromCharCode(65 + q.answer)}):</strong> ${q.rationale.correct}</p>
+        ${q.rationale.incorrect.map((text, i) => {
+          const letter = i >= q.answer ? i + 1 : i;
+          return `<p class="incorrect-text"><strong>${String.fromCharCode(65 + letter)}:</strong> ${text}</p>`;
+        }).join("")}
+      </div>
+    </div>
+  `;
+
+  updateNavButtons();
+}
+
+function selectAnswer(index) {
+  if (answers[currentIndex] !== undefined) return;
+  answers[currentIndex] = index;
+  renderQuestion();
+}
+
+function updateNavButtons() {
+  document.getElementById("prev-btn").disabled = currentIndex === 0;
+  document.getElementById("next-btn").textContent =
+    currentIndex === currentQuestions.length - 1 ? "See Results" : "Next";
+}
+
+function nextQuestion() {
+  if (currentIndex < currentQuestions.length - 1) {
+    currentIndex++;
+    renderQuestion();
+  } else {
+    showingResults = true;
+    renderResults();
+  }
+}
+
+function prevQuestion() {
+  if (currentIndex > 0) {
+    currentIndex--;
+    renderQuestion();
+  }
+}
+
+function renderResults() {
+  const correct = Object.entries(answers).filter(([i, a]) => a === currentQuestions[i].answer).length;
+  const total = currentQuestions.length;
+  const percentage = Math.round((correct / total) * 100);
+
+  document.getElementById("progress").textContent = "";
+  document.getElementById("nav-buttons").classList.add("hidden");
+
+  document.getElementById("quiz-area").innerHTML = `
+    <div class="question-card results">
+      <h2>${TOPIC_LABELS[currentTopic]}</h2>
+      <div class="score">${percentage}%</div>
+      <p class="score-label">${correct} of ${total} correct</p>
+      <button class="nav-btn primary" onclick="selectTopic('${currentTopic}')">Try Again</button>
+    </div>
+  `;
+}
+
+init();
+</script>
+</body>
+</html>
