@@ -15,6 +15,7 @@
         "correct": "A platelet count below 20,000/mm³ indicates severe thrombocytopenia with high bleeding risk. Avoiding IM injections and trauma is essential.",
         "incorrect": [
           "Protective isolation is for neutropenia, not thrombocytopenia.",
+          "A platelet count below 20,000/mm³ indicates severe thrombocytopenia with high bleeding risk. Avoiding IM injections and trauma is essential.",
           "Fluids are important but don't address the bleeding risk priority.",
           "Colony-stimulating factors stimulate WBCs, not platelets. Thrombopoietin agents would be used for platelets."
         ]
@@ -34,7 +35,902 @@
         "incorrect": [
           "Fatigue is an expected side effect of radiation therapy.",
           "Dry erythema is common and managed with routine skin care.",
+          "Moist desquamation with open areas indicates severe skin breakdown requiring immediate intervention to prevent infection and promote healing.",
           "Hair loss in the treatment field is expected and temporary."
+        ]
+      }
+    },
+    {
+      "stem": "A nursing student asks the instructor to define cancer. Which statement is the most accurate description?",
+      "options": [
+        "Cancer is simply any group of cells that divide quickly",
+        "Cancer is cells that have lost control of their growth, apoptosis, and location in the body",
+        "Cancer is an infection caused by bacteria in the bloodstream",
+        "Cancer only occurs in older adults over age 65"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Cancer is a loss of regulation—cells ignore stop signals, avoid apoptosis, and grow beyond their normal location. It is not defined by speed of growth alone.",
+        "incorrect": [
+          "Fast division alone is not cancer; normal cells such as bone marrow also divide quickly.",
+          "Cancer is a disease of abnormal cell regulation, not a bacterial infection.",
+          "Cancer can occur at any age, though risk rises with age."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse explains that cancer cells differ from normal cells in that cancer cells:",
+      "options": [
+        "Undergo apoptosis when their DNA is damaged",
+        "Continue dividing despite DNA damage and avoid apoptosis",
+        "Stop dividing when they touch neighboring cells",
+        "Only divide when the body signals a need for new cells"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Cancer cells ignore stop signals, avoid apoptosis, and keep dividing despite DNA damage, accumulating more mutations and becoming more aggressive over time.",
+        "incorrect": [
+          "Cancer cells avoid apoptosis; it is normal cells that self-destruct when damaged.",
+          "Loss of contact inhibition means cancer cells do NOT stop dividing when they contact neighbors.",
+          "Cancer cells divide continuously regardless of the body's needs, unlike normal cells."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks what metastasis means. The nurse's best explanation is that metastasis is when cancer cells:",
+      "options": [
+        "Grow directly into the tissue right next to the original tumor",
+        "Break away and travel through blood or lymph to form new tumors in distant organs",
+        "Are destroyed by the immune system",
+        "Shrink and become benign over time"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Metastasis is when cancer cells break away from the primary tumor, travel through the bloodstream or lymphatic system, and establish new (secondary) tumors in distant organs such as the liver, lungs, or brain.",
+        "incorrect": [
+          "Direct extension into adjacent tissue is invasion, not metastasis.",
+          "Metastasis is spread of the cancer, not its destruction.",
+          "Metastatic cells remain malignant; they do not become benign."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about tumor terminology. Which statement is correct?",
+      "options": [
+        "All neoplasms are cancerous",
+        "All tumors are malignant",
+        "Not all tumors are cancer, but all cancers are malignant tumors",
+        "Benign tumors always metastasize"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "A neoplasm is any new abnormal growth and may be benign or malignant, but by definition every cancer is a malignant tumor.",
+        "incorrect": [
+          "Neoplasms can be benign or malignant; not all are cancer.",
+          "Tumors can be benign (non-cancerous) or malignant (cancerous).",
+          "Benign tumors do not metastasize; only malignant tumors can spread."
+        ]
+      }
+    },
+    {
+      "stem": "Which description correctly distinguishes a malignant tumor from a benign tumor?",
+      "options": [
+        "Benign: poorly differentiated, invades tissue, metastasizes",
+        "Malignant: well differentiated, slow growing, stays localized",
+        "Malignant: poorly differentiated, grows rapidly, invades tissue, can metastasize",
+        "Benign and malignant tumors behave identically"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Malignant tumors are poorly differentiated, grow rapidly, invade surrounding tissue, and can metastasize. Benign tumors are well differentiated, slow growing, and remain localized.",
+        "incorrect": [
+          "This describes malignant, not benign, tumors.",
+          "This describes benign, not malignant, tumors.",
+          "Benign and malignant tumors differ markedly in differentiation, growth, and ability to spread."
+        ]
+      }
+    },
+    {
+      "stem": "A client with benign prostatic hyperplasia (BPH) asks what 'hyperplasia' means. The nurse explains it is:",
+      "options": [
+        "A cancerous growth that has spread",
+        "An increase in the number of normal cells, which is controlled and reversible",
+        "The replacement of one cell type with another",
+        "A complete loss of cell differentiation"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Hyperplasia is a controlled, reversible increase in the number of normal cells, often driven by a stimulus such as hormones or chronic irritation (as in BPH).",
+        "incorrect": [
+          "Hyperplasia is not cancer; it is an increase in normal cells.",
+          "Replacement of one mature cell type by another is metaplasia, not hyperplasia.",
+          "Loss of differentiation describes anaplasia, not hyperplasia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with GERD is told that chronic acid exposure has caused Barrett's esophagus, an example of metaplasia. The nurse explains that metaplasia is:",
+      "options": [
+        "An irreversible cancerous change",
+        "The replacement of one mature cell type by another as an adaptive response, which can become precancerous",
+        "An increase in the number of normal cells",
+        "The spread of cancer to a distant organ"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Metaplasia is the replacement of one normal mature cell type with another as an adaptive response to stress. Barrett's esophagus is a classic example that is precancerous—it is not cancer but increases cancer risk over time.",
+        "incorrect": [
+          "Metaplasia itself is not cancer, though it can raise cancer risk if the stressor persists.",
+          "An increase in the number of normal cells is hyperplasia, not metaplasia.",
+          "Spread to a distant organ is metastasis, not metaplasia."
+        ]
+      }
+    },
+    {
+      "stem": "On a pathology report, a tumor is described as anaplastic. The nurse understands this finding indicates:",
+      "options": [
+        "A benign, slow-growing mass",
+        "A total loss of differentiation, which is a hallmark of aggressive malignancy",
+        "Normal, well-organized tissue",
+        "A reversible precancerous change"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Anaplasia is the total loss of differentiation—cells no longer resemble the tissue of origin and appear primitive and disorganized. It is a hallmark of high-grade, aggressive cancer.",
+        "incorrect": [
+          "Anaplasia indicates aggressive malignancy, not a benign mass.",
+          "Anaplastic cells are highly abnormal, not normal and organized.",
+          "A reversible precancerous change describes dysplasia, not anaplasia."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews two pathology reports. Tumor A is well-differentiated and Tumor B is poorly differentiated. Which conclusion is correct?",
+      "options": [
+        "Tumor A is likely more aggressive with a worse prognosis",
+        "Tumor B is likely more aggressive with a worse prognosis",
+        "Differentiation has no relationship to prognosis",
+        "Both tumors are benign"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Poorly/undifferentiated cells look very abnormal, grow more rapidly, and behave more aggressively. Less differentiation is associated with a worse prognosis.",
+        "incorrect": [
+          "Well-differentiated tumors resemble normal tissue and tend to be less aggressive.",
+          "Degree of differentiation is an important predictor of tumor behavior and prognosis.",
+          "Poor differentiation indicates malignancy, not a benign process."
+        ]
+      }
+    },
+    {
+      "stem": "A client with colon cancer is found to have tumor deposits in the liver and lungs. The nurse recognizes this hematogenous spread occurs because:",
+      "options": [
+        "The cancer spread through direct contact with skin",
+        "Cancer cells traveled through the bloodstream to highly vascular organs",
+        "The tumor cells were inhaled into the lungs",
+        "The liver and lungs produce cancer independently"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In hematogenous spread, cancer cells enter the bloodstream and lodge in highly vascular organs such as the liver and lungs, forming metastases.",
+        "incorrect": [
+          "Hematogenous spread is through the blood, not skin contact.",
+          "Cancer cells are not inhaled; they arrive via the blood.",
+          "These are metastatic (secondary) tumors from the colon primary, not independent new cancers."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is describing the stages of carcinogenesis. Which sequence is correct?",
+      "options": [
+        "Progression, promotion, initiation",
+        "Initiation (DNA damage), promotion (growth of mutated cells), progression (malignant and invasive)",
+        "Metastasis, initiation, apoptosis",
+        "Promotion, apoptosis, initiation"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Carcinogenesis is a multi-step process: initiation (a DNA mutation), promotion (repeated exposures stimulate the mutated cells to proliferate—still reversible if the stimulus is removed), and progression (cells become fully malignant and invasive).",
+        "incorrect": [
+          "This reverses the correct order.",
+          "Apoptosis is not a stage of carcinogenesis; the sequence is initiation, promotion, progression.",
+          "This ordering is incorrect; initiation comes first."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a community group about causes of DNA damage that can lead to cancer. Which factors should the nurse include? Select all that apply.",
+      "options": [
+        "Chemical carcinogens such as tobacco and asbestos",
+        "Radiation such as UV light and ionizing radiation",
+        "Certain viruses such as HPV and hepatitis B/C",
+        "Rarely dividing cells such as mature heart muscle",
+        "Chronic inflammation"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "",
+        "incorrect": [
+          "Correct—tobacco and asbestos are chemical carcinogens that directly damage DNA.",
+          "Correct—UV and ionizing radiation cause mutations that can lead to cancer.",
+          "Correct—HPV and hepatitis B/C can insert genetic material and disrupt normal cell regulation, raising cancer risk.",
+          "Rarely dividing cells (like myocardial cells) are at LOWER cancer risk because they replicate infrequently.",
+          "Correct—chronic inflammation creates cellular stress that increases mutation risk."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse explains that certain tissues are more prone to developing cancer. Which type of cell is at the highest risk?",
+      "options": [
+        "Myocardial (heart muscle) cells",
+        "Rapidly dividing cells such as those in bone marrow, the GI tract, and skin",
+        "Mature nerve cells in the brain",
+        "Cells that never replicate"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Rapidly dividing tissues (bone marrow, GI tract, skin) have high cell turnover. Every division copies DNA and carries a small risk of error, so accumulated mutations make cancer more common. These are also the tissues most affected by chemotherapy.",
+        "incorrect": [
+          "Myocardial cells rarely divide after development, so they are at lower cancer risk.",
+          "Mature neurons divide rarely and are at lower risk.",
+          "Cells that do not replicate have fewer chances to accumulate replication errors, lowering their risk."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse describes how malignant tumors obtain the oxygen and nutrients needed to keep growing. This process is called:",
+      "options": [
+        "Apoptosis",
+        "Angiogenesis",
+        "Differentiation",
+        "Contact inhibition"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Angiogenesis is the formation of new blood vessels. Tumors secrete growth factors that stimulate new capillaries to supply oxygen and nutrients, allowing the tumor to grow larger. It is a common target of cancer therapies.",
+        "incorrect": [
+          "Apoptosis is programmed cell death, which cancer cells avoid.",
+          "Differentiation refers to how closely cancer cells resemble normal cells, not blood vessel formation.",
+          "Contact inhibition is the normal stop-growing signal that cancer cells lose."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse explains how the immune system normally protects against cancer (immune surveillance). Which cells are the key players?",
+      "options": [
+        "Red blood cells and platelets",
+        "Cytotoxic (CD8+) T cells, natural killer cells, and macrophages",
+        "Osteoblasts and osteoclasts",
+        "Pancreatic beta cells"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Immune surveillance relies on cytotoxic (CD8+) T cells that kill abnormal cells, natural killer (NK) cells that attack cells lacking normal self-markers, and macrophages that phagocytose tumor cells.",
+        "incorrect": [
+          "Red cells and platelets carry oxygen and aid clotting; they do not perform immune surveillance.",
+          "Osteoblasts and osteoclasts remodel bone and are not part of tumor surveillance.",
+          "Beta cells produce insulin and are unrelated to immune surveillance."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse identifies clients at increased risk for cancer due to impaired immunity. Which groups are at higher risk? Select all that apply.",
+      "options": [
+        "Clients with HIV/AIDS and low CD4 counts",
+        "Organ transplant recipients on immunosuppressants",
+        "Older adults with age-related immune decline",
+        "Healthy young adults with normal immune function",
+        "Clients on long-term chemotherapy or biologics"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "",
+        "incorrect": [
+          "Correct—low CD4 counts reduce the ability to detect and destroy abnormal cells.",
+          "Correct—immunosuppressant medications reduce tumor surveillance, increasing cancer risk.",
+          "Correct—aging weakens immune surveillance, allowing abnormal cells to survive.",
+          "Healthy young adults with intact immunity are not in the high-risk group.",
+          "Correct—long-term immunosuppression from chemo or biologics reduces the ability to fight abnormal cell growth."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about vaccines that help prevent cancer. Which vaccine helps prevent cervical, anal, and oropharyngeal cancers?",
+      "options": [
+        "Hepatitis B vaccine",
+        "HPV vaccine",
+        "Influenza vaccine",
+        "Tetanus vaccine"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The HPV vaccine prevents infection with oncogenic human papillomavirus, reducing the risk of cervical, anal, penile, and oropharyngeal cancers.",
+        "incorrect": [
+          "Hepatitis B vaccine helps prevent liver cancer by preventing chronic hepatitis, not cervical cancer.",
+          "The influenza vaccine does not prevent an oncogenic infection.",
+          "The tetanus vaccine is unrelated to cancer prevention."
+        ]
+      }
+    },
+    {
+      "stem": "A malignant tumor cell 'does not adhere to neighboring cells and lacks contact inhibition.' What is the clinical significance of these features?",
+      "options": [
+        "The cells stay tightly bound and localized",
+        "The cells can break loose to invade and spread, and keep growing into disorganized masses",
+        "The cells stop growing when they touch each other",
+        "The cells undergo apoptosis rapidly"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Without contact inhibition, malignant cells keep dividing into dense, disorganized masses; and because they do not adhere well, individual cells can break loose from the primary tumor to invade and metastasize.",
+        "incorrect": [
+          "Malignant cells do not stay bound; poor adhesion lets them break away.",
+          "Loss of contact inhibition means they do NOT stop growing on contact.",
+          "Cancer cells avoid apoptosis rather than undergoing it rapidly."
+        ]
+      }
+    },
+    {
+      "stem": "A client with advanced cancer has severe muscle and fat wasting despite nutritional support. The nurse documents this as:",
+      "options": [
+        "Cachexia",
+        "Hyperplasia",
+        "Angiogenesis",
+        "Metaplasia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Cachexia is the severe wasting of muscle and fat commonly seen in cancer, driven by anorexia, increased metabolic demands of tumor cells, fatigue, and stress. It is one of the most common systemic findings.",
+        "incorrect": [
+          "Hyperplasia is an increase in normal cell numbers, not wasting.",
+          "Angiogenesis is new blood vessel formation by tumors, not wasting.",
+          "Metaplasia is a change in cell type, not a wasting syndrome."
+        ]
+      }
+    },
+    {
+      "stem": "A client with lung cancer develops abnormal hormone levels and neurologic symptoms that are not caused by direct tumor spread. The nurse recognizes this as:",
+      "options": [
+        "Paraneoplastic syndrome",
+        "Metastasis to the brain",
+        "A normal side effect of chemotherapy",
+        "An allergic reaction"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Paraneoplastic syndrome occurs when tumor cells release hormones or cytokines that cause neurologic and endocrine effects (such as altered calcium levels) at sites distant from the tumor. It is caused by abnormal signaling, not direct tumor spread.",
+        "incorrect": [
+          "The scenario specifies the effects are NOT from direct spread, distinguishing this from brain metastasis.",
+          "These systemic hormonal/neurologic effects are from the tumor's signaling, not simply chemotherapy.",
+          "This is a paraneoplastic process, not an allergic reaction."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks which diagnostic test provides the definitive, gold-standard diagnosis of cancer. The nurse's best answer is:",
+      "options": [
+        "CT scan",
+        "Biopsy",
+        "Complete blood count",
+        "Physical examination"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A biopsy—removal of tissue for microscopic analysis—is the gold standard for diagnosis. It confirms the cancer type and grade.",
+        "incorrect": [
+          "A CT scan shows the location and size of a tumor but cannot confirm the cell type.",
+          "A CBC may show effects of cancer but does not definitively diagnose it.",
+          "A physical exam may raise suspicion but cannot confirm a cancer diagnosis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is explaining the TNM classification system for cancer staging. What does the 'N' represent?",
+      "options": [
+        "The number of chemotherapy cycles needed",
+        "Regional lymph node involvement",
+        "The nutritional status of the client",
+        "The name of the tumor"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In TNM staging, T = size/extent of the primary tumor, N = regional lymph node involvement, and M = distant metastasis. Staging guides treatment and prognosis.",
+        "incorrect": [
+          "TNM does not describe treatment cycles.",
+          "TNM does not address nutritional status.",
+          "TNM describes disease burden, not the tumor's name."
+        ]
+      }
+    },
+    {
+      "stem": "A client is told the goal of their cancer treatment is palliative. The nurse explains this means the treatment is focused on:",
+      "options": [
+        "Completely curing the cancer",
+        "Comfort and quality of life rather than cure",
+        "Preventing the cancer from ever returning",
+        "Shrinking the tumor before surgery"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Palliative treatment focuses on comfort and quality of life, relieving symptoms rather than curing the disease. (The other two main goals are curative and control.)",
+        "incorrect": [
+          "A palliative goal is not curative.",
+          "Preventing recurrence relates to curative intent, not palliation.",
+          "Shrinking a tumor before surgery is neoadjuvant/curative-oriented, not palliative."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about radiation therapy. Which statement is accurate?",
+      "options": [
+        "Radiation affects the entire body systemically",
+        "Radiation damages the DNA of cancer cells in a targeted area and is most effective on rapidly dividing cells",
+        "Radiation has no effect on surrounding healthy tissue",
+        "Radiation is effective against all cancer types equally"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Radiation delivers high-energy radiation that damages the DNA of cancer cells, causing cell death. It is localized and most effective against rapidly dividing cells; side effects include skin changes and fatigue.",
+        "incorrect": [
+          "Radiation is localized, targeting a specific area, not the whole body systemically like chemo.",
+          "Radiation can still damage nearby healthy cells, causing side effects.",
+          "Some cancers are radio-resistant, so radiation is not equally effective for all types."
+        ]
+      }
+    },
+    {
+      "stem": "A client is beginning chemotherapy. The nurse explains that side effects occur because chemotherapy affects rapidly dividing normal cells. Which areas are commonly affected? Select all that apply.",
+      "options": [
+        "Bone marrow (low blood counts)",
+        "The GI tract (nausea, mucosal damage)",
+        "Hair follicles (hair loss)",
+        "Mature cardiac muscle cells that rarely divide",
+        "Skin and mucous membranes"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "",
+        "incorrect": [
+          "Correct—bone marrow suppression causes low WBCs, RBCs, and platelets.",
+          "Correct—rapidly dividing GI cells are damaged, causing nausea and mucositis.",
+          "Correct—hair follicle cells divide rapidly, so hair loss is common.",
+          "Cardiac muscle cells rarely divide, so they are not the typical target of chemotherapy toxicity (though some specific agents can affect the heart).",
+          "Correct—skin and mucous membranes have rapidly dividing cells vulnerable to chemotherapy."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving chemotherapy has an absolute neutrophil count that is severely low. Which nursing intervention is the priority?",
+      "options": [
+        "Encourage the client to eat fresh raw fruits and vegetables",
+        "Implement neutropenic precautions, including hand hygiene and avoiding crowds and sick contacts",
+        "Place the client on bleeding precautions only",
+        "Encourage visitors with mild colds to keep the client company"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Severe neutropenia leaves the client highly vulnerable to infection. Neutropenic precautions—strict hand hygiene, a protective environment, avoiding crowds and sick contacts—are the priority. A subtle low-grade fever may be the only sign of serious infection.",
+        "incorrect": [
+          "Raw produce can carry pathogens; neutropenic clients should avoid raw/undercooked foods.",
+          "Bleeding precautions address thrombocytopenia, not the infection risk of neutropenia.",
+          "Sick visitors must be kept away from a neutropenic, immunocompromised client."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse explains why a client receiving an organ transplant is intentionally given immunosuppressant medications. The purpose is to:",
+      "options": [
+        "Cure the client's underlying disease",
+        "Prevent the immune system from recognizing and rejecting the new organ",
+        "Increase the client's immune response to fight infection",
+        "Speed up wound healing"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Transplant patients receive immunosuppressants so the immune system does not attack the new organ as foreign. The goal is a balance: enough suppression to prevent rejection, but not so much that infection risk becomes dangerous.",
+        "incorrect": [
+          "Immunosuppressants do not cure the underlying disease; they prevent rejection.",
+          "These drugs decrease, not increase, the immune response.",
+          "Immunosuppression actually impairs wound healing rather than speeding it."
+        ]
+      }
+    },
+    {
+      "stem": "A bone marrow transplant recipient develops a reaction in which the donor's immune cells attack the recipient's tissues. The nurse recognizes this as:",
+      "options": [
+        "Host-versus-graft rejection",
+        "Graft-versus-host disease (GVHD)",
+        "Hyperacute rejection",
+        "An allergic reaction to the anesthesia"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In graft-versus-host disease, the donor's immune cells attack the host's tissues. It is seen with bone marrow/stem cell transplants.",
+        "incorrect": [
+          "Host-versus-graft is when the recipient's immune system attacks the donor organ—the opposite direction.",
+          "Hyperacute rejection is the host attacking the graft within minutes to hours, not the donor cells attacking the host.",
+          "This is an immune (GVHD) reaction, not an anesthesia allergy."
+        ]
+      }
+    },
+    {
+      "stem": "A kidney transplant recipient develops a fever, tenderness over the graft site, and a rising serum creatinine several weeks after surgery. The nurse suspects which type of rejection?",
+      "options": [
+        "Hyperacute rejection",
+        "Acute rejection",
+        "Graft-versus-host disease",
+        "Chronic rejection"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Acute rejection occurs days to months after transplant and is T-cell mediated. Classic cues include fever, increased creatinine, and tenderness over the graft.",
+        "incorrect": [
+          "Hyperacute rejection occurs within minutes to hours of transplant from pre-existing antibodies, causing immediate organ failure.",
+          "GVHD involves donor cells attacking the host and is associated with bone marrow transplant, not this presentation.",
+          "Chronic rejection develops slowly over months to years with gradual organ dysfunction, not an acute febrile presentation."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed cyclosporine, a calcineurin inhibitor, after a kidney transplant. Which adverse effect is the priority for the nurse to monitor?",
+      "options": [
+        "Nephrotoxicity",
+        "Hair loss",
+        "Weight loss",
+        "Hypoglycemia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Cyclosporine reduces T-cell activation but is nephrotoxic. Because the client has a transplanted kidney, monitoring creatinine, GFR, urine output, and hydration is a priority. It also causes hypertension, tremors, hirsutism, and gingival hyperplasia, and has a narrow therapeutic index requiring drug-level monitoring.",
+        "incorrect": [
+          "Cyclosporine causes hirsutism (excess hair growth), not hair loss, and this is not the priority concern.",
+          "Weight loss is not a hallmark adverse effect of cyclosporine.",
+          "Cyclosporine is not primarily associated with hypoglycemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client is being discharged on cyclosporine after transplant. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "I will take my medication at the same time every day",
+        "I can drink grapefruit juice with my morning dose",
+        "I will report any fever, even a low one, to my provider",
+        "I understand I will likely take this medication for life"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Grapefruit juice interferes with cyclosporine metabolism and raises drug levels, increasing toxicity. The client should avoid grapefruit juice—this statement indicates a need for further teaching.",
+        "incorrect": [
+          "Taking cyclosporine at the same time daily maintains consistent drug levels and is correct.",
+          "Grapefruit juice interferes with cyclosporine metabolism and raises drug levels, increasing toxicity. The client should avoid grapefruit juice—this statement indicates a need for further teaching.",
+          "Reporting even a subtle fever is correct; it may be the only sign of a serious infection in an immunosuppressed client.",
+          "Cyclosporine is lifelong therapy for transplant recipients, so this statement is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A client on mycophenolate after transplant has the following results: WBC 2,000/mm³, hemoglobin 9 g/dL, platelets 90,000/mm³. The nurse recognizes these findings as:",
+      "options": [
+        "An expected therapeutic response",
+        "Bone marrow suppression, a known adverse effect requiring CBC monitoring",
+        "Signs of organ rejection",
+        "A sign the dose is too low"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Mycophenolate suppresses B- and T-cell proliferation by interfering with DNA synthesis, which can also suppress the bone marrow, causing anemia, leukopenia, and thrombocytopenia. CBC must be monitored (weekly initially), and the client is at increased infection, fall, and bleeding risk.",
+        "incorrect": [
+          "These low counts are an adverse effect, not the therapeutic goal.",
+          "These are drug-related marrow effects, not signs of rejection.",
+          "Low blood counts reflect toxicity, not an inadequate dose."
+        ]
+      }
+    },
+    {
+      "stem": "A woman of childbearing age is prescribed mycophenolate. Which teaching is essential?",
+      "options": [
+        "The medication improves fertility",
+        "Strict contraception is required because the drug is teratogenic",
+        "The medication is safe to take during pregnancy",
+        "No special precautions are needed"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Mycophenolate is a teratogen. Women of childbearing age must use strict, reliable contraception to avoid pregnancy while taking it.",
+        "incorrect": [
+          "Mycophenolate does not improve fertility; it is harmful in pregnancy.",
+          "It is unsafe in pregnancy and must be avoided.",
+          "Because it is teratogenic and causes marrow suppression, important precautions are required."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for several immunosuppressed clients. Which sign should the nurse recognize may be the only indication of a serious infection?",
+      "options": [
+        "A high fever of 104°F with chills",
+        "A low-grade fever",
+        "Elevated blood pressure",
+        "A strong, productive cough"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In immunosuppressed clients, a low-grade fever may be the only sign of a serious infection because the weakened immune system cannot produce a typical response. Subtle changes must not be ignored.",
+        "incorrect": [
+          "Immunosuppressed clients often cannot mount a robust immune response, so a dramatic high fever may not occur.",
+          "Elevated blood pressure is not a reliable early sign of infection in these clients.",
+          "A strong productive cough requires an intact inflammatory response, which immunosuppressed clients may lack."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching an immunosuppressed client how to reduce infection risk. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "I will avoid crowds and people who are sick",
+        "I should get live vaccines like the shingles and MMR vaccines",
+        "I will wash my hands frequently",
+        "I will avoid raw foods, unpasteurized dairy, and undercooked meats"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Live vaccines (MMR, varicella, shingles) are contraindicated in immunosuppressed clients because the weakened immune system may not safely handle the live organism, which could cause active infection. This statement indicates a need for further teaching.",
+        "incorrect": [
+          "Avoiding crowds and sick contacts appropriately reduces exposure to pathogens.",
+          "Live vaccines (MMR, varicella, shingles) are contraindicated in immunosuppressed clients because the weakened immune system may not safely handle the live organism, which could cause active infection. This statement indicates a need for further teaching.",
+          "Frequent hand hygiene is a correct infection-prevention measure.",
+          "Avoiding raw or undercooked foods reduces exposure to foodborne pathogens and is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about herpesviruses (HSV, VZV, CMV). Which characteristic do they share?",
+      "options": [
+        "They are bacteria that respond to antibiotics",
+        "They establish lifelong latency and can reactivate when immunity is weakened",
+        "They are always cleared completely by the immune system",
+        "They only cause disease at the time of first infection"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Herpesviruses establish lifelong latency in the body after the initial infection and can reactivate later when the immune system is weakened or stressed.",
+        "incorrect": [
+          "Herpesviruses are DNA viruses, not bacteria, and do not respond to antibiotics.",
+          "The body does not fully clear these viruses; they remain latent for life.",
+          "They can reactivate long after the first infection, especially with immunosuppression."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks how they developed shingles when they never caught it from anyone. The nurse's best explanation is:",
+      "options": [
+        "Shingles is a brand-new virus unrelated to any past infection",
+        "Shingles is a reactivation of the varicella-zoster virus that stayed dormant after a past chickenpox infection",
+        "Shingles is caused by a recent bacterial exposure",
+        "Shingles is caused by the flu vaccine"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "After chickenpox, varicella-zoster virus (VZV) remains latent in the dorsal root ganglia. When immunity weakens, it reactivates and travels along a sensory nerve to the skin, causing shingles.",
+        "incorrect": [
+          "Shingles is not a new virus; it comes from a virus already in the body.",
+          "Shingles is viral (VZV reactivation), not a bacterial infection.",
+          "Shingles is not caused by the flu vaccine."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with a painful, blistering rash. Which finding is the key feature that identifies the rash as shingles (herpes zoster)?",
+      "options": [
+        "A symmetrical rash covering the entire body",
+        "A rash in a unilateral pattern along a single dermatome that does not cross the midline",
+        "A rash only on the palms and soles",
+        "Painless flat patches scattered randomly"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Herpes zoster reactivates along a single sensory nerve, so it produces a unilateral, dermatomal, vesicular rash on one side of the body that does not cross the midline (thoracic dermatomes are most common). This pattern is the key to identification.",
+        "incorrect": [
+          "Shingles is not a symmetrical whole-body rash; it follows one nerve.",
+          "Herpes zoster reactivates along a single sensory nerve, so it produces a unilateral, dermatomal, vesicular rash on one side of the body that does not cross the midline (thoracic dermatomes are most common). This pattern is the key to identification.",
+          "A palms-and-soles pattern is not characteristic of shingles.",
+          "Shingles is painful (often with burning/tingling before the rash) and follows a dermatome, not a random painless pattern."
+        ]
+      }
+    },
+    {
+      "stem": "A client with shingles asks whether they can spread the virus. The nurse's most accurate response is:",
+      "options": [
+        "You cannot spread anything to anyone",
+        "A person who has never had chickenpox or the vaccine can catch the virus from your vesicle fluid and develop chickenpox—not shingles",
+        "Anyone near you will immediately get shingles",
+        "The virus spreads through the air even after the lesions crust over"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The fluid from shingles vesicles contains VZV. A person who has never had chickenpox or the vaccine can be infected and develop chickenpox (not shingles). Someone who is immune (past chickenpox or vaccine) is not at risk. Clients are infectious until all lesions crust over.",
+        "incorrect": [
+          "Shingles can transmit the virus to susceptible people through vesicle fluid.",
+          "Exposed susceptible people develop chickenpox, not shingles, and only if not already immune.",
+          "The client is no longer contagious once all lesions have crusted over."
+        ]
+      }
+    },
+    {
+      "stem": "A client who had shingles continues to have burning nerve pain in the same area weeks after the rash resolved. The nurse recognizes this complication as:",
+      "options": [
+        "Postherpetic neuralgia",
+        "Cellulitis",
+        "A new case of chickenpox",
+        "An allergic reaction"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Postherpetic neuralgia is nerve pain that persists after the shingles rash has healed. Early antiviral treatment reduces the risk of this complication.",
+        "incorrect": [
+          "Cellulitis is a bacterial skin infection with redness, warmth, and swelling, not persistent neuropathic pain after a healed rash.",
+          "This is a lingering complication of shingles, not a new chickenpox infection.",
+          "Persistent nerve pain is postherpetic neuralgia, not an allergic reaction."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a solid organ transplant develops CMV retinitis. The nurse understands cytomegalovirus (CMV) causes serious disease in this client because:",
+      "options": [
+        "CMV only affects healthy people",
+        "Immunosuppression allows latent CMV to reactivate and cause multi-organ disease",
+        "CMV is a bacterial infection treated with antibiotics",
+        "CMV cannot affect the eyes"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CMV establishes latency and reactivates with immunosuppression (transplant, HIV, steroids, chemo), causing serious multi-organ disease—pneumonia, colitis, hepatitis, and retinitis (which can cause vision loss). It is a leading cause of post-transplant morbidity and mortality.",
+        "incorrect": [
+          "CMV is usually asymptomatic in healthy people; it is dangerous in the immunocompromised.",
+          "CMV is a virus (human herpesvirus-5), not a bacterium.",
+          "CMV retinitis affects the eyes and can cause vision loss."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed valacyclovir for a herpes outbreak. Which teaching point is most important?",
+      "options": [
+        "This medication will completely cure your herpes infection",
+        "Begin the medication within 72 hours of an outbreak, stay well hydrated, and know it reduces symptoms but is not a cure",
+        "You can stop safe-sex practices once you start the medication",
+        "This medication treats bacterial infections"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Valacyclovir (a prodrug of acyclovir) inhibits viral DNA polymerase and works best when started within 72 hours of an outbreak. It can be nephrotoxic, so hydration and monitoring of renal function are important. It reduces symptoms and transmission but is not a cure.",
+        "incorrect": [
+          "Antivirals suppress the virus but do not cure herpes; the virus remains latent.",
+          "Safe-sex practices should continue even without active lesions, since transmission can still occur.",
+          "Valacyclovir is an antiviral, not an antibacterial."
+        ]
+      }
+    },
+    {
+      "stem": "A client is started on ganciclovir for CMV infection. Which laboratory value is the priority to monitor?",
+      "options": [
+        "Complete blood count (CBC)",
+        "Serum sodium",
+        "Thyroid function tests",
+        "Fasting blood glucose"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Ganciclovir, first-line for CMV in transplant and advanced HIV patients, causes bone marrow suppression (neutropenia, anemia, thrombocytopenia). The CBC must be monitored frequently, and the client is at fall and bleeding risk. It is also teratogenic (pregnancy test before starting) and can be nephrotoxic and hepatotoxic.",
+        "incorrect": [
+          "Sodium is not the priority lab for ganciclovir.",
+          "Thyroid tests are not the monitoring priority for ganciclovir.",
+          "Blood glucose is not the key concern with ganciclovir."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about the pathophysiology of HIV. Which cells does the virus primarily target?",
+      "options": [
+        "Red blood cells",
+        "CD4+ T helper cells",
+        "Platelets",
+        "Osteocytes"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "HIV is a retrovirus that primarily targets CD4+ T helper cells, progressively dismantling adaptive immunity and reducing the body's ability to fight infections and certain cancers.",
+        "incorrect": [
+          "HIV does not target red blood cells.",
+          "HIV does not primarily infect platelets.",
+          "Osteocytes (bone cells) are not the target of HIV."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse explains why HIV is classified as a retrovirus. Which statement is correct?",
+      "options": [
+        "It uses reverse transcriptase to convert its RNA into DNA",
+        "It is made of DNA that directly enters the nucleus unchanged",
+        "It reproduces only outside of human cells",
+        "It cannot integrate into the host genome"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "HIV is a retrovirus because it carries RNA and uses the enzyme reverse transcriptase to convert its RNA into DNA inside the host cell. Integrase then inserts that DNA into the host genome, turning the cell into a viral factory.",
+        "incorrect": [
+          "HIV's genetic material is RNA, which must be reverse-transcribed into DNA; it is not DNA that enters unchanged.",
+          "HIV must be inside host CD4 cells to replicate.",
+          "HIV does integrate into the host genome via integrase, which is central to its life cycle."
+        ]
+      }
+    },
+    {
+      "stem": "A client with HIV has a CD4 count of 180 cells/mm³ and is diagnosed with Pneumocystis jirovecii pneumonia. The nurse recognizes this client now meets criteria for:",
+      "options": [
+        "Acute HIV seroconversion",
+        "AIDS",
+        "Complete recovery from HIV",
+        "A false-positive HIV test"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "AIDS is diagnosed when the CD4 count falls below 200 cells/mm³ OR an AIDS-defining opportunistic infection or cancer is present. This client meets both criteria (CD4 < 200 and an opportunistic infection).",
+        "incorrect": [
+          "Seroconversion is the early acute phase with flu-like symptoms, not advanced disease.",
+          "Meeting AIDS criteria is the opposite of recovery.",
+          "The clinical picture and low CD4 count confirm advanced disease, not a false-positive test."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse describes the CD4 count as the 'immune function vital sign' in HIV. What does a declining CD4 count indicate?",
+      "options": [
+        "Improving immune function",
+        "Worsening immune function and increasing risk of opportunistic infections and certain cancers",
+        "That the client no longer has HIV",
+        "A normal response to antiretroviral therapy"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The CD4 count is the most important indicator of immune function in HIV. As it declines, immune signaling weakens and the risk of opportunistic infections and certain cancers rises.",
+        "incorrect": [
+          "A falling CD4 count reflects worsening, not improving, immunity.",
+          "A low CD4 count does not mean the client is cured; it means immune decline.",
+          "Effective antiretroviral therapy should preserve or raise the CD4 count, not lower it."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a newly diagnosed client about antiretroviral therapy (ART) for HIV. Which statement is most accurate?",
+      "options": [
+        "A single drug is enough to fully control HIV",
+        "ART combines drugs that target different stages of the viral life cycle, and consistent adherence prevents resistance",
+        "ART cures HIV within a few weeks",
+        "Doses can be skipped once the viral load is low without any risk"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "ART combines medications that interrupt different steps of the HIV life cycle, reducing viral replication and preserving CD4 count. Consistent adherence is essential—missing doses lets the virus replicate, develop resistance, and be transmitted to others.",
+        "incorrect": [
+          "HIV is treated with a combination of drugs, not a single agent, to effectively suppress it.",
+          "ART controls HIV but does not cure it.",
+          "Skipping doses promotes resistance and viral replication, even when the viral load is low."
         ]
       }
     }
