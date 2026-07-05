@@ -1,0 +1,294 @@
+{
+  "topic": "upper-gi",
+  "label": "Upper GI",
+  "questions": [
+    {
+      "stem": "A client reports burning epigastric pain that occurs 2-3 hours after eating and is relieved by food or antacids. The nurse recognizes these findings as characteristic of which condition?",
+      "options": [
+        "Gastric ulcer",
+        "Duodenal ulcer",
+        "Gastroesophageal reflux disease",
+        "Acute gastritis"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Duodenal ulcer pain typically occurs 2-3 hours after eating and is relieved by food or antacids because food absorbs the acid that irritates the ulcerated duodenum.",
+        "incorrect": [
+          "Gastric ulcer pain is worsened by food and typically occurs within 15-30 minutes of eating due to acid secretion stimulated by food.",
+          "GERD presents with heartburn and regurgitation within 30-60 minutes of eating, often worsened by lying down.",
+          "Acute gastritis presents with upset stomach, burning pain, nausea/vomiting, and is often self-limited."
+        ]
+      }
+    },
+    {
+      "stem": "A client with peptic ulcer disease presents with black, tarry stools. The nurse documents this finding as which term?",
+      "options": [
+        "Hematochezia",
+        "Hematemesis",
+        "Melena",
+        "Occult bleeding"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Melena refers to black, tarry stools caused by digested blood from an upper GI bleed. The blood has been in the GI tract long enough to be broken down.",
+        "incorrect": [
+          "Hematochezia is bright red blood per rectum (BRBPR), indicating rapid bleeding that is too fast to be digested—characteristic of lower GI bleeds.",
+          "Hematemesis is vomiting blood, which can appear red (fresh) or coffee-ground (digested).",
+          "Occult bleeding is hidden blood not visible to the eye, detected only by stool testing."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client prescribed omeprazole for GERD. Which instruction should the nurse include?",
+      "options": [
+        "Take the medication as needed when heartburn occurs",
+        "Take the medication with food to reduce stomach upset",
+        "Take the medication on an empty stomach before meals",
+        "Expect immediate relief of symptoms after the first dose"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "PPIs like omeprazole should be taken on an empty stomach before meals for optimal absorption and effectiveness. They work by blocking the proton pump in parietal cells.",
+        "incorrect": [
+          "PPIs are NOT PRN medications—they must be taken consistently and take several days to achieve full effect.",
+          "PPIs should be taken on an empty stomach, not with food, for best absorption.",
+          "PPIs do not provide immediate relief; symptom improvement takes 2-3 days and the typical course is at least 2 weeks."
+        ]
+      }
+    },
+    {
+      "stem": "A client has been taking esomeprazole for 2 years. The nurse should monitor for which long-term complications? Select all that apply.",
+      "options": [
+        "Anemia due to impaired iron and B12 absorption",
+        "Increased risk of Clostridioides difficile infection",
+        "Osteoporotic fractures due to decreased calcium absorption",
+        "All of the above are correct"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "Long-term PPI use is associated with C. diff infection (stomach acid normally protects against pathogens), anemia (acid needed for iron and B12 absorption), and osteoporosis/hip fractures (calcium needs acidic environment for absorption).",
+        "incorrect": [
+          "This is correct but incomplete—all options listed are long-term PPI complications.",
+          "This is correct but incomplete—all options listed are long-term PPI complications.",
+          "This is correct but incomplete—all options listed are long-term PPI complications."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a gastric ulcer is prescribed sucralfate. Which statement by the client indicates correct understanding of the medication?",
+      "options": [
+        "I will take this medication with my antacid for better effect",
+        "I will take this medication one hour after meals",
+        "I will take this medication on an empty stomach before eating",
+        "I will take this medication at bedtime with a glass of milk"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Sucralfate should be taken on an empty stomach before eating. It needs an acidic environment to work—it forms a protective paste that coats the ulcer like a bandage.",
+        "incorrect": [
+          "Sucralfate should NOT be taken with antacids. Antacids raise pH, but sucralfate needs acid to activate and form its protective barrier.",
+          "Taking after meals is incorrect—sucralfate must be taken before eating on an empty stomach.",
+          "Milk would neutralize stomach acid, reducing sucralfate's effectiveness. It should be taken before meals, not at bedtime with milk."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client taking long-term NSAIDs for rheumatoid arthritis. Which medication would the nurse expect to be prescribed for ulcer prophylaxis?",
+      "options": [
+        "Sucralfate",
+        "Misoprostol",
+        "Aluminum hydroxide",
+        "Cimetidine"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Misoprostol is a prostaglandin analogue specifically approved for preventing NSAID-induced ulcers. It suppresses acid secretion while increasing protective mucus in the GI tract.",
+        "incorrect": [
+          "Sucralfate treats existing ulcers by coating them but is not the first-line prophylaxis for NSAID-induced ulcers.",
+          "Aluminum hydroxide is an antacid for short-term symptom relief, not ulcer prophylaxis.",
+          "H2 blockers like cimetidine may be used but misoprostol is specifically indicated for NSAID-related ulcer prevention."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing medications with a female client of childbearing age who has been prescribed misoprostol. Which statement is most important for the nurse to make?",
+      "options": [
+        "This medication may cause diarrhea as a side effect",
+        "Take this medication with food to reduce stomach upset",
+        "You must use reliable contraception while taking this medication",
+        "Report any signs of constipation to your provider"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Misoprostol is absolutely contraindicated in pregnancy—it stimulates uterine contractions and can cause abortion, miscarriage, fetal defects, and bleeding. Women of childbearing age must use reliable contraception.",
+        "incorrect": [
+          "While diarrhea can occur, the pregnancy contraindication is the priority safety concern.",
+          "This is general advice but not the most critical teaching point for this high-risk medication.",
+          "Misoprostol is more likely to cause diarrhea, not constipation, but this is not the priority concern."
+        ]
+      }
+    },
+    {
+      "stem": "An older adult client reports daily use of aluminum hydroxide for GERD symptoms. The nurse should assess the client for which condition?",
+      "options": [
+        "Diarrhea",
+        "Constipation",
+        "Hyperphosphatemia",
+        "Hypomagnesemia"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Aluminum-containing antacids cause constipation. The memory aid is 'Aluminum = constipation' while 'Magnesium = diarrhea.'",
+        "incorrect": [
+          "Diarrhea is associated with magnesium-containing antacids, not aluminum.",
+          "Aluminum causes hypophosphatemia (aluminum binds to phosphate, preventing absorption), not hyperphosphatemia.",
+          "Hypomagnesemia is not a typical concern with aluminum hydroxide."
+        ]
+      }
+    },
+    {
+      "stem": "A client with H. pylori infection is prescribed quadruple therapy. Which combination of medications should the nurse expect?",
+      "options": [
+        "Omeprazole, amoxicillin, clarithromycin, metronidazole",
+        "Bismuth subsalicylate, tetracycline, metronidazole, and a PPI",
+        "Famotidine, ampicillin, ciprofloxacin, and bismuth",
+        "Sucralfate, vancomycin, metronidazole, and a PPI"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "H. pylori quadruple therapy consists of bismuth subsalicylate (coats stomach, antimicrobial effect), tetracycline (antibiotic), metronidazole (antibiotic), and a proton pump inhibitor.",
+        "incorrect": [
+          "This is a triple therapy regimen, not quadruple therapy.",
+          "This combination is not the standard quadruple therapy regimen.",
+          "Sucralfate and vancomycin are not part of H. pylori treatment protocols."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking bismuth subsalicylate for H. pylori treatment calls the clinic concerned about black discoloration of the tongue and stool. What is the nurse's best response?",
+      "options": [
+        "Stop the medication immediately and come to the clinic",
+        "This is a sign of GI bleeding; go to the emergency department",
+        "This is a harmless and expected effect of the medication",
+        "Reduce the dose by half and monitor for improvement"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Black tongue and black stools are harmless, expected side effects of bismuth subsalicylate. The client should continue the medication as prescribed.",
+        "incorrect": [
+          "There is no need to stop the medication—these are expected effects.",
+          "This is not GI bleeding; true melena has a tarry consistency and distinct odor. Bismuth simply causes harmless discoloration.",
+          "Dose adjustment is not needed for this expected side effect."
+        ]
+      }
+    },
+    {
+      "stem": "A client with peptic ulcer disease suddenly develops severe, sharp epigastric pain with a rigid, board-like abdomen. What complication should the nurse suspect?",
+      "options": [
+        "Gastric outlet obstruction",
+        "Upper GI hemorrhage",
+        "Perforation with peritonitis",
+        "Acute pancreatitis"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Sudden severe pain with rigid, board-like abdomen indicates perforation—the ulcer has eroded through the stomach/duodenal wall, leaking contents into the peritoneal cavity causing peritonitis. This is a surgical emergency.",
+        "incorrect": [
+          "Gastric outlet obstruction presents with abdominal distention and vomiting of gastric contents, not a rigid abdomen.",
+          "GI hemorrhage presents with hematemesis, melena, or signs of hypovolemia—not a rigid abdomen.",
+          "While pancreatitis causes severe pain, it does not typically cause the board-like rigidity seen with peritonitis from perforation."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed famotidine and warfarin. Which nursing action is most appropriate?",
+      "options": [
+        "Administer the medications together without concern",
+        "Monitor for increased anticoagulant effects",
+        "Hold the famotidine until warfarin is discontinued",
+        "Administer the medications 4 hours apart"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "H2 blockers like famotidine inhibit hepatic drug metabolism, which can enhance the effects of medications metabolized by the liver including warfarin, phenytoin, and benzodiazepines. Monitor for signs of bleeding.",
+        "incorrect": [
+          "These medications interact and require monitoring—they should not be given without concern.",
+          "There is no need to hold famotidine, but the interaction must be monitored.",
+          "Timing separation does not prevent this interaction since it involves hepatic metabolism, not absorption."
+        ]
+      }
+    },
+    {
+      "stem": "An older adult client taking cimetidine reports confusion and seems disoriented. The nurse recognizes this as which type of adverse effect?",
+      "options": [
+        "Allergic reaction",
+        "Anticholinergic effect",
+        "Serotonin syndrome",
+        "Drug toxicity from overdose"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Cimetidine can cause anticholinergic effects including confusion and delirium, especially in older adults. Famotidine has fewer of these side effects and is often preferred in elderly patients.",
+        "incorrect": [
+          "Confusion is not typically a sign of allergic reaction, which would present with rash, itching, or anaphylaxis.",
+          "Serotonin syndrome presents with hyperthermia, agitation, tremor, and hyperreflexia—not isolated confusion.",
+          "This is a known side effect at therapeutic doses, not necessarily overdose."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic GERD asks why the provider is concerned about their condition. Which response by the nurse is most accurate?",
+      "options": [
+        "GERD can lead to stomach cancer if untreated",
+        "Chronic acid exposure can cause Barrett's esophagus, which increases esophageal cancer risk",
+        "GERD always progresses to peptic ulcer disease",
+        "The acid will eventually erode through the esophageal wall"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Chronic GERD can lead to Barrett's esophagus—a precancerous condition where esophageal cells transform to resemble intestinal cells (metaplasia). This significantly increases the risk of esophageal cancer, which has only a 20% five-year survival rate.",
+        "incorrect": [
+          "GERD affects the esophagus and increases esophageal cancer risk, not stomach cancer.",
+          "GERD and PUD are different conditions with different pathophysiology—GERD does not always progress to PUD.",
+          "Erosion through the esophageal wall is not a typical progression of GERD."
+        ]
+      }
+    },
+    {
+      "stem": "A patient with severe burn injuries is receiving esomeprazole. The nurse explains that this medication is prescribed for which purpose?",
+      "options": [
+        "To stimulate intestinal movement for nutrition",
+        "To treat infection caused by the burns",
+        "To prevent stress ulcers resulting from physiologic stress",
+        "To help absorb other prescribed medications"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Patients with severe physiologic stress (major trauma, burns, shock, sepsis) are at high risk for stress ulcers. PPIs or H2 blockers are given prophylactically to prevent stress ulcer formation.",
+        "incorrect": [
+          "PPIs do not stimulate intestinal motility.",
+          "PPIs are not antibiotics and do not treat infection.",
+          "PPIs actually can impair absorption of certain nutrients and medications."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks why they need to avoid NSAIDs after being diagnosed with gastritis. Which explanation by the nurse is correct?",
+      "options": [
+        "NSAIDs increase acid production in the stomach",
+        "NSAIDs block prostaglandins needed for the protective mucus layer",
+        "NSAIDs directly irritate the esophagus",
+        "NSAIDs slow gastric emptying"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "NSAIDs block COX-1, which inhibits prostaglandin synthesis. Prostaglandins are needed for secretion of protective mucus, bicarbonate, and maintaining blood supply to the mucosal layer. Without these protections, the stomach lining is vulnerable to acid damage.",
+        "incorrect": [
+          "NSAIDs don't directly increase acid production—they reduce protective factors.",
+          "NSAIDs primarily affect the stomach lining, not the esophagus.",
+          "NSAIDs do not affect gastric emptying in a clinically significant way related to ulcer formation."
+        ]
+      }
+    }
+  ]
+}
