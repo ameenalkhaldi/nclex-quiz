@@ -3,6 +3,230 @@
   "label": "Migraine · Insomnia · Seizures",
   "questions": [
     {
+      "stem": "A nurse in a clinic must decide which client to assess first. Which client is the priority?",
+      "options": [
+        "A client with a sudden 'worst headache of my life' that peaked within seconds, with neck stiffness and vomiting",
+        "A client with a unilateral throbbing migraine with aura requesting their usual triptan",
+        "A client with a tension-type headache described as a tight band across the head",
+        "A client with a chronic daily headache from overusing OTC analgesics"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A sudden 'worst headache of my life' that peaks within seconds (thunderclap) with neck stiffness and vomiting suggests subarachnoid hemorrhage—a life-threatening emergency. This client is seen first.",
+        "incorrect": [
+          "A typical migraine with aura is not emergent and can be treated with the usual triptan.",
+          "A tension-type 'tight band' headache is benign and not urgent.",
+          "A medication-overuse headache is chronic and not an emergency."
+        ]
+      }
+    },
+    {
+      "stem": "A provider prescribes sumatriptan for a client with an acute migraine. Which finding requires the nurse to hold the drug and notify the provider?",
+      "options": [
+        "The client took acetaminophen 6 hours ago",
+        "The client reports photophobia and nausea",
+        "A history of coronary artery disease and stable angina",
+        "A history of seasonal allergies"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Triptans cause vasoconstriction (including of coronary arteries), so they are contraindicated in coronary artery disease and other ischemic conditions because of the risk of angina, myocardial infarction, or vasospasm. The nurse should hold the drug and notify the provider.",
+        "incorrect": [
+          "Recent acetaminophen use does not contraindicate a triptan.",
+          "Photophobia and nausea are typical migraine symptoms, not a reason to withhold the triptan.",
+          "Seasonal allergies are unrelated to triptan safety."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking an SSRI is given sumatriptan and develops agitation, diaphoresis, tremor, hyperreflexia, and a temperature of 101°F (38.3°C). The nurse recognizes this as:",
+      "options": [
+        "An expected migraine aura",
+        "Serotonin syndrome",
+        "A simple partial seizure",
+        "Medication-overuse headache"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The combination of an SSRI and a triptan (both increase serotonin) can cause serotonin syndrome: agitation, diaphoresis, tremor, hyperreflexia, and hyperthermia. It is a medical emergency.",
+        "incorrect": [
+          "A migraine aura is a transient sensory change (such as visual scintillations), not fever with hyperreflexia.",
+          "A simple partial seizure involves focal motor or sensory activity, not this autonomic and neuromuscular picture.",
+          "Medication-overuse headache is a chronic daily headache, not an acute hyperthermic syndrome."
+        ]
+      }
+    },
+    {
+      "stem": "A client has been seizing continuously for 6 minutes. Which is the nurse's priority action?",
+      "options": [
+        "Ensure a patent airway and give oxygen while preparing IV lorazepam",
+        "Draw laboratory samples and wait for the results before acting",
+        "Give an oral dose of the client's home antiseizure medication",
+        "Withhold treatment until the seizure stops on its own"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In status epilepticus the priority is airway, breathing, and circulation—maintain a patent airway and give oxygen—while preparing IV lorazepam, the first-line drug to stop the seizure.",
+        "incorrect": [
+          "Waiting for labs delays life-saving treatment; the seizure must be stopped promptly.",
+          "The client cannot safely swallow oral medication during a seizure.",
+          "Prolonged seizures (longer than 5 minutes) will not reliably stop on their own and cause brain injury, so treatment cannot be withheld."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse has orders for IV phenytoin. Which action should the nurse question?",
+      "options": [
+        "Infuse no faster than 50 mg/min",
+        "Use an in-line filter and flush with normal saline",
+        "Monitor the ECG and blood pressure during the infusion",
+        "Mix the phenytoin in dextrose 5% in water (D5W) for infusion"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "Phenytoin precipitates in dextrose solutions, so it must be mixed and flushed with normal saline, never D5W. The nurse should question this order.",
+        "incorrect": [
+          "Infusing no faster than 50 mg/min is correct; rapid infusion causes hypotension and dysrhythmias.",
+          "Using an in-line filter and flushing with normal saline is correct technique.",
+          "Monitoring the ECG and blood pressure during the infusion is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking carbamazepine reports a sore throat, fever, fatigue, and easy bruising. What is the nurse's priority action?",
+      "options": [
+        "Reassure the client these are expected side effects",
+        "Notify the provider and obtain a CBC to check for bone marrow suppression",
+        "Encourage increased fluids and rest at home",
+        "Administer the next dose early to reach a therapeutic level"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Carbamazepine can cause bone marrow suppression (agranulocytosis, aplastic anemia). Sore throat, fever, fatigue, and easy bruising suggest low blood counts, so the nurse should notify the provider and obtain a CBC.",
+        "incorrect": [
+          "These are warning signs of a serious blood dyscrasia, not expected side effects to reassure away.",
+          "Home rest and fluids ignore a potentially life-threatening drop in blood counts.",
+          "Giving an early dose does not address the possible bone marrow suppression and could be harmful."
+        ]
+      }
+    },
+    {
+      "stem": "A woman of childbearing age with epilepsy is prescribed valproic acid. Which teaching is most important?",
+      "options": [
+        "Use reliable contraception, because valproic acid causes serious birth defects such as neural tube defects",
+        "Take the medication only when you feel an aura",
+        "Expect your urine to turn reddish-brown",
+        "Stop the medication if you miss a single dose"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Valproic acid is a known teratogen that causes serious birth defects, including neural tube defects, so women of childbearing age need reliable contraception and preconception counseling.",
+        "incorrect": [
+          "Antiseizure drugs are taken on a fixed schedule for prevention, not only when an aura occurs.",
+          "Valproic acid does not turn the urine reddish-brown.",
+          "A single missed dose is not a reason to stop the drug; abrupt discontinuation can trigger seizures."
+        ]
+      }
+    },
+    {
+      "stem": "A young woman taking phenytoin for epilepsy tells the nurse she uses oral contraceptives for birth control. Which response is most appropriate?",
+      "options": [
+        "Oral contraceptives will make your phenytoin more effective.",
+        "You should stop the phenytoin while taking contraceptives.",
+        "Phenytoin can reduce the effectiveness of oral contraceptives; discuss an additional or alternative method with your provider.",
+        "There is no interaction between these medications."
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Phenytoin induces hepatic enzymes that speed the metabolism of oral contraceptives, reducing their effectiveness and risking unintended pregnancy. The client should use an additional or alternative method after discussing it with the provider.",
+        "incorrect": [
+          "Oral contraceptives do not enhance phenytoin's effect; phenytoin reduces the contraceptive's effect.",
+          "Stopping phenytoin risks seizures and is not the appropriate solution.",
+          "There is a clinically important interaction; saying there is none is inaccurate."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking temazepam for insomnia is newly prescribed an opioid for pain. Which assessment is the priority?",
+      "options": [
+        "Bowel sounds",
+        "Skin turgor",
+        "Deep tendon reflexes",
+        "Respiratory rate and level of sedation"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "Benzodiazepines and opioids both depress the central nervous system, so together they can cause profound sedation and respiratory depression. Monitoring respiratory rate and sedation level is the priority.",
+        "incorrect": [
+          "Bowel sounds are not the priority with this combination's main risk.",
+          "Skin turgor is unrelated to the additive CNS depression.",
+          "Deep tendon reflexes are not the priority assessment here."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about zolpidem. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "I will take it right before I get into bed.",
+        "I will take it only when I can devote a full 7-8 hours to sleep.",
+        "I can have a glass of wine with it to help me relax.",
+        "I know it may cause sleepwalking or sleep-driving that I do not remember."
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Alcohol potentiates zolpidem's CNS depression and increases the risk of complex sleep behaviors and oversedation. Planning to drink wine with it shows a need for further teaching.",
+        "incorrect": [
+          "Correct—zolpidem should be taken immediately before getting into bed because it acts quickly.",
+          "Correct—it should be taken only when a full 7-8 hours of sleep is possible.",
+          "Correct—zolpidem can cause sleepwalking, sleep-driving, and other complex behaviors the client may not remember."
+        ]
+      }
+    },
+    {
+      "stem": "A client is brought to the emergency department with profound sedation and respiratory depression after a benzodiazepine overdose. Which antidote does the nurse anticipate, and what is a key concern?",
+      "options": [
+        "Naloxone; it reverses benzodiazepine binding",
+        "Activated charcoal; it is the definitive reversal agent",
+        "Flumazenil; it can precipitate seizures in benzodiazepine-dependent clients",
+        "Protamine sulfate; it reverses CNS depression"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Flumazenil is the benzodiazepine reversal agent, but it can precipitate acute withdrawal and seizures in clients who are physically dependent on benzodiazepines, so it is used cautiously with close monitoring.",
+        "incorrect": [
+          "Naloxone reverses opioids, not benzodiazepines.",
+          "Activated charcoal may limit absorption but is not a reversal agent.",
+          "Protamine sulfate reverses heparin, not CNS depression."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client during a tonic-clonic seizure. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Turn the client onto their side",
+        "Ease the client to the floor and protect the head",
+        "Insert a padded tongue blade into the mouth",
+        "Loosen restrictive clothing",
+        "Restrain the client's arms and legs"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "During a tonic-clonic seizure, protect the client from injury: ease them to the floor, protect the head, turn them on their side to maintain the airway and prevent aspiration, and loosen restrictive clothing. Never force objects into the mouth or restrain the limbs.",
+        "incorrect": [
+          "Correct—side-lying position keeps the airway clear and prevents aspiration.",
+          "Correct—easing the client to the floor and protecting the head prevents injury.",
+          "Incorrect—never insert anything into the mouth; it can break teeth, obstruct the airway, or injure the client.",
+          "Correct—loosening restrictive clothing supports breathing.",
+          "Incorrect—restraining the limbs can cause musculoskeletal injury; guide the movements instead."
+        ]
+      }
+    },
+    {
       "stem": "A client is prescribed phenytoin for seizure management. Which instruction should the nurse include in discharge teaching?",
       "options": [
         "Stop taking the medication when seizures are controlled for 6 months",
