@@ -637,7 +637,7 @@ function shuffle(array) {
 }
 
 function sessionLabel() {
-  if (state.topic === "all") return state.shuffled ? "Shuffled · All Topics" : "All Topics";
+  if (state.topic === "all") return "All Topics";
   return TOPIC_LABELS[state.topic];
 }
 
@@ -690,14 +690,9 @@ function renderStart() {
       <p class="sub">${total} questions with full rationales, across ${Object.keys(QUESTIONS).length} topics.</p>
     </div>
 
-    <span class="caps list-label">Practice everything</span>
-    <button class="topic-row" onclick="startSession('all')">
-      <span class="topic-name">All questions, in order</span>
-      <span class="topic-meta">${total} questions <span class="arrow">&rarr;</span></span>
-    </button>
     <button class="topic-row" onclick="startSession('all', true)">
-      <span class="topic-name">Shuffle everything</span>
-      <span class="topic-meta">${total} questions <span class="arrow">&rarr;</span></span>
+      <span class="topic-name">All questions</span>
+      <span class="topic-meta">${total} · shuffled <span class="arrow">&rarr;</span></span>
     </button>
 
     <span class="caps list-label">By topic</span>
