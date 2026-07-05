@@ -16,6 +16,7 @@
         "incorrect": [
           "Clear liquid diet the day before is correct preparation.",
           "Stopping aspirin to reduce bleeding risk is appropriate.",
+          "Sedation is used during colonoscopy, so the client cannot drive afterward. This statement shows misunderstanding and requires clarification.",
           "Completing bowel prep is essential for adequate visualization."
         ]
       }
@@ -33,8 +34,1018 @@
         "correct": "A beefy red, edematous stoma is normal postoperatively due to surgical manipulation. It will shrink over 6-8 weeks.",
         "incorrect": [
           "A necrotic stoma would appear dusky, blue, or black—not red.",
+          "A beefy red, edematous stoma is normal postoperatively due to surgical manipulation. It will shrink over 6-8 weeks.",
           "Allergic reaction would show on the peristomal skin, not the stoma itself.",
           "There are no signs of obstruction described in this scenario."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is explaining the underlying cause of acute pancreatitis to a nursing student. Which statement best describes the primary mechanism of tissue injury?",
+      "options": [
+        "An autoimmune reaction destroys the insulin-producing beta cells",
+        "Digestive enzymes are activated early within the pancreas, causing autodigestion",
+        "Bacteria from the intestine directly invade and infect the pancreas",
+        "Chronically high blood glucose scars the pancreatic tissue"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In pancreatitis, digestive enzymes (normally activated in the duodenum) are activated early while still in the pancreas, so the organ digests itself—leading to inflammation, edema, and necrosis.",
+        "incorrect": [
+          "This describes type 1 diabetes, not pancreatitis. Pancreatitis is an enzyme autodigestion problem.",
+          "Infection can be a complication but is not the primary mechanism; the core problem is inappropriate early enzyme activation.",
+          "Hyperglycemia is a result of pancreatic dysfunction, not the cause of the inflammation."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is reviewing risk factors with a client admitted for acute pancreatitis. Which two factors are the most common causes?",
+      "options": [
+        "Hypertension and diabetes",
+        "Chronic alcohol use and gallstones",
+        "High-fiber diet and obesity",
+        "Smoking and caffeine intake"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Chronic alcohol use disorder and gallstones (cholelithiasis) are the two most common causes. Alcohol irritates acinar cells, and a stone in the common bile duct causes enzymes to back up into the pancreas.",
+        "incorrect": [
+          "Hypertension and diabetes are not the leading causes of acute pancreatitis.",
+          "A high-fiber diet is not a cause; obesity is a gallstone risk factor but not a leading direct cause of pancreatitis.",
+          "Smoking and caffeine are not the primary causes of acute pancreatitis."
+        ]
+      }
+    },
+    {
+      "stem": "A client presents with sudden, severe epigastric pain after a large meal. Which pain characteristic would most specifically suggest acute pancreatitis rather than a gallbladder attack?",
+      "options": [
+        "Pain that is relieved by eating",
+        "Pain that radiates to the back and left shoulder",
+        "Pain localized only to the right lower quadrant",
+        "Pain that improves when lying flat"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Acute pancreatitis pain is classically severe, constant epigastric pain that radiates to the back and left shoulder. Gallbladder pain is typically right upper quadrant, often radiating to the right shoulder.",
+        "incorrect": [
+          "Pancreatitis pain is not relieved by eating; food stimulates the pancreas and worsens it.",
+          "Pancreatitis pain is epigastric radiating to the back, not isolated to the right lower quadrant.",
+          "Lying flat worsens pancreatitis pain because the pancreas is retroperitoneal; sitting up relieves it."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews laboratory results for a client with suspected acute pancreatitis. Which lab value is the most significant indicator of this condition?",
+      "options": [
+        "Elevated serum lipase",
+        "Elevated serum potassium",
+        "Decreased white blood cell count",
+        "Elevated serum albumin"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Serum lipase is the most specific and significant indicator of acute pancreatitis; amylase also rises. These enzymes leak into the blood when the pancreas is injured.",
+        "incorrect": [
+          "Potassium is not the key marker for pancreatitis.",
+          "WBC count typically rises (not falls) with the inflammation of pancreatitis.",
+          "Albumin is not the diagnostic marker; it may fall with third spacing but is not specific."
+        ]
+      }
+    },
+    {
+      "stem": "A client with acute pancreatitis has a serum calcium of 7.2 mg/dL. The nurse understands this hypocalcemia occurs because:",
+      "options": [
+        "The kidneys are excreting excess calcium",
+        "Calcium binds to fats undergoing digestion in the pancreas, forming calcium salts",
+        "The parathyroid gland has been surgically removed",
+        "Calcium is being stored in the bones at an increased rate"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In fat necrosis, calcium (and magnesium) binds to the fatty acids released by pancreatic enzyme digestion, forming calcium soaps. This pulls calcium out of the serum, lowering the level.",
+        "incorrect": [
+          "Renal excretion is not the mechanism of hypocalcemia in pancreatitis.",
+          "There is no parathyroidectomy in this scenario; the cause is fat necrosis.",
+          "Increased bone storage is not the mechanism; calcium is being consumed by fat necrosis."
+        ]
+      }
+    },
+    {
+      "stem": "A client with severe acute pancreatitis suddenly develops dyspnea, restlessness, and a falling oxygen saturation. The nurse recognizes this may indicate which serious complication?",
+      "options": [
+        "Acute respiratory distress syndrome (ARDS)",
+        "Gastroesophageal reflux disease",
+        "Iron-deficiency anemia",
+        "Hypothyroidism"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Severe pancreatitis releases inflammatory mediators causing widespread vascular permeability and third spacing. Fluid leaks into the lungs, producing pulmonary edema and ARDS—a life-threatening complication requiring ventilatory support.",
+        "incorrect": [
+          "GERD does not explain acute hypoxia and respiratory distress in this setting.",
+          "Anemia does not cause this acute respiratory picture.",
+          "Hypothyroidism is unrelated to the acute respiratory failure of severe pancreatitis."
+        ]
+      }
+    },
+    {
+      "stem": "Which set of interventions is the priority in the initial management of acute pancreatitis?",
+      "options": [
+        "Encourage a high-fat diet and ambulation",
+        "Maintain NPO status, insert an NG tube for suction, and provide IV fluids",
+        "Administer oral pancreatic enzymes with every meal",
+        "Give the client a large meal to buffer stomach acid"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The goal is bowel rest to reduce pancreatic stimulation: keep the client NPO, use NG suction to reduce gastric distention and vomiting, provide IV fluids, and control pain. Antibiotics are started early.",
+        "incorrect": [
+          "A high-fat diet stimulates the pancreas and worsens the condition.",
+          "Oral pancreatic enzymes are used in chronic pancreatitis, not acute management.",
+          "Feeding stimulates enzyme secretion and worsens acute pancreatitis; the client is kept NPO."
+        ]
+      }
+    },
+    {
+      "stem": "A client recovering from acute pancreatitis is transitioning off NPO status. Which diet should the nurse expect to be prescribed?",
+      "options": [
+        "High fat, low protein, low carbohydrate",
+        "High carbohydrate, high protein, low fat",
+        "High fat, high protein, high fiber",
+        "Clear liquids only, indefinitely"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The recommended diet is high carbohydrate, high protein, and low fat. The goal is to minimize fat exposure, which limits pancreatic stimulation—especially important when the gallbladder is involved.",
+        "incorrect": [
+          "A high-fat diet stimulates the pancreas and is avoided.",
+          "High fat is contraindicated because it stimulates pancreatic enzyme release.",
+          "Clear liquids are used briefly during transition, not as the long-term recovery diet."
+        ]
+      }
+    },
+    {
+      "stem": "A client with acute pancreatitis is most comfortable in which position?",
+      "options": [
+        "Lying flat and supine",
+        "Sitting up and leaning slightly forward",
+        "Prone with the legs extended",
+        "Trendelenburg position"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Because the pancreas lies retroperitoneally behind the stomach, sitting up and leaning forward reduces pressure on the organ and eases pain.",
+        "incorrect": [
+          "Lying flat increases pressure on the retroperitoneal pancreas and worsens pain.",
+          "A prone position is not the recommended comfort position for pancreatitis.",
+          "Trendelenburg (head down) does not relieve pancreatic pain and can worsen respiratory effort."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a long history of chronic pancreatitis reports greasy, foul-smelling stools that float. The nurse recognizes this steatorrhea results from:",
+      "options": [
+        "Excess bile production by the liver",
+        "Loss of pancreatic enzyme production, causing malabsorption of fats",
+        "Increased insulin secretion",
+        "An allergy to gluten"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In chronic pancreatitis, fibrosis destroys acinar cells so the pancreas cannot make enough lipase. Fats are not broken down or absorbed and pass into the stool, producing steatorrhea (fatty, floating, foul stools).",
+        "incorrect": [
+          "The problem is too few digestive enzymes, not excess bile.",
+          "Chronic pancreatitis leads to decreased, not increased, insulin—and that affects glucose, not stool fat.",
+          "Gluten intolerance (celiac) is a different disorder; here the cause is pancreatic enzyme deficiency."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic pancreatitis has developed diabetes mellitus. The nurse understands this occurs because:",
+      "options": [
+        "The client has developed insulin resistance from obesity",
+        "Fibrosis has destroyed the insulin-producing beta cells of the pancreas",
+        "The liver is producing too much glucagon",
+        "The client is consuming too much dietary sugar"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Progressive fibrosis in chronic pancreatitis destroys the islet cells, so the pancreas can no longer produce insulin. This is type 3c diabetes, and the client is treated with insulin.",
+        "incorrect": [
+          "This is not classic type 2 insulin resistance; the pancreas itself is destroyed.",
+          "Excess glucagon is not the mechanism; the problem is loss of insulin production.",
+          "Dietary sugar does not cause this diabetes; it results from destruction of insulin-producing cells."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic pancreatitis is prescribed pancrelipase (Creon) capsules. Which instruction should the nurse include in the teaching plan?",
+      "options": [
+        "Take the enzymes 1 hour after finishing your meal",
+        "Crush the beads and mix them into a bowl of hot oatmeal",
+        "You should notice a decrease in the fat content of your stools",
+        "Skip the dose whenever you eat a high-fat meal"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "A key sign the drug is working is improvement of steatorrhea—stools become brown, formed, and less oily. Effectiveness is monitored by stool appearance, weight gain, and energy.",
+        "incorrect": [
+          "Pancrelipase must be taken WITH each meal and snack so the enzymes are present to digest food, not an hour later.",
+          "The beads must not be crushed; the enteric coating protects the enzymes from stomach acid. They also should not be mixed into hot food, which can destroy the enzymes.",
+          "A key sign the drug is working is improvement of steatorrhea—stools become brown, formed, and less oily. Effectiveness is monitored by stool appearance, weight gain, and energy.",
+          "The dose should never be skipped with a high-fat meal; that is when the enzymes are needed most to digest the fat."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is administering pancrelipase to a client who receives nutrition through a feeding tube. Which technique is correct?",
+      "options": [
+        "Dissolve the enzymes in hot water before administering",
+        "Open the capsule, mix the beads with a small amount of applesauce, and flush before and after",
+        "Crush the beads finely and mix with milk",
+        "Withhold the enzymes because they cannot be given by tube"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "For tube administration, open the capsule and mix the beads with an acidic food such as applesauce, then flush the tube before and after. There is no liquid form, and the acidic vehicle helps begin activation.",
+        "incorrect": [
+          "Hot water can destroy the enzymes; they are not dissolved in hot liquid.",
+          "The beads should not be crushed, and milk (alkaline) is not the appropriate vehicle; an acidic food is used.",
+          "Pancrelipase can be given by tube using the bead-in-applesauce technique; it should not be withheld."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking pancrelipase reports variations in blood sugar since starting the medication. What is the nurse's best explanation?",
+      "options": [
+        "The enzymes contain hidden sugar that raises glucose",
+        "Improved absorption of carbohydrates can shift blood glucose until levels stabilize",
+        "The medication directly stimulates insulin release",
+        "This indicates an allergic reaction and the drug should be stopped"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Before treatment, carbohydrate absorption was impaired. As the enzymes restore digestion and absorption of carbs, blood glucose can fluctuate until the body readjusts. Dysglycemia is a known effect.",
+        "incorrect": [
+          "Pancrelipase does not contain sugar; the change relates to improved nutrient absorption.",
+          "The enzymes do not stimulate insulin secretion; the glucose change is from improved carbohydrate absorption.",
+          "Blood sugar fluctuation is an expected metabolic effect, not an allergic reaction requiring discontinuation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a group about how viral hepatitis damages the liver. Which statement is most accurate?",
+      "options": [
+        "The virus directly dissolves the liver cells with its enzymes",
+        "The body's own immune response attacks the infected liver cells, causing inflammation",
+        "The virus blocks blood flow to the liver, causing ischemia",
+        "The virus converts liver cells into fat cells"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Hepatitis viruses attach viral antigens to liver cells. It is the body's immune system attacking those marked cells that produces the inflammation and injury—not the virus itself.",
+        "incorrect": [
+          "The virus does not dissolve hepatocytes directly.",
+          "Hepatitis is not primarily an ischemic (blood-flow) process.",
+          "The virus does not transform hepatocytes into fat cells; injury is immune-mediated inflammation."
+        ]
+      }
+    },
+    {
+      "stem": "A client in the icteric phase of acute hepatitis would be expected to have which clinical findings?",
+      "options": [
+        "Dark tea-colored urine, clay-colored stools, and jaundice",
+        "Bright red bloody stools and low blood pressure",
+        "Pale skin and increased appetite",
+        "Clear urine and dark black stools"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In the icteric (jaundice) phase, inflammation impairs bilirubin metabolism. Bilirubin backs up into the blood, producing jaundice, dark tea-colored urine, and clay-colored (pale) stools.",
+        "incorrect": [
+          "Bloody stools and hypotension describe GI bleeding, not the icteric phase of hepatitis.",
+          "Appetite is typically decreased, and the skin becomes jaundiced (yellow), not pale, in this phase.",
+          "Urine becomes dark (not clear) and stools become clay-colored (not black) in the icteric phase."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about hepatitis transmission. Which types are spread by the fecal-oral route?",
+      "options": [
+        "Hepatitis B and C",
+        "Hepatitis A and E",
+        "Hepatitis C and D",
+        "Hepatitis B and D"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Hepatitis A and E are transmitted by the fecal-oral route (the two vowels). A memory aid: 'vowels come from the bowels.' They are associated with contaminated food and water.",
+        "incorrect": [
+          "Hepatitis B and C are bloodborne, not fecal-oral.",
+          "Hepatitis C and D are bloodborne, not fecal-oral.",
+          "Hepatitis B and D are bloodborne (D requires B), not fecal-oral."
+        ]
+      }
+    },
+    {
+      "stem": "Which statement about hepatitis A is correct?",
+      "options": [
+        "It commonly progresses to a chronic carrier state",
+        "It is generally self-limited and does not cause chronic infection in healthy adults",
+        "There is no vaccine available for it",
+        "It is primarily transmitted through shared needles"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Hepatitis A is generally self-limited; the immune system clears it like a common cold, and it does not lead to chronic infection in healthy adults. A vaccine exists.",
+        "incorrect": [
+          "Hepatitis A does not cause a chronic carrier state.",
+          "A vaccine for hepatitis A is available and prevents acquisition and severity.",
+          "Hepatitis A spreads by the fecal-oral route (poor hand hygiene, contaminated food/water), not shared needles."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with a history of resolved hepatitis B who is about to begin chemotherapy. Which concern is most important?",
+      "options": [
+        "The client will develop hepatitis A from the chemotherapy",
+        "Immunosuppression can cause reactivation of the hepatitis B virus",
+        "The chemotherapy will cure the hepatitis B permanently",
+        "The client can no longer transmit any bloodborne illness"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A person who has not 100% cleared hepatitis B can be a chronic carrier whose immune system keeps the virus suppressed. Immunosuppressive therapy (like chemotherapy) can allow the virus to reactivate, causing liver damage in an already vulnerable patient.",
+        "incorrect": [
+          "Chemotherapy does not cause hepatitis A infection.",
+          "Chemotherapy does not cure hepatitis B; it can actually reactivate it.",
+          "Reactivated hepatitis B can be transmissible, so this statement is false."
+        ]
+      }
+    },
+    {
+      "stem": "Which type of viral hepatitis has no available vaccine and is most likely to progress to chronic infection, cirrhosis, and liver cancer?",
+      "options": [
+        "Hepatitis A",
+        "Hepatitis C",
+        "Hepatitis E",
+        "Hepatitis D"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Hepatitis C has no vaccine and progresses to chronic infection in roughly 50-80% of cases, making it the leading viral cause of cirrhosis, liver failure, and hepatocellular carcinoma. It requires antiviral treatment because the immune system alone will not clear it.",
+        "incorrect": [
+          "Hepatitis A has a vaccine and does not become chronic.",
+          "Hepatitis E is usually self-limited and does not lead to chronic disease in healthy adults.",
+          "Hepatitis D requires coinfection with hepatitis B; preventing B (which has a vaccine) prevents D."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks why hepatitis D cannot occur on its own. Which response by the nurse is correct?",
+      "options": [
+        "Hepatitis D only affects people who have had hepatitis A",
+        "Hepatitis D requires the hepatitis B virus to replicate, so it only occurs as a coinfection",
+        "Hepatitis D is not a real virus, only a symptom",
+        "Hepatitis D is spread by the fecal-oral route independently"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Hepatitis D depends on the hepatitis B virus to replicate; it cannot exist without B. It shares B's bloodborne transmission and often makes hepatitis B infection more severe. Preventing B with the vaccine also prevents D.",
+        "incorrect": [
+          "Hepatitis D depends on hepatitis B, not hepatitis A.",
+          "Hepatitis D is a real virus that requires hepatitis B for replication.",
+          "Hepatitis D is bloodborne and requires hepatitis B; it is not an independent fecal-oral virus."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed lamivudine for chronic hepatitis B. Which action is essential before starting therapy?",
+      "options": [
+        "Confirm the client does not have an undiagnosed HIV infection",
+        "Administer the medication only during an acute hepatitis B flare",
+        "Give a much higher dose than would be used for HIV",
+        "Verify the client has received the hepatitis C vaccine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Lamivudine is an NRTI used for both HIV and chronic hepatitis B, but the hepatitis B dose is much lower. Because the two infections share bloodborne transmission, the client must be tested for HIV first—giving the low dose to someone with HIV promotes viral resistance.",
+        "incorrect": [
+          "Antivirals like lamivudine are used for chronic (not acute) hepatitis B, after 6+ months of infection.",
+          "The chronic hepatitis B dose is much lower than the HIV dose, not higher.",
+          "There is no hepatitis C vaccine, so this action is not possible."
+        ]
+      }
+    },
+    {
+      "stem": "A 52-year-old client with chronic hepatitis C is about to start Mavyret (glecaprevir/pibrentasvir). Which nursing action is the highest priority before initiating therapy?",
+      "options": [
+        "Educate the client to take the medication on an empty stomach",
+        "Verify that the client has been tested for hepatitis B before starting treatment",
+        "Obtain a baseline serum creatinine to monitor for nephrotoxicity",
+        "Administer the hepatitis B vaccine series that day"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Mavyret carries an FDA boxed warning for hepatitis B reactivation. A client with hepatitis C may have a latent hepatitis B infection that the active C infection was suppressing. Rapidly clearing C can let B surge and cause fulminant liver failure, so all patients must be screened for HBV before therapy.",
+        "incorrect": [
+          "Absorption teaching is not the priority; there is a boxed-warning safety concern to address first.",
+          "Nephrotoxicity is not the primary concern with Mavyret; HBV reactivation screening is.",
+          "Vaccination is not the immediate priority; testing for existing HBV before treatment is the boxed-warning requirement."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with decompensated cirrhosis. Because the manifestations result from loss of normal liver functions, which findings would the nurse expect? Select all that apply.",
+      "options": [
+        "Jaundice and dark amber urine",
+        "Prolonged PT/INR and easy bruising",
+        "Peripheral edema and ascites",
+        "Persistent hyperglycemia requiring insulin",
+        "Asterixis (flapping hand tremor) and confusion"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "",
+        "incorrect": [
+          "Correct—the failing liver cannot conjugate bilirubin, so it builds up, causing jaundice and dark urine.",
+          "Correct—the liver makes clotting factors; failure prolongs PT/INR and causes easy bruising and bleeding.",
+          "Correct—low albumin and portal hypertension cause fluid to third-space into the abdomen (ascites) and periphery (edema).",
+          "In liver failure the client is prone to hypoglycemia, not hyperglycemia, because the liver can no longer release stored glucose.",
+          "Correct—the liver cannot convert ammonia to urea, so ammonia rises and crosses the blood-brain barrier, causing encephalopathy with asterixis and confusion."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with end-stage liver failure. Which blood glucose alteration should the nurse anticipate?",
+      "options": [
+        "Hyperglycemia, because the liver overproduces glucose",
+        "Hypoglycemia, because the failing liver cannot release stored glucose",
+        "Stable glucose, because the liver has no role in glucose regulation",
+        "Diabetic ketoacidosis from insulin resistance"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The liver stores glycogen and releases glucose to maintain homeostasis. In liver failure this ability is severely impaired, so the client is prone to hypoglycemic events.",
+        "incorrect": [
+          "The failing liver cannot maintain glucose output, so hyperglycemia is not the expected problem.",
+          "The liver is central to glucose regulation, so glucose does not stay stable in liver failure.",
+          "DKA is a complication of insulin deficiency in diabetes, not the expected pattern in liver failure."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse explains to a student why a client with cirrhosis develops ascites. Which two factors are primarily responsible?",
+      "options": [
+        "High albumin and low blood pressure",
+        "Portal hypertension and low serum albumin",
+        "Increased clotting factors and high potassium",
+        "Elevated blood glucose and dehydration"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Ascites results from portal hypertension (increased hydrostatic pressure in the portal vein as the fibrotic liver resists blood flow) combined with low serum albumin (reduced oncotic pressure). Together these push and pull fluid into the peritoneal cavity.",
+        "incorrect": [
+          "Albumin is low, not high, in cirrhosis.",
+          "Clotting factors are decreased in cirrhosis, and this does not explain ascites.",
+          "Hyperglycemia and dehydration are not the mechanisms of ascites in cirrhosis."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis develops confusion, lethargy, and asterixis. The nurse recognizes these neurologic changes are caused by:",
+      "options": [
+        "Low blood sodium from diuretics",
+        "Accumulation of ammonia that the liver can no longer convert to urea",
+        "Excess oxygen delivery to the brain",
+        "A bacterial infection of the brain"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The liver normally converts ammonia (a byproduct of gut bacteria breaking down protein) into urea for excretion. In cirrhosis this fails, ammonia rises in the blood, crosses the blood-brain barrier as a neurotoxin, and causes hepatic encephalopathy.",
+        "incorrect": [
+          "While electrolyte changes can occur, the classic cause of these findings in cirrhosis is ammonia buildup.",
+          "Excess oxygen is not the cause of encephalopathy.",
+          "Hepatic encephalopathy is a metabolic (ammonia) problem, not a brain infection."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis develops esophageal varices. The nurse understands these develop because of:",
+      "options": [
+        "Increased pressure in the portal vein backing up into esophageal veins",
+        "Chronic acid reflux eroding the esophagus",
+        "A bacterial infection of the esophageal lining",
+        "Swallowing food that is too hot"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Portal hypertension from the fibrotic liver forces blood to back up into the veins around the esophagus. These become dilated, fragile, and friable—like varicose veins in the esophagus—and are prone to life-threatening rupture and hemorrhage.",
+        "incorrect": [
+          "Acid reflux causes esophagitis, not varices; varices result from portal hypertension.",
+          "Varices are a vascular pressure problem, not an infection.",
+          "Hot food does not cause varices, although rough or sharp food can trigger rupture of existing varices."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is monitoring a client with esophageal varices. Which findings could indicate variceal rupture? Select all that apply.",
+      "options": [
+        "Hematemesis (vomiting blood)",
+        "Hypotension and tachycardia",
+        "Systemic hypertension with bradycardia",
+        "Sudden lightheadedness and pallor"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "",
+        "incorrect": [
+          "Correct—vomiting blood is a hallmark of ruptured esophageal varices.",
+          "Correct—hypotension and tachycardia reflect the hemorrhagic shock that can follow variceal rupture.",
+          "Ruptured varices cause hemorrhage, so the expected pattern is hypotension and tachycardia—not hypertension with bradycardia.",
+          "Correct—lightheadedness and pallor are signs of acute blood loss from a bleeding varix."
+        ]
+      }
+    },
+    {
+      "stem": "A client with bleeding esophageal varices is started on an octreotide infusion. The nurse explains this medication helps by:",
+      "options": [
+        "Increasing blood flow to the liver to speed clotting",
+        "Reducing blood flow to the GI tract and lowering portal pressure",
+        "Neutralizing stomach acid that caused the bleeding",
+        "Dissolving the clots in the esophageal veins"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Octreotide, a synthetic somatostatin, constricts splanchnic vessels and reduces blood flow to the GI tract. This decreases blood return to the liver, lowering portal pressure and helping control variceal bleeding until endoscopic treatment.",
+        "incorrect": [
+          "Octreotide reduces, not increases, splanchnic blood flow.",
+          "Octreotide does not work by neutralizing acid.",
+          "Octreotide does not dissolve clots; it reduces portal blood flow and pressure."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis and advanced hepatic encephalopathy is receiving lactulose 30 mL orally four times daily. Which assessment finding indicates the medication is having the desired therapeutic effect?",
+      "options": [
+        "The client has four soft stools per day",
+        "The client's abdominal girth has decreased by 2 cm",
+        "The client is now oriented to person, place, and time",
+        "The client's serum potassium is 4.0 mEq/L"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Lactulose treats hepatic encephalopathy by trapping ammonia in the colon and flushing it out. The desired therapeutic effect is improved level of consciousness—the client becoming alert and oriented.",
+        "incorrect": [
+          "Loose stools show the laxative effect is occurring, but the therapeutic goal is measured by improved mental status, not stool count.",
+          "Decreased abdominal girth reflects ascites/fluid management, not the purpose of lactulose.",
+          "Lactulose treats hepatic encephalopathy by trapping ammonia in the colon and flushing it out. The desired therapeutic effect is improved level of consciousness—the client becoming alert and oriented.",
+          "A normal potassium is reassuring, but it is not the indicator that lactulose is treating the encephalopathy."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is describing how lactulose reduces ammonia levels. Which mechanism is correct?",
+      "options": [
+        "It is absorbed and neutralizes ammonia in the bloodstream",
+        "It acidifies the colon, converting ammonia (NH3) to ammonium (NH4+) that cannot be absorbed, then flushes it out",
+        "It stimulates the liver to make more urea",
+        "It kills the virus causing the liver damage"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Colonic bacteria break down lactulose into acids, lowering colonic pH. The acidic environment traps ammonia as ammonium (NH4+), which cannot cross into the blood, and the osmotic laxative effect flushes it out in the stool.",
+        "incorrect": [
+          "Lactulose is not absorbed and does not act in the bloodstream.",
+          "Lactulose does not stimulate hepatic urea production; it removes ammonia through the gut.",
+          "Lactulose has no antiviral action; it manages ammonia levels."
+        ]
+      }
+    },
+    {
+      "stem": "Rifaximin (Xifaxan) is added to a client's lactulose regimen for hepatic encephalopathy. What is the rationale for adding this antibiotic?",
+      "options": [
+        "It replaces the need for lactulose entirely",
+        "It reduces the gut bacteria that produce ammonia, lowering blood ammonia levels",
+        "It is absorbed systemically to treat a bloodstream infection",
+        "It increases ammonia production to stimulate the liver"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Rifaximin is a non-absorbable antibiotic that decreases the number of ammonia-producing bacteria in the gut. Added to lactulose, it further lowers blood ammonia and reduces recurrent hepatic encephalopathy.",
+        "incorrect": [
+          "Rifaximin is added to, not a replacement for, lactulose.",
+          "Rifaximin is minimally absorbed, so it does not treat systemic bloodstream infections and has few systemic effects.",
+          "Rifaximin lowers ammonia by reducing gut bacteria; it does not increase ammonia production."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis and ascites is prescribed spironolactone and furosemide together. What is the primary rationale for combining these two diuretics?",
+      "options": [
+        "Spironolactone is potassium-sparing and furosemide wastes potassium, so together they help balance potassium",
+        "Both drugs raise potassium, so the combination prevents hypokalemia",
+        "Furosemide blocks aldosterone while spironolactone works in the loop",
+        "The combination eliminates the need to monitor electrolytes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Spironolactone is a potassium-sparing diuretic (it blocks aldosterone, which is elevated in cirrhosis), while furosemide is a loop diuretic that wastes potassium. Used together they remove fluid while counterbalancing each other's effect on potassium.",
+        "incorrect": [
+          "Furosemide lowers potassium; the two drugs have opposite potassium effects, which is why they are paired.",
+          "Spironolactone (not furosemide) blocks aldosterone, and furosemide (not spironolactone) works in the loop of Henle.",
+          "Electrolytes and renal function still require close monitoring even with the combination."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis on spironolactone and furosemide asks how to best monitor whether the ascites treatment is working. The nurse teaches the client to:",
+      "options": [
+        "Check the pulse rate twice daily",
+        "Weigh daily at the same time and track the trend",
+        "Measure oral fluid intake only",
+        "Monitor the color of the urine"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Daily weight at the same time each day is the best indicator of fluid status. A goal is roughly 0.5 kg/day loss (up to 1 kg/day with peripheral edema). Sodium is restricted to under 2 g/day.",
+        "incorrect": [
+          "Pulse rate does not reliably reflect fluid volume changes in ascites.",
+          "Intake alone does not capture fluid retention or loss; weight trend is the key measure.",
+          "Urine color is not a reliable measure of overall fluid balance in ascites."
+        ]
+      }
+    },
+    {
+      "stem": "A client with liver failure has a prolonged PT/INR and is prescribed vitamin K. The nurse understands vitamin K is given because:",
+      "options": [
+        "The liver needs vitamin K to help produce clotting factors, and deficiency prolongs PT/INR",
+        "Vitamin K directly dissolves existing blood clots",
+        "Vitamin K replaces the albumin the liver cannot make",
+        "Vitamin K lowers the ammonia level in the blood"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The liver uses vitamin K to produce several clotting factors. In liver disease, clotting is impaired and PT/INR is prolonged, so vitamin K is given to help correct hypoprothrombinemia. (Fat-soluble vitamin K also depends on bile for absorption, which is reduced in liver failure.)",
+        "incorrect": [
+          "Vitamin K promotes clotting factor production; it does not dissolve clots.",
+          "Vitamin K does not replace albumin.",
+          "Vitamin K does not affect ammonia levels; that is lactulose's role."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is identifying clients at risk for gallstones (cholelithiasis). Which client best fits the classic risk profile?",
+      "options": [
+        "A thin 20-year-old man who runs marathons",
+        "An obese 40-year-old woman who has had several children and takes oral contraceptives",
+        "A 70-year-old man on a high-fiber vegetarian diet",
+        "A 10-year-old child with no medical history"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The classic risk factors are the four F's: fat (obesity/high cholesterol), female, fertile (multiparity), and forty. Oral contraceptives and rapid weight loss also increase risk. This client fits the profile.",
+        "incorrect": [
+          "This client lacks the classic gallstone risk factors.",
+          "A high-fiber vegetarian diet does not fit the classic gallstone risk profile.",
+          "A young child with no history does not fit the typical cholelithiasis risk profile."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports severe right upper quadrant pain that radiates to the right shoulder and began a few hours after eating fried chicken. The nurse recognizes these findings as most consistent with:",
+      "options": [
+        "Acute cholecystitis",
+        "Duodenal ulcer",
+        "Appendicitis",
+        "Diverticulitis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Cholecystitis classically causes severe RUQ pain that can radiate to the right shoulder, occurring 3-6 hours after a heavy or high-fat meal. Fat triggers gallbladder contraction (via CCK) against the stones, causing pain.",
+        "incorrect": [
+          "Duodenal ulcer pain is epigastric and typically relieved by food, not triggered by fatty meals with RUQ/shoulder radiation.",
+          "Appendicitis pain localizes to the right lower quadrant, not the RUQ.",
+          "Diverticulitis pain is typically in the left lower quadrant."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about the most serious complication that can occur when a gallstone lodges in the common bile duct. Which complication should the nurse emphasize?",
+      "options": [
+        "Acute pancreatitis",
+        "A common cold",
+        "Iron-deficiency anemia",
+        "Osteoporosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "When a gallstone obstructs the common bile duct, pancreatic enzymes destined for the duodenum back up into the pancreas, triggering autodigestion and acute pancreatitis. This is why gallstones are a leading cause of pancreatitis.",
+        "incorrect": [
+          "A gallstone obstruction does not cause a common cold.",
+          "Anemia is not the serious acute complication of a lodged gallstone.",
+          "Osteoporosis is unrelated to biliary obstruction."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a completely obstructing gallstone develops jaundice, clay-colored stools, dark amber urine, and itching. The nurse understands the itching (pruritus) is caused by:",
+      "options": [
+        "A buildup of bilirubin in the bloodstream",
+        "Dehydration from decreased fluid intake",
+        "An allergic reaction to food",
+        "Excess stomach acid"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "With biliary obstruction, bile cannot reach the intestine. Bilirubin backs up into the blood, causing jaundice, dark urine, clay-colored stools, and pruritus (itching) from bilirubin deposition in the skin.",
+        "incorrect": [
+          "Dehydration does not explain this cluster of obstructive findings.",
+          "The pruritus is from bilirubin buildup, not a food allergy.",
+          "Excess stomach acid does not cause obstructive jaundice or pruritus."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with acute cholecystitis and biliary colic. Which treatment does the nurse expect to be first-line for the pain?",
+      "options": [
+        "High-dose oral opioids as the only option",
+        "NSAIDs such as IV ketorolac",
+        "A high-fat meal to coat the stomach",
+        "No treatment; the pain will resolve on its own"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "NSAIDs (such as IV ketorolac or diclofenac) are first-line for biliary colic. The nurse also keeps the client NPO, may use an NG tube for decompression if vomiting, and teaches avoidance of fatty/fried foods. Renal function is monitored with NSAIDs.",
+        "incorrect": [
+          "Opioids may be used, but NSAIDs are first-line for biliary colic pain.",
+          "A high-fat meal stimulates gallbladder contraction and worsens the pain.",
+          "Cholecystitis requires treatment; it is not left untreated to resolve spontaneously."
+        ]
+      }
+    },
+    {
+      "stem": "A client who is not a surgical candidate is prescribed ursodiol for gallstones. The nurse understands this medication:",
+      "options": [
+        "Dissolves large, calcified gallstones within a few days",
+        "Dissolves small, non-calcified cholesterol gallstones and helps prevent stones after bariatric surgery",
+        "Is an antibiotic that treats the infection",
+        "Provides immediate pain relief during an acute attack"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Ursodiol (ursodeoxycholic acid) lowers cholesterol concentration in bile, dissolving small, non-calcified cholesterol gallstones over time. It is also used to prevent stones after bariatric surgery or with GLP-1-associated rapid weight loss. It is contraindicated in biliary obstruction and with calcified stones.",
+        "incorrect": [
+          "Ursodiol does not work on large, calcified stones and works slowly, not within days.",
+          "Ursodiol is a bile acid, not an antibiotic.",
+          "Ursodiol is not an analgesic and does not relieve acute pain quickly."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is reviewing records for four clients on a GI unit. Which manifestation is most uniquely associated with Crohn's disease rather than ulcerative colitis?",
+      "options": [
+        "Frequent bloody diarrhea containing mucus",
+        "The presence of 'skip lesions' and fistulas on the colonoscopy report",
+        "Inflammation limited strictly to the mucosa of the rectum and colon",
+        "An increased risk for developing hepatitis"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Crohn's disease causes 'skip lesions' (patchy areas of inflammation with healthy tissue between them) anywhere from mouth to anus, and its transmural inflammation can form fistulas. These features distinguish it from UC.",
+        "incorrect": [
+          "Bloody, mucous diarrhea (10-20 stools/day) is the hallmark of ulcerative colitis, not Crohn's.",
+          "Crohn's disease causes 'skip lesions' (patchy areas of inflammation with healthy tissue between them) anywhere from mouth to anus, and its transmural inflammation can form fistulas. These features distinguish it from UC.",
+          "Continuous inflammation limited to the mucosa of the colon/rectum describes ulcerative colitis.",
+          "Increased hepatitis risk is not the distinguishing feature of Crohn's disease."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is comparing ulcerative colitis and Crohn's disease. Which statement is accurate?",
+      "options": [
+        "Ulcerative colitis can occur anywhere from the mouth to the anus",
+        "Ulcerative colitis affects only the colon with continuous inflammation, while Crohn's can affect anywhere from mouth to anus with skip lesions",
+        "Crohn's disease is limited to the rectum only",
+        "Neither condition has periods of remission"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Ulcerative colitis affects only the colon (large intestine) with continuous inflammation of the mucosa. Crohn's can affect any part of the GI tract from mouth to anus and produces skip lesions with transmural inflammation. Both have exacerbations and remissions, and anemia is common in both.",
+        "incorrect": [
+          "It is Crohn's, not ulcerative colitis, that can occur from mouth to anus.",
+          "Crohn's is not limited to the rectum; that pattern is more typical of UC.",
+          "Both conditions are chronic and relapsing, with periods of remission and exacerbation."
+        ]
+      }
+    },
+    {
+      "stem": "The hallmark clinical presentation of a client with a severe ulcerative colitis flare is:",
+      "options": [
+        "Constipation with hard, dry stools",
+        "10 to 20 liquid, bloody stools per day",
+        "Bright yellow, greasy stools that float",
+        "Black, tarry stools with no other symptoms"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The hallmark of a severe ulcerative colitis flare is 10-20 liquid, bloody stools per day with cramping. Chronic blood loss also puts these clients at risk for anemia.",
+        "incorrect": [
+          "Ulcerative colitis causes frequent diarrhea, not constipation.",
+          "Greasy, floating stools (steatorrhea) point to pancreatic insufficiency, not ulcerative colitis.",
+          "Bloody diarrhea, not isolated melena, characterizes a UC flare."
+        ]
+      }
+    },
+    {
+      "stem": "A client with ulcerative colitis has been receiving IV corticosteroids and biologics for 48 hours. Which assessment finding would most strongly indicate a life-threatening complication is developing?",
+      "options": [
+        "The client reports 8 blood-streaked stools in the last 24 hours",
+        "The client's hemoglobin dropped from 12.0 to 11.2 g/dL",
+        "Sudden abdominal distention with absent bowel sounds",
+        "Cramping in the left lower quadrant before bowel movements"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Sudden abdominal distention with absent bowel sounds suggests a life-threatening complication such as toxic megacolon or perforation with peritonitis. This requires immediate intervention.",
+        "incorrect": [
+          "Blood-streaked stools are expected in a UC flare and are not, by themselves, the life-threatening sign here.",
+          "A small hemoglobin drop is concerning but expected with ongoing bleeding; it is not the immediate life-threatening finding.",
+          "Sudden abdominal distention with absent bowel sounds suggests a life-threatening complication such as toxic megacolon or perforation with peritonitis. This requires immediate intervention.",
+          "Cramping before bowel movements is an expected symptom of a UC flare, not a life-threatening emergency."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with Crohn's disease who develops a sudden rigid, tender, distended abdomen with absent bowel sounds and tachycardia. What is the nurse's interpretation of these findings?",
+      "options": [
+        "Expected symptoms of a mild Crohn's flare",
+        "A surgical emergency such as obstruction or perforation with peritonitis",
+        "A normal response to the prescribed steroids",
+        "Signs that the client is ready for discharge"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A rigid, tender, distended abdomen with absent bowel sounds, tachycardia, and unstable vitals indicates a surgical emergency—bowel obstruction or perforation with peritonitis, both major complications of Crohn's disease.",
+        "incorrect": [
+          "These findings are not expected in a mild flare; they signal an emergency.",
+          "These are not normal steroid effects; they indicate an acute abdomen.",
+          "An acute rigid abdomen is a medical emergency, not a sign of readiness for discharge."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a long history of ulcerative colitis asks why they need colonoscopies more frequently than the general population. The nurse's best response is:",
+      "options": [
+        "Ulcerative colitis increases the long-term risk of colon cancer",
+        "Colonoscopies cure ulcerative colitis over time",
+        "The medications require colonoscopy to be absorbed",
+        "There is no real reason; it is optional"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Chronic inflammation from IBD—particularly ulcerative colitis—increases the long-term risk of colon cancer, so these clients are screened with colonoscopy earlier and more frequently.",
+        "incorrect": [
+          "Colonoscopy is a screening/diagnostic procedure; it does not cure UC.",
+          "Colonoscopy has nothing to do with medication absorption.",
+          "There is a clear reason: earlier and more frequent cancer surveillance."
+        ]
+      }
+    },
+    {
+      "stem": "A client with mild-to-moderate ulcerative colitis is prescribed mesalamine. The nurse explains that this medication works by:",
+      "options": [
+        "Providing a system-wide anti-inflammatory effect that also treats fever and back pain",
+        "Acting locally in the GI tract to reduce inflammation of the intestinal lining",
+        "Suppressing the entire immune system like chemotherapy",
+        "Neutralizing stomach acid"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Mesalamine is a 5-aminosalicylate that works locally in the GI tract, reducing prostaglandin-mediated inflammation of the intestinal lining. It is coated to reach the colon and must be taken long-term. It is one of the best-tolerated IBD drugs.",
+        "incorrect": [
+          "Unlike aspirin, mesalamine does not produce a system-wide anti-inflammatory effect; it will not treat a fever or back pain.",
+          "Mesalamine is an anti-inflammatory, not a broad immunosuppressant like azathioprine.",
+          "Mesalamine does not neutralize stomach acid; it reduces intestinal inflammation."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a severe IBD flare is receiving prednisone. The nurse teaches the client that this corticosteroid:",
+      "options": [
+        "Can be stopped abruptly once symptoms improve",
+        "Is intended for long-term daily use with no significant side effects",
+        "Should be tapered rather than stopped suddenly and is used for short-term control of severe symptoms",
+        "Will cure the disease permanently"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Prednisone is used for poorly controlled or severe IBD symptoms in the short term. Longer-term use must be tapered, and side effects include osteoporosis, infection risk, hyperglycemia, hypokalemia, hypertension, mood changes, and increased appetite.",
+        "incorrect": [
+          "Corticosteroids should not be stopped abruptly after longer-term use; they require tapering.",
+          "Corticosteroids have many adverse effects and are not intended for indefinite daily use.",
+          "Corticosteroids control inflammation but do not cure IBD."
+        ]
+      }
+    },
+    {
+      "stem": "A client with IBD is prescribed azathioprine. Which laboratory test is most important for the nurse to monitor?",
+      "options": [
+        "Complete blood count (CBC)",
+        "Serum amylase",
+        "Thyroid-stimulating hormone (TSH)",
+        "Blood glucose"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Azathioprine is a potent immunosuppressant that blocks proliferation of T and B cells and suppresses the bone marrow, which can cause pancytopenia. The CBC must be monitored closely. It also increases infection and malignancy risk.",
+        "incorrect": [
+          "Amylase is monitored for pancreatitis, not the main concern with azathioprine.",
+          "TSH is not the key monitoring parameter for azathioprine.",
+          "Blood glucose is a concern with corticosteroids, not the priority lab for azathioprine."
+        ]
+      }
+    },
+    {
+      "stem": "A client with severe Crohn's disease is about to begin infliximab. Which screening is essential before starting this biologic?",
+      "options": [
+        "Screening for latent tuberculosis and hepatitis B",
+        "A hearing test",
+        "A bone density scan for osteoporosis",
+        "A colonoscopy to remove polyps"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Infliximab is a TNF-alpha inhibitor that suppresses the immune system and can reactivate latent infections. Clients must be screened for latent tuberculosis and hepatitis B before starting, because immunosuppression can allow these infections to become active.",
+        "incorrect": [
+          "A hearing test is not required before infliximab.",
+          "While steroids affect bone density, a bone scan is not the essential pre-biologic screening.",
+          "Polyp removal is not the required screening before starting a biologic."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving the biologic infliximab for IBD asks about vaccinations. Which teaching by the nurse is correct?",
+      "options": [
+        "You should receive all live vaccines while on this medication",
+        "You must avoid live vaccines because the medication suppresses your immune system",
+        "Vaccines are unnecessary now that you take this medication",
+        "Only the influenza live nasal spray is recommended"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Biologics such as infliximab and tocilizumab suppress the immune system, so live vaccines (MMR, varicella, shingles, smallpox) must be avoided. The client is also at increased risk for serious infections and malignancy.",
+        "incorrect": [
+          "Live vaccines are contraindicated, not encouraged, with immunosuppressive biologics.",
+          "Appropriate (non-live) vaccinations remain important; they are not unnecessary.",
+          "The live attenuated nasal influenza vaccine is a live vaccine and should be avoided; an inactivated flu vaccine may be given instead."
+        ]
+      }
+    },
+    {
+      "stem": "A client with acute hepatitis B asks why their skin and the whites of their eyes have turned yellow. Which statement by the nurse best explains the pathophysiology of jaundice?",
+      "options": [
+        "Your liver is producing too much bile, which is leaking into your bloodstream",
+        "Inflamed liver cells cannot effectively conjugate or excrete bilirubin, so it builds up in your tissues",
+        "The virus is attacking your red blood cells, causing them to break down faster than normal",
+        "Your kidneys are failing to filter out digestive enzymes"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In hepatitis, inflammation and injury to liver cells impair their ability to conjugate and excrete bilirubin. Bilirubin then accumulates in the blood and deposits in the skin and sclera, causing jaundice.",
+        "incorrect": [
+          "Jaundice in hepatitis is not from overproduction of bile.",
+          "The virus injures hepatocytes (via the immune response), not the red blood cells, in viral hepatitis.",
+          "The kidneys are not the cause; jaundice results from impaired hepatic bilirubin handling."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with cystic fibrosis-related pancreatic insufficiency why they must take pancrelipase with every meal. Which explanation is best?",
+      "options": [
+        "Your pancreas produces too much acid, and these pills neutralize it",
+        "Your pancreas cannot make enough digestive enzymes, so these capsules provide lipase, protease, and amylase to break down fats, proteins, and carbohydrates",
+        "These pills contain insulin that your pancreas can no longer produce",
+        "These pills contain bile salts that your gallbladder is not releasing"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Pancrelipase replaces the pancreatic enzymes the client cannot produce. It contains lipase, protease, and amylase to digest fats, proteins, and carbohydrates so nutrients can be absorbed in the small intestine.",
+        "incorrect": [
+          "The problem is enzyme deficiency, not excess acid.",
+          "Pancrelipase contains digestive enzymes, not insulin.",
+          "Pancrelipase provides pancreatic enzymes, not bile salts."
         ]
       }
     }
