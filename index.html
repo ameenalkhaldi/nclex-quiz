@@ -2,189 +2,432 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>NCLEX Practice</title>
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f6f3ec">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1d1b17">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..700&family=Instrument+Sans:wght@400..700&display=swap" rel="stylesheet">
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
+    :root {
+      color-scheme: light dark;
+      --paper:      light-dark(oklch(96.8% 0.011 84), oklch(22.5% 0.012 70));
+      --raise:      light-dark(oklch(98.6% 0.008 88), oklch(25.5% 0.013 70));
+      --ink:        light-dark(oklch(28% 0.02 60),    oklch(90% 0.013 84));
+      --ink-soft:   light-dark(oklch(44% 0.02 60),    oklch(74% 0.014 80));
+      --ink-faint:  light-dark(oklch(56% 0.016 65),   oklch(60% 0.012 75));
+      --line:       light-dark(oklch(86% 0.014 84),   oklch(34% 0.012 70));
+      --line-soft:  light-dark(oklch(90.5% 0.011 84), oklch(29.5% 0.012 70));
+      --accent:     light-dark(oklch(43% 0.075 195),  oklch(76% 0.07 190));
+      --on-accent:  light-dark(oklch(97% 0.01 190),   oklch(21% 0.03 195));
+      --good:       light-dark(oklch(48% 0.105 152),  oklch(76% 0.11 152));
+      --good-bg:    light-dark(oklch(94.5% 0.035 152),oklch(29.5% 0.04 152));
+      --bad:        light-dark(oklch(49% 0.14 32),    oklch(74% 0.115 32));
+      --bad-bg:     light-dark(oklch(95% 0.024 32),   oklch(28.5% 0.04 32));
+      --serif: "Newsreader", Georgia, "Times New Roman", serif;
+      --sans: "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      background: #f5f5f5;
-      color: #1a1a1a;
-      line-height: 1.6;
-      min-height: 100vh;
-    }
-
-    .container {
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 24px 16px;
-    }
-
-    h1 {
-      font-size: 1.5rem;
-      font-weight: 600;
-      margin-bottom: 24px;
-      text-align: center;
-    }
-
-    .topics {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 24px;
-      justify-content: center;
-    }
-
-    .topic-btn {
-      padding: 8px 16px;
-      border: 2px solid #e0e0e0;
-      background: white;
-      border-radius: 20px;
-      cursor: pointer;
-      font-size: 0.9rem;
-      transition: all 0.15s;
-    }
-
-    .topic-btn:hover { border-color: #888; }
-    .topic-btn.active { background: #1a1a1a; color: white; border-color: #1a1a1a; }
-
-    .progress {
-      text-align: center;
-      font-size: 0.85rem;
-      color: #666;
-      margin-bottom: 16px;
-    }
-
-    .question-card {
-      background: white;
-      border-radius: 12px;
-      padding: 24px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-      margin-bottom: 16px;
-    }
-
-    .question-tag {
-      display: inline-block;
-      font-size: 0.75rem;
-      background: #e8e8e8;
-      padding: 4px 10px;
-      border-radius: 12px;
-      margin-bottom: 12px;
-      color: #555;
-    }
-
-    .question-stem {
-      font-size: 1rem;
-      margin-bottom: 20px;
-    }
-
-    .options {
+      font-family: var(--sans);
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+      min-height: 100dvh;
       display: flex;
       flex-direction: column;
-      gap: 10px;
+      -webkit-font-smoothing: antialiased;
     }
+
+    button {
+      font: inherit;
+      color: inherit;
+      background: none;
+      border: none;
+      cursor: pointer;
+    }
+
+    :focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+      border-radius: 4px;
+    }
+
+    .caps {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+    }
+
+    main {
+      width: min(42rem, 100%);
+      margin-inline: auto;
+      padding: clamp(1.25rem, 4vw, 2.5rem) clamp(1.1rem, 4vw, 1.5rem) 3.5rem;
+      flex: 1;
+    }
+
+    /* ---------- top bar ---------- */
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: var(--paper);
+    }
+
+    .topbar-inner {
+      width: min(42rem, 100%);
+      margin-inline: auto;
+      padding: 0.7rem clamp(1.1rem, 4vw, 1.5rem);
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+    }
+
+    .end-btn {
+      color: var(--ink-faint);
+      padding: 0.15rem 0;
+      transition: color 0.15s;
+    }
+    .end-btn:hover { color: var(--bad); }
+
+    .tb-topic {
+      color: var(--ink-soft);
+      flex: 1;
+      text-align: center;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .tb-count {
+      color: var(--ink-faint);
+      font-size: 0.8rem;
+      font-weight: 600;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .track { height: 2px; background: var(--line-soft); }
+    .track-fill {
+      height: 100%;
+      background: var(--accent);
+      width: 0;
+      transition: width 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    /* ---------- start screen ---------- */
+    .masthead { padding-top: clamp(1.5rem, 7vw, 4rem); margin-bottom: clamp(2rem, 6vw, 3rem); }
+    .masthead .caps { color: var(--accent); display: block; margin-bottom: 0.9rem; }
+    .masthead h1 {
+      font-family: var(--serif);
+      font-weight: 500;
+      font-size: clamp(2.1rem, 4.5vw + 1rem, 2.9rem);
+      line-height: 1.08;
+      letter-spacing: -0.015em;
+    }
+    .masthead h1 em { font-style: italic; font-weight: 400; }
+    .masthead .sub { color: var(--ink-faint); margin-top: 0.7rem; font-size: 0.95rem; }
+
+    .list-label { color: var(--ink-faint); margin: 2.25rem 0 0.25rem; display: block; }
+
+    .topic-row {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      width: 100%;
+      text-align: left;
+      padding: 1.05rem 0.15rem;
+      border-bottom: 1px solid var(--line-soft);
+    }
+
+    .topic-name {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      transition: color 0.15s;
+    }
+
+    .topic-meta {
+      color: var(--ink-faint);
+      font-size: 0.8rem;
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+      display: flex;
+      align-items: baseline;
+      gap: 0.6rem;
+    }
+    .topic-meta .arrow { transition: transform 0.2s cubic-bezier(0.22, 1, 0.36, 1); display: inline-block; }
+    .topic-row:hover .topic-name { color: var(--accent); }
+    .topic-row:hover .arrow { transform: translateX(4px); }
+
+    .hint {
+      margin-top: 2.5rem;
+      color: var(--ink-faint);
+      font-size: 0.8rem;
+    }
+    .hint kbd {
+      font-family: var(--sans);
+      font-size: 0.72rem;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      padding: 0.05rem 0.35rem;
+      margin: 0 0.1rem;
+    }
+    @media (hover: none) { .hint { display: none; } }
+
+    /* ---------- question ---------- */
+    .q-tag { color: var(--accent); display: block; margin-bottom: 1rem; }
+
+    .stem {
+      font-family: var(--serif);
+      font-weight: 500;
+      font-size: clamp(1.2rem, 0.5vw + 1.1rem, 1.4rem);
+      line-height: 1.45;
+      margin-bottom: 1.75rem;
+      text-wrap: pretty;
+    }
+
+    .options { display: grid; gap: 0.65rem; }
 
     .option {
-      padding: 14px 16px;
-      border: 2px solid #e0e0e0;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: all 0.15s;
       display: flex;
       align-items: flex-start;
-      gap: 12px;
+      flex-wrap: wrap;
+      gap: 0.55rem 0.85rem;
+      width: 100%;
+      text-align: left;
+      padding: 0.9rem 1rem;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      font-family: var(--serif);
+      font-size: 1.05rem;
+      line-height: 1.45;
+      transition: border-color 0.15s, background-color 0.15s, opacity 0.3s;
     }
 
-    .option:hover:not(.disabled) { border-color: #888; }
-    .option.selected { border-color: #1a1a1a; background: #f8f8f8; }
-    .option.correct { border-color: #22c55e; background: #f0fdf4; }
-    .option.incorrect { border-color: #ef4444; background: #fef2f2; }
-    .option.disabled { cursor: default; }
-    .option.show-correct { border-color: #22c55e; }
+    .option:not(:disabled):hover { border-color: var(--ink-faint); background: var(--raise); }
+    .option:not(:disabled):active { background: var(--line-soft); }
+    .option:disabled { cursor: default; color: var(--ink); }
 
-    .option-letter {
+    .key {
+      font-family: var(--sans);
+      font-size: 0.72rem;
       font-weight: 600;
-      color: #666;
-      min-width: 20px;
+      color: var(--ink-faint);
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      width: 1.55rem;
+      height: 1.55rem;
+      display: grid;
+      place-items: center;
+      flex: none;
+      margin-top: 0.05rem;
+      transition: inherit;
     }
 
+    .opt-text { flex: 1; min-width: 12rem; }
+
+    .option.is-correct { background: var(--good-bg); border-color: var(--good); }
+    .option.is-correct .key { border-color: var(--good); color: var(--good); }
+    .option.is-wrong { background: var(--bad-bg); border-color: var(--bad); }
+    .option.is-wrong .key { border-color: var(--bad); color: var(--bad); }
+    .option.is-dim { opacity: 0.45; }
+
+    .verdict {
+      margin-left: auto;
+      align-self: flex-start;
+      padding-top: 0.3rem;
+      white-space: nowrap;
+    }
+    .verdict.good { color: var(--good); }
+    .verdict.bad { color: var(--bad); }
+
+    /* ---------- rationale ---------- */
     .rationale {
-      margin-top: 20px;
-      padding: 16px;
-      background: #f8f8f8;
-      border-radius: 8px;
-      font-size: 0.9rem;
-      display: none;
+      display: grid;
+      grid-template-rows: 0fr;
+      transition: grid-template-rows 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    .rationale.open { grid-template-rows: 1fr; }
+    .rationale.instant { transition: none; }
+    .rationale-clip { overflow: hidden; min-height: 0; }
+    .rationale-body {
+      margin-top: 1.9rem;
+      border-top: 1px solid var(--line);
+      padding-top: 1.4rem;
+    }
+    .rationale-body h3 { color: var(--ink-faint); margin-bottom: 0.9rem; }
+    .rationale-body p {
+      font-family: var(--serif);
+      font-size: 1rem;
+      line-height: 1.6;
+      margin-bottom: 0.75rem;
+      color: var(--ink-soft);
+      text-wrap: pretty;
+    }
+    .rationale-body p.lead { color: var(--ink); }
+    .r-key {
+      font-family: var(--sans);
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      margin-right: 0.4rem;
+      color: var(--ink-faint);
+    }
+    .r-key.good { color: var(--good); }
+
+    /* ---------- entrance motion ---------- */
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: none; }
+    }
+    .enter .stem, .enter .q-tag { animation: rise 0.4s cubic-bezier(0.22, 1, 0.36, 1) both; }
+    .enter .option {
+      animation: rise 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+      animation-delay: calc(60ms + var(--i) * 45ms);
     }
 
-    .rationale.show { display: block; }
-    .rationale h4 { margin-bottom: 8px; font-size: 0.85rem; color: #666; }
-    .rationale p { margin-bottom: 8px; }
-    .rationale .correct-text { color: #16a34a; }
-    .rationale .incorrect-text { color: #666; }
-
-    .nav-buttons {
+    /* ---------- bottom bar ---------- */
+    .bottombar {
+      position: sticky;
+      bottom: 0;
+      z-index: 10;
+      background: var(--paper);
+      border-top: 1px solid var(--line-soft);
+    }
+    .bottombar-inner {
+      width: min(42rem, 100%);
+      margin-inline: auto;
+      padding: 0.7rem clamp(1.1rem, 4vw, 1.5rem);
+      padding-bottom: calc(0.7rem + env(safe-area-inset-bottom));
       display: flex;
+      align-items: center;
       justify-content: space-between;
-      margin-top: 24px;
+      gap: 0.75rem;
     }
 
-    .nav-btn {
-      padding: 12px 24px;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
+    .btn {
+      font-weight: 600;
       font-size: 0.95rem;
-      transition: all 0.15s;
+      padding: 0.75rem 1.5rem;
+      min-height: 48px;
+      border-radius: 10px;
+      transition: background-color 0.15s, color 0.15s, opacity 0.15s;
+    }
+    .btn.solid { background: var(--accent); color: var(--on-accent); }
+    .btn.solid:not(:disabled):hover { background: color-mix(in oklch, var(--accent), var(--ink) 12%); }
+    .btn.ghost { color: var(--ink-soft); padding-inline: 1rem; }
+    .btn.ghost:not(:disabled):hover { background: var(--raise); }
+    .btn:disabled { opacity: 0.35; cursor: default; }
+
+    .link-btn {
+      color: var(--ink-faint);
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 0.5rem;
+      transition: color 0.15s;
+    }
+    .link-btn:hover { color: var(--accent); }
+
+    /* ---------- results ---------- */
+    .results-head { padding: clamp(1.5rem, 6vw, 3rem) 0 2rem; }
+    .results-head .caps { color: var(--ink-faint); display: block; margin-bottom: 1.1rem; }
+
+    .score {
+      font-family: var(--serif);
+      font-weight: 500;
+      font-size: clamp(3.2rem, 8vw + 1rem, 4.5rem);
+      line-height: 1;
+      letter-spacing: -0.02em;
+      font-variant-numeric: tabular-nums;
+    }
+    .score .den { color: var(--ink-faint); font-weight: 400; }
+
+    .verdict-line {
+      font-family: var(--serif);
+      font-style: italic;
+      font-size: 1.25rem;
+      color: var(--ink-soft);
+      margin-top: 0.9rem;
     }
 
-    .nav-btn.secondary {
-      background: #e8e8e8;
-      color: #333;
+    .results-list { border-top: 1px solid var(--line); margin-top: 0.5rem; }
+
+    .result-row {
+      display: flex;
+      align-items: baseline;
+      gap: 0.9rem;
+      width: 100%;
+      text-align: left;
+      padding: 0.95rem 0.15rem;
+      border-bottom: 1px solid var(--line-soft);
+      transition: background-color 0.15s;
     }
+    .result-row:hover { background: var(--raise); }
 
-    .nav-btn.primary {
-      background: #1a1a1a;
-      color: white;
-    }
-
-    .nav-btn:hover { opacity: 0.85; }
-    .nav-btn:disabled { opacity: 0.4; cursor: default; }
-
-    .results {
+    .mark {
+      flex: none;
+      width: 1.3rem;
+      font-weight: 700;
+      font-size: 0.85rem;
       text-align: center;
-      padding: 40px 20px;
+    }
+    .mark.good { color: var(--good); }
+    .mark.bad { color: var(--bad); }
+    .mark.skip { color: var(--ink-faint); }
+
+    .result-stem {
+      font-family: var(--serif);
+      font-size: 0.98rem;
+      color: var(--ink-soft);
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .result-row:hover .result-stem { color: var(--ink); }
+
+    .results-actions {
+      margin-top: 2.25rem;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.75rem;
     }
 
-    .results h2 { font-size: 1.3rem; margin-bottom: 16px; }
-    .results .score { font-size: 3rem; font-weight: 700; margin-bottom: 8px; }
-    .results .score-label { color: #666; margin-bottom: 24px; }
-
-    .hidden { display: none; }
-
-    @media (max-width: 480px) {
-      .topics { gap: 6px; }
-      .topic-btn { padding: 6px 12px; font-size: 0.8rem; }
-      .question-card { padding: 18px; }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { animation: none !important; transition: none !important; }
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>NCLEX Practice</h1>
 
-    <div class="topics" id="topics"></div>
-
-    <div class="progress" id="progress"></div>
-
-    <div id="quiz-area"></div>
-
-    <div class="nav-buttons" id="nav-buttons">
-      <button class="nav-btn secondary" id="prev-btn" onclick="prevQuestion()">Previous</button>
-      <button class="nav-btn primary" id="next-btn" onclick="nextQuestion()">Next</button>
+  <header class="topbar" id="topbar" hidden>
+    <div class="topbar-inner">
+      <button class="end-btn caps" onclick="endSession()">End</button>
+      <span class="tb-topic caps" id="tb-topic"></span>
+      <span class="tb-count" id="tb-count"></span>
     </div>
-  </div>
+    <div class="track"><div class="track-fill" id="tb-fill"></div></div>
+  </header>
+
+  <main id="main"></main>
+
+  <nav class="bottombar" id="bottombar" hidden>
+    <div class="bottombar-inner">
+      <button class="btn ghost" id="prev-btn" onclick="prevQuestion()">Previous</button>
+      <button class="link-btn" id="results-link" onclick="showResults()" hidden>All results</button>
+      <button class="btn solid" id="next-btn" onclick="nextQuestion()">Next</button>
+    </div>
+  </nav>
 
 <script>
 const QUESTIONS = {
@@ -361,26 +604,27 @@ const QUESTIONS = {
 };
 
 const TOPIC_LABELS = {
-  "all": "All",
-  "random": "Random",
   "upper-gi": "Upper GI",
   "lower-gi": "Lower GI",
   "neoplasms-cancer": "Neoplasms & Cancer",
-  "neuro": "Migraine / Insomnia / Seizures"
+  "neuro": "Migraine · Insomnia · Seizures"
 };
 
-let currentTopic = "all";
-let currentIndex = 0;
-let answers = {};
-let showingResults = false;
-let currentQuestions = [];
+const state = {
+  view: "start",       // start | quiz | results
+  topic: null,         // topic key, or "all"
+  shuffled: false,
+  questions: [],
+  index: 0,
+  answers: {},
+  review: false        // revisiting a question from the results screen
+};
 
-function getAllQuestions() {
-  const all = [];
-  Object.entries(QUESTIONS).forEach(([topic, questions]) => {
-    questions.forEach((q, i) => all.push({ ...q, topic, originalIndex: i }));
-  });
-  return all;
+const $ = id => document.getElementById(id);
+const letter = i => String.fromCharCode(65 + i);
+
+function allQuestions() {
+  return Object.entries(QUESTIONS).flatMap(([topic, qs]) => qs.map(q => ({ ...q, topic })));
 }
 
 function shuffle(array) {
@@ -392,139 +636,256 @@ function shuffle(array) {
   return arr;
 }
 
-function getQuestionsForTopic(topic) {
-  if (topic === "all") {
-    return getAllQuestions();
-  } else if (topic === "random") {
-    return shuffle(getAllQuestions());
-  } else {
-    return QUESTIONS[topic].map((q, i) => ({ ...q, topic, originalIndex: i }));
-  }
+function sessionLabel() {
+  if (state.topic === "all") return state.shuffled ? "Shuffled · All Topics" : "All Topics";
+  return TOPIC_LABELS[state.topic];
 }
 
-function init() {
-  currentQuestions = getQuestionsForTopic(currentTopic);
-  renderTopics();
-  renderQuestion();
+function startSession(topic, shuffled = false) {
+  state.topic = topic;
+  state.shuffled = shuffled;
+  state.questions = topic === "all"
+    ? allQuestions()
+    : QUESTIONS[topic].map(q => ({ ...q, topic }));
+  if (shuffled) state.questions = shuffle(state.questions);
+  state.index = 0;
+  state.answers = {};
+  state.review = false;
+  state.view = "quiz";
+  render();
+  window.scrollTo(0, 0);
 }
 
-function renderTopics() {
-  const container = document.getElementById("topics");
-  container.innerHTML = Object.entries(TOPIC_LABELS).map(([key, label]) =>
-    `<button class="topic-btn ${key === currentTopic ? 'active' : ''}" onclick="selectTopic('${key}')">${label}</button>`
-  ).join("");
+function endSession() {
+  state.view = "start";
+  state.answers = {};
+  state.review = false;
+  render();
+  window.scrollTo(0, 0);
 }
 
-function selectTopic(topic) {
-  currentTopic = topic;
-  currentIndex = 0;
-  showingResults = false;
-  answers = {};
-  currentQuestions = getQuestionsForTopic(topic);
-  renderTopics();
-  renderQuestion();
+function render() {
+  const inQuiz = state.view === "quiz";
+  $("topbar").hidden = !inQuiz;
+  $("bottombar").hidden = !inQuiz;
+  if (state.view === "start") renderStart();
+  else if (state.view === "results") renderResults();
+  else renderQuiz({ enter: true });
 }
 
-function renderQuestion() {
-  const questions = currentQuestions;
-  const area = document.getElementById("quiz-area");
-  const progress = document.getElementById("progress");
-  const navButtons = document.getElementById("nav-buttons");
+/* ---------- start ---------- */
 
-  if (showingResults) {
-    renderResults();
-    return;
-  }
+function renderStart() {
+  const total = allQuestions().length;
+  const topicRows = Object.entries(QUESTIONS).map(([key, qs]) => `
+    <button class="topic-row" onclick="startSession('${key}')">
+      <span class="topic-name">${TOPIC_LABELS[key]}</span>
+      <span class="topic-meta">${qs.length} questions <span class="arrow">&rarr;</span></span>
+    </button>`).join("");
 
-  const q = questions[currentIndex];
-  const answered = answers[currentIndex] !== undefined;
-  const selected = answers[currentIndex];
-  const topicLabel = TOPIC_LABELS[q.topic] || q.topic;
-
-  progress.textContent = `Question ${currentIndex + 1} of ${questions.length}`;
-  navButtons.classList.remove("hidden");
-
-  area.innerHTML = `
-    <div class="question-card">
-      <span class="question-tag">${topicLabel}</span>
-      <p class="question-stem">${q.stem}</p>
-      <div class="options">
-        ${q.options.map((opt, i) => {
-          let classes = "option";
-          if (answered) {
-            classes += " disabled";
-            if (i === selected && i !== q.answer) classes += " incorrect";
-            if (i === q.answer) classes += " correct show-correct";
-            if (i === selected && i === q.answer) classes += " selected";
-          }
-          return `<div class="${classes}" onclick="selectAnswer(${i})">
-            <span class="option-letter">${String.fromCharCode(65 + i)}.</span>
-            <span>${opt}</span>
-          </div>`;
-        }).join("")}
-      </div>
-      <div class="rationale ${answered ? 'show' : ''}">
-        <h4>Rationale</h4>
-        <p class="correct-text"><strong>Correct (${String.fromCharCode(65 + q.answer)}):</strong> ${q.rationale.correct}</p>
-        ${q.rationale.incorrect.map((text, i) => {
-          const letter = i >= q.answer ? i + 1 : i;
-          return `<p class="incorrect-text"><strong>${String.fromCharCode(65 + letter)}:</strong> ${text}</p>`;
-        }).join("")}
-      </div>
+  $("main").innerHTML = `
+    <div class="masthead">
+      <span class="caps">Question Bank</span>
+      <h1>NCLEX <em>Practice</em></h1>
+      <p class="sub">${total} questions with full rationales, across ${Object.keys(QUESTIONS).length} topics.</p>
     </div>
+
+    <span class="caps list-label">Practice everything</span>
+    <button class="topic-row" onclick="startSession('all')">
+      <span class="topic-name">All questions, in order</span>
+      <span class="topic-meta">${total} questions <span class="arrow">&rarr;</span></span>
+    </button>
+    <button class="topic-row" onclick="startSession('all', true)">
+      <span class="topic-name">Shuffle everything</span>
+      <span class="topic-meta">${total} questions <span class="arrow">&rarr;</span></span>
+    </button>
+
+    <span class="caps list-label">By topic</span>
+    ${topicRows}
+
+    <p class="hint">Tip: answer with <kbd>A</kbd>–<kbd>D</kbd>, move with <kbd>&larr;</kbd> <kbd>&rarr;</kbd>.</p>
+  `;
+}
+
+/* ---------- quiz ---------- */
+
+function renderQuiz(opts = {}) {
+  const q = state.questions[state.index];
+  const selected = state.answers[state.index];
+  const answered = selected !== undefined;
+  const showTag = state.topic === "all";
+
+  $("tb-topic").textContent = state.review ? "Review · " + sessionLabel() : sessionLabel();
+  $("tb-count").textContent = `${state.index + 1} / ${state.questions.length}`;
+  $("tb-fill").style.width = `${((state.index + 1) / state.questions.length) * 100}%`;
+
+  const optionsHtml = q.options.map((opt, i) => {
+    let cls = "option";
+    let verdict = "";
+    if (answered) {
+      if (i === q.answer) {
+        cls += " is-correct";
+        verdict = `<span class="verdict caps good">Correct</span>`;
+      } else if (i === selected) {
+        cls += " is-wrong";
+        verdict = `<span class="verdict caps bad">Your answer</span>`;
+      } else {
+        cls += " is-dim";
+      }
+    }
+    return `<button class="${cls}" style="--i:${i}" onclick="selectAnswer(${i})" ${answered ? "disabled" : ""}>
+      <span class="key">${letter(i)}</span>
+      <span class="opt-text">${opt}</span>${verdict}
+    </button>`;
+  }).join("");
+
+  const incorrectHtml = q.rationale.incorrect.map((text, i) => {
+    const l = i >= q.answer ? i + 1 : i;
+    return `<p><span class="r-key">${letter(l)}</span>${text}</p>`;
+  }).join("");
+
+  $("main").innerHTML = `
+    <article class="${opts.enter ? "enter" : ""}">
+      ${showTag ? `<span class="q-tag caps">${TOPIC_LABELS[q.topic]}</span>` : ""}
+      <h2 class="stem">${q.stem}</h2>
+      <div class="options">${optionsHtml}</div>
+      <section class="rationale ${answered && !opts.reveal ? "open instant" : ""}" id="rationale">
+        <div class="rationale-clip">
+          <div class="rationale-body">
+            <h3 class="caps">Rationale</h3>
+            <p class="lead"><span class="r-key good">Correct · ${letter(q.answer)}</span>${q.rationale.correct}</p>
+            ${incorrectHtml}
+          </div>
+        </div>
+      </section>
+    </article>
   `;
 
-  updateNavButtons();
+  if (opts.reveal) {
+    const el = $("rationale");
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+      el.classList.add("open");
+      el.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    }));
+  }
+
+  updateNav(answered);
 }
 
-function selectAnswer(index) {
-  if (answers[currentIndex] !== undefined) return;
-  answers[currentIndex] = index;
-  renderQuestion();
+function updateNav(answered) {
+  const last = state.index === state.questions.length - 1;
+  $("prev-btn").disabled = state.index === 0;
+  $("results-link").hidden = !state.review;
+  $("next-btn").textContent = last ? (state.review ? "Results" : "Finish") : "Next";
 }
 
-function updateNavButtons() {
-  document.getElementById("prev-btn").disabled = currentIndex === 0;
-  document.getElementById("next-btn").textContent =
-    currentIndex === currentQuestions.length - 1 ? "See Results" : "Next";
+function selectAnswer(i) {
+  if (state.answers[state.index] !== undefined) return;
+  state.answers[state.index] = i;
+  renderQuiz({ reveal: true });
 }
 
 function nextQuestion() {
-  if (currentIndex < currentQuestions.length - 1) {
-    currentIndex++;
-    renderQuestion();
+  if (state.index < state.questions.length - 1) {
+    state.index++;
+    renderQuiz({ enter: true });
+    window.scrollTo(0, 0);
   } else {
-    showingResults = true;
-    renderResults();
+    showResults();
   }
 }
 
 function prevQuestion() {
-  if (currentIndex > 0) {
-    currentIndex--;
-    renderQuestion();
-  }
+  if (state.index === 0) return;
+  state.index--;
+  renderQuiz({ enter: true });
+  window.scrollTo(0, 0);
+}
+
+/* ---------- results ---------- */
+
+function showResults() {
+  state.view = "results";
+  render();
+  window.scrollTo(0, 0);
+}
+
+function reviewQuestion(i) {
+  state.review = true;
+  state.index = i;
+  state.view = "quiz";
+  render();
+  window.scrollTo(0, 0);
+}
+
+function verdictLine(pct, skipped) {
+  if (skipped === state.questions.length) return "Nothing answered yet — give it a real pass.";
+  if (pct === 100) return "A perfect set. Well done.";
+  if (pct >= 80) return "Strong work — review the misses below.";
+  if (pct >= 60) return "Solid. The rationales below are where the points are.";
+  return "Keep drilling — read every rationale before the next pass.";
 }
 
 function renderResults() {
-  const correct = Object.entries(answers).filter(([i, a]) => a === currentQuestions[i].answer).length;
-  const total = currentQuestions.length;
-  const percentage = Math.round((correct / total) * 100);
+  const qs = state.questions;
+  const correct = qs.reduce((n, q, i) => n + (state.answers[i] === q.answer ? 1 : 0), 0);
+  const skipped = qs.reduce((n, _, i) => n + (state.answers[i] === undefined ? 1 : 0), 0);
+  const pct = Math.round((correct / qs.length) * 100);
 
-  document.getElementById("progress").textContent = "";
-  document.getElementById("nav-buttons").classList.add("hidden");
+  const rows = qs.map((q, i) => {
+    const a = state.answers[i];
+    const good = a === q.answer;
+    const mark = a === undefined ? "–" : good ? "✓" : "✕";
+    const cls = a === undefined ? "skip" : good ? "good" : "bad";
+    return `<button class="result-row" onclick="reviewQuestion(${i})">
+      <span class="mark ${cls}">${mark}</span>
+      <span class="result-stem">${q.stem}</span>
+    </button>`;
+  }).join("");
 
-  document.getElementById("quiz-area").innerHTML = `
-    <div class="question-card results">
-      <h2>${TOPIC_LABELS[currentTopic]}</h2>
-      <div class="score">${percentage}%</div>
-      <p class="score-label">${correct} of ${total} correct</p>
-      <button class="nav-btn primary" onclick="selectTopic('${currentTopic}')">Try Again</button>
+  $("main").innerHTML = `
+    <div class="results-head">
+      <span class="caps">${sessionLabel()} · ${pct}%</span>
+      <div class="score">${correct}<span class="den"> / ${qs.length}</span></div>
+      <p class="verdict-line">${verdictLine(pct, skipped)}</p>
+    </div>
+
+    <div class="results-list">${rows}</div>
+
+    <div class="results-actions">
+      <button class="btn solid" onclick="startSession(state.topic, state.shuffled)">Try this set again</button>
+      <button class="btn ghost" onclick="endSession()">Choose another set</button>
     </div>
   `;
 }
 
-init();
+/* ---------- keyboard ---------- */
+
+document.addEventListener("keydown", e => {
+  if (state.view !== "quiz" || e.metaKey || e.ctrlKey || e.altKey) return;
+  const q = state.questions[state.index];
+  const answered = state.answers[state.index] !== undefined;
+  const k = e.key.toLowerCase();
+
+  if (!answered) {
+    let idx = "abcd".indexOf(k);
+    if (idx === -1) idx = "1234".indexOf(k);
+    if (idx > -1 && idx < q.options.length) {
+      e.preventDefault();
+      selectAnswer(idx);
+      return;
+    }
+  }
+  if (k === "arrowright" || (k === "enter" && answered && e.target.tagName !== "BUTTON")) {
+    e.preventDefault();
+    nextQuestion();
+  } else if (k === "arrowleft") {
+    e.preventDefault();
+    prevQuestion();
+  }
+});
+
+render();
 </script>
 </body>
 </html>
