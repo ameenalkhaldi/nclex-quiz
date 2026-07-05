@@ -3575,7 +3575,7 @@ window.NCLEX_DATA = {
         "options": [
           "Ataxia and unsteady gait",
           "Improved coordination",
-          "Bright red urine",
+          "Reddish-brown urine",
           "Weight gain"
         ],
         "answer": 0,
