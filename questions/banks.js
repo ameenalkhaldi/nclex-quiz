@@ -914,6 +914,205 @@ window.NCLEX_DATA = {
     ],
     "lower-gi": [
       {
+        "stem": "A nurse receives report on four clients on a GI unit. Which client should the nurse assess first?",
+        "options": [
+          "A client with cirrhosis who is vomiting bright red blood, with a heart rate of 118 and blood pressure 92/58",
+          "A client with chronic pancreatitis reporting greasy stools who is requesting their enzyme capsules",
+          "A client with hepatitis A who has mild jaundice and fatigue",
+          "A client with ulcerative colitis who has had three formed stools today"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Hematemesis with tachycardia and hypotension indicates active esophageal variceal hemorrhage and hypovolemic shock—a circulation emergency. This client is the priority.",
+          "Steatorrhea and a request for enzymes is expected in chronic pancreatitis and is not urgent.",
+          "Mild jaundice and fatigue are expected in hepatitis A and are not emergent.",
+          "Three formed stools is an improvement for ulcerative colitis and is not a priority."
+        ]
+      },
+      {
+        "stem": "A client with cirrhosis and hepatic encephalopathy has the following new prescriptions. Which one should the nurse question?",
+        "options": [
+          "Give lactulose titrated to 2-3 soft stools per day",
+          "Administer IV lorazepam for agitation",
+          "Add rifaximin to the lactulose regimen",
+          "Monitor serum ammonia and neurologic status"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Lactulose titrated to 2-3 soft stools daily is the first-line treatment to lower ammonia.",
+          "The failing liver cannot metabolize benzodiazepines such as lorazepam, so they accumulate, deepen sedation, and worsen hepatic encephalopathy. The nurse should question this order; agitation is better addressed by treating the encephalopathy itself.",
+          "Rifaximin is an appropriate adjunct that reduces ammonia-producing gut bacteria.",
+          "Monitoring ammonia and neurologic status is appropriate for encephalopathy."
+        ]
+      },
+      {
+        "stem": "A client with hepatic encephalopathy who takes lactulose has had no stool in 24 hours and is becoming more confused. What is the nurse's best action?",
+        "options": [
+          "Hold the lactulose to prevent dehydration",
+          "Notify the provider; the dose likely needs to be increased to produce 2-3 soft stools daily",
+          "Encourage a high-protein meal to boost the client's energy",
+          "Restrict all oral fluids"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Holding the lactulose would allow ammonia to keep rising and worsen the encephalopathy.",
+          "Lactulose is titrated to produce 2-3 soft stools per day; that is how ammonia is trapped and excreted. No stool with worsening confusion means the dose is inadequate and should be increased, not held.",
+          "A large protein load can increase ammonia production and worsen encephalopathy during an acute episode.",
+          "Fluid restriction is not indicated and could worsen the situation."
+        ]
+      },
+      {
+        "stem": "A client with cirrhosis and ascites is receiving spironolactone and furosemide. Which finding requires the nurse to notify the provider?",
+        "options": [
+          "Urine output increased after the morning doses",
+          "Serum potassium 5.9 mEq/L with peaked T waves on the monitor",
+          "Weight decreased by 1 pound since yesterday",
+          "Serum sodium of 138 mEq/L"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Increased urine output is the desired diuretic response.",
+          "Spironolactone is potassium-sparing, so a potassium of 5.9 mEq/L with peaked T waves indicates dangerous hyperkalemia with cardiac effects—an emergency requiring immediate provider notification.",
+          "A 1-pound weight loss is an appropriate, safe rate of fluid removal.",
+          "A sodium of 138 mEq/L is within normal limits."
+        ]
+      },
+      {
+        "stem": "A client is admitted with acute pancreatitis. Which prescriptions does the nurse anticipate? Select all that apply.",
+        "options": [
+          "Maintain NPO status",
+          "Insert a nasogastric tube to low suction",
+          "Provide IV fluids and IV opioid analgesia",
+          "Position the client supine and flat for comfort",
+          "Begin a clear high-fat oral diet right away"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—NPO status rests the pancreas by reducing enzyme stimulation.",
+          "Correct—NG suction relieves vomiting and gastric distention.",
+          "Correct—IV fluids treat third-spacing and opioids control the severe pain.",
+          "Incorrect—lying flat increases pressure on the retroperitoneal pancreas and worsens pain; the client should sit up and lean forward.",
+          "Incorrect—the client is kept NPO, and fat strongly stimulates the pancreas and worsens inflammation."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with chronic pancreatitis on pancrelipase reports that their greasy stools have not improved. Which finding best explains the treatment failure?",
+        "options": [
+          "The client takes the capsules with the first bite of each meal",
+          "The client stirs the capsule contents into hot soup before eating",
+          "The client swallows the capsules whole with a cool drink",
+          "The client follows a low-fat diet"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Taking the enzymes with the first bite of each meal is correct technique.",
+          "Heat destroys pancreatic enzymes, so mixing the beads into hot food inactivates them and steatorrhea persists. If the capsule is opened, the beads should be taken with cool or room-temperature food.",
+          "Swallowing the capsules whole preserves the enteric coating and is correct.",
+          "A low-fat diet is appropriate and would help, not hinder, symptom control."
+        ]
+      },
+      {
+        "stem": "A client with gallstones develops severe epigastric pain radiating to the back, an elevated serum lipase, and a fever. The nurse recognizes the client has most likely developed which complication?",
+        "options": [
+          "Gallstone-induced pancreatitis",
+          "Peptic ulcer perforation",
+          "Acute hepatitis A",
+          "Diverticulitis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A stone lodged in the common bile duct near the ampulla backs up pancreatic secretions, and the resulting enzyme activation causes pancreatitis. Epigastric pain radiating to the back with an elevated lipase and fever fits gallstone pancreatitis—gallstones are a leading cause.",
+          "Perforation produces a sudden rigid, board-like abdomen, and lipase would not be the key finding.",
+          "Hepatitis A presents with jaundice and malaise, not an acutely elevated lipase with back pain.",
+          "Diverticulitis causes left lower quadrant pain, not epigastric pain with elevated lipase."
+        ]
+      },
+      {
+        "stem": "A client with previously resolved hepatitis B is scheduled to begin chemotherapy. Which action is most important?",
+        "options": [
+          "Anticipate antiviral prophylaxis, because immunosuppression can reactivate hepatitis B",
+          "Reassure the client that resolved hepatitis B poses no further risk",
+          "Administer the full hepatitis B vaccine series before chemotherapy begins",
+          "Place the client on contact precautions for the duration of chemotherapy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Chemotherapy-induced immunosuppression can reactivate hepatitis B even when it was previously resolved, sometimes causing severe hepatitis. Antiviral prophylaxis is anticipated and HBV status is monitored.",
+          "Resolved hepatitis B is not risk-free during immunosuppression; reactivation is a real danger.",
+          "Vaccination does not address the reactivation risk in someone who already had the infection.",
+          "Routine contact precautions are not the relevant intervention; hepatitis B is bloodborne and the concern here is reactivation."
+        ]
+      },
+      {
+        "stem": "A client with a severe ulcerative colitis flare develops a distended, tympanic abdomen, fever, tachycardia, and a sudden drop in stool frequency. What is the nurse's priority action?",
+        "options": [
+          "Encourage oral fluids and a high-fiber diet",
+          "Notify the provider immediately and prepare for management of possible toxic megacolon",
+          "Administer a scheduled antidiarrheal medication",
+          "Ambulate the client to relieve gas"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Fiber and oral intake are contraindicated with a possible toxic megacolon; the bowel needs rest.",
+          "A distended, tympanic abdomen with fever, tachycardia, and a paradoxical drop in stool frequency during a severe colitis flare suggests toxic megacolon—a life-threatening emergency with perforation risk requiring immediate provider notification.",
+          "Antimotility/antidiarrheal drugs can precipitate or worsen toxic megacolon and are avoided.",
+          "Ambulation does not address this emergency and delays needed intervention."
+        ]
+      },
+      {
+        "stem": "A client with Crohn's disease is about to start infliximab. Which assessment finding requires the nurse to hold the drug and notify the provider?",
+        "options": [
+          "A positive tuberculosis screening test",
+          "A history of well-controlled hypertension",
+          "A body mass index of 22",
+          "A report of occasional heartburn"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Anti-TNF biologics such as infliximab can reactivate latent tuberculosis, so a positive TB screen must be addressed and treated before therapy. The nurse should hold the drug and notify the provider.",
+          "Well-controlled hypertension is not a contraindication to infliximab.",
+          "A normal BMI is not a concern for starting infliximab.",
+          "Occasional heartburn does not preclude infliximab therapy."
+        ]
+      },
+      {
+        "stem": "A client receiving infliximab for IBD asks about vaccines. Which client statement indicates a need for further teaching?",
+        "options": [
+          "I should avoid live vaccines such as the nasal-spray flu vaccine and MMR.",
+          "I can receive the inactivated flu shot each year.",
+          "I will go ahead and get the live shingles vaccine now that I am on this medication.",
+          "When possible, I should be up to date on vaccines before starting immunosuppression."
+        ],
+        "answer": 2,
+        "explanations": [
+          "Correct understanding—live vaccines are avoided during immunosuppression.",
+          "Correct understanding—inactivated vaccines such as the flu shot are safe and recommended.",
+          "Live vaccines are contraindicated during infliximab therapy because immunosuppression makes them unsafe. Planning to receive a live shingles vaccine shows a misunderstanding and requires further teaching (a non-live recombinant option would be needed instead).",
+          "Correct understanding—updating vaccines before immunosuppression is ideal."
+        ]
+      },
+      {
+        "stem": "A client with cirrhosis and an INR of 2.4 is vomiting blood from esophageal varices. Which does the nurse expect to be the priority intervention?",
+        "options": [
+          "Administer IV octreotide and prepare for endoscopic band ligation",
+          "Give oral vitamin K and recheck the INR in 3 days",
+          "Encourage a high-protein meal to support clotting",
+          "Place the client flat in the Trendelenburg position"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Active variceal bleeding is treated by reducing splanchnic/portal blood flow with octreotide and stopping the bleeding with endoscopic band ligation. This directly addresses the hemorrhage.",
+          "Oral vitamin K works too slowly to control active bleeding, and a 3-day recheck ignores the emergency.",
+          "Feeding is not the priority during active hematemesis and increases aspiration risk.",
+          "Lying flat, especially in Trendelenburg, raises aspiration risk in a client vomiting blood."
+        ]
+      },
+      {
         "stem": "A nurse is teaching a client scheduled for a colonoscopy. Which statement by the client indicates a need for further teaching?",
         "options": [
           "I will drink only clear liquids the day before the test",
@@ -1840,6 +2039,205 @@ window.NCLEX_DATA = {
       }
     ],
     "neoplasms-cancer": [
+      {
+        "stem": "A nurse on an oncology unit receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "A client with an absolute neutrophil count of 400/mm³ and a temperature of 100.6°F (38.1°C)",
+          "A client with a platelet count of 60,000/mm³ requesting help to ambulate",
+          "A client on epoetin alfa asking about ongoing fatigue",
+          "A client with mild alopecia asking about wig resources"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Fever in a severely neutropenic client is neutropenic fever—a life-threatening emergency because the client cannot mount a normal response to infection. Blood cultures and antibiotics are needed within an hour, so this client is seen first.",
+          "A platelet count of 60,000 warrants bleeding precautions, but ambulation assistance is not an emergency.",
+          "Fatigue on epoetin alfa is expected and non-urgent.",
+          "Alopecia is distressing but not physiologically urgent."
+        ]
+      },
+      {
+        "stem": "A client receiving chemotherapy has a platelet count of 16,000/mm³. Which prescription should the nurse question?",
+        "options": [
+          "Use a soft toothbrush for oral care",
+          "Avoid rectal temperatures and suppositories",
+          "Administer the scheduled influenza vaccine intramuscularly",
+          "Hold gentle pressure over venipuncture sites"
+        ],
+        "answer": 2,
+        "explanations": [
+          "A soft toothbrush is a correct bleeding precaution.",
+          "Avoiding rectal temperatures and suppositories prevents mucosal bleeding and is correct.",
+          "With a platelet count of 16,000/mm³, intramuscular injections risk deep bleeding and hematoma and should be avoided. The nurse should question the IM route and seek an alternative; the other measures are appropriate bleeding precautions.",
+          "Holding pressure over venipuncture sites is an appropriate bleeding precaution."
+        ]
+      },
+      {
+        "stem": "A client is receiving high-dose cyclophosphamide. Which nursing action is most important to prevent a serious adverse effect?",
+        "options": [
+          "Restrict fluids to prevent fluid overload",
+          "Encourage vigorous hydration and administer mesna as prescribed",
+          "Monitor closely for constipation",
+          "Give the drug on an empty stomach"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Fluids should be increased, not restricted, to dilute acrolein and protect the bladder.",
+          "Cyclophosphamide breaks down into acrolein, which irritates the bladder and causes hemorrhagic cystitis. Vigorous hydration and mesna protect the bladder and are the key preventive measures.",
+          "Constipation is not the characteristic serious effect requiring specific prevention here.",
+          "Taking the drug on an empty stomach does not prevent hemorrhagic cystitis."
+        ]
+      },
+      {
+        "stem": "A client is receiving high-dose methotrexate with leucovorin rescue. Which new prescription should the nurse question?",
+        "options": [
+          "Continue leucovorin at the scheduled times",
+          "Give IV fluids with sodium bicarbonate to alkalinize the urine",
+          "Monitor methotrexate levels and renal function",
+          "Administer ibuprofen as needed for headache"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Leucovorin rescue is essential to protect normal cells from high-dose methotrexate.",
+          "Alkalinizing the urine with bicarbonate promotes methotrexate excretion and prevents kidney injury.",
+          "Monitoring methotrexate levels and renal function is required for safe therapy.",
+          "NSAIDs such as ibuprofen reduce renal excretion of methotrexate and can raise it to toxic levels. The nurse should question this order; the other measures (leucovorin rescue, urine alkalinization, level and renal monitoring) all support safe high-dose methotrexate therapy."
+        ]
+      },
+      {
+        "stem": "During a peripheral infusion of a vesicant chemotherapy agent, the client reports burning at the IV site and the nurse notes swelling and no blood return. What is the nurse's first action?",
+        "options": [
+          "Stop the infusion immediately, leaving the catheter in place",
+          "Flush the line with normal saline to clear it",
+          "Increase the infusion rate to finish the dose quickly",
+          "Apply firm massage to the site"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Burning, swelling, and loss of blood return signal extravasation of a vesicant, which can cause severe tissue necrosis. The first action is to stop the infusion immediately while leaving the catheter in place so residual drug can be aspirated and an antidote given.",
+          "Flushing pushes more vesicant into the tissue and worsens the injury.",
+          "Increasing the rate delivers more vesicant into the tissue—exactly the wrong action.",
+          "Massage spreads the vesicant and increases tissue damage."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a neutropenic client how to reduce infection risk at home. Which statements by the client indicate correct understanding? Select all that apply.",
+        "options": [
+          "I will avoid raw fruits and vegetables and undercooked meat.",
+          "I should stay away from crowds and people who are sick.",
+          "I can keep fresh flowers and potted plants in my room.",
+          "I will check my temperature and call for a fever of 100.4°F (38°C) or higher.",
+          "I can use a rectal thermometer and take suppositories if I get constipated."
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—raw produce and undercooked meat carry organisms and are avoided.",
+          "Correct—avoiding crowds and sick contacts reduces infection exposure.",
+          "Incorrect—fresh flowers, plants, and soil harbor bacteria and fungi and should be kept out of the room.",
+          "Correct—a temperature of 100.4°F (38°C) or higher must be reported immediately.",
+          "Incorrect—rectal thermometers and suppositories can break the rectal mucosa and introduce infection, so they are avoided."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A stem cell (bone marrow) transplant recipient develops a skin rash, profuse diarrhea, and a rising bilirubin about 3 weeks after transplant. The nurse recognizes this as:",
+        "options": [
+          "Acute graft rejection",
+          "A chemotherapy allergy",
+          "Graft-versus-host disease",
+          "Neutropenic enterocolitis"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Graft rejection is when the host attacks a transplanted organ; here the donor cells are attacking the host.",
+          "A chemotherapy allergy would not produce this specific skin-gut-liver pattern.",
+          "In graft-versus-host disease, the donor's immune cells recognize the recipient as foreign and attack the host—classically the skin (rash), gut (diarrhea), and liver (rising bilirubin). This is a complication of allogeneic stem cell/bone marrow transplant.",
+          "Neutropenic enterocolitis causes fever and abdominal pain but not this triad with rising bilirubin and rash."
+        ]
+      },
+      {
+        "stem": "A client on cyclosporine after a kidney transplant describes their diet and habits. Which statement requires follow-up by the nurse?",
+        "options": [
+          "I take my cyclosporine at the same times every day.",
+          "I watch for a decrease in my urine output and report it.",
+          "I stay away from people who have infections.",
+          "I drink grapefruit juice every morning with breakfast."
+        ],
+        "answer": 3,
+        "explanations": [
+          "Correct—consistent dosing times maintain stable drug levels.",
+          "Correct—decreased urine output can signal nephrotoxicity or rejection and should be reported.",
+          "Correct—avoiding infected contacts is appropriate while immunosuppressed.",
+          "Grapefruit juice inhibits the CYP3A4 enzyme that metabolizes cyclosporine, raising drug levels and the risk of toxicity (including nephrotoxicity). This statement requires follow-up and teaching to avoid grapefruit."
+        ]
+      },
+      {
+        "stem": "A woman of childbearing age is prescribed mycophenolate after transplant. Which instruction is essential?",
+        "options": [
+          "Use two reliable forms of contraception during therapy and for 6 weeks after stopping",
+          "Take the medication with an antacid to reduce nausea",
+          "Expect the urine to turn bright orange",
+          "Stop the medication if a mild cold develops"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Mycophenolate is teratogenic and causes pregnancy loss and malformations, so women of childbearing age must use two reliable forms of contraception during therapy and for 6 weeks after it is stopped.",
+          "Antacids (magnesium/aluminum) reduce mycophenolate absorption and should be separated, not taken together.",
+          "Mycophenolate does not turn the urine orange.",
+          "Immunosuppression should not be stopped abruptly for a minor illness without provider guidance; stopping risks rejection."
+        ]
+      },
+      {
+        "stem": "A client on Biktarvy for HIV asks why they must take it every single day without missing doses. Which response by the nurse is most accurate?",
+        "options": [
+          "Missing doses will cause permanent kidney damage.",
+          "You can stop taking it once your viral load is undetectable.",
+          "Inconsistent dosing lets the virus mutate and become resistant to the medication.",
+          "The medication cures HIV if you take it for a full year."
+        ],
+        "answer": 2,
+        "explanations": [
+          "Missed doses risk resistance, not automatic permanent kidney damage.",
+          "An undetectable viral load requires continued therapy; stopping allows the virus to rebound.",
+          "Skipping doses allows HIV to replicate and mutate, producing drug-resistant virus and treatment failure. Strict daily adherence keeps the virus suppressed and preserves the regimen's effectiveness.",
+          "Antiretroviral therapy controls but does not cure HIV."
+        ]
+      },
+      {
+        "stem": "A client is about to start an abacavir-containing regimen. The nurse notes that HLA-B*5701 testing has not been done. What is the nurse's best action?",
+        "options": [
+          "Hold the abacavir and ensure HLA-B*5701 testing is completed first",
+          "Administer the first dose and monitor closely for a rash",
+          "Give the dose with food to lower the hypersensitivity risk",
+          "Substitute a double dose of another antiretroviral"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A positive HLA-B*5701 result predicts a potentially fatal abacavir hypersensitivity reaction, so the test must be done and negative before the drug is started. The nurse should hold the drug until testing is complete.",
+          "Giving the dose before screening risks a life-threatening hypersensitivity reaction.",
+          "Food does not prevent the genetically mediated hypersensitivity reaction.",
+          "Doubling another drug is not an appropriate or safe substitution decision for the nurse."
+        ]
+      },
+      {
+        "stem": "A client newly started on a tenofovir-containing regimen asks how the nurse will monitor for its main toxicity. Which response is correct?",
+        "options": [
+          "We will check your blood sugar before every dose.",
+          "We will monitor your kidney function and phosphate levels regularly.",
+          "We will test your hearing every month.",
+          "No routine monitoring is needed with this medication."
+        ],
+        "answer": 1,
+        "explanations": [
+          "Routine pre-dose glucose checks are not the monitoring specific to tenofovir.",
+          "Tenofovir can cause nephrotoxicity and bone/phosphate loss, so renal function and phosphate levels are monitored regularly during therapy.",
+          "Monthly hearing tests are not associated with tenofovir monitoring.",
+          "Tenofovir requires monitoring; saying none is needed is inaccurate."
+        ]
+      },
       {
         "stem": "A client receiving chemotherapy has a platelet count of 18,000/mm³. Which intervention should the nurse include in the plan of care?",
         "options": [

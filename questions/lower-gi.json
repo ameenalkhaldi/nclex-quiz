@@ -3,6 +3,230 @@
   "label": "Lower GI",
   "questions": [
     {
+      "stem": "A nurse receives report on four clients on a GI unit. Which client should the nurse assess first?",
+      "options": [
+        "A client with cirrhosis who is vomiting bright red blood, with a heart rate of 118 and blood pressure 92/58",
+        "A client with chronic pancreatitis reporting greasy stools who is requesting their enzyme capsules",
+        "A client with hepatitis A who has mild jaundice and fatigue",
+        "A client with ulcerative colitis who has had three formed stools today"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hematemesis with tachycardia and hypotension indicates active esophageal variceal hemorrhage and hypovolemic shock—a circulation emergency. This client is the priority.",
+        "incorrect": [
+          "Steatorrhea and a request for enzymes is expected in chronic pancreatitis and is not urgent.",
+          "Mild jaundice and fatigue are expected in hepatitis A and are not emergent.",
+          "Three formed stools is an improvement for ulcerative colitis and is not a priority."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis and hepatic encephalopathy has the following new prescriptions. Which one should the nurse question?",
+      "options": [
+        "Give lactulose titrated to 2-3 soft stools per day",
+        "Administer IV lorazepam for agitation",
+        "Add rifaximin to the lactulose regimen",
+        "Monitor serum ammonia and neurologic status"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The failing liver cannot metabolize benzodiazepines such as lorazepam, so they accumulate, deepen sedation, and worsen hepatic encephalopathy. The nurse should question this order; agitation is better addressed by treating the encephalopathy itself.",
+        "incorrect": [
+          "Lactulose titrated to 2-3 soft stools daily is the first-line treatment to lower ammonia.",
+          "Rifaximin is an appropriate adjunct that reduces ammonia-producing gut bacteria.",
+          "Monitoring ammonia and neurologic status is appropriate for encephalopathy."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hepatic encephalopathy who takes lactulose has had no stool in 24 hours and is becoming more confused. What is the nurse's best action?",
+      "options": [
+        "Hold the lactulose to prevent dehydration",
+        "Notify the provider; the dose likely needs to be increased to produce 2-3 soft stools daily",
+        "Encourage a high-protein meal to boost the client's energy",
+        "Restrict all oral fluids"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Lactulose is titrated to produce 2-3 soft stools per day; that is how ammonia is trapped and excreted. No stool with worsening confusion means the dose is inadequate and should be increased, not held.",
+        "incorrect": [
+          "Holding the lactulose would allow ammonia to keep rising and worsen the encephalopathy.",
+          "A large protein load can increase ammonia production and worsen encephalopathy during an acute episode.",
+          "Fluid restriction is not indicated and could worsen the situation."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis and ascites is receiving spironolactone and furosemide. Which finding requires the nurse to notify the provider?",
+      "options": [
+        "Urine output increased after the morning doses",
+        "Serum potassium 5.9 mEq/L with peaked T waves on the monitor",
+        "Weight decreased by 1 pound since yesterday",
+        "Serum sodium of 138 mEq/L"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Spironolactone is potassium-sparing, so a potassium of 5.9 mEq/L with peaked T waves indicates dangerous hyperkalemia with cardiac effects—an emergency requiring immediate provider notification.",
+        "incorrect": [
+          "Increased urine output is the desired diuretic response.",
+          "A 1-pound weight loss is an appropriate, safe rate of fluid removal.",
+          "A sodium of 138 mEq/L is within normal limits."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with acute pancreatitis. Which prescriptions does the nurse anticipate? Select all that apply.",
+      "options": [
+        "Maintain NPO status",
+        "Insert a nasogastric tube to low suction",
+        "Provide IV fluids and IV opioid analgesia",
+        "Position the client supine and flat for comfort",
+        "Begin a clear high-fat oral diet right away"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Acute pancreatitis is managed with bowel rest: NPO status, NG suction for vomiting and distention, and IV fluids with analgesia. The client should sit up and lean forward (not lie flat), and feeding—especially fat—is withheld until the pancreas has rested.",
+        "incorrect": [
+          "Correct—NPO status rests the pancreas by reducing enzyme stimulation.",
+          "Correct—NG suction relieves vomiting and gastric distention.",
+          "Correct—IV fluids treat third-spacing and opioids control the severe pain.",
+          "Incorrect—lying flat increases pressure on the retroperitoneal pancreas and worsens pain; the client should sit up and lean forward.",
+          "Incorrect—the client is kept NPO, and fat strongly stimulates the pancreas and worsens inflammation."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic pancreatitis on pancrelipase reports that their greasy stools have not improved. Which finding best explains the treatment failure?",
+      "options": [
+        "The client takes the capsules with the first bite of each meal",
+        "The client stirs the capsule contents into hot soup before eating",
+        "The client swallows the capsules whole with a cool drink",
+        "The client follows a low-fat diet"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Heat destroys pancreatic enzymes, so mixing the beads into hot food inactivates them and steatorrhea persists. If the capsule is opened, the beads should be taken with cool or room-temperature food.",
+        "incorrect": [
+          "Taking the enzymes with the first bite of each meal is correct technique.",
+          "Swallowing the capsules whole preserves the enteric coating and is correct.",
+          "A low-fat diet is appropriate and would help, not hinder, symptom control."
+        ]
+      }
+    },
+    {
+      "stem": "A client with gallstones develops severe epigastric pain radiating to the back, an elevated serum lipase, and a fever. The nurse recognizes the client has most likely developed which complication?",
+      "options": [
+        "Gallstone-induced pancreatitis",
+        "Peptic ulcer perforation",
+        "Acute hepatitis A",
+        "Diverticulitis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A stone lodged in the common bile duct near the ampulla backs up pancreatic secretions, and the resulting enzyme activation causes pancreatitis. Epigastric pain radiating to the back with an elevated lipase and fever fits gallstone pancreatitis—gallstones are a leading cause.",
+        "incorrect": [
+          "Perforation produces a sudden rigid, board-like abdomen, and lipase would not be the key finding.",
+          "Hepatitis A presents with jaundice and malaise, not an acutely elevated lipase with back pain.",
+          "Diverticulitis causes left lower quadrant pain, not epigastric pain with elevated lipase."
+        ]
+      }
+    },
+    {
+      "stem": "A client with previously resolved hepatitis B is scheduled to begin chemotherapy. Which action is most important?",
+      "options": [
+        "Anticipate antiviral prophylaxis, because immunosuppression can reactivate hepatitis B",
+        "Reassure the client that resolved hepatitis B poses no further risk",
+        "Administer the full hepatitis B vaccine series before chemotherapy begins",
+        "Place the client on contact precautions for the duration of chemotherapy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Chemotherapy-induced immunosuppression can reactivate hepatitis B even when it was previously resolved, sometimes causing severe hepatitis. Antiviral prophylaxis is anticipated and HBV status is monitored.",
+        "incorrect": [
+          "Resolved hepatitis B is not risk-free during immunosuppression; reactivation is a real danger.",
+          "Vaccination does not address the reactivation risk in someone who already had the infection.",
+          "Routine contact precautions are not the relevant intervention; hepatitis B is bloodborne and the concern here is reactivation."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a severe ulcerative colitis flare develops a distended, tympanic abdomen, fever, tachycardia, and a sudden drop in stool frequency. What is the nurse's priority action?",
+      "options": [
+        "Encourage oral fluids and a high-fiber diet",
+        "Notify the provider immediately and prepare for management of possible toxic megacolon",
+        "Administer a scheduled antidiarrheal medication",
+        "Ambulate the client to relieve gas"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A distended, tympanic abdomen with fever, tachycardia, and a paradoxical drop in stool frequency during a severe colitis flare suggests toxic megacolon—a life-threatening emergency with perforation risk requiring immediate provider notification.",
+        "incorrect": [
+          "Fiber and oral intake are contraindicated with a possible toxic megacolon; the bowel needs rest.",
+          "Antimotility/antidiarrheal drugs can precipitate or worsen toxic megacolon and are avoided.",
+          "Ambulation does not address this emergency and delays needed intervention."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Crohn's disease is about to start infliximab. Which assessment finding requires the nurse to hold the drug and notify the provider?",
+      "options": [
+        "A positive tuberculosis screening test",
+        "A history of well-controlled hypertension",
+        "A body mass index of 22",
+        "A report of occasional heartburn"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Anti-TNF biologics such as infliximab can reactivate latent tuberculosis, so a positive TB screen must be addressed and treated before therapy. The nurse should hold the drug and notify the provider.",
+        "incorrect": [
+          "Well-controlled hypertension is not a contraindication to infliximab.",
+          "A normal BMI is not a concern for starting infliximab.",
+          "Occasional heartburn does not preclude infliximab therapy."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving infliximab for IBD asks about vaccines. Which client statement indicates a need for further teaching?",
+      "options": [
+        "I should avoid live vaccines such as the nasal-spray flu vaccine and MMR.",
+        "I can receive the inactivated flu shot each year.",
+        "I will go ahead and get the live shingles vaccine now that I am on this medication.",
+        "When possible, I should be up to date on vaccines before starting immunosuppression."
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Live vaccines are contraindicated during infliximab therapy because immunosuppression makes them unsafe. Planning to receive a live shingles vaccine shows a misunderstanding and requires further teaching (a non-live recombinant option would be needed instead).",
+        "incorrect": [
+          "Correct understanding—live vaccines are avoided during immunosuppression.",
+          "Correct understanding—inactivated vaccines such as the flu shot are safe and recommended.",
+          "Correct understanding—updating vaccines before immunosuppression is ideal."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis and an INR of 2.4 is vomiting blood from esophageal varices. Which does the nurse expect to be the priority intervention?",
+      "options": [
+        "Administer IV octreotide and prepare for endoscopic band ligation",
+        "Give oral vitamin K and recheck the INR in 3 days",
+        "Encourage a high-protein meal to support clotting",
+        "Place the client flat in the Trendelenburg position"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Active variceal bleeding is treated by reducing splanchnic/portal blood flow with octreotide and stopping the bleeding with endoscopic band ligation. This directly addresses the hemorrhage.",
+        "incorrect": [
+          "Oral vitamin K works too slowly to control active bleeding, and a 3-day recheck ignores the emergency.",
+          "Feeding is not the priority during active hematemesis and increases aspiration risk.",
+          "Lying flat, especially in Trendelenburg, raises aspiration risk in a client vomiting blood."
+        ]
+      }
+    },
+    {
       "stem": "A nurse is teaching a client scheduled for a colonoscopy. Which statement by the client indicates a need for further teaching?",
       "options": [
         "I will drink only clear liquids the day before the test",

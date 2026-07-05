@@ -3,6 +3,230 @@
   "label": "Neoplasms & Cancer",
   "questions": [
     {
+      "stem": "A nurse on an oncology unit receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A client with an absolute neutrophil count of 400/mm³ and a temperature of 100.6°F (38.1°C)",
+        "A client with a platelet count of 60,000/mm³ requesting help to ambulate",
+        "A client on epoetin alfa asking about ongoing fatigue",
+        "A client with mild alopecia asking about wig resources"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Fever in a severely neutropenic client is neutropenic fever—a life-threatening emergency because the client cannot mount a normal response to infection. Blood cultures and antibiotics are needed within an hour, so this client is seen first.",
+        "incorrect": [
+          "A platelet count of 60,000 warrants bleeding precautions, but ambulation assistance is not an emergency.",
+          "Fatigue on epoetin alfa is expected and non-urgent.",
+          "Alopecia is distressing but not physiologically urgent."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving chemotherapy has a platelet count of 16,000/mm³. Which prescription should the nurse question?",
+      "options": [
+        "Use a soft toothbrush for oral care",
+        "Avoid rectal temperatures and suppositories",
+        "Administer the scheduled influenza vaccine intramuscularly",
+        "Hold gentle pressure over venipuncture sites"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "With a platelet count of 16,000/mm³, intramuscular injections risk deep bleeding and hematoma and should be avoided. The nurse should question the IM route and seek an alternative; the other measures are appropriate bleeding precautions.",
+        "incorrect": [
+          "A soft toothbrush is a correct bleeding precaution.",
+          "Avoiding rectal temperatures and suppositories prevents mucosal bleeding and is correct.",
+          "Holding pressure over venipuncture sites is an appropriate bleeding precaution."
+        ]
+      }
+    },
+    {
+      "stem": "A client is receiving high-dose cyclophosphamide. Which nursing action is most important to prevent a serious adverse effect?",
+      "options": [
+        "Restrict fluids to prevent fluid overload",
+        "Encourage vigorous hydration and administer mesna as prescribed",
+        "Monitor closely for constipation",
+        "Give the drug on an empty stomach"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Cyclophosphamide breaks down into acrolein, which irritates the bladder and causes hemorrhagic cystitis. Vigorous hydration and mesna protect the bladder and are the key preventive measures.",
+        "incorrect": [
+          "Fluids should be increased, not restricted, to dilute acrolein and protect the bladder.",
+          "Constipation is not the characteristic serious effect requiring specific prevention here.",
+          "Taking the drug on an empty stomach does not prevent hemorrhagic cystitis."
+        ]
+      }
+    },
+    {
+      "stem": "A client is receiving high-dose methotrexate with leucovorin rescue. Which new prescription should the nurse question?",
+      "options": [
+        "Continue leucovorin at the scheduled times",
+        "Give IV fluids with sodium bicarbonate to alkalinize the urine",
+        "Monitor methotrexate levels and renal function",
+        "Administer ibuprofen as needed for headache"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "NSAIDs such as ibuprofen reduce renal excretion of methotrexate and can raise it to toxic levels. The nurse should question this order; the other measures (leucovorin rescue, urine alkalinization, level and renal monitoring) all support safe high-dose methotrexate therapy.",
+        "incorrect": [
+          "Leucovorin rescue is essential to protect normal cells from high-dose methotrexate.",
+          "Alkalinizing the urine with bicarbonate promotes methotrexate excretion and prevents kidney injury.",
+          "Monitoring methotrexate levels and renal function is required for safe therapy."
+        ]
+      }
+    },
+    {
+      "stem": "During a peripheral infusion of a vesicant chemotherapy agent, the client reports burning at the IV site and the nurse notes swelling and no blood return. What is the nurse's first action?",
+      "options": [
+        "Stop the infusion immediately, leaving the catheter in place",
+        "Flush the line with normal saline to clear it",
+        "Increase the infusion rate to finish the dose quickly",
+        "Apply firm massage to the site"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Burning, swelling, and loss of blood return signal extravasation of a vesicant, which can cause severe tissue necrosis. The first action is to stop the infusion immediately while leaving the catheter in place so residual drug can be aspirated and an antidote given.",
+        "incorrect": [
+          "Flushing pushes more vesicant into the tissue and worsens the injury.",
+          "Increasing the rate delivers more vesicant into the tissue—exactly the wrong action.",
+          "Massage spreads the vesicant and increases tissue damage."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a neutropenic client how to reduce infection risk at home. Which statements by the client indicate correct understanding? Select all that apply.",
+      "options": [
+        "I will avoid raw fruits and vegetables and undercooked meat.",
+        "I should stay away from crowds and people who are sick.",
+        "I can keep fresh flowers and potted plants in my room.",
+        "I will check my temperature and call for a fever of 100.4°F (38°C) or higher.",
+        "I can use a rectal thermometer and take suppositories if I get constipated."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Neutropenic clients follow a low-microbe diet, avoid crowds and sick contacts, and report fever promptly. Fresh flowers, plants, soil, rectal thermometers, and suppositories are avoided because they introduce organisms or break the mucosal barrier.",
+        "incorrect": [
+          "Correct—raw produce and undercooked meat carry organisms and are avoided.",
+          "Correct—avoiding crowds and sick contacts reduces infection exposure.",
+          "Incorrect—fresh flowers, plants, and soil harbor bacteria and fungi and should be kept out of the room.",
+          "Correct—a temperature of 100.4°F (38°C) or higher must be reported immediately.",
+          "Incorrect—rectal thermometers and suppositories can break the rectal mucosa and introduce infection, so they are avoided."
+        ]
+      }
+    },
+    {
+      "stem": "A stem cell (bone marrow) transplant recipient develops a skin rash, profuse diarrhea, and a rising bilirubin about 3 weeks after transplant. The nurse recognizes this as:",
+      "options": [
+        "Acute graft rejection",
+        "A chemotherapy allergy",
+        "Graft-versus-host disease",
+        "Neutropenic enterocolitis"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "In graft-versus-host disease, the donor's immune cells recognize the recipient as foreign and attack the host—classically the skin (rash), gut (diarrhea), and liver (rising bilirubin). This is a complication of allogeneic stem cell/bone marrow transplant.",
+        "incorrect": [
+          "Graft rejection is when the host attacks a transplanted organ; here the donor cells are attacking the host.",
+          "A chemotherapy allergy would not produce this specific skin-gut-liver pattern.",
+          "Neutropenic enterocolitis causes fever and abdominal pain but not this triad with rising bilirubin and rash."
+        ]
+      }
+    },
+    {
+      "stem": "A client on cyclosporine after a kidney transplant describes their diet and habits. Which statement requires follow-up by the nurse?",
+      "options": [
+        "I take my cyclosporine at the same times every day.",
+        "I watch for a decrease in my urine output and report it.",
+        "I stay away from people who have infections.",
+        "I drink grapefruit juice every morning with breakfast."
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "Grapefruit juice inhibits the CYP3A4 enzyme that metabolizes cyclosporine, raising drug levels and the risk of toxicity (including nephrotoxicity). This statement requires follow-up and teaching to avoid grapefruit.",
+        "incorrect": [
+          "Correct—consistent dosing times maintain stable drug levels.",
+          "Correct—decreased urine output can signal nephrotoxicity or rejection and should be reported.",
+          "Correct—avoiding infected contacts is appropriate while immunosuppressed."
+        ]
+      }
+    },
+    {
+      "stem": "A woman of childbearing age is prescribed mycophenolate after transplant. Which instruction is essential?",
+      "options": [
+        "Use two reliable forms of contraception during therapy and for 6 weeks after stopping",
+        "Take the medication with an antacid to reduce nausea",
+        "Expect the urine to turn bright orange",
+        "Stop the medication if a mild cold develops"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Mycophenolate is teratogenic and causes pregnancy loss and malformations, so women of childbearing age must use two reliable forms of contraception during therapy and for 6 weeks after it is stopped.",
+        "incorrect": [
+          "Antacids (magnesium/aluminum) reduce mycophenolate absorption and should be separated, not taken together.",
+          "Mycophenolate does not turn the urine orange.",
+          "Immunosuppression should not be stopped abruptly for a minor illness without provider guidance; stopping risks rejection."
+        ]
+      }
+    },
+    {
+      "stem": "A client on Biktarvy for HIV asks why they must take it every single day without missing doses. Which response by the nurse is most accurate?",
+      "options": [
+        "Missing doses will cause permanent kidney damage.",
+        "You can stop taking it once your viral load is undetectable.",
+        "Inconsistent dosing lets the virus mutate and become resistant to the medication.",
+        "The medication cures HIV if you take it for a full year."
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Skipping doses allows HIV to replicate and mutate, producing drug-resistant virus and treatment failure. Strict daily adherence keeps the virus suppressed and preserves the regimen's effectiveness.",
+        "incorrect": [
+          "Missed doses risk resistance, not automatic permanent kidney damage.",
+          "An undetectable viral load requires continued therapy; stopping allows the virus to rebound.",
+          "Antiretroviral therapy controls but does not cure HIV."
+        ]
+      }
+    },
+    {
+      "stem": "A client is about to start an abacavir-containing regimen. The nurse notes that HLA-B*5701 testing has not been done. What is the nurse's best action?",
+      "options": [
+        "Hold the abacavir and ensure HLA-B*5701 testing is completed first",
+        "Administer the first dose and monitor closely for a rash",
+        "Give the dose with food to lower the hypersensitivity risk",
+        "Substitute a double dose of another antiretroviral"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A positive HLA-B*5701 result predicts a potentially fatal abacavir hypersensitivity reaction, so the test must be done and negative before the drug is started. The nurse should hold the drug until testing is complete.",
+        "incorrect": [
+          "Giving the dose before screening risks a life-threatening hypersensitivity reaction.",
+          "Food does not prevent the genetically mediated hypersensitivity reaction.",
+          "Doubling another drug is not an appropriate or safe substitution decision for the nurse."
+        ]
+      }
+    },
+    {
+      "stem": "A client newly started on a tenofovir-containing regimen asks how the nurse will monitor for its main toxicity. Which response is correct?",
+      "options": [
+        "We will check your blood sugar before every dose.",
+        "We will monitor your kidney function and phosphate levels regularly.",
+        "We will test your hearing every month.",
+        "No routine monitoring is needed with this medication."
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Tenofovir can cause nephrotoxicity and bone/phosphate loss, so renal function and phosphate levels are monitored regularly during therapy.",
+        "incorrect": [
+          "Routine pre-dose glucose checks are not the monitoring specific to tenofovir.",
+          "Monthly hearing tests are not associated with tenofovir monitoring.",
+          "Tenofovir requires monitoring; saying none is needed is inaccurate."
+        ]
+      }
+    },
+    {
       "stem": "A client receiving chemotherapy has a platelet count of 18,000/mm³. Which intervention should the nurse include in the plan of care?",
       "options": [
         "Administer prescribed colony-stimulating factors",
