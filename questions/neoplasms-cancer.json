@@ -5,38 +5,38 @@
     {
       "stem": "A client receiving chemotherapy has a platelet count of 18,000/mm³. Which intervention should the nurse include in the plan of care?",
       "options": [
-        "Place the client in protective isolation",
+        "Administer prescribed colony-stimulating factors",
         "Avoid intramuscular injections and use a soft toothbrush",
         "Encourage increased oral fluid intake",
-        "Administer prescribed colony-stimulating factors"
+        "Place the client in protective isolation"
       ],
       "answer": 1,
       "rationale": {
         "correct": "A platelet count below 20,000/mm³ indicates severe thrombocytopenia with high bleeding risk. Avoiding IM injections and trauma is essential.",
         "incorrect": [
-          "Protective isolation is for neutropenia, not thrombocytopenia.",
+          "Colony-stimulating factors stimulate WBCs, not platelets. Thrombopoietin agents would be used for platelets.",
           "A platelet count below 20,000/mm³ indicates severe thrombocytopenia with high bleeding risk. Avoiding IM injections and trauma is essential.",
           "Fluids are important but don't address the bleeding risk priority.",
-          "Colony-stimulating factors stimulate WBCs, not platelets. Thrombopoietin agents would be used for platelets."
+          "Protective isolation is for neutropenia, not thrombocytopenia."
         ]
       }
     },
     {
       "stem": "A nurse is caring for a client receiving radiation therapy to the chest. Which finding requires immediate intervention?",
       "options": [
+        "Temporary hair loss in the treatment field",
         "Fatigue that worsens as treatment progresses",
-        "Dry, reddened skin over the treatment area",
         "Moist desquamation with open areas on the skin",
-        "Temporary hair loss in the treatment field"
+        "Dry, reddened skin over the treatment area"
       ],
       "answer": 2,
       "rationale": {
         "correct": "Moist desquamation with open areas indicates severe skin breakdown requiring immediate intervention to prevent infection and promote healing.",
         "incorrect": [
+          "Hair loss in the treatment field is expected and temporary.",
           "Fatigue is an expected side effect of radiation therapy.",
-          "Dry erythema is common and managed with routine skin care.",
           "Moist desquamation with open areas indicates severe skin breakdown requiring immediate intervention to prevent infection and promote healing.",
-          "Hair loss in the treatment field is expected and temporary."
+          "Dry erythema is common and managed with routine skin care."
         ]
       }
     },
@@ -44,11 +44,11 @@
       "stem": "A nursing student asks the instructor to define cancer. Which statement is the most accurate description?",
       "options": [
         "Cancer is simply any group of cells that divide quickly",
-        "Cancer is cells that have lost control of their growth, apoptosis, and location in the body",
         "Cancer is an infection caused by bacteria in the bloodstream",
+        "Cancer is cells that have lost control of their growth, apoptosis, and location in the body",
         "Cancer only occurs in older adults over age 65"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "Cancer is a loss of regulation—cells ignore stop signals, avoid apoptosis, and grow beyond their normal location. It is not defined by speed of growth alone.",
         "incorrect": [
@@ -61,17 +61,17 @@
     {
       "stem": "The nurse explains that cancer cells differ from normal cells in that cancer cells:",
       "options": [
+        "Stop dividing when they touch neighboring cells",
         "Undergo apoptosis when their DNA is damaged",
         "Continue dividing despite DNA damage and avoid apoptosis",
-        "Stop dividing when they touch neighboring cells",
         "Only divide when the body signals a need for new cells"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "Cancer cells ignore stop signals, avoid apoptosis, and keep dividing despite DNA damage, accumulating more mutations and becoming more aggressive over time.",
         "incorrect": [
-          "Cancer cells avoid apoptosis; it is normal cells that self-destruct when damaged.",
           "Loss of contact inhibition means cancer cells do NOT stop dividing when they contact neighbors.",
+          "Cancer cells avoid apoptosis; it is normal cells that self-destruct when damaged.",
           "Cancer cells divide continuously regardless of the body's needs, unlike normal cells."
         ]
       }
@@ -79,17 +79,17 @@
     {
       "stem": "A client asks what metastasis means. The nurse's best explanation is that metastasis is when cancer cells:",
       "options": [
-        "Grow directly into the tissue right next to the original tumor",
-        "Break away and travel through blood or lymph to form new tumors in distant organs",
         "Are destroyed by the immune system",
-        "Shrink and become benign over time"
+        "Grow directly into the tissue right next to the original tumor",
+        "Shrink and become benign over time",
+        "Break away and travel through blood or lymph to form new tumors in distant organs"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "Metastasis is when cancer cells break away from the primary tumor, travel through the bloodstream or lymphatic system, and establish new (secondary) tumors in distant organs such as the liver, lungs, or brain.",
         "incorrect": [
-          "Direct extension into adjacent tissue is invasion, not metastasis.",
           "Metastasis is spread of the cancer, not its destruction.",
+          "Direct extension into adjacent tissue is invasion, not metastasis.",
           "Metastatic cells remain malignant; they do not become benign."
         ]
       }
@@ -97,17 +97,17 @@
     {
       "stem": "A nurse is teaching about tumor terminology. Which statement is correct?",
       "options": [
-        "All neoplasms are cancerous",
-        "All tumors are malignant",
         "Not all tumors are cancer, but all cancers are malignant tumors",
+        "All tumors are malignant",
+        "All neoplasms are cancerous",
         "Benign tumors always metastasize"
       ],
-      "answer": 2,
+      "answer": 0,
       "rationale": {
         "correct": "A neoplasm is any new abnormal growth and may be benign or malignant, but by definition every cancer is a malignant tumor.",
         "incorrect": [
-          "Neoplasms can be benign or malignant; not all are cancer.",
           "Tumors can be benign (non-cancerous) or malignant (cancerous).",
+          "Neoplasms can be benign or malignant; not all are cancer.",
           "Benign tumors do not metastasize; only malignant tumors can spread."
         ]
       }
@@ -115,18 +115,18 @@
     {
       "stem": "Which description correctly distinguishes a malignant tumor from a benign tumor?",
       "options": [
-        "Benign: poorly differentiated, invades tissue, metastasizes",
+        "Benign and malignant tumors behave identically",
         "Malignant: well differentiated, slow growing, stays localized",
-        "Malignant: poorly differentiated, grows rapidly, invades tissue, can metastasize",
-        "Benign and malignant tumors behave identically"
+        "Benign: poorly differentiated, invades tissue, metastasizes",
+        "Malignant: poorly differentiated, grows rapidly, invades tissue, can metastasize"
       ],
-      "answer": 2,
+      "answer": 3,
       "rationale": {
         "correct": "Malignant tumors are poorly differentiated, grow rapidly, invade surrounding tissue, and can metastasize. Benign tumors are well differentiated, slow growing, and remain localized.",
         "incorrect": [
-          "This describes malignant, not benign, tumors.",
+          "Benign and malignant tumors differ markedly in differentiation, growth, and ability to spread.",
           "This describes benign, not malignant, tumors.",
-          "Benign and malignant tumors differ markedly in differentiation, growth, and ability to spread."
+          "This describes malignant, not benign, tumors."
         ]
       }
     },
@@ -135,33 +135,33 @@
       "options": [
         "A cancerous growth that has spread",
         "An increase in the number of normal cells, which is controlled and reversible",
-        "The replacement of one cell type with another",
-        "A complete loss of cell differentiation"
+        "A complete loss of cell differentiation",
+        "The replacement of one cell type with another"
       ],
       "answer": 1,
       "rationale": {
         "correct": "Hyperplasia is a controlled, reversible increase in the number of normal cells, often driven by a stimulus such as hormones or chronic irritation (as in BPH).",
         "incorrect": [
           "Hyperplasia is not cancer; it is an increase in normal cells.",
-          "Replacement of one mature cell type by another is metaplasia, not hyperplasia.",
-          "Loss of differentiation describes anaplasia, not hyperplasia."
+          "Loss of differentiation describes anaplasia, not hyperplasia.",
+          "Replacement of one mature cell type by another is metaplasia, not hyperplasia."
         ]
       }
     },
     {
       "stem": "A client with GERD is told that chronic acid exposure has caused Barrett's esophagus, an example of metaplasia. The nurse explains that metaplasia is:",
       "options": [
-        "An irreversible cancerous change",
         "The replacement of one mature cell type by another as an adaptive response, which can become precancerous",
         "An increase in the number of normal cells",
+        "An irreversible cancerous change",
         "The spread of cancer to a distant organ"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Metaplasia is the replacement of one normal mature cell type with another as an adaptive response to stress. Barrett's esophagus is a classic example that is precancerous—it is not cancer but increases cancer risk over time.",
         "incorrect": [
-          "Metaplasia itself is not cancer, though it can raise cancer risk if the stressor persists.",
           "An increase in the number of normal cells is hyperplasia, not metaplasia.",
+          "Metaplasia itself is not cancer, though it can raise cancer risk if the stressor persists.",
           "Spread to a distant organ is metastasis, not metaplasia."
         ]
       }
@@ -169,12 +169,12 @@
     {
       "stem": "On a pathology report, a tumor is described as anaplastic. The nurse understands this finding indicates:",
       "options": [
-        "A benign, slow-growing mass",
         "A total loss of differentiation, which is a hallmark of aggressive malignancy",
+        "A benign, slow-growing mass",
         "Normal, well-organized tissue",
         "A reversible precancerous change"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Anaplasia is the total loss of differentiation—cells no longer resemble the tissue of origin and appear primitive and disorganized. It is a hallmark of high-grade, aggressive cancer.",
         "incorrect": [
@@ -187,36 +187,36 @@
     {
       "stem": "A nurse reviews two pathology reports. Tumor A is well-differentiated and Tumor B is poorly differentiated. Which conclusion is correct?",
       "options": [
-        "Tumor A is likely more aggressive with a worse prognosis",
         "Tumor B is likely more aggressive with a worse prognosis",
         "Differentiation has no relationship to prognosis",
-        "Both tumors are benign"
+        "Both tumors are benign",
+        "Tumor A is likely more aggressive with a worse prognosis"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Poorly/undifferentiated cells look very abnormal, grow more rapidly, and behave more aggressively. Less differentiation is associated with a worse prognosis.",
         "incorrect": [
-          "Well-differentiated tumors resemble normal tissue and tend to be less aggressive.",
           "Degree of differentiation is an important predictor of tumor behavior and prognosis.",
-          "Poor differentiation indicates malignancy, not a benign process."
+          "Poor differentiation indicates malignancy, not a benign process.",
+          "Well-differentiated tumors resemble normal tissue and tend to be less aggressive."
         ]
       }
     },
     {
       "stem": "A client with colon cancer is found to have tumor deposits in the liver and lungs. The nurse recognizes this hematogenous spread occurs because:",
       "options": [
-        "The cancer spread through direct contact with skin",
-        "Cancer cells traveled through the bloodstream to highly vascular organs",
+        "The liver and lungs produce cancer independently",
         "The tumor cells were inhaled into the lungs",
-        "The liver and lungs produce cancer independently"
+        "Cancer cells traveled through the bloodstream to highly vascular organs",
+        "The cancer spread through direct contact with skin"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "In hematogenous spread, cancer cells enter the bloodstream and lodge in highly vascular organs such as the liver and lungs, forming metastases.",
         "incorrect": [
-          "Hematogenous spread is through the blood, not skin contact.",
+          "These are metastatic (secondary) tumors from the colon primary, not independent new cancers.",
           "Cancer cells are not inhaled; they arrive via the blood.",
-          "These are metastatic (secondary) tumors from the colon primary, not independent new cancers."
+          "Hematogenous spread is through the blood, not skin contact."
         ]
       }
     },
@@ -224,17 +224,17 @@
       "stem": "A nurse is describing the stages of carcinogenesis. Which sequence is correct?",
       "options": [
         "Progression, promotion, initiation",
-        "Initiation (DNA damage), promotion (growth of mutated cells), progression (malignant and invasive)",
+        "Promotion, apoptosis, initiation",
         "Metastasis, initiation, apoptosis",
-        "Promotion, apoptosis, initiation"
+        "Initiation (DNA damage), promotion (growth of mutated cells), progression (malignant and invasive)"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "Carcinogenesis is a multi-step process: initiation (a DNA mutation), promotion (repeated exposures stimulate the mutated cells to proliferate—still reversible if the stimulus is removed), and progression (cells become fully malignant and invasive).",
         "incorrect": [
           "This reverses the correct order.",
-          "Apoptosis is not a stage of carcinogenesis; the sequence is initiation, promotion, progression.",
-          "This ordering is incorrect; initiation comes first."
+          "This ordering is incorrect; initiation comes first.",
+          "Apoptosis is not a stage of carcinogenesis; the sequence is initiation, promotion, progression."
         ]
       }
     },
@@ -268,30 +268,30 @@
     {
       "stem": "The nurse explains that certain tissues are more prone to developing cancer. Which type of cell is at the highest risk?",
       "options": [
-        "Myocardial (heart muscle) cells",
         "Rapidly dividing cells such as those in bone marrow, the GI tract, and skin",
         "Mature nerve cells in the brain",
-        "Cells that never replicate"
+        "Cells that never replicate",
+        "Myocardial (heart muscle) cells"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Rapidly dividing tissues (bone marrow, GI tract, skin) have high cell turnover. Every division copies DNA and carries a small risk of error, so accumulated mutations make cancer more common. These are also the tissues most affected by chemotherapy.",
         "incorrect": [
-          "Myocardial cells rarely divide after development, so they are at lower cancer risk.",
           "Mature neurons divide rarely and are at lower risk.",
-          "Cells that do not replicate have fewer chances to accumulate replication errors, lowering their risk."
+          "Cells that do not replicate have fewer chances to accumulate replication errors, lowering their risk.",
+          "Myocardial cells rarely divide after development, so they are at lower cancer risk."
         ]
       }
     },
     {
       "stem": "A nurse describes how malignant tumors obtain the oxygen and nutrients needed to keep growing. This process is called:",
       "options": [
-        "Apoptosis",
         "Angiogenesis",
+        "Apoptosis",
         "Differentiation",
         "Contact inhibition"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Angiogenesis is the formation of new blood vessels. Tumors secrete growth factors that stimulate new capillaries to supply oxygen and nutrients, allowing the tumor to grow larger. It is a common target of cancer therapies.",
         "incorrect": [
@@ -304,18 +304,18 @@
     {
       "stem": "A nurse explains how the immune system normally protects against cancer (immune surveillance). Which cells are the key players?",
       "options": [
-        "Red blood cells and platelets",
+        "Pancreatic beta cells",
         "Cytotoxic (CD8+) T cells, natural killer cells, and macrophages",
         "Osteoblasts and osteoclasts",
-        "Pancreatic beta cells"
+        "Red blood cells and platelets"
       ],
       "answer": 1,
       "rationale": {
         "correct": "Immune surveillance relies on cytotoxic (CD8+) T cells that kill abnormal cells, natural killer (NK) cells that attack cells lacking normal self-markers, and macrophages that phagocytose tumor cells.",
         "incorrect": [
-          "Red cells and platelets carry oxygen and aid clotting; they do not perform immune surveillance.",
+          "Beta cells produce insulin and are unrelated to immune surveillance.",
           "Osteoblasts and osteoclasts remodel bone and are not part of tumor surveillance.",
-          "Beta cells produce insulin and are unrelated to immune surveillance."
+          "Red cells and platelets carry oxygen and aid clotting; they do not perform immune surveillance."
         ]
       }
     },
@@ -351,34 +351,34 @@
       "options": [
         "Hepatitis B vaccine",
         "HPV vaccine",
-        "Influenza vaccine",
-        "Tetanus vaccine"
+        "Tetanus vaccine",
+        "Influenza vaccine"
       ],
       "answer": 1,
       "rationale": {
         "correct": "The HPV vaccine prevents infection with oncogenic human papillomavirus, reducing the risk of cervical, anal, penile, and oropharyngeal cancers.",
         "incorrect": [
           "Hepatitis B vaccine helps prevent liver cancer by preventing chronic hepatitis, not cervical cancer.",
-          "The influenza vaccine does not prevent an oncogenic infection.",
-          "The tetanus vaccine is unrelated to cancer prevention."
+          "The tetanus vaccine is unrelated to cancer prevention.",
+          "The influenza vaccine does not prevent an oncogenic infection."
         ]
       }
     },
     {
       "stem": "A malignant tumor cell 'does not adhere to neighboring cells and lacks contact inhibition.' What is the clinical significance of these features?",
       "options": [
-        "The cells stay tightly bound and localized",
         "The cells can break loose to invade and spread, and keep growing into disorganized masses",
+        "The cells undergo apoptosis rapidly",
         "The cells stop growing when they touch each other",
-        "The cells undergo apoptosis rapidly"
+        "The cells stay tightly bound and localized"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Without contact inhibition, malignant cells keep dividing into dense, disorganized masses; and because they do not adhere well, individual cells can break loose from the primary tumor to invade and metastasize.",
         "incorrect": [
-          "Malignant cells do not stay bound; poor adhesion lets them break away.",
+          "Cancer cells avoid apoptosis rather than undergoing it rapidly.",
           "Loss of contact inhibition means they do NOT stop growing on contact.",
-          "Cancer cells avoid apoptosis rather than undergoing it rapidly."
+          "Malignant cells do not stay bound; poor adhesion lets them break away."
         ]
       }
     },
@@ -386,29 +386,29 @@
       "stem": "A client with advanced cancer has severe muscle and fat wasting despite nutritional support. The nurse documents this as:",
       "options": [
         "Cachexia",
-        "Hyperplasia",
         "Angiogenesis",
-        "Metaplasia"
+        "Metaplasia",
+        "Hyperplasia"
       ],
       "answer": 0,
       "rationale": {
         "correct": "Cachexia is the severe wasting of muscle and fat commonly seen in cancer, driven by anorexia, increased metabolic demands of tumor cells, fatigue, and stress. It is one of the most common systemic findings.",
         "incorrect": [
-          "Hyperplasia is an increase in normal cell numbers, not wasting.",
           "Angiogenesis is new blood vessel formation by tumors, not wasting.",
-          "Metaplasia is a change in cell type, not a wasting syndrome."
+          "Metaplasia is a change in cell type, not a wasting syndrome.",
+          "Hyperplasia is an increase in normal cell numbers, not wasting."
         ]
       }
     },
     {
       "stem": "A client with lung cancer develops abnormal hormone levels and neurologic symptoms that are not caused by direct tumor spread. The nurse recognizes this as:",
       "options": [
-        "Paraneoplastic syndrome",
         "Metastasis to the brain",
         "A normal side effect of chemotherapy",
+        "Paraneoplastic syndrome",
         "An allergic reaction"
       ],
-      "answer": 0,
+      "answer": 2,
       "rationale": {
         "correct": "Paraneoplastic syndrome occurs when tumor cells release hormones or cytokines that cause neurologic and endocrine effects (such as altered calcium levels) at sites distant from the tumor. It is caused by abnormal signaling, not direct tumor spread.",
         "incorrect": [
@@ -440,11 +440,11 @@
       "stem": "A nurse is explaining the TNM classification system for cancer staging. What does the 'N' represent?",
       "options": [
         "The number of chemotherapy cycles needed",
-        "Regional lymph node involvement",
         "The nutritional status of the client",
+        "Regional lymph node involvement",
         "The name of the tumor"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "In TNM staging, T = size/extent of the primary tumor, N = regional lymph node involvement, and M = distant metastasis. Staging guides treatment and prognosis.",
         "incorrect": [
@@ -457,36 +457,36 @@
     {
       "stem": "A client is told the goal of their cancer treatment is palliative. The nurse explains this means the treatment is focused on:",
       "options": [
+        "Shrinking the tumor before surgery",
         "Completely curing the cancer",
-        "Comfort and quality of life rather than cure",
         "Preventing the cancer from ever returning",
-        "Shrinking the tumor before surgery"
+        "Comfort and quality of life rather than cure"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "Palliative treatment focuses on comfort and quality of life, relieving symptoms rather than curing the disease. (The other two main goals are curative and control.)",
         "incorrect": [
+          "Shrinking a tumor before surgery is neoadjuvant/curative-oriented, not palliative.",
           "A palliative goal is not curative.",
-          "Preventing recurrence relates to curative intent, not palliation.",
-          "Shrinking a tumor before surgery is neoadjuvant/curative-oriented, not palliative."
+          "Preventing recurrence relates to curative intent, not palliation."
         ]
       }
     },
     {
       "stem": "A nurse is teaching about radiation therapy. Which statement is accurate?",
       "options": [
-        "Radiation affects the entire body systemically",
-        "Radiation damages the DNA of cancer cells in a targeted area and is most effective on rapidly dividing cells",
+        "Radiation is effective against all cancer types equally",
         "Radiation has no effect on surrounding healthy tissue",
-        "Radiation is effective against all cancer types equally"
+        "Radiation affects the entire body systemically",
+        "Radiation damages the DNA of cancer cells in a targeted area and is most effective on rapidly dividing cells"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "Radiation delivers high-energy radiation that damages the DNA of cancer cells, causing cell death. It is localized and most effective against rapidly dividing cells; side effects include skin changes and fatigue.",
         "incorrect": [
-          "Radiation is localized, targeting a specific area, not the whole body systemically like chemo.",
+          "Some cancers are radio-resistant, so radiation is not equally effective for all types.",
           "Radiation can still damage nearby healthy cells, causing side effects.",
-          "Some cancers are radio-resistant, so radiation is not equally effective for all types."
+          "Radiation is localized, targeting a specific area, not the whole body systemically like chemo."
         ]
       }
     },
@@ -520,53 +520,53 @@
     {
       "stem": "A client receiving chemotherapy has an absolute neutrophil count that is severely low. Which nursing intervention is the priority?",
       "options": [
-        "Encourage the client to eat fresh raw fruits and vegetables",
-        "Implement neutropenic precautions, including hand hygiene and avoiding crowds and sick contacts",
         "Place the client on bleeding precautions only",
-        "Encourage visitors with mild colds to keep the client company"
+        "Encourage visitors with mild colds to keep the client company",
+        "Encourage the client to eat fresh raw fruits and vegetables",
+        "Implement neutropenic precautions, including hand hygiene and avoiding crowds and sick contacts"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "Severe neutropenia leaves the client highly vulnerable to infection. Neutropenic precautions—strict hand hygiene, a protective environment, avoiding crowds and sick contacts—are the priority. A subtle low-grade fever may be the only sign of serious infection.",
         "incorrect": [
-          "Raw produce can carry pathogens; neutropenic clients should avoid raw/undercooked foods.",
           "Bleeding precautions address thrombocytopenia, not the infection risk of neutropenia.",
-          "Sick visitors must be kept away from a neutropenic, immunocompromised client."
+          "Sick visitors must be kept away from a neutropenic, immunocompromised client.",
+          "Raw produce can carry pathogens; neutropenic clients should avoid raw/undercooked foods."
         ]
       }
     },
     {
       "stem": "A nurse explains why a client receiving an organ transplant is intentionally given immunosuppressant medications. The purpose is to:",
       "options": [
-        "Cure the client's underlying disease",
-        "Prevent the immune system from recognizing and rejecting the new organ",
         "Increase the client's immune response to fight infection",
-        "Speed up wound healing"
+        "Speed up wound healing",
+        "Cure the client's underlying disease",
+        "Prevent the immune system from recognizing and rejecting the new organ"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "Transplant patients receive immunosuppressants so the immune system does not attack the new organ as foreign. The goal is a balance: enough suppression to prevent rejection, but not so much that infection risk becomes dangerous.",
         "incorrect": [
-          "Immunosuppressants do not cure the underlying disease; they prevent rejection.",
           "These drugs decrease, not increase, the immune response.",
-          "Immunosuppression actually impairs wound healing rather than speeding it."
+          "Immunosuppression actually impairs wound healing rather than speeding it.",
+          "Immunosuppressants do not cure the underlying disease; they prevent rejection."
         ]
       }
     },
     {
       "stem": "A bone marrow transplant recipient develops a reaction in which the donor's immune cells attack the recipient's tissues. The nurse recognizes this as:",
       "options": [
-        "Host-versus-graft rejection",
-        "Graft-versus-host disease (GVHD)",
         "Hyperacute rejection",
+        "Graft-versus-host disease (GVHD)",
+        "Host-versus-graft rejection",
         "An allergic reaction to the anesthesia"
       ],
       "answer": 1,
       "rationale": {
         "correct": "In graft-versus-host disease, the donor's immune cells attack the host's tissues. It is seen with bone marrow/stem cell transplants.",
         "incorrect": [
-          "Host-versus-graft is when the recipient's immune system attacks the donor organ—the opposite direction.",
           "Hyperacute rejection is the host attacking the graft within minutes to hours, not the donor cells attacking the host.",
+          "Host-versus-graft is when the recipient's immune system attacks the donor organ—the opposite direction.",
           "This is an immune (GVHD) reaction, not an anesthesia allergy."
         ]
       }
@@ -574,12 +574,12 @@
     {
       "stem": "A kidney transplant recipient develops a fever, tenderness over the graft site, and a rising serum creatinine several weeks after surgery. The nurse suspects which type of rejection?",
       "options": [
-        "Hyperacute rejection",
         "Acute rejection",
+        "Hyperacute rejection",
         "Graft-versus-host disease",
         "Chronic rejection"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Acute rejection occurs days to months after transplant and is T-cell mediated. Classic cues include fever, increased creatinine, and tenderness over the graft.",
         "incorrect": [
@@ -592,17 +592,17 @@
     {
       "stem": "A client is prescribed cyclosporine, a calcineurin inhibitor, after a kidney transplant. Which adverse effect is the priority for the nurse to monitor?",
       "options": [
-        "Nephrotoxicity",
-        "Hair loss",
         "Weight loss",
-        "Hypoglycemia"
+        "Hair loss",
+        "Hypoglycemia",
+        "Nephrotoxicity"
       ],
-      "answer": 0,
+      "answer": 3,
       "rationale": {
         "correct": "Cyclosporine reduces T-cell activation but is nephrotoxic. Because the client has a transplanted kidney, monitoring creatinine, GFR, urine output, and hydration is a priority. It also causes hypertension, tremors, hirsutism, and gingival hyperplasia, and has a narrow therapeutic index requiring drug-level monitoring.",
         "incorrect": [
-          "Cyclosporine causes hirsutism (excess hair growth), not hair loss, and this is not the priority concern.",
           "Weight loss is not a hallmark adverse effect of cyclosporine.",
+          "Cyclosporine causes hirsutism (excess hair growth), not hair loss, and this is not the priority concern.",
           "Cyclosporine is not primarily associated with hypoglycemia."
         ]
       }
@@ -610,19 +610,19 @@
     {
       "stem": "A client is being discharged on cyclosporine after transplant. Which statement by the client indicates a need for further teaching?",
       "options": [
-        "I will take my medication at the same time every day",
         "I can drink grapefruit juice with my morning dose",
-        "I will report any fever, even a low one, to my provider",
-        "I understand I will likely take this medication for life"
+        "I will take my medication at the same time every day",
+        "I understand I will likely take this medication for life",
+        "I will report any fever, even a low one, to my provider"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Grapefruit juice interferes with cyclosporine metabolism and raises drug levels, increasing toxicity. The client should avoid grapefruit juice—this statement indicates a need for further teaching.",
         "incorrect": [
-          "Taking cyclosporine at the same time daily maintains consistent drug levels and is correct.",
           "Grapefruit juice interferes with cyclosporine metabolism and raises drug levels, increasing toxicity. The client should avoid grapefruit juice—this statement indicates a need for further teaching.",
-          "Reporting even a subtle fever is correct; it may be the only sign of a serious infection in an immunosuppressed client.",
-          "Cyclosporine is lifelong therapy for transplant recipients, so this statement is correct."
+          "Taking cyclosporine at the same time daily maintains consistent drug levels and is correct.",
+          "Cyclosporine is lifelong therapy for transplant recipients, so this statement is correct.",
+          "Reporting even a subtle fever is correct; it may be the only sign of a serious infection in an immunosuppressed client."
         ]
       }
     },
@@ -630,11 +630,11 @@
       "stem": "A client on mycophenolate after transplant has the following results: WBC 2,000/mm³, hemoglobin 9 g/dL, platelets 90,000/mm³. The nurse recognizes these findings as:",
       "options": [
         "An expected therapeutic response",
-        "Bone marrow suppression, a known adverse effect requiring CBC monitoring",
         "Signs of organ rejection",
-        "A sign the dose is too low"
+        "A sign the dose is too low",
+        "Bone marrow suppression, a known adverse effect requiring CBC monitoring"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "Mycophenolate suppresses B- and T-cell proliferation by interfering with DNA synthesis, which can also suppress the bone marrow, causing anemia, leukopenia, and thrombocytopenia. CBC must be monitored (weekly initially), and the client is at increased infection, fall, and bleeding risk.",
         "incorrect": [
@@ -648,11 +648,11 @@
       "stem": "A woman of childbearing age is prescribed mycophenolate. Which teaching is essential?",
       "options": [
         "The medication improves fertility",
-        "Strict contraception is required because the drug is teratogenic",
         "The medication is safe to take during pregnancy",
+        "Strict contraception is required because the drug is teratogenic",
         "No special precautions are needed"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "Mycophenolate is a teratogen. Women of childbearing age must use strict, reliable contraception to avoid pregnancy while taking it.",
         "incorrect": [
@@ -665,17 +665,17 @@
     {
       "stem": "A nurse is caring for several immunosuppressed clients. Which sign should the nurse recognize may be the only indication of a serious infection?",
       "options": [
-        "A high fever of 104°F with chills",
-        "A low-grade fever",
         "Elevated blood pressure",
-        "A strong, productive cough"
+        "A high fever of 104°F with chills",
+        "A strong, productive cough",
+        "A low-grade fever"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "In immunosuppressed clients, a low-grade fever may be the only sign of a serious infection because the weakened immune system cannot produce a typical response. Subtle changes must not be ignored.",
         "incorrect": [
-          "Immunosuppressed clients often cannot mount a robust immune response, so a dramatic high fever may not occur.",
           "Elevated blood pressure is not a reliable early sign of infection in these clients.",
+          "Immunosuppressed clients often cannot mount a robust immune response, so a dramatic high fever may not occur.",
           "A strong productive cough requires an intact inflammatory response, which immunosuppressed clients may lack."
         ]
       }
@@ -683,18 +683,18 @@
     {
       "stem": "A nurse is teaching an immunosuppressed client how to reduce infection risk. Which statement by the client indicates a need for further teaching?",
       "options": [
-        "I will avoid crowds and people who are sick",
         "I should get live vaccines like the shingles and MMR vaccines",
         "I will wash my hands frequently",
+        "I will avoid crowds and people who are sick",
         "I will avoid raw foods, unpasteurized dairy, and undercooked meats"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Live vaccines (MMR, varicella, shingles) are contraindicated in immunosuppressed clients because the weakened immune system may not safely handle the live organism, which could cause active infection. This statement indicates a need for further teaching.",
         "incorrect": [
-          "Avoiding crowds and sick contacts appropriately reduces exposure to pathogens.",
           "Live vaccines (MMR, varicella, shingles) are contraindicated in immunosuppressed clients because the weakened immune system may not safely handle the live organism, which could cause active infection. This statement indicates a need for further teaching.",
           "Frequent hand hygiene is a correct infection-prevention measure.",
+          "Avoiding crowds and sick contacts appropriately reduces exposure to pathogens.",
           "Avoiding raw or undercooked foods reduces exposure to foodborne pathogens and is correct."
         ]
       }
@@ -702,12 +702,12 @@
     {
       "stem": "A nurse is teaching about herpesviruses (HSV, VZV, CMV). Which characteristic do they share?",
       "options": [
-        "They are bacteria that respond to antibiotics",
         "They establish lifelong latency and can reactivate when immunity is weakened",
+        "They are bacteria that respond to antibiotics",
         "They are always cleared completely by the immune system",
         "They only cause disease at the time of first infection"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Herpesviruses establish lifelong latency in the body after the initial infection and can reactivate later when the immune system is weakened or stressed.",
         "incorrect": [
@@ -721,11 +721,11 @@
       "stem": "A client asks how they developed shingles when they never caught it from anyone. The nurse's best explanation is:",
       "options": [
         "Shingles is a brand-new virus unrelated to any past infection",
-        "Shingles is a reactivation of the varicella-zoster virus that stayed dormant after a past chickenpox infection",
         "Shingles is caused by a recent bacterial exposure",
+        "Shingles is a reactivation of the varicella-zoster virus that stayed dormant after a past chickenpox infection",
         "Shingles is caused by the flu vaccine"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "After chickenpox, varicella-zoster virus (VZV) remains latent in the dorsal root ganglia. When immunity weakens, it reactivates and travels along a sensory nerve to the skin, causing shingles.",
         "incorrect": [
@@ -738,55 +738,55 @@
     {
       "stem": "A nurse assesses a client with a painful, blistering rash. Which finding is the key feature that identifies the rash as shingles (herpes zoster)?",
       "options": [
-        "A symmetrical rash covering the entire body",
         "A rash in a unilateral pattern along a single dermatome that does not cross the midline",
+        "Painless flat patches scattered randomly",
         "A rash only on the palms and soles",
-        "Painless flat patches scattered randomly"
+        "A symmetrical rash covering the entire body"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Herpes zoster reactivates along a single sensory nerve, so it produces a unilateral, dermatomal, vesicular rash on one side of the body that does not cross the midline (thoracic dermatomes are most common). This pattern is the key to identification.",
         "incorrect": [
-          "Shingles is not a symmetrical whole-body rash; it follows one nerve.",
           "Herpes zoster reactivates along a single sensory nerve, so it produces a unilateral, dermatomal, vesicular rash on one side of the body that does not cross the midline (thoracic dermatomes are most common). This pattern is the key to identification.",
+          "Shingles is painful (often with burning/tingling before the rash) and follows a dermatome, not a random painless pattern.",
           "A palms-and-soles pattern is not characteristic of shingles.",
-          "Shingles is painful (often with burning/tingling before the rash) and follows a dermatome, not a random painless pattern."
+          "Shingles is not a symmetrical whole-body rash; it follows one nerve."
         ]
       }
     },
     {
       "stem": "A client with shingles asks whether they can spread the virus. The nurse's most accurate response is:",
       "options": [
+        "The virus spreads through the air even after the lesions crust over",
         "You cannot spread anything to anyone",
-        "A person who has never had chickenpox or the vaccine can catch the virus from your vesicle fluid and develop chickenpox—not shingles",
         "Anyone near you will immediately get shingles",
-        "The virus spreads through the air even after the lesions crust over"
+        "A person who has never had chickenpox or the vaccine can catch the virus from your vesicle fluid and develop chickenpox—not shingles"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "The fluid from shingles vesicles contains VZV. A person who has never had chickenpox or the vaccine can be infected and develop chickenpox (not shingles). Someone who is immune (past chickenpox or vaccine) is not at risk. Clients are infectious until all lesions crust over.",
         "incorrect": [
+          "The client is no longer contagious once all lesions have crusted over.",
           "Shingles can transmit the virus to susceptible people through vesicle fluid.",
-          "Exposed susceptible people develop chickenpox, not shingles, and only if not already immune.",
-          "The client is no longer contagious once all lesions have crusted over."
+          "Exposed susceptible people develop chickenpox, not shingles, and only if not already immune."
         ]
       }
     },
     {
       "stem": "A client who had shingles continues to have burning nerve pain in the same area weeks after the rash resolved. The nurse recognizes this complication as:",
       "options": [
+        "An allergic reaction",
         "Postherpetic neuralgia",
         "Cellulitis",
-        "A new case of chickenpox",
-        "An allergic reaction"
+        "A new case of chickenpox"
       ],
-      "answer": 0,
+      "answer": 1,
       "rationale": {
         "correct": "Postherpetic neuralgia is nerve pain that persists after the shingles rash has healed. Early antiviral treatment reduces the risk of this complication.",
         "incorrect": [
+          "Persistent nerve pain is postherpetic neuralgia, not an allergic reaction.",
           "Cellulitis is a bacterial skin infection with redness, warmth, and swelling, not persistent neuropathic pain after a healed rash.",
-          "This is a lingering complication of shingles, not a new chickenpox infection.",
-          "Persistent nerve pain is postherpetic neuralgia, not an allergic reaction."
+          "This is a lingering complication of shingles, not a new chickenpox infection."
         ]
       }
     },
@@ -794,11 +794,11 @@
       "stem": "A client with a solid organ transplant develops CMV retinitis. The nurse understands cytomegalovirus (CMV) causes serious disease in this client because:",
       "options": [
         "CMV only affects healthy people",
-        "Immunosuppression allows latent CMV to reactivate and cause multi-organ disease",
         "CMV is a bacterial infection treated with antibiotics",
+        "Immunosuppression allows latent CMV to reactivate and cause multi-organ disease",
         "CMV cannot affect the eyes"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "CMV establishes latency and reactivates with immunosuppression (transplant, HIV, steroids, chemo), causing serious multi-organ disease—pneumonia, colitis, hepatitis, and retinitis (which can cause vision loss). It is a leading cause of post-transplant morbidity and mortality.",
         "incorrect": [
@@ -811,17 +811,17 @@
     {
       "stem": "A client is prescribed valacyclovir for a herpes outbreak. Which teaching point is most important?",
       "options": [
-        "This medication will completely cure your herpes infection",
-        "Begin the medication within 72 hours of an outbreak, stay well hydrated, and know it reduces symptoms but is not a cure",
         "You can stop safe-sex practices once you start the medication",
+        "Begin the medication within 72 hours of an outbreak, stay well hydrated, and know it reduces symptoms but is not a cure",
+        "This medication will completely cure your herpes infection",
         "This medication treats bacterial infections"
       ],
       "answer": 1,
       "rationale": {
         "correct": "Valacyclovir (a prodrug of acyclovir) inhibits viral DNA polymerase and works best when started within 72 hours of an outbreak. It can be nephrotoxic, so hydration and monitoring of renal function are important. It reduces symptoms and transmission but is not a cure.",
         "incorrect": [
-          "Antivirals suppress the virus but do not cure herpes; the virus remains latent.",
           "Safe-sex practices should continue even without active lesions, since transmission can still occur.",
+          "Antivirals suppress the virus but do not cure herpes; the virus remains latent.",
           "Valacyclovir is an antiviral, not an antibacterial."
         ]
       }
@@ -829,17 +829,17 @@
     {
       "stem": "A client is started on ganciclovir for CMV infection. Which laboratory value is the priority to monitor?",
       "options": [
-        "Complete blood count (CBC)",
-        "Serum sodium",
         "Thyroid function tests",
-        "Fasting blood glucose"
+        "Serum sodium",
+        "Fasting blood glucose",
+        "Complete blood count (CBC)"
       ],
-      "answer": 0,
+      "answer": 3,
       "rationale": {
         "correct": "Ganciclovir, first-line for CMV in transplant and advanced HIV patients, causes bone marrow suppression (neutropenia, anemia, thrombocytopenia). The CBC must be monitored frequently, and the client is at fall and bleeding risk. It is also teratogenic (pregnancy test before starting) and can be nephrotoxic and hepatotoxic.",
         "incorrect": [
-          "Sodium is not the priority lab for ganciclovir.",
           "Thyroid tests are not the monitoring priority for ganciclovir.",
+          "Sodium is not the priority lab for ganciclovir.",
           "Blood glucose is not the key concern with ganciclovir."
         ]
       }
@@ -848,11 +848,11 @@
       "stem": "A nurse is teaching about the pathophysiology of HIV. Which cells does the virus primarily target?",
       "options": [
         "Red blood cells",
-        "CD4+ T helper cells",
         "Platelets",
+        "CD4+ T helper cells",
         "Osteocytes"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "HIV is a retrovirus that primarily targets CD4+ T helper cells, progressively dismantling adaptive immunity and reducing the body's ability to fight infections and certain cancers.",
         "incorrect": [
@@ -866,16 +866,16 @@
       "stem": "A nurse explains why HIV is classified as a retrovirus. Which statement is correct?",
       "options": [
         "It uses reverse transcriptase to convert its RNA into DNA",
-        "It is made of DNA that directly enters the nucleus unchanged",
         "It reproduces only outside of human cells",
+        "It is made of DNA that directly enters the nucleus unchanged",
         "It cannot integrate into the host genome"
       ],
       "answer": 0,
       "rationale": {
         "correct": "HIV is a retrovirus because it carries RNA and uses the enzyme reverse transcriptase to convert its RNA into DNA inside the host cell. Integrase then inserts that DNA into the host genome, turning the cell into a viral factory.",
         "incorrect": [
-          "HIV's genetic material is RNA, which must be reverse-transcribed into DNA; it is not DNA that enters unchanged.",
           "HIV must be inside host CD4 cells to replicate.",
+          "HIV's genetic material is RNA, which must be reverse-transcribed into DNA; it is not DNA that enters unchanged.",
           "HIV does integrate into the host genome via integrase, which is central to its life cycle."
         ]
       }
@@ -883,36 +883,36 @@
     {
       "stem": "A client with HIV has a CD4 count of 180 cells/mm³ and is diagnosed with Pneumocystis jirovecii pneumonia. The nurse recognizes this client now meets criteria for:",
       "options": [
-        "Acute HIV seroconversion",
-        "AIDS",
+        "A false-positive HIV test",
         "Complete recovery from HIV",
-        "A false-positive HIV test"
+        "AIDS",
+        "Acute HIV seroconversion"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "AIDS is diagnosed when the CD4 count falls below 200 cells/mm³ OR an AIDS-defining opportunistic infection or cancer is present. This client meets both criteria (CD4 < 200 and an opportunistic infection).",
         "incorrect": [
-          "Seroconversion is the early acute phase with flu-like symptoms, not advanced disease.",
+          "The clinical picture and low CD4 count confirm advanced disease, not a false-positive test.",
           "Meeting AIDS criteria is the opposite of recovery.",
-          "The clinical picture and low CD4 count confirm advanced disease, not a false-positive test."
+          "Seroconversion is the early acute phase with flu-like symptoms, not advanced disease."
         ]
       }
     },
     {
       "stem": "A nurse describes the CD4 count as the 'immune function vital sign' in HIV. What does a declining CD4 count indicate?",
       "options": [
-        "Improving immune function",
-        "Worsening immune function and increasing risk of opportunistic infections and certain cancers",
         "That the client no longer has HIV",
-        "A normal response to antiretroviral therapy"
+        "Worsening immune function and increasing risk of opportunistic infections and certain cancers",
+        "A normal response to antiretroviral therapy",
+        "Improving immune function"
       ],
       "answer": 1,
       "rationale": {
         "correct": "The CD4 count is the most important indicator of immune function in HIV. As it declines, immune signaling weakens and the risk of opportunistic infections and certain cancers rises.",
         "incorrect": [
-          "A falling CD4 count reflects worsening, not improving, immunity.",
           "A low CD4 count does not mean the client is cured; it means immune decline.",
-          "Effective antiretroviral therapy should preserve or raise the CD4 count, not lower it."
+          "Effective antiretroviral therapy should preserve or raise the CD4 count, not lower it.",
+          "A falling CD4 count reflects worsening, not improving, immunity."
         ]
       }
     },
@@ -920,11 +920,11 @@
       "stem": "A nurse is teaching a newly diagnosed client about antiretroviral therapy (ART) for HIV. Which statement is most accurate?",
       "options": [
         "A single drug is enough to fully control HIV",
-        "ART combines drugs that target different stages of the viral life cycle, and consistent adherence prevents resistance",
         "ART cures HIV within a few weeks",
-        "Doses can be skipped once the viral load is low without any risk"
+        "Doses can be skipped once the viral load is low without any risk",
+        "ART combines drugs that target different stages of the viral life cycle, and consistent adherence prevents resistance"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "ART combines medications that interrupt different steps of the HIV life cycle, reducing viral replication and preserving CD4 count. Consistent adherence is essential—missing doses lets the virus replicate, develop resistance, and be transmitted to others.",
         "incorrect": [
@@ -964,90 +964,90 @@
     {
       "stem": "A client is told they have a benign brain tumor and asks, 'If it's not cancer, why is my provider worried?' The nurse's best response is:",
       "options": [
+        "Benign tumors spread rapidly to distant organs",
         "Benign tumors are never a concern once identified",
         "Even a benign tumor can be dangerous depending on its location, such as pressing on structures in the brain",
-        "Benign tumors always turn into cancer within weeks",
-        "Benign tumors spread rapidly to distant organs"
+        "Benign tumors always turn into cancer within weeks"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "Although benign tumors do not invade or metastasize, they can be dangerous based on location—for example, compressing vital brain structures, blocking the esophagus, or obstructing the colon.",
         "incorrect": [
+          "Benign tumors remain localized; they do not metastasize.",
           "Benign tumors can still cause harm and require monitoring.",
-          "Benign tumors do not reliably transform into cancer within weeks.",
-          "Benign tumors remain localized; they do not metastasize."
+          "Benign tumors do not reliably transform into cancer within weeks."
         ]
       }
     },
     {
       "stem": "A nurse is teaching about how chemotherapy works. Which statement best describes antineoplastic chemotherapy?",
       "options": [
-        "It targets only cancer cells and spares all normal cells",
-        "It is nonselective and kills all rapidly dividing cells, including normal ones, which causes its side effects",
+        "It enhances the immune system to attack the tumor",
         "It works only on cells in the resting phase",
-        "It enhances the immune system to attack the tumor"
+        "It is nonselective and kills all rapidly dividing cells, including normal ones, which causes its side effects",
+        "It targets only cancer cells and spares all normal cells"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "Chemotherapy is a 'broad-spectrum,' nonselective therapy that kills all rapidly dividing cells. Because normal rapidly dividing cells (bone marrow, GI, hair, reproductive) are also killed, side effects arise. (Targeted therapy, by contrast, is 'narrow-spectrum.')",
         "incorrect": [
-          "Traditional chemotherapy is not cancer-cell selective.",
+          "Enhancing the immune response describes biologic response modifiers/immunotherapy, not standard chemotherapy.",
           "Chemotherapy is most effective against actively dividing cells, not resting cells.",
-          "Enhancing the immune response describes biologic response modifiers/immunotherapy, not standard chemotherapy."
+          "Traditional chemotherapy is not cancer-cell selective."
         ]
       }
     },
     {
       "stem": "A client receiving chemotherapy is taught about the 'nadir.' Which explanation is correct?",
       "options": [
+        "The nadir refers to the client's highest fever during treatment",
         "The nadir is the peak of the client's blood counts right after a dose",
         "The nadir is the lowest point of blood cell counts, typically about 7-14 days after a chemo dose, when infection risk is highest",
-        "The nadir is the day chemotherapy is given",
-        "The nadir refers to the client's highest fever during treatment"
+        "The nadir is the day chemotherapy is given"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "The nadir is the lowest point of blood cell counts (especially WBCs) after a chemotherapy cycle, usually about 7-14 days later. This is when the client is most vulnerable to infection, so the nurse and client must know when to expect it.",
         "incorrect": [
+          "The nadir refers to low blood counts, not a fever.",
           "The nadir is the lowest, not the peak, of blood counts.",
-          "The nadir occurs days after the dose, not on the day of administration.",
-          "The nadir refers to low blood counts, not a fever."
+          "The nadir occurs days after the dose, not on the day of administration."
         ]
       }
     },
     {
       "stem": "A client in the nadir phase after chemotherapy develops a temperature of 100.6°F (38.1°C). Which action by the nurse is the priority?",
       "options": [
-        "Administer acetaminophen to bring the fever down before doing anything else",
         "Notify the provider, obtain blood cultures, and anticipate immediate broad-spectrum antibiotics",
         "Reassure the client that a low fever is harmless and continue routine care",
-        "Wait several hours to see if the fever rises before acting"
+        "Wait several hours to see if the fever rises before acting",
+        "Administer acetaminophen to bring the fever down before doing anything else"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "In a neutropenic client, fever is a clinical emergency (febrile neutropenia). The client cannot mount an immune response, so the nurse must notify the provider, draw blood cultures, and expect broad-spectrum antibiotics started immediately—mortality rises with each hour of delay.",
         "incorrect": [
-          "Antipyretics are avoided first because they mask the fever, which may be the only sign of infection; antibiotics are the priority, not fever reduction.",
           "In a neutropenic client, fever is a clinical emergency (febrile neutropenia). The client cannot mount an immune response, so the nurse must notify the provider, draw blood cultures, and expect broad-spectrum antibiotics started immediately—mortality rises with each hour of delay.",
           "A fever during the nadir is a life-threatening emergency, not a harmless finding.",
-          "Delaying treatment increases mortality; antibiotics must be started promptly."
+          "Delaying treatment increases mortality; antibiotics must be started promptly.",
+          "Antipyretics are avoided first because they mask the fever, which may be the only sign of infection; antibiotics are the priority, not fever reduction."
         ]
       }
     },
     {
       "stem": "A client receiving chemotherapy develops a raw, painful, sloughing mouth. The nurse documents this as mucositis and prioritizes which intervention?",
       "options": [
-        "Vigorous brushing with a firm toothbrush",
-        "Gentle, sensitive oral care with a soft approach",
         "Frequent alcohol-based mouth rinses",
+        "Gentle, sensitive oral care with a soft approach",
+        "Vigorous brushing with a firm toothbrush",
         "Withholding all fluids"
       ],
       "answer": 1,
       "rationale": {
         "correct": "Mucositis (painful mouth inflammation) and stomatitis are common chemotherapy effects because the oral mucosa divides rapidly. Gentle, sensitive mouth care is the nursing priority to reduce pain and prevent further breakdown.",
         "incorrect": [
-          "A firm toothbrush would traumatize the already fragile, painful mucosa.",
           "Alcohol-based rinses are drying and irritating to inflamed mucosa.",
+          "A firm toothbrush would traumatize the already fragile, painful mucosa.",
           "Hydration remains important; if the client cannot drink due to mucositis, IV hydration is provided."
         ]
       }
@@ -1055,109 +1055,109 @@
     {
       "stem": "A client is receiving cyclophosphamide. Which adverse effect requires specific preventive measures with MESNA and IV hydration?",
       "options": [
+        "Hyperkalemia",
         "Hemorrhagic cystitis",
-        "Pulmonary fibrosis",
         "Hearing loss",
-        "Hyperkalemia"
+        "Pulmonary fibrosis"
       ],
-      "answer": 0,
+      "answer": 1,
       "rationale": {
         "correct": "A metabolite of cyclophosphamide irritates the bladder lining and can cause hemorrhagic cystitis. MESNA is given to protect the bladder, along with IV hydration to flush the metabolite. Nurses monitor for hematuria and check daily urinalysis (specific gravity and blood).",
         "incorrect": [
-          "Pulmonary fibrosis is associated with other agents, not the classic cyclophosphamide concern requiring MESNA.",
+          "Hyperkalemia is not the hallmark cyclophosphamide toxicity.",
           "Hearing loss (ototoxicity) is linked to platinum agents like cisplatin, not cyclophosphamide.",
-          "Hyperkalemia is not the hallmark cyclophosphamide toxicity."
+          "Pulmonary fibrosis is associated with other agents, not the classic cyclophosphamide concern requiring MESNA."
         ]
       }
     },
     {
       "stem": "A client receiving high-dose methotrexate is prescribed leucovorin. The nurse explains that leucovorin is given to:",
       "options": [
-        "Increase the cancer-killing effect of methotrexate",
         "'Rescue' normal cells by replenishing folate, reducing methotrexate toxicity",
         "Prevent nausea during the infusion",
-        "Neutralize the acid in the client's stomach"
+        "Neutralize the acid in the client's stomach",
+        "Increase the cancer-killing effect of methotrexate"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Methotrexate is a folate antimetabolite that blocks folate needed for DNA synthesis. Leucovorin is a fully active form of folate that 'rescues' healthy cells (which recover faster than cancer cells), reducing toxicity. Clients should avoid extra folic acid supplements, which interfere with the drug.",
         "incorrect": [
-          "Leucovorin protects normal cells; it is not given to intensify cancer cell killing.",
           "Leucovorin is a rescue agent for folate, not an antiemetic.",
-          "Leucovorin is not an antacid."
+          "Leucovorin is not an antacid.",
+          "Leucovorin protects normal cells; it is not given to intensify cancer cell killing."
         ]
       }
     },
     {
       "stem": "A nurse is reviewing safe chemotherapy administration. Which practice is required?",
       "options": [
-        "A single nurse may verify and administer chemotherapy",
+        "Standard latex gloves alone are sufficient with no other precautions",
         "At least two RNs independently verify the patient, drug, dose, route, and rate before administration",
         "Verbal chemotherapy orders are acceptable in urgent situations",
-        "Standard latex gloves alone are sufficient with no other precautions"
+        "A single nurse may verify and administer chemotherapy"
       ],
       "answer": 1,
       "rationale": {
         "correct": "Because chemotherapy is high-risk, at least two RNs must independently verify the patient, drug, dose, route, and rate, and both sign off. Only chemo-certified nurses handle it, PPE is required, waste goes in yellow containers, and body fluids require double-flushing for ~48 hours.",
         "incorrect": [
-          "Chemotherapy requires independent double-verification, not a single nurse.",
+          "PPE beyond standard gloves is required, including gowns and face protection when splash risk exists.",
           "No verbal orders are allowed for chemotherapy; written order forms are required.",
-          "PPE beyond standard gloves is required, including gowns and face protection when splash risk exists."
+          "Chemotherapy requires independent double-verification, not a single nurse."
         ]
       }
     },
     {
       "stem": "During a peripheral IV chemotherapy infusion of a vesicant, the client reports burning and the nurse notes swelling and redness at the site. Which action is contraindicated?",
       "options": [
-        "Stop the infusion immediately",
-        "Flush the line to push the medication through",
         "Attempt to withdraw the drug from the site",
+        "Flush the line to push the medication through",
+        "Stop the infusion immediately",
         "Follow the extravasation protocol for that agent"
       ],
       "answer": 1,
       "rationale": {
         "correct": "Flushing is contraindicated; it would push the vesicant further into the tissue, worsening damage and risking necrosis. The nurse should stop the drug, attempt to withdraw it, raise the arm, and follow the extravasation protocol. Vesicants are why central lines are preferred over peripheral IVs for chemo.",
         "incorrect": [
-          "Stopping the infusion immediately is correct—this is a suspected extravasation.",
-          "Flushing is contraindicated; it would push the vesicant further into the tissue, worsening damage and risking necrosis. The nurse should stop the drug, attempt to withdraw it, raise the arm, and follow the extravasation protocol. Vesicants are why central lines are preferred over peripheral IVs for chemo.",
           "Attempting to withdraw the drug from the site is an appropriate extravasation step.",
+          "Flushing is contraindicated; it would push the vesicant further into the tissue, worsening damage and risking necrosis. The nurse should stop the drug, attempt to withdraw it, raise the arm, and follow the extravasation protocol. Vesicants are why central lines are preferred over peripheral IVs for chemo.",
+          "Stopping the infusion immediately is correct—this is a suspected extravasation.",
           "Following the agent-specific extravasation protocol is correct."
         ]
       }
     },
     {
-      "stem": "A client with thrombocytopenia from chemotherapy needs a premedication before the next infusion. Which antipyretic is preferred, and why?",
+      "stem": "A client receiving chemotherapy is given routine premedications before the infusion to lower the risk of an infusion reaction. For a client with thrombocytopenia, which antipyretic is preferred, and why?",
       "options": [
         "Ibuprofen, because it is a stronger anti-inflammatory",
+        "No antipyretic should ever be given",
         "Acetaminophen, because NSAIDs like ibuprofen affect platelets and increase bleeding risk",
-        "Aspirin, because it also prevents clots",
-        "No antipyretic should ever be given"
+        "Aspirin, because it also prevents clots"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
-        "correct": "Acetaminophen is preferred as the premedication antipyretic because NSAIDs (ibuprofen) and aspirin impair platelet function and increase bleeding risk in an already thrombocytopenic client. Common premeds also include ondansetron, methylprednisolone, and diphenhydramine.",
+        "correct": "Acetaminophen is preferred as the premedication antipyretic because NSAIDs (ibuprofen) and aspirin impair platelet function and increase bleeding risk in an already thrombocytopenic client. Common premeds also include ondansetron, methylprednisolone, and diphenhydramine. Note: this is a scheduled premedication to prevent an infusion reaction—distinct from a new fever during the nadir, when antipyretics are avoided because they can mask febrile neutropenia.",
         "incorrect": [
           "Ibuprofen is avoided because it impairs platelet function.",
-          "Aspirin impairs platelets and increases bleeding risk, so it is avoided.",
-          "An antipyretic such as acetaminophen may be given; the point is choosing the safe agent."
+          "An antipyretic such as acetaminophen may be given; the point is choosing the safe agent.",
+          "Aspirin impairs platelets and increases bleeding risk, so it is avoided."
         ]
       }
     },
     {
       "stem": "A client with a central line for chemotherapy develops a fever. In addition to other measures, the nurse anticipates:",
       "options": [
-        "Removing the central line immediately without orders",
         "Drawing blood cultures from the central line port to assess for a line infection (CLABSI)",
         "Ignoring the fever since the line is sterile",
-        "Applying a warm compress to the insertion site"
+        "Applying a warm compress to the insertion site",
+        "Removing the central line immediately without orders"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "A central line is a direct portal of entry for bacteria. If the client develops a fever, cultures are drawn from the port to evaluate for a central line-associated bloodstream infection (CLABSI). Strict sterile site care is essential.",
         "incorrect": [
-          "Line removal is not done independently without provider orders and evaluation.",
           "Fever in a client with a central line must be investigated, not ignored.",
-          "A warm compress does not address a possible bloodstream infection."
+          "A warm compress does not address a possible bloodstream infection.",
+          "Line removal is not done independently without provider orders and evaluation."
         ]
       }
     },
@@ -1165,11 +1165,11 @@
       "stem": "A client receiving chemotherapy is prescribed epoetin alfa (erythropoietin). The nurse understands this medication:",
       "options": [
         "Directly kills cancer cells",
-        "Stimulates red blood cell production to treat anemia, and hemoglobin should not exceed about 11 g/dL",
         "Increases the white blood cell count",
-        "Prevents nausea and vomiting"
+        "Prevents nausea and vomiting",
+        "Stimulates red blood cell production to treat anemia, and hemoglobin should not exceed about 11 g/dL"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "Epoetin alfa is a synthetic erythropoietin that stimulates RBC production to treat anemia. Because raising hemoglobin too high or too fast thickens the blood and increases clot risk, hemoglobin should not exceed ~11 g/dL and should not rise more than 1 g/dL in two weeks. Hypertension is a risk.",
         "incorrect": [
@@ -1184,16 +1184,16 @@
       "options": [
         "It raises the red blood cell count to treat anemia",
         "It stimulates neutrophil production to reduce infection risk and commonly causes bone pain",
-        "It is a chemotherapy agent that kills cancer cells",
-        "It should be given at the same time as the chemotherapy infusion"
+        "It should be given at the same time as the chemotherapy infusion",
+        "It is a chemotherapy agent that kills cancer cells"
       ],
       "answer": 1,
       "rationale": {
         "correct": "Filgrastim is a granulocyte colony-stimulating factor that boosts bone marrow production of neutrophils, decreasing infection risk during myelosuppression. Bone pain is a common side effect, and it is usually given about 24 hours after the chemotherapy is completed.",
         "incorrect": [
           "Filgrastim raises WBCs/neutrophils; epoetin raises red cells.",
-          "Filgrastim is a supportive agent, not a chemotherapy drug.",
-          "It is typically given about 24 hours after completing chemo, not during the infusion."
+          "It is typically given about 24 hours after completing chemo, not during the infusion.",
+          "Filgrastim is a supportive agent, not a chemotherapy drug."
         ]
       }
     },
@@ -1202,8 +1202,8 @@
       "options": [
         "I will call the clinic if my temperature is 100.4°F or higher",
         "I can keep gardening as long as I wear gloves",
-        "I will avoid shaving with a razor blade",
-        "I will call for uncontrolled vomiting, diarrhea, or new bleeding"
+        "I will call for uncontrolled vomiting, diarrhea, or new bleeding",
+        "I will avoid shaving with a razor blade"
       ],
       "answer": 1,
       "rationale": {
@@ -1211,79 +1211,79 @@
         "incorrect": [
           "Reporting a temperature of 100.4°F or higher is correct; fever is an emergency during chemo.",
           "Gardening exposes the client to soil, which carries many microbes and is a major infection risk during immunosuppression. This statement indicates a need for more teaching—even with gloves, gardening should be avoided.",
-          "Avoiding razor blades is correct; it reduces bleeding risk in a thrombocytopenic client.",
-          "Calling for uncontrolled vomiting, diarrhea, or new bleeding is appropriate teaching."
+          "Calling for uncontrolled vomiting, diarrhea, or new bleeding is appropriate teaching.",
+          "Avoiding razor blades is correct; it reduces bleeding risk in a thrombocytopenic client."
         ]
       }
     },
     {
       "stem": "A client tested for HIV several weeks after exposure reports feeling like they had 'the flu' about two weeks after the encounter. The nurse recognizes these flu-like symptoms most likely represent:",
       "options": [
-        "A sign the client cannot have HIV",
-        "The seroconversion period, when the body mounts an antibody response",
         "An allergic reaction to the HIV test",
-        "The AIDS stage of infection"
+        "The seroconversion period, when the body mounts an antibody response",
+        "The AIDS stage of infection",
+        "A sign the client cannot have HIV"
       ],
       "answer": 1,
       "rationale": {
         "correct": "About two weeks after exposure, many people experience flu-like symptoms during seroconversion, when the immune system develops antibodies. It is often mistaken for the flu.",
         "incorrect": [
-          "Flu-like symptoms after exposure are consistent with acute HIV, not an argument against it.",
           "These symptoms reflect acute infection, not a test reaction.",
-          "AIDS is the advanced stage defined by CD4 < 200 or an AIDS-defining illness, not this early flu-like phase."
+          "AIDS is the advanced stage defined by CD4 < 200 or an AIDS-defining illness, not this early flu-like phase.",
+          "Flu-like symptoms after exposure are consistent with acute HIV, not an argument against it."
         ]
       }
     },
     {
       "stem": "A client with a possible recent HIV exposure needs the earliest possible detection. Which test detects infection soonest?",
       "options": [
-        "Rapid antibody test",
-        "HIV RNA (viral load) test",
         "A test for CD4 count",
-        "A complete blood count"
+        "A complete blood count",
+        "HIV RNA (viral load) test",
+        "Rapid antibody test"
       ],
-      "answer": 1,
+      "answer": 2,
       "rationale": {
         "correct": "The HIV RNA (viral load) test detects the virus itself and is the earliest test to turn positive, before antibodies develop. (The 4th-generation test detects antibodies plus the p24 antigen and is the gold standard, positive around 20 days.)",
         "incorrect": [
-          "The rapid antibody test only detects antibodies, which take roughly 25-40 days to develop.",
           "CD4 count measures immune function, not the presence of the virus for diagnosis.",
-          "A CBC does not diagnose HIV."
+          "A CBC does not diagnose HIV.",
+          "The rapid antibody test only detects antibodies, which take roughly 25-40 days to develop."
         ]
       }
     },
     {
       "stem": "A nurse is explaining why receptive anal intercourse carries a higher HIV transmission risk than receptive vaginal intercourse. Which factor is the best explanation?",
       "options": [
-        "The rectal lining is more fragile and has more CD4 cells at its surface, and lacks the protective pH of the vagina",
+        "There is no actual difference in risk",
         "The rectum produces more antibodies against HIV",
-        "Vaginal tissue has no immune cells at all",
-        "There is no actual difference in risk"
+        "The rectal lining is more fragile and has more CD4 cells at its surface, and lacks the protective pH of the vagina",
+        "Vaginal tissue has no immune cells at all"
       ],
-      "answer": 0,
+      "answer": 2,
       "rationale": {
         "correct": "The rectal epithelium is thinner and more easily disrupted than the resilient vaginal tissue, has more CD4 target cells at the surface, and lacks the protective acidic pH of the vagina—all of which make HIV entry easier and raise transmission risk.",
         "incorrect": [
+          "There is a real, well-documented difference in risk between the two.",
           "The rectum does not produce protective antibodies that lower risk; the opposite is true.",
-          "Vaginal tissue does contain immune cells; the point is that it is more resilient with a protective pH.",
-          "There is a real, well-documented difference in risk between the two."
+          "Vaginal tissue does contain immune cells; the point is that it is more resilient with a protective pH."
         ]
       }
     },
     {
       "stem": "A nurse is teaching a client about the goal of antiretroviral therapy (ART) and the 'U = U' message. Which statement is accurate?",
       "options": [
-        "The goal is to completely cure HIV within a few months",
-        "The goal is an undetectable viral load, and undetectable means the virus is untransmittable sexually",
         "ART can be stopped once the viral load is undetectable",
-        "U = U means the client no longer needs to take medication"
+        "The goal is to completely cure HIV within a few months",
+        "U = U means the client no longer needs to take medication",
+        "The goal is an undetectable viral load, and undetectable means the virus is untransmittable sexually"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "The goal of ART is to suppress the viral load to undetectable levels (below 50 copies/mL), which allows CD4 recovery and means the virus is not sexually transmissible (Undetectable = Untransmittable). ART is lifelong and taken daily.",
         "incorrect": [
-          "ART controls HIV but does not cure it.",
           "ART must be continued indefinitely; stopping allows the virus to rebound.",
+          "ART controls HIV but does not cure it.",
           "U = U does not mean medication can stop; adherence is what keeps the client undetectable."
         ]
       }
@@ -1291,17 +1291,17 @@
     {
       "stem": "A client without HIV who is at ongoing high risk asks about pre-exposure prophylaxis (PrEP). The nurse explains that PrEP works by:",
       "options": [
-        "Curing HIV after it has already entered the body",
-        "Keeping antiretroviral medication already present in the cells so that if HIV enters, it cannot establish infection",
         "Boosting the immune system to make its own antibodies against HIV",
+        "Keeping antiretroviral medication already present in the cells so that if HIV enters, it cannot establish infection",
+        "Curing HIV after it has already entered the body",
         "Replacing the need for condoms and STI screening entirely"
       ],
       "answer": 1,
       "rationale": {
         "correct": "PrEP is 'ART before exposure.' It keeps antiretroviral drug already present in CD4 cells so that if HIV enters, it cannot reverse-transcribe or integrate—no viral DNA is established, so no infection takes hold.",
         "incorrect": [
-          "PrEP is prevention for HIV-negative people, not a cure.",
           "PrEP is medication, not a vaccine that stimulates antibody production.",
+          "PrEP is prevention for HIV-negative people, not a cure.",
           "PrEP does not protect against other STIs, so safer-sex practices and screening remain important."
         ]
       }
@@ -1309,36 +1309,36 @@
     {
       "stem": "A client is prescribed Biktarvy (bictegravir/emtricitabine/tenofovir alafenamide) for HIV. Which statement by the client indicates a need for further teaching?",
       "options": [
-        "I will take my calcium supplement and antacids at the same time as Biktarvy",
-        "I will take this medication at the same time every day",
         "If I vomit within an hour of my dose, I will repeat the dose",
-        "I understand this medicine is not a cure and I take it for life"
+        "I will take my calcium supplement and antacids at the same time as Biktarvy",
+        "I understand this medicine is not a cure and I take it for life",
+        "I will take this medication at the same time every day"
       ],
-      "answer": 0,
+      "answer": 1,
       "rationale": {
         "correct": "Antacids and products with polyvalent cations (calcium, magnesium, aluminum, iron) bind Biktarvy and reduce its absorption, so it will not suppress the virus. They must be separated by about 2 hours. This statement indicates a need for further teaching.",
         "incorrect": [
-          "Antacids and products with polyvalent cations (calcium, magnesium, aluminum, iron) bind Biktarvy and reduce its absorption, so it will not suppress the virus. They must be separated by about 2 hours. This statement indicates a need for further teaching.",
-          "Taking Biktarvy at the same time daily supports adherence and is correct.",
           "Repeating the dose after vomiting within one hour is correct guidance.",
-          "Understanding that ART is lifelong and not curative is correct."
+          "Antacids and products with polyvalent cations (calcium, magnesium, aluminum, iron) bind Biktarvy and reduce its absorption, so it will not suppress the virus. They must be separated by about 2 hours. This statement indicates a need for further teaching.",
+          "Understanding that ART is lifelong and not curative is correct.",
+          "Taking Biktarvy at the same time daily supports adherence and is correct."
         ]
       }
     },
     {
       "stem": "A client on Biktarvy asks why the nurse stresses taking it exactly as prescribed every single day. The nurse's best response is:",
       "options": [
-        "Missing doses has no real consequence as long as you restart",
         "Consistent adherence is essential because missed doses allow the virus to develop resistance",
         "You only need to take it when you feel symptoms",
+        "Missing doses has no real consequence as long as you restart",
         "Skipping doses will cure the infection faster"
       ],
-      "answer": 1,
+      "answer": 0,
       "rationale": {
         "correct": "Adherence is the single most important element of HIV care. Missing doses lets the virus replicate and develop resistance, which can make the regimen fail. Nurses ask about adherence at every visit.",
         "incorrect": [
-          "Missed doses do have serious consequences for HIV control.",
           "HIV is treated continuously, not only when symptoms appear.",
+          "Missed doses do have serious consequences for HIV control.",
           "Skipping doses promotes resistance; it does not cure the infection."
         ]
       }
@@ -1346,72 +1346,72 @@
     {
       "stem": "A client who has been virologically suppressed on oral ART for over a year dislikes taking daily pills and asks about the long-acting injectable Cabenuva (cabotegravir/rilpivirine). The nurse explains that this option:",
       "options": [
-        "Can be started in any client newly diagnosed with HIV",
-        "Is only for clients who are already virologically suppressed, with no history of treatment failure or resistance",
         "Cures HIV after a few injections",
-        "Is taken as a daily injection"
+        "Is taken as a daily injection",
+        "Can be started in any client newly diagnosed with HIV",
+        "Is only for clients who are already virologically suppressed, with no history of treatment failure or resistance"
       ],
-      "answer": 1,
+      "answer": 3,
       "rationale": {
         "correct": "Cabenuva is a long-acting injectable given every 1-2 months, but only for clients who are already virologically suppressed (HIV-1 RNA < 50) with no history of treatment failure and no known resistance to its components. Adherence to injection appointments is essential to prevent rebound and resistance.",
         "incorrect": [
-          "Cabenuva is not for treatment-naïve clients; it requires prior suppression.",
           "Cabenuva controls but does not cure HIV.",
-          "It is given as an intramuscular injection every 1-2 months, not daily."
+          "It is given as an intramuscular injection every 1-2 months, not daily.",
+          "Cabenuva is not for treatment-naïve clients; it requires prior suppression."
         ]
       }
     },
     {
       "stem": "Several HIV regimens include tenofovir. Which laboratory value should the nurse monitor regularly for clients on tenofovir-containing therapy?",
       "options": [
-        "Renal (kidney) function",
-        "Serum amylase",
+        "Blood type",
         "Thyroid-stimulating hormone",
-        "Blood type"
+        "Serum amylase",
+        "Renal (kidney) function"
       ],
-      "answer": 0,
+      "answer": 3,
       "rationale": {
         "correct": "Tenofovir can affect the kidneys, so renal function should be monitored regularly (about every 3-6 months) in clients on HIV therapy or PrEP that contains tenofovir.",
         "incorrect": [
-          "Amylase is not the routine monitoring value for tenofovir.",
+          "Blood type is unrelated to tenofovir monitoring.",
           "TSH is not the priority lab for tenofovir.",
-          "Blood type is unrelated to tenofovir monitoring."
+          "Amylase is not the routine monitoring value for tenofovir."
         ]
       }
     },
     {
       "stem": "Before starting the antiretroviral abacavir, which test is required to reduce the risk of a severe hypersensitivity reaction?",
       "options": [
-        "HLA-B genetic testing",
-        "A fasting lipid panel",
         "A chest X-ray",
-        "A pregnancy test"
+        "A pregnancy test",
+        "A fasting lipid panel",
+        "HLA-B genetic testing"
       ],
-      "answer": 0,
+      "answer": 3,
       "rationale": {
         "correct": "Abacavir carries a risk of a serious (type IV) hypersensitivity reaction, so HLA-B genetic testing is required before starting to identify at-risk clients. It is used less often now for this reason.",
         "incorrect": [
-          "A lipid panel is more relevant to protease inhibitors' metabolic effects, not abacavir hypersensitivity screening.",
           "A chest X-ray is not the required pre-abacavir test.",
-          "While pregnancy status matters in HIV care generally, the specific pre-abacavir requirement is HLA-B testing."
+          "While pregnancy status matters in HIV care generally, the specific pre-abacavir requirement is HLA-B testing.",
+          "A lipid panel is more relevant to protease inhibitors' metabolic effects, not abacavir hypersensitivity screening."
         ]
       }
     },
     {
       "stem": "A client on a protease inhibitor-based HIV regimen should be monitored for which characteristic adverse effects?",
       "options": [
-        "Metabolic effects such as high cholesterol, diabetes, and weight gain",
         "Hearing loss and tinnitus",
-        "Bright red discoloration of the urine",
-        "Severe hair loss"
+        "Severe hair loss",
+        "Metabolic effects such as high cholesterol, diabetes, and weight gain",
+        "Bright red discoloration of the urine"
       ],
-      "answer": 0,
+      "answer": 2,
       "rationale": {
         "correct": "Protease inhibitors are associated with metabolic effects—elevated cholesterol, diabetes, hypertension, and weight gain—so lifestyle modification and cardiovascular risk management are important. They also have many drug interactions.",
         "incorrect": [
           "Hearing loss is not the characteristic protease inhibitor effect.",
-          "Urine discoloration is not the hallmark of protease inhibitors.",
-          "Severe hair loss is not the characteristic protease inhibitor effect."
+          "Severe hair loss is not the characteristic protease inhibitor effect.",
+          "Urine discoloration is not the hallmark of protease inhibitors."
         ]
       }
     },
