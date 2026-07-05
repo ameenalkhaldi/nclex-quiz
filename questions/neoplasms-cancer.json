@@ -933,6 +933,514 @@
           "Skipping doses promotes resistance and viral replication, even when the viral load is low."
         ]
       }
+    },
+    {
+      "stem": "A 72-year-old client is a 50-pack-year smoker who sunbathes frequently, drinks 2-3 alcoholic drinks daily, eats a low-fiber/high-fat diet, and had untreated H. pylori GERD for 10 years. Which of these are MODIFIABLE cancer risk factors? Select all that apply.",
+      "options": [
+        "Cigarette smoking",
+        "Frequent sun exposure",
+        "Family history of cancer",
+        "Daily alcohol intake",
+        "Low-fiber, high-fat diet"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "",
+        "incorrect": [
+          "Correct—smoking is a modifiable behavior and a major carcinogen exposure.",
+          "Correct—UV exposure from sunbathing is modifiable and raises skin cancer risk.",
+          "Family history is a NON-modifiable (genetic) risk factor, along with age.",
+          "Correct—alcohol intake is a modifiable risk factor.",
+          "Correct—a low-fiber, high-fat diet is modifiable and associated with colon cancer risk."
+        ]
+      }
+    },
+    {
+      "stem": "A client is told they have a benign brain tumor and asks, 'If it's not cancer, why is my provider worried?' The nurse's best response is:",
+      "options": [
+        "Benign tumors are never a concern once identified",
+        "Even a benign tumor can be dangerous depending on its location, such as pressing on structures in the brain",
+        "Benign tumors always turn into cancer within weeks",
+        "Benign tumors spread rapidly to distant organs"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Although benign tumors do not invade or metastasize, they can be dangerous based on location—for example, compressing vital brain structures, blocking the esophagus, or obstructing the colon.",
+        "incorrect": [
+          "Benign tumors can still cause harm and require monitoring.",
+          "Benign tumors do not reliably transform into cancer within weeks.",
+          "Benign tumors remain localized; they do not metastasize."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about how chemotherapy works. Which statement best describes antineoplastic chemotherapy?",
+      "options": [
+        "It targets only cancer cells and spares all normal cells",
+        "It is nonselective and kills all rapidly dividing cells, including normal ones, which causes its side effects",
+        "It works only on cells in the resting phase",
+        "It enhances the immune system to attack the tumor"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Chemotherapy is a 'broad-spectrum,' nonselective therapy that kills all rapidly dividing cells. Because normal rapidly dividing cells (bone marrow, GI, hair, reproductive) are also killed, side effects arise. (Targeted therapy, by contrast, is 'narrow-spectrum.')",
+        "incorrect": [
+          "Traditional chemotherapy is not cancer-cell selective.",
+          "Chemotherapy is most effective against actively dividing cells, not resting cells.",
+          "Enhancing the immune response describes biologic response modifiers/immunotherapy, not standard chemotherapy."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving chemotherapy is taught about the 'nadir.' Which explanation is correct?",
+      "options": [
+        "The nadir is the peak of the client's blood counts right after a dose",
+        "The nadir is the lowest point of blood cell counts, typically about 7-14 days after a chemo dose, when infection risk is highest",
+        "The nadir is the day chemotherapy is given",
+        "The nadir refers to the client's highest fever during treatment"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The nadir is the lowest point of blood cell counts (especially WBCs) after a chemotherapy cycle, usually about 7-14 days later. This is when the client is most vulnerable to infection, so the nurse and client must know when to expect it.",
+        "incorrect": [
+          "The nadir is the lowest, not the peak, of blood counts.",
+          "The nadir occurs days after the dose, not on the day of administration.",
+          "The nadir refers to low blood counts, not a fever."
+        ]
+      }
+    },
+    {
+      "stem": "A client in the nadir phase after chemotherapy develops a temperature of 100.6°F (38.1°C). Which action by the nurse is the priority?",
+      "options": [
+        "Administer acetaminophen to bring the fever down before doing anything else",
+        "Notify the provider, obtain blood cultures, and anticipate immediate broad-spectrum antibiotics",
+        "Reassure the client that a low fever is harmless and continue routine care",
+        "Wait several hours to see if the fever rises before acting"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In a neutropenic client, fever is a clinical emergency (febrile neutropenia). The client cannot mount an immune response, so the nurse must notify the provider, draw blood cultures, and expect broad-spectrum antibiotics started immediately—mortality rises with each hour of delay.",
+        "incorrect": [
+          "Antipyretics are avoided first because they mask the fever, which may be the only sign of infection; antibiotics are the priority, not fever reduction.",
+          "In a neutropenic client, fever is a clinical emergency (febrile neutropenia). The client cannot mount an immune response, so the nurse must notify the provider, draw blood cultures, and expect broad-spectrum antibiotics started immediately—mortality rises with each hour of delay.",
+          "A fever during the nadir is a life-threatening emergency, not a harmless finding.",
+          "Delaying treatment increases mortality; antibiotics must be started promptly."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving chemotherapy develops a raw, painful, sloughing mouth. The nurse documents this as mucositis and prioritizes which intervention?",
+      "options": [
+        "Vigorous brushing with a firm toothbrush",
+        "Gentle, sensitive oral care with a soft approach",
+        "Frequent alcohol-based mouth rinses",
+        "Withholding all fluids"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Mucositis (painful mouth inflammation) and stomatitis are common chemotherapy effects because the oral mucosa divides rapidly. Gentle, sensitive mouth care is the nursing priority to reduce pain and prevent further breakdown.",
+        "incorrect": [
+          "A firm toothbrush would traumatize the already fragile, painful mucosa.",
+          "Alcohol-based rinses are drying and irritating to inflamed mucosa.",
+          "Hydration remains important; if the client cannot drink due to mucositis, IV hydration is provided."
+        ]
+      }
+    },
+    {
+      "stem": "A client is receiving cyclophosphamide. Which adverse effect requires specific preventive measures with MESNA and IV hydration?",
+      "options": [
+        "Hemorrhagic cystitis",
+        "Pulmonary fibrosis",
+        "Hearing loss",
+        "Hyperkalemia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A metabolite of cyclophosphamide irritates the bladder lining and can cause hemorrhagic cystitis. MESNA is given to protect the bladder, along with IV hydration to flush the metabolite. Nurses monitor for hematuria and check daily urinalysis (specific gravity and blood).",
+        "incorrect": [
+          "Pulmonary fibrosis is associated with other agents, not the classic cyclophosphamide concern requiring MESNA.",
+          "Hearing loss (ototoxicity) is linked to platinum agents like cisplatin, not cyclophosphamide.",
+          "Hyperkalemia is not the hallmark cyclophosphamide toxicity."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving high-dose methotrexate is prescribed leucovorin. The nurse explains that leucovorin is given to:",
+      "options": [
+        "Increase the cancer-killing effect of methotrexate",
+        "'Rescue' normal cells by replenishing folate, reducing methotrexate toxicity",
+        "Prevent nausea during the infusion",
+        "Neutralize the acid in the client's stomach"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Methotrexate is a folate antimetabolite that blocks folate needed for DNA synthesis. Leucovorin is a fully active form of folate that 'rescues' healthy cells (which recover faster than cancer cells), reducing toxicity. Clients should avoid extra folic acid supplements, which interfere with the drug.",
+        "incorrect": [
+          "Leucovorin protects normal cells; it is not given to intensify cancer cell killing.",
+          "Leucovorin is a rescue agent for folate, not an antiemetic.",
+          "Leucovorin is not an antacid."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing safe chemotherapy administration. Which practice is required?",
+      "options": [
+        "A single nurse may verify and administer chemotherapy",
+        "At least two RNs independently verify the patient, drug, dose, route, and rate before administration",
+        "Verbal chemotherapy orders are acceptable in urgent situations",
+        "Standard latex gloves alone are sufficient with no other precautions"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Because chemotherapy is high-risk, at least two RNs must independently verify the patient, drug, dose, route, and rate, and both sign off. Only chemo-certified nurses handle it, PPE is required, waste goes in yellow containers, and body fluids require double-flushing for ~48 hours.",
+        "incorrect": [
+          "Chemotherapy requires independent double-verification, not a single nurse.",
+          "No verbal orders are allowed for chemotherapy; written order forms are required.",
+          "PPE beyond standard gloves is required, including gowns and face protection when splash risk exists."
+        ]
+      }
+    },
+    {
+      "stem": "During a peripheral IV chemotherapy infusion of a vesicant, the client reports burning and the nurse notes swelling and redness at the site. Which action is contraindicated?",
+      "options": [
+        "Stop the infusion immediately",
+        "Flush the line to push the medication through",
+        "Attempt to withdraw the drug from the site",
+        "Follow the extravasation protocol for that agent"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Flushing is contraindicated; it would push the vesicant further into the tissue, worsening damage and risking necrosis. The nurse should stop the drug, attempt to withdraw it, raise the arm, and follow the extravasation protocol. Vesicants are why central lines are preferred over peripheral IVs for chemo.",
+        "incorrect": [
+          "Stopping the infusion immediately is correct—this is a suspected extravasation.",
+          "Flushing is contraindicated; it would push the vesicant further into the tissue, worsening damage and risking necrosis. The nurse should stop the drug, attempt to withdraw it, raise the arm, and follow the extravasation protocol. Vesicants are why central lines are preferred over peripheral IVs for chemo.",
+          "Attempting to withdraw the drug from the site is an appropriate extravasation step.",
+          "Following the agent-specific extravasation protocol is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A client with thrombocytopenia from chemotherapy needs a premedication before the next infusion. Which antipyretic is preferred, and why?",
+      "options": [
+        "Ibuprofen, because it is a stronger anti-inflammatory",
+        "Acetaminophen, because NSAIDs like ibuprofen affect platelets and increase bleeding risk",
+        "Aspirin, because it also prevents clots",
+        "No antipyretic should ever be given"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Acetaminophen is preferred as the premedication antipyretic because NSAIDs (ibuprofen) and aspirin impair platelet function and increase bleeding risk in an already thrombocytopenic client. Common premeds also include ondansetron, methylprednisolone, and diphenhydramine.",
+        "incorrect": [
+          "Ibuprofen is avoided because it impairs platelet function.",
+          "Aspirin impairs platelets and increases bleeding risk, so it is avoided.",
+          "An antipyretic such as acetaminophen may be given; the point is choosing the safe agent."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a central line for chemotherapy develops a fever. In addition to other measures, the nurse anticipates:",
+      "options": [
+        "Removing the central line immediately without orders",
+        "Drawing blood cultures from the central line port to assess for a line infection (CLABSI)",
+        "Ignoring the fever since the line is sterile",
+        "Applying a warm compress to the insertion site"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A central line is a direct portal of entry for bacteria. If the client develops a fever, cultures are drawn from the port to evaluate for a central line-associated bloodstream infection (CLABSI). Strict sterile site care is essential.",
+        "incorrect": [
+          "Line removal is not done independently without provider orders and evaluation.",
+          "Fever in a client with a central line must be investigated, not ignored.",
+          "A warm compress does not address a possible bloodstream infection."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving chemotherapy is prescribed epoetin alfa (erythropoietin). The nurse understands this medication:",
+      "options": [
+        "Directly kills cancer cells",
+        "Stimulates red blood cell production to treat anemia, and hemoglobin should not exceed about 11 g/dL",
+        "Increases the white blood cell count",
+        "Prevents nausea and vomiting"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Epoetin alfa is a synthetic erythropoietin that stimulates RBC production to treat anemia. Because raising hemoglobin too high or too fast thickens the blood and increases clot risk, hemoglobin should not exceed ~11 g/dL and should not rise more than 1 g/dL in two weeks. Hypertension is a risk.",
+        "incorrect": [
+          "Colony-stimulating factors do not target cancer cells; they manage side effects.",
+          "Raising the WBC count is the role of filgrastim, not epoetin.",
+          "Epoetin does not prevent nausea; that is the role of antiemetics."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed filgrastim after a chemotherapy cycle. Which statement about this medication is correct?",
+      "options": [
+        "It raises the red blood cell count to treat anemia",
+        "It stimulates neutrophil production to reduce infection risk and commonly causes bone pain",
+        "It is a chemotherapy agent that kills cancer cells",
+        "It should be given at the same time as the chemotherapy infusion"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Filgrastim is a granulocyte colony-stimulating factor that boosts bone marrow production of neutrophils, decreasing infection risk during myelosuppression. Bone pain is a common side effect, and it is usually given about 24 hours after the chemotherapy is completed.",
+        "incorrect": [
+          "Filgrastim raises WBCs/neutrophils; epoetin raises red cells.",
+          "Filgrastim is a supportive agent, not a chemotherapy drug.",
+          "It is typically given about 24 hours after completing chemo, not during the infusion."
+        ]
+      }
+    },
+    {
+      "stem": "A client being managed as an outpatient during chemotherapy is receiving discharge teaching. Which statement indicates the client needs more education?",
+      "options": [
+        "I will call the clinic if my temperature is 100.4°F or higher",
+        "I can keep gardening as long as I wear gloves",
+        "I will avoid shaving with a razor blade",
+        "I will call for uncontrolled vomiting, diarrhea, or new bleeding"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Gardening exposes the client to soil, which carries many microbes and is a major infection risk during immunosuppression. This statement indicates a need for more teaching—even with gloves, gardening should be avoided.",
+        "incorrect": [
+          "Reporting a temperature of 100.4°F or higher is correct; fever is an emergency during chemo.",
+          "Gardening exposes the client to soil, which carries many microbes and is a major infection risk during immunosuppression. This statement indicates a need for more teaching—even with gloves, gardening should be avoided.",
+          "Avoiding razor blades is correct; it reduces bleeding risk in a thrombocytopenic client.",
+          "Calling for uncontrolled vomiting, diarrhea, or new bleeding is appropriate teaching."
+        ]
+      }
+    },
+    {
+      "stem": "A client tested for HIV several weeks after exposure reports feeling like they had 'the flu' about two weeks after the encounter. The nurse recognizes these flu-like symptoms most likely represent:",
+      "options": [
+        "A sign the client cannot have HIV",
+        "The seroconversion period, when the body mounts an antibody response",
+        "An allergic reaction to the HIV test",
+        "The AIDS stage of infection"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "About two weeks after exposure, many people experience flu-like symptoms during seroconversion, when the immune system develops antibodies. It is often mistaken for the flu.",
+        "incorrect": [
+          "Flu-like symptoms after exposure are consistent with acute HIV, not an argument against it.",
+          "These symptoms reflect acute infection, not a test reaction.",
+          "AIDS is the advanced stage defined by CD4 < 200 or an AIDS-defining illness, not this early flu-like phase."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a possible recent HIV exposure needs the earliest possible detection. Which test detects infection soonest?",
+      "options": [
+        "Rapid antibody test",
+        "HIV RNA (viral load) test",
+        "A test for CD4 count",
+        "A complete blood count"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The HIV RNA (viral load) test detects the virus itself and is the earliest test to turn positive, before antibodies develop. (The 4th-generation test detects antibodies plus the p24 antigen and is the gold standard, positive around 20 days.)",
+        "incorrect": [
+          "The rapid antibody test only detects antibodies, which take roughly 25-40 days to develop.",
+          "CD4 count measures immune function, not the presence of the virus for diagnosis.",
+          "A CBC does not diagnose HIV."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is explaining why receptive anal intercourse carries a higher HIV transmission risk than receptive vaginal intercourse. Which factor is the best explanation?",
+      "options": [
+        "The rectal lining is more fragile and has more CD4 cells at its surface, and lacks the protective pH of the vagina",
+        "The rectum produces more antibodies against HIV",
+        "Vaginal tissue has no immune cells at all",
+        "There is no actual difference in risk"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The rectal epithelium is thinner and more easily disrupted than the resilient vaginal tissue, has more CD4 target cells at the surface, and lacks the protective acidic pH of the vagina—all of which make HIV entry easier and raise transmission risk.",
+        "incorrect": [
+          "The rectum does not produce protective antibodies that lower risk; the opposite is true.",
+          "Vaginal tissue does contain immune cells; the point is that it is more resilient with a protective pH.",
+          "There is a real, well-documented difference in risk between the two."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about the goal of antiretroviral therapy (ART) and the 'U = U' message. Which statement is accurate?",
+      "options": [
+        "The goal is to completely cure HIV within a few months",
+        "The goal is an undetectable viral load, and undetectable means the virus is untransmittable sexually",
+        "ART can be stopped once the viral load is undetectable",
+        "U = U means the client no longer needs to take medication"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The goal of ART is to suppress the viral load to undetectable levels (below 50 copies/mL), which allows CD4 recovery and means the virus is not sexually transmissible (Undetectable = Untransmittable). ART is lifelong and taken daily.",
+        "incorrect": [
+          "ART controls HIV but does not cure it.",
+          "ART must be continued indefinitely; stopping allows the virus to rebound.",
+          "U = U does not mean medication can stop; adherence is what keeps the client undetectable."
+        ]
+      }
+    },
+    {
+      "stem": "A client without HIV who is at ongoing high risk asks about pre-exposure prophylaxis (PrEP). The nurse explains that PrEP works by:",
+      "options": [
+        "Curing HIV after it has already entered the body",
+        "Keeping antiretroviral medication already present in the cells so that if HIV enters, it cannot establish infection",
+        "Boosting the immune system to make its own antibodies against HIV",
+        "Replacing the need for condoms and STI screening entirely"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "PrEP is 'ART before exposure.' It keeps antiretroviral drug already present in CD4 cells so that if HIV enters, it cannot reverse-transcribe or integrate—no viral DNA is established, so no infection takes hold.",
+        "incorrect": [
+          "PrEP is prevention for HIV-negative people, not a cure.",
+          "PrEP is medication, not a vaccine that stimulates antibody production.",
+          "PrEP does not protect against other STIs, so safer-sex practices and screening remain important."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed Biktarvy (bictegravir/emtricitabine/tenofovir alafenamide) for HIV. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "I will take my calcium supplement and antacids at the same time as Biktarvy",
+        "I will take this medication at the same time every day",
+        "If I vomit within an hour of my dose, I will repeat the dose",
+        "I understand this medicine is not a cure and I take it for life"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Antacids and products with polyvalent cations (calcium, magnesium, aluminum, iron) bind Biktarvy and reduce its absorption, so it will not suppress the virus. They must be separated by about 2 hours. This statement indicates a need for further teaching.",
+        "incorrect": [
+          "Antacids and products with polyvalent cations (calcium, magnesium, aluminum, iron) bind Biktarvy and reduce its absorption, so it will not suppress the virus. They must be separated by about 2 hours. This statement indicates a need for further teaching.",
+          "Taking Biktarvy at the same time daily supports adherence and is correct.",
+          "Repeating the dose after vomiting within one hour is correct guidance.",
+          "Understanding that ART is lifelong and not curative is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A client on Biktarvy asks why the nurse stresses taking it exactly as prescribed every single day. The nurse's best response is:",
+      "options": [
+        "Missing doses has no real consequence as long as you restart",
+        "Consistent adherence is essential because missed doses allow the virus to develop resistance",
+        "You only need to take it when you feel symptoms",
+        "Skipping doses will cure the infection faster"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Adherence is the single most important element of HIV care. Missing doses lets the virus replicate and develop resistance, which can make the regimen fail. Nurses ask about adherence at every visit.",
+        "incorrect": [
+          "Missed doses do have serious consequences for HIV control.",
+          "HIV is treated continuously, not only when symptoms appear.",
+          "Skipping doses promotes resistance; it does not cure the infection."
+        ]
+      }
+    },
+    {
+      "stem": "A client who has been virologically suppressed on oral ART for over a year dislikes taking daily pills and asks about the long-acting injectable Cabenuva (cabotegravir/rilpivirine). The nurse explains that this option:",
+      "options": [
+        "Can be started in any client newly diagnosed with HIV",
+        "Is only for clients who are already virologically suppressed, with no history of treatment failure or resistance",
+        "Cures HIV after a few injections",
+        "Is taken as a daily injection"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Cabenuva is a long-acting injectable given every 1-2 months, but only for clients who are already virologically suppressed (HIV-1 RNA < 50) with no history of treatment failure and no known resistance to its components. Adherence to injection appointments is essential to prevent rebound and resistance.",
+        "incorrect": [
+          "Cabenuva is not for treatment-naïve clients; it requires prior suppression.",
+          "Cabenuva controls but does not cure HIV.",
+          "It is given as an intramuscular injection every 1-2 months, not daily."
+        ]
+      }
+    },
+    {
+      "stem": "Several HIV regimens include tenofovir. Which laboratory value should the nurse monitor regularly for clients on tenofovir-containing therapy?",
+      "options": [
+        "Renal (kidney) function",
+        "Serum amylase",
+        "Thyroid-stimulating hormone",
+        "Blood type"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Tenofovir can affect the kidneys, so renal function should be monitored regularly (about every 3-6 months) in clients on HIV therapy or PrEP that contains tenofovir.",
+        "incorrect": [
+          "Amylase is not the routine monitoring value for tenofovir.",
+          "TSH is not the priority lab for tenofovir.",
+          "Blood type is unrelated to tenofovir monitoring."
+        ]
+      }
+    },
+    {
+      "stem": "Before starting the antiretroviral abacavir, which test is required to reduce the risk of a severe hypersensitivity reaction?",
+      "options": [
+        "HLA-B genetic testing",
+        "A fasting lipid panel",
+        "A chest X-ray",
+        "A pregnancy test"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Abacavir carries a risk of a serious (type IV) hypersensitivity reaction, so HLA-B genetic testing is required before starting to identify at-risk clients. It is used less often now for this reason.",
+        "incorrect": [
+          "A lipid panel is more relevant to protease inhibitors' metabolic effects, not abacavir hypersensitivity screening.",
+          "A chest X-ray is not the required pre-abacavir test.",
+          "While pregnancy status matters in HIV care generally, the specific pre-abacavir requirement is HLA-B testing."
+        ]
+      }
+    },
+    {
+      "stem": "A client on a protease inhibitor-based HIV regimen should be monitored for which characteristic adverse effects?",
+      "options": [
+        "Metabolic effects such as high cholesterol, diabetes, and weight gain",
+        "Hearing loss and tinnitus",
+        "Bright red discoloration of the urine",
+        "Severe hair loss"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Protease inhibitors are associated with metabolic effects—elevated cholesterol, diabetes, hypertension, and weight gain—so lifestyle modification and cardiovascular risk management are important. They also have many drug interactions.",
+        "incorrect": [
+          "Hearing loss is not the characteristic protease inhibitor effect.",
+          "Urine discoloration is not the hallmark of protease inhibitors.",
+          "Severe hair loss is not the characteristic protease inhibitor effect."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a pregnant client with HIV. Which statements reflect current standards of care? Select all that apply.",
+      "options": [
+        "All pregnant patients with HIV should be on ART",
+        "The goal is an undetectable viral load before delivery",
+        "Breastfeeding is recommended to pass protective antibodies to the newborn",
+        "If the viral load is high near delivery, a cesarean section is recommended",
+        "The newborn receives post-exposure prophylaxis after birth"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "",
+        "incorrect": [
+          "Correct—all pregnant patients with HIV should receive ART.",
+          "Correct—the aim is an undetectable viral load (below 50) before delivery to minimize transmission.",
+          "Breastfeeding is NOT recommended in U.S. guidelines because HIV can be transmitted through breast milk.",
+          "Correct—if the viral load is high (e.g., 1000+ copies) near delivery, a cesarean section is recommended, often with IV zidovudine.",
+          "Correct—the newborn receives post-exposure prophylaxis (zidovudine) after birth."
+        ]
+      }
     }
   ]
 }
