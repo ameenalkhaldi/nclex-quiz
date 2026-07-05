@@ -9,6 +9,205 @@ window.NCLEX_DATA = {
   "banks": {
     "upper-gi": [
       {
+        "stem": "A nurse on a medical-surgical unit receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "A client with a duodenal ulcer requesting a PRN antacid for 3/10 burning pain",
+          "A client with peptic ulcer disease who now has a rigid, board-like abdomen and a heart rate of 124",
+          "A client with GERD reporting heartburn after eating a large, spicy meal",
+          "A client started on omeprazole yesterday asking when symptom relief should begin"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A PRN antacid request for mild, expected ulcer pain is routine and can be addressed after the unstable client.",
+          "A rigid, board-like abdomen with tachycardia signals perforation of the ulcer through the GI wall, leaking contents into the peritoneum (peritonitis). This is a surgical emergency with rapidly developing shock, so this client is the priority.",
+          "Heartburn after a large, spicy meal is an expected GERD trigger and is not urgent.",
+          "Teaching about the onset of omeprazole (2-3 days) is important but not time-sensitive compared with a possible perforation."
+        ]
+      },
+      {
+        "stem": "A client is admitted with a suspected perforated peptic ulcer and peritonitis. Which prescription should the nurse question?",
+        "options": [
+          "Maintain NPO status",
+          "Insert a nasogastric tube to low intermittent suction",
+          "Administer IV ketorolac for pain",
+          "Begin IV fluid resuscitation and IV pantoprazole"
+        ],
+        "answer": 2,
+        "explanations": [
+          "NPO status rests the GI tract and is appropriate before likely surgery.",
+          "NG suction decompresses the stomach and reduces leakage of contents, which is appropriate for a perforation.",
+          "Ketorolac is an NSAID. NSAIDs inhibit protective prostaglandins and promote further mucosal damage and bleeding, so they are contraindicated with an active or perforated ulcer. The nurse should question this order and expect an opioid for pain instead.",
+          "IV fluids treat developing hypovolemia and a PPI reduces acid; both are appropriate."
+        ]
+      },
+      {
+        "stem": "A provider prescribes cimetidine for an 80-year-old client who already takes warfarin, phenytoin, and theophylline. What is the nurse's best action?",
+        "options": [
+          "Administer cimetidine 2 hours apart from the other medications",
+          "Question the prescription and suggest famotidine as a safer alternative",
+          "Hold the warfarin while the client takes cimetidine",
+          "Administer all medications as prescribed; no interaction exists"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The interaction is hepatic (metabolic), not related to GI absorption, so spacing the doses does not prevent it.",
+          "Cimetidine inhibits hepatic cytochrome P450 enzymes, raising levels of drugs metabolized by the liver—including warfarin, phenytoin, and theophylline—and it crosses the blood-brain barrier to cause confusion in older adults. Famotidine has minimal CYP450 interactions and fewer CNS effects, so it is the safer H2 blocker here.",
+          "Holding warfarin does not address the interactions with phenytoin and theophylline and could leave the client under-anticoagulated.",
+          "This combination has significant interactions; administering without changes risks warfarin, phenytoin, and theophylline toxicity."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with peptic ulcer disease. Which assessment finding requires the most immediate intervention?",
+        "options": [
+          "Epigastric pain rated 4/10 that is relieved by antacids",
+          "A single black, tarry stool this morning",
+          "Blood pressure 86/52, heart rate 120, and an episode of hematemesis",
+          "Nausea after taking an oral iron supplement"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Mild pain relieved by antacids reflects uncomplicated ulcer disease.",
+          "Melena indicates GI bleeding and must be reported, but a single stool without hemodynamic instability is lower priority than active hemorrhage with unstable vital signs.",
+          "Hypotension, tachycardia, and hematemesis indicate active upper GI hemorrhage with developing hypovolemic shock—a circulation emergency requiring immediate intervention.",
+          "Nausea after oral iron is a common, expected side effect."
+        ]
+      },
+      {
+        "stem": "A client is starting bismuth-based quadruple therapy (bismuth subsalicylate, tetracycline, metronidazole, and a PPI) for H. pylori. Which client statements indicate correct understanding? Select all that apply.",
+        "options": [
+          "My stool and tongue may turn black while I take the bismuth.",
+          "I should avoid alcohol while I am taking the metronidazole.",
+          "I can stop the antibiotics once my stomach pain goes away.",
+          "I will take the entire course even though it is several pills a day.",
+          "I can give my leftover pills to my teenager if his stomach hurts."
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—bismuth causes harmless black discoloration of the stool and tongue.",
+          "Correct—metronidazole causes a disulfiram-like reaction (flushing, nausea, vomiting) with alcohol, which must be avoided during therapy and for a few days after.",
+          "Incorrect—stopping antibiotics early promotes resistance and treatment failure; the full course must be completed.",
+          "Correct—completing the entire multi-drug course is essential to eradicate H. pylori.",
+          "Incorrect—antibiotics should never be shared, and bismuth subsalicylate is a salicylate that risks Reye's syndrome in a teen with a viral illness."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A provider prescribes misoprostol for NSAID-induced ulcer prophylaxis for four clients. For which client should the nurse withhold the drug and contact the provider?",
+        "options": [
+          "A 68-year-old man with rheumatoid arthritis on chronic naproxen",
+          "A 30-year-old woman who is 8 weeks pregnant",
+          "A 55-year-old woman on daily low-dose aspirin after a myocardial infarction",
+          "A 72-year-old woman with osteoarthritis on daily ibuprofen"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A man on chronic NSAIDs is an appropriate candidate for misoprostol prophylaxis.",
+          "Misoprostol is a prostaglandin analogue that stimulates uterine contractions and is contraindicated in pregnancy—it can cause miscarriage and fetal harm. The nurse should withhold it and notify the provider.",
+          "A postmenopausal woman on aspirin can safely receive misoprostol for gastric protection.",
+          "An older woman on chronic ibuprofen is exactly the client who benefits from misoprostol prophylaxis."
+        ]
+      },
+      {
+        "stem": "A client is prescribed sucralfate four times daily and also takes levothyroxine, ciprofloxacin, and an aluminum-magnesium antacid. Which instruction is most important for the nurse to provide?",
+        "options": [
+          "Take all of these medications together each morning for consistency",
+          "Separate sucralfate from the other drugs and do not take it with the antacid",
+          "Take sucralfate with a glass of milk to coat the stomach",
+          "Take the antacid at the same time as sucralfate to strengthen the barrier"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Taking everything together would markedly reduce absorption of levothyroxine and ciprofloxacin.",
+          "Sucralfate forms a thick paste that binds other oral drugs (such as levothyroxine and ciprofloxacin) and reduces their absorption, so it must be separated from them. It also needs an acidic environment to activate, so it should not be taken with an antacid, which raises gastric pH.",
+          "Milk raises gastric pH and interferes with sucralfate activation; it should be taken on an empty stomach.",
+          "Antacids neutralize the acid sucralfate needs to form its protective barrier, so they should not be taken together."
+        ]
+      },
+      {
+        "stem": "A client with a 15-year history of GERD reports new difficulty swallowing solids and a 12-pound unintentional weight loss over 2 months. What is the nurse's priority action?",
+        "options": [
+          "Reassure the client that this is an expected effect of long-standing reflux",
+          "Suggest taking an antacid before each meal",
+          "Notify the provider and anticipate referral for upper endoscopy",
+          "Encourage smaller, more frequent meals and reassess in 3 months"
+        ],
+        "answer": 2,
+        "explanations": [
+          "These are alarm features, not expected effects; false reassurance delays diagnosis.",
+          "Antacids do not address a possible malignancy or stricture and would delay needed evaluation.",
+          "New dysphagia and unintentional weight loss are alarm ('red flag') symptoms in chronic GERD that suggest Barrett's esophagus, stricture, or esophageal cancer. They require prompt provider notification and endoscopic evaluation.",
+          "Delaying evaluation for 3 months is unsafe when alarm symptoms are present."
+        ]
+      },
+      {
+        "stem": "A client who has taken omeprazole daily for 3 years is admitted with muscle cramps, tremors, and a positive Trousseau sign. Which serum lab value should the nurse review first?",
+        "options": [
+          "Sodium",
+          "Magnesium",
+          "Glucose",
+          "Albumin"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Sodium disturbances cause neurologic changes but do not explain the tetany-like signs linked to PPI use.",
+          "Long-term PPI use causes hypomagnesemia, which produces neuromuscular irritability—cramps, tremors, and positive Trousseau/Chvostek signs (and can also lower calcium). Magnesium is the priority value to check.",
+          "Glucose is unrelated to these neuromuscular findings.",
+          "Albumin does not explain the neuromuscular irritability, though it can affect the measured calcium level."
+        ]
+      },
+      {
+        "stem": "A client with stage 4 chronic kidney disease asks the nurse which over-the-counter antacid is safest for occasional heartburn. Which product should the nurse tell the client to avoid?",
+        "options": [
+          "An alginate-based antacid",
+          "Magnesium hydroxide",
+          "Occasional famotidine",
+          "A single calcium carbonate tablet"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Alginate-based products form a floating barrier and are not a magnesium load; they are a reasonable option.",
+          "Clients with kidney disease cannot excrete magnesium efficiently, so magnesium hydroxide can accumulate and cause hypermagnesemia—bradycardia, hypotension, and respiratory depression. It should be avoided.",
+          "Famotidine is an H2 blocker (dose-adjusted in renal impairment) and does not carry the magnesium-accumulation risk.",
+          "Occasional calcium carbonate is safer than magnesium products in kidney disease, though it should still be used sparingly."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing four ICU clients. Which client is at highest risk for a stress-related (Curling) ulcer and most likely needs PPI prophylaxis?",
+        "options": [
+          "A client recovering from elective knee arthroscopy",
+          "A client with 40% total-body-surface-area burns on mechanical ventilation",
+          "A client with well-controlled GERD admitted for observation",
+          "A client with mild community-acquired pneumonia on oral antibiotics"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Minor elective surgery is not a major physiologic stressor for stress ulceration.",
+          "Major physiologic stress—extensive burns plus mechanical ventilation—markedly increases the risk of stress ulcers (Curling ulcers with burns). These high-risk clients receive PPI or H2-blocker prophylaxis.",
+          "Well-controlled GERD is not the acute physiologic stress that drives stress ulcers.",
+          "Mild pneumonia managed at the floor level is a much lower stress-ulcer risk than critical burns and ventilation."
+        ]
+      },
+      {
+        "stem": "A client reports that eating relieves their epigastric pain, but the pain returns 2-3 hours later and often wakes them around 2 a.m. The client takes ibuprofen daily for back pain. Which response by the nurse is most appropriate?",
+        "options": [
+          "This pattern points to a gastric ulcer; take your ibuprofen with meals.",
+          "This pain pattern suggests a duodenal ulcer; we should stop the ibuprofen and test you for H. pylori.",
+          "Nighttime pain like this is expected with GERD; sleep with the head of your bed flat.",
+          "Take an antacid together with your ibuprofen and continue both as usual."
+        ],
+        "answer": 1,
+        "explanations": [
+          "Gastric ulcer pain is worsened by food; continuing ibuprofen would perpetuate the ulcer.",
+          "Pain relieved by food that recurs 2-3 hours later and at night (empty stomach) is classic for a duodenal ulcer. NSAIDs like ibuprofen are a major cause, so stopping the NSAID and testing for H. pylori—the two leading causes of PUD—is appropriate.",
+          "This is a duodenal-ulcer pattern, not GERD, and lying flat worsens reflux.",
+          "Continuing the NSAID even with an antacid leaves the primary cause of the ulcer in place."
+        ]
+      },
+      {
         "stem": "A client reports burning epigastric pain that occurs 2-3 hours after eating and is relieved by food or antacids. The nurse recognizes these findings as characteristic of which condition?",
         "options": [
           "Gastric ulcer",
