@@ -1,0 +1,42 @@
+{
+  "topic": "lower-gi",
+  "label": "Lower GI",
+  "questions": [
+    {
+      "stem": "A nurse is teaching a client scheduled for a colonoscopy. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "I will drink only clear liquids the day before the test",
+        "I should stop taking aspirin one week before the procedure",
+        "I can drive myself home after the procedure",
+        "I will need to complete the bowel preparation as prescribed"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Sedation is used during colonoscopy, so the client cannot drive afterward. This statement shows misunderstanding and requires clarification.",
+        "incorrect": [
+          "Clear liquid diet the day before is correct preparation.",
+          "Stopping aspirin to reduce bleeding risk is appropriate.",
+          "Completing bowel prep is essential for adequate visualization."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a new colostomy asks why the stoma appears beefy red and swollen. Which response by the nurse is most appropriate?",
+      "options": [
+        "The stoma is necrotic and the surgeon should be notified immediately",
+        "This is expected in the immediate postoperative period due to surgical manipulation",
+        "You are having an allergic reaction to the ostomy appliance",
+        "This indicates an obstruction and you should not eat anything"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A beefy red, edematous stoma is normal postoperatively due to surgical manipulation. It will shrink over 6-8 weeks.",
+        "incorrect": [
+          "A necrotic stoma would appear dusky, blue, or black—not red.",
+          "Allergic reaction would show on the peristomal skin, not the stoma itself.",
+          "There are no signs of obstruction described in this scenario."
+        ]
+      }
+    }
+  ]
+}

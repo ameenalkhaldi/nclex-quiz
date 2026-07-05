@@ -1,0 +1,60 @@
+{
+  "topic": "neuro",
+  "label": "Migraine · Insomnia · Seizures",
+  "questions": [
+    {
+      "stem": "A client is prescribed phenytoin for seizure management. Which instruction should the nurse include in discharge teaching?",
+      "options": [
+        "Stop taking the medication when seizures are controlled for 6 months",
+        "Report signs of gingival hyperplasia to the provider",
+        "Take the medication with antacids to reduce GI upset",
+        "Expect drowsiness to resolve within the first week"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Gingival hyperplasia is a common side effect of phenytoin that requires monitoring and dental care. The client should report this finding.",
+        "incorrect": [
+          "Anticonvulsants should never be stopped abruptly—this can trigger status epilepticus.",
+          "Antacids decrease phenytoin absorption and should be separated from the dose.",
+          "CNS effects may persist and require dosage adjustment, not just time."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing a client experiencing a tonic-clonic seizure. Which action should the nurse take during the seizure?",
+      "options": [
+        "Insert a padded tongue blade between the teeth",
+        "Restrain the client's extremities to prevent injury",
+        "Turn the client to the side and protect the head",
+        "Begin rescue breathing immediately"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Side-lying position maintains the airway and allows secretions to drain. Protecting the head from injury is the priority during an active seizure.",
+        "incorrect": [
+          "Never insert anything into the mouth during a seizure—risk of injury to client and nurse.",
+          "Restraining extremities can cause musculoskeletal injury.",
+          "The client is not in respiratory arrest; positioning maintains the airway adequately."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports a migraine with visual aura and unilateral throbbing pain. Which intervention should the nurse anticipate?",
+      "options": [
+        "Administer a triptan medication as prescribed",
+        "Apply a warm compress to the affected side",
+        "Encourage the client to ambulate in the hallway",
+        "Provide a high-protein snack"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Triptans are first-line abortive therapy for migraines. They work best when given early in the attack.",
+        "incorrect": [
+          "Cold, not warm, compresses may help—heat can worsen vasodilation and pain.",
+          "A dark, quiet environment is preferred; activity can worsen symptoms.",
+          "There is no indication for a high-protein snack in acute migraine management."
+        ]
+      }
+    }
+  ]
+}

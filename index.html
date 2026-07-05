@@ -248,6 +248,14 @@
     .verdict.good { color: var(--good); }
     .verdict.bad { color: var(--bad); }
 
+    .option.is-selected { border-color: var(--accent); background: var(--raise); }
+    .option.is-selected .key { border-color: var(--accent); color: var(--accent); }
+
+    .sata-hint { color: var(--accent); display: block; margin: -0.4rem 0 1rem; }
+
+    .submit-btn { margin-top: 1rem; }
+    .r-key.bad { color: var(--ink-faint); }
+
     /* ---------- rationale ---------- */
     .rationale {
       display: grid;
@@ -429,186 +437,11 @@
     </div>
   </nav>
 
+<script src="questions/banks.js"></script>
 <script>
-const QUESTIONS = {
-  "upper-gi": [
-    {
-      stem: "A nurse is caring for a client with a nasogastric tube connected to low intermittent suction. The client reports nausea. Which action should the nurse take first?",
-      options: [
-        "Administer prescribed antiemetic medication",
-        "Check the placement and patency of the NG tube",
-        "Increase the suction pressure",
-        "Remove the NG tube and notify the provider"
-      ],
-      answer: 1,
-      rationale: {
-        correct: "Checking tube placement and patency is the priority assessment. A kinked, clogged, or displaced tube can cause nausea and must be ruled out before other interventions.",
-        incorrect: [
-          "Antiemetic may be appropriate but assessment comes first to identify the cause.",
-          "Increasing suction without assessing could cause mucosal damage.",
-          "Removing the tube is not indicated without further assessment and provider consultation."
-        ]
-      }
-    },
-    {
-      stem: "A client with peptic ulcer disease reports sudden, severe epigastric pain with a rigid, board-like abdomen. Which action is the nurse's priority?",
-      options: [
-        "Administer the prescribed proton pump inhibitor",
-        "Prepare the client for emergency surgery",
-        "Obtain a stool sample for occult blood",
-        "Encourage the client to ambulate to relieve gas"
-      ],
-      answer: 1,
-      rationale: {
-        correct: "Sudden severe pain with rigid abdomen indicates perforation—a surgical emergency. Immediate preparation for surgery is critical.",
-        incorrect: [
-          "PPI will not address a perforation and delays critical intervention.",
-          "Stool occult blood is not the priority in an emergency situation.",
-          "Ambulation is contraindicated with suspected perforation."
-        ]
-      }
-    }
-  ],
-  "lower-gi": [
-    {
-      stem: "A nurse is teaching a client scheduled for a colonoscopy. Which statement by the client indicates a need for further teaching?",
-      options: [
-        "I will drink only clear liquids the day before the test",
-        "I should stop taking aspirin one week before the procedure",
-        "I can drive myself home after the procedure",
-        "I will need to complete the bowel preparation as prescribed"
-      ],
-      answer: 2,
-      rationale: {
-        correct: "Sedation is used during colonoscopy, so the client cannot drive afterward. This statement shows misunderstanding and requires clarification.",
-        incorrect: [
-          "Clear liquid diet the day before is correct preparation.",
-          "Stopping aspirin to reduce bleeding risk is appropriate.",
-          "Completing bowel prep is essential for adequate visualization."
-        ]
-      }
-    },
-    {
-      stem: "A client with a new colostomy asks why the stoma appears dark red and swollen. Which response by the nurse is most appropriate?",
-      options: [
-        "The stoma is necrotic and the surgeon should be notified immediately",
-        "This is expected in the immediate postoperative period due to surgical manipulation",
-        "You are having an allergic reaction to the ostomy appliance",
-        "This indicates an obstruction and you should not eat anything"
-      ],
-      answer: 1,
-      rationale: {
-        correct: "A beefy red, edematous stoma is normal postoperatively due to surgical manipulation. It will shrink over 6-8 weeks.",
-        incorrect: [
-          "A necrotic stoma would appear dusky, blue, or black—not red.",
-          "Allergic reaction would show on the peristomal skin, not the stoma itself.",
-          "There are no signs of obstruction described in this scenario."
-        ]
-      }
-    }
-  ],
-  "neoplasms-cancer": [
-    {
-      stem: "A client receiving chemotherapy has a platelet count of 18,000/mm³. Which intervention should the nurse include in the plan of care?",
-      options: [
-        "Place the client in protective isolation",
-        "Avoid intramuscular injections and use a soft toothbrush",
-        "Encourage increased oral fluid intake",
-        "Administer prescribed colony-stimulating factors"
-      ],
-      answer: 1,
-      rationale: {
-        correct: "Platelet count below 20,000 indicates severe thrombocytopenia with high bleeding risk. Avoiding IM injections and trauma is essential.",
-        incorrect: [
-          "Protective isolation is for neutropenia, not thrombocytopenia.",
-          "Fluids are important but don't address the bleeding risk priority.",
-          "Colony-stimulating factors stimulate WBCs, not platelets. Thrombopoietin agents would be used for platelets."
-        ]
-      }
-    },
-    {
-      stem: "A nurse is caring for a client receiving radiation therapy to the chest. Which finding requires immediate intervention?",
-      options: [
-        "Fatigue that worsens as treatment progresses",
-        "Dry, reddened skin over the treatment area",
-        "Moist desquamation with open areas on the skin",
-        "Temporary hair loss in the treatment field"
-      ],
-      answer: 2,
-      rationale: {
-        correct: "Moist desquamation with open areas indicates severe skin breakdown requiring immediate intervention to prevent infection and promote healing.",
-        incorrect: [
-          "Fatigue is an expected side effect of radiation therapy.",
-          "Dry erythema is common and managed with routine skin care.",
-          "Hair loss in the treatment field is expected and temporary."
-        ]
-      }
-    }
-  ],
-  "neuro": [
-    {
-      stem: "A client is prescribed phenytoin for seizure management. Which instruction should the nurse include in discharge teaching?",
-      options: [
-        "Stop taking the medication when seizures are controlled for 6 months",
-        "Report signs of gingival hyperplasia to the provider",
-        "Take the medication with antacids to reduce GI upset",
-        "Expect drowsiness to resolve within the first week"
-      ],
-      answer: 1,
-      rationale: {
-        correct: "Gingival hyperplasia is a common side effect of phenytoin that requires monitoring and dental care. The client should report this finding.",
-        incorrect: [
-          "Anticonvulsants should never be stopped abruptly—this can trigger status epilepticus.",
-          "Antacids decrease phenytoin absorption and should be avoided.",
-          "CNS effects may persist and require dosage adjustment, not just time."
-        ]
-      }
-    },
-    {
-      stem: "A nurse is assessing a client experiencing a tonic-clonic seizure. Which action should the nurse take during the seizure?",
-      options: [
-        "Insert a padded tongue blade between the teeth",
-        "Restrain the client's extremities to prevent injury",
-        "Turn the client to the side and protect the head",
-        "Begin rescue breathing immediately"
-      ],
-      answer: 2,
-      rationale: {
-        correct: "Side-lying position maintains airway and allows secretions to drain. Protecting the head from injury is priority during active seizure.",
-        incorrect: [
-          "Never insert anything into the mouth during a seizure—risk of injury to client and nurse.",
-          "Restraining extremities can cause musculoskeletal injury.",
-          "The client is not in respiratory arrest; positioning maintains airway adequately."
-        ]
-      }
-    },
-    {
-      stem: "A client reports a migraine with visual aura and unilateral throbbing pain. Which intervention should the nurse anticipate?",
-      options: [
-        "Administer a triptan medication as prescribed",
-        "Apply a warm compress to the affected side",
-        "Encourage the client to ambulate in the hallway",
-        "Provide a high-protein snack"
-      ],
-      answer: 0,
-      rationale: {
-        correct: "Triptans are first-line abortive therapy for migraines with aura. They work best when given early in the attack.",
-        incorrect: [
-          "Cold, not warm, compresses may help—heat can worsen vasodilation and pain.",
-          "A dark, quiet environment is preferred; activity can worsen symptoms.",
-          "There is no indication for high-protein snack in acute migraine management."
-        ]
-      }
-    }
-  ]
-};
-
-const TOPIC_LABELS = {
-  "upper-gi": "Upper GI",
-  "lower-gi": "Lower GI",
-  "neoplasms-cancer": "Neoplasms & Cancer",
-  "neuro": "Migraine · Insomnia · Seizures"
-};
+const DATA = window.NCLEX_DATA || { labels: {}, banks: {} };
+const TOPIC_LABELS = DATA.labels;
+const QUESTIONS = DATA.banks;
 
 const state = {
   view: "start",       // start | quiz | results
@@ -616,16 +449,16 @@ const state = {
   shuffled: false,
   questions: [],
   index: 0,
-  answers: {},
+  answers: {},         // index -> original option index (MC) or sorted array (SATA)
+  pending: new Set(),  // in-progress SATA selection (original option indices)
+  pendingIndex: -1,
   review: false        // revisiting a question from the results screen
 };
 
 const $ = id => document.getElementById(id);
 const letter = i => String.fromCharCode(65 + i);
-
-function allQuestions() {
-  return Object.entries(QUESTIONS).flatMap(([topic, qs]) => qs.map(q => ({ ...q, topic })));
-}
+const range = n => Array.from({ length: n }, (_, i) => i);
+const isSata = q => Array.isArray(q.answer);
 
 function shuffle(array) {
   const arr = [...array];
@@ -636,6 +469,25 @@ function shuffle(array) {
   return arr;
 }
 
+function allQuestions() {
+  return Object.entries(QUESTIONS).flatMap(([topic, qs]) => qs.map(q => ({ ...q, topic })));
+}
+
+// Correct-answer set (original option indices) for either question type.
+function answerSet(q) {
+  return new Set(isSata(q) ? q.answer : [q.answer]);
+}
+
+function isCorrect(q, ans) {
+  if (ans === undefined) return false;
+  const key = answerSet(q);
+  if (isSata(q)) {
+    if (!Array.isArray(ans) || ans.length !== key.size) return false;
+    return ans.every(i => key.has(i));
+  }
+  return ans === q.answer;
+}
+
 function sessionLabel() {
   if (state.topic === "all") return "All Topics";
   return TOPIC_LABELS[state.topic];
@@ -644,12 +496,17 @@ function sessionLabel() {
 function startSession(topic, shuffled = false) {
   state.topic = topic;
   state.shuffled = shuffled;
-  state.questions = topic === "all"
+  let list = topic === "all"
     ? allQuestions()
     : QUESTIONS[topic].map(q => ({ ...q, topic }));
-  if (shuffled) state.questions = shuffle(state.questions);
+  if (shuffled) list = shuffle(list);
+  // Randomize option order per question so the correct answer is not
+  // clustered in one position across the bank.
+  state.questions = list.map(q => ({ ...q, _order: shuffle(range(q.options.length)) }));
   state.index = 0;
   state.answers = {};
+  state.pending = new Set();
+  state.pendingIndex = -1;
   state.review = false;
   state.view = "quiz";
   render();
@@ -698,7 +555,7 @@ function renderStart() {
     <span class="caps list-label">By topic</span>
     ${topicRows}
 
-    <p class="hint">Tip: answer with <kbd>A</kbd>–<kbd>D</kbd>, move with <kbd>&larr;</kbd> <kbd>&rarr;</kbd>.</p>
+    <p class="hint">Tip: answer with <kbd>A</kbd>&ndash;<kbd>E</kbd>, move with <kbd>&larr;</kbd> <kbd>&rarr;</kbd>.</p>
   `;
 }
 
@@ -706,50 +563,73 @@ function renderStart() {
 
 function renderQuiz(opts = {}) {
   const q = state.questions[state.index];
-  const selected = state.answers[state.index];
-  const answered = selected !== undefined;
+  const sata = isSata(q);
+  const stored = state.answers[state.index];
+  const answered = stored !== undefined;
   const showTag = state.topic === "all";
+  const key = answerSet(q);
+
+  if (state.pendingIndex !== state.index) {
+    state.pending = new Set();
+    state.pendingIndex = state.index;
+  }
+  const picked = answered
+    ? new Set(sata ? stored : [stored])
+    : state.pending;
 
   $("tb-topic").textContent = state.review ? "Review · " + sessionLabel() : sessionLabel();
   $("tb-count").textContent = `${state.index + 1} / ${state.questions.length}`;
   $("tb-fill").style.width = `${((state.index + 1) / state.questions.length) * 100}%`;
 
-  const optionsHtml = q.options.map((opt, i) => {
+  const optionsHtml = q._order.map((orig, slot) => {
     let cls = "option";
     let verdict = "";
     if (answered) {
-      if (i === q.answer) {
+      const isKey = key.has(orig);
+      const wasPicked = picked.has(orig);
+      if (isKey) {
         cls += " is-correct";
-        verdict = `<span class="verdict caps good">Correct</span>`;
-      } else if (i === selected) {
+        verdict = `<span class="verdict caps good">${wasPicked ? "Correct" : "Answer"}</span>`;
+      } else if (wasPicked) {
         cls += " is-wrong";
         verdict = `<span class="verdict caps bad">Your answer</span>`;
       } else {
         cls += " is-dim";
       }
+    } else if (picked.has(orig)) {
+      cls += " is-selected";
     }
-    return `<button class="${cls}" style="--i:${i}" onclick="selectAnswer(${i})" ${answered ? "disabled" : ""}>
-      <span class="key">${letter(i)}</span>
-      <span class="opt-text">${opt}</span>${verdict}
+    const handler = sata ? `toggleOption(${slot})` : `selectAnswer(${slot})`;
+    return `<button class="${cls}" style="--i:${slot}" onclick="${handler}" ${answered ? "disabled" : ""}>
+      <span class="key">${letter(slot)}</span>
+      <span class="opt-text">${q.options[orig]}</span>${verdict}
     </button>`;
   }).join("");
 
-  const incorrectHtml = q.rationale.incorrect.map((text, i) => {
-    const l = i >= q.answer ? i + 1 : i;
-    return `<p><span class="r-key">${letter(l)}</span>${text}</p>`;
+  const submitHtml = sata && !answered
+    ? `<button class="btn solid submit-btn" onclick="submitSata()" ${picked.size ? "" : "disabled"}>Submit selection</button>`
+    : "";
+  const sataHint = sata && !answered
+    ? `<p class="sata-hint caps">Select all that apply</p>`
+    : "";
+
+  const rationaleHtml = q._order.map((orig, slot) => {
+    const good = key.has(orig);
+    return `<p><span class="r-key ${good ? "good" : "bad"}">${letter(slot)}</span>${q.explanations[orig]}</p>`;
   }).join("");
 
   $("main").innerHTML = `
     <article class="${opts.enter ? "enter" : ""}">
       ${showTag ? `<span class="q-tag caps">${TOPIC_LABELS[q.topic]}</span>` : ""}
       <h2 class="stem">${q.stem}</h2>
+      ${sataHint}
       <div class="options">${optionsHtml}</div>
+      ${submitHtml}
       <section class="rationale ${answered && !opts.reveal ? "open instant" : ""}" id="rationale">
         <div class="rationale-clip">
           <div class="rationale-body">
             <h3 class="caps">Rationale</h3>
-            <p class="lead"><span class="r-key good">Correct · ${letter(q.answer)}</span>${q.rationale.correct}</p>
-            ${incorrectHtml}
+            ${rationaleHtml}
           </div>
         </div>
       </section>
@@ -774,9 +654,32 @@ function updateNav(answered) {
   $("next-btn").textContent = last ? (state.review ? "Results" : "Finish") : "Next";
 }
 
-function selectAnswer(i) {
+// MC: pick and reveal immediately. slot is the displayed position.
+function selectAnswer(slot) {
   if (state.answers[state.index] !== undefined) return;
-  state.answers[state.index] = i;
+  const q = state.questions[state.index];
+  state.answers[state.index] = q._order[slot];
+  renderQuiz({ reveal: true });
+}
+
+// SATA: toggle a choice without revealing.
+function toggleOption(slot) {
+  if (state.answers[state.index] !== undefined) return;
+  const q = state.questions[state.index];
+  const orig = q._order[slot];
+  if (state.pendingIndex !== state.index) {
+    state.pending = new Set();
+    state.pendingIndex = state.index;
+  }
+  if (state.pending.has(orig)) state.pending.delete(orig);
+  else state.pending.add(orig);
+  renderQuiz({});
+}
+
+function submitSata() {
+  if (state.answers[state.index] !== undefined) return;
+  if (!state.pending.size) return;
+  state.answers[state.index] = [...state.pending].sort((a, b) => a - b);
   renderQuiz({ reveal: true });
 }
 
@@ -823,13 +726,13 @@ function verdictLine(pct, skipped) {
 
 function renderResults() {
   const qs = state.questions;
-  const correct = qs.reduce((n, q, i) => n + (state.answers[i] === q.answer ? 1 : 0), 0);
+  const correct = qs.reduce((n, q, i) => n + (isCorrect(q, state.answers[i]) ? 1 : 0), 0);
   const skipped = qs.reduce((n, _, i) => n + (state.answers[i] === undefined ? 1 : 0), 0);
   const pct = Math.round((correct / qs.length) * 100);
 
   const rows = qs.map((q, i) => {
     const a = state.answers[i];
-    const good = a === q.answer;
+    const good = isCorrect(q, a);
     const mark = a === undefined ? "–" : good ? "✓" : "✕";
     const cls = a === undefined ? "skip" : good ? "good" : "bad";
     return `<button class="result-row" onclick="reviewQuestion(${i})">
@@ -863,11 +766,17 @@ document.addEventListener("keydown", e => {
   const k = e.key.toLowerCase();
 
   if (!answered) {
-    let idx = "abcd".indexOf(k);
-    if (idx === -1) idx = "1234".indexOf(k);
+    let idx = "abcde".indexOf(k);
+    if (idx === -1) idx = "12345".indexOf(k);
     if (idx > -1 && idx < q.options.length) {
       e.preventDefault();
-      selectAnswer(idx);
+      if (isSata(q)) toggleOption(idx);
+      else selectAnswer(idx);
+      return;
+    }
+    if (isSata(q) && k === "enter") {
+      e.preventDefault();
+      submitSata();
       return;
     }
   }
@@ -880,7 +789,12 @@ document.addEventListener("keydown", e => {
   }
 });
 
-render();
+if (!Object.keys(QUESTIONS).length) {
+  $("main").innerHTML = `<div class="masthead"><h1>No questions loaded</h1>
+    <p class="sub">Run <code>python3 build.py</code> to generate questions/banks.js, then reload.</p></div>`;
+} else {
+  render();
+}
 </script>
 </body>
 </html>

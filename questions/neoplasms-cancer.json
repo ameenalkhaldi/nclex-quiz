@@ -1,0 +1,42 @@
+{
+  "topic": "neoplasms-cancer",
+  "label": "Neoplasms & Cancer",
+  "questions": [
+    {
+      "stem": "A client receiving chemotherapy has a platelet count of 18,000/mm³. Which intervention should the nurse include in the plan of care?",
+      "options": [
+        "Place the client in protective isolation",
+        "Avoid intramuscular injections and use a soft toothbrush",
+        "Encourage increased oral fluid intake",
+        "Administer prescribed colony-stimulating factors"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A platelet count below 20,000/mm³ indicates severe thrombocytopenia with high bleeding risk. Avoiding IM injections and trauma is essential.",
+        "incorrect": [
+          "Protective isolation is for neutropenia, not thrombocytopenia.",
+          "Fluids are important but don't address the bleeding risk priority.",
+          "Colony-stimulating factors stimulate WBCs, not platelets. Thrombopoietin agents would be used for platelets."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client receiving radiation therapy to the chest. Which finding requires immediate intervention?",
+      "options": [
+        "Fatigue that worsens as treatment progresses",
+        "Dry, reddened skin over the treatment area",
+        "Moist desquamation with open areas on the skin",
+        "Temporary hair loss in the treatment field"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Moist desquamation with open areas indicates severe skin breakdown requiring immediate intervention to prevent infection and promote healing.",
+        "incorrect": [
+          "Fatigue is an expected side effect of radiation therapy.",
+          "Dry erythema is common and managed with routine skin care.",
+          "Hair loss in the treatment field is expected and temporary."
+        ]
+      }
+    }
+  ]
+}

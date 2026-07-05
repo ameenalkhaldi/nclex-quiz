@@ -14,7 +14,7 @@
       "rationale": {
         "correct": "Duodenal ulcer pain typically occurs 2-3 hours after eating and is relieved by food or antacids because food absorbs the acid that irritates the ulcerated duodenum.",
         "incorrect": [
-          "Gastric ulcer pain is worsened by food and typically occurs within 15-30 minutes of eating due to acid secretion stimulated by food.",
+          "Gastric ulcer pain is worsened by food and typically occurs about 30-60 minutes after eating due to acid secretion stimulated by food.",
           "GERD presents with heartburn and regurgitation within 30-60 minutes of eating, often worsened by lying down.",
           "Acute gastritis presents with upset stomach, burning pain, nausea/vomiting, and is often self-limited."
         ]
@@ -57,20 +57,20 @@
       }
     },
     {
-      "stem": "A client has been taking esomeprazole for 2 years. The nurse should monitor for which long-term complications? Select all that apply.",
+      "stem": "A nursing home resident has been taking omeprazole for 3 years. The nurse notes the client has developed a new Clostridioides difficile infection. Which factor most likely contributed to this infection?",
       "options": [
-        "Anemia due to impaired iron and B12 absorption",
-        "Increased risk of Clostridioides difficile infection",
-        "Osteoporotic fractures due to decreased calcium absorption",
-        "All of the above are correct"
+        "The medication caused direct bacterial overgrowth",
+        "Long-term acid suppression reduced the stomach's natural defense against pathogens",
+        "The medication is contaminated with C. difficile spores",
+        "Omeprazole interferes with antibiotic effectiveness"
       ],
-      "answer": 3,
+      "answer": 1,
       "rationale": {
-        "correct": "Long-term PPI use is associated with C. diff infection (stomach acid normally protects against pathogens), anemia (acid needed for iron and B12 absorption), and osteoporosis/hip fractures (calcium needs acidic environment for absorption).",
+        "correct": "Stomach acid is a natural barrier against ingested pathogens. Long-term PPI use significantly reduces acid, making the stomach environment more favorable for pathogens like C. difficile to survive and colonize the GI tract.",
         "incorrect": [
-          "This is correct but incomplete—all options listed are long-term PPI complications.",
-          "This is correct but incomplete—all options listed are long-term PPI complications.",
-          "This is correct but incomplete—all options listed are long-term PPI complications."
+          "PPIs do not directly cause bacterial overgrowth—they reduce the acid barrier that normally kills pathogens.",
+          "Medications are not contaminated with C. difficile; the infection occurs due to reduced gastric acid defense.",
+          "PPIs do not interfere with antibiotic effectiveness; the mechanism is acid suppression reducing natural pathogen defense."
         ]
       }
     },
@@ -88,7 +88,7 @@
         "incorrect": [
           "Sucralfate should NOT be taken with antacids. Antacids raise pH, but sucralfate needs acid to activate and form its protective barrier.",
           "Taking after meals is incorrect—sucralfate must be taken before eating on an empty stomach.",
-          "Milk would neutralize stomach acid, reducing sucralfate's effectiveness. It should be taken before meals, not at bedtime with milk."
+          "Milk would raise gastric pH and neutralize the acid sucralfate needs to activate and form its protective barrier. Sucralfate is dosed on an empty stomach before meals and at bedtime, but it should not be taken with milk or antacids."
         ]
       }
     },
@@ -147,19 +147,19 @@
       }
     },
     {
-      "stem": "A client with H. pylori infection is prescribed quadruple therapy. Which combination of medications should the nurse expect?",
+      "stem": "A client with H. pylori infection is prescribed bismuth-based quadruple therapy. Which combination of medications should the nurse expect?",
       "options": [
-        "Omeprazole, amoxicillin, clarithromycin, metronidazole",
+        "Omeprazole, amoxicillin, and clarithromycin",
         "Bismuth subsalicylate, tetracycline, metronidazole, and a PPI",
         "Famotidine, ampicillin, ciprofloxacin, and bismuth",
         "Sucralfate, vancomycin, metronidazole, and a PPI"
       ],
       "answer": 1,
       "rationale": {
-        "correct": "H. pylori quadruple therapy consists of bismuth subsalicylate (coats stomach, antimicrobial effect), tetracycline (antibiotic), metronidazole (antibiotic), and a proton pump inhibitor.",
+        "correct": "Bismuth-based quadruple therapy consists of bismuth subsalicylate (coats the stomach, antimicrobial effect), tetracycline (antibiotic), metronidazole (antibiotic), and a proton pump inhibitor.",
         "incorrect": [
-          "This is a triple therapy regimen, not quadruple therapy.",
-          "This combination is not the standard quadruple therapy regimen.",
+          "This is standard triple therapy (a PPI plus two antibiotics), not quadruple therapy.",
+          "This combination is not a recognized H. pylori regimen; ciprofloxacin and ampicillin are not standard agents here.",
           "Sucralfate and vancomycin are not part of H. pylori treatment protocols."
         ]
       }
@@ -201,20 +201,20 @@
       }
     },
     {
-      "stem": "A client is prescribed famotidine and warfarin. Which nursing action is most appropriate?",
+      "stem": "A client is prescribed cimetidine and warfarin. Which nursing action is most appropriate?",
       "options": [
         "Administer the medications together without concern",
-        "Monitor for increased anticoagulant effects",
-        "Hold the famotidine until warfarin is discontinued",
+        "Monitor for increased anticoagulant effects and signs of bleeding",
+        "Hold the cimetidine until warfarin is discontinued",
         "Administer the medications 4 hours apart"
       ],
       "answer": 1,
       "rationale": {
-        "correct": "H2 blockers like famotidine inhibit hepatic drug metabolism, which can enhance the effects of medications metabolized by the liver including warfarin, phenytoin, and benzodiazepines. Monitor for signs of bleeding.",
+        "correct": "Cimetidine inhibits hepatic cytochrome P450 enzymes, which enhances the effects of medications metabolized by the liver including warfarin, phenytoin, theophylline, and benzodiazepines. The nurse must monitor for increased bleeding risk.",
         "incorrect": [
-          "These medications interact and require monitoring—they should not be given without concern.",
-          "There is no need to hold famotidine, but the interaction must be monitored.",
-          "Timing separation does not prevent this interaction since it involves hepatic metabolism, not absorption."
+          "Cimetidine significantly interacts with warfarin by inhibiting its metabolism—this combination requires careful monitoring.",
+          "There is no need to hold cimetidine, but close monitoring for bleeding is essential. Consider switching to famotidine, which has minimal drug interactions.",
+          "Timing separation does not prevent this interaction since it involves hepatic metabolism, not GI absorption."
         ]
       }
     },
@@ -222,17 +222,17 @@
       "stem": "An older adult client taking cimetidine reports confusion and seems disoriented. The nurse recognizes this as which type of adverse effect?",
       "options": [
         "Allergic reaction",
-        "Anticholinergic effect",
+        "Central nervous system adverse effect",
         "Serotonin syndrome",
         "Drug toxicity from overdose"
       ],
       "answer": 1,
       "rationale": {
-        "correct": "Cimetidine can cause anticholinergic effects including confusion and delirium, especially in older adults. Famotidine has fewer of these side effects and is often preferred in elderly patients.",
+        "correct": "Cimetidine crosses the blood-brain barrier and can cause CNS effects including confusion, delirium, dizziness, and mental status changes, especially in older adults. Famotidine is preferred in elderly patients because it has fewer CNS effects.",
         "incorrect": [
           "Confusion is not typically a sign of allergic reaction, which would present with rash, itching, or anaphylaxis.",
           "Serotonin syndrome presents with hyperthermia, agitation, tremor, and hyperreflexia—not isolated confusion.",
-          "This is a known side effect at therapeutic doses, not necessarily overdose."
+          "This is a known side effect at therapeutic doses in susceptible populations, not necessarily overdose."
         ]
       }
     },
@@ -241,7 +241,7 @@
       "options": [
         "GERD can lead to stomach cancer if untreated",
         "Chronic acid exposure can cause Barrett's esophagus, which increases esophageal cancer risk",
-        "GERD always progresses to peptic ulcer disease",
+        "Reflux symptoms are an early stage of peptic ulcer disease",
         "The acid will eventually erode through the esophageal wall"
       ],
       "answer": 1,
@@ -249,13 +249,13 @@
         "correct": "Chronic GERD can lead to Barrett's esophagus—a precancerous condition where esophageal cells transform to resemble intestinal cells (metaplasia). This significantly increases the risk of esophageal cancer, which has only a 20% five-year survival rate.",
         "incorrect": [
           "GERD affects the esophagus and increases esophageal cancer risk, not stomach cancer.",
-          "GERD and PUD are different conditions with different pathophysiology—GERD does not always progress to PUD.",
+          "GERD and PUD are different conditions with different pathophysiology—reflux is not an early stage of ulcer disease.",
           "Erosion through the esophageal wall is not a typical progression of GERD."
         ]
       }
     },
     {
-      "stem": "A patient with severe burn injuries is receiving esomeprazole. The nurse explains that this medication is prescribed for which purpose?",
+      "stem": "A client with severe burn injuries is receiving esomeprazole. The nurse explains that this medication is prescribed for which purpose?",
       "options": [
         "To stimulate intestinal movement for nutrition",
         "To treat infection caused by the burns",
@@ -287,6 +287,227 @@
           "NSAIDs don't directly increase acid production—they reduce protective factors.",
           "NSAIDs primarily affect the stomach lining, not the esophagus.",
           "NSAIDs do not affect gastric emptying in a clinically significant way related to ulcer formation."
+        ]
+      }
+    },
+    {
+      "stem": "A client with GERD asks the nurse about lifestyle changes to reduce symptoms. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Elevate the head of the bed 6-8 inches",
+        "Avoid eating 2-3 hours before lying down",
+        "Wear loose-fitting clothing around the abdomen",
+        "Lie flat after meals to promote digestion",
+        "Limit caffeine, chocolate, and fatty foods"
+      ],
+      "answer": [0, 1, 2, 4],
+      "type": "sata",
+      "rationale": {
+        "correct": "Elevating the head of the bed uses gravity to prevent reflux; avoiding food before bed prevents acid secretion when lying down; loose clothing reduces abdominal pressure; and limiting caffeine, chocolate, and fatty foods reduces lower esophageal sphincter relaxation and acid production.",
+        "incorrect": [
+          "Correct—gravity helps prevent acid reflux into the esophagus.",
+          "Correct—eating before lying down increases reflux risk.",
+          "Correct—tight clothing increases intra-abdominal pressure, worsening GERD.",
+          "Lying flat after meals worsens GERD by allowing acid to reflux into the esophagus. Clients should remain upright.",
+          "Correct—caffeine, chocolate, and fatty foods relax the lower esophageal sphincter and increase reflux."
+        ]
+      }
+    },
+    {
+      "stem": "A client with peptic ulcer disease vomits material that appears dark brown with a granular texture resembling coffee grounds. The nurse interprets this finding as indicating:",
+      "options": [
+        "Bright red blood from active rapid bleeding",
+        "Digested blood from slower upper GI bleeding",
+        "Bile from intestinal obstruction",
+        "Normal gastric contents after eating chocolate"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Coffee-ground emesis indicates blood that has been in contact with gastric acid long enough to be partially digested, turning it dark brown. This suggests slower upper GI bleeding rather than rapid hemorrhage.",
+        "incorrect": [
+          "Bright red blood indicates fresh, active bleeding—not digested blood with a coffee-ground appearance.",
+          "Bile is typically green or yellow, not dark brown and granular.",
+          "Coffee-ground appearance is a clinical term for digested blood, not related to food consumption."
+        ]
+      }
+    },
+    {
+      "stem": "A client is scheduled for a urea breath test to detect H. pylori infection. The nurse explains that a positive result occurs when:",
+      "options": [
+        "The client experiences abdominal pain after ingesting the test solution",
+        "Labeled carbon dioxide is detected in the exhaled breath",
+        "The urine changes color after the test",
+        "Blood pressure drops after ingesting the radioactive substance"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In the urea breath test, the client ingests carbon-labeled urea (usually non-radioactive carbon-13, or less commonly carbon-14). If H. pylori is present, its urease enzyme breaks down the urea, releasing labeled CO2 that is detected in exhaled breath.",
+        "incorrect": [
+          "Abdominal pain is not part of the test interpretation—the test measures exhaled gases.",
+          "Urine testing is not part of the urea breath test; it measures exhaled carbon dioxide.",
+          "Blood pressure changes are not associated with this diagnostic test."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports waking up at night with burning epigastric pain that is relieved by eating crackers. These symptoms are most consistent with:",
+      "options": [
+        "Gastric ulcer",
+        "Duodenal ulcer",
+        "Acute gastritis",
+        "Gastroesophageal reflux disease"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Nighttime awakening with pain relieved by food is classic for duodenal ulcer. Pain occurs when the stomach is empty (2-3 hours after eating or at night), and food/antacids provide relief by absorbing acid.",
+        "incorrect": [
+          "Gastric ulcer pain is worsened by food, not relieved by it.",
+          "Acute gastritis typically presents with nausea, vomiting, and upset stomach—not pain relieved by eating.",
+          "GERD symptoms are typically worsened by lying down, not specifically relieved by eating."
+        ]
+      }
+    },
+    {
+      "stem": "A client takes both aluminum hydroxide and levothyroxine daily. Which instruction is most important for the nurse to provide?",
+      "options": [
+        "Take both medications together with breakfast",
+        "Separate the medications by at least 4 hours",
+        "Take the antacid only at bedtime",
+        "Discontinue the antacid while taking levothyroxine"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Antacids can bind to and decrease absorption of many oral medications including levothyroxine, tetracyclines, and fluoroquinolones. The levothyroxine label directs separating it from aluminum- and magnesium-containing antacids by at least 4 hours to prevent this interaction.",
+        "incorrect": [
+          "Taking together would decrease levothyroxine absorption, potentially causing hypothyroid symptoms.",
+          "Timing at bedtime alone doesn't address the interaction if levothyroxine is taken at another time without separation.",
+          "Discontinuation is not necessary—proper timing separation resolves the interaction."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing a client with suspected peptic ulcer disease. Which assessment finding would indicate possible perforation requiring immediate intervention?",
+      "options": [
+        "Intermittent epigastric pain that improves with antacids",
+        "Mild tenderness to palpation in the upper abdomen",
+        "Rebound tenderness and involuntary guarding",
+        "Reports of occasional heartburn after meals"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Rebound tenderness (pain when pressure is released) and involuntary guarding (rigid abdomen) are signs of peritoneal irritation from perforation. This is a surgical emergency requiring immediate intervention.",
+        "incorrect": [
+          "Pain relieved by antacids suggests uncomplicated ulcer disease, not perforation.",
+          "Mild tenderness is expected with PUD and does not indicate perforation.",
+          "Occasional heartburn suggests GERD, not perforation."
+        ]
+      }
+    },
+    {
+      "stem": "A client has been taking omeprazole for 4 weeks with good symptom control. The provider recommends transitioning to famotidine for maintenance therapy. The nurse explains this change is recommended because:",
+      "options": [
+        "Famotidine is more effective than omeprazole",
+        "Long-term PPI use is associated with significant complications",
+        "H2 blockers work faster than PPIs",
+        "Famotidine is less expensive than omeprazole"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Prescribed PPI courses for GERD are typically 4-8 weeks. Once symptoms are controlled, guidelines favor stepping down to the lowest effective therapy, such as an H2 blocker, because prolonged uninterrupted PPI use is associated with C. diff infection, fractures/osteoporosis, vitamin B12 and iron deficiency, hypomagnesemia, and pneumonia.",
+        "incorrect": [
+          "PPIs are actually more potent acid suppressors than H2 blockers—they reduce gastric acid output by roughly 95-99%.",
+          "PPIs take several days to work while H2 blockers can be used PRN, but speed isn't the reason for switching.",
+          "Cost considerations may exist but safety concerns are the primary reason for limiting PPI duration."
+        ]
+      }
+    },
+    {
+      "stem": "A client with severe, refractory GERD that has not responded to medical management is scheduled for a Nissen fundoplication. The nurse explains that this procedure involves:",
+      "options": [
+        "Removing the lower portion of the esophagus",
+        "Wrapping the stomach fundus around the lower esophagus to strengthen the sphincter",
+        "Inserting a stent to keep the esophagus open",
+        "Cutting the vagus nerve to reduce acid production"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Nissen fundoplication involves wrapping the upper portion of the stomach (fundus) around the lower esophagus to reinforce the lower esophageal sphincter and prevent acid reflux.",
+        "incorrect": [
+          "Esophageal resection is not part of fundoplication; the procedure reinforces, not removes, structures.",
+          "Stent placement is used for strictures or obstruction, not GERD management.",
+          "Vagotomy (cutting the vagus nerve) was a historical ulcer treatment, not a GERD procedure."
+        ]
+      }
+    },
+    {
+      "stem": "A pregnant client reports worsening heartburn symptoms. The nurse understands that pregnancy contributes to GERD through which mechanism?",
+      "options": [
+        "Increased stomach acid production during pregnancy",
+        "Increased abdominal pressure from the growing uterus",
+        "Decreased saliva production during pregnancy",
+        "Changes in dietary preferences"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The growing uterus increases intra-abdominal pressure, which compresses the stomach and forces gastric contents upward through a weakened lower esophageal sphincter. Pregnancy hormones also relax the LES.",
+        "incorrect": [
+          "Pregnancy does not significantly increase acid production; the mechanism is increased pressure and hormonal LES relaxation.",
+          "Saliva changes are not the primary mechanism of pregnancy-related GERD.",
+          "While diet may change, the primary mechanism is mechanical pressure and hormonal effects on the LES."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic kidney disease asks about taking magnesium hydroxide for occasional heartburn. What is the nurse's best response?",
+      "options": [
+        "This is a safe option for occasional use",
+        "Magnesium-containing antacids should be avoided due to risk of hypermagnesemia",
+        "Take half the recommended dose to be safe",
+        "Magnesium antacids are preferred in kidney disease"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Clients with kidney disease cannot efficiently excrete magnesium, leading to dangerous accumulation (hypermagnesemia) which can cause cardiac arrhythmias, hypotension, and respiratory depression. Magnesium-containing antacids should be avoided.",
+        "incorrect": [
+          "Occasional use is still risky in kidney disease due to impaired magnesium excretion.",
+          "Even reduced doses can accumulate dangerously when kidneys cannot excrete magnesium properly.",
+          "Magnesium antacids are contraindicated, not preferred, in kidney disease."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a history of gastric ulcers is being discharged on sucralfate. Which statement indicates the client needs additional teaching?",
+      "options": [
+        "I will take this medication on an empty stomach",
+        "I should take my antacid at the same time for better protection",
+        "I understand this medication coats my ulcer like a bandage",
+        "I will take this medication before meals"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Sucralfate requires an acidic environment to activate and form its protective paste. Taking antacids simultaneously raises gastric pH and prevents sucralfate from working properly. They should be separated by at least 30 minutes.",
+        "incorrect": [
+          "Correct understanding—sucralfate should be taken on an empty stomach.",
+          "Incorrect—this indicates need for teaching; antacids interfere with sucralfate activation.",
+          "Correct understanding—sucralfate works by physically coating and protecting the ulcer.",
+          "Correct understanding—taking before meals on an empty stomach is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "Which client is at highest risk for developing peptic ulcer disease?",
+      "options": [
+        "A 25-year-old who drinks one glass of wine weekly",
+        "A 60-year-old taking daily ibuprofen for arthritis",
+        "A 35-year-old who eats spicy food frequently",
+        "A 45-year-old who drinks two cups of coffee daily"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Long-term NSAID use (including ibuprofen) is a leading cause of peptic ulcer disease. NSAIDs block COX-1, reducing protective prostaglandins in the gastric mucosa. Older adults are especially susceptible to NSAID-induced ulcers.",
+        "incorrect": [
+          "Occasional alcohol use is not a major risk factor for PUD.",
+          "Spicy food may worsen symptoms but does not cause ulcers.",
+          "Moderate caffeine intake is not a significant PUD risk factor."
         ]
       }
     }
