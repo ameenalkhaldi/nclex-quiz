@@ -12,11 +12,11 @@
       ],
       "answer": 1,
       "rationale": {
-        "correct": "Gingival hyperplasia is a common side effect of phenytoin that requires monitoring and dental care. The client should report this finding.",
+        "correct": "Gingival hyperplasia is a common side effect of phenytoin that requires monitoring and dental care. The client should report this finding and see a dentist regularly.",
         "incorrect": [
-          "Anticonvulsants should never be stopped abruptly—this can trigger status epilepticus.",
-          "Antacids decrease phenytoin absorption and should be separated from the dose.",
-          "CNS effects may persist and require dosage adjustment, not just time."
+          "Antiepileptic drugs should never be stopped abruptly—this can trigger seizures or status epilepticus. They are always tapered with provider guidance.",
+          "Antacids decrease phenytoin absorption and should be separated from the dose. Oral phenytoin is taken with a meal to reduce GI discomfort.",
+          "CNS effects may persist and require dosage adjustment; drowsiness is not guaranteed to resolve within a week."
         ]
       }
     },
@@ -30,11 +30,11 @@
       ],
       "answer": 2,
       "rationale": {
-        "correct": "Side-lying position maintains the airway and allows secretions to drain. Protecting the head from injury is the priority during an active seizure.",
+        "correct": "Side-lying position maintains the airway and allows secretions to drain. Protecting the head from injury and timing the seizure are priorities during active seizure activity.",
         "incorrect": [
           "Never insert anything into the mouth during a seizure—risk of injury to client and nurse.",
-          "Restraining extremities can cause musculoskeletal injury.",
-          "The client is not in respiratory arrest; positioning maintains the airway adequately."
+          "Restraining extremities can cause musculoskeletal injury. The nurse guides movements but does not restrain.",
+          "The client is not in respiratory arrest during the ictal phase; positioning to maintain the airway is the appropriate action."
         ]
       }
     },
@@ -48,11 +48,856 @@
       ],
       "answer": 0,
       "rationale": {
-        "correct": "Triptans are first-line abortive therapy for migraines. They work best when given early in the attack.",
+        "correct": "Triptans are first-line abortive therapy for moderate to severe migraines. They work best when given early, at the first sign of an attack.",
         "incorrect": [
-          "Cold, not warm, compresses may help—heat can worsen vasodilation and pain.",
-          "A dark, quiet environment is preferred; activity can worsen symptoms.",
+          "Cold therapy, not warmth, is used for migraine; warmth can worsen vasodilation and pain.",
+          "A dark, quiet environment with rest is preferred; activity and sensory stimulation worsen symptoms.",
           "There is no indication for a high-protein snack in acute migraine management."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports frequent headaches. The nurse recognizes that only about 10% of headaches have an underlying medical cause and that the remaining benign headaches are classified as which three types?",
+      "options": [
+        "Tension, migraine, and cluster",
+        "Sinus, tumor, and hypertensive",
+        "Subarachnoid, meningitis, and cluster",
+        "Vascular, ischemic, and traumatic"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "About 90% of headaches are benign and are classified as tension, migraine, or cluster. Only about 10% stem from an underlying medical disorder.",
+        "incorrect": [
+          "Sinus headaches are not a focus here, and tumor and hypertensive headaches fall in the 10% with an underlying medical cause.",
+          "Subarachnoid hemorrhage and meningitis are serious underlying medical causes, not benign headache classifications.",
+          "Vascular and muscle-contraction describe headache quality, but ischemic and traumatic causes are underlying medical disorders, not benign types."
+        ]
+      }
+    },
+    {
+      "stem": "A client suddenly develops a severe headache described as 'the worst headache of my life' that peaked within seconds. Which action by the nurse is the priority?",
+      "options": [
+        "Provide a dark, quiet room and reassess in an hour",
+        "Notify the provider immediately and prepare for emergent evaluation",
+        "Administer an oral triptan as prescribed for migraine",
+        "Apply a cool compress and offer acetaminophen"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A sudden, severe 'thunderclap' headache is a red flag for subarachnoid hemorrhage, a neurologic emergency. The nurse must notify the provider and prepare for immediate evaluation such as CT imaging.",
+        "incorrect": [
+          "Delaying assessment of a possible hemorrhage risks the client's life; this is not a benign headache to observe.",
+          "Triptans cause vasoconstriction and are for benign migraine, not an undiagnosed thunderclap headache that may be a bleed.",
+          "Comfort measures do not address a potential intracranial hemorrhage and would dangerously delay care."
+        ]
+      }
+    },
+    {
+      "stem": "A client describes recurrent, severe stabbing pain located behind one eye, accompanied by restlessness and an inability to sit still during attacks. These findings are most characteristic of which headache type?",
+      "options": [
+        "Tension headache",
+        "Cluster headache",
+        "Migraine without aura",
+        "Sinus headache"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Cluster headaches produce severe, pinpoint pain in one area—classically behind the eye or by the temple—and are associated with restlessness and agitation during attacks.",
+        "incorrect": [
+          "Tension headaches produce a diffuse, band-like ache across the top of the head down to the forehead, not sharp pain behind one eye.",
+          "Migraine pain is typically a pulsating pain over half of the face and is worsened by movement, so clients prefer to lie still in a dark room.",
+          "Sinus headache is not a focus of this lecture and is associated with facial pressure that worsens when bending over."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports a headache that feels like a tight band across the top of the head extending down to the forehead, with mild light sensitivity. Which headache type does the nurse suspect?",
+      "options": [
+        "Cluster headache",
+        "Migraine with aura",
+        "Tension headache",
+        "Subarachnoid hemorrhage"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Tension headaches present as a generalized, band-like tightness across the top of the head and forehead, sometimes with light sensitivity. They are the muscle-contraction type of benign headache.",
+        "incorrect": [
+          "Cluster headaches are pinpoint pain in one area (behind the eye or temple) with restlessness, not a diffuse band.",
+          "Migraine pain is unilateral and pulsating over half the face, often with aura and severe photophobia.",
+          "A subarachnoid hemorrhage causes a sudden thunderclap headache, not a chronic band-like tension pattern."
+        ]
+      }
+    },
+    {
+      "stem": "A nursing student asks how migraine pain is generated. Which mediator has been firmly established as a key contributor that is elevated during acute attacks and normalizes with triptan therapy?",
+      "options": [
+        "Gamma-aminobutyric acid (GABA)",
+        "Calcitonin gene-related peptide (CGRP)",
+        "Acetylcholine",
+        "Dopamine"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CGRP is a key mediator of migraine: it is elevated during acute attacks, normalizes with triptan therapy, and IV infusion reliably triggers migraine in susceptible individuals. It acts within the trigeminovascular system.",
+        "incorrect": [
+          "GABA is an inhibitory neurotransmitter central to sedation and seizure control, not the established mediator of migraine pain.",
+          "Acetylcholine is not the established key mediator of migraine attacks.",
+          "Dopamine is not the firmly established mediator elevated during migraine attacks."
+        ]
+      }
+    },
+    {
+      "stem": "A client experiences a migraine aura before the headache phase. Which physiologic process is accepted as the basis of migraine aura?",
+      "options": [
+        "Cortical spreading depression",
+        "Sudden cerebral vasospasm from hypertension",
+        "Increased intracranial pressure",
+        "Depletion of cerebrospinal fluid"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Cortical spreading depression—a propagating wave of neuronal and glial depolarization across the cerebral cortex—is accepted as the physiologic basis of aura and can activate trigeminovascular pain pathways.",
+        "incorrect": [
+          "Aura is not caused by hypertensive vasospasm; it results from a wave of cortical depolarization.",
+          "Increased intracranial pressure is a red-flag finding for serious underlying causes, not the mechanism of benign migraine aura.",
+          "Aura is not caused by loss of cerebrospinal fluid volume."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about migraine triggers. Which factors should the nurse identify as common triggers? Select all that apply.",
+      "options": [
+        "Stress",
+        "Red wine and foods with aspartame or MSG",
+        "Hormonal changes and sleep disturbances",
+        "Adequate hydration and regular meals",
+        "Flashing lights and strong odors"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "rationale": {
+        "correct": "Recognized migraine triggers include stress, alcohol (especially red wine), food additives such as aspartame and MSG, hormonal changes, sleep disturbances, and sensory stimuli like flashing lights and strong odors.",
+        "incorrect": [
+          "Correct—stress is a common migraine trigger.",
+          "Correct—red wine and food additives such as aspartame and monosodium glutamate are common triggers.",
+          "Correct—hormonal changes in female clients and sleep disturbances are recognized triggers.",
+          "Adequate fluid intake and avoiding fasting are protective; dehydration and fasting are triggers, not hydration and regular meals.",
+          "Correct—flashing lights and strong odors are sensory triggers."
+        ]
+      },
+      "type": "sata"
+    },
+    {
+      "stem": "A client is having an acute migraine. Which nonpharmacologic intervention should the nurse implement first?",
+      "options": [
+        "Encourage bright lighting to keep the client alert",
+        "Place the client in a quiet, dark room with minimal sensory stimulation",
+        "Apply a heating pad to the forehead",
+        "Encourage vigorous activity to distract from the pain"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Migraine management always starts with nonpharmacologic measures. Resting in a quiet, dark room without lights, sounds, or odors reduces sensory stimulation that worsens the attack.",
+        "incorrect": [
+          "Bright light worsens photophobia and migraine pain; the room should be darkened.",
+          "Cold therapy—not heat—is used for migraine; heat can worsen vasodilation and pain.",
+          "Activity worsens migraine symptoms; rest is preferred."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports mild, infrequent migraines. Which pharmacologic therapy should the nurse anticipate as an appropriate first-line option?",
+      "options": [
+        "A combination of an NSAID, acetaminophen, and caffeine",
+        "An ergot alkaloid such as ergotamine",
+        "A daily preventive beta-blocker",
+        "Intravenous sumatriptan"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "For mild migraine, nonpharmacologic measures or a combination of NSAID, acetaminophen, and caffeine is appropriate. Triptans are reserved for moderate to severe attacks.",
+        "incorrect": [
+          "Ergot alkaloids are reserved for acute migraine when triptans are ineffective or unavailable, not first-line for mild pain.",
+          "Preventive (prophylactic) therapy is for frequent or disabling migraines, not occasional mild attacks treated abortively.",
+          "Triptans are for moderate to severe acute migraine, not mild attacks, and are not the first step."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about how sumatriptan relieves migraine. Which mechanism of action should the nurse describe?",
+      "options": [
+        "It neutralizes inflammatory acids in the brain",
+        "It is a selective serotonin (5-HT1B/1D) receptor agonist that causes cranial vasoconstriction",
+        "It blocks dopamine receptors to reduce nausea",
+        "It enhances GABA to depress the central nervous system"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Triptans such as sumatriptan are selective serotonin (5-HT1B/1D) receptor agonists that cause cranial vasoconstriction and inhibit release of inflammatory neuropeptides involved in migraine pain.",
+        "incorrect": [
+          "Triptans do not work by neutralizing acids; they are serotonin receptor agonists causing vasoconstriction.",
+          "Triptans are serotonin agonists, not dopamine blockers.",
+          "Enhancing GABA describes sedative-hypnotics and benzodiazepines, not triptans."
+        ]
+      }
+    },
+    {
+      "stem": "A provider orders sumatriptan for a client with an acute migraine. Which finding in the client's history should prompt the nurse to hold the drug and notify the provider?",
+      "options": [
+        "A history of seasonal allergies",
+        "A recent myocardial infarction and reports of chest pressure",
+        "A history of gastroesophageal reflux disease",
+        "Occasional use of acetaminophen"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Triptans cause vasoconstriction and are contraindicated in coronary artery disease—the biggest risk factor is coronary heart disease. A client with a prior MI or chest pressure/tightness should not receive a triptan, so the nurse notifies the provider.",
+        "incorrect": [
+          "Seasonal allergies are not a contraindication to triptan therapy.",
+          "GERD is not a contraindication to triptans; the concern is cardiovascular disease.",
+          "Acetaminophen use is not a contraindication to triptan therapy."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking an SSRI for depression is prescribed sumatriptan for migraines. The nurse monitors for which potentially serious interaction?",
+      "options": [
+        "Serotonin syndrome",
+        "Hypoglycemia",
+        "Digoxin toxicity",
+        "Gingival hyperplasia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Triptans increase serotonergic activity, so combining them with SSRIs or SNRIs raises the risk of serotonin syndrome (agitation, hyperthermia, tremor, hyperreflexia). The nurse monitors for these findings.",
+        "incorrect": [
+          "Triptans do not lower blood glucose; hypoglycemia is not the concern.",
+          "Triptans do not cause digoxin toxicity.",
+          "Gingival hyperplasia is associated with phenytoin, not triptans."
+        ]
+      }
+    },
+    {
+      "stem": "A client is being discharged with sumatriptan. Which statement indicates the client understands the teaching?",
+      "options": [
+        "I will take this every morning to prevent migraines",
+        "I will take it at the very first sign of a migraine and report any chest pain",
+        "I can take extra doses as often as I need for a bad headache",
+        "I should take it with my ergotamine for stronger relief"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Triptans work best when taken at the first sign of a migraine. They are not preventive, and the client must report chest pain, shortness of breath, or neurologic changes immediately and not exceed the prescribed dosing frequency.",
+        "incorrect": [
+          "Triptans do not prevent migraines and are not taken daily; they are abortive therapy for an active attack.",
+          "Overuse causes medication-overuse (rebound) headache and cardiovascular risk; dosing frequency must not be exceeded.",
+          "Triptans must never be combined with ergot alkaloids—doing so increases the risk of dangerous vasoconstriction and cardiac events."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed ergotamine for acute migraine. Which instruction is most important for the nurse to include?",
+      "options": [
+        "Take it every day to prevent migraine attacks",
+        "Report numbness, tingling, cold extremities, or chest pain immediately",
+        "Combine it with your triptan for faster relief",
+        "It is safe to use during pregnancy"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Ergot alkaloids produce prolonged, nonselective vasoconstriction and carry a risk of peripheral, cardiac, and cerebral ischemia. Clients must report numbness, tingling, cold extremities, or chest pain immediately.",
+        "incorrect": [
+          "Ergotamine is for acute attacks, not daily preventive therapy.",
+          "Ergot alkaloids must not be combined with triptans—both cause vasoconstriction and together increase ischemic risk.",
+          "Ergotamine is contraindicated in pregnancy, as well as in cardiovascular disease and uncontrolled hypertension."
+        ]
+      }
+    },
+    {
+      "stem": "A client with frequent migraines uses over-the-counter combination analgesics containing caffeine almost every day. The nurse should teach the client that frequent use can lead to which problem?",
+      "options": [
+        "Medication-overuse (rebound) headaches",
+        "Permanent vision loss",
+        "Chronic constipation",
+        "Elevated blood glucose"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Frequent or daily use of analgesics and caffeine-containing products can cause medication-overuse (rebound) headaches and sleep disruption. These products should be taken early in a migraine but not used frequently.",
+        "incorrect": [
+          "Frequent analgesic-caffeine use is not associated with permanent vision loss.",
+          "Constipation is not the characteristic complication of overusing caffeine-containing analgesics.",
+          "Caffeine-analgesic overuse is not associated with hyperglycemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client uses acetaminophen frequently for headaches and also drinks alcohol regularly. The nurse should monitor this client for which adverse effect?",
+      "options": [
+        "Hepatotoxicity",
+        "Nephrolithiasis",
+        "Gingival hyperplasia",
+        "Hyperkalemia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Acetaminophen can cause hepatotoxicity, especially with high doses or alcohol use. The nurse teaches the client not to exceed daily dose limits and to limit alcohol.",
+        "incorrect": [
+          "Kidney stones are not the characteristic toxicity of acetaminophen.",
+          "Gingival hyperplasia is associated with phenytoin, not acetaminophen.",
+          "Hyperkalemia is not a recognized effect of acetaminophen."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports being unable to fall asleep and stay asleep for the past several weeks. When planning care, the nurse understands that the first-line treatment for insomnia is:",
+      "options": [
+        "A benzodiazepine at bedtime",
+        "Nonpharmacologic sleep hygiene measures",
+        "Zolpidem nightly",
+        "Diphenhydramine every night"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Nonpharmacologic management is always the first-line treatment for insomnia. Sleep hygiene, cognitive behavioral therapy, and lifestyle changes are tried before medications.",
+        "incorrect": [
+          "Benzodiazepines are used short term and are not the first-line treatment.",
+          "Zolpidem is a controlled substance reserved for short-term use, not first-line therapy.",
+          "Diphenhydramine may be used short term but is not the first-line approach, and nightly use is discouraged, especially in older adults."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with insomnia about sleep hygiene. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Avoid daytime naps",
+        "Avoid caffeine within 6 hours of bedtime",
+        "Avoid heavy meals and exercise close to bedtime",
+        "Take a warm bath and read before bed",
+        "Drink several cups of coffee in the evening to relax"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rationale": {
+        "correct": "Nonpharmacologic sleep measures include no daytime naps, avoiding caffeine within 6 hours of bedtime, avoiding heavy meals and exercise before bed, and warm, calming activities such as a warm bath, reading, or music.",
+        "incorrect": [
+          "Correct—daytime naps interfere with nighttime sleep and should be avoided.",
+          "Correct—caffeine is a stimulant and should be avoided within 6 hours of bedtime.",
+          "Correct—heavy meals and exercise increase energy and arousal near bedtime.",
+          "Correct—warm baths, reading, and music promote relaxation and sleep.",
+          "Evening coffee is a stimulant that worsens insomnia; caffeine should be avoided before bed."
+        ]
+      },
+      "type": "sata"
+    },
+    {
+      "stem": "A nurse is describing how benzodiazepines promote sleep and reduce anxiety. Which explanation is accurate?",
+      "options": [
+        "They block the neurotransmitter GABA to stimulate the brain",
+        "They enhance the inhibitory neurotransmitter GABA, opening chloride channels and calming the cell",
+        "They increase glutamate to excite neurons",
+        "They neutralize acid in the central nervous system"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "GABA is an inhibitory neurotransmitter. Benzodiazepines bind the same receptors and enhance GABA's effect, opening chloride channels and hyperpolarizing the cell membrane, which prevents further excitation and produces a calming effect.",
+        "incorrect": [
+          "Benzodiazepines enhance GABA rather than block it; blocking GABA would increase excitability.",
+          "Benzodiazepines reduce excitability; they do not increase excitatory glutamate.",
+          "Benzodiazepines act on GABA receptors, not by neutralizing acid."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed temazepam for insomnia. Which statement by the nurse reflects appropriate use of this medication?",
+      "options": [
+        "This medication is intended for short-term use, about 7 to 10 days",
+        "You can take this every night indefinitely to keep sleeping well",
+        "You should combine it with your prescribed opioid for better sleep",
+        "There is no antidote if you take too much"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Benzodiazepines such as temazepam are used only for short-term treatment of insomnia (about 7 to 10 days) because of the risk of tolerance, dependence, and withdrawal.",
+        "incorrect": [
+          "Long-term nightly benzodiazepine use is avoided due to tolerance, dependence, and withdrawal risk.",
+          "Combining benzodiazepines with opioids carries an FDA warning for profound sedation, respiratory depression, coma, and death.",
+          "Flumazenil is the antidote for benzodiazepine overdose, so this statement is incorrect."
+        ]
+      }
+    },
+    {
+      "stem": "A client who takes a benzodiazepine is brought to the emergency department with profound sedation and respiratory depression after an overdose. The nurse anticipates administration of which antidote?",
+      "options": [
+        "Naloxone",
+        "Flumazenil",
+        "Acetylcysteine",
+        "Protamine sulfate"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Flumazenil is the antidote for benzodiazepine overdose; it reverses the sedative effects at the GABA receptor.",
+        "incorrect": [
+          "Naloxone reverses opioid overdose, not benzodiazepine toxicity.",
+          "Acetylcysteine is the antidote for acetaminophen toxicity.",
+          "Protamine sulfate reverses heparin, not benzodiazepines."
+        ]
+      }
+    },
+    {
+      "stem": "A client is taking a benzodiazepine and is also prescribed an opioid analgesic. Which assessment is the priority because of the FDA warning for this combination?",
+      "options": [
+        "Monitoring respiratory rate and level of sedation",
+        "Monitoring for gingival hyperplasia",
+        "Monitoring blood glucose levels",
+        "Monitoring for photosensitivity"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Concomitant use of benzodiazepines and opioids can cause profound sedation, respiratory depression, coma, and death. The nurse must monitor respiratory rate and sedation and follow the client closely.",
+        "incorrect": [
+          "Gingival hyperplasia relates to phenytoin, not the benzodiazepine-opioid combination.",
+          "Blood glucose is not the primary safety concern with this combination.",
+          "Photosensitivity is not the priority concern; respiratory depression is the life-threatening risk."
+        ]
+      }
+    },
+    {
+      "stem": "An older adult client is prescribed a benzodiazepine for sleep. The nurse recognizes that this population is at increased risk for which adverse effects?",
+      "options": [
+        "Cognitive impairment, delirium, falls, and fractures",
+        "Hypertension and tachycardia",
+        "Hyperglycemia and weight gain",
+        "Bradycardia and constipation only"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Benzodiazepines increase the risk for cognitive impairment, delirium, falls, fractures, and motor vehicle accidents in older adults, so they are used with great caution in this population.",
+        "incorrect": [
+          "Benzodiazepines are CNS depressants and do not characteristically cause hypertension and tachycardia.",
+          "Hyperglycemia and weight gain are not the hallmark risks of benzodiazepines in older adults.",
+          "The primary geriatric risks are CNS-related falls and confusion, not isolated bradycardia and constipation."
+        ]
+      }
+    },
+    {
+      "stem": "A client prescribed zolpidem asks the nurse about safety concerns. Which effect is most important for the nurse to teach the client and family to report?",
+      "options": [
+        "Complex sleep behaviors such as sleep-driving and hallucinations",
+        "A harmless reddish-brown discoloration of the urine",
+        "Mild constipation that resolves on its own",
+        "Increased appetite and weight gain"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Zolpidem carries an FDA warning for abnormal thinking and complex sleep behaviors such as sleep-driving, as well as hallucinations and behavioral changes. These should be reported and the drug may need to be discontinued.",
+        "incorrect": [
+          "Reddish-brown urine discoloration is associated with phenytoin, not zolpidem.",
+          "Constipation is not the priority safety concern with zolpidem; complex sleep behaviors are.",
+          "Increased appetite and weight gain are not the characteristic FDA-warning effects of zolpidem."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about how to take zolpidem. Which instruction is correct?",
+      "options": [
+        "Take it right before bed and not with or immediately after a meal",
+        "Take it with a large meal to prevent stomach upset",
+        "Take it as needed during the day for drowsiness",
+        "Take it several hours before you plan to be active"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Zolpidem should be taken immediately before bed and not with or right after a meal, because food delays its onset. It has a short half-life and is intended to be taken when the client can devote a full night to sleep.",
+        "incorrect": [
+          "Taking zolpidem with a meal delays absorption and onset; it should not be taken with or immediately after food.",
+          "Zolpidem is a sleep aid taken at bedtime, not a daytime medication, and daytime use risks impaired alertness.",
+          "Zolpidem is taken right before sleep, not hours before planned activity, because of sedation and next-day impairment."
+        ]
+      }
+    },
+    {
+      "stem": "A client who wants a sleep aid that is not a controlled substance asks the nurse about ramelteon. Which statement by the nurse is accurate?",
+      "options": [
+        "Ramelteon is a benzodiazepine that carries a high risk of dependence",
+        "Ramelteon is a melatonin receptor agonist and was the first FDA-approved sedative not classified as a controlled substance",
+        "Ramelteon works by enhancing GABA like zolpidem",
+        "Ramelteon should only be used for status epilepticus"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Ramelteon is a melatonin receptor agonist (MT1 and MT2) that regulates circadian rhythm to treat insomnia. It was the first FDA-approved sedative not classified as a controlled substance and has not been shown to decrease REM sleep.",
+        "incorrect": [
+          "Ramelteon is a melatonin agonist, not a benzodiazepine, and is not a controlled substance.",
+          "Ramelteon selectively targets melatonin receptors rather than enhancing GABA the way zolpidem does.",
+          "Ramelteon treats insomnia; it is not used for status epilepticus."
+        ]
+      }
+    },
+    {
+      "stem": "An older adult client is worried because they wake frequently at night, sleep less at night, and take more daytime naps than when younger. What is the nurse's best response?",
+      "options": [
+        "These changes are expected with aging and are not usually a cause for concern",
+        "These changes always indicate an underlying neurologic disease",
+        "You should begin taking a nightly benzodiazepine right away",
+        "You should nap even more during the day to make up for lost sleep"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Sleep patterns in older adults are normally marked by frequent awakenings, diminished deep (stage 3 and 4) sleep, more time awake at night, and more daytime naps. The nurse reassures the client that this is an expected part of aging.",
+        "incorrect": [
+          "These changes are a normal part of aging and do not automatically indicate neurologic disease.",
+          "Nonpharmacologic measures are first-line; a nightly benzodiazepine is not started routinely, especially in older adults.",
+          "More daytime napping worsens nighttime insomnia; napping should be limited."
+        ]
+      }
+    },
+    {
+      "stem": "A nursing student asks the nurse to define a seizure. Which description is most accurate?",
+      "options": [
+        "A permanent loss of neurons in a specific brain region",
+        "A transient, uncontrolled electrical discharge of neurons in the brain",
+        "A gradual decline in cognition over many years",
+        "A blockage of blood flow to part of the brain"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A seizure is a transient, uncontrolled electrical discharge (misfiring) of neurons in the brain. It may accompany other disorders or occur spontaneously.",
+        "incorrect": [
+          "A seizure is an abnormal electrical event, not a permanent loss of neurons.",
+          "Gradual cognitive decline describes a neurodegenerative process, not a seizure.",
+          "Blockage of blood flow describes ischemic stroke, not a seizure."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks the nurse what it means to have epilepsy. Which response by the nurse is most accurate?",
+      "options": [
+        "It means you have had a single seizure caused by a high fever",
+        "It means you have had two or more unprovoked seizures, or one with a high risk of more",
+        "It means all of your seizures are caused by a known metabolic problem",
+        "It means you will have seizures only during sleep"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Epilepsy (seizure disorder) is defined as having at least two unprovoked seizures, or one seizure with a high risk of recurrence, that are not caused by a known medical condition.",
+        "incorrect": [
+          "A single seizure from a high fever is a provoked seizure and does not by itself constitute epilepsy.",
+          "Seizures resulting from metabolic disturbances are provoked and are not considered epilepsy.",
+          "Epilepsy is not limited to seizures during sleep."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with continuous seizure activity that has not stopped for more than 5 minutes. The nurse recognizes this as which condition?",
+      "options": [
+        "Status epilepticus",
+        "An absence seizure",
+        "A postictal state",
+        "A febrile seizure"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Status epilepticus is a neurologic emergency defined as continuous seizure activity lasting 5 minutes or more, or recurrent seizures without return to baseline. It is the most dangerous seizure presentation and can lead to neuronal injury, hypoxia, and acidosis.",
+        "incorrect": [
+          "An absence seizure is a brief lapse of awareness, not continuous prolonged seizure activity.",
+          "The postictal state is the recovery period after a seizure, not ongoing seizure activity.",
+          "A febrile seizure is a brief childhood seizure with fever, not sustained status epilepticus."
+        ]
+      }
+    },
+    {
+      "stem": "A client is in status epilepticus. Which medication should the nurse anticipate administering first?",
+      "options": [
+        "Oral phenytoin",
+        "An intravenous benzodiazepine such as lorazepam",
+        "Oral gabapentin",
+        "Intramuscular carbamazepine"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "The first-line treatment for an actively seizing client is an IV benzodiazepine (lorazepam or midazolam), given IV because it works immediately to slow neuronal excitability. A longer-acting antiseizure medication follows for continued suppression.",
+        "incorrect": [
+          "Oral phenytoin cannot be given to an actively seizing client and does not stop an active seizure; a long-acting AED follows the benzodiazepine and is given IV.",
+          "Gabapentin is an adjunct for focal seizures and is not effective for acute seizure termination.",
+          "Carbamazepine is an oral maintenance drug, not a first-line agent for stopping an active seizure."
+        ]
+      }
+    },
+    {
+      "stem": "After a benzodiazepine is given for status epilepticus, a long-acting antiseizure medication is needed. The nurse understands that levetiracetam IV is often chosen over phenytoin IV for which reason?",
+      "options": [
+        "It has more drug interactions and requires serum level monitoring",
+        "It has fewer side effects and is safer and easier to administer intravenously",
+        "It is the only drug that can stop an active seizure",
+        "It must be mixed with dextrose and given rapidly"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Levetiracetam is a newer AED with milder, less common adverse effects and is much safer and easier to give IV than phenytoin, which is caustic to veins and can cause cardiac effects.",
+        "incorrect": [
+          "Levetiracetam has fewer drug interactions and does not require therapeutic serum level monitoring, unlike phenytoin.",
+          "Neither long-acting AED stops an active seizure; a benzodiazepine is given first for that purpose.",
+          "Phenytoin is compatible with saline only, not dextrose, and is given slowly; the ease of levetiracetam is the reason it is preferred."
+        ]
+      }
+    },
+    {
+      "stem": "A client has just stopped seizing and is now confused, drowsy, and disoriented. The nurse recognizes this as the postictal phase and should take which actions? Select all that apply.",
+      "options": [
+        "Reorient the client",
+        "Assess neurologic status",
+        "Check the client's blood sugar",
+        "Restrain the client to prevent movement",
+        "Insert a tongue blade into the mouth"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "rationale": {
+        "correct": "The postictal phase is a brain recovery period. Appropriate nursing actions include reorienting the client, assessing neurologic status, and checking blood glucose.",
+        "incorrect": [
+          "Correct—the client is often confused postictally and needs reorientation.",
+          "Correct—assessing neurologic status monitors recovery after the seizure.",
+          "Correct—checking blood sugar is part of postictal assessment.",
+          "Restraining the client is never appropriate; it can cause injury and is not part of postictal care.",
+          "Nothing should be inserted into the mouth; this risks injury and is not done during or after a seizure."
+        ]
+      },
+      "type": "sata"
+    },
+    {
+      "stem": "A nurse is distinguishing provoked from unprovoked seizures. Which cause is an example of a provoked (secondary) seizure?",
+      "options": [
+        "Idiopathic epilepsy with no identifiable cause",
+        "Acute alcohol withdrawal",
+        "A genetic seizure disorder",
+        "Two unprovoked seizures years apart"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Provoked (secondary) seizures have a specific identifiable cause. Acute alcohol withdrawal is a classic provoking cause, along with brain tumors, metabolic and electrolyte disturbances, high fever, stroke, and head injury.",
+        "incorrect": [
+          "Idiopathic epilepsy has no identifiable cause and reflects unprovoked seizures.",
+          "A genetic seizure disorder reflects primary, unprovoked epilepsy rather than an acute provoking cause.",
+          "Two unprovoked seizures define primary epilepsy, not a provoked seizure."
+        ]
+      }
+    },
+    {
+      "stem": "A client whose EEG was normal is upset, stating, 'The test was normal, so I can't have epilepsy.' What is the nurse's best response?",
+      "options": [
+        "You are correct; a normal EEG rules out epilepsy",
+        "A normal EEG does not exclude epilepsy; it mainly captures abnormal activity when a seizure is occurring",
+        "The EEG is the only test needed to completely rule out seizures",
+        "A normal EEG means your seizures were imagined"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "A normal EEG does NOT exclude epilepsy. The EEG records electrical activity and is best at capturing abnormal patterns during active seizure activity; a clear EEG does not mean the client cannot have seizures.",
+        "incorrect": [
+          "A normal EEG does not rule out epilepsy, so this response is inaccurate.",
+          "The EEG supports diagnosis and classification but cannot alone rule seizures in or out.",
+          "A normal EEG does not mean the seizures were imagined; the test simply may not capture activity between seizures."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is providing education to a client starting an antiepileptic drug. Which points should the nurse include? Select all that apply.",
+      "options": [
+        "Most AEDs can cause drowsiness",
+        "There is an increased risk of suicidal thoughts—report mood changes",
+        "Do not stop the medication abruptly; it must be tapered with provider guidance",
+        "It is safe to drink alcohol while taking this medication",
+        "Missing doses increases the risk of seizures"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "rationale": {
+        "correct": "AED teaching includes that most AEDs cause drowsiness, all carry an FDA warning for increased suicidal thoughts, they must be withdrawn slowly with provider guidance, and missed doses increase seizure risk.",
+        "incorrect": [
+          "Correct—drowsiness is a common CNS effect of AEDs.",
+          "Correct—all AEDs carry an FDA warning for increased risk of suicidal thoughts, so mood changes should be reported.",
+          "Correct—abrupt withdrawal can precipitate seizures, so AEDs are tapered.",
+          "Alcohol causes further CNS depression and should be avoided while taking AEDs.",
+          "Correct—missed doses increase the risk of seizures because the body becomes dependent on steady drug levels."
+        ]
+      },
+      "type": "sata"
+    },
+    {
+      "stem": "A client taking phenytoin is being monitored for toxicity. Which finding is an early sign of phenytoin toxicity the nurse should watch for?",
+      "options": [
+        "Ataxia and unsteady gait",
+        "Improved coordination",
+        "Bright red urine",
+        "Weight gain"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Ataxia—gait instability and difficulty with coordinated movement—is one of the first signs of phenytoin toxicity. The therapeutic range is narrow (10-20 mcg/mL), so serum levels are monitored.",
+        "incorrect": [
+          "Improved coordination is not a sign of toxicity; toxicity causes ataxia and incoordination.",
+          "Phenytoin can cause a harmless reddish-brown urine discoloration, but that is not a sign of toxicity; ataxia is the early toxic sign.",
+          "Weight gain is not the early indicator of phenytoin toxicity."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is preparing to administer intravenous phenytoin. Which action is correct?",
+      "options": [
+        "Mix the phenytoin in dextrose 5% in water",
+        "Administer it slowly, using saline only, with an IV filter and a large vein or central line",
+        "Push the dose rapidly to achieve a fast effect",
+        "Use a small peripheral vein to limit fluid volume"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "IV phenytoin is compatible with saline only, must be given slowly to reduce the risk of hypotension and dysrhythmias, requires an IV filter, and should be given through a patent large vein or central line because it is caustic and infiltration causes severe tissue damage.",
+        "incorrect": [
+          "Phenytoin is compatible with saline only; dextrose solutions cause precipitation.",
+          "Rapid IV administration increases the risk of hypotension and dysrhythmias; it must be given slowly.",
+          "A small peripheral vein increases the risk of phlebitis, infiltration, and purple glove syndrome; a large vein or central line is used."
+        ]
+      }
+    },
+    {
+      "stem": "A provider orders IV phenytoin, but the nurse notes fosphenytoin is available. Why is fosphenytoin often preferred for IV administration?",
+      "options": [
+        "It is less caustic to veins and has fewer cardiac side effects",
+        "It does not require any dilution or monitoring",
+        "It works only when given orally",
+        "It is the antidote for phenytoin toxicity"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Fosphenytoin is a prodrug of phenytoin and is the preferred form for IV administration because it is less caustic to veins and causes fewer cardiac side effects.",
+        "incorrect": [
+          "Fosphenytoin still requires appropriate administration and monitoring; the advantage is reduced vein irritation and cardiac effects.",
+          "Fosphenytoin is used for IV (and IM) administration, not only orally.",
+          "Fosphenytoin is a prodrug of phenytoin, not an antidote for phenytoin toxicity."
+        ]
+      }
+    },
+    {
+      "stem": "A client is started on carbamazepine for a seizure disorder. Which laboratory value is most important for the nurse to monitor?",
+      "options": [
+        "Complete blood count (CBC)",
+        "Serum lipase",
+        "Fasting blood glucose",
+        "Serum calcium"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Carbamazepine can cause hematologic effects such as leukopenia, anemia, and thrombocytopenia, so the CBC must be monitored.",
+        "incorrect": [
+          "Serum lipase is monitored in pancreatitis, not carbamazepine therapy.",
+          "Blood glucose is not the priority lab for carbamazepine's hematologic risk.",
+          "Serum calcium is not the key monitoring parameter for carbamazepine; the CBC is."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed valproic acid for epilepsy. Which laboratory tests should the nurse monitor because of this drug's characteristic toxicity?",
+      "options": [
+        "Liver function tests (LFTs)",
+        "Serum amylase",
+        "Thyroid-stimulating hormone",
+        "Serum potassium"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Valproic acid can cause hepatotoxicity, so liver function tests must be monitored. GI upset with nausea and vomiting is the most common adverse effect, and it is taken with food.",
+        "incorrect": [
+          "Serum amylase relates to pancreatic function, not the hepatotoxic risk of valproic acid.",
+          "Thyroid-stimulating hormone is not the monitoring parameter for valproic acid hepatotoxicity.",
+          "Serum potassium is not the characteristic lab to monitor with valproic acid."
+        ]
+      }
+    },
+    {
+      "stem": "A client with renal impairment is prescribed levetiracetam. Which action by the nurse is most appropriate?",
+      "options": [
+        "Anticipate a dose reduction because the drug is eliminated by the kidneys",
+        "Withhold the drug because it cannot be used in renal disease",
+        "Monitor liver function tests as the priority because it is hepatotoxic",
+        "Expect the client to require weekly serum drug levels"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Levetiracetam is eliminated by the kidneys, so the dose is reduced in renal impairment. It has mild, less common adverse effects such as drowsiness and depression.",
+        "incorrect": [
+          "Levetiracetam can be used in renal impairment with an adjusted dose; it is not withheld outright.",
+          "Levetiracetam is renally eliminated, not primarily hepatotoxic, so LFT monitoring is not the priority.",
+          "Newer AEDs like levetiracetam do not have well-established therapeutic ranges and do not require routine serum drug levels."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed gabapentin as adjunct therapy for focal (partial) seizures. Which instruction is most important for the nurse to include?",
+      "options": [
+        "Stop the medication as soon as you feel better",
+        "Do not stop the medication abruptly; it must be tapered to avoid worsening seizures",
+        "Use this drug to stop a seizure once it starts",
+        "Take an extra dose if you feel a seizure coming on"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Gabapentin must not be discontinued abruptly because that can worsen seizures; it must be tapered. It is an adjunct for focal seizures and is not effective for acute seizure termination.",
+        "incorrect": [
+          "Stopping suddenly increases the risk of seizure worsening; the drug must be weaned with provider guidance.",
+          "Gabapentin does not stop an active seizure; a benzodiazepine is used for acute termination.",
+          "Clients should take gabapentin exactly as prescribed and not self-adjust with extra doses."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is comparing traditional and newer antiepileptic drugs. Which statement about traditional AEDs such as phenytoin, carbamazepine, and valproic acid is accurate?",
+      "options": [
+        "They have no known drug interactions",
+        "They are all teratogenic and generally require monitoring of serum therapeutic ranges",
+        "They are safer in pregnancy than newer agents",
+        "They rarely cause drowsiness or sedation"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Traditional AEDs are all teratogenic, have well-established therapeutic ranges that require serum level monitoring, cause more side effects (drowsiness, blood dyscrasias), and have many drug interactions, though they are less expensive.",
+        "incorrect": [
+          "Traditional AEDs have many drug interactions due to enzyme induction and inhibition.",
+          "Newer AEDs are generally considered safer in pregnancy; traditional AEDs are teratogenic.",
+          "Traditional AEDs commonly cause drowsiness and sedation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse explains the primary goal of antiepileptic drug therapy to a client. Which statement is most accurate?",
+      "options": [
+        "The medication will cure the epilepsy over time",
+        "The medication controls seizures by reducing neuronal hyperexcitability but does not cure epilepsy",
+        "The medication only works if taken during an active seizure",
+        "The medication eliminates the need for any lifestyle changes"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "AEDs reduce neuronal hyperexcitability and prevent abnormal, excessive, synchronized firing to control seizures. The clinical intent is to control seizures, not cure epilepsy, while balancing seizure cessation with medication toxicities.",
+        "incorrect": [
+          "AEDs control seizures but do not cure epilepsy.",
+          "AEDs are taken on a scheduled basis for prevention; long-acting agents do not stop an active seizure.",
+          "AED therapy does not eliminate the need for lifestyle measures such as avoiding alcohol and adhering to doses."
         ]
       }
     }
