@@ -510,6 +510,280 @@
           "Moderate caffeine intake is not a significant PUD risk factor."
         ]
       }
+    },
+    {
+      "stem": "A nurse is teaching a client about famotidine prescribed for GERD. Which statement best describes how this medication works?",
+      "options": [
+        "It neutralizes acid that is already present in the stomach",
+        "It blocks histamine-2 receptors on the parietal cells, reducing acid secretion",
+        "It forms a protective coating over the stomach lining",
+        "It blocks the proton pump, the final step in acid production"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "H2 blockers such as famotidine block histamine-2 receptors on the gastric parietal cells, reducing the secretion and concentration of gastric acid. They block one of several messengers that stimulate the cells to make acid.",
+        "incorrect": [
+          "Neutralizing acid that is already present describes antacids, not H2 blockers.",
+          "Forming a protective coating over the lining describes sucralfate, not H2 blockers.",
+          "Blocking the proton pump (the final step in acid production) describes proton pump inhibitors, not H2 blockers."
+        ]
+      }
+    },
+    {
+      "stem": "A male client who has taken cimetidine for several months reports breast tenderness and enlargement along with decreased libido. The nurse recognizes these effects are related to which property of the medication?",
+      "options": [
+        "Its anticholinergic effect",
+        "Its anti-androgen effect",
+        "Its inhibition of the proton pump",
+        "Its neutralization of stomach acid"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Cimetidine has an anti-androgen effect that can cause gynecomastia, breast tenderness, decreased libido, and impotence. Famotidine causes the fewest of these effects and is often preferred.",
+        "incorrect": [
+          "Cimetidine's anticholinergic effect is linked to confusion and delirium, especially in older adults—not to gynecomastia.",
+          "Cimetidine is an H2 blocker and does not inhibit the proton pump.",
+          "Cimetidine reduces acid secretion but does not neutralize acid the way antacids do, and neutralization would not cause these hormonal effects."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is describing how omeprazole reduces gastric acid. Which mechanism should the nurse include?",
+      "options": [
+        "It blocks histamine-2 receptors on the parietal cells",
+        "It inhibits the hydrogen-potassium ATPase (proton pump), the final step in acid production",
+        "It neutralizes hydrochloric acid that has already been secreted",
+        "It stimulates production of protective mucus"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "PPIs suppress gastric acid by inhibiting the hydrogen-potassium ATPase enzyme system (the proton pump) in the parietal cells, blocking the final step in hydrochloric acid production. This produces a greater degree of acid suppression than H2 blockers.",
+        "incorrect": [
+          "Blocking histamine-2 receptors describes H2 blockers such as famotidine, not PPIs.",
+          "Neutralizing acid that is already present describes antacids, not PPIs.",
+          "Stimulating protective mucus describes misoprostol, not PPIs."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse explains how aluminum hydroxide relieves symptoms of gastritis. Which explanation is correct?",
+      "options": [
+        "It neutralizes hydrochloric acid, raising the gastric pH and reducing pepsin activity",
+        "It blocks the proton pump in the parietal cells",
+        "It strengthens the lower esophageal sphincter",
+        "It eradicates H. pylori bacteria"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Antacids are alkaline salts that neutralize hydrochloric acid, raising gastric pH. As pH rises, less pepsinogen is converted to active pepsin, reducing further irritation of the mucosa.",
+        "incorrect": [
+          "Blocking the proton pump describes PPIs, not antacids.",
+          "Antacids do not strengthen the lower esophageal sphincter; in GERD they only make the refluxed contents less acidic.",
+          "Antacids have no antimicrobial action against H. pylori."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks why a combination antacid containing both aluminum hydroxide and magnesium hydroxide is often used instead of one containing only aluminum. Which response by the nurse is correct?",
+      "options": [
+        "Aluminum tends to cause constipation and magnesium tends to cause diarrhea, so combining them balances the bowel effects",
+        "Magnesium neutralizes acid while aluminum coats the ulcer",
+        "The combination eliminates the risk of electrolyte imbalances",
+        "Combining them allows the antacid to be taken only once a day"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Aluminum-containing antacids cause constipation and magnesium-containing antacids cause diarrhea. Combining them (as in products such as Maalox) balances these opposing effects on the bowel.",
+        "incorrect": [
+          "Aluminum hydroxide does not coat the ulcer; both salts work by neutralizing acid.",
+          "Combining the salts does not eliminate electrolyte risks—magnesium can still accumulate in kidney disease.",
+          "The combination does not change the dosing schedule; antacids are still typically taken after meals and at bedtime."
+        ]
+      }
+    },
+    {
+      "stem": "A client frequently uses large amounts of calcium carbonate antacids. The nurse should monitor for which potential complication?",
+      "options": [
+        "Nephrolithiasis (kidney stones)",
+        "Hypophosphatemia",
+        "Hypomagnesemia",
+        "Diarrhea"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Large quantities of calcium carbonate antacids can lead to nephrolithiasis (kidney stones) and, when combined with milk, milk-alkali syndrome. Calcium also tends to cause constipation.",
+        "incorrect": [
+          "Hypophosphatemia is most associated with aluminum-containing antacids, which bind dietary phosphate.",
+          "Hypomagnesemia is not a typical effect of calcium carbonate; magnesium-containing antacids instead raise magnesium levels.",
+          "Diarrhea is characteristic of magnesium-containing antacids; calcium tends to cause constipation."
+        ]
+      }
+    },
+    {
+      "stem": "A parent asks whether bismuth subsalicylate can be given to their child who has a viral illness. What is the nurse's best response?",
+      "options": [
+        "It is safe at any age as long as the dose is reduced",
+        "Because it is a salicylate, it should be avoided in children with a viral illness due to the risk of Reye's syndrome",
+        "It should be avoided only in children under 2 years of age",
+        "It can be given but will turn the child's stool bright red"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Bismuth subsalicylate is a salicylate. Salicylates are avoided in children and teens with a viral illness because of the risk of Reye's syndrome, a rare but serious condition affecting the liver and brain.",
+        "incorrect": [
+          "It is not safe at any age during a viral illness; the salicylate component carries the risk of Reye's syndrome.",
+          "The concern is not limited to children under 2; the Reye's syndrome risk applies to children and teenagers with viral infections.",
+          "Bismuth subsalicylate causes harmless black—not bright red—discoloration of the stool and tongue."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic kidney disease is prescribed sucralfate. Which action by the nurse is most appropriate?",
+      "options": [
+        "Administer it together with the client's other oral medications for convenience",
+        "Monitor the client, because sucralfate contains aluminum that can accumulate in renal impairment",
+        "Encourage the client to take it with milk to protect the stomach",
+        "Give it with an antacid to enhance its protective effect"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Sucralfate contains a significant amount of aluminum. In clients with impaired kidney function, aluminum can accumulate, so these clients should be monitored. Sucralfate also decreases absorption of other oral drugs and should not be given with antacids.",
+        "incorrect": [
+          "Sucralfate forms a thick paste that decreases absorption of other oral medications, so it should be separated from them, not given together.",
+          "Milk raises gastric pH and interferes with sucralfate's activation; it should be taken on an empty stomach.",
+          "Antacids raise gastric pH and prevent sucralfate from forming its protective barrier, so they should not be taken together."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing the record of a client who has taken esomeprazole daily for 2 years. Which conditions are associated with long-term proton pump inhibitor use? Select all that apply.",
+      "options": [
+        "Iron and vitamin B12 deficiency anemia",
+        "Clostridioides difficile infection",
+        "Osteoporotic fractures",
+        "Increased gastric acid production",
+        "Hypomagnesemia"
+      ],
+      "answer": [0, 1, 2, 4],
+      "type": "sata",
+      "rationale": {
+        "correct": "Long-term PPI use lowers gastric acid, impairing absorption of iron, vitamin B12, and calcium (raising fracture risk) and weakening the acid barrier against pathogens such as C. difficile. Hypomagnesemia is also associated with prolonged use.",
+        "incorrect": [
+          "Correct—reduced acid impairs absorption of iron and vitamin B12, contributing to anemia.",
+          "Correct—low gastric acid allows C. difficile to survive and colonize the GI tract.",
+          "Correct—impaired calcium absorption increases the risk of osteoporotic fractures.",
+          "PPIs suppress gastric acid secretion; they do not increase acid production.",
+          "Correct—hypomagnesemia is a recognized complication of long-term PPI use."
+        ]
+      }
+    },
+    {
+      "stem": "A client with long-standing peptic ulcer disease reports feeling full quickly, abdominal distention, and vomiting of undigested food. The nurse suspects which complication?",
+      "options": [
+        "Gastric outlet obstruction",
+        "Perforation with peritonitis",
+        "Upper GI hemorrhage",
+        "Barrett's esophagus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Chronic ulceration near the pylorus or duodenum can cause scarring that obstructs gastric outflow. This presents with early satiety, abdominal distention, and vomiting of gastric contents that cannot move forward.",
+        "incorrect": [
+          "Perforation presents with sudden, severe pain and a rigid, board-like abdomen, not gradual distention and vomiting.",
+          "Upper GI hemorrhage presents with hematemesis, melena, or signs of hypovolemia, not obstruction of food.",
+          "Barrett's esophagus is a precancerous change from chronic reflux and does not cause outlet obstruction."
+        ]
+      }
+    },
+    {
+      "stem": "A client on long-term NSAID therapy is prescribed misoprostol. Which instruction should the nurse provide about timing?",
+      "options": [
+        "Take misoprostol only on days you do not take the NSAID",
+        "Take misoprostol together with the NSAID throughout therapy",
+        "Take misoprostol only if stomach pain develops",
+        "Stop the NSAID while taking misoprostol"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Misoprostol is taken concurrently with the NSAID for the duration of NSAID therapy to continuously protect the gastric mucosa, replacing the protective prostaglandins that NSAIDs suppress.",
+        "incorrect": [
+          "Misoprostol must be taken along with the NSAID, not only on NSAID-free days, to maintain mucosal protection.",
+          "It is a preventive medication taken routinely, not a PRN drug used only for pain.",
+          "The NSAID is continued; misoprostol is added specifically to protect against NSAID-induced ulcers."
+        ]
+      }
+    },
+    {
+      "stem": "A client takes daily prednisone and ibuprofen. The nurse recognizes this combination increases the risk of which complication?",
+      "options": [
+        "Peptic ulcer disease",
+        "Esophageal varices",
+        "Colonic polyps",
+        "Lactose intolerance"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "NSAIDs inhibit COX-1 and reduce protective prostaglandins in the gastric mucosa, and corticosteroids such as prednisone further impair mucosal defense. Together they substantially increase the risk of gastritis and peptic ulcer disease, so they should be taken with food and ulcer prophylaxis may be indicated.",
+        "incorrect": [
+          "Esophageal varices result from portal hypertension in liver disease, not from these medications.",
+          "Colonic polyps are not caused by NSAIDs and corticosteroids.",
+          "Lactose intolerance is an enzyme deficiency unrelated to these drugs."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a hiatal hernia reports frequent heartburn. The nurse explains that a hiatal hernia contributes to GERD by which mechanism?",
+      "options": [
+        "It increases gastric acid production",
+        "Part of the stomach moves above the diaphragm, weakening the barrier that keeps acid in the stomach",
+        "It speeds up gastric emptying",
+        "It destroys the protective mucus layer"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "In a hiatal hernia, part of the stomach pushes up through the diaphragm. This disrupts the normal anti-reflux barrier at the lower esophageal sphincter, allowing gastric contents to reflux into the esophagus.",
+        "incorrect": [
+          "A hiatal hernia does not increase acid production; it weakens the anti-reflux barrier.",
+          "The speed of gastric emptying is not the mechanism by which a hiatal hernia causes reflux.",
+          "A hiatal hernia does not destroy the mucus layer; it allows acidic reflux through a weakened sphincter."
+        ]
+      }
+    },
+    {
+      "stem": "A client is being evaluated for suspected peptic ulcer disease. Which diagnostic test allows direct visualization of the ulcer and biopsy for H. pylori?",
+      "options": [
+        "Barium swallow",
+        "Upper GI endoscopy",
+        "Abdominal ultrasound",
+        "Stool occult blood test"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Upper GI endoscopy allows direct visualization of the gastric and duodenal mucosa and permits biopsy, including testing for H. pylori. It is the most definitive test for peptic ulcer disease.",
+        "incorrect": [
+          "A barium swallow with X-ray can suggest an ulcer but does not allow biopsy or direct visualization.",
+          "Abdominal ultrasound is not used to diagnose peptic ulcers.",
+          "A stool occult blood test detects bleeding but does not locate or characterize an ulcer."
+        ]
+      }
+    },
+    {
+      "stem": "A client develops burning stomach pain, nausea, and vomiting after a weekend of heavy alcohol use. The nurse recognizes this presentation is most consistent with which condition?",
+      "options": [
+        "Acute gastritis",
+        "Chronic gastritis from H. pylori",
+        "Perforated duodenal ulcer",
+        "Barrett's esophagus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Acute gastritis is an often self-limited inflammation of the gastric mucosa triggered by irritants such as alcohol, NSAIDs, or bacterial toxins. It presents as a 'sour stomach' with burning pain, nausea, and vomiting.",
+        "incorrect": [
+          "Chronic gastritis from H. pylori develops over months to years, not acutely after a single exposure.",
+          "A perforated ulcer produces sudden, severe pain with a rigid abdomen, not self-limited upset from alcohol.",
+          "Barrett's esophagus is a painless precancerous change from chronic reflux, not an acute reaction to alcohol."
+        ]
+      }
     }
   ]
 }
