@@ -3,6 +3,194 @@
   "label": "Upper GI",
   "questions": [
     {
+      "stem": "A nurse receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A client with GERD requesting a PRN antacid for burning chest discomfort after a large meal",
+        "A client with a duodenal ulcer who now has cool, clammy skin, a heart rate of 122, and a blood pressure of 88/54 after passing a large black, tarry stool",
+        "A client with H. pylori infection asking about the metallic taste from bismuth therapy",
+        "A client on omeprazole for 3 days reporting improved but not fully resolved epigastric pain"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Melena with tachycardia, hypotension, and cool, clammy skin indicates active upper GI hemorrhage with developing hypovolemic shock. This client is unstable and is the priority.",
+        "incorrect": [
+          "An antacid request for expected reflux after a large meal is routine and can wait.",
+          "A metallic taste and black stool/tongue discoloration from bismuth are expected, harmless effects.",
+          "Partial symptom improvement on a PPI at day 3 is expected and not time-sensitive."
+        ]
+      }
+    },
+    {
+      "stem": "A client with peptic ulcer disease has developed gastric outlet obstruction with vomiting of undigested food and abdominal distention. Which prescription should the nurse question?",
+      "options": [
+        "Maintain NPO status",
+        "Insert a nasogastric tube to low intermittent suction",
+        "Administer IV metoclopramide to promote gastric emptying",
+        "Begin IV isotonic fluids with potassium replacement"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Metoclopramide is a prokinetic that stimulates GI motility. With a mechanical obstruction, driving contractions against the blockage worsens distention and risks perforation, so prokinetics are contraindicated. The nurse should question this order.",
+        "incorrect": [
+          "NPO rests the GI tract and is appropriate while the obstruction is managed.",
+          "NG suction decompresses the stomach and relieves the distention and vomiting.",
+          "IV fluids with potassium correct the hypovolemia and hypokalemic, hypochloremic alkalosis caused by vomiting."
+        ]
+      }
+    },
+    {
+      "stem": "Two hours after an esophagogastroduodenoscopy (EGD), a client reports severe chest and back pain with difficulty swallowing. The nurse finds a temperature of 101.8°F (38.8°C), a heart rate of 120, and a crackling sensation (crepitus) under the skin of the neck and chest. Which action is the priority?",
+      "options": [
+        "Offer sips of water to evaluate the swallowing difficulty",
+        "Keep the client NPO and notify the provider immediately",
+        "Administer the prescribed PRN antacid",
+        "Document the findings and reassess in 1 hour"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Chest and back pain, fever, tachycardia, and subcutaneous emphysema (crepitus) after an EGD indicate esophageal perforation with leakage into the mediastinum—a life-threatening emergency. The client must remain NPO and the provider be notified at once.",
+        "incorrect": [
+          "Giving water forces oral contents through the perforation into the mediastinum and worsens the injury.",
+          "An antacid does not treat a perforation and dangerously delays definitive care.",
+          "These are emergency findings; delaying reassessment could be fatal."
+        ]
+      }
+    },
+    {
+      "stem": "A client who had a coronary stent placed and takes clopidogrel is prescribed omeprazole for new dyspepsia. What is the nurse's best action?",
+      "options": [
+        "Administer both medications as prescribed; there is no concern",
+        "Contact the provider, because omeprazole can reduce the antiplatelet effect of clopidogrel",
+        "Hold the clopidogrel until the dyspepsia resolves",
+        "Teach the client to take the two drugs at least 2 hours apart to avoid the interaction"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Omeprazole and esomeprazole inhibit CYP2C19, the enzyme that activates clopidogrel, which can blunt its antiplatelet effect and raise the risk of stent thrombosis. The nurse should contact the provider, who may choose a PPI with less interaction (e.g., pantoprazole) or an H2 blocker.",
+        "incorrect": [
+          "The interaction is clinically significant, so giving both without question is unsafe.",
+          "The nurse does not independently stop clopidogrel, which is protecting the stent from clotting.",
+          "Separating the doses does not overcome enzyme inhibition; the interaction persists regardless of timing."
+        ]
+      }
+    },
+    {
+      "stem": "A client who had a partial gastrectomy is being taught to manage dumping syndrome. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "I should lie down for about 30 minutes after eating.",
+        "I will drink most of my fluids between meals rather than with them.",
+        "I will eat smaller, more frequent meals that are lower in simple sugars.",
+        "I will drink a large glass of fruit juice with each meal to keep my energy up."
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "This statement needs correction. Sugary liquids such as juice taken with meals pull fluid into the bowel and worsen dumping syndrome. Simple sugars should be limited and fluids taken between—not with—meals.",
+        "incorrect": [
+          "Lying down after eating slows gastric emptying and reduces dumping symptoms.",
+          "Taking fluids between meals lowers the osmotic load during meals.",
+          "Small, frequent, low-sugar meals slow the rapid emptying that causes dumping."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is monitoring a client with peptic ulcer disease for gastrointestinal bleeding. Which findings should the nurse report to the provider? Select all that apply.",
+      "options": [
+        "Vomiting material that looks like coffee grounds",
+        "Black, tarry, sticky stools",
+        "Heart rate 116 with blood pressure 94/58 and lightheadedness when standing",
+        "One episode of heartburn relieved by an antacid",
+        "Reddish-colored stool the day after eating a large serving of beets"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Coffee-ground emesis, melena, and signs of hypovolemia indicate GI bleeding and must be reported; isolated heartburn and beet-colored stool are benign.",
+        "incorrect": [
+          "Correct—coffee-ground emesis is partially digested blood and signals upper GI bleeding.",
+          "Correct—melena (black, tarry stool) is digested blood from an upper GI source.",
+          "Correct—tachycardia, hypotension, and orthostatic lightheadedness suggest blood loss and hypovolemia.",
+          "Incorrect—a single episode of heartburn relieved by an antacid is expected and non-urgent.",
+          "Incorrect—beets can harmlessly turn stool reddish; this is not bleeding."
+        ]
+      }
+    },
+    {
+      "stem": "A client with pyloric obstruction has been vomiting large amounts of gastric contents for several days. Which set of laboratory findings should the nurse anticipate?",
+      "options": [
+        "Metabolic alkalosis with low potassium and low chloride",
+        "Metabolic acidosis with high potassium",
+        "Respiratory acidosis with high chloride",
+        "Metabolic alkalosis with high sodium and high chloride"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Prolonged vomiting of acidic gastric fluid removes hydrogen and chloride ions, and the accompanying volume loss drives potassium into cells and out through the kidneys—producing a hypochloremic, hypokalemic metabolic alkalosis.",
+        "incorrect": [
+          "Loss of gastric acid causes alkalosis, not acidosis, and potassium falls rather than rises.",
+          "The disturbance is metabolic and chloride is lost, not gained; there is no primary respiratory cause.",
+          "Both chloride and potassium are lost with vomiting, so they fall rather than rise."
+        ]
+      }
+    },
+    {
+      "stem": "A client is scheduled for a urea breath test to detect H. pylori. The client currently takes omeprazole daily. What is the nurse's most appropriate action?",
+      "options": [
+        "Give an extra dose of omeprazole before the test to ensure comfort",
+        "Confirm with the provider that the omeprazole should be stopped about 2 weeks before the test",
+        "Reassure the client that the test requires no medication changes",
+        "Instruct the client to take an antacid just before the test"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "PPIs (as well as antibiotics and bismuth) suppress H. pylori and can produce a false-negative urea breath or stool antigen test. PPIs are typically held about 1–2 weeks before testing, so the nurse should verify the hold with the provider.",
+        "incorrect": [
+          "An extra PPI dose further suppresses the organism and increases the chance of a false-negative result.",
+          "Medications do affect this test, so telling the client no changes are needed is inaccurate.",
+          "Antacids and bismuth can also alter the result and should not be added before the test."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a bleeding gastric ulcer suddenly vomits a large amount of bright red blood. Which action should the nurse take first?",
+      "options": [
+        "Position the client to protect the airway and prevent aspiration, and turn on suction",
+        "Insert two large-bore IV catheters",
+        "Draw blood for type and crossmatch",
+        "Measure the client's blood pressure and heart rate"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "During active hematemesis the immediate threat is aspiration of blood, so protecting the airway (positioning, suction ready) comes first—airway before circulation. Large-bore IV access, labs, and vital signs follow in rapid succession.",
+        "incorrect": [
+          "IV access is essential and immediate, but airway protection during active vomiting takes precedence.",
+          "Type and crossmatch is needed for transfusion but is not the first physical priority.",
+          "Assessing vital signs is important but does not protect the airway during active vomiting."
+        ]
+      }
+    },
+    {
+      "stem": "A client had endoscopic treatment of a bleeding duodenal ulcer 6 hours ago. Which assessment finding should the nurse report immediately as a sign of rebleeding?",
+      "options": [
+        "A new melena stool with a rising heart rate and a falling blood pressure",
+        "A mild sore throat from the endoscope",
+        "Hypoactive bowel sounds in all four quadrants",
+        "A report of hunger and a request to eat"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "New melena or hematemesis with tachycardia and falling blood pressure indicates recurrent bleeding, a common and dangerous complication after endoscopic hemostasis, and must be reported immediately.",
+        "incorrect": [
+          "A mild sore throat after endoscopy is expected and self-limited.",
+          "Transiently reduced bowel sounds after the procedure are common and not alarming by themselves.",
+          "A returning appetite is a favorable sign, not a sign of rebleeding."
+        ]
+      }
+    },
+    {
       "stem": "A nurse on a medical-surgical unit receives report on four clients. Which client should the nurse assess first?",
       "options": [
         "A client with a duodenal ulcer requesting a PRN antacid for 3/10 burning pain",

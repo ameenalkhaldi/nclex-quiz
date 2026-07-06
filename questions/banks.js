@@ -9,6 +9,173 @@ window.NCLEX_DATA = {
   "banks": {
     "upper-gi": [
       {
+        "stem": "A nurse receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "A client with GERD requesting a PRN antacid for burning chest discomfort after a large meal",
+          "A client with a duodenal ulcer who now has cool, clammy skin, a heart rate of 122, and a blood pressure of 88/54 after passing a large black, tarry stool",
+          "A client with H. pylori infection asking about the metallic taste from bismuth therapy",
+          "A client on omeprazole for 3 days reporting improved but not fully resolved epigastric pain"
+        ],
+        "answer": 1,
+        "explanations": [
+          "An antacid request for expected reflux after a large meal is routine and can wait.",
+          "Melena with tachycardia, hypotension, and cool, clammy skin indicates active upper GI hemorrhage with developing hypovolemic shock. This client is unstable and is the priority.",
+          "A metallic taste and black stool/tongue discoloration from bismuth are expected, harmless effects.",
+          "Partial symptom improvement on a PPI at day 3 is expected and not time-sensitive."
+        ]
+      },
+      {
+        "stem": "A client with peptic ulcer disease has developed gastric outlet obstruction with vomiting of undigested food and abdominal distention. Which prescription should the nurse question?",
+        "options": [
+          "Maintain NPO status",
+          "Insert a nasogastric tube to low intermittent suction",
+          "Administer IV metoclopramide to promote gastric emptying",
+          "Begin IV isotonic fluids with potassium replacement"
+        ],
+        "answer": 2,
+        "explanations": [
+          "NPO rests the GI tract and is appropriate while the obstruction is managed.",
+          "NG suction decompresses the stomach and relieves the distention and vomiting.",
+          "Metoclopramide is a prokinetic that stimulates GI motility. With a mechanical obstruction, driving contractions against the blockage worsens distention and risks perforation, so prokinetics are contraindicated. The nurse should question this order.",
+          "IV fluids with potassium correct the hypovolemia and hypokalemic, hypochloremic alkalosis caused by vomiting."
+        ]
+      },
+      {
+        "stem": "Two hours after an esophagogastroduodenoscopy (EGD), a client reports severe chest and back pain with difficulty swallowing. The nurse finds a temperature of 101.8°F (38.8°C), a heart rate of 120, and a crackling sensation (crepitus) under the skin of the neck and chest. Which action is the priority?",
+        "options": [
+          "Offer sips of water to evaluate the swallowing difficulty",
+          "Keep the client NPO and notify the provider immediately",
+          "Administer the prescribed PRN antacid",
+          "Document the findings and reassess in 1 hour"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Giving water forces oral contents through the perforation into the mediastinum and worsens the injury.",
+          "Chest and back pain, fever, tachycardia, and subcutaneous emphysema (crepitus) after an EGD indicate esophageal perforation with leakage into the mediastinum—a life-threatening emergency. The client must remain NPO and the provider be notified at once.",
+          "An antacid does not treat a perforation and dangerously delays definitive care.",
+          "These are emergency findings; delaying reassessment could be fatal."
+        ]
+      },
+      {
+        "stem": "A client who had a coronary stent placed and takes clopidogrel is prescribed omeprazole for new dyspepsia. What is the nurse's best action?",
+        "options": [
+          "Administer both medications as prescribed; there is no concern",
+          "Contact the provider, because omeprazole can reduce the antiplatelet effect of clopidogrel",
+          "Hold the clopidogrel until the dyspepsia resolves",
+          "Teach the client to take the two drugs at least 2 hours apart to avoid the interaction"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The interaction is clinically significant, so giving both without question is unsafe.",
+          "Omeprazole and esomeprazole inhibit CYP2C19, the enzyme that activates clopidogrel, which can blunt its antiplatelet effect and raise the risk of stent thrombosis. The nurse should contact the provider, who may choose a PPI with less interaction (e.g., pantoprazole) or an H2 blocker.",
+          "The nurse does not independently stop clopidogrel, which is protecting the stent from clotting.",
+          "Separating the doses does not overcome enzyme inhibition; the interaction persists regardless of timing."
+        ]
+      },
+      {
+        "stem": "A client who had a partial gastrectomy is being taught to manage dumping syndrome. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "I should lie down for about 30 minutes after eating.",
+          "I will drink most of my fluids between meals rather than with them.",
+          "I will eat smaller, more frequent meals that are lower in simple sugars.",
+          "I will drink a large glass of fruit juice with each meal to keep my energy up."
+        ],
+        "answer": 3,
+        "explanations": [
+          "Lying down after eating slows gastric emptying and reduces dumping symptoms.",
+          "Taking fluids between meals lowers the osmotic load during meals.",
+          "Small, frequent, low-sugar meals slow the rapid emptying that causes dumping.",
+          "This statement needs correction. Sugary liquids such as juice taken with meals pull fluid into the bowel and worsen dumping syndrome. Simple sugars should be limited and fluids taken between—not with—meals."
+        ]
+      },
+      {
+        "stem": "A nurse is monitoring a client with peptic ulcer disease for gastrointestinal bleeding. Which findings should the nurse report to the provider? Select all that apply.",
+        "options": [
+          "Vomiting material that looks like coffee grounds",
+          "Black, tarry, sticky stools",
+          "Heart rate 116 with blood pressure 94/58 and lightheadedness when standing",
+          "One episode of heartburn relieved by an antacid",
+          "Reddish-colored stool the day after eating a large serving of beets"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—coffee-ground emesis is partially digested blood and signals upper GI bleeding.",
+          "Correct—melena (black, tarry stool) is digested blood from an upper GI source.",
+          "Correct—tachycardia, hypotension, and orthostatic lightheadedness suggest blood loss and hypovolemia.",
+          "Incorrect—a single episode of heartburn relieved by an antacid is expected and non-urgent.",
+          "Incorrect—beets can harmlessly turn stool reddish; this is not bleeding."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with pyloric obstruction has been vomiting large amounts of gastric contents for several days. Which set of laboratory findings should the nurse anticipate?",
+        "options": [
+          "Metabolic alkalosis with low potassium and low chloride",
+          "Metabolic acidosis with high potassium",
+          "Respiratory acidosis with high chloride",
+          "Metabolic alkalosis with high sodium and high chloride"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Prolonged vomiting of acidic gastric fluid removes hydrogen and chloride ions, and the accompanying volume loss drives potassium into cells and out through the kidneys—producing a hypochloremic, hypokalemic metabolic alkalosis.",
+          "Loss of gastric acid causes alkalosis, not acidosis, and potassium falls rather than rises.",
+          "The disturbance is metabolic and chloride is lost, not gained; there is no primary respiratory cause.",
+          "Both chloride and potassium are lost with vomiting, so they fall rather than rise."
+        ]
+      },
+      {
+        "stem": "A client is scheduled for a urea breath test to detect H. pylori. The client currently takes omeprazole daily. What is the nurse's most appropriate action?",
+        "options": [
+          "Give an extra dose of omeprazole before the test to ensure comfort",
+          "Confirm with the provider that the omeprazole should be stopped about 2 weeks before the test",
+          "Reassure the client that the test requires no medication changes",
+          "Instruct the client to take an antacid just before the test"
+        ],
+        "answer": 1,
+        "explanations": [
+          "An extra PPI dose further suppresses the organism and increases the chance of a false-negative result.",
+          "PPIs (as well as antibiotics and bismuth) suppress H. pylori and can produce a false-negative urea breath or stool antigen test. PPIs are typically held about 1–2 weeks before testing, so the nurse should verify the hold with the provider.",
+          "Medications do affect this test, so telling the client no changes are needed is inaccurate.",
+          "Antacids and bismuth can also alter the result and should not be added before the test."
+        ]
+      },
+      {
+        "stem": "A client with a bleeding gastric ulcer suddenly vomits a large amount of bright red blood. Which action should the nurse take first?",
+        "options": [
+          "Position the client to protect the airway and prevent aspiration, and turn on suction",
+          "Insert two large-bore IV catheters",
+          "Draw blood for type and crossmatch",
+          "Measure the client's blood pressure and heart rate"
+        ],
+        "answer": 0,
+        "explanations": [
+          "During active hematemesis the immediate threat is aspiration of blood, so protecting the airway (positioning, suction ready) comes first—airway before circulation. Large-bore IV access, labs, and vital signs follow in rapid succession.",
+          "IV access is essential and immediate, but airway protection during active vomiting takes precedence.",
+          "Type and crossmatch is needed for transfusion but is not the first physical priority.",
+          "Assessing vital signs is important but does not protect the airway during active vomiting."
+        ]
+      },
+      {
+        "stem": "A client had endoscopic treatment of a bleeding duodenal ulcer 6 hours ago. Which assessment finding should the nurse report immediately as a sign of rebleeding?",
+        "options": [
+          "A new melena stool with a rising heart rate and a falling blood pressure",
+          "A mild sore throat from the endoscope",
+          "Hypoactive bowel sounds in all four quadrants",
+          "A report of hunger and a request to eat"
+        ],
+        "answer": 0,
+        "explanations": [
+          "New melena or hematemesis with tachycardia and falling blood pressure indicates recurrent bleeding, a common and dangerous complication after endoscopic hemostasis, and must be reported immediately.",
+          "A mild sore throat after endoscopy is expected and self-limited.",
+          "Transiently reduced bowel sounds after the procedure are common and not alarming by themselves.",
+          "A returning appetite is a favorable sign, not a sign of rebleeding."
+        ]
+      },
+      {
         "stem": "A nurse on a medical-surgical unit receives report on four clients. Which client should the nurse assess first?",
         "options": [
           "A client with a duodenal ulcer requesting a PRN antacid for 3/10 burning pain",
@@ -913,6 +1080,174 @@ window.NCLEX_DATA = {
       }
     ],
     "lower-gi": [
+      {
+        "stem": "A client with cirrhosis, esophageal varices, and ascites reports lower back pain. Which prescription should the nurse question?",
+        "options": [
+          "Acetaminophen 500 mg, limited to no more than 2 g per day",
+          "Ibuprofen 600 mg every 6 hours as needed",
+          "Lactulose titrated to 2–3 soft stools daily",
+          "Spironolactone daily"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Low-dose acetaminophen (≤2 g/day) is generally the preferred analgesic in cirrhosis.",
+          "NSAIDs such as ibuprofen impair platelet function and gastric mucosal protection (raising variceal and GI bleeding risk) and reduce renal blood flow, which can precipitate hepatorenal syndrome and worsen ascites in cirrhosis. The nurse should question it; low-dose acetaminophen is preferred.",
+          "Lactulose treats and prevents hepatic encephalopathy and is appropriate.",
+          "Spironolactone is first-line therapy for cirrhotic ascites."
+        ]
+      },
+      {
+        "stem": "A client with cirrhosis and ascites develops a fever of 101.5°F (38.6°C), diffuse abdominal pain and tenderness, and new confusion. Which complication should the nurse suspect?",
+        "options": [
+          "Spontaneous bacterial peritonitis",
+          "Simple constipation",
+          "An expected, harmless worsening of chronic ascites",
+          "A urinary tract infection unrelated to the ascites"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Fever, abdominal pain and tenderness, and new encephalopathy in a client with ascites are classic for spontaneous bacterial peritonitis (infection of the ascitic fluid). It requires prompt paracentesis and antibiotics, so the provider must be notified immediately.",
+          "Constipation does not produce fever and peritoneal tenderness.",
+          "Fever and abdominal tenderness are not features of stable ascites and signal infection.",
+          "The ascitic fluid is the likely source; assuming an unrelated UTI could delay life-saving treatment."
+        ]
+      },
+      {
+        "stem": "Several hours after an endoscopic retrograde cholangiopancreatography (ERCP), a client develops severe epigastric pain radiating to the back, nausea, and vomiting. The serum lipase is markedly elevated. The nurse recognizes these findings as:",
+        "options": [
+          "Post-ERCP acute pancreatitis",
+          "An expected sore throat from the procedure",
+          "A normal response to procedural sedation",
+          "Referred pain from lying flat during the procedure"
+        ],
+        "answer": 0,
+        "explanations": [
+          "ERCP is the most common cause of procedure-related acute pancreatitis. Epigastric pain radiating to the back with a rising lipase after ERCP indicates this complication and warrants NPO status, IV fluids, analgesia, and provider notification.",
+          "A sore throat does not cause epigastric pain radiating to the back with an elevated lipase.",
+          "Pain this severe with lab changes is not an expected effect of sedation.",
+          "Positional discomfort does not raise the serum lipase."
+        ]
+      },
+      {
+        "stem": "A nurse reviews a client's hepatitis B results: HBsAg positive, anti-HBc IgM positive, anti-HBs negative. Which interpretation is correct?",
+        "options": [
+          "The client has an acute hepatitis B infection",
+          "The client is immune from prior vaccination",
+          "The client has cleared the infection and is no longer contagious",
+          "The client has never been exposed to hepatitis B"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A positive HBsAg (active virus) with a positive anti-HBc IgM (recent infection) and a negative anti-HBs indicates acute hepatitis B. The client is infectious and needs standard precautions and follow-up.",
+          "Vaccine-induced immunity shows anti-HBs positive with HBsAg and anti-HBc negative.",
+          "A resolved infection shows anti-HBs and anti-HBc positive with HBsAg negative.",
+          "A never-exposed, unvaccinated person has all three markers negative."
+        ]
+      },
+      {
+        "stem": "A client with a common bile duct stone develops a fever with shaking chills, right upper quadrant pain, and jaundice. How should the nurse interpret and respond to these findings?",
+        "options": [
+          "This is Charcot triad indicating ascending cholangitis; notify the provider immediately for urgent treatment",
+          "These are expected findings of uncomplicated gallstones; continue routine monitoring",
+          "This indicates hepatitis A; place the client on contact precautions",
+          "This is dumping syndrome; adjust the client's diet"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Fever with chills, RUQ pain, and jaundice (Charcot triad) indicate ascending cholangitis—a biliary infection above an obstructing stone that can progress to septic shock. It is an emergency requiring urgent biliary drainage (ERCP) and antibiotics.",
+          "Fever with chills and jaundice is not an uncomplicated-stone picture; it signals infection.",
+          "This biliary infection is unrelated to hepatitis A transmission; the triad points to obstruction and infection.",
+          "Dumping syndrome follows gastric surgery and does not cause this triad."
+        ]
+      },
+      {
+        "stem": "A nurse is monitoring a client with acute pancreatitis for signs of a severe or worsening course. Which findings should the nurse report? Select all that apply.",
+        "options": [
+          "A positive Chvostek sign with numbness and tingling around the mouth",
+          "New dyspnea with an oxygen saturation of 88%",
+          "Bluish discoloration over the flank (Grey Turner sign)",
+          "Blood pressure 86/50 with a heart rate of 124",
+          "Pain relief when positioned leaning forward"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—a positive Chvostek sign signals hypocalcemia, a marker of severe pancreatitis.",
+          "Correct—dyspnea and hypoxemia may indicate ARDS, a serious pulmonary complication.",
+          "Correct—Grey Turner sign reflects retroperitoneal hemorrhage in severe necrotizing pancreatitis.",
+          "Correct—hypotension with tachycardia suggests third-spacing and shock.",
+          "Incorrect—improved pain when leaning forward is an expected, reassuring finding, not a complication."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with ulcerative colitis is prescribed sulfasalazine. Which action by the nurse is most important before administering the first dose?",
+        "options": [
+          "Ask the client about an allergy to sulfa drugs or aspirin",
+          "Restrict the client's fluid intake",
+          "Tell the client the drug will turn the stool black",
+          "Administer the drug on an empty stomach"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Sulfasalazine contains a sulfonamide (sulfa) and a salicylate, so a sulfa or aspirin allergy is a contraindication that must be identified first. Clients also need increased fluids and folic acid and should be told it can turn urine and skin orange-yellow.",
+          "Fluids should be increased, not restricted, to prevent crystalluria.",
+          "Sulfasalazine causes orange-yellow (not black) discoloration of urine and skin.",
+          "It is given with food to reduce GI upset, not on an empty stomach."
+        ]
+      },
+      {
+        "stem": "A client with a new ileostomy is being discharged. Which statement by the client indicates correct understanding of self-care?",
+        "options": [
+          "I need to drink plenty of fluids and watch for signs of dehydration because my output is watery.",
+          "My output should become firm and formed like a normal bowel movement.",
+          "I will limit my fluids so the output stays thick.",
+          "I can take all my enteric-coated and extended-release pills exactly as before."
+        ],
+        "answer": 0,
+        "explanations": [
+          "Ileostomy effluent is liquid to pasty and high in fluid and sodium, so the client is at risk for dehydration and electrolyte loss and must keep fluid intake high and watch for dehydration.",
+          "Output exits before the colon reabsorbs water, so it stays liquid or pasty rather than becoming formed.",
+          "Restricting fluids worsens the dehydration risk from high ileostomy output.",
+          "Enteric-coated and extended-release medications may pass out of an ileostomy before being absorbed; the client should ask about alternative forms."
+        ]
+      },
+      {
+        "stem": "A client with cirrhosis and a history of hepatic encephalopathy is receiving dietary teaching. Which statement indicates a need for further teaching?",
+        "options": [
+          "I will avoid eating any protein at all to keep my ammonia down.",
+          "I will take my lactulose even though it causes several soft stools a day.",
+          "I will eat enough calories so my body doesn't break down muscle.",
+          "I will report increased confusion or drowsiness to my provider."
+        ],
+        "answer": 0,
+        "explanations": [
+          "This statement needs correction. Severe or total protein restriction is no longer recommended because it causes muscle breakdown, which actually raises ammonia and worsens malnutrition. Clients need adequate protein along with lactulose to control ammonia.",
+          "Taking lactulose to produce 2–3 soft stools daily is correct; it lowers ammonia by trapping and eliminating it.",
+          "Adequate calories prevent catabolism of muscle, which would otherwise raise ammonia.",
+          "Reporting increasing confusion or drowsiness (early encephalopathy) is appropriate."
+        ]
+      },
+      {
+        "stem": "A client with esophageal varices suddenly begins vomiting large amounts of bright red blood. Which action should the nurse take first?",
+        "options": [
+          "Position the client to protect the airway and prevent aspiration",
+          "Prepare the prescribed octreotide infusion",
+          "Obtain a blood specimen for type and crossmatch",
+          "Insert an indwelling urinary catheter to monitor output"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Massive hematemesis threatens the airway, so the first priority is protecting the airway and preventing aspiration (positioning, suction, preparing for possible intubation). Octreotide, blood products, and monitoring follow.",
+          "Octreotide lowers portal pressure and is important, but airway protection comes first.",
+          "Type and crossmatch is essential for transfusion but is not the immediate physical priority.",
+          "Monitoring urine output guides resuscitation but does not address the immediate airway threat."
+        ]
+      },
       {
         "stem": "A nurse receives report on four clients on a GI unit. Which client should the nurse assess first?",
         "options": [
@@ -2039,6 +2374,174 @@ window.NCLEX_DATA = {
       }
     ],
     "neoplasms-cancer": [
+      {
+        "stem": "Two days after starting chemotherapy for a high-tumor-burden acute leukemia, a client has these labs: potassium 6.2 mEq/L, phosphorus 6.8 mg/dL, calcium 7.0 mg/dL, and uric acid 11 mg/dL. The nurse recognizes these findings as:",
+        "options": [
+          "Tumor lysis syndrome",
+          "An expected chemotherapy response that needs no action",
+          "Dehydration from poor oral intake",
+          "A laboratory error, since these values are unrelated"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Rapid death of tumor cells releases their intracellular contents, producing hyperkalemia, hyperphosphatemia, hyperuricemia, and (as phosphate binds calcium) hypocalcemia—tumor lysis syndrome. It can cause fatal arrhythmias and acute kidney injury and requires aggressive hydration, urate-lowering therapy, and cardiac monitoring.",
+          "These dangerous electrolyte derangements are not a benign, expected response and require urgent action.",
+          "Dehydration does not produce this specific pattern of hyperkalemia, hyperphosphatemia, and hyperuricemia.",
+          "The values form the classic, related pattern of tumor lysis syndrome, not random error."
+        ]
+      },
+      {
+        "stem": "A client at high risk for tumor lysis syndrome is starting induction chemotherapy. Which prescription should the nurse question?",
+        "options": [
+          "Aggressive IV isotonic fluid hydration",
+          "Allopurinol",
+          "Add potassium chloride to the maintenance IV fluids",
+          "Frequent monitoring of potassium, phosphorus, calcium, and uric acid"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Aggressive hydration protects the kidneys and promotes excretion of uric acid and potassium.",
+          "Allopurinol lowers uric acid production to prevent urate nephropathy.",
+          "Tumor lysis releases large amounts of intracellular potassium, so these clients are prone to life-threatening hyperkalemia. Adding potassium to IV fluids is unsafe and should be questioned; management centers on hydration, urate-lowering drugs, and close monitoring.",
+          "Frequent electrolyte monitoring is essential to detect tumor lysis early."
+        ]
+      },
+      {
+        "stem": "A client with metastatic prostate cancer reports new, worsening mid-back pain, bilateral leg weakness, and difficulty urinating. What is the nurse's priority action?",
+        "options": [
+          "Notify the provider immediately, as these findings suggest spinal cord compression",
+          "Encourage the client to rest and reassess in the morning",
+          "Administer a PRN laxative for the urinary difficulty",
+          "Apply a warm pack to the back for comfort"
+        ],
+        "answer": 0,
+        "explanations": [
+          "New back pain with leg weakness and bladder dysfunction in a client with bone-metastasizing cancer signals malignant spinal cord compression—an oncologic emergency. Prompt corticosteroids and radiation or surgery are needed to prevent permanent paralysis, so the provider must be notified at once.",
+          "Delaying care risks irreversible paralysis; these are emergency neurologic findings.",
+          "The urinary difficulty is neurologic (cord compression), not constipation, so a laxative does not address it.",
+          "A warm pack treats comfort but ignores a limb- and function-threatening emergency."
+        ]
+      },
+      {
+        "stem": "A client with a mediastinal lung tumor develops swelling of the face and neck, distended neck veins, and dyspnea that worsens when lying flat. The nurse recognizes these findings as:",
+        "options": [
+          "Superior vena cava syndrome",
+          "An allergic reaction to chemotherapy",
+          "Fluid overload from IV hydration",
+          "A normal tumor effect that needs no intervention"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A tumor compressing the superior vena cava obstructs venous return from the head and upper body, causing facial and neck swelling, distended neck veins, and dyspnea—superior vena cava syndrome. The nurse should elevate the head of the bed and notify the provider for urgent treatment.",
+          "An allergic reaction causes urticaria, wheezing, and hypotension rather than isolated upper-body venous congestion.",
+          "Fluid overload produces generalized edema and crackles, not this localized upper-body venous pattern.",
+          "These findings indicate a serious venous obstruction requiring prompt intervention, not observation."
+        ]
+      },
+      {
+        "stem": "A client with bone-metastatic breast cancer is increasingly lethargic and confused, with constipation, excessive thirst, and frequent urination. The serum calcium is 13.5 mg/dL. Which intervention should the nurse anticipate first?",
+        "options": [
+          "Intravenous isotonic (0.9%) saline infusion",
+          "Restricting the client's fluids",
+          "Administering IV calcium gluconate",
+          "Encouraging a high-calcium diet"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bone metastases release calcium, causing hypercalcemia with lethargy, confusion, constipation, polyuria, and polydipsia. Initial treatment is aggressive IV isotonic fluids to restore volume and promote calcium excretion, followed by drugs such as bisphosphonates or calcitonin.",
+          "Fluid restriction worsens hypercalcemia; these clients are volume-depleted and need fluids.",
+          "Giving calcium would further raise an already dangerously high level.",
+          "Increasing dietary calcium is contraindicated in hypercalcemia."
+        ]
+      },
+      {
+        "stem": "A client with small cell lung cancer has a serum sodium of 118 mEq/L with confusion and is diagnosed with the syndrome of inappropriate antidiuretic hormone (SIADH). Which intervention should the nurse anticipate?",
+        "options": [
+          "Fluid restriction",
+          "A rapid infusion of hypotonic fluids",
+          "Encouraging the client to drink large amounts of water",
+          "Withholding all sodium from the diet"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In SIADH, excess ADH causes water retention and dilutional hyponatremia, so the mainstay of treatment is fluid restriction. Severe, symptomatic hyponatremia may require careful hypertonic (3%) saline—not hypotonic fluids.",
+          "Hypotonic fluids add free water and lower the sodium further.",
+          "Drinking large amounts of water worsens the dilutional hyponatremia.",
+          "The problem is water excess, not dietary sodium deficiency; severe cases need sodium, not restriction."
+        ]
+      },
+      {
+        "stem": "During an IV infusion of a chemotherapy agent, a client suddenly develops facial flushing, wheezing, back pain, and a falling blood pressure. Which action should the nurse take first?",
+        "options": [
+          "Stop the chemotherapy infusion immediately",
+          "Slow the infusion rate and continue",
+          "Administer the next scheduled antiemetic",
+          "Document the reaction and finish the infusion"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Flushing, wheezing, back pain, and hypotension during a chemotherapy infusion indicate a hypersensitivity/anaphylactic reaction. The first action is to stop the infusion (keeping IV access open with saline), then notify the provider and give emergency medications as ordered.",
+          "Slowing the infusion continues to deliver the causative drug during a serious reaction.",
+          "An antiemetic does not treat a hypersensitivity reaction and delays stopping the cause.",
+          "Completing the infusion during anaphylaxis is dangerous."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client who is receiving chemotherapy. Which precautions for handling the client's body fluids and excreta are appropriate? Select all that apply.",
+        "options": [
+          "Wear gloves, and a gown when splashing is possible, when handling urine, stool, or emesis",
+          "Treat body fluids as hazardous for about 48 hours after a dose",
+          "Flush the toilet with the lid closed after the client uses it",
+          "Discard chemotherapy waste in a designated hazardous-drug container",
+          "Handle the client's excreta with bare hands as long as the hands are washed afterward"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—gloves and a gown protect the nurse from cytotoxic drug residue in body fluids.",
+          "Correct—chemotherapy and its metabolites are excreted for roughly 48 hours, so fluids are hazardous during that time.",
+          "Correct—closing the lid before flushing prevents aerosolizing cytotoxic residue.",
+          "Correct—cytotoxic waste belongs in labeled hazardous-drug containers, not regular trash.",
+          "Incorrect—bare-handed contact exposes the nurse to cytotoxic drugs; gloves are required."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client is scheduled to receive rasburicase to prevent tumor lysis syndrome. Which client history is most important for the nurse to verify before administration?",
+        "options": [
+          "Glucose-6-phosphate dehydrogenase (G6PD) deficiency",
+          "A history of seasonal allergies",
+          "Lactose intolerance",
+          "A family history of hypertension"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Rasburicase can cause severe hemolysis and methemoglobinemia in clients with G6PD deficiency, so it is contraindicated in that condition. The nurse must verify G6PD status before giving it.",
+          "Seasonal allergies are not a contraindication to rasburicase.",
+          "Lactose intolerance is unrelated to rasburicase safety.",
+          "A family history of hypertension does not affect rasburicase administration."
+        ]
+      },
+      {
+        "stem": "A client receiving external beam radiation therapy is taught how to care for the irradiated skin. Which statement indicates a need for further teaching?",
+        "options": [
+          "I can scrub off the treatment field markings when I shower.",
+          "I will wash the area gently with lukewarm water and mild soap.",
+          "I will avoid heating pads, ice packs, and direct sun on the area.",
+          "I will wear loose, soft cotton clothing over the site."
+        ],
+        "answer": 0,
+        "explanations": [
+          "This statement needs correction. Skin markings guide precise targeting of the radiation and must not be scrubbed off until the provider says the treatment course allows it.",
+          "Gentle washing with lukewarm water and mild soap is correct care for irradiated skin.",
+          "Avoiding heat, cold, and sun protects the fragile, sensitive irradiated skin.",
+          "Loose, soft cotton clothing reduces friction on the treated skin."
+        ]
+      },
       {
         "stem": "A nurse on an oncology unit receives report on four clients. Which client should the nurse assess first?",
         "options": [
@@ -3512,6 +4015,174 @@ window.NCLEX_DATA = {
       }
     ],
     "neuro": [
+      {
+        "stem": "A nurse on a neurology unit receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "A client taking an SSRI who received sumatriptan and now has agitation, tremor, diaphoresis, hyperreflexia, and a temperature of 104°F (40°C)",
+          "A client with a tension headache requesting a PRN analgesic",
+          "A client with well-controlled epilepsy asking about a refill of levetiracetam",
+          "A client with chronic migraines scheduled for teaching about trigger avoidance"
+        ],
+        "answer": 0,
+        "explanations": [
+          "An SSRI combined with a triptan, plus agitation, hyperreflexia, diaphoresis, and high fever, indicates serotonin syndrome—a life-threatening emergency requiring immediate action. This client is the priority.",
+          "A tension headache with a PRN analgesic request is stable and non-urgent.",
+          "A routine refill request for a stable client is not time-sensitive.",
+          "Scheduled teaching can wait until the unstable client is assessed."
+        ]
+      },
+      {
+        "stem": "A client taking phenytoin has a serum level of 28 mcg/mL and reports double vision. The nurse notes nystagmus, slurred speech, and an unsteady gait. What is the nurse's best action?",
+        "options": [
+          "Hold the next dose and notify the provider",
+          "Administer the next dose as scheduled",
+          "Encourage additional fluids and recheck in 8 hours",
+          "Increase the dose to control the symptoms"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The therapeutic phenytoin range is about 10–20 mcg/mL. A level of 28 with nystagmus, diplopia, slurred speech, and ataxia indicates toxicity, so the nurse should hold the dose and notify the provider.",
+          "Giving another dose would worsen an already toxic level.",
+          "These are signs of toxicity that require holding the drug, not simply monitoring.",
+          "Increasing the dose would deepen the toxicity."
+        ]
+      },
+      {
+        "stem": "A client of Han Chinese (Asian) ancestry is scheduled to begin carbamazepine. Which action is most important before starting the drug?",
+        "options": [
+          "Verify that HLA-B*1502 genetic testing has been done",
+          "Confirm that the client has eaten a full breakfast",
+          "Teach the client that the urine may turn orange",
+          "Restrict the client's fluid intake"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The HLA-B*1502 allele, more common in people of Asian ancestry, greatly increases the risk of Stevens-Johnson syndrome and toxic epidermal necrolysis with carbamazepine, so testing is recommended before starting the drug in this population.",
+          "Taking the drug with food aids tolerability but is not the critical safety step here.",
+          "Carbamazepine does not characteristically turn the urine orange.",
+          "Fluid restriction is not indicated; carbamazepine can cause hyponatremia, so fluids are not withheld."
+        ]
+      },
+      {
+        "stem": "A client who takes an SSRI was given sumatriptan. Which findings would lead the nurse to suspect serotonin syndrome? Select all that apply.",
+        "options": [
+          "Agitation and confusion",
+          "Muscle rigidity with hyperreflexia or clonus",
+          "Diaphoresis and fever",
+          "Tremor",
+          "Bradycardia with warm, dry skin"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—altered mental status such as agitation and confusion is a core feature.",
+          "Correct—neuromuscular hyperactivity (rigidity, hyperreflexia, clonus) is characteristic.",
+          "Correct—autonomic instability produces diaphoresis and hyperthermia.",
+          "Correct—tremor reflects the neuromuscular excitability of serotonin excess.",
+          "Incorrect—serotonin syndrome causes tachycardia and diaphoresis, not bradycardia with dry skin."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A provider prescribes propranolol for migraine prevention. For which client should the nurse question this prescription?",
+        "options": [
+          "A client with a history of asthma",
+          "A client with a resting heart rate of 78",
+          "A client who also has hypertension",
+          "A client whose frequent migraines interfere with work"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Propranolol is a nonselective beta blocker that can trigger bronchoconstriction, so it should be questioned and generally avoided in clients with asthma or other bronchospastic disease.",
+          "A heart rate of 78 is within normal limits and does not contraindicate propranolol.",
+          "Coexisting hypertension is actually a reason propranolol may be beneficial.",
+          "Frequent, disabling migraines are an indication for prophylaxis, not a contraindication."
+        ]
+      },
+      {
+        "stem": "A client is having an acute cluster headache with severe pain behind one eye, tearing, and restlessness. Which treatment should the nurse anticipate for the acute attack?",
+        "options": [
+          "High-flow 100% oxygen by mask",
+          "A slow tapering course of oral corticosteroids over 2 weeks",
+          "A daily stool softener",
+          "Scheduled acetaminophen every 6 hours"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Inhaling high-flow 100% oxygen is a first-line, effective abortive treatment for an acute cluster headache; a triptan such as subcutaneous sumatriptan may also be used.",
+          "A slow steroid taper is not an abortive therapy for an attack lasting minutes to a few hours.",
+          "A stool softener has no role in treating cluster headache.",
+          "Scheduled acetaminophen is inadequate for the severe pain of an acute cluster attack."
+        ]
+      },
+      {
+        "stem": "A client has been taking a benzodiazepine for several weeks for anxiety-related insomnia. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "If it isn't working well, I'll just stop taking it all at once.",
+          "I will not drink alcohol while taking this medication.",
+          "I understand this medication is meant for short-term use.",
+          "I will avoid driving until I know how it affects me."
+        ],
+        "answer": 0,
+        "explanations": [
+          "This statement needs correction. Abruptly stopping a benzodiazepine after regular use can cause withdrawal—including rebound anxiety, insomnia, and seizures—so it must be tapered under provider guidance.",
+          "Avoiding alcohol is correct because it potentiates CNS and respiratory depression.",
+          "Benzodiazepines are intended for short-term use because of tolerance and dependence.",
+          "Avoiding driving until the effects are known is appropriate given the sedation."
+        ]
+      },
+      {
+        "stem": "A client taking valproic acid develops new lethargy, vomiting, and increasing confusion. The nurse should anticipate checking which laboratory value?",
+        "options": [
+          "Serum ammonia level",
+          "Serum calcium level",
+          "Serum potassium level",
+          "Serum chloride level"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Valproic acid can cause hyperammonemia, which produces lethargy, vomiting, and encephalopathy (confusion) even when liver enzymes and drug levels are normal. The nurse should anticipate checking the serum ammonia and notifying the provider.",
+          "Calcium changes are not the characteristic cause of valproate-induced encephalopathy.",
+          "Valproate is not typically associated with potassium-driven confusion.",
+          "Chloride abnormalities do not explain valproate-related encephalopathy."
+        ]
+      },
+      {
+        "stem": "A client is prescribed topiramate for migraine prevention. Which instruction is most important for the nurse to include?",
+        "options": [
+          "Drink plenty of fluids each day to reduce the risk of kidney stones.",
+          "Expect your appetite and weight to increase.",
+          "This medication makes hormonal birth control more effective.",
+          "Any tingling in the hands or feet means you must stop the drug immediately."
+        ],
+        "answer": 0,
+        "explanations": [
+          "Topiramate increases the risk of kidney stones, so clients should maintain a high fluid intake. Other common effects include paresthesias, weight loss, and word-finding difficulty, and it can reduce the effectiveness of oral contraceptives.",
+          "Topiramate typically causes decreased appetite and weight loss, not weight gain.",
+          "Topiramate can reduce, not increase, the effectiveness of hormonal contraceptives.",
+          "Paresthesia is a common, usually manageable effect and does not by itself require stopping the drug."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client who is starting levetiracetam. Which instruction is most important?",
+        "options": [
+          "Report irritability, mood changes, depression, or thoughts of self-harm.",
+          "Expect your urine to turn bright orange.",
+          "Take the medication only when you feel a seizure coming on.",
+          "Stop the medication as soon as you feel better."
+        ],
+        "answer": 0,
+        "explanations": [
+          "Levetiracetam can cause behavioral and mood changes, including irritability, agitation, depression, and suicidal ideation, so the client should report these promptly.",
+          "Levetiracetam does not turn the urine orange.",
+          "Antiepileptic drugs are taken on a scheduled basis to prevent seizures, not only at symptom onset.",
+          "Abruptly stopping an antiepileptic can precipitate seizures or status epilepticus."
+        ]
+      },
       {
         "stem": "A nurse in a clinic must decide which client to assess first. Which client is the priority?",
         "options": [

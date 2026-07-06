@@ -3,6 +3,195 @@
   "label": "Migraine · Insomnia · Seizures",
   "questions": [
     {
+      "stem": "A nurse on a neurology unit receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A client taking an SSRI who received sumatriptan and now has agitation, tremor, diaphoresis, hyperreflexia, and a temperature of 104°F (40°C)",
+        "A client with a tension headache requesting a PRN analgesic",
+        "A client with well-controlled epilepsy asking about a refill of levetiracetam",
+        "A client with chronic migraines scheduled for teaching about trigger avoidance"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "An SSRI combined with a triptan, plus agitation, hyperreflexia, diaphoresis, and high fever, indicates serotonin syndrome—a life-threatening emergency requiring immediate action. This client is the priority.",
+        "incorrect": [
+          "A tension headache with a PRN analgesic request is stable and non-urgent.",
+          "A routine refill request for a stable client is not time-sensitive.",
+          "Scheduled teaching can wait until the unstable client is assessed."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking phenytoin has a serum level of 28 mcg/mL and reports double vision. The nurse notes nystagmus, slurred speech, and an unsteady gait. What is the nurse's best action?",
+      "options": [
+        "Hold the next dose and notify the provider",
+        "Administer the next dose as scheduled",
+        "Encourage additional fluids and recheck in 8 hours",
+        "Increase the dose to control the symptoms"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The therapeutic phenytoin range is about 10–20 mcg/mL. A level of 28 with nystagmus, diplopia, slurred speech, and ataxia indicates toxicity, so the nurse should hold the dose and notify the provider.",
+        "incorrect": [
+          "Giving another dose would worsen an already toxic level.",
+          "These are signs of toxicity that require holding the drug, not simply monitoring.",
+          "Increasing the dose would deepen the toxicity."
+        ]
+      }
+    },
+    {
+      "stem": "A client of Han Chinese (Asian) ancestry is scheduled to begin carbamazepine. Which action is most important before starting the drug?",
+      "options": [
+        "Verify that HLA-B*1502 genetic testing has been done",
+        "Confirm that the client has eaten a full breakfast",
+        "Teach the client that the urine may turn orange",
+        "Restrict the client's fluid intake"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The HLA-B*1502 allele, more common in people of Asian ancestry, greatly increases the risk of Stevens-Johnson syndrome and toxic epidermal necrolysis with carbamazepine, so testing is recommended before starting the drug in this population.",
+        "incorrect": [
+          "Taking the drug with food aids tolerability but is not the critical safety step here.",
+          "Carbamazepine does not characteristically turn the urine orange.",
+          "Fluid restriction is not indicated; carbamazepine can cause hyponatremia, so fluids are not withheld."
+        ]
+      }
+    },
+    {
+      "stem": "A client who takes an SSRI was given sumatriptan. Which findings would lead the nurse to suspect serotonin syndrome? Select all that apply.",
+      "options": [
+        "Agitation and confusion",
+        "Muscle rigidity with hyperreflexia or clonus",
+        "Diaphoresis and fever",
+        "Tremor",
+        "Bradycardia with warm, dry skin"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Serotonin syndrome features altered mental status, neuromuscular hyperactivity (hyperreflexia/clonus, rigidity, tremor), and autonomic signs (diaphoresis, fever, tachycardia); bradycardia with dry skin does not fit.",
+        "incorrect": [
+          "Correct—altered mental status such as agitation and confusion is a core feature.",
+          "Correct—neuromuscular hyperactivity (rigidity, hyperreflexia, clonus) is characteristic.",
+          "Correct—autonomic instability produces diaphoresis and hyperthermia.",
+          "Correct—tremor reflects the neuromuscular excitability of serotonin excess.",
+          "Incorrect—serotonin syndrome causes tachycardia and diaphoresis, not bradycardia with dry skin."
+        ]
+      }
+    },
+    {
+      "stem": "A provider prescribes propranolol for migraine prevention. For which client should the nurse question this prescription?",
+      "options": [
+        "A client with a history of asthma",
+        "A client with a resting heart rate of 78",
+        "A client who also has hypertension",
+        "A client whose frequent migraines interfere with work"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Propranolol is a nonselective beta blocker that can trigger bronchoconstriction, so it should be questioned and generally avoided in clients with asthma or other bronchospastic disease.",
+        "incorrect": [
+          "A heart rate of 78 is within normal limits and does not contraindicate propranolol.",
+          "Coexisting hypertension is actually a reason propranolol may be beneficial.",
+          "Frequent, disabling migraines are an indication for prophylaxis, not a contraindication."
+        ]
+      }
+    },
+    {
+      "stem": "A client is having an acute cluster headache with severe pain behind one eye, tearing, and restlessness. Which treatment should the nurse anticipate for the acute attack?",
+      "options": [
+        "High-flow 100% oxygen by mask",
+        "A slow tapering course of oral corticosteroids over 2 weeks",
+        "A daily stool softener",
+        "Scheduled acetaminophen every 6 hours"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Inhaling high-flow 100% oxygen is a first-line, effective abortive treatment for an acute cluster headache; a triptan such as subcutaneous sumatriptan may also be used.",
+        "incorrect": [
+          "A slow steroid taper is not an abortive therapy for an attack lasting minutes to a few hours.",
+          "A stool softener has no role in treating cluster headache.",
+          "Scheduled acetaminophen is inadequate for the severe pain of an acute cluster attack."
+        ]
+      }
+    },
+    {
+      "stem": "A client has been taking a benzodiazepine for several weeks for anxiety-related insomnia. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "If it isn't working well, I'll just stop taking it all at once.",
+        "I will not drink alcohol while taking this medication.",
+        "I understand this medication is meant for short-term use.",
+        "I will avoid driving until I know how it affects me."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "This statement needs correction. Abruptly stopping a benzodiazepine after regular use can cause withdrawal—including rebound anxiety, insomnia, and seizures—so it must be tapered under provider guidance.",
+        "incorrect": [
+          "Avoiding alcohol is correct because it potentiates CNS and respiratory depression.",
+          "Benzodiazepines are intended for short-term use because of tolerance and dependence.",
+          "Avoiding driving until the effects are known is appropriate given the sedation."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking valproic acid develops new lethargy, vomiting, and increasing confusion. The nurse should anticipate checking which laboratory value?",
+      "options": [
+        "Serum ammonia level",
+        "Serum calcium level",
+        "Serum potassium level",
+        "Serum chloride level"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Valproic acid can cause hyperammonemia, which produces lethargy, vomiting, and encephalopathy (confusion) even when liver enzymes and drug levels are normal. The nurse should anticipate checking the serum ammonia and notifying the provider.",
+        "incorrect": [
+          "Calcium changes are not the characteristic cause of valproate-induced encephalopathy.",
+          "Valproate is not typically associated with potassium-driven confusion.",
+          "Chloride abnormalities do not explain valproate-related encephalopathy."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed topiramate for migraine prevention. Which instruction is most important for the nurse to include?",
+      "options": [
+        "Drink plenty of fluids each day to reduce the risk of kidney stones.",
+        "Expect your appetite and weight to increase.",
+        "This medication makes hormonal birth control more effective.",
+        "Any tingling in the hands or feet means you must stop the drug immediately."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Topiramate increases the risk of kidney stones, so clients should maintain a high fluid intake. Other common effects include paresthesias, weight loss, and word-finding difficulty, and it can reduce the effectiveness of oral contraceptives.",
+        "incorrect": [
+          "Topiramate typically causes decreased appetite and weight loss, not weight gain.",
+          "Topiramate can reduce, not increase, the effectiveness of hormonal contraceptives.",
+          "Paresthesia is a common, usually manageable effect and does not by itself require stopping the drug."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client who is starting levetiracetam. Which instruction is most important?",
+      "options": [
+        "Report irritability, mood changes, depression, or thoughts of self-harm.",
+        "Expect your urine to turn bright orange.",
+        "Take the medication only when you feel a seizure coming on.",
+        "Stop the medication as soon as you feel better."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Levetiracetam can cause behavioral and mood changes, including irritability, agitation, depression, and suicidal ideation, so the client should report these promptly.",
+        "incorrect": [
+          "Levetiracetam does not turn the urine orange.",
+          "Antiepileptic drugs are taken on a scheduled basis to prevent seizures, not only at symptom onset.",
+          "Abruptly stopping an antiepileptic can precipitate seizures or status epilepticus."
+        ]
+      }
+    },
+    {
       "stem": "A nurse in a clinic must decide which client to assess first. Which client is the priority?",
       "options": [
         "A client with a sudden 'worst headache of my life' that peaked within seconds, with neck stiffness and vomiting",

@@ -3,6 +3,195 @@
   "label": "Neoplasms & Cancer",
   "questions": [
     {
+      "stem": "Two days after starting chemotherapy for a high-tumor-burden acute leukemia, a client has these labs: potassium 6.2 mEq/L, phosphorus 6.8 mg/dL, calcium 7.0 mg/dL, and uric acid 11 mg/dL. The nurse recognizes these findings as:",
+      "options": [
+        "Tumor lysis syndrome",
+        "An expected chemotherapy response that needs no action",
+        "Dehydration from poor oral intake",
+        "A laboratory error, since these values are unrelated"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Rapid death of tumor cells releases their intracellular contents, producing hyperkalemia, hyperphosphatemia, hyperuricemia, and (as phosphate binds calcium) hypocalcemia—tumor lysis syndrome. It can cause fatal arrhythmias and acute kidney injury and requires aggressive hydration, urate-lowering therapy, and cardiac monitoring.",
+        "incorrect": [
+          "These dangerous electrolyte derangements are not a benign, expected response and require urgent action.",
+          "Dehydration does not produce this specific pattern of hyperkalemia, hyperphosphatemia, and hyperuricemia.",
+          "The values form the classic, related pattern of tumor lysis syndrome, not random error."
+        ]
+      }
+    },
+    {
+      "stem": "A client at high risk for tumor lysis syndrome is starting induction chemotherapy. Which prescription should the nurse question?",
+      "options": [
+        "Aggressive IV isotonic fluid hydration",
+        "Allopurinol",
+        "Add potassium chloride to the maintenance IV fluids",
+        "Frequent monitoring of potassium, phosphorus, calcium, and uric acid"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "Tumor lysis releases large amounts of intracellular potassium, so these clients are prone to life-threatening hyperkalemia. Adding potassium to IV fluids is unsafe and should be questioned; management centers on hydration, urate-lowering drugs, and close monitoring.",
+        "incorrect": [
+          "Aggressive hydration protects the kidneys and promotes excretion of uric acid and potassium.",
+          "Allopurinol lowers uric acid production to prevent urate nephropathy.",
+          "Frequent electrolyte monitoring is essential to detect tumor lysis early."
+        ]
+      }
+    },
+    {
+      "stem": "A client with metastatic prostate cancer reports new, worsening mid-back pain, bilateral leg weakness, and difficulty urinating. What is the nurse's priority action?",
+      "options": [
+        "Notify the provider immediately, as these findings suggest spinal cord compression",
+        "Encourage the client to rest and reassess in the morning",
+        "Administer a PRN laxative for the urinary difficulty",
+        "Apply a warm pack to the back for comfort"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "New back pain with leg weakness and bladder dysfunction in a client with bone-metastasizing cancer signals malignant spinal cord compression—an oncologic emergency. Prompt corticosteroids and radiation or surgery are needed to prevent permanent paralysis, so the provider must be notified at once.",
+        "incorrect": [
+          "Delaying care risks irreversible paralysis; these are emergency neurologic findings.",
+          "The urinary difficulty is neurologic (cord compression), not constipation, so a laxative does not address it.",
+          "A warm pack treats comfort but ignores a limb- and function-threatening emergency."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a mediastinal lung tumor develops swelling of the face and neck, distended neck veins, and dyspnea that worsens when lying flat. The nurse recognizes these findings as:",
+      "options": [
+        "Superior vena cava syndrome",
+        "An allergic reaction to chemotherapy",
+        "Fluid overload from IV hydration",
+        "A normal tumor effect that needs no intervention"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A tumor compressing the superior vena cava obstructs venous return from the head and upper body, causing facial and neck swelling, distended neck veins, and dyspnea—superior vena cava syndrome. The nurse should elevate the head of the bed and notify the provider for urgent treatment.",
+        "incorrect": [
+          "An allergic reaction causes urticaria, wheezing, and hypotension rather than isolated upper-body venous congestion.",
+          "Fluid overload produces generalized edema and crackles, not this localized upper-body venous pattern.",
+          "These findings indicate a serious venous obstruction requiring prompt intervention, not observation."
+        ]
+      }
+    },
+    {
+      "stem": "A client with bone-metastatic breast cancer is increasingly lethargic and confused, with constipation, excessive thirst, and frequent urination. The serum calcium is 13.5 mg/dL. Which intervention should the nurse anticipate first?",
+      "options": [
+        "Intravenous isotonic (0.9%) saline infusion",
+        "Restricting the client's fluids",
+        "Administering IV calcium gluconate",
+        "Encouraging a high-calcium diet"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bone metastases release calcium, causing hypercalcemia with lethargy, confusion, constipation, polyuria, and polydipsia. Initial treatment is aggressive IV isotonic fluids to restore volume and promote calcium excretion, followed by drugs such as bisphosphonates or calcitonin.",
+        "incorrect": [
+          "Fluid restriction worsens hypercalcemia; these clients are volume-depleted and need fluids.",
+          "Giving calcium would further raise an already dangerously high level.",
+          "Increasing dietary calcium is contraindicated in hypercalcemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with small cell lung cancer has a serum sodium of 118 mEq/L with confusion and is diagnosed with the syndrome of inappropriate antidiuretic hormone (SIADH). Which intervention should the nurse anticipate?",
+      "options": [
+        "Fluid restriction",
+        "A rapid infusion of hypotonic fluids",
+        "Encouraging the client to drink large amounts of water",
+        "Withholding all sodium from the diet"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In SIADH, excess ADH causes water retention and dilutional hyponatremia, so the mainstay of treatment is fluid restriction. Severe, symptomatic hyponatremia may require careful hypertonic (3%) saline—not hypotonic fluids.",
+        "incorrect": [
+          "Hypotonic fluids add free water and lower the sodium further.",
+          "Drinking large amounts of water worsens the dilutional hyponatremia.",
+          "The problem is water excess, not dietary sodium deficiency; severe cases need sodium, not restriction."
+        ]
+      }
+    },
+    {
+      "stem": "During an IV infusion of a chemotherapy agent, a client suddenly develops facial flushing, wheezing, back pain, and a falling blood pressure. Which action should the nurse take first?",
+      "options": [
+        "Stop the chemotherapy infusion immediately",
+        "Slow the infusion rate and continue",
+        "Administer the next scheduled antiemetic",
+        "Document the reaction and finish the infusion"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Flushing, wheezing, back pain, and hypotension during a chemotherapy infusion indicate a hypersensitivity/anaphylactic reaction. The first action is to stop the infusion (keeping IV access open with saline), then notify the provider and give emergency medications as ordered.",
+        "incorrect": [
+          "Slowing the infusion continues to deliver the causative drug during a serious reaction.",
+          "An antiemetic does not treat a hypersensitivity reaction and delays stopping the cause.",
+          "Completing the infusion during anaphylaxis is dangerous."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client who is receiving chemotherapy. Which precautions for handling the client's body fluids and excreta are appropriate? Select all that apply.",
+      "options": [
+        "Wear gloves, and a gown when splashing is possible, when handling urine, stool, or emesis",
+        "Treat body fluids as hazardous for about 48 hours after a dose",
+        "Flush the toilet with the lid closed after the client uses it",
+        "Discard chemotherapy waste in a designated hazardous-drug container",
+        "Handle the client's excreta with bare hands as long as the hands are washed afterward"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Use gloves and a gown, treat excreta as hazardous for about 48 hours, flush with the lid down, and use hazardous-drug waste containers; excreta should never be handled bare-handed.",
+        "incorrect": [
+          "Correct—gloves and a gown protect the nurse from cytotoxic drug residue in body fluids.",
+          "Correct—chemotherapy and its metabolites are excreted for roughly 48 hours, so fluids are hazardous during that time.",
+          "Correct—closing the lid before flushing prevents aerosolizing cytotoxic residue.",
+          "Correct—cytotoxic waste belongs in labeled hazardous-drug containers, not regular trash.",
+          "Incorrect—bare-handed contact exposes the nurse to cytotoxic drugs; gloves are required."
+        ]
+      }
+    },
+    {
+      "stem": "A client is scheduled to receive rasburicase to prevent tumor lysis syndrome. Which client history is most important for the nurse to verify before administration?",
+      "options": [
+        "Glucose-6-phosphate dehydrogenase (G6PD) deficiency",
+        "A history of seasonal allergies",
+        "Lactose intolerance",
+        "A family history of hypertension"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Rasburicase can cause severe hemolysis and methemoglobinemia in clients with G6PD deficiency, so it is contraindicated in that condition. The nurse must verify G6PD status before giving it.",
+        "incorrect": [
+          "Seasonal allergies are not a contraindication to rasburicase.",
+          "Lactose intolerance is unrelated to rasburicase safety.",
+          "A family history of hypertension does not affect rasburicase administration."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving external beam radiation therapy is taught how to care for the irradiated skin. Which statement indicates a need for further teaching?",
+      "options": [
+        "I can scrub off the treatment field markings when I shower.",
+        "I will wash the area gently with lukewarm water and mild soap.",
+        "I will avoid heating pads, ice packs, and direct sun on the area.",
+        "I will wear loose, soft cotton clothing over the site."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "This statement needs correction. Skin markings guide precise targeting of the radiation and must not be scrubbed off until the provider says the treatment course allows it.",
+        "incorrect": [
+          "Gentle washing with lukewarm water and mild soap is correct care for irradiated skin.",
+          "Avoiding heat, cold, and sun protects the fragile, sensitive irradiated skin.",
+          "Loose, soft cotton clothing reduces friction on the treated skin."
+        ]
+      }
+    },
+    {
       "stem": "A nurse on an oncology unit receives report on four clients. Which client should the nurse assess first?",
       "options": [
         "A client with an absolute neutrophil count of 400/mm³ and a temperature of 100.6°F (38.1°C)",
