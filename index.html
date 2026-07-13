@@ -136,6 +136,28 @@
 
     .list-label { color: var(--ink-faint); margin: 2.25rem 0 0.25rem; display: block; }
 
+    .course-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin: 2.5rem 0 0.5rem;
+    }
+    .course-head .caps { color: var(--accent); }
+    .course-total {
+      color: var(--ink-faint);
+      font-size: 0.72rem;
+      font-variant-numeric: tabular-nums;
+      letter-spacing: 0.02em;
+      white-space: nowrap;
+    }
+
+    .topic-row--all {
+      border-bottom-color: var(--line);
+      margin-top: 0.5rem;
+    }
+    .topic-row--all .topic-name { font-style: italic; }
+
     .topic-row {
       display: flex;
       align-items: baseline;
@@ -443,6 +465,15 @@ const DATA = window.NCLEX_DATA || { labels: {}, banks: {} };
 const TOPIC_LABELS = DATA.labels;
 const QUESTIONS = DATA.banks;
 
+// Course groupings for the start screen. Membership follows the bank-key
+// convention: med-surg-* banks are Med-Surg, everything else is Pathopharm.
+// `strip` removes the redundant course prefix from a bank's display name,
+// since the section header already names the course.
+const COURSE_GROUPS = [
+  { label: "Pathopharmacology", match: k => !k.startsWith("med-surg-") },
+  { label: "Med-Surg", match: k => k.startsWith("med-surg-"), strip: /^Med-Surg:\s*/ },
+];
+
 const state = {
   view: "start",       // start | quiz | results
   topic: null,         // topic key, or "all"
@@ -534,26 +565,45 @@ function render() {
 
 function renderStart() {
   const total = allQuestions().length;
-  const topicRows = Object.entries(QUESTIONS).map(([key, qs]) => `
-    <button class="topic-row" onclick="startSession('${key}')">
-      <span class="topic-name">${TOPIC_LABELS[key]}</span>
-      <span class="topic-meta">${qs.length} questions <span class="arrow">&rarr;</span></span>
-    </button>`).join("");
+
+  const groupsHtml = COURSE_GROUPS.map(group => {
+    const entries = Object.entries(QUESTIONS).filter(([key]) => group.match(key));
+    if (!entries.length) return "";
+    const courseTotal = entries.reduce((n, [, qs]) => n + qs.length, 0);
+    const rows = entries.map(([key, qs]) => {
+      const name = group.strip
+        ? TOPIC_LABELS[key].replace(group.strip, "")
+        : TOPIC_LABELS[key];
+      return `
+      <button class="topic-row" onclick="startSession('${key}')">
+        <span class="topic-name">${name}</span>
+        <span class="topic-meta">${qs.length} questions <span class="arrow">&rarr;</span></span>
+      </button>`;
+    }).join("");
+    return `
+    <div class="course-head">
+      <span class="caps">${group.label}</span>
+      <span class="course-total">${courseTotal} questions</span>
+    </div>
+    ${rows}`;
+  }).join("");
+
+  const courseCount = COURSE_GROUPS.filter(g =>
+    Object.keys(QUESTIONS).some(k => g.match(k))).length;
 
   $("main").innerHTML = `
     <div class="masthead">
       <span class="caps">Question Bank</span>
       <h1>NCLEX <em>Practice</em></h1>
-      <p class="sub">${total} questions with full rationales, across ${Object.keys(QUESTIONS).length} topics.</p>
+      <p class="sub">${total} questions with full rationales, across ${Object.keys(QUESTIONS).length} topics in ${courseCount} courses.</p>
     </div>
 
-    <button class="topic-row" onclick="startSession('all', true)">
+    <button class="topic-row topic-row--all" onclick="startSession('all', true)">
       <span class="topic-name">All questions</span>
       <span class="topic-meta">${total} · shuffled <span class="arrow">&rarr;</span></span>
     </button>
 
-    <span class="caps list-label">By topic</span>
-    ${topicRows}
+    ${groupsHtml}
 
     <p class="hint">Tip: answer with <kbd>A</kbd>&ndash;<kbd>E</kbd>, move with <kbd>&larr;</kbd> <kbd>&rarr;</kbd>.</p>
   `;
