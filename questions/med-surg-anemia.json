@@ -3,6 +3,377 @@
   "label": "Med-Surg: Anemia",
   "questions": [
     {
+      "stem": "A client recovering from a GI bleed has a rising reticulocyte count. How does the nurse interpret this finding?",
+      "options": [
+        "The bone marrow is responding appropriately by producing new red blood cells",
+        "The bone marrow is failing to produce red blood cells",
+        "The client has developed iron deficiency",
+        "The client needs an immediate transfusion"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Reticulocytes are immature RBCs; a rising count shows the marrow is responding appropriately to the blood loss by making new red cells — an expected, reassuring recovery cue.",
+        "incorrect": [
+          "A low, not rising, reticulocyte count indicates the marrow is failing to produce RBCs.",
+          "Reticulocytosis reflects marrow response, not iron deficiency, which typically shows a low reticulocyte response.",
+          "A healthy marrow response does not by itself indicate a need for transfusion."
+        ]
+      }
+    },
+    {
+      "stem": "A client is suspected of having autoimmune hemolytic anemia. Which test does the nurse expect to confirm immune destruction of red blood cells?",
+      "options": [
+        "Direct Coombs (antiglobulin) test",
+        "Serum ferritin",
+        "Total iron-binding capacity (TIBC)",
+        "Serum folate"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The direct Coombs (antiglobulin) test detects antibodies attached to the client's own RBCs and is used when hemolytic anemia (immune RBC destruction) is suspected.",
+        "incorrect": [
+          "Ferritin assesses iron stores, not immune-mediated hemolysis.",
+          "TIBC evaluates iron-binding capacity in iron deficiency, not hemolysis.",
+          "Serum folate evaluates megaloblastic anemia, not hemolysis."
+        ]
+      }
+    },
+    {
+      "stem": "Immediately after a bone marrow biopsy from the posterior iliac crest, which nursing action is the priority?",
+      "options": [
+        "Apply pressure to the site and monitor for bleeding",
+        "Keep the client NPO for 6 hours",
+        "Encourage vigorous ambulation right away",
+        "Position the client prone for 2 hours"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The biopsy penetrates the marrow, so the post-procedure priority is to apply pressure and monitor the site for bleeding and hematoma, along with pain management.",
+        "incorrect": [
+          "A bone marrow biopsy uses local anesthetic and does not require prolonged NPO status.",
+          "Vigorous activity right after the procedure can worsen bleeding at the site.",
+          "There is no need to keep the client prone for hours; monitoring for bleeding is the priority."
+        ]
+      }
+    },
+    {
+      "stem": "A client with aplastic anemia has a platelet count of 18,000/mm3. Which prescription should the nurse question?",
+      "options": [
+        "Administer ketorolac 30 mg IM for pain",
+        "Use a soft-bristle toothbrush for oral care",
+        "Hold firm pressure after any venipuncture",
+        "Avoid rectal temperature measurement"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "With severe thrombocytopenia an IM injection risks bleeding, and ketorolac is an NSAID that impairs platelet function — this doubly unsafe order must be questioned; a non-NSAID by a safer route is appropriate.",
+        "incorrect": [
+          "A soft-bristle toothbrush is a correct bleeding precaution.",
+          "Holding firm pressure after venipuncture is a correct bleeding precaution.",
+          "Avoiding rectal temperatures prevents mucosal bleeding and is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A client's hemoglobin is 5.6 g/dL. Which assessment finding does the nurse most expect?",
+      "options": [
+        "Cardiopulmonary symptoms such as dyspnea and tachycardia at rest",
+        "No symptoms because the body fully compensates",
+        "Symptoms only with vigorous exercise",
+        "Improved oxygen delivery to the tissues"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hemoglobin below 6 g/dL is severe anemia; with oxygen-carrying capacity this low, multiple body systems are affected and symptoms occur at rest, including cardiopulmonary strain.",
+        "incorrect": [
+          "Severe anemia is not fully compensated; symptoms are present even at rest.",
+          "Symptoms only with vigorous exertion describe mild anemia (Hgb 10–14), not a level of 5.6.",
+          "Low hemoglobin reduces, not improves, oxygen delivery."
+        ]
+      }
+    },
+    {
+      "stem": "For which client is intravenous iron, rather than oral iron, most appropriate?",
+      "options": [
+        "A client with malabsorption from Crohn's disease who cannot absorb oral iron",
+        "A client with mild iron deficiency who tolerates oral iron",
+        "A client who prefers not to swallow pills",
+        "A client with normal iron stores who wants a supplement"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "IV iron is reserved for clients who cannot absorb or tolerate oral iron or have severe deficiency; malabsorption (e.g., Crohn's, gastric surgery) is a classic indication.",
+        "incorrect": [
+          "Mild deficiency with tolerated oral iron is treated with first-line oral iron.",
+          "Preference alone does not justify IV iron when oral iron is effective and safer.",
+          "A client with normal iron stores does not need iron replacement at all."
+        ]
+      }
+    },
+    {
+      "stem": "A parent taking oral iron makes these statements. Which one indicates a need for further teaching?",
+      "options": [
+        "I keep my iron pills in a candy dish on the counter so I remember them.",
+        "I store my iron in a locked cabinet away from my children.",
+        "I take my iron with orange juice.",
+        "I expect my stools to turn dark."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Iron overdose can be fatal to children, so supplements must be kept out of reach; leaving pills in an accessible candy dish is unsafe and needs correction.",
+        "incorrect": [
+          "Storing iron locked away from children is correct and safe.",
+          "Taking iron with vitamin C (orange juice) enhances absorption — correct.",
+          "Dark stools are an expected effect of oral iron — correct."
+        ]
+      }
+    },
+    {
+      "stem": "A strict vegan has a mild vitamin B12 deficiency, and GI absorption is intact. Which treatment does the nurse anticipate?",
+      "options": [
+        "Oral vitamin B12 supplementation and B12-rich or fortified foods",
+        "Lifelong intramuscular B12 injections",
+        "Oral folic acid supplementation",
+        "Oral iron supplementation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "When B12 deficiency is due to dietary intake with intact absorption (as in a vegan), oral B12 supplementation is effective; injections are needed only when absorption is impaired.",
+        "incorrect": [
+          "Lifelong IM B12 is required for pernicious anemia or malabsorption, not simple dietary deficiency.",
+          "Folic acid treats folate deficiency, not B12 deficiency.",
+          "Iron treats microcytic iron deficiency, not this macrocytic B12 deficiency."
+        ]
+      }
+    },
+    {
+      "stem": "A hospitalized client with alcohol use disorder has macrocytic anemia, low serum folate, and no neurologic symptoms. Which treatment does the nurse anticipate?",
+      "options": [
+        "Oral folic acid supplementation and addressing the alcohol use",
+        "Lifelong IM vitamin B12 injections",
+        "Oral iron supplementation",
+        "Immediate blood transfusion"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Alcohol use disorder is the most common cause of folate deficiency; treatment is oral folic acid plus addressing the underlying alcohol use. The absence of neurologic signs points to folate rather than B12.",
+        "incorrect": [
+          "IM B12 is for pernicious anemia or malabsorption; folate deficiency responds to oral folic acid.",
+          "Iron treats microcytic iron deficiency, not this macrocytic folate deficiency.",
+          "Transfusion is reserved for severe or symptomatic anemia, not routine folate deficiency."
+        ]
+      }
+    },
+    {
+      "stem": "A client with pernicious anemia is receiving intramuscular vitamin B12. Which statement indicates correct understanding?",
+      "options": [
+        "I will need these injections for the rest of my life.",
+        "I can stop the injections once my energy returns.",
+        "I can switch to oral B12 tablets once I feel better.",
+        "I only need the injections during flare-ups."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Pernicious anemia lacks intrinsic factor, so oral B12 cannot be absorbed and lifelong IM B12 is required — this statement shows correct understanding of ongoing therapy.",
+        "incorrect": [
+          "Stopping injections when energy returns allows the deficiency and neurologic damage to recur.",
+          "Oral B12 cannot be absorbed without intrinsic factor, so switching to tablets is incorrect.",
+          "Pernicious anemia is not a flare condition; injections are continuous and lifelong."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse initiates a packed red blood cell transfusion. During the first 15 minutes, what is the priority nursing action?",
+      "options": [
+        "Remain with the client and monitor closely, running the blood slowly",
+        "Leave to complete other charting and return in 30 minutes",
+        "Infuse the unit as rapidly as possible",
+        "Delay obtaining vital signs until the unit is complete"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Most severe transfusion reactions occur early, so the nurse stays with the client and monitors closely during the first 15 minutes, infusing slowly during that window.",
+        "incorrect": [
+          "Leaving the client during the highest-risk period could delay recognition of a reaction.",
+          "Rapid infusion at the start increases the risk and severity of a reaction and fluid overload.",
+          "Vital signs are needed at baseline and during early monitoring, not deferred to the end."
+        ]
+      }
+    },
+    {
+      "stem": "During a transfusion, a client develops hives and itching but has no fever, dyspnea, or back pain. The nurse recognizes which type of reaction?",
+      "options": [
+        "Mild allergic (urticarial) reaction",
+        "Acute hemolytic reaction",
+        "Febrile reaction",
+        "Circulatory (fluid) overload"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hives and itching without fever, dyspnea, or flank pain indicate a mild allergic (urticarial) reaction; the nurse pauses the transfusion, assesses, and anticipates an antihistamine per protocol.",
+        "incorrect": [
+          "An acute hemolytic reaction presents with fever, chills, flank pain, and hypotension.",
+          "A febrile reaction presents with fever and chills, not isolated hives.",
+          "Circulatory overload presents with dyspnea, crackles, and hypertension, not urticaria."
+        ]
+      }
+    },
+    {
+      "stem": "An older adult with anemia (Hgb 6.2 g/dL) and coronary artery disease reports new chest pain. How does the nurse interpret this?",
+      "options": [
+        "Myocardial ischemia from inadequate oxygen delivery — a priority to address",
+        "An expected discomfort that requires no action",
+        "Anxiety unrelated to the anemia",
+        "A musculoskeletal strain"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Severe anemia reduces oxygen delivery to the myocardium; in a client with CAD this can cause angina or myocardial infarction, so new chest pain is a priority cue requiring immediate action (ECG, oxygen, notify provider).",
+        "incorrect": [
+          "Chest pain in severe anemia with CAD is never simply expected; it signals cardiac hypoxia.",
+          "Attributing chest pain to anxiety risks missing a life-threatening cardiac event.",
+          "Assuming a musculoskeletal cause without evaluation is unsafe in this high-risk client."
+        ]
+      }
+    },
+    {
+      "stem": "A client with secondary polycythemia caused by COPD and smoking asks how to reduce excess red blood cell production. Which teaching is the priority?",
+      "options": [
+        "Stop smoking and manage the underlying lung disease to correct chronic hypoxia",
+        "Increase dietary iron intake",
+        "Restrict all fluids",
+        "Maintain strict bed rest"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Secondary polycythemia is a compensatory response to chronic hypoxia; treating the cause — smoking cessation and managing COPD — reduces the hypoxic drive for excess RBC production.",
+        "incorrect": [
+          "More iron would support additional RBC production, worsening the hyperviscosity.",
+          "Fluid restriction thickens the blood further and raises clot risk.",
+          "Immobility increases the risk of thrombosis in already viscous blood."
+        ]
+      }
+    },
+    {
+      "stem": "A dehydrated client has an elevated hemoglobin and hematocrit that normalize after rehydration. Which type of polycythemia does this represent?",
+      "options": [
+        "Relative polycythemia from decreased plasma volume",
+        "Polycythemia vera",
+        "Secondary polycythemia from chronic hypoxia",
+        "Aplastic anemia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Relative polycythemia results from reduced plasma volume (dehydration), so the Hgb/Hct only appear elevated and normalize with rehydration — there is no true increase in red cell mass.",
+        "incorrect": [
+          "Polycythemia vera is a bone marrow disorder with a true increase in RBCs that does not resolve with fluids.",
+          "Secondary polycythemia is a real RBC increase driven by chronic hypoxia, not dehydration.",
+          "Aplastic anemia is marrow failure with low counts — the opposite picture."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing a client with unexplained anemia for signs of active or occult bleeding. Which findings should the nurse report as possible bleeding? Select all that apply.",
+      "options": [
+        "Black, tarry stools (melena)",
+        "Bright red blood per rectum (hematochezia)",
+        "Coffee-ground emesis",
+        "Vomiting bright red blood (hematemesis)",
+        "Formed brown stool while taking oral iron",
+        "A ruddy, flushed facial complexion"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Melena, hematochezia, coffee-ground emesis, and hematemesis all indicate GI bleeding and must be reported. Dark stool from oral iron is expected, and a ruddy complexion is not a bleeding sign.",
+        "incorrect": [
+          "Correct—melena (black, tarry stool) indicates GI bleeding.",
+          "Correct—hematochezia (bright red rectal blood) indicates bleeding.",
+          "Correct—coffee-ground emesis indicates upper GI bleeding.",
+          "Correct—hematemesis (vomiting blood) indicates active bleeding.",
+          "Incorrect—formed dark stool while taking oral iron is an expected effect, not bleeding.",
+          "Incorrect—a ruddy complexion is associated with polycythemia, not bleeding."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving an erythropoiesis-stimulating agent for CKD anemia has a poor hemoglobin response. Which lab should the nurse evaluate, because it is required for red blood cell production?",
+      "options": [
+        "Iron studies (ferritin and serum iron)",
+        "Serum potassium",
+        "Serum calcium",
+        "White blood cell count"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "ESAs stimulate the marrow, but adequate iron is required to build hemoglobin; a poor response often reflects inadequate iron stores, so iron studies should be evaluated.",
+        "incorrect": [
+          "Potassium is monitored in CKD but is not what limits RBC production in response to an ESA.",
+          "Calcium is relevant in CKD bone disease but does not explain a poor ESA response.",
+          "The WBC count does not reflect the iron needed for erythropoiesis."
+        ]
+      }
+    },
+    {
+      "stem": "Which assessment finding is characteristic of chronic iron deficiency anemia?",
+      "options": [
+        "Spoon-shaped nails (koilonychia) and craving ice (pica)",
+        "Numbness and tingling of the feet",
+        "Yellow-tinged sclera (jaundice)",
+        "An unsteady, staggering gait"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Koilonychia (spoon-shaped nails) and pica (especially ice craving) are classic findings of chronic iron deficiency, along with glossitis and pallor.",
+        "incorrect": [
+          "Paresthesias of the feet are neurologic signs of B12 deficiency, not iron deficiency.",
+          "Jaundice suggests hemolysis, not iron deficiency.",
+          "An ataxic gait reflects B12 deficiency, not iron deficiency."
+        ]
+      }
+    },
+    {
+      "stem": "A client has slow, chronic GI blood loss over several months. Which clinical presentation does the nurse most expect?",
+      "options": [
+        "Gradual fatigue, weakness, and pallor with vague anemia symptoms",
+        "Sudden hypotension and hypovolemic shock",
+        "A ruddy complexion and hypertension",
+        "No changes because chronic loss is harmless"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "With gradual blood loss the body has time to compensate, so clients present with the vague general signs of anemia (fatigue, weakness, pallor) rather than the shock seen in acute hemorrhage.",
+        "incorrect": [
+          "Sudden hypotension and shock characterize acute, rapid blood loss, not slow chronic loss.",
+          "A ruddy complexion and hypertension suggest polycythemia, not anemia from blood loss.",
+          "Chronic blood loss commonly causes iron deficiency anemia and is not harmless."
+        ]
+      }
+    },
+    {
+      "stem": "A client with symptomatic anemia is receiving supplemental oxygen. Which statement by the nurse is accurate?",
+      "options": [
+        "Oxygen helps relieve symptoms, but correcting the underlying cause is the definitive treatment",
+        "Oxygen therapy will cure the anemia",
+        "Oxygen eliminates the need for any transfusion",
+        "Oxygen replaces the need to treat iron or B12 deficiency"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Oxygen provides symptom relief for hypoxia but does not correct the anemia; the definitive treatment is addressing the cause (iron, B12, folate, or transfusion). Oxygen is a bridge while treatment begins.",
+        "incorrect": [
+          "Oxygen does not cure anemia; it only supports oxygen delivery temporarily.",
+          "Oxygen does not replace a transfusion when one is clinically indicated.",
+          "Oxygen does not treat the underlying nutritional deficiency causing the anemia."
+        ]
+      }
+    },
+    {
       "stem": "A client reports fatigue and exertional dyspnea. Labs: Hgb 9.0 g/dL, MCV 74 fL (low), MCHC low, ferritin 7 ng/mL, serum iron low, TIBC elevated. How does the nurse interpret these findings?",
       "options": [
         "Iron deficiency anemia",
@@ -354,7 +725,13 @@
         "If taking liquid iron, use a straw and brush your teeth afterward.",
         "Increase fluids and dietary fiber to manage constipation."
       ],
-      "answer": [0, 2, 3, 4, 5],
+      "answer": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
       "type": "sata",
       "rationale": {
         "correct": "Vitamin C enhances absorption; dark stools are expected; iron is continued for months to rebuild stores; liquid iron is taken through a straw with brushing to prevent staining; and fluids and fiber counter constipation. Antacids block absorption and must be separated from iron.",

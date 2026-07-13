@@ -12,7 +12,7 @@ way to drill practice questions with clear rationales for every answer choice.
 
 ## What's inside
 
-The app currently has **353 practice questions** across six topic banks:
+The app currently has **393 practice questions** across six topic banks:
 
 | Topic | Questions |
 | --- | --- |
@@ -20,8 +20,8 @@ The app currently has **353 practice questions** across six topic banks:
 | Lower GI | 79 |
 | Neoplasms & Cancer | 99 |
 | Migraine · Insomnia · Seizures | 70 |
-| Med-Surg: Anemia | 20 |
-| Med-Surg: Lower GI | 20 |
+| Med-Surg: Anemia | 40 |
+| Med-Surg: Lower GI | 40 |
 
 The four Pathopharm banks and the two Med-Surg banks are kept separate — the
 Med-Surg Lower GI bank is distinct from the Pathopharm Lower GI bank.
