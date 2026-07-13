@@ -1,0 +1,372 @@
+{
+  "topic": "med-surg-anemia",
+  "label": "Med-Surg: Anemia",
+  "questions": [
+    {
+      "stem": "A client reports fatigue and exertional dyspnea. Labs: Hgb 9.0 g/dL, MCV 74 fL (low), MCHC low, ferritin 7 ng/mL, serum iron low, TIBC elevated. How does the nurse interpret these findings?",
+      "options": [
+        "Iron deficiency anemia",
+        "Vitamin B12 deficiency anemia",
+        "Folate deficiency anemia",
+        "Aplastic anemia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Microcytic (low MCV), hypochromic (low MCHC) cells with low ferritin, low serum iron, and high TIBC are the defining cue cluster of iron deficiency — ferritin is the most sensitive indicator of depleted iron stores, and TIBC rises because transferrin has little iron to bind.",
+        "incorrect": [
+          "B12 deficiency is macrocytic (high MCV), not microcytic, and shows a low serum B12.",
+          "Folate deficiency is also macrocytic with a low serum folate, not microcytic with low iron studies.",
+          "Aplastic anemia is normocytic with pancytopenia (low RBCs, WBCs, and platelets), not isolated microcytic, iron-deficient indices."
+        ]
+      }
+    },
+    {
+      "stem": "A client is starting oral ferrous sulfate for iron deficiency anemia. Which statement indicates a need for further teaching?",
+      "options": [
+        "I'll take it with a glass of orange juice.",
+        "I'll take it with my calcium supplement and a glass of milk.",
+        "My stools may turn dark, which is expected.",
+        "I'll take it on an empty stomach if my stomach can tolerate it."
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Calcium, dairy, and antacids block iron absorption and should be separated from iron by at least 2 hours — pairing iron with a calcium supplement and milk is the statement that needs correction.",
+        "incorrect": [
+          "Vitamin C (orange juice) enhances iron absorption — correct understanding.",
+          "Dark or black stools are an expected effect of oral iron — correct understanding.",
+          "Iron is best absorbed on an empty stomach; taking it there when tolerated is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking oral iron for 3 weeks calls the clinic. Which report requires the nurse to follow up for possible GI bleeding rather than an expected iron effect?",
+      "options": [
+        "The stools are dark and formed.",
+        "The stools are black, tarry, sticky, and foul-smelling, with new dizziness.",
+        "There is mild constipation.",
+        "There is a metallic taste after the dose."
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "Expected iron stools are dark but formed; black, tarry, sticky, foul-smelling stool (melena) with dizziness signals GI bleeding — the cue that must be reported and evaluated.",
+        "incorrect": [
+          "Dark, formed stools are the expected effect of oral iron, not bleeding.",
+          "Constipation is a common, manageable iron side effect (increase fluids and fiber).",
+          "A metallic taste is a minor complaint, not a sign of bleeding."
+        ]
+      }
+    },
+    {
+      "stem": "A client with pernicious anemia following a total gastrectomy has these new prescriptions. Which prescription should the nurse question?",
+      "options": [
+        "Oral vitamin B12 tablets daily",
+        "Monitor for numbness, tingling, and balance changes",
+        "Assess gait and implement fall precautions",
+        "Teach the client that vitamin B12 replacement is lifelong"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Pernicious anemia and gastrectomy mean there is no intrinsic factor, so oral B12 cannot be absorbed — these clients require lifelong intramuscular B12. Ordering oral B12 is the prescription to question.",
+        "incorrect": [
+          "Monitoring for neurologic deficits (paresthesias, balance changes) is appropriate for B12 deficiency.",
+          "B12 deficiency causes ataxia and fall risk, so gait assessment and fall precautions are appropriate.",
+          "Lifelong B12 replacement is correct; the problem is the oral route, not the need for replacement."
+        ]
+      }
+    },
+    {
+      "stem": "A client with vitamin B12 deficiency reports numbness and tingling in both feet and an unsteady, staggering gait. Which nursing action is the priority?",
+      "options": [
+        "Implement fall precautions and assist with ambulation",
+        "Encourage foods high in vitamin B12",
+        "Provide oral hygiene for glossitis",
+        "Teach that the symptoms will resolve within a few days"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Paresthesias and ataxia are neurologic cues that create a high fall risk; protecting the client from injury with fall precautions and ambulation assistance is the safety priority.",
+        "incorrect": [
+          "Diet teaching is appropriate but does not address the immediate safety risk from ataxia.",
+          "Oral care for glossitis is supportive but lower priority than preventing a fall.",
+          "Neurologic symptoms improve slowly over weeks to months and may be permanent if untreated — this is inaccurate and not the priority."
+        ]
+      }
+    },
+    {
+      "stem": "Two clients each have macrocytic anemia (high MCV). Which finding indicates vitamin B12 deficiency rather than folate deficiency?",
+      "options": [
+        "Numbness, tingling, and an unsteady gait",
+        "Fatigue and weakness",
+        "A smooth, beefy-red tongue",
+        "Pallor of the conjunctiva"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Neurologic signs — paresthesias and ataxia — are unique to B12 deficiency; folate deficiency does not cause neurologic deficits, so this is the distinguishing cue.",
+        "incorrect": [
+          "Fatigue and weakness occur in both B12 and folate deficiency.",
+          "Glossitis (a beefy-red tongue) can occur in several nutritional anemias, not just B12.",
+          "Pallor is a general anemia sign common to both."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse counsels a client in early pregnancy about folate. Which statement by the client shows correct understanding?",
+      "options": [
+        "Getting enough folate helps prevent neural tube defects in my baby.",
+        "Folate deficiency will cause numbness and tingling in my hands.",
+        "I need lifelong B12 injections instead of folate.",
+        "I should avoid leafy green vegetables while pregnant."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Adequate folate in pregnancy prevents fetal neural tube defects (e.g., spina bifida), and pregnancy raises folate requirements — making this the correct understanding.",
+        "incorrect": [
+          "Numbness and tingling are neurologic signs of B12 deficiency, not folate deficiency.",
+          "Folate deficiency is treated with oral folic acid, not B12 injections.",
+          "Leafy greens are a key folate source and should be encouraged, not avoided."
+        ]
+      }
+    },
+    {
+      "stem": "A client with aplastic anemia has a WBC of 1.8 with a low neutrophil count and a temperature of 100.8°F (38.2°C). What is the nurse's priority action?",
+      "options": [
+        "Notify the provider and initiate neutropenic precautions",
+        "Encourage increased oral fluids and rest",
+        "Provide a soft toothbrush and electric razor",
+        "Administer an antiemetic"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In a neutropenic client, even a low-grade fever signals possible life-threatening infection — recognizing this cue and acting (notify provider, neutropenic precautions, anticipate cultures and antibiotics) is the priority.",
+        "incorrect": [
+          "Fluids and rest are supportive but do not address the emergent infection risk.",
+          "Bleeding precautions matter in aplastic anemia but do not address the fever and infection priority.",
+          "An antiemetic treats nausea, which is not the presenting concern."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic kidney disease is receiving epoetin alfa (an erythropoiesis-stimulating agent) by subcutaneous injection. Which finding should the nurse report as a concern of therapy?",
+      "options": [
+        "Blood pressure has risen to 168/98 mmHg",
+        "Hemoglobin has risen gradually over several weeks",
+        "The client reports improved energy",
+        "The reticulocyte count has increased"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "ESAs stimulate RBC production but can raise blood pressure and thrombosis risk; a BP rising to 168/98 is the adverse effect to report and monitor.",
+        "incorrect": [
+          "A gradual hemoglobin rise over weeks is the intended, expected response to an ESA.",
+          "Improved energy reflects the therapy working, not a concern.",
+          "A rising reticulocyte count shows the marrow is responding appropriately — a desired effect."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic kidney disease asks why they developed anemia. Which explanation by the nurse is accurate?",
+      "options": [
+        "Your damaged kidneys make less erythropoietin, so the bone marrow is signaled to make fewer red blood cells.",
+        "Your kidneys are destroying red blood cells directly.",
+        "You are simply not eating enough iron in your diet.",
+        "Your bone marrow has failed and stopped making all blood cells."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The kidneys produce erythropoietin, which stimulates marrow RBC production; in CKD, reduced erythropoietin leads to reduced RBC production and anemia — the basis for erythropoiesis-stimulating agent therapy.",
+        "incorrect": [
+          "The kidneys do not directly destroy RBCs; the problem is reduced erythropoietin production.",
+          "Although iron matters, CKD anemia is caused primarily by erythropoietin deficiency, not diet.",
+          "Bone marrow failure with pancytopenia describes aplastic anemia, not CKD."
+        ]
+      }
+    },
+    {
+      "stem": "A 68-year-old with newly diagnosed iron deficiency anemia has no history of heavy bleeding or poor dietary intake. Which diagnostic evaluation should the nurse anticipate?",
+      "options": [
+        "Colonoscopy and stool occult blood testing to evaluate for GI bleeding",
+        "A bone marrow biopsy to confirm iron deficiency",
+        "Reassurance that no further workup is needed",
+        "Immediate lifelong IM vitamin B12 injections"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "New iron deficiency anemia in an older adult must be assumed to be chronic occult GI bleeding (including colorectal cancer) until proven otherwise, so FOBT, EGD, and colonoscopy are anticipated.",
+        "incorrect": [
+          "Iron studies, not a marrow biopsy, confirm iron deficiency; biopsy is used for unexplained pancytopenia.",
+          "Unexplained iron deficiency always requires a search for the cause; reassurance is unsafe.",
+          "IM B12 treats pernicious anemia, not iron deficiency."
+        ]
+      }
+    },
+    {
+      "stem": "Two hours after abdominal surgery, a client has BP 84/50, HR 128, cool clammy skin, and is increasingly restless. Which action is the priority?",
+      "options": [
+        "Ensure large-bore IV access and begin prescribed fluid resuscitation while notifying the provider",
+        "Document the findings and recheck in 30 minutes",
+        "Encourage oral fluids and reposition for comfort",
+        "Administer the client's scheduled oral iron"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hypotension, tachycardia, cool clammy skin, and restlessness are cues of hypovolemic shock from acute blood loss — a medical emergency requiring large-bore IV access, fluids or blood, and provider notification now.",
+        "incorrect": [
+          "Delaying to recheck ignores signs of shock and risks decompensation.",
+          "Oral fluids cannot restore volume in acute hemorrhagic shock and delay definitive care.",
+          "Oral iron does nothing for acute blood loss and is unsafe to prioritize here."
+        ]
+      }
+    },
+    {
+      "stem": "Fifteen minutes into a packed red blood cell transfusion, a client develops fever, chills, flank pain, and dyspnea. What is the nurse's first action?",
+      "options": [
+        "Stop the transfusion and keep the IV open with 0.9% normal saline using new tubing",
+        "Slow the transfusion rate and continue to monitor",
+        "Administer an antipyretic and continue the transfusion",
+        "Notify the blood bank before doing anything else"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "These are signs of an acute transfusion reaction; the immediate action is to STOP the transfusion and keep the line open with normal saline and new tubing, then notify the provider and blood bank and follow protocol.",
+        "incorrect": [
+          "Slowing the rate still infuses incompatible blood and can worsen a hemolytic reaction.",
+          "Treating the fever without stopping the blood allows a dangerous reaction to continue.",
+          "Notification is essential but comes after stopping the transfusion to protect the client."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is preparing to administer packed red blood cells. Which action by a new nurse requires the charge nurse to intervene?",
+      "options": [
+        "Priming the blood tubing with 5% dextrose in water (D5W)",
+        "Verifying the blood product and client identity with a second licensed nurse",
+        "Obtaining a baseline set of vital signs before starting",
+        "Confirming that the type and crossmatch is completed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Blood is administered only with 0.9% normal saline; dextrose-containing solutions (and lactated Ringer's) cause RBC hemolysis or clotting — priming with D5W must be stopped.",
+        "incorrect": [
+          "Two-nurse verification of the product and client identity is required practice.",
+          "Obtaining baseline vital signs before a transfusion is correct and necessary.",
+          "Confirming a completed type and crossmatch is appropriate before transfusion."
+        ]
+      }
+    },
+    {
+      "stem": "An older adult with heart failure is 45 minutes into a unit of packed red blood cells and now has dyspnea, bilateral crackles, jugular venous distention, and BP 172/94. The nurse recognizes which complication?",
+      "options": [
+        "Circulatory (fluid) overload",
+        "Acute hemolytic transfusion reaction",
+        "Allergic (urticarial) reaction",
+        "An expected response to transfusion"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Dyspnea, crackles, JVD, and hypertension during transfusion indicate circulatory (fluid) overload — a high risk in older adults and clients with heart or kidney disease; the nurse slows or stops the infusion, sits the client up, and notifies the provider.",
+        "incorrect": [
+          "A hemolytic reaction presents with fever, chills, flank pain, and hypotension, not the hypertension and crackles of overload.",
+          "An allergic reaction presents with hives and itching (with possible dyspnea), not JVD and hypertension.",
+          "Volume overload signs are never an expected, acceptable response."
+        ]
+      }
+    },
+    {
+      "stem": "A client with polycythemia vera has several findings. Which requires the most immediate attention?",
+      "options": [
+        "A warm, swollen, painful right calf",
+        "Itching after a warm shower",
+        "A ruddy, reddened facial complexion",
+        "Reports of a mild headache"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Thickened, hyperviscous blood makes thromboembolism the priority danger; a warm, swollen, painful calf suggests DVT, which can progress to pulmonary embolism — the cue needing immediate action.",
+        "incorrect": [
+          "Pruritus after a warm shower or bath is a classic but non-emergent symptom of polycythemia.",
+          "A ruddy complexion is an expected finding from increased red cell mass, not urgent.",
+          "A mild headache is common with hyperviscosity but far lower priority than a possible DVT."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client with polycythemia vera about reducing complications. Which statement indicates a need for further teaching?",
+      "options": [
+        "I should stay still and limit walking so I don't get tired.",
+        "I'll drink plenty of fluids to keep my blood from getting too thick.",
+        "Therapeutic phlebotomy helps lower my red blood cell count.",
+        "Itching after a hot shower is common with my condition."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Immobility raises clot risk in already hyperviscous blood; clients should stay active and ambulate rather than limit movement — this statement needs correction.",
+        "incorrect": [
+          "Adequate hydration lowers blood viscosity and clot risk — correct understanding.",
+          "Therapeutic phlebotomy is the mainstay treatment to remove excess RBCs and lower hematocrit — correct.",
+          "Pruritus after a hot shower is a recognized symptom of the condition — correct understanding."
+        ]
+      }
+    },
+    {
+      "stem": "A client with symptomatic anemia (Hgb 8.1 g/dL) becomes fatigued and short of breath with minimal exertion. Which intervention best supports the client?",
+      "options": [
+        "Cluster nursing care and schedule frequent rest periods between activities",
+        "Have the client complete all ADLs independently to build endurance",
+        "Maintain strict bed rest indefinitely",
+        "Withhold all ambulation until the hemoglobin is normal"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "With reduced oxygen-carrying capacity, energy conservation is the priority — clustering care, spacing activities, and providing rest periods let the client stay active within tolerance while limiting oxygen demand.",
+        "incorrect": [
+          "Pushing the client to complete all ADLs exceeds tolerance and worsens dyspnea and fall risk.",
+          "Strict indefinite bed rest promotes deconditioning and complications such as clots.",
+          "Activity as tolerated (with rest) is encouraged; withholding all ambulation is unnecessary and harmful."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with darkly pigmented skin for pallor related to anemia. Which sites provide the most reliable assessment?",
+      "options": [
+        "The conjunctiva and oral mucous membranes",
+        "The dorsum of the hands",
+        "The lower legs and ankles",
+        "The skin over the abdomen"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Pallor is assessed most reliably in the conjunctiva, oral mucosa, and nail beds, which reflect perfusion regardless of skin pigmentation.",
+        "incorrect": [
+          "Skin color on the hands is affected by pigmentation and is unreliable for pallor in darker skin tones.",
+          "The lower legs and ankles are affected by pigmentation and circulation and are not the best pallor sites.",
+          "Abdominal skin is subject to pigmentation and does not reliably show pallor."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client about oral iron therapy. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Take the iron with a source of vitamin C, such as orange juice.",
+        "Take the iron together with antacids to prevent stomach upset.",
+        "Expect your stools to become dark; this is normal.",
+        "Continue the iron as prescribed even after you feel less tired.",
+        "If taking liquid iron, use a straw and brush your teeth afterward.",
+        "Increase fluids and dietary fiber to manage constipation."
+      ],
+      "answer": [0, 2, 3, 4, 5],
+      "type": "sata",
+      "rationale": {
+        "correct": "Vitamin C enhances absorption; dark stools are expected; iron is continued for months to rebuild stores; liquid iron is taken through a straw with brushing to prevent staining; and fluids and fiber counter constipation. Antacids block absorption and must be separated from iron.",
+        "incorrect": [
+          "Correct—vitamin C enhances iron absorption.",
+          "Incorrect—antacids (like calcium and dairy) decrease iron absorption and should be separated from iron by at least 2 hours.",
+          "Correct—dark stools are an expected effect of oral iron.",
+          "Correct—iron stores take months to replenish, so therapy continues even after symptoms improve.",
+          "Correct—a straw and brushing prevent liquid iron from staining the teeth.",
+          "Correct—increased fluids and fiber help prevent iron-induced constipation."
+        ]
+      }
+    }
+  ]
+}

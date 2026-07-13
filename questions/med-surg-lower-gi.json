@@ -1,0 +1,372 @@
+{
+  "topic": "med-surg-lower-gi",
+  "label": "Med-Surg: Lower GI",
+  "questions": [
+    {
+      "stem": "A client with irritable bowel syndrome (IBS) asks how to reduce symptoms. Which nursing recommendation is the first-line dietary approach?",
+      "options": [
+        "Keep a food diary and follow a low-FODMAP diet to identify and limit trigger foods",
+        "Follow a high-FODMAP diet to add bulk",
+        "Eliminate all fiber from the diet permanently",
+        "Take a daily stimulant laxative"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "IBS is a functional disorder; a food diary plus a low-FODMAP diet is the first-line dietary intervention to identify and reduce the fermentable trigger foods that cause bloating, pain, and altered bowel habits.",
+        "incorrect": [
+          "High-FODMAP foods are fermented by gut bacteria and worsen IBS symptoms.",
+          "Permanently eliminating all fiber is not recommended; triggers are individualized.",
+          "Daily stimulant laxatives are not first-line and risk dependence."
+        ]
+      }
+    },
+    {
+      "stem": "A client is being evaluated for IBS. Which finding is inconsistent with IBS and should prompt the nurse to notify the provider for further workup?",
+      "options": [
+        "Bloody diarrhea with unintended weight loss and fever",
+        "Abdominal pain that improves after a bowel movement",
+        "Alternating constipation and diarrhea",
+        "Symptoms that worsen with stress"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "IBS is functional with no structural damage or bleeding; bloody diarrhea, weight loss, and fever are red flags for inflammatory bowel disease or malignancy and must be reported for further evaluation.",
+        "incorrect": [
+          "Pain relieved by defecation is a classic diagnostic feature of IBS.",
+          "Alternating constipation and diarrhea (IBS-M) fits IBS.",
+          "Stress commonly worsens IBS symptoms and is expected."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic constipation now reports severe abdominal distention, vomiting, and inability to pass stool or flatus. Bowel sounds are absent. Which is the nurse's priority action?",
+      "options": [
+        "Keep the client NPO and notify the provider for suspected bowel obstruction",
+        "Administer the client's scheduled fiber supplement",
+        "Encourage ambulation and increased fluids",
+        "Give a stimulant laxative to relieve the constipation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Distention, vomiting, absent bowel sounds, and no passage of stool or flatus are cues of bowel obstruction — an emergency; the nurse keeps the client NPO and notifies the provider, anticipating an NG tube, IV fluids, and surgical consult.",
+        "incorrect": [
+          "Fiber requires water and normal transit; it is harmful and contraindicated in a suspected obstruction.",
+          "Fluids and ambulation are for routine constipation, not an acute obstruction with vomiting.",
+          "Laxatives are contraindicated in bowel obstruction and can lead to perforation."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports chronic constipation. Before laxatives are considered, which nursing intervention is first-line?",
+      "options": [
+        "Increase dietary fiber and fluids, promote activity, and teach bowel retraining",
+        "Begin a daily stimulant laxative",
+        "Restrict fluids to firm up the stool",
+        "Recommend prolonged bed rest"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Lifestyle measures — adequate fiber (25–35 g/day) with fluids, physical activity, and bowel retraining — are first-line before medications and address the common causes of constipation.",
+        "incorrect": [
+          "Daily stimulant laxatives are reserved for rescue use and risk dependence; they are not first-line.",
+          "Restricting fluids worsens constipation, especially when fiber is increased.",
+          "Immobility slows colonic transit and worsens constipation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches bowel retraining to a client with chronic constipation. Which instruction reflects correct use of the gastrocolic reflex?",
+      "options": [
+        "Try to have a bowel movement about 20–40 minutes after a meal each day",
+        "Wait until you feel completely full before attempting a bowel movement",
+        "Attempt a bowel movement only when you wake during the night",
+        "Ignore the urge to defecate until a scheduled time"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The gastrocolic reflex stimulates colonic motility after eating, so attempting a bowel movement 20–40 minutes after a meal — at the same time daily — supports a regular routine.",
+        "incorrect": [
+          "Waiting for a feeling of fullness does not use the post-meal reflex and can promote retention.",
+          "Nighttime attempts do not align with the meal-triggered gastrocolic reflex.",
+          "Ignoring the urge to defecate promotes constipation and should be avoided."
+        ]
+      }
+    },
+    {
+      "stem": "A client needs a laxative for ongoing constipation after lifestyle changes were insufficient. Which class is generally preferred as a gentle, low-habit-forming first choice?",
+      "options": [
+        "Osmotic laxative such as polyethylene glycol (Miralax)",
+        "Stimulant laxative such as bisacodyl for daily use",
+        "Daily long-term mineral oil",
+        "Routine enemas every morning"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Osmotic laxatives (polyethylene glycol) draw water into the colon, are gentle and low habit-forming, and are the preferred first medication after lifestyle measures; onset is 1–3 days.",
+        "incorrect": [
+          "Stimulant laxatives are for short-term rescue only; daily use risks laxative dependence.",
+          "Chronic daily mineral oil risks aspiration and impaired fat-soluble vitamin absorption and is not preferred.",
+          "Routine daily enemas are not first-line maintenance therapy and can cause dependence."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed a bulk-forming agent (psyllium) for constipation. Which teaching point is essential?",
+      "options": [
+        "Take each dose with a full glass of water",
+        "Take it with as little liquid as possible",
+        "Expect it to work within 30 minutes",
+        "Stop all dietary fiber while taking it"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bulk-forming agents absorb water to soften and bulk stool and must be taken with a full glass of water — fiber without adequate fluid can worsen constipation or cause obstruction.",
+        "incorrect": [
+          "Taking a bulking agent with little liquid can worsen constipation or cause impaction and obstruction.",
+          "Bulk-forming agents act over days, not within 30 minutes.",
+          "Dietary fiber is continued; it works with the agent, not against it."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic constipation makes the following statements. Which indicates a need for further teaching?",
+      "options": [
+        "I'll take senna every day so I never get constipated.",
+        "I'll drink more water when I add fiber to my diet.",
+        "Walking each day can help my bowels move.",
+        "I'll try to move my bowels at the same time each day."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Stimulant laxatives (senna, bisacodyl) are for short-term rescue only; daily long-term use causes laxative dependence — this statement needs correction.",
+        "incorrect": [
+          "Increasing water when adding fiber is correct and prevents worsening constipation.",
+          "Daily activity stimulates peristalsis and is correct.",
+          "Attempting a bowel movement at the same time each day supports bowel retraining."
+        ]
+      }
+    },
+    {
+      "stem": "A client with ulcerative colitis in remission tells the nurse, 'I feel great, so I stopped taking my mesalamine.' Which response is most appropriate?",
+      "options": [
+        "Maintenance medication should be continued even in remission, because stopping it is the most common preventable cause of flares",
+        "That's reasonable; you can restart it only if symptoms return",
+        "You can switch to taking it only when you eat trigger foods",
+        "Stopping it is fine as long as you avoid NSAIDs"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Medication non-adherence is the leading preventable trigger of IBD flares; maintenance therapy such as mesalamine is continued during remission to keep inflammation suppressed — this teaching corrects the client's misconception.",
+        "incorrect": [
+          "Waiting to restart until symptoms return allows inflammation to flare; maintenance is continuous.",
+          "Taking maintenance medication only with trigger foods does not maintain therapeutic suppression.",
+          "Avoiding NSAIDs helps, but it does not replace continuous maintenance therapy."
+        ]
+      }
+    },
+    {
+      "stem": "A client is diagnosed with Crohn's disease. Which findings are characteristic of Crohn's rather than ulcerative colitis?",
+      "options": [
+        "Patchy skip lesions anywhere from mouth to anus, with fistulas and malabsorption",
+        "Continuous inflammation limited to the colon and rectum",
+        "Bloody diarrhea with a high risk of toxic megacolon",
+        "Inflammation confined to the mucosal layer only"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Crohn's causes transmural, patchy 'skip' lesions anywhere from mouth to anus, commonly with fistulas and malabsorption — distinguishing it from ulcerative colitis.",
+        "incorrect": [
+          "Continuous inflammation of the colon and rectum describes ulcerative colitis.",
+          "Bloody diarrhea and toxic megacolon risk are characteristic of ulcerative colitis.",
+          "Mucosal-only inflammation describes ulcerative colitis; Crohn's is transmural."
+        ]
+      }
+    },
+    {
+      "stem": "A client with IBD has the following prescriptions. Which should the nurse question for long-term maintenance therapy?",
+      "options": [
+        "Prednisone daily indefinitely to keep the disease in remission",
+        "Mesalamine (5-ASA) for maintenance of mild-to-moderate ulcerative colitis",
+        "Azathioprine for long-term maintenance",
+        "A biologic (infliximab) for moderate-to-severe disease"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Corticosteroids are for acute flares only, not long-term maintenance — chronic use causes osteoporosis, hyperglycemia, hypertension, and cataracts; ongoing prednisone for maintenance should be questioned.",
+        "incorrect": [
+          "Mesalamine is appropriate first-line maintenance therapy for mild-to-moderate UC.",
+          "Immunomodulators such as azathioprine are used for long-term maintenance.",
+          "Biologics such as infliximab are appropriate for moderate-to-severe disease."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Crohn's disease suddenly develops a rigid, board-like abdomen, rebound tenderness, fever, heart rate 124, and BP 92/58. Which nursing action is the priority?",
+      "options": [
+        "Notify the provider immediately, keep the client NPO, and prepare for emergency intervention",
+        "Administer a scheduled dose of oral mesalamine",
+        "Encourage a low-residue meal to rest the bowel",
+        "Provide a heating pad for abdominal comfort"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A rigid, board-like abdomen with rebound tenderness, fever, tachycardia, and hypotension signals perforation with peritonitis — a surgical emergency requiring immediate provider notification, NPO status, IV fluids and antibiotics, and surgical preparation.",
+        "incorrect": [
+          "Giving oral medication is unsafe in a client who must be NPO for a surgical abdomen.",
+          "Feeding a client with a suspected perforation is contraindicated.",
+          "A heating pad can worsen intra-abdominal inflammation and delays needed emergency care."
+        ]
+      }
+    },
+    {
+      "stem": "A client with ulcerative colitis has marked abdominal distention, fever, heart rate 130, a toxic appearance, and decreased bowel sounds. The nurse recognizes which complication?",
+      "options": [
+        "Toxic megacolon",
+        "An irritable bowel syndrome flare",
+        "Simple constipation",
+        "Lactose intolerance"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Massive colonic dilation with fever, tachycardia, and a toxic appearance in UC indicates toxic megacolon — a medical emergency with high perforation risk; the client is kept NPO with IV fluids and urgent provider notification (colectomy may be needed).",
+        "incorrect": [
+          "An IBS flare is functional and does not cause fever, a toxic appearance, or massive dilation.",
+          "Simple constipation does not produce fever, tachycardia, and a toxic appearance.",
+          "Lactose intolerance causes bloating and diarrhea, not this emergent toxic picture."
+        ]
+      }
+    },
+    {
+      "stem": "A client with an IBD flare has worsening diarrhea, and C. difficile infection has not yet been ruled out. The provider prescribes an antimotility agent (loperamide). What is the nurse's best action?",
+      "options": [
+        "Question the prescription, because antimotility agents can precipitate toxic megacolon and should be avoided until C. difficile is excluded",
+        "Administer the loperamide as prescribed to reduce fluid loss",
+        "Administer it only with the next meal",
+        "Double the dose to control the diarrhea faster"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Antimotility agents should not be used when C. difficile is suspected or during a severe IBD flare — slowing motility can precipitate toxic megacolon; the nurse questions the order and anticipates stool testing first.",
+        "incorrect": [
+          "Giving loperamide before excluding C. diff risks toxic megacolon — it is unsafe here.",
+          "Timing it with a meal does not remove the risk of precipitating toxic megacolon.",
+          "Increasing the dose increases the danger of toxic megacolon."
+        ]
+      }
+    },
+    {
+      "stem": "During an acute IBD flare, which diet does the nurse anticipate teaching the client to follow?",
+      "options": [
+        "A low-residue (low-fiber) diet to reduce stool volume and rest the bowel",
+        "A high-fiber diet to add bulk",
+        "A high-FODMAP diet",
+        "Raw fruits and vegetables with the skins on"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "During flares, a low-residue/low-fiber diet decreases stool volume and bowel irritation, allowing the inflamed bowel to rest.",
+        "incorrect": [
+          "High fiber increases stool bulk and bowel workload, worsening a flare.",
+          "A high-FODMAP diet is a trigger-focused approach for IBS, not appropriate for an IBD flare.",
+          "Raw produce with skins is high-residue and irritating during a flare."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews labs for a client with IBD. Which results indicate active inflammation and are used to monitor disease activity?",
+      "options": [
+        "Elevated CRP and ESR",
+        "Low CRP and low ESR",
+        "Elevated ferritin and low TIBC",
+        "Elevated platelets with a normal WBC"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CRP and ESR are inflammatory markers; elevations indicate systemic inflammation and are used to track IBD disease activity and response to treatment.",
+        "incorrect": [
+          "Low CRP and ESR would suggest little active inflammation, not an active flare.",
+          "Ferritin and TIBC are iron-study values, not markers of IBD inflammatory activity.",
+          "Platelet and WBC counts alone are not the specific markers used to gauge IBD inflammatory activity."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches an average-risk 45-year-old about colorectal cancer screening. Which statement by the client indicates correct understanding?",
+      "options": [
+        "A colonoscopy is the gold standard because it can find and remove precancerous polyps.",
+        "I don't need any screening unless I have symptoms.",
+        "A positive stool test means I have cancer and need no further tests.",
+        "Screening should not begin until age 65."
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Colonoscopy is the gold standard for CRC screening — it is both diagnostic and preventive because polyps can be removed during the procedure; average-risk screening begins at age 45.",
+        "incorrect": [
+          "CRC is often asymptomatic until advanced, so screening should not wait for symptoms.",
+          "A positive stool test is a screening result that requires a follow-up diagnostic colonoscopy, not a diagnosis by itself.",
+          "Average-risk screening begins at age 45, not 65."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports several weeks of pencil-thin (narrow) stools and bright red blood in the stool. Which nursing action is most appropriate?",
+      "options": [
+        "Report the findings and facilitate referral for a colonoscopy to evaluate for colorectal cancer",
+        "Reassure the client that this is a normal variation",
+        "Recommend a stimulant laxative for the narrow stools",
+        "Advise increasing dietary fiber and rechecking in 6 months"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Narrow, pencil-thin stools with rectal bleeding are red flags for a left-sided colorectal cancer narrowing the lumen; the nurse reports the findings and facilitates a diagnostic colonoscopy.",
+        "incorrect": [
+          "These are warning signs, not a normal variation; reassurance is unsafe.",
+          "A laxative does not address a possible obstructing tumor and delays diagnosis.",
+          "Delaying evaluation for months with only fiber risks progression of a possible malignancy."
+        ]
+      }
+    },
+    {
+      "stem": "On the second postoperative day, a nurse assesses a client's new colostomy and finds the stoma is dark bluish-purple and dusky. What is the nurse's priority action?",
+      "options": [
+        "Notify the provider immediately, because this suggests impaired blood supply (ischemia)",
+        "Document the expected finding and continue routine care",
+        "Apply a warm compress and reassess in 8 hours",
+        "Increase the frequency of pouch changes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A healthy stoma is pink to red and moist; a dark bluish-purple or dusky stoma indicates ischemia (black or brown indicates necrosis) and must be reported immediately.",
+        "incorrect": [
+          "A dusky, bluish stoma is abnormal, not expected, and requires provider notification.",
+          "Delaying reassessment for hours risks progression to necrosis.",
+          "Changing the pouch more often does not address compromised stoma perfusion."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse provides discharge teaching to a client with a new ileostomy. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Increase your fluid intake because you lose more fluid and electrolytes with an ileostomy.",
+        "Clean the skin around the stoma with soap and water.",
+        "Expect the output to be liquid to semi-liquid.",
+        "Irrigate your ileostomy each morning to control the output.",
+        "Report a stoma that turns pale, black, or dusky.",
+        "Limit gas-producing foods such as beans, cabbage, and carbonated drinks."
+      ],
+      "answer": [0, 1, 2, 4, 5],
+      "type": "sata",
+      "rationale": {
+        "correct": "Ileostomy output is liquid with high fluid and electrolyte loss (increase fluids), stoma care uses soap and water (clean, not sterile), a pale/black/dusky stoma is reported, and gas-forming foods are limited. Irrigation is only for sigmoid colostomies, not ileostomies.",
+        "incorrect": [
+          "Correct—ileostomy fluid and electrolyte losses are high, so increased fluid intake is needed.",
+          "Correct—the stoma and peristomal skin are cleaned with soap and water; sterile technique is not required.",
+          "Correct—ileostomy output is normally liquid to semi-liquid.",
+          "Incorrect—irrigation is used only for sigmoid colostomies, never ileostomies.",
+          "Correct—a pale, black, or dusky stoma signals ischemia or necrosis and must be reported.",
+          "Correct—limiting gas-producing foods helps control gas and odor."
+        ]
+      }
+    }
+  ]
+}

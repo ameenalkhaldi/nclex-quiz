@@ -12,14 +12,19 @@ way to drill practice questions with clear rationales for every answer choice.
 
 ## What's inside
 
-The app currently has **225 practice questions** across four topic banks:
+The app currently has **353 practice questions** across six topic banks:
 
 | Topic | Questions |
 | --- | --- |
-| Upper GI | 43 |
-| Lower GI | 57 |
-| Neoplasms & Cancer | 77 |
-| Migraine · Insomnia · Seizures | 48 |
+| Upper GI | 65 |
+| Lower GI | 79 |
+| Neoplasms & Cancer | 99 |
+| Migraine · Insomnia · Seizures | 70 |
+| Med-Surg: Anemia | 20 |
+| Med-Surg: Lower GI | 20 |
+
+The four Pathopharm banks and the two Med-Surg banks are kept separate — the
+Med-Surg Lower GI bank is distinct from the Pathopharm Lower GI bank.
 
 Every question is written in NCLEX style and includes:
 

@@ -4,7 +4,9 @@ window.NCLEX_DATA = {
     "upper-gi": "Upper GI",
     "lower-gi": "Lower GI",
     "neoplasms-cancer": "Neoplasms & Cancer",
-    "neuro": "Migraine · Insomnia · Seizures"
+    "neuro": "Migraine · Insomnia · Seizures",
+    "med-surg-anemia": "Med-Surg: Anemia",
+    "med-surg-lower-gi": "Med-Surg: Lower GI"
   },
   "banks": {
     "upper-gi": [
@@ -5180,6 +5182,672 @@ window.NCLEX_DATA = {
           "AEDs are taken on a scheduled basis for prevention; long-acting agents do not stop an active seizure.",
           "AED therapy does not eliminate the need for lifestyle measures such as avoiding alcohol and adhering to doses."
         ]
+      }
+    ],
+    "med-surg-anemia": [
+      {
+        "stem": "A client reports fatigue and exertional dyspnea. Labs: Hgb 9.0 g/dL, MCV 74 fL (low), MCHC low, ferritin 7 ng/mL, serum iron low, TIBC elevated. How does the nurse interpret these findings?",
+        "options": [
+          "Iron deficiency anemia",
+          "Vitamin B12 deficiency anemia",
+          "Folate deficiency anemia",
+          "Aplastic anemia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Microcytic (low MCV), hypochromic (low MCHC) cells with low ferritin, low serum iron, and high TIBC are the defining cue cluster of iron deficiency — ferritin is the most sensitive indicator of depleted iron stores, and TIBC rises because transferrin has little iron to bind.",
+          "B12 deficiency is macrocytic (high MCV), not microcytic, and shows a low serum B12.",
+          "Folate deficiency is also macrocytic with a low serum folate, not microcytic with low iron studies.",
+          "Aplastic anemia is normocytic with pancytopenia (low RBCs, WBCs, and platelets), not isolated microcytic, iron-deficient indices."
+        ]
+      },
+      {
+        "stem": "A client is starting oral ferrous sulfate for iron deficiency anemia. Which statement indicates a need for further teaching?",
+        "options": [
+          "I'll take it with a glass of orange juice.",
+          "I'll take it with my calcium supplement and a glass of milk.",
+          "My stools may turn dark, which is expected.",
+          "I'll take it on an empty stomach if my stomach can tolerate it."
+        ],
+        "answer": 1,
+        "explanations": [
+          "Vitamin C (orange juice) enhances iron absorption — correct understanding.",
+          "Calcium, dairy, and antacids block iron absorption and should be separated from iron by at least 2 hours — pairing iron with a calcium supplement and milk is the statement that needs correction.",
+          "Dark or black stools are an expected effect of oral iron — correct understanding.",
+          "Iron is best absorbed on an empty stomach; taking it there when tolerated is correct."
+        ]
+      },
+      {
+        "stem": "A client taking oral iron for 3 weeks calls the clinic. Which report requires the nurse to follow up for possible GI bleeding rather than an expected iron effect?",
+        "options": [
+          "The stools are dark and formed.",
+          "The stools are black, tarry, sticky, and foul-smelling, with new dizziness.",
+          "There is mild constipation.",
+          "There is a metallic taste after the dose."
+        ],
+        "answer": 1,
+        "explanations": [
+          "Dark, formed stools are the expected effect of oral iron, not bleeding.",
+          "Expected iron stools are dark but formed; black, tarry, sticky, foul-smelling stool (melena) with dizziness signals GI bleeding — the cue that must be reported and evaluated.",
+          "Constipation is a common, manageable iron side effect (increase fluids and fiber).",
+          "A metallic taste is a minor complaint, not a sign of bleeding."
+        ]
+      },
+      {
+        "stem": "A client with pernicious anemia following a total gastrectomy has these new prescriptions. Which prescription should the nurse question?",
+        "options": [
+          "Oral vitamin B12 tablets daily",
+          "Monitor for numbness, tingling, and balance changes",
+          "Assess gait and implement fall precautions",
+          "Teach the client that vitamin B12 replacement is lifelong"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Pernicious anemia and gastrectomy mean there is no intrinsic factor, so oral B12 cannot be absorbed — these clients require lifelong intramuscular B12. Ordering oral B12 is the prescription to question.",
+          "Monitoring for neurologic deficits (paresthesias, balance changes) is appropriate for B12 deficiency.",
+          "B12 deficiency causes ataxia and fall risk, so gait assessment and fall precautions are appropriate.",
+          "Lifelong B12 replacement is correct; the problem is the oral route, not the need for replacement."
+        ]
+      },
+      {
+        "stem": "A client with vitamin B12 deficiency reports numbness and tingling in both feet and an unsteady, staggering gait. Which nursing action is the priority?",
+        "options": [
+          "Implement fall precautions and assist with ambulation",
+          "Encourage foods high in vitamin B12",
+          "Provide oral hygiene for glossitis",
+          "Teach that the symptoms will resolve within a few days"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Paresthesias and ataxia are neurologic cues that create a high fall risk; protecting the client from injury with fall precautions and ambulation assistance is the safety priority.",
+          "Diet teaching is appropriate but does not address the immediate safety risk from ataxia.",
+          "Oral care for glossitis is supportive but lower priority than preventing a fall.",
+          "Neurologic symptoms improve slowly over weeks to months and may be permanent if untreated — this is inaccurate and not the priority."
+        ]
+      },
+      {
+        "stem": "Two clients each have macrocytic anemia (high MCV). Which finding indicates vitamin B12 deficiency rather than folate deficiency?",
+        "options": [
+          "Numbness, tingling, and an unsteady gait",
+          "Fatigue and weakness",
+          "A smooth, beefy-red tongue",
+          "Pallor of the conjunctiva"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Neurologic signs — paresthesias and ataxia — are unique to B12 deficiency; folate deficiency does not cause neurologic deficits, so this is the distinguishing cue.",
+          "Fatigue and weakness occur in both B12 and folate deficiency.",
+          "Glossitis (a beefy-red tongue) can occur in several nutritional anemias, not just B12.",
+          "Pallor is a general anemia sign common to both."
+        ]
+      },
+      {
+        "stem": "A nurse counsels a client in early pregnancy about folate. Which statement by the client shows correct understanding?",
+        "options": [
+          "Getting enough folate helps prevent neural tube defects in my baby.",
+          "Folate deficiency will cause numbness and tingling in my hands.",
+          "I need lifelong B12 injections instead of folate.",
+          "I should avoid leafy green vegetables while pregnant."
+        ],
+        "answer": 0,
+        "explanations": [
+          "Adequate folate in pregnancy prevents fetal neural tube defects (e.g., spina bifida), and pregnancy raises folate requirements — making this the correct understanding.",
+          "Numbness and tingling are neurologic signs of B12 deficiency, not folate deficiency.",
+          "Folate deficiency is treated with oral folic acid, not B12 injections.",
+          "Leafy greens are a key folate source and should be encouraged, not avoided."
+        ]
+      },
+      {
+        "stem": "A client with aplastic anemia has a WBC of 1.8 with a low neutrophil count and a temperature of 100.8°F (38.2°C). What is the nurse's priority action?",
+        "options": [
+          "Notify the provider and initiate neutropenic precautions",
+          "Encourage increased oral fluids and rest",
+          "Provide a soft toothbrush and electric razor",
+          "Administer an antiemetic"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In a neutropenic client, even a low-grade fever signals possible life-threatening infection — recognizing this cue and acting (notify provider, neutropenic precautions, anticipate cultures and antibiotics) is the priority.",
+          "Fluids and rest are supportive but do not address the emergent infection risk.",
+          "Bleeding precautions matter in aplastic anemia but do not address the fever and infection priority.",
+          "An antiemetic treats nausea, which is not the presenting concern."
+        ]
+      },
+      {
+        "stem": "A client with chronic kidney disease is receiving epoetin alfa (an erythropoiesis-stimulating agent) by subcutaneous injection. Which finding should the nurse report as a concern of therapy?",
+        "options": [
+          "Blood pressure has risen to 168/98 mmHg",
+          "Hemoglobin has risen gradually over several weeks",
+          "The client reports improved energy",
+          "The reticulocyte count has increased"
+        ],
+        "answer": 0,
+        "explanations": [
+          "ESAs stimulate RBC production but can raise blood pressure and thrombosis risk; a BP rising to 168/98 is the adverse effect to report and monitor.",
+          "A gradual hemoglobin rise over weeks is the intended, expected response to an ESA.",
+          "Improved energy reflects the therapy working, not a concern.",
+          "A rising reticulocyte count shows the marrow is responding appropriately — a desired effect."
+        ]
+      },
+      {
+        "stem": "A client with chronic kidney disease asks why they developed anemia. Which explanation by the nurse is accurate?",
+        "options": [
+          "Your damaged kidneys make less erythropoietin, so the bone marrow is signaled to make fewer red blood cells.",
+          "Your kidneys are destroying red blood cells directly.",
+          "You are simply not eating enough iron in your diet.",
+          "Your bone marrow has failed and stopped making all blood cells."
+        ],
+        "answer": 0,
+        "explanations": [
+          "The kidneys produce erythropoietin, which stimulates marrow RBC production; in CKD, reduced erythropoietin leads to reduced RBC production and anemia — the basis for erythropoiesis-stimulating agent therapy.",
+          "The kidneys do not directly destroy RBCs; the problem is reduced erythropoietin production.",
+          "Although iron matters, CKD anemia is caused primarily by erythropoietin deficiency, not diet.",
+          "Bone marrow failure with pancytopenia describes aplastic anemia, not CKD."
+        ]
+      },
+      {
+        "stem": "A 68-year-old with newly diagnosed iron deficiency anemia has no history of heavy bleeding or poor dietary intake. Which diagnostic evaluation should the nurse anticipate?",
+        "options": [
+          "Colonoscopy and stool occult blood testing to evaluate for GI bleeding",
+          "A bone marrow biopsy to confirm iron deficiency",
+          "Reassurance that no further workup is needed",
+          "Immediate lifelong IM vitamin B12 injections"
+        ],
+        "answer": 0,
+        "explanations": [
+          "New iron deficiency anemia in an older adult must be assumed to be chronic occult GI bleeding (including colorectal cancer) until proven otherwise, so FOBT, EGD, and colonoscopy are anticipated.",
+          "Iron studies, not a marrow biopsy, confirm iron deficiency; biopsy is used for unexplained pancytopenia.",
+          "Unexplained iron deficiency always requires a search for the cause; reassurance is unsafe.",
+          "IM B12 treats pernicious anemia, not iron deficiency."
+        ]
+      },
+      {
+        "stem": "Two hours after abdominal surgery, a client has BP 84/50, HR 128, cool clammy skin, and is increasingly restless. Which action is the priority?",
+        "options": [
+          "Ensure large-bore IV access and begin prescribed fluid resuscitation while notifying the provider",
+          "Document the findings and recheck in 30 minutes",
+          "Encourage oral fluids and reposition for comfort",
+          "Administer the client's scheduled oral iron"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Hypotension, tachycardia, cool clammy skin, and restlessness are cues of hypovolemic shock from acute blood loss — a medical emergency requiring large-bore IV access, fluids or blood, and provider notification now.",
+          "Delaying to recheck ignores signs of shock and risks decompensation.",
+          "Oral fluids cannot restore volume in acute hemorrhagic shock and delay definitive care.",
+          "Oral iron does nothing for acute blood loss and is unsafe to prioritize here."
+        ]
+      },
+      {
+        "stem": "Fifteen minutes into a packed red blood cell transfusion, a client develops fever, chills, flank pain, and dyspnea. What is the nurse's first action?",
+        "options": [
+          "Stop the transfusion and keep the IV open with 0.9% normal saline using new tubing",
+          "Slow the transfusion rate and continue to monitor",
+          "Administer an antipyretic and continue the transfusion",
+          "Notify the blood bank before doing anything else"
+        ],
+        "answer": 0,
+        "explanations": [
+          "These are signs of an acute transfusion reaction; the immediate action is to STOP the transfusion and keep the line open with normal saline and new tubing, then notify the provider and blood bank and follow protocol.",
+          "Slowing the rate still infuses incompatible blood and can worsen a hemolytic reaction.",
+          "Treating the fever without stopping the blood allows a dangerous reaction to continue.",
+          "Notification is essential but comes after stopping the transfusion to protect the client."
+        ]
+      },
+      {
+        "stem": "A nurse is preparing to administer packed red blood cells. Which action by a new nurse requires the charge nurse to intervene?",
+        "options": [
+          "Priming the blood tubing with 5% dextrose in water (D5W)",
+          "Verifying the blood product and client identity with a second licensed nurse",
+          "Obtaining a baseline set of vital signs before starting",
+          "Confirming that the type and crossmatch is completed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Blood is administered only with 0.9% normal saline; dextrose-containing solutions (and lactated Ringer's) cause RBC hemolysis or clotting — priming with D5W must be stopped.",
+          "Two-nurse verification of the product and client identity is required practice.",
+          "Obtaining baseline vital signs before a transfusion is correct and necessary.",
+          "Confirming a completed type and crossmatch is appropriate before transfusion."
+        ]
+      },
+      {
+        "stem": "An older adult with heart failure is 45 minutes into a unit of packed red blood cells and now has dyspnea, bilateral crackles, jugular venous distention, and BP 172/94. The nurse recognizes which complication?",
+        "options": [
+          "Circulatory (fluid) overload",
+          "Acute hemolytic transfusion reaction",
+          "Allergic (urticarial) reaction",
+          "An expected response to transfusion"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Dyspnea, crackles, JVD, and hypertension during transfusion indicate circulatory (fluid) overload — a high risk in older adults and clients with heart or kidney disease; the nurse slows or stops the infusion, sits the client up, and notifies the provider.",
+          "A hemolytic reaction presents with fever, chills, flank pain, and hypotension, not the hypertension and crackles of overload.",
+          "An allergic reaction presents with hives and itching (with possible dyspnea), not JVD and hypertension.",
+          "Volume overload signs are never an expected, acceptable response."
+        ]
+      },
+      {
+        "stem": "A client with polycythemia vera has several findings. Which requires the most immediate attention?",
+        "options": [
+          "A warm, swollen, painful right calf",
+          "Itching after a warm shower",
+          "A ruddy, reddened facial complexion",
+          "Reports of a mild headache"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Thickened, hyperviscous blood makes thromboembolism the priority danger; a warm, swollen, painful calf suggests DVT, which can progress to pulmonary embolism — the cue needing immediate action.",
+          "Pruritus after a warm shower or bath is a classic but non-emergent symptom of polycythemia.",
+          "A ruddy complexion is an expected finding from increased red cell mass, not urgent.",
+          "A mild headache is common with hyperviscosity but far lower priority than a possible DVT."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client with polycythemia vera about reducing complications. Which statement indicates a need for further teaching?",
+        "options": [
+          "I should stay still and limit walking so I don't get tired.",
+          "I'll drink plenty of fluids to keep my blood from getting too thick.",
+          "Therapeutic phlebotomy helps lower my red blood cell count.",
+          "Itching after a hot shower is common with my condition."
+        ],
+        "answer": 0,
+        "explanations": [
+          "Immobility raises clot risk in already hyperviscous blood; clients should stay active and ambulate rather than limit movement — this statement needs correction.",
+          "Adequate hydration lowers blood viscosity and clot risk — correct understanding.",
+          "Therapeutic phlebotomy is the mainstay treatment to remove excess RBCs and lower hematocrit — correct.",
+          "Pruritus after a hot shower is a recognized symptom of the condition — correct understanding."
+        ]
+      },
+      {
+        "stem": "A client with symptomatic anemia (Hgb 8.1 g/dL) becomes fatigued and short of breath with minimal exertion. Which intervention best supports the client?",
+        "options": [
+          "Cluster nursing care and schedule frequent rest periods between activities",
+          "Have the client complete all ADLs independently to build endurance",
+          "Maintain strict bed rest indefinitely",
+          "Withhold all ambulation until the hemoglobin is normal"
+        ],
+        "answer": 0,
+        "explanations": [
+          "With reduced oxygen-carrying capacity, energy conservation is the priority — clustering care, spacing activities, and providing rest periods let the client stay active within tolerance while limiting oxygen demand.",
+          "Pushing the client to complete all ADLs exceeds tolerance and worsens dyspnea and fall risk.",
+          "Strict indefinite bed rest promotes deconditioning and complications such as clots.",
+          "Activity as tolerated (with rest) is encouraged; withholding all ambulation is unnecessary and harmful."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client with darkly pigmented skin for pallor related to anemia. Which sites provide the most reliable assessment?",
+        "options": [
+          "The conjunctiva and oral mucous membranes",
+          "The dorsum of the hands",
+          "The lower legs and ankles",
+          "The skin over the abdomen"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Pallor is assessed most reliably in the conjunctiva, oral mucosa, and nail beds, which reflect perfusion regardless of skin pigmentation.",
+          "Skin color on the hands is affected by pigmentation and is unreliable for pallor in darker skin tones.",
+          "The lower legs and ankles are affected by pigmentation and circulation and are not the best pallor sites.",
+          "Abdominal skin is subject to pigmentation and does not reliably show pallor."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client about oral iron therapy. Which instructions should the nurse include? Select all that apply.",
+        "options": [
+          "Take the iron with a source of vitamin C, such as orange juice.",
+          "Take the iron together with antacids to prevent stomach upset.",
+          "Expect your stools to become dark; this is normal.",
+          "Continue the iron as prescribed even after you feel less tired.",
+          "If taking liquid iron, use a straw and brush your teeth afterward.",
+          "Increase fluids and dietary fiber to manage constipation."
+        ],
+        "answer": [
+          0,
+          2,
+          3,
+          4,
+          5
+        ],
+        "explanations": [
+          "Correct—vitamin C enhances iron absorption.",
+          "Incorrect—antacids (like calcium and dairy) decrease iron absorption and should be separated from iron by at least 2 hours.",
+          "Correct—dark stools are an expected effect of oral iron.",
+          "Correct—iron stores take months to replenish, so therapy continues even after symptoms improve.",
+          "Correct—a straw and brushing prevent liquid iron from staining the teeth.",
+          "Correct—increased fluids and fiber help prevent iron-induced constipation."
+        ],
+        "type": "sata"
+      }
+    ],
+    "med-surg-lower-gi": [
+      {
+        "stem": "A client with irritable bowel syndrome (IBS) asks how to reduce symptoms. Which nursing recommendation is the first-line dietary approach?",
+        "options": [
+          "Keep a food diary and follow a low-FODMAP diet to identify and limit trigger foods",
+          "Follow a high-FODMAP diet to add bulk",
+          "Eliminate all fiber from the diet permanently",
+          "Take a daily stimulant laxative"
+        ],
+        "answer": 0,
+        "explanations": [
+          "IBS is a functional disorder; a food diary plus a low-FODMAP diet is the first-line dietary intervention to identify and reduce the fermentable trigger foods that cause bloating, pain, and altered bowel habits.",
+          "High-FODMAP foods are fermented by gut bacteria and worsen IBS symptoms.",
+          "Permanently eliminating all fiber is not recommended; triggers are individualized.",
+          "Daily stimulant laxatives are not first-line and risk dependence."
+        ]
+      },
+      {
+        "stem": "A client is being evaluated for IBS. Which finding is inconsistent with IBS and should prompt the nurse to notify the provider for further workup?",
+        "options": [
+          "Bloody diarrhea with unintended weight loss and fever",
+          "Abdominal pain that improves after a bowel movement",
+          "Alternating constipation and diarrhea",
+          "Symptoms that worsen with stress"
+        ],
+        "answer": 0,
+        "explanations": [
+          "IBS is functional with no structural damage or bleeding; bloody diarrhea, weight loss, and fever are red flags for inflammatory bowel disease or malignancy and must be reported for further evaluation.",
+          "Pain relieved by defecation is a classic diagnostic feature of IBS.",
+          "Alternating constipation and diarrhea (IBS-M) fits IBS.",
+          "Stress commonly worsens IBS symptoms and is expected."
+        ]
+      },
+      {
+        "stem": "A client with chronic constipation now reports severe abdominal distention, vomiting, and inability to pass stool or flatus. Bowel sounds are absent. Which is the nurse's priority action?",
+        "options": [
+          "Keep the client NPO and notify the provider for suspected bowel obstruction",
+          "Administer the client's scheduled fiber supplement",
+          "Encourage ambulation and increased fluids",
+          "Give a stimulant laxative to relieve the constipation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Distention, vomiting, absent bowel sounds, and no passage of stool or flatus are cues of bowel obstruction — an emergency; the nurse keeps the client NPO and notifies the provider, anticipating an NG tube, IV fluids, and surgical consult.",
+          "Fiber requires water and normal transit; it is harmful and contraindicated in a suspected obstruction.",
+          "Fluids and ambulation are for routine constipation, not an acute obstruction with vomiting.",
+          "Laxatives are contraindicated in bowel obstruction and can lead to perforation."
+        ]
+      },
+      {
+        "stem": "A client reports chronic constipation. Before laxatives are considered, which nursing intervention is first-line?",
+        "options": [
+          "Increase dietary fiber and fluids, promote activity, and teach bowel retraining",
+          "Begin a daily stimulant laxative",
+          "Restrict fluids to firm up the stool",
+          "Recommend prolonged bed rest"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Lifestyle measures — adequate fiber (25–35 g/day) with fluids, physical activity, and bowel retraining — are first-line before medications and address the common causes of constipation.",
+          "Daily stimulant laxatives are reserved for rescue use and risk dependence; they are not first-line.",
+          "Restricting fluids worsens constipation, especially when fiber is increased.",
+          "Immobility slows colonic transit and worsens constipation."
+        ]
+      },
+      {
+        "stem": "A nurse teaches bowel retraining to a client with chronic constipation. Which instruction reflects correct use of the gastrocolic reflex?",
+        "options": [
+          "Try to have a bowel movement about 20–40 minutes after a meal each day",
+          "Wait until you feel completely full before attempting a bowel movement",
+          "Attempt a bowel movement only when you wake during the night",
+          "Ignore the urge to defecate until a scheduled time"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The gastrocolic reflex stimulates colonic motility after eating, so attempting a bowel movement 20–40 minutes after a meal — at the same time daily — supports a regular routine.",
+          "Waiting for a feeling of fullness does not use the post-meal reflex and can promote retention.",
+          "Nighttime attempts do not align with the meal-triggered gastrocolic reflex.",
+          "Ignoring the urge to defecate promotes constipation and should be avoided."
+        ]
+      },
+      {
+        "stem": "A client needs a laxative for ongoing constipation after lifestyle changes were insufficient. Which class is generally preferred as a gentle, low-habit-forming first choice?",
+        "options": [
+          "Osmotic laxative such as polyethylene glycol (Miralax)",
+          "Stimulant laxative such as bisacodyl for daily use",
+          "Daily long-term mineral oil",
+          "Routine enemas every morning"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Osmotic laxatives (polyethylene glycol) draw water into the colon, are gentle and low habit-forming, and are the preferred first medication after lifestyle measures; onset is 1–3 days.",
+          "Stimulant laxatives are for short-term rescue only; daily use risks laxative dependence.",
+          "Chronic daily mineral oil risks aspiration and impaired fat-soluble vitamin absorption and is not preferred.",
+          "Routine daily enemas are not first-line maintenance therapy and can cause dependence."
+        ]
+      },
+      {
+        "stem": "A client is prescribed a bulk-forming agent (psyllium) for constipation. Which teaching point is essential?",
+        "options": [
+          "Take each dose with a full glass of water",
+          "Take it with as little liquid as possible",
+          "Expect it to work within 30 minutes",
+          "Stop all dietary fiber while taking it"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bulk-forming agents absorb water to soften and bulk stool and must be taken with a full glass of water — fiber without adequate fluid can worsen constipation or cause obstruction.",
+          "Taking a bulking agent with little liquid can worsen constipation or cause impaction and obstruction.",
+          "Bulk-forming agents act over days, not within 30 minutes.",
+          "Dietary fiber is continued; it works with the agent, not against it."
+        ]
+      },
+      {
+        "stem": "A client with chronic constipation makes the following statements. Which indicates a need for further teaching?",
+        "options": [
+          "I'll take senna every day so I never get constipated.",
+          "I'll drink more water when I add fiber to my diet.",
+          "Walking each day can help my bowels move.",
+          "I'll try to move my bowels at the same time each day."
+        ],
+        "answer": 0,
+        "explanations": [
+          "Stimulant laxatives (senna, bisacodyl) are for short-term rescue only; daily long-term use causes laxative dependence — this statement needs correction.",
+          "Increasing water when adding fiber is correct and prevents worsening constipation.",
+          "Daily activity stimulates peristalsis and is correct.",
+          "Attempting a bowel movement at the same time each day supports bowel retraining."
+        ]
+      },
+      {
+        "stem": "A client with ulcerative colitis in remission tells the nurse, 'I feel great, so I stopped taking my mesalamine.' Which response is most appropriate?",
+        "options": [
+          "Maintenance medication should be continued even in remission, because stopping it is the most common preventable cause of flares",
+          "That's reasonable; you can restart it only if symptoms return",
+          "You can switch to taking it only when you eat trigger foods",
+          "Stopping it is fine as long as you avoid NSAIDs"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Medication non-adherence is the leading preventable trigger of IBD flares; maintenance therapy such as mesalamine is continued during remission to keep inflammation suppressed — this teaching corrects the client's misconception.",
+          "Waiting to restart until symptoms return allows inflammation to flare; maintenance is continuous.",
+          "Taking maintenance medication only with trigger foods does not maintain therapeutic suppression.",
+          "Avoiding NSAIDs helps, but it does not replace continuous maintenance therapy."
+        ]
+      },
+      {
+        "stem": "A client is diagnosed with Crohn's disease. Which findings are characteristic of Crohn's rather than ulcerative colitis?",
+        "options": [
+          "Patchy skip lesions anywhere from mouth to anus, with fistulas and malabsorption",
+          "Continuous inflammation limited to the colon and rectum",
+          "Bloody diarrhea with a high risk of toxic megacolon",
+          "Inflammation confined to the mucosal layer only"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Crohn's causes transmural, patchy 'skip' lesions anywhere from mouth to anus, commonly with fistulas and malabsorption — distinguishing it from ulcerative colitis.",
+          "Continuous inflammation of the colon and rectum describes ulcerative colitis.",
+          "Bloody diarrhea and toxic megacolon risk are characteristic of ulcerative colitis.",
+          "Mucosal-only inflammation describes ulcerative colitis; Crohn's is transmural."
+        ]
+      },
+      {
+        "stem": "A client with IBD has the following prescriptions. Which should the nurse question for long-term maintenance therapy?",
+        "options": [
+          "Prednisone daily indefinitely to keep the disease in remission",
+          "Mesalamine (5-ASA) for maintenance of mild-to-moderate ulcerative colitis",
+          "Azathioprine for long-term maintenance",
+          "A biologic (infliximab) for moderate-to-severe disease"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Corticosteroids are for acute flares only, not long-term maintenance — chronic use causes osteoporosis, hyperglycemia, hypertension, and cataracts; ongoing prednisone for maintenance should be questioned.",
+          "Mesalamine is appropriate first-line maintenance therapy for mild-to-moderate UC.",
+          "Immunomodulators such as azathioprine are used for long-term maintenance.",
+          "Biologics such as infliximab are appropriate for moderate-to-severe disease."
+        ]
+      },
+      {
+        "stem": "A client with Crohn's disease suddenly develops a rigid, board-like abdomen, rebound tenderness, fever, heart rate 124, and BP 92/58. Which nursing action is the priority?",
+        "options": [
+          "Notify the provider immediately, keep the client NPO, and prepare for emergency intervention",
+          "Administer a scheduled dose of oral mesalamine",
+          "Encourage a low-residue meal to rest the bowel",
+          "Provide a heating pad for abdominal comfort"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A rigid, board-like abdomen with rebound tenderness, fever, tachycardia, and hypotension signals perforation with peritonitis — a surgical emergency requiring immediate provider notification, NPO status, IV fluids and antibiotics, and surgical preparation.",
+          "Giving oral medication is unsafe in a client who must be NPO for a surgical abdomen.",
+          "Feeding a client with a suspected perforation is contraindicated.",
+          "A heating pad can worsen intra-abdominal inflammation and delays needed emergency care."
+        ]
+      },
+      {
+        "stem": "A client with ulcerative colitis has marked abdominal distention, fever, heart rate 130, a toxic appearance, and decreased bowel sounds. The nurse recognizes which complication?",
+        "options": [
+          "Toxic megacolon",
+          "An irritable bowel syndrome flare",
+          "Simple constipation",
+          "Lactose intolerance"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Massive colonic dilation with fever, tachycardia, and a toxic appearance in UC indicates toxic megacolon — a medical emergency with high perforation risk; the client is kept NPO with IV fluids and urgent provider notification (colectomy may be needed).",
+          "An IBS flare is functional and does not cause fever, a toxic appearance, or massive dilation.",
+          "Simple constipation does not produce fever, tachycardia, and a toxic appearance.",
+          "Lactose intolerance causes bloating and diarrhea, not this emergent toxic picture."
+        ]
+      },
+      {
+        "stem": "A client with an IBD flare has worsening diarrhea, and C. difficile infection has not yet been ruled out. The provider prescribes an antimotility agent (loperamide). What is the nurse's best action?",
+        "options": [
+          "Question the prescription, because antimotility agents can precipitate toxic megacolon and should be avoided until C. difficile is excluded",
+          "Administer the loperamide as prescribed to reduce fluid loss",
+          "Administer it only with the next meal",
+          "Double the dose to control the diarrhea faster"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Antimotility agents should not be used when C. difficile is suspected or during a severe IBD flare — slowing motility can precipitate toxic megacolon; the nurse questions the order and anticipates stool testing first.",
+          "Giving loperamide before excluding C. diff risks toxic megacolon — it is unsafe here.",
+          "Timing it with a meal does not remove the risk of precipitating toxic megacolon.",
+          "Increasing the dose increases the danger of toxic megacolon."
+        ]
+      },
+      {
+        "stem": "During an acute IBD flare, which diet does the nurse anticipate teaching the client to follow?",
+        "options": [
+          "A low-residue (low-fiber) diet to reduce stool volume and rest the bowel",
+          "A high-fiber diet to add bulk",
+          "A high-FODMAP diet",
+          "Raw fruits and vegetables with the skins on"
+        ],
+        "answer": 0,
+        "explanations": [
+          "During flares, a low-residue/low-fiber diet decreases stool volume and bowel irritation, allowing the inflamed bowel to rest.",
+          "High fiber increases stool bulk and bowel workload, worsening a flare.",
+          "A high-FODMAP diet is a trigger-focused approach for IBS, not appropriate for an IBD flare.",
+          "Raw produce with skins is high-residue and irritating during a flare."
+        ]
+      },
+      {
+        "stem": "A nurse reviews labs for a client with IBD. Which results indicate active inflammation and are used to monitor disease activity?",
+        "options": [
+          "Elevated CRP and ESR",
+          "Low CRP and low ESR",
+          "Elevated ferritin and low TIBC",
+          "Elevated platelets with a normal WBC"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CRP and ESR are inflammatory markers; elevations indicate systemic inflammation and are used to track IBD disease activity and response to treatment.",
+          "Low CRP and ESR would suggest little active inflammation, not an active flare.",
+          "Ferritin and TIBC are iron-study values, not markers of IBD inflammatory activity.",
+          "Platelet and WBC counts alone are not the specific markers used to gauge IBD inflammatory activity."
+        ]
+      },
+      {
+        "stem": "A nurse teaches an average-risk 45-year-old about colorectal cancer screening. Which statement by the client indicates correct understanding?",
+        "options": [
+          "A colonoscopy is the gold standard because it can find and remove precancerous polyps.",
+          "I don't need any screening unless I have symptoms.",
+          "A positive stool test means I have cancer and need no further tests.",
+          "Screening should not begin until age 65."
+        ],
+        "answer": 0,
+        "explanations": [
+          "Colonoscopy is the gold standard for CRC screening — it is both diagnostic and preventive because polyps can be removed during the procedure; average-risk screening begins at age 45.",
+          "CRC is often asymptomatic until advanced, so screening should not wait for symptoms.",
+          "A positive stool test is a screening result that requires a follow-up diagnostic colonoscopy, not a diagnosis by itself.",
+          "Average-risk screening begins at age 45, not 65."
+        ]
+      },
+      {
+        "stem": "A client reports several weeks of pencil-thin (narrow) stools and bright red blood in the stool. Which nursing action is most appropriate?",
+        "options": [
+          "Report the findings and facilitate referral for a colonoscopy to evaluate for colorectal cancer",
+          "Reassure the client that this is a normal variation",
+          "Recommend a stimulant laxative for the narrow stools",
+          "Advise increasing dietary fiber and rechecking in 6 months"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Narrow, pencil-thin stools with rectal bleeding are red flags for a left-sided colorectal cancer narrowing the lumen; the nurse reports the findings and facilitates a diagnostic colonoscopy.",
+          "These are warning signs, not a normal variation; reassurance is unsafe.",
+          "A laxative does not address a possible obstructing tumor and delays diagnosis.",
+          "Delaying evaluation for months with only fiber risks progression of a possible malignancy."
+        ]
+      },
+      {
+        "stem": "On the second postoperative day, a nurse assesses a client's new colostomy and finds the stoma is dark bluish-purple and dusky. What is the nurse's priority action?",
+        "options": [
+          "Notify the provider immediately, because this suggests impaired blood supply (ischemia)",
+          "Document the expected finding and continue routine care",
+          "Apply a warm compress and reassess in 8 hours",
+          "Increase the frequency of pouch changes"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A healthy stoma is pink to red and moist; a dark bluish-purple or dusky stoma indicates ischemia (black or brown indicates necrosis) and must be reported immediately.",
+          "A dusky, bluish stoma is abnormal, not expected, and requires provider notification.",
+          "Delaying reassessment for hours risks progression to necrosis.",
+          "Changing the pouch more often does not address compromised stoma perfusion."
+        ]
+      },
+      {
+        "stem": "A nurse provides discharge teaching to a client with a new ileostomy. Which instructions should the nurse include? Select all that apply.",
+        "options": [
+          "Increase your fluid intake because you lose more fluid and electrolytes with an ileostomy.",
+          "Clean the skin around the stoma with soap and water.",
+          "Expect the output to be liquid to semi-liquid.",
+          "Irrigate your ileostomy each morning to control the output.",
+          "Report a stoma that turns pale, black, or dusky.",
+          "Limit gas-producing foods such as beans, cabbage, and carbonated drinks."
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4,
+          5
+        ],
+        "explanations": [
+          "Correct—ileostomy fluid and electrolyte losses are high, so increased fluid intake is needed.",
+          "Correct—the stoma and peristomal skin are cleaned with soap and water; sterile technique is not required.",
+          "Correct—ileostomy output is normally liquid to semi-liquid.",
+          "Incorrect—irrigation is used only for sigmoid colostomies, never ileostomies.",
+          "Correct—a pale, black, or dusky stoma signals ischemia or necrosis and must be reported.",
+          "Correct—limiting gas-producing foods helps control gas and odor."
+        ],
+        "type": "sata"
       }
     ]
   }
