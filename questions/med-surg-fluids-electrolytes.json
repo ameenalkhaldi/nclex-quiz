@@ -1,0 +1,554 @@
+{
+  "topic": "med-surg-fluids-electrolytes",
+  "label": "Med-Surg: Fluids & Electrolytes",
+  "questions": [
+    {
+      "stem": "A nurse reviews morning labs on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A client with a potassium of 6.6 mEq/L and peaked T waves on the monitor",
+        "A client with a sodium of 133 mEq/L reporting mild thirst",
+        "A client with a calcium of 8.6 mg/dL and no symptoms",
+        "A client with a magnesium of 1.7 mg/dL scheduled for discharge"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hyperkalemia with peaked T waves is the priority because potassium excess causes fatal dysrhythmias; recognizing these cardiac cues makes this client the one to see first.",
+        "incorrect": [
+          "A sodium of 133 is only mildly low and thirst is not life-threatening.",
+          "A calcium of 8.6 is within normal limits and asymptomatic.",
+          "A magnesium of 1.7 is normal and does not delay a safe discharge."
+        ]
+      }
+    },
+    {
+      "stem": "A provider prescribes potassium chloride 20 mEq. Which order should the nurse question?",
+      "options": [
+        "Give 20 mEq IV push over 2 minutes",
+        "Infuse diluted KCl by IV pump at 10 mEq/hour through a peripheral line",
+        "Give 20 mEq oral KCl with 8 oz of juice and food",
+        "Monitor the ECG and the IV site during the infusion"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "IV potassium must never be given as a push or bolus because it can cause fatal cardiac arrhythmias; recognizing this danger, the nurse questions the IV push order.",
+        "incorrect": [
+          "Diluted KCl by pump at no more than 10 mEq/hour peripherally is the safe administration standard.",
+          "Oral KCl given with a full glass of fluid and food is appropriate and reduces GI upset.",
+          "Monitoring the ECG and IV site during potassium infusion is correct nursing care."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is preparing to administer IV potassium chloride to a client with hypokalemia. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Always administer the infusion via an IV pump",
+        "Infuse no more than 10 mEq per hour through a peripheral line",
+        "Ensure the KCl is diluted, never given undiluted",
+        "Give the dose as a rapid IV push to correct the level quickly",
+        "Monitor the peripheral IV site for infiltration or phlebitis"
+      ],
+      "answer": [0, 1, 2, 4],
+      "type": "sata",
+      "rationale": {
+        "correct": "Safe IV potassium requires a pump, a peripheral rate no greater than 10 mEq/hour, dilution, and site monitoring for infiltration/phlebitis; it is never given as a push.",
+        "incorrect": [
+          "Correct—an IV pump controls the rate and prevents accidental rapid infusion.",
+          "Correct—peripheral KCl is limited to 10 mEq/hour to avoid vein irritation and cardiac risk.",
+          "Correct—potassium must be diluted; undiluted potassium is dangerous.",
+          "Incorrect—IV push potassium can cause fatal dysrhythmias and is never done.",
+          "Correct—the site is watched for infiltration and phlebitis during the infusion."
+        ]
+      }
+    },
+    {
+      "stem": "A client with heart failure takes digoxin and furosemide and has chronic diarrhea. Which lab value most increases this client's risk for digoxin toxicity?",
+      "options": [
+        "Potassium 2.9 mEq/L",
+        "Sodium 140 mEq/L",
+        "Chloride 101 mEq/L",
+        "Calcium 9.2 mg/dL"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hypokalemia potentiates digoxin's effect on the heart and greatly increases toxicity risk; furosemide and diarrhea both deplete potassium, so a level of 2.9 is the dangerous cue to correlate with digoxin.",
+        "incorrect": [
+          "A sodium of 140 is normal and not linked to digoxin toxicity.",
+          "A chloride of 101 is within normal limits.",
+          "A calcium of 9.2 is normal and not the key driver of digoxin toxicity here."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a potassium of 6.9 mEq/L receives regular insulin with dextrose, sodium bicarbonate, and IV calcium gluconate, but the repeat potassium remains elevated. Which additional intervention actually removes potassium from the body?",
+      "options": [
+        "Sodium polystyrene sulfonate (Kayexalate)",
+        "Additional IV calcium gluconate",
+        "Another dose of regular insulin with dextrose",
+        "A beta-adrenergic agonist"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Insulin/dextrose, bicarbonate, and beta-agonists only shift potassium into cells, and calcium merely stabilizes the myocardium; Kayexalate (and dialysis) actually eliminate potassium from the body — the step needed when the level stays high.",
+        "incorrect": [
+          "Calcium gluconate protects the heart but does not lower the potassium level.",
+          "Insulin with dextrose shifts potassium into cells temporarily but does not remove it.",
+          "A beta-agonist also only drives potassium into cells, not out of the body."
+        ]
+      }
+    },
+    {
+      "stem": "A client with liver failure and hypotension has an order for lactated Ringer's. Why should the nurse question this prescription?",
+      "options": [
+        "The failing liver cannot metabolize lactate, which can worsen lactic acidosis",
+        "Lactated Ringer's is hypertonic and will shrink the client's cells",
+        "Lactated Ringer's contains dextrose that will spike the blood glucose",
+        "Lactated Ringer's has no electrolytes and cannot expand volume"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "LR is metabolized by the liver into bicarbonate; in liver failure that conversion fails and lactate accumulates, worsening lactic acidosis — so the nurse questions LR for this client.",
+        "incorrect": [
+          "LR is isotonic, not hypertonic, and does not shrink cells.",
+          "LR does not contain dextrose; it replaces electrolytes.",
+          "LR is an electrolyte-containing isotonic solution used for volume expansion."
+        ]
+      }
+    },
+    {
+      "stem": "A client with severe symptomatic hyponatremia is prescribed 3% sodium chloride. Which nursing action is most important during the infusion?",
+      "options": [
+        "Infuse slowly via pump and monitor neuro status and lungs for crackles",
+        "Infuse rapidly to correct the sodium as quickly as possible",
+        "Give the solution through a small peripheral vein in the hand",
+        "Withhold neurologic checks to avoid disturbing the client"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hypertonic 3% saline must be given slowly with close monitoring: too-rapid correction risks osmotic demyelination, and the fluid load risks pulmonary edema, so the nurse watches neuro status and lung sounds.",
+        "incorrect": [
+          "Rapid correction of sodium can cause osmotic demyelination syndrome.",
+          "Hypertonic saline is ideally given via a central line, not a small peripheral vein.",
+          "Neurologic monitoring is essential, not withheld, during hypertonic saline."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hyponatremia is receiving 3% saline. The sodium is being corrected too quickly. Which complication is the nurse most concerned about?",
+      "options": [
+        "Osmotic demyelination syndrome",
+        "Peripheral edema of the ankles",
+        "Metabolic alkalosis",
+        "Hyperkalemia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Rapidly raising serum sodium shifts water out of brain cells and can cause osmotic demyelination syndrome; that is why symptomatic hyponatremia is corrected slowly.",
+        "incorrect": [
+          "Ankle edema is not the feared consequence of overly rapid sodium correction.",
+          "Metabolic alkalosis is not the primary risk of rapid hypertonic saline correction.",
+          "Hyperkalemia is unrelated to the rate of sodium correction."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a traumatic brain injury and cerebral edema needs IV fluid. Which solution would be most harmful and should be avoided?",
+      "options": [
+        "D5W (a hypotonic solution in the body)",
+        "0.9% sodium chloride (isotonic)",
+        "3% sodium chloride (hypertonic)",
+        "Lactated Ringer's (isotonic)"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "D5W acts hypotonic once the dextrose is metabolized, driving water into cells and worsening cerebral edema — the most harmful choice for a brain-injured client.",
+        "incorrect": [
+          "Isotonic 0.9% saline stays in the vascular space and does not shift water into brain cells.",
+          "Hypertonic 3% saline actually pulls fluid out of swollen cells and may be used for cerebral edema.",
+          "Isotonic LR does not cause the cellular water shift that worsens cerebral edema."
+        ]
+      }
+    },
+    {
+      "stem": "A nursing student asks why D5W is labeled isotonic but is considered hypotonic in the body. What is the nurse's best explanation?",
+      "options": [
+        "\"The dextrose is metabolized, leaving free water that shifts into the cells.\"",
+        "\"The dextrose makes the solution permanently stay in the bloodstream.\"",
+        "\"D5W gains sodium in the body, which makes it hypertonic.\"",
+        "\"D5W never changes tonicity once it leaves the bag.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In the bag D5W is roughly isotonic, but once infused the body metabolizes the dextrose, leaving free water that moves into cells — so it behaves as a hypotonic solution.",
+        "incorrect": [
+          "The dextrose is used by the body; it does not keep the fluid in the bloodstream.",
+          "D5W does not acquire sodium to become hypertonic.",
+          "Its effective tonicity changes as the dextrose is metabolized."
+        ]
+      }
+    },
+    {
+      "stem": "A client in hypovolemic shock is prescribed 0.9% sodium chloride as a bolus. Which assessment is most important during rapid isotonic fluid replacement?",
+      "options": [
+        "Auscultate the lungs and monitor for signs of fluid overload",
+        "Assess for cellular dehydration and shrinkage",
+        "Monitor for a falling blood glucose level",
+        "Watch for osmotic demyelination syndrome"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Isotonic saline expands intravascular volume, so during rapid infusion the nurse watches for fluid overload — crackles and pulmonary edema — especially in cardiac or renal clients.",
+        "incorrect": [
+          "Isotonic fluid does not cause cellular dehydration; it stays in the vascular space.",
+          "0.9% saline contains no dextrose and does not lower blood glucose.",
+          "Osmotic demyelination is a risk of rapid hypertonic sodium correction, not isotonic saline."
+        ]
+      }
+    },
+    {
+      "stem": "A client's calcium is 7.2 mg/dL. Which assessment findings support this result?",
+      "options": [
+        "Positive Chvostek's and Trousseau's signs with muscle twitching",
+        "Bone pain, kidney stones, and lethargy",
+        "Reduced deep tendon reflexes and constipation",
+        "Peaked T waves and diarrhea"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hypocalcemia causes neuromuscular hyperexcitability: positive Chvostek's and Trousseau's signs, twitching, and tingling — the cues matching a calcium of 7.2.",
+        "incorrect": [
+          "Bones, stones, and lethargy describe hypercalcemia, not hypocalcemia.",
+          "Reduced reflexes and constipation reflect hypercalcemia or hypermagnesemia.",
+          "Peaked T waves and diarrhea point to hyperkalemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hypercalcemia (calcium 12.6 mg/dL) presents with kidney stones, bone pain, and confusion. Which treatment does the nurse anticipate?",
+      "options": [
+        "IV normal saline to promote saline diuresis",
+        "IV calcium gluconate replacement",
+        "Fluid restriction to concentrate the calcium",
+        "Oral calcium supplements with vitamin D"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hypercalcemia ('stones, bones, and psychic groans') is treated with saline diuresis — isotonic fluids that dilute the calcium and promote its urinary excretion.",
+        "incorrect": [
+          "Giving calcium would worsen the already high level.",
+          "Fluid restriction concentrates calcium further and worsens the problem.",
+          "Oral calcium and vitamin D raise calcium, the opposite of what is needed."
+        ]
+      }
+    },
+    {
+      "stem": "A client with alcohol use disorder has a magnesium of 1.1 mg/dL. Which finding is the most dangerous consequence the nurse monitors for?",
+      "options": [
+        "Torsades de pointes or ventricular fibrillation",
+        "Hyperactive bowel sounds",
+        "Warm, flushed skin",
+        "Increased urine output"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Severe hypomagnesemia predisposes to lethal ventricular dysrhythmias such as Torsades de pointes and V-fib; recognizing this cardiac risk is the priority, and IV magnesium is given.",
+        "incorrect": [
+          "Bowel sounds are not the life-threatening concern in hypomagnesemia.",
+          "Warm, flushed skin is not the dangerous magnesium finding.",
+          "Urine output changes are not the critical risk of low magnesium."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic kidney disease who regularly takes magnesium-containing antacids is lethargic with reduced deep tendon reflexes and a blood pressure of 92/54. Which imbalance does the nurse suspect?",
+      "options": [
+        "Hypermagnesemia",
+        "Hypomagnesemia",
+        "Hypernatremia",
+        "Hypochloremia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Renal failure plus magnesium-based antacids (Milk of Magnesia) causes magnesium to accumulate; diminished reflexes, lethargy, and hypotension are the classic cues of hypermagnesemia.",
+        "incorrect": [
+          "Hypomagnesemia causes hyperactive reflexes and Torsades, the opposite of this picture.",
+          "Hypernatremia causes neurologic excitability from cellular dehydration, not depressed reflexes.",
+          "Hypochloremia does not produce this pattern of depressed reflexes and hypotension."
+        ]
+      }
+    },
+    {
+      "stem": "A client with end-stage renal disease has a phosphate of 6.4 mg/dL. Based on the relationship between calcium and phosphate, what does the nurse also expect?",
+      "options": [
+        "A low calcium level",
+        "A high calcium level",
+        "A high sodium level",
+        "A low potassium level"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Calcium and phosphate are inversely proportional, so a high phosphate is accompanied by a low calcium — the nurse anticipates hypocalcemia with this hyperphosphatemia.",
+        "incorrect": [
+          "Calcium moves opposite to phosphate, so it falls rather than rises.",
+          "Sodium is not governed by the calcium–phosphate inverse relationship.",
+          "Potassium is not directly tied to the phosphate level in this way."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is preparing to transfuse packed red blood cells. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Verify ABO and Rh compatibility with a second nurse",
+        "Prime the tubing with 0.9% sodium chloride only",
+        "Monitor for fever, chills, and allergic signs during the transfusion",
+        "Prime the tubing with dextrose 5% in water to prevent clotting",
+        "Infuse each unit over approximately 90 to 120 minutes"
+      ],
+      "answer": [0, 1, 2, 4],
+      "type": "sata",
+      "rationale": {
+        "correct": "Safe PRBC transfusion requires verifying ABO/Rh compatibility, using only 0.9% saline with blood, monitoring for transfusion reactions, and infusing over about 90–120 minutes; dextrose solutions cause hemolysis and are never used.",
+        "incorrect": [
+          "Correct—ABO/Rh verification prevents a fatal hemolytic reaction.",
+          "Correct—only isotonic 0.9% saline is compatible with blood products.",
+          "Correct—watching for fever, chills, and allergic signs detects a transfusion reaction early.",
+          "Incorrect—dextrose (D5W) causes red cells to hemolyze and must never be used with blood.",
+          "Correct—a unit is typically infused over 90–120 minutes."
+        ]
+      }
+    },
+    {
+      "stem": "A client with liver disease and an elevated PT/INR is bleeding. Which blood product does the nurse anticipate to replace the deficient clotting factors?",
+      "options": [
+        "Fresh frozen plasma (FFP)",
+        "Packed red blood cells (PRBCs)",
+        "Albumin 25%",
+        "0.9% sodium chloride bolus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "FFP contains all the clotting factors and is used to correct an elevated PT/INR from liver disease or warfarin — not for simple volume expansion.",
+        "incorrect": [
+          "PRBCs raise hemoglobin and oxygen-carrying capacity but do not replace clotting factors.",
+          "Albumin expands volume by oncotic pull; it has no clotting factors.",
+          "Saline expands volume but does not correct a coagulopathy."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a platelet count of 18,000/µL is receiving a platelet transfusion. Which nursing teaching is most appropriate?",
+      "options": [
+        "Teach bleeding precautions and avoid NSAIDs such as ibuprofen",
+        "Encourage a diet high in vitamin K to thin the blood",
+        "Instruct the client to use a firm-bristled toothbrush",
+        "Reassure the client that intramuscular injections are preferred"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Severe thrombocytopenia raises bleeding risk, so bleeding precautions and avoiding NSAIDs (which impair platelet function) are the priority teaching.",
+        "incorrect": [
+          "The goal is to prevent bleeding, not thin the blood.",
+          "A soft, not firm, toothbrush is used to avoid gum bleeding.",
+          "IM injections are avoided in thrombocytopenia because they can cause bleeding into tissue."
+        ]
+      }
+    },
+    {
+      "stem": "A client with burns and hypoalbuminemia is prescribed 25% albumin. The nurse understands this colloid works by:",
+      "options": [
+        "Increasing oncotic pressure to pull fluid into the intravascular space",
+        "Adding free water that shifts into the cells",
+        "Providing clotting factors to control bleeding",
+        "Directly lowering the serum potassium level"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Albumin is a colloid that raises oncotic pressure, drawing fluid from the interstitial space into the vessels to expand plasma volume — its mechanism in burns and hypoalbuminemia.",
+        "incorrect": [
+          "Albumin pulls fluid into vessels; it does not add free water that enters cells.",
+          "Albumin carries no clotting factors.",
+          "Albumin does not lower potassium."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about body fluid compartments. Which statement is accurate?",
+      "options": [
+        "Intracellular fluid is about two-thirds of body water, with potassium as its major cation",
+        "Extracellular fluid is two-thirds of body water, with potassium as its major cation",
+        "Intracellular fluid's major cation is sodium",
+        "Total body water makes up about 20% of adult body weight"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Intracellular fluid holds about two-thirds of body water and its major cation is potassium, while the extracellular compartment (one-third) has sodium as its major cation.",
+        "incorrect": [
+          "ECF, not ICF, is one-third of body water; potassium is the ICF cation, not the ECF cation.",
+          "Sodium is the major extracellular cation; potassium dominates inside the cell.",
+          "Total body water is roughly 60%, not 20%, of adult body weight."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is identifying clients at highest risk for fluid and electrolyte imbalance. Which two groups are the highest risk?",
+      "options": [
+        "Infants and older adults",
+        "Adolescents and young adults",
+        "School-age children and middle-aged adults",
+        "Young adults and middle-aged adults"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Infants (immature kidneys, higher body-water percentage) and older adults (decreased renal function and thirst perception) are at the extremes of risk for fluid and electrolyte imbalance.",
+        "incorrect": [
+          "Adolescents and young adults have mature renal function and intact thirst.",
+          "School-age children and middle-aged adults are not the highest-risk groups.",
+          "Young and middle-aged adults tolerate fluid shifts far better than the very young and very old."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hypokalemia (potassium 3.0 mEq/L) from diuretic use is being taught about diet. Which foods should the nurse recommend to help raise potassium?",
+      "options": [
+        "Bananas, oranges, potatoes, and spinach",
+        "White bread, butter, and hard candy",
+        "Egg whites and clear broth only",
+        "Apples, rice, and pasta"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bananas, oranges, potatoes, and spinach are potassium-rich foods that help correct hypokalemia through diet — the appropriate teaching.",
+        "incorrect": [
+          "White bread, butter, and hard candy are low in potassium.",
+          "Egg whites and clear broth provide little potassium.",
+          "Apples, rice, and pasta are relatively low in potassium."
+        ]
+      }
+    },
+    {
+      "stem": "A client with SIADH develops a sodium of 122 mEq/L. Which assessment is the priority for the nurse to monitor?",
+      "options": [
+        "Neurologic status for confusion and seizures",
+        "Skin turgor over the forearm",
+        "Bowel sounds in all quadrants",
+        "Distal pedal pulses"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hyponatremia causes water to shift into brain cells, so neurologic manifestations — confusion, lethargy, and seizures from cerebral swelling — are the priority to monitor.",
+        "incorrect": [
+          "Skin turgor is a general hydration cue, not the priority neurologic risk.",
+          "Bowel sounds are not the life-threatening concern in hyponatremia.",
+          "Pedal pulses do not reflect the cerebral risk of a low sodium."
+        ]
+      }
+    },
+    {
+      "stem": "A client has a sodium of 158 mEq/L with restlessness and twitching. Which finding and treatment does the nurse anticipate?",
+      "options": [
+        "Cellular dehydration; replace water with oral fluids or D5W/0.45% NS",
+        "Cellular swelling; restrict all fluids",
+        "Cellular dehydration; give 3% hypertonic saline",
+        "Cellular swelling; give a rapid isotonic bolus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hypernatremia pulls water out of cells (cellular dehydration), causing neurologic irritability; treatment replaces free water with oral fluids or hypotonic IV solutions such as D5W or 0.45% NS.",
+        "incorrect": [
+          "Hypernatremia causes cellular dehydration, not swelling, and fluids are given to lower sodium.",
+          "Adding hypertonic 3% saline would raise sodium further and worsen the problem.",
+          "The cells shrink in hypernatremia; the treatment provides free water, not more sodium load."
+        ]
+      }
+    },
+    {
+      "stem": "A client with acute pancreatitis develops hypocalcemia and is prescribed IV calcium. Which nursing consideration is most important?",
+      "options": [
+        "Administer via an IV pump and use caution if the client takes digitalis",
+        "Give the calcium as a rapid IV push",
+        "Mix the calcium with sodium bicarbonate in the same line",
+        "Withhold cardiac monitoring during administration"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "IV calcium is given by pump and used cautiously in clients on digitalis (digoxin) because calcium potentiates digitalis and can trigger dysrhythmias; cardiac monitoring is essential.",
+        "incorrect": [
+          "IV calcium is not given as a rapid push.",
+          "Calcium and bicarbonate precipitate together and must not be mixed in the same line.",
+          "Cardiac monitoring is required, not withheld, during calcium administration."
+        ]
+      }
+    },
+    {
+      "stem": "A client with end-stage renal disease has hyperphosphatemia. Which treatment does the nurse anticipate?",
+      "options": [
+        "A phosphate binder such as sevelamer or calcium acetate",
+        "IV phosphate supplementation",
+        "A high-phosphorus diet",
+        "Withholding all calcium-based medications indefinitely"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hyperphosphatemia in ESRD is managed with phosphate restriction and binders such as sevelamer or calcium acetate that bind dietary phosphorus in the gut.",
+        "incorrect": [
+          "Giving phosphate would worsen the already high level.",
+          "A high-phosphorus diet raises phosphate further.",
+          "Calcium-based binders are actually used to control phosphate, not withheld."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews a basic metabolic panel: Na 129, K 3.2, Ca 7.9, Mg 3.6, PO4 4.5, Cl 89 (mEq/L or mg/dL as appropriate). Which value represents an excess the nurse should flag?",
+      "options": [
+        "Magnesium 3.6 mg/dL (high)",
+        "Potassium 3.2 mEq/L (high)",
+        "Sodium 129 mEq/L (high)",
+        "Chloride 89 mEq/L (high)"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Normal magnesium is 1.6–2.6 mg/dL, so 3.6 is elevated (hypermagnesemia); the other flagged values are actually low, making magnesium the excess to flag.",
+        "incorrect": [
+          "A potassium of 3.2 is below the 3.5–5.1 range — it is low, not high.",
+          "A sodium of 129 is below 136–145 — it is low, not high.",
+          "A chloride of 89 is below 98–107 — it is low, not high."
+        ]
+      }
+    },
+    {
+      "stem": "An older adult with heart failure requires IV fluid resuscitation. Which nursing approach is most appropriate given gerontological considerations?",
+      "options": [
+        "Use isotonic fluids cautiously while closely monitoring weight, output, and lung sounds",
+        "Infuse large volumes rapidly to correct any deficit quickly",
+        "Avoid monitoring intake and output to reduce the client's burden",
+        "Administer hypertonic saline routinely without sodium monitoring"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Older adults have reduced renal function and cardiac reserve, so isotonic fluids are given cautiously with close monitoring of weight, I&O, and lung sounds to catch fluid overload and heart failure exacerbation early.",
+        "incorrect": [
+          "Rapid large-volume infusion in an older adult with heart failure risks pulmonary edema.",
+          "Monitoring I&O is essential in this high-risk client, not omitted.",
+          "Routine hypertonic saline without sodium monitoring is unsafe in this population."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed oral potassium chloride for hypokalemia. Which instruction should the nurse provide?",
+      "options": [
+        "Take it with at least 8 oz of water or juice and with food",
+        "Take it on an empty stomach with a small sip of water",
+        "Crush and dissolve it in a small amount of milk before bed",
+        "Take a double dose if a dose is missed to catch up"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Oral potassium is given with a full glass of water or juice and with food to reduce GI irritation — the correct administration teaching.",
+        "incorrect": [
+          "Taking it on an empty stomach with little fluid increases GI upset.",
+          "A small volume of fluid does not adequately dilute the potassium to protect the GI tract.",
+          "Doubling a missed dose risks hyperkalemia and is unsafe."
+        ]
+      }
+    }
+  ]
+}
