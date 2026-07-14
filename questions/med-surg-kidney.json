@@ -1,0 +1,760 @@
+{
+  "topic": "med-surg-kidney",
+  "label": "Med-Surg: Kidney",
+  "questions": [
+    {
+      "stem": "A nurse receives report on four clients with chronic kidney disease. Which client should the nurse assess first?",
+      "options": [
+        "A client with a serum potassium of 6.8 mEq/L and peaked T waves on the monitor",
+        "A client with a serum phosphate of 5.4 mg/dL requesting a phosphate binder",
+        "A client with 2+ pitting edema scheduled for dialysis this afternoon",
+        "A client with a hemoglobin of 9.2 g/dL reporting fatigue"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hyperkalemia is the highest-priority electrolyte disturbance in CKD because it causes life-threatening dysrhythmias; a potassium of 6.8 mEq/L with peaked T waves is the cue that makes this the priority hypothesis and demands immediate action.",
+        "incorrect": [
+          "An elevated phosphate needing a binder is an expected CKD finding and is managed with the next meal, not emergently.",
+          "Pitting edema before scheduled dialysis is expected fluid overload and does not outrank a lethal rhythm risk.",
+          "A hemoglobin of 9.2 with fatigue reflects chronic CKD anemia — important but stable, not the first to see."
+        ]
+      }
+    },
+    {
+      "stem": "A client with stage 4 CKD reports a headache. Which newly prescribed order should the nurse question?",
+      "options": [
+        "Ibuprofen 400 mg by mouth every 6 hours as needed",
+        "Sevelamer 800 mg by mouth with meals",
+        "Calcitriol 0.25 mcg by mouth daily",
+        "Epoetin alfa subcutaneously three times weekly"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Ibuprofen is an NSAID, a nephrotoxic drug that further reduces renal perfusion and accelerates kidney damage; recognizing this cue means the nurse questions the order to protect remaining function.",
+        "incorrect": [
+          "Sevelamer is a phosphate binder appropriately given with meals in CKD.",
+          "Calcitriol (active vitamin D) is standard therapy for CKD-related hypocalcemia and bone disease.",
+          "Epoetin alfa is expected to treat CKD anemia from decreased erythropoietin."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD has a potassium of 6.5 mEq/L. Which assessment finding is the priority for the nurse to monitor?",
+      "options": [
+        "Cardiac rhythm on the ECG monitor",
+        "Deep tendon reflexes in the lower extremities",
+        "Bowel sounds in all four quadrants",
+        "Skin turgor over the sternum"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hyperkalemia's most dangerous effect is cardiac dysrhythmia, so continuous ECG monitoring is the priority — the nurse is watching for the peaked T waves and widening QRS that signal deterioration.",
+        "incorrect": [
+          "Reflexes can change with electrolyte shifts but are not the life-threatening concern.",
+          "Bowel sounds may increase with hyperkalemia but do not indicate a lethal risk.",
+          "Skin turgor assesses hydration, not the cardiac threat of hyperkalemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD is prescribed sevelamer. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I will take this medication one hour after each meal on an empty stomach.\"",
+        "\"This medication binds the phosphorus in the food I eat.\"",
+        "\"The goal is to lower the phosphate level in my blood.\"",
+        "\"I should still limit dark colas and dairy in my diet.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "This statement is incorrect and requires teaching: phosphate binders such as sevelamer must be taken WITH meals so they can bind dietary phosphorus in the gut; taking it on an empty stomach defeats its purpose.",
+        "incorrect": [
+          "Correctly stating that the drug binds dietary phosphorus shows understanding.",
+          "Correctly identifying the goal as lowering serum phosphate shows understanding.",
+          "Limiting high-phosphorus foods like dark colas and dairy correctly supports the therapy."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client's AV fistula before hemodialysis and cannot palpate a thrill or auscultate a bruit. What is the nurse's priority action?",
+      "options": [
+        "Notify the provider immediately, as the fistula may be clotted",
+        "Apply warm compresses and reassess in one hour",
+        "Document the finding as an expected baseline",
+        "Elevate the arm on two pillows and wrap it snugly"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "An absent thrill and bruit signal possible clot or occlusion of the access — an emergency. Recognizing this cue, the nurse notifies the provider immediately so the fistula can be salvaged.",
+        "incorrect": [
+          "Warm compresses delay treatment of a possible occlusion that needs prompt intervention.",
+          "A palpable thrill and audible bruit are the normal, expected findings — their absence is abnormal, not baseline.",
+          "Wrapping the arm snugly can further compromise blood flow through the access."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about protecting the arm with a new AV fistula. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Do not allow blood pressure measurements on that arm",
+        "Do not allow venipunctures or IV insertions in that arm",
+        "Palpate for a thrill and check the access daily",
+        "Sleep with your body weight resting on that arm",
+        "Wear tight bracelets or a watch on that wrist for support"
+      ],
+      "answer": [0, 1, 2],
+      "type": "sata",
+      "rationale": {
+        "correct": "Fistula protection centers on preserving blood flow through the access: no BP cuffs, no IVs or blood draws, and daily thrill/bruit checks; the client must avoid pressure from sleeping on the arm or wearing tight items.",
+        "incorrect": [
+          "Correct—blood pressure cuffs compress the access and can cause thrombosis.",
+          "Correct—needle sticks in the access arm risk infection and damage to the fistula.",
+          "Correct—checking the thrill daily lets the client detect occlusion early.",
+          "Incorrect—sleeping on the access arm applies pressure that can clot the fistula.",
+          "Incorrect—tight jewelry or watches restrict flow and should be avoided."
+        ]
+      }
+    },
+    {
+      "stem": "A client returns to the unit after hemodialysis. Which finding does the nurse anticipate as the most common complication?",
+      "options": [
+        "Hypotension",
+        "Hypertension",
+        "Bradycardia",
+        "Fever"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Removing fluid during hemodialysis lowers intravascular volume, so hypotension is the most common post-dialysis complication; the nurse evaluates for dizziness and a falling blood pressure.",
+        "incorrect": [
+          "Blood pressure typically falls, not rises, with fluid removal.",
+          "Bradycardia is not the expected post-dialysis pattern.",
+          "Fever suggests infection, not the usual hemodynamic effect of dialysis."
+        ]
+      }
+    },
+    {
+      "stem": "A client is ordered a 24-hour urine collection to measure creatinine clearance. During the collection, the client voids and the specimen is accidentally discarded. What is the nurse's best action?",
+      "options": [
+        "Restart the entire 24-hour collection and note the new start time",
+        "Add an estimated volume of saline to replace the discarded urine",
+        "Continue the collection and document the missed specimen",
+        "Send the urine already collected to the lab for immediate analysis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A 24-hour urine measures total output over the full period; if any specimen is missed, the collection is invalid and must be restarted so the result accurately reflects creatinine clearance and GFR.",
+        "incorrect": [
+          "Adding saline falsifies the volume and invalidates the test.",
+          "Continuing after a missed void yields an inaccurate total and an unreliable result.",
+          "Sending an incomplete collection produces a falsely low result."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD asks about seasoning food without adding sodium and mentions using a salt substitute. How should the nurse respond?",
+      "options": [
+        "\"Salt substitutes are high in potassium, which your kidneys cannot excrete well.\"",
+        "\"Salt substitutes are a safe, unlimited option for kidney patients.\"",
+        "\"Salt substitutes are high in phosphorus and should be limited.\"",
+        "\"Salt substitutes contain magnesium, which will help your bones.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Most salt substitutes replace sodium with potassium; because CKD kidneys cannot excrete potassium, these products risk dangerous hyperkalemia — the reasoning the nurse must teach.",
+        "incorrect": [
+          "They are not safe or unlimited; the potassium load is the hazard.",
+          "The concern is potassium, not phosphorus, in salt substitutes.",
+          "Salt substitutes are a potassium source; magnesium bone benefit is not the point."
+        ]
+      }
+    },
+    {
+      "stem": "A client on peritoneal dialysis has drainage that is cloudy and reports abdominal pain and fever. What does the nurse suspect, and what is the priority action?",
+      "options": [
+        "Peritonitis; notify the provider immediately and obtain a fluid culture",
+        "Normal dwell effluent; continue the prescribed exchanges",
+        "Catheter migration; reposition the client onto the left side",
+        "Dialysate too cold; warm the next bag to body temperature"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Cloudy or purulent drainage with fever and abdominal pain is the classic presentation of peritonitis, the major complication of PD; recognizing this cue, the nurse notifies the provider immediately and sends effluent for culture.",
+        "incorrect": [
+          "Normal effluent is clear, not cloudy; cloudiness is never expected.",
+          "Catheter migration causes poor flow, not cloudy drainage with fever.",
+          "Cold dialysate causes cramping, not cloudy effluent and fever."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client starting peritoneal dialysis about diet. Which recommendation is correct?",
+      "options": [
+        "Eat a high-protein diet because protein is lost through the peritoneum",
+        "Follow a strict low-protein diet to reduce kidney workload",
+        "Restrict all fluids to 500 mL per day permanently",
+        "Increase potassium-rich foods to replace dialysate losses"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "PD removes protein across the peritoneal membrane, so a high-protein diet is recommended to replace those losses — the opposite of hemodialysis teaching.",
+        "incorrect": [
+          "A strict low-protein diet worsens the protein depletion caused by PD.",
+          "Fixed 500 mL restriction is not a universal PD rule; fluid needs are individualized.",
+          "Potassium is generally still monitored and moderated, not deliberately increased."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is preparing to perform a peritoneal dialysis exchange. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Warm the dialysate to room/body temperature before instilling",
+        "Use sterile (aseptic) technique and wear a mask",
+        "Drain the fluid slowly to help prevent hypotension",
+        "Instill cold dialysate to reduce peritoneal inflammation",
+        "Reuse the drained effluent for the next dwell to conserve fluid"
+      ],
+      "answer": [0, 1, 2],
+      "type": "sata",
+      "rationale": {
+        "correct": "Safe PD requires room/body-temperature dialysate, strict sterile technique with masks to prevent peritonitis, and slow drainage to avoid hypotension; cold fluid and reusing effluent are unsafe.",
+        "incorrect": [
+          "Correct—dialysate is warmed to body temperature; cold fluid causes cramping.",
+          "Correct—sterile technique and masks prevent peritonitis, the major PD complication.",
+          "Correct—draining slowly helps prevent a sudden drop in blood pressure.",
+          "Incorrect—cold dialysate causes abdominal cramping and is not therapeutic.",
+          "Incorrect—effluent is waste and is never reinstilled; doing so would cause infection."
+        ]
+      }
+    },
+    {
+      "stem": "A client is brought in 10 days after a streptococcal throat infection with tea-colored urine, periorbital edema, and a blood pressure of 168/98. Which condition does the nurse suspect?",
+      "options": [
+        "Acute glomerulonephritis",
+        "Lower urinary tract infection",
+        "Prerenal acute kidney injury from dehydration",
+        "Benign essential hypertension"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Tea/cola-colored urine (hematuria), edema, and hypertension roughly 10 days after a strep infection are the hallmark cues of post-streptococcal glomerulonephritis, an immune-mediated inflammation of the glomeruli.",
+        "incorrect": [
+          "A lower UTI causes dysuria and frequency, not hematuria with edema and hypertension after strep.",
+          "Prerenal AKI from dehydration presents with volume depletion, not fluid overload and edema.",
+          "Essential hypertension does not explain the hematuria, edema, and recent strep history."
+        ]
+      }
+    },
+    {
+      "stem": "A client with acute glomerulonephritis is admitted. Which prescription does the nurse anticipate as the first-line treatment?",
+      "options": [
+        "Corticosteroids to reduce glomerular inflammation",
+        "A high-sodium diet to expand circulating volume",
+        "Unrestricted oral fluids to flush the kidneys",
+        "A calcium channel blocker as the only therapy needed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Glomerulonephritis is inflammatory, so corticosteroids are first-line to reduce the immune-mediated inflammation of the glomeruli; this is the intervention the nurse anticipates.",
+        "incorrect": [
+          "Sodium is restricted, not increased, because of edema and hypertension.",
+          "Fluids are restricted during the acute phase, not pushed, to control fluid overload.",
+          "Antihypertensives may be used, but steroids — not a calcium channel blocker alone — are first-line."
+        ]
+      }
+    },
+    {
+      "stem": "A client with polycystic kidney disease asks how the diagnosis is confirmed and what the main nursing priority is. Which response is most accurate?",
+      "options": [
+        "\"A renal ultrasound confirms it, and controlling your blood pressure is the priority to slow kidney damage.\"",
+        "\"A 24-hour urine confirms it, and increasing dietary protein is the priority.\"",
+        "\"A kidney biopsy is required, and the disease can be cured with surgery.\"",
+        "\"Blood cultures confirm it, and restricting all fluids is the priority.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "PKD is diagnosed by renal ultrasound (test of choice), and because there is no cure, aggressive blood pressure control is the top nursing priority to slow progression of kidney damage.",
+        "incorrect": [
+          "A 24-hour urine is not the diagnostic test, and increasing protein is not the priority.",
+          "Ultrasound, not biopsy, confirms PKD, and there is no surgical cure.",
+          "Blood cultures do not diagnose PKD, and blanket fluid restriction is not the priority."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD anemia is to receive epoetin alfa. Which value should the nurse verify before administration?",
+      "options": [
+        "Iron stores (ferritin and transferrin saturation)",
+        "Serum sodium",
+        "Serum amylase",
+        "Prothrombin time (PT/INR)"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Erythropoietin drives red-cell production, but the marrow needs adequate iron to build hemoglobin; checking iron stores first ensures the drug will work — the reasoning behind 'check iron before giving erythropoietin.'",
+        "incorrect": [
+          "Sodium does not determine whether erythropoietin will be effective.",
+          "Amylase relates to the pancreas, not erythropoiesis.",
+          "PT/INR measures clotting, which is not the prerequisite for ESA therapy."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD has an arterial blood gas showing pH 7.30 and bicarbonate 16 mEq/L. How should the nurse interpret this result?",
+      "options": [
+        "Metabolic acidosis, an expected finding in CKD",
+        "Respiratory alkalosis requiring oxygen",
+        "Metabolic alkalosis from overuse of antacids",
+        "A normal acid-base balance for this client"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Failing kidneys cannot excrete hydrogen ions or produce bicarbonate, so a low pH with low bicarbonate is metabolic acidosis — the classic, expected acid-base disorder in CKD.",
+        "incorrect": [
+          "A low bicarbonate points to a metabolic, not respiratory, process.",
+          "Alkalosis would show an elevated pH, not the low pH seen here.",
+          "A pH of 7.30 with bicarbonate of 16 is abnormal, not normal."
+        ]
+      }
+    },
+    {
+      "stem": "A client with advanced CKD has a calcium of 7.6 mg/dL and a phosphate of 6.2 mg/dL. Which long-term complication should the nurse monitor for?",
+      "options": [
+        "Bone fractures from renal osteodystrophy",
+        "Polycythemia from excess erythropoietin",
+        "Metabolic alkalosis from bicarbonate retention",
+        "Hyperglycemia from insulin resistance"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In CKD, phosphate is retained and vitamin D activation falls, lowering calcium; the rise in PTH pulls calcium from bone, causing renal osteodystrophy and fractures — the hypocalcemia-plus-hyperphosphatemia pattern shown here.",
+        "incorrect": [
+          "CKD causes anemia from LOW erythropoietin, not polycythemia.",
+          "CKD causes metabolic acidosis, not alkalosis.",
+          "These calcium and phosphate values point to bone disease, not a glucose problem."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD is prescribed lisinopril. The nurse understands this drug is used primarily to achieve which outcome?",
+      "options": [
+        "Protect the kidneys and slow CKD progression by controlling blood pressure",
+        "Rapidly correct hyperkalemia",
+        "Increase erythropoietin production",
+        "Bind dietary phosphorus in the gut"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "ACE inhibitors like lisinopril are used in CKD to protect kidney function and slow progression while controlling hypertension — the intended therapeutic effect.",
+        "incorrect": [
+          "ACE inhibitors can actually raise potassium; they do not correct hyperkalemia.",
+          "They do not stimulate erythropoietin.",
+          "Phosphate binding is the role of phosphate binders, not ACE inhibitors."
+        ]
+      }
+    },
+    {
+      "stem": "A client's labs show a GFR of 12 mL/min/1.73m². How should the nurse interpret this finding?",
+      "options": [
+        "End-stage kidney disease; dialysis is likely indicated",
+        "Normal kidney function",
+        "Mild CKD requiring only dietary changes",
+        "Improving kidney function that needs no intervention"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A GFR below 15 mL/min defines stage 5 CKD (end-stage kidney disease), where dialysis is likely needed; interpreting this cue guides the next step in care.",
+        "incorrect": [
+          "A GFR of 12 is severely reduced; normal is 90 or above.",
+          "GFR below 15 is stage 5, far beyond mild CKD manageable by diet alone.",
+          "A GFR this low reflects failure, not improvement, and requires intervention."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD develops lethargy, foul (uremic) breath, generalized itching, and a white crystalline deposit on the skin. Which complication does the nurse recognize?",
+      "options": [
+        "Uremia with uremic frost",
+        "Cellulitis of the trunk",
+        "An allergic drug reaction",
+        "Contact dermatitis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Accumulated nitrogenous waste produces uremia; foul breath, pruritus, and uremic frost (urea crystals on the skin) are its hallmark cues in advanced CKD.",
+        "incorrect": [
+          "Cellulitis is a localized skin infection, not a systemic crystalline deposit with uremic breath.",
+          "An allergic reaction does not cause uremic breath or urea crystals.",
+          "Contact dermatitis is localized and unrelated to nitrogenous waste buildup."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with CKD about nephrotoxic substances to avoid. Which items should the nurse include? Select all that apply.",
+      "options": [
+        "NSAIDs such as ibuprofen and naproxen",
+        "IV contrast dye used for imaging",
+        "Aminoglycoside antibiotics",
+        "Acetaminophen at recommended doses for occasional pain",
+        "Prescribed erythropoietin injections"
+      ],
+      "answer": [0, 1, 2],
+      "type": "sata",
+      "rationale": {
+        "correct": "NSAIDs, IV contrast, and aminoglycosides are major nephrotoxins the CKD client should avoid; acetaminophen at recommended doses is generally the safer analgesic, and erythropoietin is a prescribed therapy.",
+        "incorrect": [
+          "Correct—NSAIDs reduce renal perfusion and are classic nephrotoxins.",
+          "Correct—IV contrast can worsen kidney injury; creatinine is monitored before and after.",
+          "Correct—aminoglycosides are nephrotoxic and require careful renal dosing.",
+          "Incorrect—acetaminophen at recommended doses is the preferred analgesic and is not a listed nephrotoxin.",
+          "Incorrect—erythropoietin treats CKD anemia and is not nephrotoxic."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks why the phosphate binder must be taken 'right when I start eating.' What is the nurse's best explanation?",
+      "options": [
+        "\"Taking it with food lets it bind the phosphorus in your meal so less is absorbed.\"",
+        "\"Food protects your stomach from the medication's irritation.\"",
+        "\"Taking it with meals helps you remember your dose.\"",
+        "\"Food activates the drug so it can raise your calcium level.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Phosphate binders work in the gut, attaching to phosphorus in food so it is excreted rather than absorbed; that is why the dose must coincide with the meal.",
+        "incorrect": [
+          "The purpose is phosphorus binding, not gastric protection.",
+          "Convenience is not the pharmacologic reason for the timing.",
+          "The drug binds phosphorus; it does not require food activation to raise calcium."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD is scheduled for hemodialysis at 1000. A daily dose of an antihypertensive is due at 0900. What is the nurse's best action?",
+      "options": [
+        "Hold the antihypertensive and confirm the plan to give it after dialysis",
+        "Give the antihypertensive as scheduled at 0900",
+        "Give a double dose after dialysis to make up for the delay",
+        "Omit the dose permanently while the client is on dialysis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Many medications, especially antihypertensives, are held until after dialysis because dialysis-related fluid removal can drop the blood pressure; giving it beforehand risks profound hypotension. The nurse holds and clarifies the timing.",
+        "incorrect": [
+          "Giving it just before dialysis compounds the expected post-dialysis hypotension.",
+          "Doubling the dose is unsafe and not indicated.",
+          "The dose is delayed, not permanently omitted; it is typically given after dialysis."
+        ]
+      }
+    },
+    {
+      "stem": "A client weighs 70 kg before hemodialysis and 68 kg afterward. How should the nurse interpret this change?",
+      "options": [
+        "Approximately 2 liters of fluid were removed during dialysis",
+        "The client gained fluid during the treatment",
+        "The client lost 2 kg of body tissue and needs a nutrition consult",
+        "The scale is inaccurate because weight should not change with dialysis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Weight change around dialysis reflects fluid, where 1 kg equals about 1 liter; a 2 kg drop means roughly 2 liters of fluid were removed — the nurse evaluates dialysis effectiveness this way.",
+        "incorrect": [
+          "A lower post-dialysis weight indicates fluid was removed, not gained.",
+          "The change is fluid, not tissue loss, over a single treatment.",
+          "Weight is expected to fall with fluid removal; the change is meaningful, not error."
+        ]
+      }
+    },
+    {
+      "stem": "During hemodialysis a client develops a headache, nausea, and confusion. The nurse recognizes these as signs of which complication?",
+      "options": [
+        "Disequilibrium syndrome from rapid solute shifts",
+        "An air embolism entering the bloodstream",
+        "Hyperkalemia from inadequate clearance",
+        "A febrile transfusion reaction"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Rapid removal of solutes such as urea creates an osmotic gradient that draws water into brain cells, producing the headache, nausea, and confusion of dialysis disequilibrium syndrome.",
+        "incorrect": [
+          "Air embolism presents with sudden dyspnea and chest pain, not this gradual neuro picture.",
+          "Dialysis lowers potassium; hyperkalemia is not the cause of these symptoms.",
+          "No blood product is being infused, so a transfusion reaction does not apply."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with a left forearm AV fistula. Which order should the nurse question?",
+      "options": [
+        "Draw morning labs from the left forearm",
+        "Assess the fistula for thrill and bruit each shift",
+        "Measure blood pressure in the right arm",
+        "Insert a peripheral IV in the right hand if needed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The access arm must never be used for blood draws, IVs, or blood pressure; drawing labs from the fistula arm risks clotting and infection, so the nurse questions this order.",
+        "incorrect": [
+          "Checking thrill and bruit each shift is appropriate fistula monitoring.",
+          "Taking blood pressure in the non-access arm correctly protects the fistula.",
+          "Placing an IV in the opposite hand appropriately avoids the access arm."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD on a fluid restriction has gained 1.5 kg since yesterday. Which additional finding would most support fluid overload?",
+      "options": [
+        "New crackles in the lung bases and increasing peripheral edema",
+        "Dry mucous membranes and flat neck veins",
+        "A capillary refill of less than 2 seconds",
+        "A decrease in the abdominal girth"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Daily weight is the most reliable fluid indicator; a 1.5 kg gain with new crackles and worsening edema confirms fluid overload — the nurse links the cues to intervene.",
+        "incorrect": [
+          "Dry membranes and flat neck veins indicate deficit, not overload.",
+          "Brisk capillary refill is a normal finding, not evidence of overload.",
+          "Decreasing abdominal girth suggests less fluid, contradicting overload."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD has a potassium of 6.9 mEq/L with ECG changes. Which prescriptions does the nurse anticipate? Select all that apply.",
+      "options": [
+        "IV regular insulin with dextrose",
+        "IV calcium gluconate",
+        "Sodium polystyrene sulfonate",
+        "A potassium-sparing diuretic",
+        "Encourage a banana and orange juice snack"
+      ],
+      "answer": [0, 1, 2],
+      "type": "sata",
+      "rationale": {
+        "correct": "Severe hyperkalemia is managed by shifting potassium into cells (insulin with dextrose), stabilizing the myocardium (calcium gluconate), and removing potassium from the body (sodium polystyrene sulfonate).",
+        "incorrect": [
+          "Correct—insulin with dextrose drives potassium into the cells to lower serum levels.",
+          "Correct—calcium gluconate stabilizes the cardiac membrane against dysrhythmias.",
+          "Correct—sodium polystyrene sulfonate removes potassium through the GI tract.",
+          "Incorrect—a potassium-sparing diuretic raises potassium and is contraindicated.",
+          "Incorrect—bananas and orange juice are high in potassium and would worsen the level."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD says, \"I've been using a potassium-based salt substitute and eating a lot of guava and persimmons because they're healthy.\" Which statement indicates the client needs further teaching?",
+      "options": [
+        "\"These choices are fine because they are natural, low-sodium foods.\"",
+        "\"I know I need to limit foods that are high in potassium.\"",
+        "\"My kidneys have trouble getting rid of extra potassium.\"",
+        "\"High potassium can cause dangerous heart rhythms.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "This statement needs correction: salt substitutes, guava, and persimmons are all high in potassium, which the CKD client cannot excrete; 'natural and low-sodium' does not make them safe.",
+        "incorrect": [
+          "Recognizing the need to limit high-potassium foods shows correct understanding.",
+          "Understanding that damaged kidneys retain potassium is accurate.",
+          "Knowing hyperkalemia causes dysrhythmias reflects correct learning."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD asks which beverage is the best choice for limiting phosphorus. What is the nurse's best response?",
+      "options": [
+        "\"Avoid dark colas, which are high in phosphorus.\"",
+        "\"Dark colas are a good low-phosphorus choice.\"",
+        "\"Any carbonated drink is fine as long as it is caffeine-free.\"",
+        "\"Milk is the best low-phosphorus option.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Dark colas are high in phosphorus and are limited in CKD; steering the client away from them supports phosphate control.",
+        "incorrect": [
+          "Dark colas are high in phosphorus, not a good choice.",
+          "Caffeine content is not the issue; the phosphorus additives in dark colas are.",
+          "Milk is high in phosphorus and is limited in CKD."
+        ]
+      }
+    },
+    {
+      "stem": "A client newly diagnosed with CKD asks why they have become anemic. What is the nurse's best explanation?",
+      "options": [
+        "\"Damaged kidneys make less erythropoietin, the hormone that signals red blood cell production.\"",
+        "\"Your kidneys are destroying red blood cells directly.\"",
+        "\"CKD causes your body to make too much iron, which crowds out red cells.\"",
+        "\"Anemia in CKD is caused by dehydration and will resolve with fluids.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The kidneys produce erythropoietin, which stimulates red-cell production; as kidney tissue is lost, erythropoietin falls and anemia develops — the mechanism behind CKD anemia.",
+        "incorrect": [
+          "The kidneys do not directly destroy red cells in CKD.",
+          "CKD does not cause iron overload that crowds out red cells.",
+          "CKD anemia is due to low erythropoietin, not dehydration, and is not fixed by fluids."
+        ]
+      }
+    },
+    {
+      "stem": "A client with advanced CKD reports severe pruritus and has dry, excoriated skin. Which intervention should the nurse prioritize to prevent complications?",
+      "options": [
+        "Keep the skin moisturized and nails trimmed to prevent breaks and infection",
+        "Apply hot compresses to the itchy areas several times a day",
+        "Encourage vigorous scrubbing during bathing to remove uremic frost",
+        "Withhold all skin care until the itching resolves on its own"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Uremic pruritus leads to scratching and skin breakdown; keeping skin moisturized and nails short protects the barrier and prevents infection — the safest supportive action.",
+        "incorrect": [
+          "Hot compresses dry and irritate the skin, worsening itching.",
+          "Vigorous scrubbing traumatizes fragile skin and increases infection risk.",
+          "Withholding care allows breakdown and infection to develop."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD and hypertension asks what blood pressure goal will best protect the kidneys. Which response reflects the recommended target?",
+      "options": [
+        "\"Keeping your systolic pressure below about 120 helps slow kidney damage.\"",
+        "\"A systolic pressure around 160 is ideal for kidney patients.\"",
+        "\"Blood pressure control does not affect kidney disease progression.\"",
+        "\"We aim for a systolic pressure above 140 to keep the kidneys perfused.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Tight blood pressure control — a systolic goal near or below 120 when tolerated — reduces the pressure injuring the nephrons and slows CKD progression.",
+        "incorrect": [
+          "A systolic of 160 is uncontrolled hypertension that accelerates kidney damage.",
+          "Blood pressure control is central to slowing CKD progression.",
+          "Deliberately keeping systolic above 140 promotes, rather than prevents, kidney injury."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD is scheduled for a contrast-enhanced CT scan. Which nursing action is most important to protect the kidneys?",
+      "options": [
+        "Monitor BUN and creatinine before and after the study and ensure adequate hydration",
+        "Withhold all fluids for 12 hours before and after the scan",
+        "Administer an NSAID for pre-procedure comfort",
+        "Encourage a high-protein meal immediately before the contrast"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "IV contrast is nephrotoxic; monitoring renal function before and after and maintaining hydration protects the kidneys from contrast-induced injury — the priority nursing action.",
+        "incorrect": [
+          "Withholding fluids promotes dehydration and worsens contrast nephrotoxicity.",
+          "NSAIDs are nephrotoxic and would compound the risk from contrast.",
+          "A high-protein meal does not protect the kidneys and increases their workload."
+        ]
+      }
+    },
+    {
+      "stem": "A client with acute glomerulonephritis has a blood pressure of 170/100 and 3+ periorbital edema. Which interventions does the nurse anticipate during the acute phase?",
+      "options": [
+        "Sodium and fluid restriction with daily weights and strict intake and output",
+        "A high-sodium diet with unrestricted oral fluids",
+        "Encouraging ambulation and a high-protein, high-sodium diet",
+        "Withholding all antihypertensive therapy until symptoms resolve"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The fluid overload of glomerulonephritis is managed like heart failure: restrict sodium and fluids, weigh daily, and track I&O to evaluate response — the acute-phase priorities.",
+        "incorrect": [
+          "High sodium and free fluids worsen the edema and hypertension.",
+          "A high-sodium diet aggravates fluid retention; rest is favored in the acute phase.",
+          "Antihypertensives may be needed to control the dangerous blood pressure."
+        ]
+      }
+    },
+    {
+      "stem": "A client with polycystic kidney disease is developing a self-management plan. Which client statement indicates correct understanding?",
+      "options": [
+        "\"I will report signs of a urinary tract infection promptly and keep my blood pressure controlled.\"",
+        "\"Because there is a cure, I only need treatment until the cysts shrink.\"",
+        "\"I should ignore flank pain since it is a normal part of the disease.\"",
+        "\"I can stop my blood pressure medication once I feel well.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "PKD has no cure, so care is supportive: prompt treatment of UTIs and tight blood pressure control are the priorities that slow progression — this statement shows understanding.",
+        "incorrect": [
+          "There is no cure for PKD; treatment is lifelong and supportive.",
+          "New or worsening flank pain should be reported, not ignored.",
+          "Blood pressure control must continue even when the client feels well to protect the kidneys."
+        ]
+      }
+    },
+    {
+      "stem": "A client on peritoneal dialysis is found to have cloudy effluent. After notifying the provider, which action should the nurse anticipate next?",
+      "options": [
+        "Obtaining a sample of the effluent for culture and cell count",
+        "Immediately removing the peritoneal catheter at the bedside",
+        "Increasing the dwell time to clear the cloudiness",
+        "Switching the client to a high-potassium diet"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Cloudy effluent suggests peritonitis; culturing the fluid identifies the organism so appropriate antibiotics (often added to the dialysate) can be started — the logical next step after notifying the provider.",
+        "incorrect": [
+          "The catheter is not routinely pulled at the bedside; infection is treated first.",
+          "Increasing dwell time does not treat infection and delays care.",
+          "Diet changes do not address peritonitis and a high-potassium diet is inappropriate."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for four clients receiving renal replacement therapy. Which client should the nurse assess first?",
+      "options": [
+        "A peritoneal dialysis client with cloudy drainage, fever, and abdominal pain",
+        "A hemodialysis client whose fistula has a palpable thrill and audible bruit",
+        "A CKD client asking when the next scheduled dialysis session begins",
+        "A peritoneal dialysis client whose exit site is clean, dry, and intact"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Cloudy drainage with fever and abdominal pain signals peritonitis, a serious infection needing immediate provider notification; these cues make this client the priority.",
+        "incorrect": [
+          "A thrill and bruit are the expected normal findings of a patent fistula.",
+          "A scheduling question is not urgent.",
+          "A clean, dry, intact exit site is the desired normal finding."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks how hemodialysis actually cleans the blood. Which explanation by the nurse is most accurate?",
+      "options": [
+        "\"Wastes move across a semipermeable membrane from your blood into the dialysate, and extra fluid is pulled off.\"",
+        "\"The machine adds waste products to your blood so your kidneys can rest.\"",
+        "\"Your blood is replaced with donor blood at each session.\"",
+        "\"The dialyzer injects potassium into your blood to balance it.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hemodialysis relies on diffusion of solutes (urea, creatinine, potassium) across a semipermeable membrane into the dialysate and ultrafiltration to remove excess fluid — the principles the nurse should convey.",
+        "incorrect": [
+          "Dialysis removes wastes; it does not add them to the blood.",
+          "The client's own blood is cleaned and returned; it is not replaced with donor blood.",
+          "Dialysis removes excess potassium; it does not inject it."
+        ]
+      }
+    },
+    {
+      "stem": "A client with CKD asks why the dietitian recommends a moderate rather than high protein intake. What is the nurse's best explanation?",
+      "options": [
+        "\"Damaged kidneys cannot handle excess protein waste, which adds to their workload.\"",
+        "\"Protein should be eliminated entirely to protect your kidneys.\"",
+        "\"A high-protein diet will reverse your kidney damage.\"",
+        "\"Protein is limited only because it is high in potassium.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Protein metabolism produces nitrogenous waste the failing kidneys must clear; a moderate intake limits that burden without causing malnutrition — the reasoning behind the restriction (note high-protein diets are recommended in peritoneal dialysis because protein is lost through the peritoneum).",
+        "incorrect": [
+          "Protein is moderated, not eliminated; too little causes malnutrition.",
+          "Diet slows progression but does not reverse established kidney damage.",
+          "The concern is nitrogenous waste from protein metabolism, not primarily its potassium content."
+        ]
+      }
+    }
+  ]
+}

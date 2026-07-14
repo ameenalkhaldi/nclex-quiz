@@ -6,7 +6,9 @@ window.NCLEX_DATA = {
     "neoplasms-cancer": "Neoplasms & Cancer",
     "neuro": "Migraine · Insomnia · Seizures",
     "med-surg-anemia": "Med-Surg: Anemia",
-    "med-surg-lower-gi": "Med-Surg: Lower GI"
+    "med-surg-lower-gi": "Med-Surg: Lower GI",
+    "med-surg-kidney": "Med-Surg: Kidney",
+    "med-surg-endocrine": "Med-Surg: Endocrine"
   },
   "banks": {
     "upper-gi": [
@@ -6509,6 +6511,1381 @@ window.NCLEX_DATA = {
           "Correct—limiting gas-producing foods helps control gas and odor."
         ],
         "type": "sata"
+      }
+    ],
+    "med-surg-kidney": [
+      {
+        "stem": "A nurse receives report on four clients with chronic kidney disease. Which client should the nurse assess first?",
+        "options": [
+          "A client with a serum potassium of 6.8 mEq/L and peaked T waves on the monitor",
+          "A client with a serum phosphate of 5.4 mg/dL requesting a phosphate binder",
+          "A client with 2+ pitting edema scheduled for dialysis this afternoon",
+          "A client with a hemoglobin of 9.2 g/dL reporting fatigue"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Hyperkalemia is the highest-priority electrolyte disturbance in CKD because it causes life-threatening dysrhythmias; a potassium of 6.8 mEq/L with peaked T waves is the cue that makes this the priority hypothesis and demands immediate action.",
+          "An elevated phosphate needing a binder is an expected CKD finding and is managed with the next meal, not emergently.",
+          "Pitting edema before scheduled dialysis is expected fluid overload and does not outrank a lethal rhythm risk.",
+          "A hemoglobin of 9.2 with fatigue reflects chronic CKD anemia — important but stable, not the first to see."
+        ]
+      },
+      {
+        "stem": "A client with stage 4 CKD reports a headache. Which newly prescribed order should the nurse question?",
+        "options": [
+          "Ibuprofen 400 mg by mouth every 6 hours as needed",
+          "Sevelamer 800 mg by mouth with meals",
+          "Calcitriol 0.25 mcg by mouth daily",
+          "Epoetin alfa subcutaneously three times weekly"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Ibuprofen is an NSAID, a nephrotoxic drug that further reduces renal perfusion and accelerates kidney damage; recognizing this cue means the nurse questions the order to protect remaining function.",
+          "Sevelamer is a phosphate binder appropriately given with meals in CKD.",
+          "Calcitriol (active vitamin D) is standard therapy for CKD-related hypocalcemia and bone disease.",
+          "Epoetin alfa is expected to treat CKD anemia from decreased erythropoietin."
+        ]
+      },
+      {
+        "stem": "A client with CKD has a potassium of 6.5 mEq/L. Which assessment finding is the priority for the nurse to monitor?",
+        "options": [
+          "Cardiac rhythm on the ECG monitor",
+          "Deep tendon reflexes in the lower extremities",
+          "Bowel sounds in all four quadrants",
+          "Skin turgor over the sternum"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Hyperkalemia's most dangerous effect is cardiac dysrhythmia, so continuous ECG monitoring is the priority — the nurse is watching for the peaked T waves and widening QRS that signal deterioration.",
+          "Reflexes can change with electrolyte shifts but are not the life-threatening concern.",
+          "Bowel sounds may increase with hyperkalemia but do not indicate a lethal risk.",
+          "Skin turgor assesses hydration, not the cardiac threat of hyperkalemia."
+        ]
+      },
+      {
+        "stem": "A client with CKD is prescribed sevelamer. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I will take this medication one hour after each meal on an empty stomach.\"",
+          "\"This medication binds the phosphorus in the food I eat.\"",
+          "\"The goal is to lower the phosphate level in my blood.\"",
+          "\"I should still limit dark colas and dairy in my diet.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "This statement is incorrect and requires teaching: phosphate binders such as sevelamer must be taken WITH meals so they can bind dietary phosphorus in the gut; taking it on an empty stomach defeats its purpose.",
+          "Correctly stating that the drug binds dietary phosphorus shows understanding.",
+          "Correctly identifying the goal as lowering serum phosphate shows understanding.",
+          "Limiting high-phosphorus foods like dark colas and dairy correctly supports the therapy."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client's AV fistula before hemodialysis and cannot palpate a thrill or auscultate a bruit. What is the nurse's priority action?",
+        "options": [
+          "Notify the provider immediately, as the fistula may be clotted",
+          "Apply warm compresses and reassess in one hour",
+          "Document the finding as an expected baseline",
+          "Elevate the arm on two pillows and wrap it snugly"
+        ],
+        "answer": 0,
+        "explanations": [
+          "An absent thrill and bruit signal possible clot or occlusion of the access — an emergency. Recognizing this cue, the nurse notifies the provider immediately so the fistula can be salvaged.",
+          "Warm compresses delay treatment of a possible occlusion that needs prompt intervention.",
+          "A palpable thrill and audible bruit are the normal, expected findings — their absence is abnormal, not baseline.",
+          "Wrapping the arm snugly can further compromise blood flow through the access."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about protecting the arm with a new AV fistula. Which instructions should the nurse include? Select all that apply.",
+        "options": [
+          "Do not allow blood pressure measurements on that arm",
+          "Do not allow venipunctures or IV insertions in that arm",
+          "Palpate for a thrill and check the access daily",
+          "Sleep with your body weight resting on that arm",
+          "Wear tight bracelets or a watch on that wrist for support"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—blood pressure cuffs compress the access and can cause thrombosis.",
+          "Correct—needle sticks in the access arm risk infection and damage to the fistula.",
+          "Correct—checking the thrill daily lets the client detect occlusion early.",
+          "Incorrect—sleeping on the access arm applies pressure that can clot the fistula.",
+          "Incorrect—tight jewelry or watches restrict flow and should be avoided."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client returns to the unit after hemodialysis. Which finding does the nurse anticipate as the most common complication?",
+        "options": [
+          "Hypotension",
+          "Hypertension",
+          "Bradycardia",
+          "Fever"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Removing fluid during hemodialysis lowers intravascular volume, so hypotension is the most common post-dialysis complication; the nurse evaluates for dizziness and a falling blood pressure.",
+          "Blood pressure typically falls, not rises, with fluid removal.",
+          "Bradycardia is not the expected post-dialysis pattern.",
+          "Fever suggests infection, not the usual hemodynamic effect of dialysis."
+        ]
+      },
+      {
+        "stem": "A client is ordered a 24-hour urine collection to measure creatinine clearance. During the collection, the client voids and the specimen is accidentally discarded. What is the nurse's best action?",
+        "options": [
+          "Restart the entire 24-hour collection and note the new start time",
+          "Add an estimated volume of saline to replace the discarded urine",
+          "Continue the collection and document the missed specimen",
+          "Send the urine already collected to the lab for immediate analysis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A 24-hour urine measures total output over the full period; if any specimen is missed, the collection is invalid and must be restarted so the result accurately reflects creatinine clearance and GFR.",
+          "Adding saline falsifies the volume and invalidates the test.",
+          "Continuing after a missed void yields an inaccurate total and an unreliable result.",
+          "Sending an incomplete collection produces a falsely low result."
+        ]
+      },
+      {
+        "stem": "A client with CKD asks about seasoning food without adding sodium and mentions using a salt substitute. How should the nurse respond?",
+        "options": [
+          "\"Salt substitutes are high in potassium, which your kidneys cannot excrete well.\"",
+          "\"Salt substitutes are a safe, unlimited option for kidney patients.\"",
+          "\"Salt substitutes are high in phosphorus and should be limited.\"",
+          "\"Salt substitutes contain magnesium, which will help your bones.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Most salt substitutes replace sodium with potassium; because CKD kidneys cannot excrete potassium, these products risk dangerous hyperkalemia — the reasoning the nurse must teach.",
+          "They are not safe or unlimited; the potassium load is the hazard.",
+          "The concern is potassium, not phosphorus, in salt substitutes.",
+          "Salt substitutes are a potassium source; magnesium bone benefit is not the point."
+        ]
+      },
+      {
+        "stem": "A client on peritoneal dialysis has drainage that is cloudy and reports abdominal pain and fever. What does the nurse suspect, and what is the priority action?",
+        "options": [
+          "Peritonitis; notify the provider immediately and obtain a fluid culture",
+          "Normal dwell effluent; continue the prescribed exchanges",
+          "Catheter migration; reposition the client onto the left side",
+          "Dialysate too cold; warm the next bag to body temperature"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Cloudy or purulent drainage with fever and abdominal pain is the classic presentation of peritonitis, the major complication of PD; recognizing this cue, the nurse notifies the provider immediately and sends effluent for culture.",
+          "Normal effluent is clear, not cloudy; cloudiness is never expected.",
+          "Catheter migration causes poor flow, not cloudy drainage with fever.",
+          "Cold dialysate causes cramping, not cloudy effluent and fever."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client starting peritoneal dialysis about diet. Which recommendation is correct?",
+        "options": [
+          "Eat a high-protein diet because protein is lost through the peritoneum",
+          "Follow a strict low-protein diet to reduce kidney workload",
+          "Restrict all fluids to 500 mL per day permanently",
+          "Increase potassium-rich foods to replace dialysate losses"
+        ],
+        "answer": 0,
+        "explanations": [
+          "PD removes protein across the peritoneal membrane, so a high-protein diet is recommended to replace those losses — the opposite of hemodialysis teaching.",
+          "A strict low-protein diet worsens the protein depletion caused by PD.",
+          "Fixed 500 mL restriction is not a universal PD rule; fluid needs are individualized.",
+          "Potassium is generally still monitored and moderated, not deliberately increased."
+        ]
+      },
+      {
+        "stem": "A nurse is preparing to perform a peritoneal dialysis exchange. Which actions are appropriate? Select all that apply.",
+        "options": [
+          "Warm the dialysate to room/body temperature before instilling",
+          "Use sterile (aseptic) technique and wear a mask",
+          "Drain the fluid slowly to help prevent hypotension",
+          "Instill cold dialysate to reduce peritoneal inflammation",
+          "Reuse the drained effluent for the next dwell to conserve fluid"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—dialysate is warmed to body temperature; cold fluid causes cramping.",
+          "Correct—sterile technique and masks prevent peritonitis, the major PD complication.",
+          "Correct—draining slowly helps prevent a sudden drop in blood pressure.",
+          "Incorrect—cold dialysate causes abdominal cramping and is not therapeutic.",
+          "Incorrect—effluent is waste and is never reinstilled; doing so would cause infection."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client is brought in 10 days after a streptococcal throat infection with tea-colored urine, periorbital edema, and a blood pressure of 168/98. Which condition does the nurse suspect?",
+        "options": [
+          "Acute glomerulonephritis",
+          "Lower urinary tract infection",
+          "Prerenal acute kidney injury from dehydration",
+          "Benign essential hypertension"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Tea/cola-colored urine (hematuria), edema, and hypertension roughly 10 days after a strep infection are the hallmark cues of post-streptococcal glomerulonephritis, an immune-mediated inflammation of the glomeruli.",
+          "A lower UTI causes dysuria and frequency, not hematuria with edema and hypertension after strep.",
+          "Prerenal AKI from dehydration presents with volume depletion, not fluid overload and edema.",
+          "Essential hypertension does not explain the hematuria, edema, and recent strep history."
+        ]
+      },
+      {
+        "stem": "A client with acute glomerulonephritis is admitted. Which prescription does the nurse anticipate as the first-line treatment?",
+        "options": [
+          "Corticosteroids to reduce glomerular inflammation",
+          "A high-sodium diet to expand circulating volume",
+          "Unrestricted oral fluids to flush the kidneys",
+          "A calcium channel blocker as the only therapy needed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Glomerulonephritis is inflammatory, so corticosteroids are first-line to reduce the immune-mediated inflammation of the glomeruli; this is the intervention the nurse anticipates.",
+          "Sodium is restricted, not increased, because of edema and hypertension.",
+          "Fluids are restricted during the acute phase, not pushed, to control fluid overload.",
+          "Antihypertensives may be used, but steroids — not a calcium channel blocker alone — are first-line."
+        ]
+      },
+      {
+        "stem": "A client with polycystic kidney disease asks how the diagnosis is confirmed and what the main nursing priority is. Which response is most accurate?",
+        "options": [
+          "\"A renal ultrasound confirms it, and controlling your blood pressure is the priority to slow kidney damage.\"",
+          "\"A 24-hour urine confirms it, and increasing dietary protein is the priority.\"",
+          "\"A kidney biopsy is required, and the disease can be cured with surgery.\"",
+          "\"Blood cultures confirm it, and restricting all fluids is the priority.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "PKD is diagnosed by renal ultrasound (test of choice), and because there is no cure, aggressive blood pressure control is the top nursing priority to slow progression of kidney damage.",
+          "A 24-hour urine is not the diagnostic test, and increasing protein is not the priority.",
+          "Ultrasound, not biopsy, confirms PKD, and there is no surgical cure.",
+          "Blood cultures do not diagnose PKD, and blanket fluid restriction is not the priority."
+        ]
+      },
+      {
+        "stem": "A client with CKD anemia is to receive epoetin alfa. Which value should the nurse verify before administration?",
+        "options": [
+          "Iron stores (ferritin and transferrin saturation)",
+          "Serum sodium",
+          "Serum amylase",
+          "Prothrombin time (PT/INR)"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Erythropoietin drives red-cell production, but the marrow needs adequate iron to build hemoglobin; checking iron stores first ensures the drug will work — the reasoning behind 'check iron before giving erythropoietin.'",
+          "Sodium does not determine whether erythropoietin will be effective.",
+          "Amylase relates to the pancreas, not erythropoiesis.",
+          "PT/INR measures clotting, which is not the prerequisite for ESA therapy."
+        ]
+      },
+      {
+        "stem": "A client with CKD has an arterial blood gas showing pH 7.30 and bicarbonate 16 mEq/L. How should the nurse interpret this result?",
+        "options": [
+          "Metabolic acidosis, an expected finding in CKD",
+          "Respiratory alkalosis requiring oxygen",
+          "Metabolic alkalosis from overuse of antacids",
+          "A normal acid-base balance for this client"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Failing kidneys cannot excrete hydrogen ions or produce bicarbonate, so a low pH with low bicarbonate is metabolic acidosis — the classic, expected acid-base disorder in CKD.",
+          "A low bicarbonate points to a metabolic, not respiratory, process.",
+          "Alkalosis would show an elevated pH, not the low pH seen here.",
+          "A pH of 7.30 with bicarbonate of 16 is abnormal, not normal."
+        ]
+      },
+      {
+        "stem": "A client with advanced CKD has a calcium of 7.6 mg/dL and a phosphate of 6.2 mg/dL. Which long-term complication should the nurse monitor for?",
+        "options": [
+          "Bone fractures from renal osteodystrophy",
+          "Polycythemia from excess erythropoietin",
+          "Metabolic alkalosis from bicarbonate retention",
+          "Hyperglycemia from insulin resistance"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In CKD, phosphate is retained and vitamin D activation falls, lowering calcium; the rise in PTH pulls calcium from bone, causing renal osteodystrophy and fractures — the hypocalcemia-plus-hyperphosphatemia pattern shown here.",
+          "CKD causes anemia from LOW erythropoietin, not polycythemia.",
+          "CKD causes metabolic acidosis, not alkalosis.",
+          "These calcium and phosphate values point to bone disease, not a glucose problem."
+        ]
+      },
+      {
+        "stem": "A client with CKD is prescribed lisinopril. The nurse understands this drug is used primarily to achieve which outcome?",
+        "options": [
+          "Protect the kidneys and slow CKD progression by controlling blood pressure",
+          "Rapidly correct hyperkalemia",
+          "Increase erythropoietin production",
+          "Bind dietary phosphorus in the gut"
+        ],
+        "answer": 0,
+        "explanations": [
+          "ACE inhibitors like lisinopril are used in CKD to protect kidney function and slow progression while controlling hypertension — the intended therapeutic effect.",
+          "ACE inhibitors can actually raise potassium; they do not correct hyperkalemia.",
+          "They do not stimulate erythropoietin.",
+          "Phosphate binding is the role of phosphate binders, not ACE inhibitors."
+        ]
+      },
+      {
+        "stem": "A client's labs show a GFR of 12 mL/min/1.73m². How should the nurse interpret this finding?",
+        "options": [
+          "End-stage kidney disease; dialysis is likely indicated",
+          "Normal kidney function",
+          "Mild CKD requiring only dietary changes",
+          "Improving kidney function that needs no intervention"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A GFR below 15 mL/min defines stage 5 CKD (end-stage kidney disease), where dialysis is likely needed; interpreting this cue guides the next step in care.",
+          "A GFR of 12 is severely reduced; normal is 90 or above.",
+          "GFR below 15 is stage 5, far beyond mild CKD manageable by diet alone.",
+          "A GFR this low reflects failure, not improvement, and requires intervention."
+        ]
+      },
+      {
+        "stem": "A client with CKD develops lethargy, foul (uremic) breath, generalized itching, and a white crystalline deposit on the skin. Which complication does the nurse recognize?",
+        "options": [
+          "Uremia with uremic frost",
+          "Cellulitis of the trunk",
+          "An allergic drug reaction",
+          "Contact dermatitis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Accumulated nitrogenous waste produces uremia; foul breath, pruritus, and uremic frost (urea crystals on the skin) are its hallmark cues in advanced CKD.",
+          "Cellulitis is a localized skin infection, not a systemic crystalline deposit with uremic breath.",
+          "An allergic reaction does not cause uremic breath or urea crystals.",
+          "Contact dermatitis is localized and unrelated to nitrogenous waste buildup."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with CKD about nephrotoxic substances to avoid. Which items should the nurse include? Select all that apply.",
+        "options": [
+          "NSAIDs such as ibuprofen and naproxen",
+          "IV contrast dye used for imaging",
+          "Aminoglycoside antibiotics",
+          "Acetaminophen at recommended doses for occasional pain",
+          "Prescribed erythropoietin injections"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—NSAIDs reduce renal perfusion and are classic nephrotoxins.",
+          "Correct—IV contrast can worsen kidney injury; creatinine is monitored before and after.",
+          "Correct—aminoglycosides are nephrotoxic and require careful renal dosing.",
+          "Incorrect—acetaminophen at recommended doses is the preferred analgesic and is not a listed nephrotoxin.",
+          "Incorrect—erythropoietin treats CKD anemia and is not nephrotoxic."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client asks why the phosphate binder must be taken 'right when I start eating.' What is the nurse's best explanation?",
+        "options": [
+          "\"Taking it with food lets it bind the phosphorus in your meal so less is absorbed.\"",
+          "\"Food protects your stomach from the medication's irritation.\"",
+          "\"Taking it with meals helps you remember your dose.\"",
+          "\"Food activates the drug so it can raise your calcium level.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Phosphate binders work in the gut, attaching to phosphorus in food so it is excreted rather than absorbed; that is why the dose must coincide with the meal.",
+          "The purpose is phosphorus binding, not gastric protection.",
+          "Convenience is not the pharmacologic reason for the timing.",
+          "The drug binds phosphorus; it does not require food activation to raise calcium."
+        ]
+      },
+      {
+        "stem": "A client with CKD is scheduled for hemodialysis at 1000. A daily dose of an antihypertensive is due at 0900. What is the nurse's best action?",
+        "options": [
+          "Hold the antihypertensive and confirm the plan to give it after dialysis",
+          "Give the antihypertensive as scheduled at 0900",
+          "Give a double dose after dialysis to make up for the delay",
+          "Omit the dose permanently while the client is on dialysis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Many medications, especially antihypertensives, are held until after dialysis because dialysis-related fluid removal can drop the blood pressure; giving it beforehand risks profound hypotension. The nurse holds and clarifies the timing.",
+          "Giving it just before dialysis compounds the expected post-dialysis hypotension.",
+          "Doubling the dose is unsafe and not indicated.",
+          "The dose is delayed, not permanently omitted; it is typically given after dialysis."
+        ]
+      },
+      {
+        "stem": "A client weighs 70 kg before hemodialysis and 68 kg afterward. How should the nurse interpret this change?",
+        "options": [
+          "Approximately 2 liters of fluid were removed during dialysis",
+          "The client gained fluid during the treatment",
+          "The client lost 2 kg of body tissue and needs a nutrition consult",
+          "The scale is inaccurate because weight should not change with dialysis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Weight change around dialysis reflects fluid, where 1 kg equals about 1 liter; a 2 kg drop means roughly 2 liters of fluid were removed — the nurse evaluates dialysis effectiveness this way.",
+          "A lower post-dialysis weight indicates fluid was removed, not gained.",
+          "The change is fluid, not tissue loss, over a single treatment.",
+          "Weight is expected to fall with fluid removal; the change is meaningful, not error."
+        ]
+      },
+      {
+        "stem": "During hemodialysis a client develops a headache, nausea, and confusion. The nurse recognizes these as signs of which complication?",
+        "options": [
+          "Disequilibrium syndrome from rapid solute shifts",
+          "An air embolism entering the bloodstream",
+          "Hyperkalemia from inadequate clearance",
+          "A febrile transfusion reaction"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Rapid removal of solutes such as urea creates an osmotic gradient that draws water into brain cells, producing the headache, nausea, and confusion of dialysis disequilibrium syndrome.",
+          "Air embolism presents with sudden dyspnea and chest pain, not this gradual neuro picture.",
+          "Dialysis lowers potassium; hyperkalemia is not the cause of these symptoms.",
+          "No blood product is being infused, so a transfusion reaction does not apply."
+        ]
+      },
+      {
+        "stem": "A client is admitted with a left forearm AV fistula. Which order should the nurse question?",
+        "options": [
+          "Draw morning labs from the left forearm",
+          "Assess the fistula for thrill and bruit each shift",
+          "Measure blood pressure in the right arm",
+          "Insert a peripheral IV in the right hand if needed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The access arm must never be used for blood draws, IVs, or blood pressure; drawing labs from the fistula arm risks clotting and infection, so the nurse questions this order.",
+          "Checking thrill and bruit each shift is appropriate fistula monitoring.",
+          "Taking blood pressure in the non-access arm correctly protects the fistula.",
+          "Placing an IV in the opposite hand appropriately avoids the access arm."
+        ]
+      },
+      {
+        "stem": "A client with CKD on a fluid restriction has gained 1.5 kg since yesterday. Which additional finding would most support fluid overload?",
+        "options": [
+          "New crackles in the lung bases and increasing peripheral edema",
+          "Dry mucous membranes and flat neck veins",
+          "A capillary refill of less than 2 seconds",
+          "A decrease in the abdominal girth"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Daily weight is the most reliable fluid indicator; a 1.5 kg gain with new crackles and worsening edema confirms fluid overload — the nurse links the cues to intervene.",
+          "Dry membranes and flat neck veins indicate deficit, not overload.",
+          "Brisk capillary refill is a normal finding, not evidence of overload.",
+          "Decreasing abdominal girth suggests less fluid, contradicting overload."
+        ]
+      },
+      {
+        "stem": "A client with CKD has a potassium of 6.9 mEq/L with ECG changes. Which prescriptions does the nurse anticipate? Select all that apply.",
+        "options": [
+          "IV regular insulin with dextrose",
+          "IV calcium gluconate",
+          "Sodium polystyrene sulfonate",
+          "A potassium-sparing diuretic",
+          "Encourage a banana and orange juice snack"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—insulin with dextrose drives potassium into the cells to lower serum levels.",
+          "Correct—calcium gluconate stabilizes the cardiac membrane against dysrhythmias.",
+          "Correct—sodium polystyrene sulfonate removes potassium through the GI tract.",
+          "Incorrect—a potassium-sparing diuretic raises potassium and is contraindicated.",
+          "Incorrect—bananas and orange juice are high in potassium and would worsen the level."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with CKD says, \"I've been using a potassium-based salt substitute and eating a lot of guava and persimmons because they're healthy.\" Which statement indicates the client needs further teaching?",
+        "options": [
+          "\"These choices are fine because they are natural, low-sodium foods.\"",
+          "\"I know I need to limit foods that are high in potassium.\"",
+          "\"My kidneys have trouble getting rid of extra potassium.\"",
+          "\"High potassium can cause dangerous heart rhythms.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "This statement needs correction: salt substitutes, guava, and persimmons are all high in potassium, which the CKD client cannot excrete; 'natural and low-sodium' does not make them safe.",
+          "Recognizing the need to limit high-potassium foods shows correct understanding.",
+          "Understanding that damaged kidneys retain potassium is accurate.",
+          "Knowing hyperkalemia causes dysrhythmias reflects correct learning."
+        ]
+      },
+      {
+        "stem": "A client with CKD asks which beverage is the best choice for limiting phosphorus. What is the nurse's best response?",
+        "options": [
+          "\"Avoid dark colas, which are high in phosphorus.\"",
+          "\"Dark colas are a good low-phosphorus choice.\"",
+          "\"Any carbonated drink is fine as long as it is caffeine-free.\"",
+          "\"Milk is the best low-phosphorus option.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Dark colas are high in phosphorus and are limited in CKD; steering the client away from them supports phosphate control.",
+          "Dark colas are high in phosphorus, not a good choice.",
+          "Caffeine content is not the issue; the phosphorus additives in dark colas are.",
+          "Milk is high in phosphorus and is limited in CKD."
+        ]
+      },
+      {
+        "stem": "A client newly diagnosed with CKD asks why they have become anemic. What is the nurse's best explanation?",
+        "options": [
+          "\"Damaged kidneys make less erythropoietin, the hormone that signals red blood cell production.\"",
+          "\"Your kidneys are destroying red blood cells directly.\"",
+          "\"CKD causes your body to make too much iron, which crowds out red cells.\"",
+          "\"Anemia in CKD is caused by dehydration and will resolve with fluids.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "The kidneys produce erythropoietin, which stimulates red-cell production; as kidney tissue is lost, erythropoietin falls and anemia develops — the mechanism behind CKD anemia.",
+          "The kidneys do not directly destroy red cells in CKD.",
+          "CKD does not cause iron overload that crowds out red cells.",
+          "CKD anemia is due to low erythropoietin, not dehydration, and is not fixed by fluids."
+        ]
+      },
+      {
+        "stem": "A client with advanced CKD reports severe pruritus and has dry, excoriated skin. Which intervention should the nurse prioritize to prevent complications?",
+        "options": [
+          "Keep the skin moisturized and nails trimmed to prevent breaks and infection",
+          "Apply hot compresses to the itchy areas several times a day",
+          "Encourage vigorous scrubbing during bathing to remove uremic frost",
+          "Withhold all skin care until the itching resolves on its own"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Uremic pruritus leads to scratching and skin breakdown; keeping skin moisturized and nails short protects the barrier and prevents infection — the safest supportive action.",
+          "Hot compresses dry and irritate the skin, worsening itching.",
+          "Vigorous scrubbing traumatizes fragile skin and increases infection risk.",
+          "Withholding care allows breakdown and infection to develop."
+        ]
+      },
+      {
+        "stem": "A client with CKD and hypertension asks what blood pressure goal will best protect the kidneys. Which response reflects the recommended target?",
+        "options": [
+          "\"Keeping your systolic pressure below about 120 helps slow kidney damage.\"",
+          "\"A systolic pressure around 160 is ideal for kidney patients.\"",
+          "\"Blood pressure control does not affect kidney disease progression.\"",
+          "\"We aim for a systolic pressure above 140 to keep the kidneys perfused.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Tight blood pressure control — a systolic goal near or below 120 when tolerated — reduces the pressure injuring the nephrons and slows CKD progression.",
+          "A systolic of 160 is uncontrolled hypertension that accelerates kidney damage.",
+          "Blood pressure control is central to slowing CKD progression.",
+          "Deliberately keeping systolic above 140 promotes, rather than prevents, kidney injury."
+        ]
+      },
+      {
+        "stem": "A client with CKD is scheduled for a contrast-enhanced CT scan. Which nursing action is most important to protect the kidneys?",
+        "options": [
+          "Monitor BUN and creatinine before and after the study and ensure adequate hydration",
+          "Withhold all fluids for 12 hours before and after the scan",
+          "Administer an NSAID for pre-procedure comfort",
+          "Encourage a high-protein meal immediately before the contrast"
+        ],
+        "answer": 0,
+        "explanations": [
+          "IV contrast is nephrotoxic; monitoring renal function before and after and maintaining hydration protects the kidneys from contrast-induced injury — the priority nursing action.",
+          "Withholding fluids promotes dehydration and worsens contrast nephrotoxicity.",
+          "NSAIDs are nephrotoxic and would compound the risk from contrast.",
+          "A high-protein meal does not protect the kidneys and increases their workload."
+        ]
+      },
+      {
+        "stem": "A client with acute glomerulonephritis has a blood pressure of 170/100 and 3+ periorbital edema. Which interventions does the nurse anticipate during the acute phase?",
+        "options": [
+          "Sodium and fluid restriction with daily weights and strict intake and output",
+          "A high-sodium diet with unrestricted oral fluids",
+          "Encouraging ambulation and a high-protein, high-sodium diet",
+          "Withholding all antihypertensive therapy until symptoms resolve"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The fluid overload of glomerulonephritis is managed like heart failure: restrict sodium and fluids, weigh daily, and track I&O to evaluate response — the acute-phase priorities.",
+          "High sodium and free fluids worsen the edema and hypertension.",
+          "A high-sodium diet aggravates fluid retention; rest is favored in the acute phase.",
+          "Antihypertensives may be needed to control the dangerous blood pressure."
+        ]
+      },
+      {
+        "stem": "A client with polycystic kidney disease is developing a self-management plan. Which client statement indicates correct understanding?",
+        "options": [
+          "\"I will report signs of a urinary tract infection promptly and keep my blood pressure controlled.\"",
+          "\"Because there is a cure, I only need treatment until the cysts shrink.\"",
+          "\"I should ignore flank pain since it is a normal part of the disease.\"",
+          "\"I can stop my blood pressure medication once I feel well.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "PKD has no cure, so care is supportive: prompt treatment of UTIs and tight blood pressure control are the priorities that slow progression — this statement shows understanding.",
+          "There is no cure for PKD; treatment is lifelong and supportive.",
+          "New or worsening flank pain should be reported, not ignored.",
+          "Blood pressure control must continue even when the client feels well to protect the kidneys."
+        ]
+      },
+      {
+        "stem": "A client on peritoneal dialysis is found to have cloudy effluent. After notifying the provider, which action should the nurse anticipate next?",
+        "options": [
+          "Obtaining a sample of the effluent for culture and cell count",
+          "Immediately removing the peritoneal catheter at the bedside",
+          "Increasing the dwell time to clear the cloudiness",
+          "Switching the client to a high-potassium diet"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Cloudy effluent suggests peritonitis; culturing the fluid identifies the organism so appropriate antibiotics (often added to the dialysate) can be started — the logical next step after notifying the provider.",
+          "The catheter is not routinely pulled at the bedside; infection is treated first.",
+          "Increasing dwell time does not treat infection and delays care.",
+          "Diet changes do not address peritonitis and a high-potassium diet is inappropriate."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for four clients receiving renal replacement therapy. Which client should the nurse assess first?",
+        "options": [
+          "A peritoneal dialysis client with cloudy drainage, fever, and abdominal pain",
+          "A hemodialysis client whose fistula has a palpable thrill and audible bruit",
+          "A CKD client asking when the next scheduled dialysis session begins",
+          "A peritoneal dialysis client whose exit site is clean, dry, and intact"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Cloudy drainage with fever and abdominal pain signals peritonitis, a serious infection needing immediate provider notification; these cues make this client the priority.",
+          "A thrill and bruit are the expected normal findings of a patent fistula.",
+          "A scheduling question is not urgent.",
+          "A clean, dry, intact exit site is the desired normal finding."
+        ]
+      },
+      {
+        "stem": "A client asks how hemodialysis actually cleans the blood. Which explanation by the nurse is most accurate?",
+        "options": [
+          "\"Wastes move across a semipermeable membrane from your blood into the dialysate, and extra fluid is pulled off.\"",
+          "\"The machine adds waste products to your blood so your kidneys can rest.\"",
+          "\"Your blood is replaced with donor blood at each session.\"",
+          "\"The dialyzer injects potassium into your blood to balance it.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Hemodialysis relies on diffusion of solutes (urea, creatinine, potassium) across a semipermeable membrane into the dialysate and ultrafiltration to remove excess fluid — the principles the nurse should convey.",
+          "Dialysis removes wastes; it does not add them to the blood.",
+          "The client's own blood is cleaned and returned; it is not replaced with donor blood.",
+          "Dialysis removes excess potassium; it does not inject it."
+        ]
+      },
+      {
+        "stem": "A client with CKD asks why the dietitian recommends a moderate rather than high protein intake. What is the nurse's best explanation?",
+        "options": [
+          "\"Damaged kidneys cannot handle excess protein waste, which adds to their workload.\"",
+          "\"Protein should be eliminated entirely to protect your kidneys.\"",
+          "\"A high-protein diet will reverse your kidney damage.\"",
+          "\"Protein is limited only because it is high in potassium.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Protein metabolism produces nitrogenous waste the failing kidneys must clear; a moderate intake limits that burden without causing malnutrition — the reasoning behind the restriction (note high-protein diets are recommended in peritoneal dialysis because protein is lost through the peritoneum).",
+          "Protein is moderated, not eliminated; too little causes malnutrition.",
+          "Diet slows progression but does not reverse established kidney damage.",
+          "The concern is nitrogenous waste from protein metabolism, not primarily its potassium content."
+        ]
+      }
+    ],
+    "med-surg-endocrine": [
+      {
+        "stem": "A type 1 diabetic client reports blurred vision, irritability, sweating, and tremors. What is the nurse's priority action?",
+        "options": [
+          "Check the client's blood glucose level",
+          "Administer the client's scheduled insulin",
+          "Call the provider to report the symptoms",
+          "Have the client rest and reassess in one hour"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Sweating, tremor, irritability, and blurred vision are classic cues of hypoglycemia; the nurse must first recognize and confirm the problem by checking the blood glucose before acting.",
+          "Giving insulin would drive glucose even lower and could be fatal if the client is hypoglycemic.",
+          "Calling the provider delays the rapid assessment and treatment the client needs.",
+          "Waiting an hour risks progression to seizures or loss of consciousness."
+        ]
+      },
+      {
+        "stem": "A conscious client who can swallow has a blood glucose of 58 mg/dL. Which action should the nurse take first?",
+        "options": [
+          "Give 15 grams of a fast-acting carbohydrate, such as 4 oz of juice",
+          "Administer 1 mg of glucagon intramuscularly",
+          "Give the client a turkey sandwich and milk",
+          "Start an IV and prepare to give 50% dextrose"
+        ],
+        "answer": 0,
+        "explanations": [
+          "For conscious hypoglycemia, the 15–15 rule applies: give 15 g of fast-acting carbohydrate and recheck in 15 minutes — the correct first action to raise glucose.",
+          "Glucagon is reserved for the unconscious client who cannot swallow.",
+          "A protein-and-fat snack acts too slowly to correct acute hypoglycemia; it may follow once glucose normalizes.",
+          "IV dextrose is for clients who cannot take oral carbohydrate, not a conscious client who can swallow."
+        ]
+      },
+      {
+        "stem": "A nurse finds a diabetic client unconscious and unable to swallow, with a blood glucose of 42 mg/dL. Which intervention is most appropriate?",
+        "options": [
+          "Administer glucagon 1 mg subcutaneously or intramuscularly",
+          "Place oral glucose gel between the cheek and gum",
+          "Give 4 oz of orange juice by mouth",
+          "Withhold treatment and recheck the glucose in 15 minutes"
+        ],
+        "answer": 0,
+        "explanations": [
+          "An unconscious client cannot safely swallow; glucagon given SQ or IM raises blood glucose without oral intake — the appropriate action for severe hypoglycemia.",
+          "Oral gel or fluids risk aspiration in a client who cannot swallow.",
+          "Giving juice to an unconscious client can cause aspiration.",
+          "Withholding treatment during severe hypoglycemia is dangerous and delays care."
+        ]
+      },
+      {
+        "stem": "A client with type 1 diabetes presents with a blood glucose of 480 mg/dL, arterial pH of 7.24, positive serum ketones, and fruity breath. Which condition does the nurse recognize?",
+        "options": [
+          "Diabetic ketoacidosis (DKA)",
+          "Hyperglycemic hyperosmolar state (HHS)",
+          "Hypoglycemia",
+          "Somogyi effect"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A high glucose with acidosis (pH < 7.3), ketones, and fruity breath in a type 1 client are the defining cues of DKA, which results from the absolute insulin lack that drives fat breakdown into ketones.",
+          "HHS occurs in type 2 clients with very high glucose (often > 600) but a normal pH and no significant ketones.",
+          "Hypoglycemia is a low glucose, the opposite of this picture.",
+          "The Somogyi effect is rebound hyperglycemia after nighttime lows, not this acute acidotic crisis."
+        ]
+      },
+      {
+        "stem": "A client with type 2 diabetes has a blood glucose of 720 mg/dL, a pH of 7.38, negative ketones, and profound dehydration with altered mental status. Which complication does the nurse suspect?",
+        "options": [
+          "Hyperglycemic hyperosmolar state (HHS)",
+          "Diabetic ketoacidosis (DKA)",
+          "Lactic acidosis",
+          "Hypoglycemia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "HHS is seen in type 2 diabetes with extreme hyperglycemia (often > 600), a normal pH, and absent ketones because enough insulin exists to prevent ketosis; severe dehydration and neuro changes are typical cues.",
+          "DKA shows an acidotic pH and positive ketones, which are absent here.",
+          "Lactic acidosis would lower the pH; this client's pH is normal.",
+          "Hypoglycemia is a low glucose, inconsistent with a glucose of 720."
+        ]
+      },
+      {
+        "stem": "A type 1 diabetic client has the flu, is eating very little, and asks whether to stop the basal insulin until appetite returns. Which response by the nurse is correct?",
+        "options": [
+          "\"Keep taking your basal insulin; stopping it during illness can trigger DKA.\"",
+          "\"Yes, stop all insulin until you are eating normally again.\"",
+          "\"Stop the basal insulin but double your mealtime insulin.\"",
+          "\"Skip insulin today and check your glucose only if you feel unwell.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Sick-day rules stress never stopping basal insulin; illness raises glucose through stress hormones, and omitting basal insulin in type 1 precipitates DKA. The nurse reinforces continued basal dosing with frequent monitoring.",
+          "Stopping all insulin in type 1 leads directly to ketoacidosis.",
+          "Basal insulin is maintained; mealtime insulin is adjusted to intake, not doubled while eating little.",
+          "Skipping insulin and monitoring only if symptomatic violates sick-day rules."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with type 1 diabetes sick-day management. Which instructions are appropriate? Select all that apply.",
+        "options": [
+          "Continue taking basal insulin even when eating less",
+          "Check blood glucose and ketones more frequently",
+          "Maintain adequate fluid intake to prevent dehydration",
+          "Stop all insulin whenever nausea prevents normal eating",
+          "Know the signs that warrant calling the provider"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—basal insulin continues during illness to prevent ketoacidosis.",
+          "Correct—more frequent glucose and ketone checks catch deterioration early.",
+          "Correct—adequate fluids prevent the dehydration that worsens hyperglycemia.",
+          "Incorrect—stopping all insulin during illness is the classic trigger for DKA.",
+          "Correct—knowing warning signs ensures timely provider contact."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client's laboratory results return with a hemoglobin A1C of 7.2%. How should the nurse interpret this value?",
+        "options": [
+          "It meets the diagnostic threshold for diabetes",
+          "It is within the normal, non-diabetic range",
+          "It indicates prediabetes only",
+          "It reflects acute hypoglycemia over the past 24 hours"
+        ],
+        "answer": 0,
+        "explanations": [
+          "An A1C of 6.5% or higher meets the diagnostic criterion for diabetes; 7.2% is above that threshold, so the nurse interprets it as diagnostic (confirmed with a second test).",
+          "Normal A1C is 5.7% or below, well under this value.",
+          "Prediabetes is 5.7–6.4%; 7.2% exceeds that range.",
+          "A1C reflects average glucose over about 3 months, not the last 24 hours."
+        ]
+      },
+      {
+        "stem": "A client's fasting plasma glucose is 118 mg/dL and A1C is 6.0%. How should the nurse interpret these results?",
+        "options": [
+          "The client has prediabetes and would benefit from lifestyle changes",
+          "The client meets the criteria for type 2 diabetes",
+          "The results are completely normal",
+          "The client is experiencing hypoglycemia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A fasting glucose of 100–125 mg/dL and an A1C of 5.7–6.4% both fall in the prediabetes range; recognizing this cue lets the nurse promote lifestyle changes before diabetes develops.",
+          "Diabetes requires a fasting glucose of 126 or higher or an A1C of 6.5% or higher; neither is met.",
+          "The values are above normal, indicating prediabetes rather than a normal result.",
+          "These are elevated, not low, glucose values."
+        ]
+      },
+      {
+        "stem": "A client undergoes a 2-hour oral glucose tolerance test with a result of 215 mg/dL. How should the nurse interpret this finding?",
+        "options": [
+          "It is in the diabetic range for the 2-hour OGTT",
+          "It is a normal 2-hour OGTT result",
+          "It indicates hypoglycemia",
+          "It is only diagnostic of gestational diabetes"
+        ],
+        "answer": 0,
+        "explanations": [
+          "On the 2-hour OGTT, a value of 200 mg/dL or greater is diagnostic of diabetes; 215 exceeds that cutoff, so the nurse interprets it as a diabetic result.",
+          "A normal 2-hour OGTT is 140–199 mg/dL; this value is above that.",
+          "This is an elevated glucose, not hypoglycemia.",
+          "The 200 mg/dL threshold applies to diabetes generally, not gestational diabetes alone."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with newly diagnosed type 2 diabetes about preventing eye complications. Which statement by the client indicates correct understanding?",
+        "options": [
+          "\"I will have a dilated eye exam every year even if my vision seems fine.\"",
+          "\"I only need my eyes checked if I notice blurry vision.\"",
+          "\"Eye exams are unnecessary as long as my A1C is below 7.\"",
+          "\"Diabetes affects the kidneys but not the eyes.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Diabetic retinopathy develops silently, so an annual dilated eye exam is recommended to detect damage early — the client's statement reflects correct teaching.",
+          "Retinopathy is often asymptomatic; waiting for blurred vision misses early disease.",
+          "Even with a good A1C, annual eye exams remain necessary.",
+          "Diabetes causes retinopathy, so the eyes are very much at risk."
+        ]
+      },
+      {
+        "stem": "A diabetic client's urine shows microalbuminuria and the GFR is trending down. Which medication does the nurse expect to be prescribed to protect the kidneys?",
+        "options": [
+          "An ACE inhibitor or ARB",
+          "A nonsteroidal anti-inflammatory drug",
+          "An aminoglycoside antibiotic",
+          "A high-dose loop diuretic as monotherapy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "ACE inhibitors and ARBs are renal-protective in diabetes; they reduce intraglomerular pressure and slow diabetic nephropathy, so they are preferred when microalbuminuria appears.",
+          "NSAIDs are nephrotoxic and would worsen diabetic kidney disease.",
+          "Aminoglycosides are nephrotoxic and are not used to protect the kidneys.",
+          "A loop diuretic alone does not provide the renal protection ACE inhibitors/ARBs offer."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching foot care to a client with diabetic peripheral neuropathy. Which instructions should the nurse include? Select all that apply.",
+        "options": [
+          "Inspect your feet every day for cuts, blisters, or redness",
+          "Test bath water temperature with a thermometer or your elbow",
+          "Have a podiatrist trim your toenails and calluses",
+          "Walk barefoot at home to toughen the soles of your feet",
+          "Wear light-colored socks to spot any drainage or bleeding"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—daily inspection catches injuries the client cannot feel.",
+          "Correct—checking water temperature prevents burns from unfelt heat.",
+          "Correct—a podiatrist should trim nails and calluses to avoid self-inflicted wounds.",
+          "Incorrect—walking barefoot risks unnoticed cuts and punctures that can lead to ulcers.",
+          "Correct—light-colored socks make drainage or bleeding easy to see."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with diabetic neuropathy says, \"To save money I trim my own calluses with a razor and soak my feet in hot water each night.\" Which response indicates the need for further teaching has been addressed?",
+        "options": [
+          "\"Let a podiatrist trim calluses, and check water temperature first because you may not feel a burn.\"",
+          "\"Using a razor is fine as long as you clean it well between uses.\"",
+          "\"Hot soaks are good because they improve circulation to your feet.\"",
+          "\"You can keep doing both as long as your glucose stays controlled.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Because neuropathy removes protective sensation, self-cutting risks unnoticed wounds and hot soaks risk burns; the nurse teaches professional callus care and checking water temperature — correcting the unsafe practices.",
+          "Self-cutting with a razor risks injury and infection regardless of cleaning.",
+          "Hot soaks can cause burns the client cannot feel and are not recommended.",
+          "Good glucose control does not make these unsafe foot practices acceptable."
+        ]
+      },
+      {
+        "stem": "A client with type 2 diabetes started semaglutide (a GLP-1 receptor agonist) and reports nausea, wanting to stop the drug. What is the nurse's best intervention?",
+        "options": [
+          "Reassure the client that nausea often improves and review strategies like smaller, low-fat meals before stopping",
+          "Instruct the client to discontinue the medication immediately",
+          "Tell the client to double the next dose to push through the nausea",
+          "Advise the client to skip meals until the nausea resolves"
+        ],
+        "answer": 0,
+        "explanations": [
+          "GI upset is a common, usually transient GLP-1 side effect; the nurse coaches the client through it with dietary strategies rather than abruptly stopping an effective medication — supporting adherence.",
+          "Abrupt discontinuation without provider input abandons a beneficial therapy for a manageable side effect.",
+          "Doubling the dose intensifies the nausea and is unsafe.",
+          "Skipping meals can cause hypoglycemia and does not address the issue safely."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about carbohydrates and the glycemic index. Which statement indicates correct understanding?",
+        "options": [
+          "\"Complex carbs like oatmeal raise my blood sugar more slowly than simple carbs like soda.\"",
+          "\"Simple carbohydrates such as soda are the best everyday choice for steady glucose.\"",
+          "\"The glycemic index of a food does not affect my blood sugar.\"",
+          "\"All carbohydrates raise blood sugar at exactly the same rate.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Complex carbohydrates are digested more slowly and have a lower glycemic index than simple carbohydrates, producing a gentler glucose rise — the concept the client should grasp.",
+          "Simple carbs like soda spike glucose quickly and are not the steady choice.",
+          "The glycemic index specifically reflects how fast a food raises glucose.",
+          "Carbohydrates differ in how quickly they raise glucose, which is what glycemic index measures."
+        ]
+      },
+      {
+        "stem": "A client with diabetes plans to have a couple of alcoholic drinks at a party. Which teaching is most important for the nurse to provide?",
+        "options": [
+          "\"Alcohol can lower your blood sugar, so eat when you drink and watch for signs of hypoglycemia.\"",
+          "\"Alcohol raises blood sugar, so take extra insulin before you drink.\"",
+          "\"Alcohol has no effect on blood sugar in people with diabetes.\"",
+          "\"Drink on an empty stomach to keep your blood sugar from rising.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Alcohol can drop blood glucose, so the client should eat while drinking and recognize hypoglycemia symptoms — the key safety teaching.",
+          "Alcohol tends to lower, not raise, glucose; extra insulin would deepen a low.",
+          "Alcohol does affect blood glucose and can cause hypoglycemia.",
+          "Drinking on an empty stomach increases the risk of alcohol-induced hypoglycemia."
+        ]
+      },
+      {
+        "stem": "A client with diabetes is starting a walking program. Which self-care measure should the nurse emphasize to exercise safely?",
+        "options": [
+          "Carry a fast-acting carbohydrate and check glucose before and after exercise",
+          "Exercise only when the glucose is above 300 mg/dL with ketones present",
+          "Wear open sandals so the feet can breathe during activity",
+          "Avoid checking glucose so as not to interrupt the workout"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Exercise can cause hypoglycemia, so carrying fast-acting carbohydrate and monitoring glucose before and after activity keeps the client safe — the priority self-management measure.",
+          "Exercising with glucose over 300 and ketones (poor metabolic control) is unsafe and can worsen hyperglycemia.",
+          "Open sandals expose the feet to injury; supportive footwear is needed.",
+          "Skipping glucose checks removes the safeguard against exercise-induced lows."
+        ]
+      },
+      {
+        "stem": "A nurse is comparing type 1 and type 2 diabetes for a group of students. Which statement is accurate?",
+        "options": [
+          "Type 1 results from autoimmune beta-cell destruction and is ketosis-prone",
+          "Type 2 clients always require insulin from the time of diagnosis",
+          "Type 1 is most often diagnosed in obese older adults",
+          "Type 2 is caused by autoantibodies destroying the pancreas"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Type 1 diabetes is an autoimmune destruction of beta cells with little or no insulin production, making these clients prone to ketosis and DKA.",
+          "Type 2 is managed with oral and injectable agents and lifestyle; insulin may be added later, not always at diagnosis.",
+          "Type 1 typically presents in younger, often thinner clients; type 2 is linked to obesity.",
+          "Autoantibodies characterize type 1; type 2 stems from insulin resistance, not autoimmunity."
+        ]
+      },
+      {
+        "stem": "A client presents with excessive thirst, frequent urination, and constant hunger. The nurse recognizes these classic symptoms as which finding?",
+        "options": [
+          "The three Ps of hyperglycemia: polydipsia, polyuria, and polyphagia",
+          "The expected effects of hypoglycemia",
+          "Signs of diabetes insipidus unrelated to blood glucose",
+          "Manifestations of hypothyroidism"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Polydipsia (thirst), polyuria (urination), and polyphagia (hunger) — the three Ps — are the classic cues of hyperglycemia, as glucose spills into urine and pulls water with it.",
+          "Hypoglycemia causes sweating, tremor, and confusion, not the three Ps.",
+          "These symptoms in this context point to diabetes mellitus, not insipidus.",
+          "Hypothyroidism causes fatigue and cold intolerance, not the three Ps."
+        ]
+      },
+      {
+        "stem": "During a skin assessment, the nurse notes dark, velvety patches in the neck folds and axillae of a client being evaluated for type 2 diabetes. How does the nurse document this finding?",
+        "options": [
+          "Acanthosis nigricans, associated with insulin resistance",
+          "Uremic frost, associated with kidney failure",
+          "Petechiae, associated with low platelets",
+          "Jaundice, associated with liver disease"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Acanthosis nigricans — dark, velvety skin in body folds — is a physical marker of insulin resistance and a common finding in type 2 diabetes.",
+          "Uremic frost is a white crystalline deposit seen in advanced kidney failure, not dark velvety skin.",
+          "Petechiae are pinpoint red-purple spots from bleeding, not velvety patches.",
+          "Jaundice is a yellow discoloration, not the described darkening in skin folds."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a long-standing diabetic with neuropathy and nephropathy who no longer feels the usual warning signs of low blood sugar. Which nursing action is most important?",
+        "options": [
+          "Teach the client to check glucose regularly because of hypoglycemia unawareness",
+          "Reassure the client that they no longer need to worry about lows",
+          "Recommend the client stop all glucose monitoring to reduce anxiety",
+          "Advise the client to keep glucose consistently below 60 mg/dL"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Autonomic neuropathy can blunt the adrenergic warning signs, causing hypoglycemia unawareness; frequent monitoring is essential because the client can no longer rely on symptoms to detect lows.",
+          "Losing warning signs makes lows more dangerous, not less concerning.",
+          "Stopping monitoring removes the only reliable way to catch unrecognized lows.",
+          "Keeping glucose below 60 is itself hypoglycemic and unsafe."
+        ]
+      },
+      {
+        "stem": "A client is diagnosed with hypothyroidism. Which cluster of findings does the nurse expect? Select all that apply.",
+        "options": [
+          "Fatigue and cold intolerance",
+          "Weight gain",
+          "Constipation",
+          "Tachycardia and heat intolerance",
+          "Bradycardia"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—slowed metabolism causes fatigue and cold intolerance.",
+          "Correct—reduced metabolic rate leads to weight gain.",
+          "Correct—slowed GI motility causes constipation.",
+          "Incorrect—tachycardia and heat intolerance occur in hyperthyroidism, where everything speeds up.",
+          "Correct—a slowed heart rate (bradycardia) fits the hypometabolic state."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client newly prescribed levothyroxine for hypothyroidism is receiving teaching. Which instruction is correct?",
+        "options": [
+          "\"Take it on an empty stomach in the morning, 30 to 60 minutes before eating.\"",
+          "\"Take it with your morning calcium supplement for convenience.\"",
+          "\"Stop the medication once your energy returns to normal.\"",
+          "\"Take it right after a large breakfast to prevent stomach upset.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Levothyroxine is best absorbed on an empty stomach 30–60 minutes before eating; consistent timing ensures stable hormone levels in this lifelong therapy.",
+          "Calcium (and iron) impair levothyroxine absorption and must be separated from the dose.",
+          "Levothyroxine is typically lifelong; stopping it returns the client to a hypothyroid state.",
+          "Taking it after a large meal reduces absorption and is not recommended."
+        ]
+      },
+      {
+        "stem": "A client taking levothyroxine states, \"I feel great now, so I'll stop taking this pill.\" Which response by the nurse indicates the need for further teaching has been correctly addressed?",
+        "options": [
+          "\"Levothyroxine is usually lifelong; stopping it will bring your hypothyroid symptoms back.\"",
+          "\"That's fine—once your symptoms improve you no longer need the medication.\"",
+          "\"You can stop it now but restart if you gain weight again.\"",
+          "\"Feeling well means your thyroid has healed and the drug is no longer needed.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Feeling well means the replacement dose is working, not that the gland has recovered; levothyroxine is lifelong, and stopping it returns the client to hypothyroidism — the teaching the nurse reinforces.",
+          "Improvement is due to the medication; stopping reverses the benefit.",
+          "Intermittent self-dosing destabilizes hormone levels and is unsafe.",
+          "Hypothyroidism is generally permanent; the gland has not healed."
+        ]
+      },
+      {
+        "stem": "A client with hyperthyroidism is being assessed. Which findings does the nurse expect?",
+        "options": [
+          "Weight loss, heat intolerance, tachycardia, and tremors",
+          "Weight gain, cold intolerance, and bradycardia",
+          "Constipation, dry skin, and fatigue",
+          "Cold, coarse skin with a slow heart rate"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Excess thyroid hormone speeds metabolism, producing weight loss, heat intolerance, tachycardia, and tremors — the hyperthyroid pattern.",
+          "Weight gain, cold intolerance, and bradycardia describe hypothyroidism.",
+          "Constipation, dry skin, and fatigue are hypothyroid findings.",
+          "Cold skin and a slow heart rate reflect a slowed, hypothyroid metabolism."
+        ]
+      },
+      {
+        "stem": "A client with Graves disease develops a temperature of 104°F, heart rate of 148, agitation, and altered consciousness. The nurse recognizes this as which emergency?",
+        "options": [
+          "Thyroid storm (thyrotoxic crisis)",
+          "Myxedema coma",
+          "Diabetic ketoacidosis",
+          "Adrenal insufficiency"
+        ],
+        "answer": 0,
+        "explanations": [
+          "High fever, extreme tachycardia, agitation, and decreased consciousness in a hyperthyroid client are the cues of thyroid storm — a life-threatening exaggeration of hyperthyroidism needing ICU-level care.",
+          "Myxedema coma is the hypothyroid crisis, with hypothermia and bradycardia — the opposite picture.",
+          "DKA involves hyperglycemia and acidosis, not thyroid hormone excess.",
+          "Adrenal insufficiency causes hypotension and hypoglycemia, not this hypermetabolic storm."
+        ]
+      },
+      {
+        "stem": "A client with severe untreated hypothyroidism becomes hypothermic, bradycardic, and difficult to arouse. The nurse recognizes this life-threatening complication as:",
+        "options": [
+          "Myxedema coma",
+          "Thyroid storm",
+          "Hyperglycemic hyperosmolar state",
+          "Thyrotoxicosis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Myxedema coma is the extreme, life-threatening form of hypothyroidism: profound hypothermia, bradycardia, and decreased consciousness requiring ICU-level care.",
+          "Thyroid storm is the hyperthyroid crisis with fever and tachycardia — the opposite.",
+          "HHS is a diabetic complication, not a thyroid one.",
+          "Thyrotoxicosis reflects hormone excess (hyperthyroidism), not the hypothyroid state described."
+        ]
+      },
+      {
+        "stem": "A client with Graves disease is started on methimazole. The nurse understands this medication works by:",
+        "options": [
+          "Inhibiting the synthesis of thyroid hormones",
+          "Replacing deficient thyroid hormone",
+          "Blocking the peripheral effects of catecholamines",
+          "Destroying the pituitary gland"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Methimazole is an antithyroid drug that inhibits thyroid hormone synthesis, lowering the excess hormone driving hyperthyroidism.",
+          "Replacing thyroid hormone is the goal in hypothyroidism (levothyroxine), not hyperthyroidism.",
+          "Blocking catecholamine effects describes a beta-blocker like propranolol, not methimazole.",
+          "Methimazole acts on the thyroid gland, not the pituitary."
+        ]
+      },
+      {
+        "stem": "A client with hyperthyroidism is prescribed propranolol. The nurse explains this medication is given primarily to:",
+        "options": [
+          "Control symptoms such as tachycardia and tremor",
+          "Permanently cure the hyperthyroidism",
+          "Replace thyroid hormone",
+          "Stop the thyroid gland from making hormone"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Propranolol, a beta-blocker, is given for symptom control — it slows the tachycardia, tremor, and palpitations of hyperthyroidism while definitive therapy takes effect.",
+          "Propranolol relieves symptoms but does not cure hyperthyroidism.",
+          "It does not replace thyroid hormone.",
+          "Blocking hormone synthesis is the role of antithyroid drugs like methimazole, not propranolol."
+        ]
+      },
+      {
+        "stem": "A client is scheduled for radioactive iodine therapy for hyperthyroidism. Which statement should the nurse include in teaching?",
+        "options": [
+          "\"You will likely need thyroid hormone replacement afterward because the therapy reduces thyroid function.\"",
+          "\"This treatment will make your thyroid produce more hormone.\"",
+          "\"You must take antithyroid pills for the rest of your life after this.\"",
+          "\"You should stop all thyroid follow-up once the treatment is complete.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Radioactive iodine ablates thyroid tissue, so many clients become hypothyroid and need lifelong hormone replacement — the key teaching point.",
+          "The therapy destroys thyroid tissue and lowers, not raises, hormone output.",
+          "It does not require lifelong antithyroid drugs; it often leads to hormone replacement instead.",
+          "Ongoing follow-up is needed to monitor for resulting hypothyroidism."
+        ]
+      },
+      {
+        "stem": "A client taking levothyroxine also takes calcium carbonate and ferrous sulfate. What is the nurse's best instruction about timing?",
+        "options": [
+          "Separate the levothyroxine from the calcium and iron by several hours",
+          "Take all three medications together each morning",
+          "Take the levothyroxine with the iron to improve its absorption",
+          "Crush the levothyroxine into the calcium supplement"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Calcium and iron bind levothyroxine and reduce its absorption; separating the doses by several hours preserves the drug's effectiveness.",
+          "Taking them together impairs levothyroxine absorption.",
+          "Iron decreases, not increases, levothyroxine absorption.",
+          "Combining it with calcium reduces absorption and is not appropriate."
+        ]
+      },
+      {
+        "stem": "A client's thyroid labs show an elevated TSH and a low free T4. How should the nurse interpret these results?",
+        "options": [
+          "They are consistent with primary hypothyroidism",
+          "They indicate hyperthyroidism",
+          "They reflect normal thyroid function",
+          "They confirm thyroid storm"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In primary hypothyroidism the gland underproduces hormone (low free T4) and the pituitary compensates by raising TSH — the classic high-TSH, low-T4 pattern.",
+          "Hyperthyroidism shows a low TSH with a high free T4, the reverse of this pattern.",
+          "These abnormal values are not normal thyroid function.",
+          "Thyroid storm is a clinical hyperthyroid emergency, not this hypothyroid lab pattern."
+        ]
+      },
+      {
+        "stem": "A client from a region with limited access to iodized salt develops a goiter and hypothyroid symptoms. The nurse recognizes the likely cause as:",
+        "options": [
+          "Iodine deficiency",
+          "Excess dietary protein",
+          "An autoimmune attack from too much iodine",
+          "Overtreatment with levothyroxine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Iodine is required to make thyroid hormone; deficiency causes hypothyroidism and goiter and remains a common cause where salt is not iodized.",
+          "Dietary protein excess does not cause goiter or hypothyroidism.",
+          "The scenario points to deficiency, not iodine excess.",
+          "Levothyroxine overtreatment causes hyperthyroid symptoms, not a hypothyroid goiter."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client admitted in diabetic ketoacidosis. Which prescriptions does the nurse anticipate? Select all that apply.",
+        "options": [
+          "IV 0.9% sodium chloride for fluid resuscitation",
+          "IV regular insulin infusion",
+          "Frequent monitoring of serum potassium",
+          "Withhold all IV fluids to prevent cerebral edema",
+          "Subcutaneous long-acting insulin as the sole treatment"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—IV isotonic fluids correct the profound dehydration of DKA.",
+          "Correct—an IV regular insulin infusion lowers glucose and halts ketogenesis.",
+          "Correct—potassium must be watched closely as insulin shifts it into cells, risking hypokalemia.",
+          "Incorrect—withholding fluids worsens dehydration; fluids are a cornerstone of DKA care.",
+          "Incorrect—DKA requires an IV insulin infusion, not long-acting SQ insulin alone."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A conscious client with hypoglycemia is treated with 15 g of carbohydrate. Fifteen minutes later the repeat glucose is 62 mg/dL. What is the nurse's next action?",
+        "options": [
+          "Give another 15 g of fast-acting carbohydrate and recheck in 15 minutes",
+          "Administer the client's next scheduled dose of insulin",
+          "Document the value as resolved and take no further action",
+          "Give intramuscular glucagon immediately"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The 15–15 rule directs repeating 15 g of carbohydrate and rechecking in 15 minutes when the glucose is still below 70; the client remains hypoglycemic and needs another treatment.",
+          "Giving insulin now would deepen the hypoglycemia.",
+          "A glucose of 62 is still low, so the low is not resolved.",
+          "Glucagon is for the unconscious client; this client is conscious and can take oral carbohydrate."
+        ]
+      },
+      {
+        "stem": "A type 2 diabetic truck driver takes metformin, semaglutide, and bedtime glargine. Considering his occupation, what is the nurse's greatest safety concern to address in teaching?",
+        "options": [
+          "Recognizing and preventing hypoglycemia while driving",
+          "The need to eliminate all carbohydrates from his diet",
+          "Stopping the glargine because basal insulin is unnecessary in type 2",
+          "Avoiding any physical activity to conserve energy on the road"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A hypoglycemic episode behind the wheel endangers the driver and others, so recognizing and preventing lows — carrying fast-acting carbs, timing meals and insulin — is the priority safety teaching for his regimen.",
+          "Carbohydrates are managed and counted, not entirely eliminated.",
+          "Basal insulin is appropriately used in type 2 diabetes and should not be stopped.",
+          "Physical activity is beneficial; avoiding it is not the safety concern."
+        ]
+      },
+      {
+        "stem": "A nurse is reinforcing diabetes education. Which client statement best reflects the essential self-management the nurse wants to confirm?",
+        "options": [
+          "\"I know the signs of both low and high blood sugar and what to do for each.\"",
+          "\"I only need to worry about high blood sugar, not low.\"",
+          "\"If my glucose is off, I should wait a few days before telling anyone.\"",
+          "\"Once my numbers look good, I can stop monitoring altogether.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Core diabetes self-management is knowing the signs of hypoglycemia and hyperglycemia and how to respond to each; this statement confirms the client can act on those cues safely.",
+          "Both low and high glucose are dangerous; the client must watch for both.",
+          "Delaying action on abnormal glucose risks serious complications.",
+          "Ongoing monitoring is needed even when numbers are good to maintain control."
+        ]
+      },
+      {
+        "stem": "A nurse is comparing the onset of DKA and HHS. Which statement is accurate?",
+        "options": [
+          "DKA develops rapidly, often within 24 hours, while HHS develops gradually over several days",
+          "HHS develops within a few hours while DKA takes weeks to appear",
+          "Both DKA and HHS develop over several weeks",
+          "Neither DKA nor HHS has a predictable onset pattern"
+        ],
+        "answer": 0,
+        "explanations": [
+          "DKA has a rapid onset (often under 24 hours) because the absolute lack of insulin quickly drives ketogenesis, whereas HHS evolves slowly over days as glucose and osmolality climb — a key distinction for anticipating deterioration.",
+          "The onsets are reversed: DKA is rapid and HHS is gradual.",
+          "DKA is rapid, not a weeks-long process.",
+          "Both have characteristic onset patterns the nurse can anticipate."
+        ]
+      },
+      {
+        "stem": "A client with type 2 diabetes has abdominal obesity, a blood pressure of 148/92, elevated triglycerides, a low HDL, and an elevated fasting glucose. The nurse recognizes this cluster as:",
+        "options": [
+          "Metabolic syndrome, which raises the risk for type 2 diabetes and cardiovascular disease",
+          "Hypoglycemia unawareness",
+          "Diabetic ketoacidosis",
+          "An expected, low-risk finding requiring no intervention"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Abdominal obesity, hypertension, high triglycerides, low HDL, and elevated fasting glucose are the components of metabolic syndrome; recognizing the cluster prompts lifestyle teaching to lower cardiovascular and diabetes risk.",
+          "Hypoglycemia unawareness is a loss of warning signs of low glucose, not this metabolic cluster.",
+          "DKA is an acute acidotic crisis, not this chronic risk profile.",
+          "This cluster carries significant risk and warrants intervention, not observation."
+        ]
+      },
+      {
+        "stem": "A client with type 1 diabetes uses a basal-bolus insulin regimen. Which statement by the client indicates correct understanding of the insulin plan?",
+        "options": [
+          "\"I take long-acting insulin for background control and rapid-acting insulin with meals.\"",
+          "\"I take my long-acting insulin only when my glucose is high.\"",
+          "\"I skip my mealtime insulin whenever I eat a large meal.\"",
+          "\"My long-acting insulin covers the carbohydrates in each meal.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "A basal-bolus regimen uses long-acting insulin for steady background coverage and rapid-acting insulin to cover carbohydrate intake at meals — the client's statement reflects correct understanding.",
+          "Basal insulin is taken on a consistent schedule for background control, not only for high readings.",
+          "Mealtime insulin should be taken to cover carbohydrates, especially with a large meal.",
+          "Rapid-acting, not long-acting, insulin covers mealtime carbohydrates."
+        ]
       }
     ]
   }

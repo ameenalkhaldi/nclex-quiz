@@ -1,0 +1,760 @@
+{
+  "topic": "med-surg-endocrine",
+  "label": "Med-Surg: Endocrine",
+  "questions": [
+    {
+      "stem": "A type 1 diabetic client reports blurred vision, irritability, sweating, and tremors. What is the nurse's priority action?",
+      "options": [
+        "Check the client's blood glucose level",
+        "Administer the client's scheduled insulin",
+        "Call the provider to report the symptoms",
+        "Have the client rest and reassess in one hour"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Sweating, tremor, irritability, and blurred vision are classic cues of hypoglycemia; the nurse must first recognize and confirm the problem by checking the blood glucose before acting.",
+        "incorrect": [
+          "Giving insulin would drive glucose even lower and could be fatal if the client is hypoglycemic.",
+          "Calling the provider delays the rapid assessment and treatment the client needs.",
+          "Waiting an hour risks progression to seizures or loss of consciousness."
+        ]
+      }
+    },
+    {
+      "stem": "A conscious client who can swallow has a blood glucose of 58 mg/dL. Which action should the nurse take first?",
+      "options": [
+        "Give 15 grams of a fast-acting carbohydrate, such as 4 oz of juice",
+        "Administer 1 mg of glucagon intramuscularly",
+        "Give the client a turkey sandwich and milk",
+        "Start an IV and prepare to give 50% dextrose"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "For conscious hypoglycemia, the 15–15 rule applies: give 15 g of fast-acting carbohydrate and recheck in 15 minutes — the correct first action to raise glucose.",
+        "incorrect": [
+          "Glucagon is reserved for the unconscious client who cannot swallow.",
+          "A protein-and-fat snack acts too slowly to correct acute hypoglycemia; it may follow once glucose normalizes.",
+          "IV dextrose is for clients who cannot take oral carbohydrate, not a conscious client who can swallow."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse finds a diabetic client unconscious and unable to swallow, with a blood glucose of 42 mg/dL. Which intervention is most appropriate?",
+      "options": [
+        "Administer glucagon 1 mg subcutaneously or intramuscularly",
+        "Place oral glucose gel between the cheek and gum",
+        "Give 4 oz of orange juice by mouth",
+        "Withhold treatment and recheck the glucose in 15 minutes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "An unconscious client cannot safely swallow; glucagon given SQ or IM raises blood glucose without oral intake — the appropriate action for severe hypoglycemia.",
+        "incorrect": [
+          "Oral gel or fluids risk aspiration in a client who cannot swallow.",
+          "Giving juice to an unconscious client can cause aspiration.",
+          "Withholding treatment during severe hypoglycemia is dangerous and delays care."
+        ]
+      }
+    },
+    {
+      "stem": "A client with type 1 diabetes presents with a blood glucose of 480 mg/dL, arterial pH of 7.24, positive serum ketones, and fruity breath. Which condition does the nurse recognize?",
+      "options": [
+        "Diabetic ketoacidosis (DKA)",
+        "Hyperglycemic hyperosmolar state (HHS)",
+        "Hypoglycemia",
+        "Somogyi effect"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A high glucose with acidosis (pH < 7.3), ketones, and fruity breath in a type 1 client are the defining cues of DKA, which results from the absolute insulin lack that drives fat breakdown into ketones.",
+        "incorrect": [
+          "HHS occurs in type 2 clients with very high glucose (often > 600) but a normal pH and no significant ketones.",
+          "Hypoglycemia is a low glucose, the opposite of this picture.",
+          "The Somogyi effect is rebound hyperglycemia after nighttime lows, not this acute acidotic crisis."
+        ]
+      }
+    },
+    {
+      "stem": "A client with type 2 diabetes has a blood glucose of 720 mg/dL, a pH of 7.38, negative ketones, and profound dehydration with altered mental status. Which complication does the nurse suspect?",
+      "options": [
+        "Hyperglycemic hyperosmolar state (HHS)",
+        "Diabetic ketoacidosis (DKA)",
+        "Lactic acidosis",
+        "Hypoglycemia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "HHS is seen in type 2 diabetes with extreme hyperglycemia (often > 600), a normal pH, and absent ketones because enough insulin exists to prevent ketosis; severe dehydration and neuro changes are typical cues.",
+        "incorrect": [
+          "DKA shows an acidotic pH and positive ketones, which are absent here.",
+          "Lactic acidosis would lower the pH; this client's pH is normal.",
+          "Hypoglycemia is a low glucose, inconsistent with a glucose of 720."
+        ]
+      }
+    },
+    {
+      "stem": "A type 1 diabetic client has the flu, is eating very little, and asks whether to stop the basal insulin until appetite returns. Which response by the nurse is correct?",
+      "options": [
+        "\"Keep taking your basal insulin; stopping it during illness can trigger DKA.\"",
+        "\"Yes, stop all insulin until you are eating normally again.\"",
+        "\"Stop the basal insulin but double your mealtime insulin.\"",
+        "\"Skip insulin today and check your glucose only if you feel unwell.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Sick-day rules stress never stopping basal insulin; illness raises glucose through stress hormones, and omitting basal insulin in type 1 precipitates DKA. The nurse reinforces continued basal dosing with frequent monitoring.",
+        "incorrect": [
+          "Stopping all insulin in type 1 leads directly to ketoacidosis.",
+          "Basal insulin is maintained; mealtime insulin is adjusted to intake, not doubled while eating little.",
+          "Skipping insulin and monitoring only if symptomatic violates sick-day rules."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with type 1 diabetes sick-day management. Which instructions are appropriate? Select all that apply.",
+      "options": [
+        "Continue taking basal insulin even when eating less",
+        "Check blood glucose and ketones more frequently",
+        "Maintain adequate fluid intake to prevent dehydration",
+        "Stop all insulin whenever nausea prevents normal eating",
+        "Know the signs that warrant calling the provider"
+      ],
+      "answer": [0, 1, 2, 4],
+      "type": "sata",
+      "rationale": {
+        "correct": "Sick-day rules: never stop basal insulin, monitor glucose and ketones frequently, stay hydrated, and know when to call the provider. Stopping all insulin during illness risks DKA.",
+        "incorrect": [
+          "Correct—basal insulin continues during illness to prevent ketoacidosis.",
+          "Correct—more frequent glucose and ketone checks catch deterioration early.",
+          "Correct—adequate fluids prevent the dehydration that worsens hyperglycemia.",
+          "Incorrect—stopping all insulin during illness is the classic trigger for DKA.",
+          "Correct—knowing warning signs ensures timely provider contact."
+        ]
+      }
+    },
+    {
+      "stem": "A client's laboratory results return with a hemoglobin A1C of 7.2%. How should the nurse interpret this value?",
+      "options": [
+        "It meets the diagnostic threshold for diabetes",
+        "It is within the normal, non-diabetic range",
+        "It indicates prediabetes only",
+        "It reflects acute hypoglycemia over the past 24 hours"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "An A1C of 6.5% or higher meets the diagnostic criterion for diabetes; 7.2% is above that threshold, so the nurse interprets it as diagnostic (confirmed with a second test).",
+        "incorrect": [
+          "Normal A1C is 5.7% or below, well under this value.",
+          "Prediabetes is 5.7–6.4%; 7.2% exceeds that range.",
+          "A1C reflects average glucose over about 3 months, not the last 24 hours."
+        ]
+      }
+    },
+    {
+      "stem": "A client's fasting plasma glucose is 118 mg/dL and A1C is 6.0%. How should the nurse interpret these results?",
+      "options": [
+        "The client has prediabetes and would benefit from lifestyle changes",
+        "The client meets the criteria for type 2 diabetes",
+        "The results are completely normal",
+        "The client is experiencing hypoglycemia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A fasting glucose of 100–125 mg/dL and an A1C of 5.7–6.4% both fall in the prediabetes range; recognizing this cue lets the nurse promote lifestyle changes before diabetes develops.",
+        "incorrect": [
+          "Diabetes requires a fasting glucose of 126 or higher or an A1C of 6.5% or higher; neither is met.",
+          "The values are above normal, indicating prediabetes rather than a normal result.",
+          "These are elevated, not low, glucose values."
+        ]
+      }
+    },
+    {
+      "stem": "A client undergoes a 2-hour oral glucose tolerance test with a result of 215 mg/dL. How should the nurse interpret this finding?",
+      "options": [
+        "It is in the diabetic range for the 2-hour OGTT",
+        "It is a normal 2-hour OGTT result",
+        "It indicates hypoglycemia",
+        "It is only diagnostic of gestational diabetes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "On the 2-hour OGTT, a value of 200 mg/dL or greater is diagnostic of diabetes; 215 exceeds that cutoff, so the nurse interprets it as a diabetic result.",
+        "incorrect": [
+          "A normal 2-hour OGTT is 140–199 mg/dL; this value is above that.",
+          "This is an elevated glucose, not hypoglycemia.",
+          "The 200 mg/dL threshold applies to diabetes generally, not gestational diabetes alone."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with newly diagnosed type 2 diabetes about preventing eye complications. Which statement by the client indicates correct understanding?",
+      "options": [
+        "\"I will have a dilated eye exam every year even if my vision seems fine.\"",
+        "\"I only need my eyes checked if I notice blurry vision.\"",
+        "\"Eye exams are unnecessary as long as my A1C is below 7.\"",
+        "\"Diabetes affects the kidneys but not the eyes.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Diabetic retinopathy develops silently, so an annual dilated eye exam is recommended to detect damage early — the client's statement reflects correct teaching.",
+        "incorrect": [
+          "Retinopathy is often asymptomatic; waiting for blurred vision misses early disease.",
+          "Even with a good A1C, annual eye exams remain necessary.",
+          "Diabetes causes retinopathy, so the eyes are very much at risk."
+        ]
+      }
+    },
+    {
+      "stem": "A diabetic client's urine shows microalbuminuria and the GFR is trending down. Which medication does the nurse expect to be prescribed to protect the kidneys?",
+      "options": [
+        "An ACE inhibitor or ARB",
+        "A nonsteroidal anti-inflammatory drug",
+        "An aminoglycoside antibiotic",
+        "A high-dose loop diuretic as monotherapy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "ACE inhibitors and ARBs are renal-protective in diabetes; they reduce intraglomerular pressure and slow diabetic nephropathy, so they are preferred when microalbuminuria appears.",
+        "incorrect": [
+          "NSAIDs are nephrotoxic and would worsen diabetic kidney disease.",
+          "Aminoglycosides are nephrotoxic and are not used to protect the kidneys.",
+          "A loop diuretic alone does not provide the renal protection ACE inhibitors/ARBs offer."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching foot care to a client with diabetic peripheral neuropathy. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Inspect your feet every day for cuts, blisters, or redness",
+        "Test bath water temperature with a thermometer or your elbow",
+        "Have a podiatrist trim your toenails and calluses",
+        "Walk barefoot at home to toughen the soles of your feet",
+        "Wear light-colored socks to spot any drainage or bleeding"
+      ],
+      "answer": [0, 1, 2, 4],
+      "type": "sata",
+      "rationale": {
+        "correct": "Neuropathy blunts protective sensation, so teaching centers on daily inspection, checking water temperature to avoid burns, professional nail/callus care, and light socks to detect drainage; walking barefoot invites unnoticed injury.",
+        "incorrect": [
+          "Correct—daily inspection catches injuries the client cannot feel.",
+          "Correct—checking water temperature prevents burns from unfelt heat.",
+          "Correct—a podiatrist should trim nails and calluses to avoid self-inflicted wounds.",
+          "Incorrect—walking barefoot risks unnoticed cuts and punctures that can lead to ulcers.",
+          "Correct—light-colored socks make drainage or bleeding easy to see."
+        ]
+      }
+    },
+    {
+      "stem": "A client with diabetic neuropathy says, \"To save money I trim my own calluses with a razor and soak my feet in hot water each night.\" Which response indicates the need for further teaching has been addressed?",
+      "options": [
+        "\"Let a podiatrist trim calluses, and check water temperature first because you may not feel a burn.\"",
+        "\"Using a razor is fine as long as you clean it well between uses.\"",
+        "\"Hot soaks are good because they improve circulation to your feet.\"",
+        "\"You can keep doing both as long as your glucose stays controlled.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Because neuropathy removes protective sensation, self-cutting risks unnoticed wounds and hot soaks risk burns; the nurse teaches professional callus care and checking water temperature — correcting the unsafe practices.",
+        "incorrect": [
+          "Self-cutting with a razor risks injury and infection regardless of cleaning.",
+          "Hot soaks can cause burns the client cannot feel and are not recommended.",
+          "Good glucose control does not make these unsafe foot practices acceptable."
+        ]
+      }
+    },
+    {
+      "stem": "A client with type 2 diabetes started semaglutide (a GLP-1 receptor agonist) and reports nausea, wanting to stop the drug. What is the nurse's best intervention?",
+      "options": [
+        "Reassure the client that nausea often improves and review strategies like smaller, low-fat meals before stopping",
+        "Instruct the client to discontinue the medication immediately",
+        "Tell the client to double the next dose to push through the nausea",
+        "Advise the client to skip meals until the nausea resolves"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "GI upset is a common, usually transient GLP-1 side effect; the nurse coaches the client through it with dietary strategies rather than abruptly stopping an effective medication — supporting adherence.",
+        "incorrect": [
+          "Abrupt discontinuation without provider input abandons a beneficial therapy for a manageable side effect.",
+          "Doubling the dose intensifies the nausea and is unsafe.",
+          "Skipping meals can cause hypoglycemia and does not address the issue safely."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about carbohydrates and the glycemic index. Which statement indicates correct understanding?",
+      "options": [
+        "\"Complex carbs like oatmeal raise my blood sugar more slowly than simple carbs like soda.\"",
+        "\"Simple carbohydrates such as soda are the best everyday choice for steady glucose.\"",
+        "\"The glycemic index of a food does not affect my blood sugar.\"",
+        "\"All carbohydrates raise blood sugar at exactly the same rate.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Complex carbohydrates are digested more slowly and have a lower glycemic index than simple carbohydrates, producing a gentler glucose rise — the concept the client should grasp.",
+        "incorrect": [
+          "Simple carbs like soda spike glucose quickly and are not the steady choice.",
+          "The glycemic index specifically reflects how fast a food raises glucose.",
+          "Carbohydrates differ in how quickly they raise glucose, which is what glycemic index measures."
+        ]
+      }
+    },
+    {
+      "stem": "A client with diabetes plans to have a couple of alcoholic drinks at a party. Which teaching is most important for the nurse to provide?",
+      "options": [
+        "\"Alcohol can lower your blood sugar, so eat when you drink and watch for signs of hypoglycemia.\"",
+        "\"Alcohol raises blood sugar, so take extra insulin before you drink.\"",
+        "\"Alcohol has no effect on blood sugar in people with diabetes.\"",
+        "\"Drink on an empty stomach to keep your blood sugar from rising.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Alcohol can drop blood glucose, so the client should eat while drinking and recognize hypoglycemia symptoms — the key safety teaching.",
+        "incorrect": [
+          "Alcohol tends to lower, not raise, glucose; extra insulin would deepen a low.",
+          "Alcohol does affect blood glucose and can cause hypoglycemia.",
+          "Drinking on an empty stomach increases the risk of alcohol-induced hypoglycemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with diabetes is starting a walking program. Which self-care measure should the nurse emphasize to exercise safely?",
+      "options": [
+        "Carry a fast-acting carbohydrate and check glucose before and after exercise",
+        "Exercise only when the glucose is above 300 mg/dL with ketones present",
+        "Wear open sandals so the feet can breathe during activity",
+        "Avoid checking glucose so as not to interrupt the workout"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Exercise can cause hypoglycemia, so carrying fast-acting carbohydrate and monitoring glucose before and after activity keeps the client safe — the priority self-management measure.",
+        "incorrect": [
+          "Exercising with glucose over 300 and ketones (poor metabolic control) is unsafe and can worsen hyperglycemia.",
+          "Open sandals expose the feet to injury; supportive footwear is needed.",
+          "Skipping glucose checks removes the safeguard against exercise-induced lows."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is comparing type 1 and type 2 diabetes for a group of students. Which statement is accurate?",
+      "options": [
+        "Type 1 results from autoimmune beta-cell destruction and is ketosis-prone",
+        "Type 2 clients always require insulin from the time of diagnosis",
+        "Type 1 is most often diagnosed in obese older adults",
+        "Type 2 is caused by autoantibodies destroying the pancreas"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Type 1 diabetes is an autoimmune destruction of beta cells with little or no insulin production, making these clients prone to ketosis and DKA.",
+        "incorrect": [
+          "Type 2 is managed with oral and injectable agents and lifestyle; insulin may be added later, not always at diagnosis.",
+          "Type 1 typically presents in younger, often thinner clients; type 2 is linked to obesity.",
+          "Autoantibodies characterize type 1; type 2 stems from insulin resistance, not autoimmunity."
+        ]
+      }
+    },
+    {
+      "stem": "A client presents with excessive thirst, frequent urination, and constant hunger. The nurse recognizes these classic symptoms as which finding?",
+      "options": [
+        "The three Ps of hyperglycemia: polydipsia, polyuria, and polyphagia",
+        "The expected effects of hypoglycemia",
+        "Signs of diabetes insipidus unrelated to blood glucose",
+        "Manifestations of hypothyroidism"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Polydipsia (thirst), polyuria (urination), and polyphagia (hunger) — the three Ps — are the classic cues of hyperglycemia, as glucose spills into urine and pulls water with it.",
+        "incorrect": [
+          "Hypoglycemia causes sweating, tremor, and confusion, not the three Ps.",
+          "These symptoms in this context point to diabetes mellitus, not insipidus.",
+          "Hypothyroidism causes fatigue and cold intolerance, not the three Ps."
+        ]
+      }
+    },
+    {
+      "stem": "During a skin assessment, the nurse notes dark, velvety patches in the neck folds and axillae of a client being evaluated for type 2 diabetes. How does the nurse document this finding?",
+      "options": [
+        "Acanthosis nigricans, associated with insulin resistance",
+        "Uremic frost, associated with kidney failure",
+        "Petechiae, associated with low platelets",
+        "Jaundice, associated with liver disease"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Acanthosis nigricans — dark, velvety skin in body folds — is a physical marker of insulin resistance and a common finding in type 2 diabetes.",
+        "incorrect": [
+          "Uremic frost is a white crystalline deposit seen in advanced kidney failure, not dark velvety skin.",
+          "Petechiae are pinpoint red-purple spots from bleeding, not velvety patches.",
+          "Jaundice is a yellow discoloration, not the described darkening in skin folds."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a long-standing diabetic with neuropathy and nephropathy who no longer feels the usual warning signs of low blood sugar. Which nursing action is most important?",
+      "options": [
+        "Teach the client to check glucose regularly because of hypoglycemia unawareness",
+        "Reassure the client that they no longer need to worry about lows",
+        "Recommend the client stop all glucose monitoring to reduce anxiety",
+        "Advise the client to keep glucose consistently below 60 mg/dL"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Autonomic neuropathy can blunt the adrenergic warning signs, causing hypoglycemia unawareness; frequent monitoring is essential because the client can no longer rely on symptoms to detect lows.",
+        "incorrect": [
+          "Losing warning signs makes lows more dangerous, not less concerning.",
+          "Stopping monitoring removes the only reliable way to catch unrecognized lows.",
+          "Keeping glucose below 60 is itself hypoglycemic and unsafe."
+        ]
+      }
+    },
+    {
+      "stem": "A client is diagnosed with hypothyroidism. Which cluster of findings does the nurse expect? Select all that apply.",
+      "options": [
+        "Fatigue and cold intolerance",
+        "Weight gain",
+        "Constipation",
+        "Tachycardia and heat intolerance",
+        "Bradycardia"
+      ],
+      "answer": [0, 1, 2, 4],
+      "type": "sata",
+      "rationale": {
+        "correct": "Hypothyroidism slows metabolism, producing fatigue, cold intolerance, weight gain, constipation, and bradycardia; tachycardia and heat intolerance are hyperthyroid findings.",
+        "incorrect": [
+          "Correct—slowed metabolism causes fatigue and cold intolerance.",
+          "Correct—reduced metabolic rate leads to weight gain.",
+          "Correct—slowed GI motility causes constipation.",
+          "Incorrect—tachycardia and heat intolerance occur in hyperthyroidism, where everything speeds up.",
+          "Correct—a slowed heart rate (bradycardia) fits the hypometabolic state."
+        ]
+      }
+    },
+    {
+      "stem": "A client newly prescribed levothyroxine for hypothyroidism is receiving teaching. Which instruction is correct?",
+      "options": [
+        "\"Take it on an empty stomach in the morning, 30 to 60 minutes before eating.\"",
+        "\"Take it with your morning calcium supplement for convenience.\"",
+        "\"Stop the medication once your energy returns to normal.\"",
+        "\"Take it right after a large breakfast to prevent stomach upset.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Levothyroxine is best absorbed on an empty stomach 30–60 minutes before eating; consistent timing ensures stable hormone levels in this lifelong therapy.",
+        "incorrect": [
+          "Calcium (and iron) impair levothyroxine absorption and must be separated from the dose.",
+          "Levothyroxine is typically lifelong; stopping it returns the client to a hypothyroid state.",
+          "Taking it after a large meal reduces absorption and is not recommended."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking levothyroxine states, \"I feel great now, so I'll stop taking this pill.\" Which response by the nurse indicates the need for further teaching has been correctly addressed?",
+      "options": [
+        "\"Levothyroxine is usually lifelong; stopping it will bring your hypothyroid symptoms back.\"",
+        "\"That's fine—once your symptoms improve you no longer need the medication.\"",
+        "\"You can stop it now but restart if you gain weight again.\"",
+        "\"Feeling well means your thyroid has healed and the drug is no longer needed.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Feeling well means the replacement dose is working, not that the gland has recovered; levothyroxine is lifelong, and stopping it returns the client to hypothyroidism — the teaching the nurse reinforces.",
+        "incorrect": [
+          "Improvement is due to the medication; stopping reverses the benefit.",
+          "Intermittent self-dosing destabilizes hormone levels and is unsafe.",
+          "Hypothyroidism is generally permanent; the gland has not healed."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hyperthyroidism is being assessed. Which findings does the nurse expect?",
+      "options": [
+        "Weight loss, heat intolerance, tachycardia, and tremors",
+        "Weight gain, cold intolerance, and bradycardia",
+        "Constipation, dry skin, and fatigue",
+        "Cold, coarse skin with a slow heart rate"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Excess thyroid hormone speeds metabolism, producing weight loss, heat intolerance, tachycardia, and tremors — the hyperthyroid pattern.",
+        "incorrect": [
+          "Weight gain, cold intolerance, and bradycardia describe hypothyroidism.",
+          "Constipation, dry skin, and fatigue are hypothyroid findings.",
+          "Cold skin and a slow heart rate reflect a slowed, hypothyroid metabolism."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Graves disease develops a temperature of 104°F, heart rate of 148, agitation, and altered consciousness. The nurse recognizes this as which emergency?",
+      "options": [
+        "Thyroid storm (thyrotoxic crisis)",
+        "Myxedema coma",
+        "Diabetic ketoacidosis",
+        "Adrenal insufficiency"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "High fever, extreme tachycardia, agitation, and decreased consciousness in a hyperthyroid client are the cues of thyroid storm — a life-threatening exaggeration of hyperthyroidism needing ICU-level care.",
+        "incorrect": [
+          "Myxedema coma is the hypothyroid crisis, with hypothermia and bradycardia — the opposite picture.",
+          "DKA involves hyperglycemia and acidosis, not thyroid hormone excess.",
+          "Adrenal insufficiency causes hypotension and hypoglycemia, not this hypermetabolic storm."
+        ]
+      }
+    },
+    {
+      "stem": "A client with severe untreated hypothyroidism becomes hypothermic, bradycardic, and difficult to arouse. The nurse recognizes this life-threatening complication as:",
+      "options": [
+        "Myxedema coma",
+        "Thyroid storm",
+        "Hyperglycemic hyperosmolar state",
+        "Thyrotoxicosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Myxedema coma is the extreme, life-threatening form of hypothyroidism: profound hypothermia, bradycardia, and decreased consciousness requiring ICU-level care.",
+        "incorrect": [
+          "Thyroid storm is the hyperthyroid crisis with fever and tachycardia — the opposite.",
+          "HHS is a diabetic complication, not a thyroid one.",
+          "Thyrotoxicosis reflects hormone excess (hyperthyroidism), not the hypothyroid state described."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Graves disease is started on methimazole. The nurse understands this medication works by:",
+      "options": [
+        "Inhibiting the synthesis of thyroid hormones",
+        "Replacing deficient thyroid hormone",
+        "Blocking the peripheral effects of catecholamines",
+        "Destroying the pituitary gland"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Methimazole is an antithyroid drug that inhibits thyroid hormone synthesis, lowering the excess hormone driving hyperthyroidism.",
+        "incorrect": [
+          "Replacing thyroid hormone is the goal in hypothyroidism (levothyroxine), not hyperthyroidism.",
+          "Blocking catecholamine effects describes a beta-blocker like propranolol, not methimazole.",
+          "Methimazole acts on the thyroid gland, not the pituitary."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hyperthyroidism is prescribed propranolol. The nurse explains this medication is given primarily to:",
+      "options": [
+        "Control symptoms such as tachycardia and tremor",
+        "Permanently cure the hyperthyroidism",
+        "Replace thyroid hormone",
+        "Stop the thyroid gland from making hormone"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Propranolol, a beta-blocker, is given for symptom control — it slows the tachycardia, tremor, and palpitations of hyperthyroidism while definitive therapy takes effect.",
+        "incorrect": [
+          "Propranolol relieves symptoms but does not cure hyperthyroidism.",
+          "It does not replace thyroid hormone.",
+          "Blocking hormone synthesis is the role of antithyroid drugs like methimazole, not propranolol."
+        ]
+      }
+    },
+    {
+      "stem": "A client is scheduled for radioactive iodine therapy for hyperthyroidism. Which statement should the nurse include in teaching?",
+      "options": [
+        "\"You will likely need thyroid hormone replacement afterward because the therapy reduces thyroid function.\"",
+        "\"This treatment will make your thyroid produce more hormone.\"",
+        "\"You must take antithyroid pills for the rest of your life after this.\"",
+        "\"You should stop all thyroid follow-up once the treatment is complete.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Radioactive iodine ablates thyroid tissue, so many clients become hypothyroid and need lifelong hormone replacement — the key teaching point.",
+        "incorrect": [
+          "The therapy destroys thyroid tissue and lowers, not raises, hormone output.",
+          "It does not require lifelong antithyroid drugs; it often leads to hormone replacement instead.",
+          "Ongoing follow-up is needed to monitor for resulting hypothyroidism."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking levothyroxine also takes calcium carbonate and ferrous sulfate. What is the nurse's best instruction about timing?",
+      "options": [
+        "Separate the levothyroxine from the calcium and iron by several hours",
+        "Take all three medications together each morning",
+        "Take the levothyroxine with the iron to improve its absorption",
+        "Crush the levothyroxine into the calcium supplement"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Calcium and iron bind levothyroxine and reduce its absorption; separating the doses by several hours preserves the drug's effectiveness.",
+        "incorrect": [
+          "Taking them together impairs levothyroxine absorption.",
+          "Iron decreases, not increases, levothyroxine absorption.",
+          "Combining it with calcium reduces absorption and is not appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "A client's thyroid labs show an elevated TSH and a low free T4. How should the nurse interpret these results?",
+      "options": [
+        "They are consistent with primary hypothyroidism",
+        "They indicate hyperthyroidism",
+        "They reflect normal thyroid function",
+        "They confirm thyroid storm"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In primary hypothyroidism the gland underproduces hormone (low free T4) and the pituitary compensates by raising TSH — the classic high-TSH, low-T4 pattern.",
+        "incorrect": [
+          "Hyperthyroidism shows a low TSH with a high free T4, the reverse of this pattern.",
+          "These abnormal values are not normal thyroid function.",
+          "Thyroid storm is a clinical hyperthyroid emergency, not this hypothyroid lab pattern."
+        ]
+      }
+    },
+    {
+      "stem": "A client from a region with limited access to iodized salt develops a goiter and hypothyroid symptoms. The nurse recognizes the likely cause as:",
+      "options": [
+        "Iodine deficiency",
+        "Excess dietary protein",
+        "An autoimmune attack from too much iodine",
+        "Overtreatment with levothyroxine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Iodine is required to make thyroid hormone; deficiency causes hypothyroidism and goiter and remains a common cause where salt is not iodized.",
+        "incorrect": [
+          "Dietary protein excess does not cause goiter or hypothyroidism.",
+          "The scenario points to deficiency, not iodine excess.",
+          "Levothyroxine overtreatment causes hyperthyroid symptoms, not a hypothyroid goiter."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client admitted in diabetic ketoacidosis. Which prescriptions does the nurse anticipate? Select all that apply.",
+      "options": [
+        "IV 0.9% sodium chloride for fluid resuscitation",
+        "IV regular insulin infusion",
+        "Frequent monitoring of serum potassium",
+        "Withhold all IV fluids to prevent cerebral edema",
+        "Subcutaneous long-acting insulin as the sole treatment"
+      ],
+      "answer": [0, 1, 2],
+      "type": "sata",
+      "rationale": {
+        "correct": "DKA management centers on IV fluid resuscitation, an IV regular insulin infusion, and close potassium monitoring because insulin drives potassium into cells; fluids are essential and an IV insulin drip — not a single SQ dose — is used.",
+        "incorrect": [
+          "Correct—IV isotonic fluids correct the profound dehydration of DKA.",
+          "Correct—an IV regular insulin infusion lowers glucose and halts ketogenesis.",
+          "Correct—potassium must be watched closely as insulin shifts it into cells, risking hypokalemia.",
+          "Incorrect—withholding fluids worsens dehydration; fluids are a cornerstone of DKA care.",
+          "Incorrect—DKA requires an IV insulin infusion, not long-acting SQ insulin alone."
+        ]
+      }
+    },
+    {
+      "stem": "A conscious client with hypoglycemia is treated with 15 g of carbohydrate. Fifteen minutes later the repeat glucose is 62 mg/dL. What is the nurse's next action?",
+      "options": [
+        "Give another 15 g of fast-acting carbohydrate and recheck in 15 minutes",
+        "Administer the client's next scheduled dose of insulin",
+        "Document the value as resolved and take no further action",
+        "Give intramuscular glucagon immediately"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The 15–15 rule directs repeating 15 g of carbohydrate and rechecking in 15 minutes when the glucose is still below 70; the client remains hypoglycemic and needs another treatment.",
+        "incorrect": [
+          "Giving insulin now would deepen the hypoglycemia.",
+          "A glucose of 62 is still low, so the low is not resolved.",
+          "Glucagon is for the unconscious client; this client is conscious and can take oral carbohydrate."
+        ]
+      }
+    },
+    {
+      "stem": "A type 2 diabetic truck driver takes metformin, semaglutide, and bedtime glargine. Considering his occupation, what is the nurse's greatest safety concern to address in teaching?",
+      "options": [
+        "Recognizing and preventing hypoglycemia while driving",
+        "The need to eliminate all carbohydrates from his diet",
+        "Stopping the glargine because basal insulin is unnecessary in type 2",
+        "Avoiding any physical activity to conserve energy on the road"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A hypoglycemic episode behind the wheel endangers the driver and others, so recognizing and preventing lows — carrying fast-acting carbs, timing meals and insulin — is the priority safety teaching for his regimen.",
+        "incorrect": [
+          "Carbohydrates are managed and counted, not entirely eliminated.",
+          "Basal insulin is appropriately used in type 2 diabetes and should not be stopped.",
+          "Physical activity is beneficial; avoiding it is not the safety concern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reinforcing diabetes education. Which client statement best reflects the essential self-management the nurse wants to confirm?",
+      "options": [
+        "\"I know the signs of both low and high blood sugar and what to do for each.\"",
+        "\"I only need to worry about high blood sugar, not low.\"",
+        "\"If my glucose is off, I should wait a few days before telling anyone.\"",
+        "\"Once my numbers look good, I can stop monitoring altogether.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Core diabetes self-management is knowing the signs of hypoglycemia and hyperglycemia and how to respond to each; this statement confirms the client can act on those cues safely.",
+        "incorrect": [
+          "Both low and high glucose are dangerous; the client must watch for both.",
+          "Delaying action on abnormal glucose risks serious complications.",
+          "Ongoing monitoring is needed even when numbers are good to maintain control."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is comparing the onset of DKA and HHS. Which statement is accurate?",
+      "options": [
+        "DKA develops rapidly, often within 24 hours, while HHS develops gradually over several days",
+        "HHS develops within a few hours while DKA takes weeks to appear",
+        "Both DKA and HHS develop over several weeks",
+        "Neither DKA nor HHS has a predictable onset pattern"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "DKA has a rapid onset (often under 24 hours) because the absolute lack of insulin quickly drives ketogenesis, whereas HHS evolves slowly over days as glucose and osmolality climb — a key distinction for anticipating deterioration.",
+        "incorrect": [
+          "The onsets are reversed: DKA is rapid and HHS is gradual.",
+          "DKA is rapid, not a weeks-long process.",
+          "Both have characteristic onset patterns the nurse can anticipate."
+        ]
+      }
+    },
+    {
+      "stem": "A client with type 2 diabetes has abdominal obesity, a blood pressure of 148/92, elevated triglycerides, a low HDL, and an elevated fasting glucose. The nurse recognizes this cluster as:",
+      "options": [
+        "Metabolic syndrome, which raises the risk for type 2 diabetes and cardiovascular disease",
+        "Hypoglycemia unawareness",
+        "Diabetic ketoacidosis",
+        "An expected, low-risk finding requiring no intervention"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Abdominal obesity, hypertension, high triglycerides, low HDL, and elevated fasting glucose are the components of metabolic syndrome; recognizing the cluster prompts lifestyle teaching to lower cardiovascular and diabetes risk.",
+        "incorrect": [
+          "Hypoglycemia unawareness is a loss of warning signs of low glucose, not this metabolic cluster.",
+          "DKA is an acute acidotic crisis, not this chronic risk profile.",
+          "This cluster carries significant risk and warrants intervention, not observation."
+        ]
+      }
+    },
+    {
+      "stem": "A client with type 1 diabetes uses a basal-bolus insulin regimen. Which statement by the client indicates correct understanding of the insulin plan?",
+      "options": [
+        "\"I take long-acting insulin for background control and rapid-acting insulin with meals.\"",
+        "\"I take my long-acting insulin only when my glucose is high.\"",
+        "\"I skip my mealtime insulin whenever I eat a large meal.\"",
+        "\"My long-acting insulin covers the carbohydrates in each meal.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A basal-bolus regimen uses long-acting insulin for steady background coverage and rapid-acting insulin to cover carbohydrate intake at meals — the client's statement reflects correct understanding.",
+        "incorrect": [
+          "Basal insulin is taken on a consistent schedule for background control, not only for high readings.",
+          "Mealtime insulin should be taken to cover carbohydrates, especially with a large meal.",
+          "Rapid-acting, not long-acting, insulin covers mealtime carbohydrates."
+        ]
+      }
+    }
+  ]
+}

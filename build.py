@@ -13,7 +13,8 @@ import os
 HERE = os.path.dirname(os.path.abspath(__file__))
 QDIR = os.path.join(HERE, "questions")
 ORDER = ["upper-gi", "lower-gi", "neoplasms-cancer", "neuro",
-         "med-surg-anemia", "med-surg-lower-gi"]
+         "med-surg-anemia", "med-surg-lower-gi", "med-surg-kidney",
+         "med-surg-endocrine"]
 
 
 def normalize(q, topic, idx):
