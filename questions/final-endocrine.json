@@ -1,0 +1,573 @@
+{
+  "topic": "final-endocrine",
+  "label": "Final: Endocrine",
+  "questions": [
+    {
+      "stem": "A client's labs show a high TSH with a low free T4. The nurse interprets this pattern as consistent with which condition?",
+      "options": [
+        "Primary hypothyroidism",
+        "Primary hyperthyroidism",
+        "Secondary hypothyroidism from a pituitary problem",
+        "Normal thyroid function"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In primary hypothyroidism the thyroid gland fails, so T4 is low while the pituitary drives TSH up — the inverse TSH/T4 relationship that is the hallmark of a primary thyroid problem. Reading the pattern is the analyze-cues step.",
+        "incorrect": [
+          "Hyperthyroidism shows the opposite: low TSH with high T3/T4.",
+          "Secondary hypothyroidism from the pituitary shows low TSH with low T4, not a high TSH.",
+          "A high TSH with low T4 is abnormal, not normal thyroid function."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client newly prescribed levothyroxine. Which instruction is most important?",
+      "options": [
+        "Take it on an empty stomach in the morning, 30 to 60 minutes before food or other medications",
+        "Take it at bedtime with a calcium supplement",
+        "Take it with an antacid to prevent stomach upset",
+        "Take it only on days you feel tired"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Levothyroxine absorption is reduced by food and by many drugs, so it is taken on an empty stomach in the early morning, 30-60 minutes before food or other medications. This timing is the essential administration teaching.",
+        "incorrect": [
+          "Calcium at bedtime reduces absorption; calcium should be separated by about 4 hours.",
+          "Antacids decrease levothyroxine absorption and should be separated from it.",
+          "It is a daily replacement hormone, not a PRN taken only on tired days."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking levothyroxine returns after 3 weeks reporting no symptom improvement and asks the nurse to request a dose increase. What is the nurse's best response?",
+      "options": [
+        "\"It takes about 6 to 8 weeks to see the full effect, so we recheck labs and symptoms then before adjusting.\"",
+        "\"I'll ask the provider to double your dose today so you feel better faster.\"",
+        "\"You should stop the medication since it clearly isn't working.\"",
+        "\"Take an extra pill on the days you feel most tired.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Levothyroxine takes roughly 6-8 weeks to reach steady effect, and TSH and symptoms are rechecked at that interval before adjusting. Teaching the client the timeline prevents premature, unsafe changes.",
+        "incorrect": [
+          "Doubling the dose at 3 weeks risks thyrotoxicosis before steady state is reached.",
+          "Stopping the lifelong replacement is unsafe and premature.",
+          "Extra PRN pills are not how this daily replacement is dosed."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews home medications for a client taking levothyroxine who reports it \"isn't working\" despite taking it daily. Which client statement best explains the poor response?",
+      "options": [
+        "\"I take it every morning at the same time as my calcium and iron supplements.\"",
+        "\"I take it with a full glass of water 45 minutes before breakfast.\"",
+        "\"I take it at the same time every day.\"",
+        "\"I have not missed a dose in a month.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Calcium and iron markedly reduce levothyroxine absorption and must be separated by about 4 hours; taking them together explains the poor response. The nurse should give administration teaching before any dose change.",
+        "incorrect": [
+          "Taking it with water before breakfast is correct technique and would not explain failure.",
+          "Consistent timing is appropriate and would support, not undermine, effectiveness.",
+          "Good adherence is a positive; it does not explain a poor response."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed methimazole for Graves' disease. Which symptom should the nurse teach the client to report to the provider immediately?",
+      "options": [
+        "Sore throat and fever",
+        "Mild weight gain",
+        "Slight drowsiness",
+        "Dry mouth"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Methimazole (and PTU) can cause agranulocytosis, so a sore throat and fever may signal a serious infection from loss of neutrophils and must be reported at once. Recognizing this early sign prevents a life-threatening complication.",
+        "incorrect": [
+          "Mild weight gain may accompany reduced thyroid activity and is not an emergency.",
+          "Slight drowsiness is not the agranulocytosis warning sign.",
+          "Dry mouth is not the priority symptom to report with this drug."
+        ]
+      }
+    },
+    {
+      "stem": "A client with long-standing hypothyroidism is brought in lethargic, hypothermic, bradycardic, with +4 non-pitting edema and shallow breathing. The nurse recognizes this as which emergency?",
+      "options": [
+        "Myxedema coma",
+        "Thyroid storm",
+        "Adrenal crisis",
+        "Diabetic ketoacidosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Profound hypothyroidism can progress to myxedema coma — a medical emergency with a severely low metabolic rate, hypothermia, bradycardia, non-pitting edema, and respiratory depression requiring airway management and IV levothyroxine. Recognizing the deteriorating cue set is critical.",
+        "incorrect": [
+          "Thyroid storm is the hyperthyroid crisis — hyperthermia and tachycardia, the opposite picture.",
+          "Adrenal crisis features hypotension and hyperkalemia, not this hypothyroid picture.",
+          "DKA presents with hyperglycemia and Kussmaul breathing, not hypothermia and non-pitting edema."
+        ]
+      }
+    },
+    {
+      "stem": "A client being treated for hypothyroidism suddenly develops hyperthermia, tachycardia, agitation, and delirium after an infection. What is the nurse's priority action?",
+      "options": [
+        "Recognize thyroid storm and intervene immediately, notifying the provider",
+        "Reassure the client that these are expected hypothyroid symptoms",
+        "Hold all fluids and continue routine monitoring",
+        "Administer additional levothyroxine to raise the metabolic rate"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Thyroid storm is a rare, life-threatening worsening of a thyrotoxic state — hyperthermia, tachycardia, dysrhythmias, and delirium from catecholamine release — that can be fatal within 24 hours. Even in a client treated for hypothyroidism, these signs demand immediate intervention.",
+        "incorrect": [
+          "These are hyperthyroid crisis signs, not expected hypothyroid symptoms.",
+          "Passive monitoring is unsafe in a potentially fatal emergency.",
+          "More levothyroxine would worsen a thyrotoxic crisis, not help it."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted after a total thyroidectomy. Which assessment finding should the nurse recognize as a sign of hypocalcemia from parathyroid injury?",
+      "options": [
+        "Muscle spasms with a positive Chvostek's sign",
+        "Bone pain and kidney stones",
+        "Warm, flushed skin",
+        "Deep, rapid respirations"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The parathyroid glands can be damaged during thyroid surgery, causing hypocalcemia; the low calcium produces neuromuscular irritability — muscle spasms, hyperreflexia, and a positive Chvostek's/Trousseau's sign. Connecting the postoperative context to the calcium cue is the point.",
+        "incorrect": [
+          "Bone pain and stones reflect hypercalcemia (hyperparathyroidism), the opposite problem.",
+          "Warm flushed skin is not a hypocalcemia sign.",
+          "Deep rapid breathing suggests a metabolic acidosis, not hypocalcemia from parathyroid injury."
+        ]
+      }
+    },
+    {
+      "stem": "A client with primary hyperparathyroidism is admitted. Which set of findings does the nurse expect?",
+      "options": [
+        "High calcium with kidney stones, bone pain, constipation, and confusion",
+        "Low calcium with muscle spasms and tetany",
+        "Low sodium with seizures and concentrated urine",
+        "High potassium with hyperpigmentation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Excess PTH raises calcium, producing the classic \"stones, bones, groans, thrones, and psychiatric overtones\": kidney stones, bone pain, constipation/weakness, polyuria, and confusion. Matching the hypercalcemia pattern is the analyze-cues step.",
+        "incorrect": [
+          "Low calcium with tetany is hypoparathyroidism, the opposite disorder.",
+          "Low sodium with seizures and concentrated urine describes SIADH.",
+          "High potassium with hyperpigmentation points to Addison's disease."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic kidney disease develops secondary hyperparathyroidism. Which explanation does the nurse recognize as correct?",
+      "options": [
+        "Reduced vitamin D activation and phosphate retention lower calcium, driving PTH up",
+        "Excess dietary calcium directly stimulates PTH release",
+        "The parathyroid glands were surgically removed",
+        "High calcium suppresses PTH in these clients"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In CKD the kidneys retain phosphate and cannot activate vitamin D, so calcium falls and the parathyroids respond with sustained PTH release (secondary hyperparathyroidism), risking bone demineralization. Tracing the calcium-phosphate-PTH loop is the reasoning.",
+        "incorrect": [
+          "It is low calcium, not excess dietary calcium, that drives the PTH rise here.",
+          "The glands are intact and overactive, not removed.",
+          "Calcium is low in CKD, so PTH is elevated, not suppressed."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with a serum sodium of 122 mEq/L, low serum osmolality, concentrated urine, and no edema after a diagnosis of small cell lung cancer. Which condition does the nurse suspect?",
+      "options": [
+        "Syndrome of inappropriate antidiuretic hormone (SIADH)",
+        "Diabetes insipidus",
+        "Addison's disease",
+        "Diabetic ketoacidosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Excess ADH (often from an ectopic tumor source) causes water retention with dilutional hyponatremia, low serum osmolality, concentrated urine, and euvolemia — SIADH, \"soaked inside.\" Linking the low sodium and concentrated urine to the cancer is the point.",
+        "incorrect": [
+          "Diabetes insipidus is too little ADH: polyuria, dilute urine, and hypernatremia — the opposite.",
+          "Addison's causes hyponatremia with hyperkalemia and hypotension, not concentrated urine from excess ADH.",
+          "DKA presents with hyperglycemia and ketosis, not dilutional hyponatremia."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with SIADH. Which intervention does the nurse anticipate?",
+      "options": [
+        "Fluid (water) restriction",
+        "Administering large volumes of hypotonic IV fluid",
+        "Encouraging free water intake",
+        "Administering desmopressin"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "SIADH is water excess with dilutional hyponatremia, so treatment restricts water (and may use hypertonic saline for severe hyponatremia). Restricting fluid targets the underlying excess.",
+        "incorrect": [
+          "Hypotonic fluid would worsen the dilutional hyponatremia.",
+          "Encouraging free water adds to the water excess.",
+          "Desmopressin is an ADH analog used in DI; it would worsen SIADH."
+        ]
+      }
+    },
+    {
+      "stem": "A client with diabetes insipidus is prescribed desmopressin. Which finding indicates the dose may be too high?",
+      "options": [
+        "Serum sodium of 126 mEq/L with headache and confusion",
+        "Serum sodium of 145 mEq/L with normal mentation",
+        "Increased urine output with dilute urine",
+        "Weight loss and increased thirst"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Desmopressin replaces ADH; too much causes water retention and dilutional hyponatremia — essentially SIADH-like effects. Falling sodium with headache and confusion signals overtreatment and the need to reassess the dose and fluid intake.",
+        "incorrect": [
+          "A normal sodium with normal mentation indicates appropriate dosing.",
+          "Increased dilute urine suggests too little effect (undertreatment), not too much.",
+          "Weight loss and thirst suggest ongoing DI, not desmopressin excess."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse compares SIADH and diabetes insipidus for a student. Which statement is correct?",
+      "options": [
+        "SIADH causes low sodium and concentrated urine; DI causes high sodium and dilute urine",
+        "SIADH causes high sodium and dilute urine; DI causes low sodium and concentrated urine",
+        "Both cause identical sodium levels and urine concentration",
+        "Both are treated with water restriction"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "SIADH is too much ADH — water retained, low sodium, concentrated urine (\"soaked inside\"). DI is too little ADH — water lost, high sodium, dilute urine (\"dry inside\"). Contrasting the two prevents the classic mix-up.",
+        "incorrect": [
+          "The sodium and urine findings are reversed in this option.",
+          "The two are opposites, not identical.",
+          "DI is treated with fluid replacement and desmopressin, not water restriction."
+        ]
+      }
+    },
+    {
+      "stem": "A client on long-term prednisone for an autoimmune disease develops a round \"moon\" face, a fat pad on the upper back, truncal obesity with thin extremities, purple striae, and elevated blood glucose. The nurse recognizes this as which condition?",
+      "options": [
+        "Cushing's syndrome from exogenous glucocorticoids",
+        "Addison's disease from adrenal insufficiency",
+        "Primary hypothyroidism",
+        "Diabetes insipidus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Long-term exogenous glucocorticoids are the most common cause of Cushing's syndrome: moon face, buffalo hump, truncal obesity, striae, and hyperglycemia from cortisol excess. Recognizing this pattern in a client on chronic steroids is the point.",
+        "incorrect": [
+          "Addison's is cortisol deficiency with weight loss and hyperpigmentation, the opposite picture.",
+          "Hypothyroidism causes weight gain and puffiness but not striae, buffalo hump, and hyperglycemia from cortisol excess.",
+          "Diabetes insipidus involves ADH and polyuria, not cortisol excess."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Cushing's syndrome caused by long-term prednisone is ready to stop the medication. Which instruction is correct?",
+      "options": [
+        "The dose must be tapered gradually rather than stopped abruptly",
+        "Stop the medication immediately to reverse the syndrome",
+        "Double the dose for one week, then stop",
+        "Switch to taking the full dose only every other day without tapering"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Chronic exogenous steroids suppress the adrenal axis, so glucocorticoids must be tapered to let the adrenals resume cortisol production; abrupt cessation can precipitate an adrenal crisis. Teaching the taper prevents a dangerous complication.",
+        "incorrect": [
+          "Stopping abruptly risks acute adrenal insufficiency.",
+          "Doubling then stopping does not address the need for a gradual taper.",
+          "An unsupervised every-other-day full dose is not a safe substitute for a proper taper."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Addison's disease is admitted with profound weakness, dehydration, hypotension (BP 82/50), and reports missing several doses of hydrocortisone. Labs show low sodium and high potassium. What is the nurse's priority?",
+      "options": [
+        "Recognize adrenal crisis and prepare to give IV fluids and IV hydrocortisone",
+        "Withhold all steroids until the potassium normalizes",
+        "Restrict fluids to correct the low sodium",
+        "Administer insulin to lower the potassium as the only intervention"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Missed cortisol replacement plus hypotension, dehydration, hyponatremia, and hyperkalemia is adrenal (Addisonian) crisis. Priority is IV fluids and IV hydrocortisone to restore volume and cortisol — a take-action response to a life-threatening deficiency.",
+        "incorrect": [
+          "Withholding steroids worsens the crisis; the client needs cortisol now.",
+          "The client is hypovolemic and hyponatremic from sodium loss; fluid restriction is wrong.",
+          "Potassium management may be needed, but IV fluids and hydrocortisone are the priority in adrenal crisis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with Addison's disease about lifelong hydrocortisone therapy. Which instruction is most important?",
+      "options": [
+        "Increase the dose during times of physical or emotional stress and never stop abruptly",
+        "Stop the medication once you feel well",
+        "Take the medication only when symptoms appear",
+        "Restrict sodium intake to prevent fluid retention"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In Addison's the body cannot mount a cortisol response to stress, so the client must increase the dose during illness/stress and never stop abruptly (which risks adrenal crisis). This self-management teaching is life-saving.",
+        "incorrect": [
+          "Stopping when feeling well causes adrenal insufficiency; therapy is lifelong.",
+          "It is scheduled replacement, not a PRN taken only for symptoms.",
+          "Clients with Addison's often need increased, not restricted, sodium due to salt wasting."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse contrasts Addison's disease and Cushing's syndrome. Which statement is accurate?",
+      "options": [
+        "Addison's produces mostly low values (except high potassium); Cushing's produces mostly high values (except low potassium)",
+        "Both conditions produce identical electrolyte patterns",
+        "Addison's causes hyperglycemia and weight gain; Cushing's causes hypoglycemia and weight loss",
+        "Cushing's causes hyperpigmentation and salt wasting; Addison's causes truncal obesity"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Addison's (cortisol deficiency) trends low — low sodium, low glucose, low BP — except potassium runs high; Cushing's (cortisol excess) trends high — high glucose, high sodium, high BP — except potassium runs low. This framing organizes the two.",
+        "incorrect": [
+          "Their electrolyte patterns are opposite, not identical.",
+          "The metabolic effects are reversed: Cushing's raises glucose and weight; Addison's lowers them.",
+          "Hyperpigmentation and salt wasting are Addison's; truncal obesity is Cushing's — this option swaps them."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed levothyroxine and also takes calcium carbonate and a proton pump inhibitor. Which instruction does the nurse give to protect levothyroxine absorption?",
+      "options": [
+        "Separate the calcium from levothyroxine by about 4 hours",
+        "Take all three medications together each morning",
+        "Take levothyroxine with the calcium to buffer the stomach",
+        "Stop the levothyroxine on days the calcium is taken"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Calcium reduces levothyroxine absorption, so the two are separated by about 4 hours. Teaching correct spacing preserves the effectiveness of the thyroid replacement.",
+        "incorrect": [
+          "Taking them together reduces levothyroxine absorption.",
+          "Taking levothyroxine with calcium is exactly what impairs absorption.",
+          "Stopping the thyroid replacement on calcium days is unsafe and unnecessary."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking levothyroxine returns with new palpitations, heat intolerance, insomnia, weight loss, and a heart rate of 108. The nurse recognizes these as signs of what?",
+      "options": [
+        "Overdosing (thyrotoxic effects) from too much levothyroxine",
+        "Underdosing with worsening hypothyroidism",
+        "An expected response to correct dosing",
+        "A hypocalcemic reaction"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Levothyroxine overdose produces hyperthyroid (thyrotoxic) effects — tachycardia, heat intolerance, insomnia, and weight loss. Recognizing overtreatment prompts holding the dose and notifying the provider.",
+        "incorrect": [
+          "Underdosing would cause hypothyroid symptoms (fatigue, cold intolerance, weight gain), not these.",
+          "These are signs of excess, not a well-controlled response.",
+          "These are thyrotoxic effects, not signs of hypocalcemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hyperthyroidism is scheduled for radioactive iodine ablation. Which long-term outcome should the nurse teach the client to expect?",
+      "options": [
+        "Lifelong thyroid hormone replacement because the gland will be destroyed",
+        "A rapid return to normal thyroid function with no medication",
+        "A permanent cure of all metabolic symptoms without follow-up",
+        "The need for lifelong methimazole after ablation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Destroying the thyroid with radioactive iodine leaves the client hypothyroid, requiring lifelong levothyroxine replacement. Setting this expectation supports adherence and follow-up.",
+        "incorrect": [
+          "Function does not simply normalize on its own; the client becomes hypothyroid.",
+          "It is not a no-follow-up cure; lifelong monitoring and replacement are needed.",
+          "Methimazole blocks synthesis in an intact gland; after ablation the need is replacement, not an antithyroid drug."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with hyperthyroidism (Graves' disease). Which pathophysiologic statement is correct?",
+      "options": [
+        "Autoantibodies stimulate the thyroid to overproduce T3 and T4 independent of TSH, so TSH is suppressed",
+        "The thyroid gland fails, causing high TSH and low T3 and T4",
+        "The pituitary stops producing TSH, lowering T3 and T4",
+        "Excess PTH drives the thyroid to overproduce hormone"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In Graves' disease, IgG autoantibodies bind TSH receptors and drive T3/T4 overproduction without pituitary stimulation, so feedback suppresses TSH — low TSH with high T3/T4. Understanding the autoimmune mechanism explains the lab pattern.",
+        "incorrect": [
+          "Gland failure with high TSH and low T3/T4 is hypothyroidism, the opposite.",
+          "Loss of pituitary TSH is a secondary hypothyroid mechanism, not Graves'.",
+          "PTH regulates calcium, not thyroid hormone production."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with hypothyroidism about levothyroxine and heart disease. Which point is most important for a client with known coronary artery disease?",
+      "options": [
+        "Report chest pain or palpitations, because increasing thyroid hormone raises heart rate and can stress the heart",
+        "Expect the medication to slow the heart rate significantly",
+        "The medication has no cardiac effects to monitor",
+        "Take the medication with nitroglycerin to protect the heart"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Levothyroxine raises metabolic rate and heart rate, which can provoke angina or dysrhythmias in cardiac disease, so it is used cautiously and the client reports chest pain or palpitations. Anticipating this cardiac caution guides safe titration.",
+        "incorrect": [
+          "Levothyroxine increases, not decreases, heart rate.",
+          "It has clear cardiac effects requiring monitoring in CAD.",
+          "There is no basis for co-administering nitroglycerin with each dose."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hypoparathyroidism after neck surgery has a positive Trousseau's sign. Which treatment does the nurse anticipate?",
+      "options": [
+        "Calcium replacement",
+        "Administration of a phosphate binder alone",
+        "A loop diuretic to lower calcium",
+        "Radioactive iodine therapy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hypoparathyroidism causes hypocalcemia (positive Chvostek's/Trousseau's), so treatment replaces calcium (and often activated vitamin D). Matching the low-calcium problem to calcium replacement is the plan.",
+        "incorrect": [
+          "A phosphate binder alone does not correct the low calcium causing the tetany.",
+          "A loop diuretic lowers calcium and would worsen hypocalcemia.",
+          "Radioactive iodine treats hyperthyroidism, not hypoparathyroid hypocalcemia."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client for signs of hypothyroidism. Which findings are consistent with this diagnosis? Select all that apply.",
+      "options": [
+        "Cold intolerance",
+        "Bradycardia",
+        "Weight gain",
+        "Heat intolerance and diaphoresis",
+        "Constipation"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Hypothyroidism slows metabolism: cold intolerance, bradycardia, weight gain, constipation, and fatigue. Heat intolerance and sweating are hyperthyroid findings.",
+        "incorrect": [
+          "Correct—cold intolerance reflects the low metabolic rate.",
+          "Correct—bradycardia occurs because thyroid hormone normally upregulates cardiac beta receptors.",
+          "Correct—weight gain is expected with slowed metabolism.",
+          "Incorrect—heat intolerance and diaphoresis are hyperthyroid findings.",
+          "Correct—constipation reflects slowed GI motility."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about Addison's disease self-management. Which instructions are appropriate? Select all that apply.",
+      "options": [
+        "Take hydrocortisone daily and never stop it abruptly",
+        "Increase the dose during illness, surgery, or emotional stress",
+        "Report signs of adrenal crisis such as severe weakness, dizziness, and low blood pressure",
+        "Restrict sodium tightly to avoid fluid retention",
+        "Wear a medical alert identification"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Addison's teaching includes lifelong daily replacement without abrupt cessation, stress dosing, recognizing crisis symptoms, and medical-alert identification. Because of salt wasting, sodium is usually maintained or increased, not restricted.",
+        "incorrect": [
+          "Correct—replacement is lifelong and stopping abruptly can trigger crisis.",
+          "Correct—stress dosing covers the body's inability to raise cortisol.",
+          "Correct—recognizing crisis symptoms allows early treatment.",
+          "Incorrect—Addison's causes salt wasting, so sodium is maintained or increased, not restricted.",
+          "Correct—medical-alert identification ensures emergency responders know about the steroid dependence."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with Cushing's syndrome. Which findings does the nurse expect? Select all that apply.",
+      "options": [
+        "Truncal obesity with thin extremities",
+        "Elevated blood glucose",
+        "Purple striae and easy bruising",
+        "Hyperpigmentation with weight loss",
+        "Increased risk of infection"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Cortisol excess causes truncal obesity with thin limbs, hyperglycemia, striae/thin fragile skin, and immunosuppression with higher infection risk. Hyperpigmentation with weight loss is Addison's, not Cushing's.",
+        "incorrect": [
+          "Correct—truncal obesity with thin extremities is classic for cortisol excess.",
+          "Correct—cortisol raises blood glucose.",
+          "Correct—striae and easy bruising reflect thin, fragile skin.",
+          "Incorrect—hyperpigmentation with weight loss is Addison's disease, not Cushing's.",
+          "Correct—cortisol suppresses immunity, raising infection risk."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a pregnant client with hyperthyroidism prescribed an antithyroid medication such as propylthiouracil or methimazole. Which consideration is most important?",
+      "options": [
+        "Antithyroid drugs cross the placenta and into breast milk, so the specific agent and dose are chosen carefully",
+        "Antithyroid drugs are completely safe in any amount during pregnancy",
+        "The client should also receive radioactive iodine during pregnancy",
+        "Antithyroid drugs increase thyroid hormone production"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Methimazole and PTU cross the placenta and enter breast milk and can affect the fetal or infant thyroid, so agent selection and dosing are individualized in pregnancy and lactation. Anticipating this risk guides safe prescribing.",
+        "incorrect": [
+          "They are not unconditionally safe; placental transfer requires careful dosing.",
+          "Radioactive iodine is contraindicated in pregnancy because it would destroy the fetal thyroid.",
+          "Antithyroid drugs block hormone synthesis; they do not increase production."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Cushing's syndrome from an adrenal tumor is started on ketoconazole to lower cortisol before surgery. Which lab does the nurse monitor most closely?",
+      "options": [
+        "Liver enzymes, because ketoconazole can cause hepatotoxicity",
+        "Serum potassium, because it causes hyperkalemia",
+        "Serum calcium, because it causes hypercalcemia",
+        "Serum ammonia, because it causes encephalopathy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Ketoconazole inhibits adrenal cortisol synthesis but can be hepatotoxic, so liver enzymes are monitored during therapy. Linking the drug's adverse effect to the monitored lab is the reasoning.",
+        "incorrect": [
+          "Hyperkalemia is not the characteristic ketoconazole concern.",
+          "Hypercalcemia is not the key monitoring issue with ketoconazole.",
+          "Ammonia and encephalopathy are not the primary ketoconazole toxicity monitored here."
+        ]
+      }
+    }
+  ]
+}

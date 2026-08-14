@@ -1,0 +1,573 @@
+{
+  "topic": "final-neuro",
+  "label": "Final: Neuro & Neuromuscular",
+  "questions": [
+    {
+      "stem": "A client with myasthenia gravis who takes pyridostigmine at home is admitted with increasing difficulty swallowing, a nasal-sounding voice, and use of accessory muscles to breathe. SpO2 is 91% on room air. Which action is the priority?",
+      "options": [
+        "Notify the rapid response team and prepare for possible ventilatory support",
+        "Administer the next scheduled dose of pyridostigmine early to improve strength",
+        "Encourage the client to rest and recheck the oxygen saturation in 30 minutes",
+        "Give atropine to counteract cholinergic side effects"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bulbar weakness (dysphagia, nasal voice), accessory-muscle use, and SpO2 91% signal impending myasthenic crisis with respiratory failure. Airway and breathing are the priority: call for help and prepare for ventilatory support before any medication decision.",
+        "incorrect": [
+          "Dosing early is unsafe until myasthenic versus cholinergic crisis is differentiated, and it does not secure the airway now.",
+          "Watchful waiting is unsafe with a falling SpO2 and bulbar weakness.",
+          "Atropine treats cholinergic crisis but could worsen a myasthenic crisis; the airway must be addressed first regardless."
+        ]
+      }
+    },
+    {
+      "stem": "A 72-year-old presents with a resting pill-rolling tremor, cogwheel rigidity, bradykinesia, a shuffling gait, and a mask-like face. Which two-part pathophysiology best explains this presentation?",
+      "options": [
+        "Loss of dopamine in the substantia nigra creating a relative excess of acetylcholine",
+        "Autoimmune destruction of acetylcholine receptors at the neuromuscular junction",
+        "Demyelination of neurons in the central nervous system",
+        "Blockage of a cerebral artery causing acute ischemia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Parkinson's disease is degeneration of dopamine-producing neurons in the substantia nigra, leaving too little dopamine and a relative excess of acetylcholine — the imbalance that produces tremor, rigidity, and bradykinesia. Recognizing this cue set points to the diagnosis.",
+        "incorrect": [
+          "AChR destruction at the neuromuscular junction is myasthenia gravis, which causes fatigable weakness, not resting tremor.",
+          "CNS demyelination is multiple sclerosis, presenting with optic and sensory changes, not a pill-rolling tremor.",
+          "Acute arterial blockage is stroke, which is sudden and focal, not a gradual movement disorder."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client newly prescribed carbidopa-levodopa for Parkinson's disease. Which instruction is most important?",
+      "options": [
+        "Take the medication 30 to 60 minutes before meals and limit high-protein foods around dosing",
+        "Take the medication with a high-protein snack to improve absorption",
+        "Stop the medication immediately if urine turns dark",
+        "Double the dose whenever symptoms feel worse"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Levodopa is absorbed in the small intestine and competes with dietary amino acids, so it is taken 30-60 minutes before meals with protein spread through the day; taking it with a large protein load reduces the amount reaching the brain. This is the key administration teaching.",
+        "incorrect": [
+          "A high-protein snack competes with levodopa for absorption and reduces its effect.",
+          "Dark urine is a harmless, expected side effect, not a reason to stop the drug abruptly.",
+          "Self-doubling the dose risks dyskinesia and does not fix the underlying dosing issue."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking carbidopa-levodopa reports periods where the medication suddenly stops working and Parkinson symptoms return, alternating with times it works well. What is the nurse's best response?",
+      "options": [
+        "\"This is called the on-off phenomenon; report it so the provider can adjust your dosing schedule.\"",
+        "\"Stop the medication right away, since this means it is no longer safe.\"",
+        "\"This is an allergic reaction; you should never take levodopa again.\"",
+        "\"Take an extra dose whenever the symptoms return, without limits.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The on-off phenomenon — abrupt swings between medication effect and symptom return — is a recognized long-term levodopa effect managed by adjusting dosing or scheduling, not by stopping the drug (which can cause severe rigidity). Naming it and directing follow-up is correct.",
+        "incorrect": [
+          "Abruptly stopping levodopa can precipitate a severe rigidity crisis; the drug should not be stopped this way.",
+          "This is a pharmacologic wearing-off effect, not an allergic reaction.",
+          "Unlimited extra dosing risks dyskinesia; adjustments should be provider-directed."
+        ]
+      }
+    },
+    {
+      "stem": "A client who has taken carbidopa-levodopa for two years is noted by family to have started gambling online and has developed uncharacteristic hypersexual behavior. What is the nurse's best action?",
+      "options": [
+        "Report the behaviors to the provider, as dopaminergic medications can cause impulse-control disorders",
+        "Reassure the family that these behaviors are unrelated to the medication",
+        "Tell the client to simply use more willpower to control the urges",
+        "Recommend stopping the medication abruptly to end the behaviors"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Medications that raise central dopaminergic tone can cause intense, uncontrollable urges — gambling, hypersexuality, and other impulse-control problems (an FDA-labeled effect). The nurse recognizes the link and reports it for management, not abrupt cessation.",
+        "incorrect": [
+          "These behaviors are a recognized medication effect, not unrelated.",
+          "This is a neurochemical drug effect, not a willpower issue.",
+          "Abruptly stopping levodopa risks a rigidity crisis; changes should be provider-directed."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Lewy body dementia becomes acutely agitated. The nurse anticipates that which class of medication should be avoided?",
+      "options": [
+        "Antipsychotics, because they can trigger a severe dopaminergic reaction",
+        "Cholinesterase inhibitors, because they have no role in dementia",
+        "Carbidopa-levodopa, because it worsens all Lewy body symptoms",
+        "Stool softeners, because they precipitate delirium"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In Lewy body dementia, antipsychotics (even atypicals) can cause severe sensitivity reactions and dopaminergic crisis, so they are avoided when possible. Recognizing this contraindication protects the client.",
+        "incorrect": [
+          "Cholinesterase inhibitors are actually used in dementia to raise acetylcholine.",
+          "Lewy body dementia often responds well to carbidopa-levodopa for motor symptoms; it is not uniformly harmful.",
+          "Stool softeners do not precipitate delirium and are unrelated to this concern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews the medication list of an 80-year-old with mild Alzheimer's disease taking donepezil. An urgent care provider newly prescribed atropine for abdominal cramping. What is the nurse's best response?",
+      "options": [
+        "\"Atropine opposes donepezil and can blunt the Alzheimer's medication's benefit; I'll contact the provider for an alternative.\"",
+        "\"These are safe together as long as they are taken at different times of day.\"",
+        "\"Both drugs help memory, so taking them together gives a double benefit.\"",
+        "\"The main concern is that these two drugs will drop the blood pressure too much.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Donepezil is a cholinesterase inhibitor that raises acetylcholine; atropine is an anticholinergic that directly opposes it, blunting the drug's effect. The nurse flags the pharmacologic antagonism and seeks an alternative — a medication-reasoning safety catch.",
+        "incorrect": [
+          "Spacing the doses does not resolve a direct pharmacologic antagonism.",
+          "Atropine does not help memory; it opposes the cholinergic drug that does.",
+          "The key problem is antagonism of the cholinergic effect, not additive hypotension."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking donepezil for Alzheimer's disease is admitted with new bradycardia (HR 48), dizziness, and syncope. The nurse recognizes this may reflect which effect of the medication?",
+      "options": [
+        "Cholinergic vagotonic effects on the SA and AV nodes",
+        "Anticholinergic overload causing tachyarrhythmia",
+        "Dopaminergic excess causing hallucinations",
+        "Serotonin syndrome from excess serotonin"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Cholinesterase inhibitors raise acetylcholine and can have vagotonic effects on the SA and AV nodes, producing bradycardia and syncope (an FDA warning). Connecting the slow heart rate to the drug's cholinergic action is the analyze-cues step.",
+        "incorrect": [
+          "Donepezil is pro-cholinergic; it does not cause anticholinergic tachyarrhythmia.",
+          "It affects acetylcholine, not dopamine, and hallucinations are not the issue here.",
+          "Serotonin syndrome is unrelated to a cholinesterase inhibitor's cardiac effect."
+        ]
+      }
+    },
+    {
+      "stem": "A client with moderate Alzheimer's disease is started on lecanemab, a monoclonal antibody. Which monitoring does the nurse recognize as essential during therapy?",
+      "options": [
+        "Frequent brain MRIs to detect amyloid-related imaging abnormalities such as microhemorrhages and edema",
+        "Weekly serum lithium levels",
+        "Daily 24-hour urine cortisol collection",
+        "Routine electrocardiograms for QT prolongation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Lecanemab clears beta-amyloid but risks amyloid-related imaging abnormalities (ARIA) — brain microhemorrhages and edema — so frequent MRIs, especially early, are essential to detect and manage them. This is the drug-specific safety monitoring.",
+        "incorrect": [
+          "Lithium levels are for bipolar therapy, not a monoclonal antibody.",
+          "24-hour urine cortisol is a Cushing's workup, unrelated here.",
+          "Routine QT monitoring is not the defining concern with lecanemab; ARIA is."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with late-stage Alzheimer's disease who is disoriented and calling for a long-deceased spouse. Which nursing approach is most appropriate?",
+      "options": [
+        "Redirect the client to a calming activity rather than repeatedly correcting them",
+        "Firmly reorient the client to reality each time and explain the spouse has died",
+        "Restrain the client to prevent wandering during confusion",
+        "Encourage long daytime naps to reduce agitation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In advanced dementia the client is not reliably reorientable; repeatedly correcting them causes distress. Redirecting to a calming activity and mimicking a familiar environment supports safety and dignity.",
+        "incorrect": [
+          "Insistent reorientation in late-stage dementia increases agitation and is not effective.",
+          "Restraints increase injury and agitation risk and are not a first-line safety measure.",
+          "Long daytime naps worsen sundowning and disrupt the sleep-wake cycle; napping is limited."
+        ]
+      }
+    },
+    {
+      "stem": "A young adult reports several weeks of blurry vision and eye discomfort, along with intermittent numbness and unsteady gait that come and go. Which condition should the nurse suspect?",
+      "options": [
+        "Multiple sclerosis",
+        "Myasthenia gravis",
+        "Guillain-Barre syndrome",
+        "Parkinson's disease"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Relapsing-remitting visual changes from optic neuritis plus sensory and gait symptoms in a young adult are classic early multiple sclerosis, reflecting CNS demyelination. Matching the relapsing pattern and optic involvement to the disease is the point.",
+        "incorrect": [
+          "Myasthenia gravis causes fatigable ptosis and diplopia that worsen with activity, not relapsing optic neuritis with sensory changes.",
+          "Guillain-Barre causes acute ascending weakness, not a relapsing-remitting visual course.",
+          "Parkinson's is a movement disorder with tremor and rigidity, not optic neuritis."
+        ]
+      }
+    },
+    {
+      "stem": "A client with multiple sclerosis is admitted for an acute exacerbation and started on high-dose IV methylprednisolone. Which laboratory values does the nurse monitor most closely?",
+      "options": [
+        "Blood glucose and serum potassium",
+        "Serum calcium and phosphate",
+        "Ammonia and INR",
+        "Amylase and lipase"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "High-dose corticosteroids raise blood glucose and can cause hypokalemia, so glucose and potassium are monitored during pulse therapy for an MS relapse. Anticipating these effects guides safe care.",
+        "incorrect": [
+          "Calcium and phosphate are parathyroid concerns, not the acute steroid monitoring priority.",
+          "Ammonia and INR relate to hepatic function, not corticosteroid therapy.",
+          "Amylase and lipase are pancreatic markers, not the focus here."
+        ]
+      }
+    },
+    {
+      "stem": "A client with multiple sclerosis has urinary retention with a large post-void residual. Which medication does the nurse anticipate to relieve outlet symptoms?",
+      "options": [
+        "Tamsulosin, an alpha-adrenergic antagonist",
+        "Oxybutynin, an anticholinergic",
+        "Baclofen, a muscle relaxant",
+        "Modafinil, a CNS stimulant"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "For retention from functional outlet obstruction or sphincter overactivity, an alpha-blocker such as tamsulosin relaxes the bladder neck to improve emptying. Matching the drug to the retention problem is the reasoning step.",
+        "incorrect": [
+          "Oxybutynin is an anticholinergic for overactive bladder/spasticity; it worsens retention.",
+          "Baclofen treats spasticity, not urinary outlet obstruction.",
+          "Modafinil treats MS-related fatigue, not bladder emptying."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with rapidly progressing weakness that began in the feet and is ascending up the legs, with loss of deep tendon reflexes. The client had a diarrheal illness two weeks ago. Which assessment is the nurse's priority?",
+      "options": [
+        "Serial monitoring of respiratory function and vital capacity",
+        "Assessment of long-term memory and orientation",
+        "Evaluation of resting tremor and rigidity",
+        "Inspection for a facial rash"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Ascending weakness with areflexia after a preceding infection is Guillain-Barre syndrome, which can progress to respiratory failure. Monitoring respiratory function and vital capacity to anticipate the need for ventilation is the priority.",
+        "incorrect": [
+          "Memory and orientation are dementia assessments, not the acute respiratory threat in GBS.",
+          "Tremor and rigidity point to Parkinson's, not GBS.",
+          "A facial rash is unrelated to GBS's respiratory risk."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing treatment for a client with Guillain-Barre syndrome. Which statement is accurate?",
+      "options": [
+        "There is no cure and no role for steroids; treatment is supportive plus IVIG or plasmapheresis",
+        "High-dose corticosteroids are the first-line treatment",
+        "The disease is treated with lifelong dopaminergic medication",
+        "Antibiotics cure the underlying demyelination"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "GBS has no cure and steroids are not helpful; management is supportive care with immune-modifying therapy — IVIG (best within two weeks) or plasmapheresis. Knowing steroids have no role is a key NCLEX point.",
+        "incorrect": [
+          "Steroids are explicitly not helpful in GBS, unlike in MS relapses.",
+          "Dopaminergic therapy is for Parkinson's, not GBS.",
+          "Antibiotics treat the preceding infection but do not reverse the autoimmune demyelination."
+        ]
+      }
+    },
+    {
+      "stem": "A client with myasthenia gravis is taking pyridostigmine. Which teaching point is most important for the nurse to emphasize?",
+      "options": [
+        "Take the medication on time and about 30 to 60 minutes before meals",
+        "Take the medication only when weakness becomes severe",
+        "Skip doses on days the client feels strong to avoid overdose",
+        "Crush and take the medication with a large protein meal"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Pyridostigmine has a short half-life and must be taken on schedule, and giving it 30-60 minutes before meals maximizes strength for chewing and swallowing. Consistent, on-time dosing prevents both under-treatment and swallowing difficulty.",
+        "incorrect": [
+          "It is a scheduled maintenance drug, not a PRN taken only for severe weakness.",
+          "Skipping doses leads to fluctuating weakness; timing, not feeling strong, guides dosing.",
+          "There is no requirement to crush it with a protein meal; timing before meals is the point."
+        ]
+      }
+    },
+    {
+      "stem": "A client with myasthenia gravis develops increased salivation, sweating, abdominal cramping, and diarrhea shortly after a medication change. The nurse suspects which problem?",
+      "options": [
+        "Cholinergic crisis from too much medication",
+        "Myasthenic crisis from too little medication",
+        "An allergic reaction to pyridostigmine",
+        "Diabetic ketoacidosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Excess acetylcholine from overmedication produces cholinergic crisis — the SLUDGE picture of salivation, lacrimation, urination, diarrhea, GI cramping, and emesis. Distinguishing it from myasthenic crisis determines management.",
+        "incorrect": [
+          "Myasthenic crisis is under-medication and presents as worsening weakness, not cholinergic excess.",
+          "These are cholinergic-excess signs, not an allergic reaction.",
+          "DKA presents with hyperglycemia, ketones, and Kussmaul respirations, not the SLUDGE pattern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client hospitalized in myasthenic crisis. Which newly ordered medication would the nurse question because it can worsen neuromuscular weakness?",
+      "options": [
+        "An aminoglycoside antibiotic",
+        "Scheduled acetaminophen",
+        "Subcutaneous heparin for prophylaxis",
+        "An oral stool softener"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Aminoglycosides impair neuromuscular transmission and can precipitate or worsen a myasthenic crisis, so the nurse questions that order. Recognizing the trigger medication protects the airway.",
+        "incorrect": [
+          "Acetaminophen is not a neuromuscular-blocking risk in myasthenia gravis.",
+          "Prophylactic heparin does not worsen neuromuscular transmission.",
+          "A stool softener has no effect on the neuromuscular junction."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a spinal cord lesion has urinary retention. The provider orders bethanechol. Which finding would cause the nurse to hold the medication and clarify the order?",
+      "options": [
+        "A suspected bladder outlet obstruction",
+        "A post-void residual of 300 mL",
+        "A report of a weak urinary stream",
+        "A sensation of incomplete emptying"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bethanechol is a cholinergic agonist that increases detrusor contraction; giving it against a mechanical obstruction can be dangerous, so it is contraindicated with obstruction (and with peptic ulcer disease). The obstruction cue prompts holding and clarifying.",
+        "incorrect": [
+          "A high post-void residual is the reason bethanechol might be considered, not a contraindication.",
+          "A weak stream is a retention symptom the drug is meant to help.",
+          "Incomplete emptying is also a target symptom, not a reason to hold."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is preparing to administer oxybutynin to an older adult with urinary spasticity. Which nursing consideration is most important?",
+      "options": [
+        "Anticholinergics can worsen confusion, constipation, and fall risk in older adults",
+        "The drug must be taken on a completely empty stomach one hour before meals",
+        "The client should remain upright for 30 minutes after the dose",
+        "The client should avoid all foods containing tyramine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Oxybutynin is anticholinergic, and in older adults anticholinergics worsen confusion, constipation, and fall risk (the anticholinergic toxidrome), so it is used cautiously. This safety consideration guides monitoring.",
+        "incorrect": [
+          "The empty-stomach rule is a levothyroxine/alendronate concern, not oxybutynin.",
+          "Remaining upright 30 minutes is a bisphosphonate instruction, not relevant here.",
+          "Tyramine restriction applies to MAOIs, not anticholinergics."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse cares for four clients. Which client should the nurse assess FIRST?",
+      "options": [
+        "A client with Guillain-Barre syndrome whose vital capacity has dropped over the last hour",
+        "A client with Parkinson's disease requesting help to the bathroom",
+        "A client with stable Alzheimer's disease asking the same question repeatedly",
+        "A client with multiple sclerosis reporting mild fatigue"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A falling vital capacity in GBS signals ascending weakness reaching the diaphragm and impending respiratory failure — an airway/breathing emergency that outranks the others. Recognizing the deteriorating cue drives the priority.",
+        "incorrect": [
+          "The Parkinson's client needs safe assistance but is stable; fall risk is managed, not emergent.",
+          "Repetitive questioning in stable Alzheimer's is expected and not urgent.",
+          "Mild MS fatigue is a chronic symptom, not an acute threat."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse differentiates multiple sclerosis from Guillain-Barre syndrome for a group of students. Which statement is correct?",
+      "options": [
+        "MS is a chronic CNS demyelinating disease, while GBS is an acute demyelination of peripheral nerves",
+        "MS affects peripheral nerves, while GBS affects the central nervous system",
+        "Both are neuromuscular junction disorders caused by acetylcholine receptor antibodies",
+        "Both are movement disorders caused by dopamine loss"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "MS is chronic CNS demyelination (brain, cord, optic nerves); GBS is acute demyelination of peripheral nerves, usually post-infectious and ascending. Locating the lesion — CNS versus PNS — distinguishes them.",
+        "incorrect": [
+          "The locations are reversed: MS is CNS, GBS is PNS.",
+          "Neither is an NMJ/AChR-antibody disorder; that describes myasthenia gravis.",
+          "Neither is a dopamine-loss movement disorder; that is Parkinson's."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Alzheimer's disease is prescribed memantine. The nurse recognizes this medication works by which mechanism?",
+      "options": [
+        "Blocking NMDA receptors to reduce glutamate excitotoxicity",
+        "Inhibiting acetylcholinesterase to raise acetylcholine",
+        "Replacing dopamine lost in the substantia nigra",
+        "Removing beta-amyloid plaque from the brain"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Memantine is an NMDA-receptor antagonist that reduces glutamate-mediated excitotoxicity in moderate-to-severe Alzheimer's disease. Knowing the mechanism separates it from the cholinesterase inhibitors.",
+        "incorrect": [
+          "Raising acetylcholine is the cholinesterase-inhibitor (donepezil) mechanism, not memantine's.",
+          "Dopamine replacement is the Parkinson's strategy, not an Alzheimer's one.",
+          "Amyloid removal is the monoclonal-antibody (lecanemab) mechanism, not memantine's."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with advanced Parkinson's disease. Which nursing diagnosis does the nurse prioritize?",
+      "options": [
+        "Risk for injury related to shuffling gait and postural instability",
+        "Risk for infection related to immunosuppression",
+        "Deficient fluid volume related to polyuria",
+        "Impaired gas exchange related to demyelination"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The shuffling gait, bradykinesia, and postural instability of Parkinson's make the client a high fall risk, so safety and injury prevention are the nursing priority. Matching the priority problem to the motor findings is the point.",
+        "incorrect": [
+          "Parkinson's does not cause immunosuppression; infection risk is not the primary concern.",
+          "Polyuria and fluid deficit are not core Parkinson features.",
+          "Impaired gas exchange from demyelination describes GBS/MS respiratory involvement, not Parkinson's."
+        ]
+      }
+    },
+    {
+      "stem": "A client with vascular dementia has a history of stroke, hypertension, and diabetes. Which goal does the nurse identify as the priority for slowing further cognitive decline?",
+      "options": [
+        "Preventing further strokes by managing modifiable risk factors",
+        "Increasing dopamine with carbidopa-levodopa",
+        "Starting lifelong plasmapheresis",
+        "Avoiding all cholinesterase inhibitors"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Vascular dementia is driven by cerebrovascular disease, so preventing further strokes — controlling blood pressure, glucose, lipids, and smoking — is the priority for limiting additional decline. Targeting the underlying vascular cause is the plan.",
+        "incorrect": [
+          "Dopamine replacement addresses Parkinson's motor symptoms, not vascular dementia progression.",
+          "Plasmapheresis is a GBS/immune therapy, not a vascular dementia treatment.",
+          "Cholinesterase inhibitors are not contraindicated; the priority is vascular risk reduction."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches the family of a client with Alzheimer's disease about promoting a consistent sleep-wake cycle. Which instruction is correct?",
+      "options": [
+        "Limit daytime napping and keep a consistent daily and toileting schedule",
+        "Encourage long afternoon naps to conserve energy",
+        "Keep the room brightly lit and noisy at night to prevent confusion",
+        "Reorient the client repeatedly through the night"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Limiting daytime napping, keeping a consistent routine and toileting schedule, and mimicking a calm familiar environment reduce sundowning and support the sleep-wake cycle. This is practical caregiver teaching.",
+        "incorrect": [
+          "Long naps worsen nighttime wakefulness and sundowning.",
+          "A bright, noisy room at night increases agitation, not calm.",
+          "Repeated nighttime reorientation disturbs sleep and increases distress in advanced dementia."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client and family about carbidopa-levodopa for Parkinson's disease. Which statements are appropriate to include? Select all that apply.",
+      "options": [
+        "Take the medication about 30 to 60 minutes before meals",
+        "Change positions slowly because the drug can cause orthostatic hypotension",
+        "Darkening of urine or sweat is a harmless expected effect",
+        "Stop the medication abruptly if symptoms worsen",
+        "Report new gambling or other uncontrollable urges to the provider"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Levodopa teaching includes pre-meal timing, orthostatic precautions, reassurance that dark urine/sweat is harmless, reporting impulse-control changes, and never stopping abruptly (which can cause a severe rigidity crisis).",
+        "incorrect": [
+          "Correct—pre-meal timing improves absorption by limiting protein competition.",
+          "Correct—orthostatic hypotension is common, so slow position changes reduce fall risk.",
+          "Correct—dark urine and sweat are harmless and expected.",
+          "Incorrect—abruptly stopping levodopa can cause severe rigidity; do not stop without provider direction.",
+          "Correct—dopaminergic drugs can cause impulse-control disorders that should be reported."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with myasthenia gravis for signs of cholinergic crisis. Which findings support this conclusion? Select all that apply.",
+      "options": [
+        "Excessive salivation",
+        "Diarrhea and abdominal cramping",
+        "Diaphoresis",
+        "Dry mouth and urinary retention",
+        "Increased tearing (lacrimation)"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Cholinergic crisis is acetylcholine excess — the SLUDGE picture: salivation, lacrimation, urination, diarrhea, GI cramping, and emesis, plus diaphoresis. Dry mouth and urinary retention are anticholinergic (the opposite) findings.",
+        "incorrect": [
+          "Correct—excess salivation is part of the SLUDGE picture.",
+          "Correct—diarrhea and GI cramping reflect cholinergic excess.",
+          "Correct—diaphoresis accompanies cholinergic crisis.",
+          "Incorrect—dry mouth and urinary retention are anticholinergic (opposite) effects.",
+          "Correct—increased lacrimation is a cholinergic sign."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with Guillain-Barre syndrome. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        "Monitor respiratory function and anticipate possible ventilation",
+        "Administer IVIG or prepare for plasmapheresis as ordered",
+        "Provide DVT prophylaxis due to immobility",
+        "Administer high-dose corticosteroids as first-line therapy",
+        "Manage neuropathic pain with agents such as gabapentin"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "GBS care is supportive plus immune-modifying therapy: respiratory monitoring, IVIG or plasmapheresis, DVT prophylaxis for immobility, and neuropathic pain control. Corticosteroids have no role in GBS.",
+        "incorrect": [
+          "Correct—respiratory monitoring anticipates the high risk of respiratory failure.",
+          "Correct—IVIG or plasmapheresis is the immune-modifying first-line treatment.",
+          "Correct—immobility raises DVT risk, so prophylaxis is appropriate.",
+          "Incorrect—steroids are not helpful in GBS and are not first-line.",
+          "Correct—neuropathic pain is managed with agents such as gabapentin or pregabalin."
+        ]
+      }
+    },
+    {
+      "stem": "A client with multiple sclerosis is started on a disease-modifying therapy such as natalizumab. Which teaching does the nurse prioritize?",
+      "options": [
+        "Practice good hand hygiene and report signs of infection such as a cough or fever",
+        "Expect the medication to cure the disease within a few weeks",
+        "Stop the medication as soon as symptoms improve",
+        "Avoid all foods containing tyramine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Disease-modifying immunomodulators and immunosuppressants raise infection risk and can cause infusion or anaphylactic reactions, so infection precautions — hand hygiene and reporting URI symptoms — are prioritized. Matching monitoring to the drug's immune effect guides safe care.",
+        "incorrect": [
+          "Disease-modifying therapies slow progression; they do not cure MS in weeks.",
+          "These are ongoing therapies, not stopped once symptoms improve.",
+          "Tyramine restriction applies to MAOIs, not MS disease-modifying therapies."
+        ]
+      }
+    }
+  ]
+}

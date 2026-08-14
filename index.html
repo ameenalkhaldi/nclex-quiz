@@ -158,6 +158,25 @@
     }
     .topic-row--all .topic-name { font-style: italic; }
 
+    /* course tabs */
+    .tabs {
+      display: flex;
+      gap: 0.35rem;
+      flex-wrap: wrap;
+      margin: 2.5rem 0 0.75rem;
+      border-bottom: 1px solid var(--line-soft);
+    }
+    .tab {
+      padding: 0.55rem 0.2rem;
+      margin-bottom: -1px;
+      color: var(--ink-faint);
+      border-bottom: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .tab + .tab { margin-left: 1rem; }
+    .tab:hover { color: var(--ink-soft); }
+    .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
     .topic-row {
       display: flex;
       align-items: baseline;
@@ -470,13 +489,18 @@ const QUESTIONS = DATA.banks;
 // `strip` removes the redundant course prefix from a bank's display name,
 // since the section header already names the course.
 const COURSE_GROUPS = [
-  { label: "Pathopharmacology", match: k => !k.startsWith("med-surg-") },
+  { label: "Pathopharmacology", match: k => !k.startsWith("med-surg-") && !k.startsWith("final-") },
   { label: "Med-Surg", match: k => k.startsWith("med-surg-"), strip: /^Med-Surg:\s*/ },
+  { label: "Pathofarm Final", match: k => k.startsWith("final-"), strip: /^Final:\s*/ },
 ];
+
+// The course groups that actually have banks loaded, in display order.
+const COURSES = COURSE_GROUPS.filter(g => Object.keys(QUESTIONS).some(k => g.match(k)));
 
 const state = {
   view: "start",       // start | quiz | results
-  topic: null,         // topic key, or "all"
+  activeCourse: 0,     // index into COURSES — which tab is showing on the start screen
+  topic: null,         // topic key, "all", or "course:<index>" (a whole course, mixed)
   shuffled: false,
   questions: [],
   index: 0,
@@ -519,17 +543,39 @@ function isCorrect(q, ans) {
   return ans === q.answer;
 }
 
+// A selection is "all", "course:<index>", or a single topic key. Mixed
+// selections (all / a course) tag each question with its topic during play.
+function isMixed(sel) {
+  return sel === "all" || (typeof sel === "string" && sel.startsWith("course:"));
+}
+
+function courseQuestions(index) {
+  const group = COURSES[index];
+  return Object.entries(QUESTIONS)
+    .filter(([key]) => group.match(key))
+    .flatMap(([topic, qs]) => qs.map(q => ({ ...q, topic })));
+}
+
+function questionsForSelection(sel) {
+  if (sel === "all") return allQuestions();
+  if (typeof sel === "string" && sel.startsWith("course:")) {
+    return courseQuestions(Number(sel.slice(7)));
+  }
+  return QUESTIONS[sel].map(q => ({ ...q, topic: sel }));
+}
+
 function sessionLabel() {
   if (state.topic === "all") return "All Topics";
+  if (typeof state.topic === "string" && state.topic.startsWith("course:")) {
+    return COURSES[Number(state.topic.slice(7))].label;
+  }
   return TOPIC_LABELS[state.topic];
 }
 
 function startSession(topic, shuffled = false) {
   state.topic = topic;
   state.shuffled = shuffled;
-  let list = topic === "all"
-    ? allQuestions()
-    : QUESTIONS[topic].map(q => ({ ...q, topic }));
+  let list = questionsForSelection(topic);
   if (shuffled) list = shuffle(list);
   // Randomize option order per question so the correct answer is not
   // clustered in one position across the bank.
@@ -563,39 +609,44 @@ function render() {
 
 /* ---------- start ---------- */
 
+function switchCourse(i) {
+  state.activeCourse = i;
+  renderStart();
+}
+
 function renderStart() {
   const total = allQuestions().length;
+  const active = Math.min(state.activeCourse, COURSES.length - 1);
+  const group = COURSES[active];
 
-  const groupsHtml = COURSE_GROUPS.map(group => {
-    const entries = Object.entries(QUESTIONS).filter(([key]) => group.match(key));
-    if (!entries.length) return "";
-    const courseTotal = entries.reduce((n, [, qs]) => n + qs.length, 0);
-    const rows = entries.map(([key, qs]) => {
-      const name = group.strip
-        ? TOPIC_LABELS[key].replace(group.strip, "")
-        : TOPIC_LABELS[key];
-      return `
+  const tabsHtml = COURSES.map((g, i) =>
+    `<button class="tab caps ${i === active ? "active" : ""}" onclick="switchCourse(${i})">${g.label}</button>`
+  ).join("");
+
+  const entries = Object.entries(QUESTIONS).filter(([key]) => group.match(key));
+  const courseTotal = entries.reduce((n, [, qs]) => n + qs.length, 0);
+
+  // Per-course "Mixed" option: every question in this course, shuffled.
+  const mixedHtml = entries.length > 1 ? `
+    <button class="topic-row topic-row--all" onclick="startSession('course:${active}', true)">
+      <span class="topic-name">Mixed &mdash; all ${group.label} questions</span>
+      <span class="topic-meta">${courseTotal} · shuffled <span class="arrow">&rarr;</span></span>
+    </button>` : "";
+
+  const topicsHtml = entries.map(([key, qs]) => {
+    const name = group.strip ? TOPIC_LABELS[key].replace(group.strip, "") : TOPIC_LABELS[key];
+    return `
       <button class="topic-row" onclick="startSession('${key}')">
         <span class="topic-name">${name}</span>
         <span class="topic-meta">${qs.length} questions <span class="arrow">&rarr;</span></span>
       </button>`;
-    }).join("");
-    return `
-    <div class="course-head">
-      <span class="caps">${group.label}</span>
-      <span class="course-total">${courseTotal} questions</span>
-    </div>
-    ${rows}`;
   }).join("");
-
-  const courseCount = COURSE_GROUPS.filter(g =>
-    Object.keys(QUESTIONS).some(k => g.match(k))).length;
 
   $("main").innerHTML = `
     <div class="masthead">
       <span class="caps">Question Bank</span>
       <h1>NCLEX <em>Practice</em></h1>
-      <p class="sub">${total} questions with full rationales, across ${Object.keys(QUESTIONS).length} topics in ${courseCount} courses.</p>
+      <p class="sub">${total} questions with full rationales, across ${Object.keys(QUESTIONS).length} topics in ${COURSES.length} courses.</p>
     </div>
 
     <button class="topic-row topic-row--all" onclick="startSession('all', true)">
@@ -603,7 +654,9 @@ function renderStart() {
       <span class="topic-meta">${total} · shuffled <span class="arrow">&rarr;</span></span>
     </button>
 
-    ${groupsHtml}
+    <div class="tabs" role="tablist">${tabsHtml}</div>
+    ${mixedHtml}
+    ${topicsHtml}
 
     <p class="hint">Tip: answer with <kbd>A</kbd>&ndash;<kbd>E</kbd>, move with <kbd>&larr;</kbd> <kbd>&rarr;</kbd>.</p>
   `;
@@ -616,7 +669,7 @@ function renderQuiz(opts = {}) {
   const sata = isSata(q);
   const stored = state.answers[state.index];
   const answered = stored !== undefined;
-  const showTag = state.topic === "all";
+  const showTag = isMixed(state.topic);
   const key = answerSet(q);
 
   if (state.pendingIndex !== state.index) {

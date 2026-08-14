@@ -1,0 +1,573 @@
+{
+  "topic": "final-substance-use",
+  "label": "Final: Substance Use & Addiction",
+  "questions": [
+    {
+      "stem": "A nurse finds a client unresponsive with a respiratory rate of 6, shallow breathing, cyanotic lips, pinpoint pupils, and no response to sternal rub. The client received IV morphine 45 minutes ago. Which action should the nurse take FIRST?",
+      "options": [
+        "Open the airway and begin bag-valve-mask ventilation while calling for help",
+        "Administer naloxone 0.4 mg IV push immediately",
+        "Draw an arterial blood gas and obtain a stat chest X-ray",
+        "Position the client on their side and monitor for further decline"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "This is opioid overdose, but the cues that kill are hypoxia and apnea. Airway and breathing come before the antidote: ventilate with a BVM to correct hypoxia, then give naloxone. Restoring oxygenation is the priority action.",
+        "incorrect": [
+          "Naloxone is essential and comes next, but an apneic, hypoxic client needs oxygen restored first — reversal without ventilation leaves the brain hypoxic during the lag before it works.",
+          "Diagnostics delay treatment; the presentation already identifies opioid overdose and the client is not breathing.",
+          "Recovery positioning and monitoring are passive; a client with a rate of 6 and cyanosis needs active ventilation now."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a documented opioid use disorder was found in a shelter and reports last using fentanyl about 18 hours ago. The nurse notes restlessness, yawning, rhinorrhea, dilated pupils, piloerection, diaphoresis, and diffuse muscle aches. Vitals: HR 108, BP 152/94, RR 22, SpO2 98%. Which conclusion is correct?",
+      "options": [
+        "The client is in opioid withdrawal, which is uncomfortable but not usually life-threatening",
+        "The client is in opioid overdose and needs naloxone",
+        "The client is intoxicated and should be observed until sedation clears",
+        "The client is having an anaphylactic reaction to fentanyl"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Dilated (not pinpoint) pupils, yawning, rhinorrhea, piloerection, diaphoresis, GI upset, and intact respirations with normal SpO2 are the autonomic, CNS-hyperexcitable picture of withdrawal — the opposite of the low-and-slow overdose state.",
+        "incorrect": [
+          "Overdose produces pinpoint pupils and respiratory depression; this client has dilated pupils and a normal respiratory rate.",
+          "Intoxication causes CNS depression and sedation; these are hyperactive autonomic signs.",
+          "There is no urticaria, wheeze, or hypotension — this is an autonomic withdrawal syndrome, not anaphylaxis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is preparing to start buprenorphine for a client with opioid use disorder. The client used heroin 3 hours ago and currently has no withdrawal symptoms. What is the nurse's BEST action?",
+      "options": [
+        "Hold the buprenorphine and wait until the client shows objective signs of withdrawal",
+        "Give the buprenorphine now to prevent withdrawal from developing",
+        "Administer naloxone first to clear the receptors, then give buprenorphine",
+        "Give a full dose of methadone instead since the client used recently"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Buprenorphine is a partial agonist with high receptor affinity. Given while full agonist is still on the receptors, it displaces them and precipitates acute withdrawal. It is started only once the client is already in objective withdrawal (e.g., a rising COWS score).",
+        "incorrect": [
+          "Dosing before withdrawal begins is exactly what precipitates it — the partial agonist knocks the full agonist off the receptor.",
+          "Naloxone would itself precipitate severe withdrawal and is not how buprenorphine induction is done.",
+          "Substituting methadone does not fix the timing problem and is not indicated simply because of recent use; the induction still hinges on the withdrawal window."
+        ]
+      }
+    },
+    {
+      "stem": "A client who received naloxone in the emergency department for a heroin overdose is now alert with a respiratory rate of 16. Thirty-five minutes later the nurse reassesses. Which finding is the nurse MOST concerned about?",
+      "options": [
+        "Return of drowsiness with a respiratory rate falling to 8",
+        "Complaints of muscle aches and mild nausea",
+        "Anxiety and a strong craving to use again",
+        "Yawning and watery eyes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Naloxone's duration of action is shorter than that of many opioids, so respiratory depression can recur as it wears off. A falling rate and returning sedation signal re-narcotization and the need to re-dose and maintain surveillance — recognizing this recurring cue is the point.",
+        "incorrect": [
+          "Aches and nausea are expected precipitated-withdrawal effects, uncomfortable but not immediately dangerous.",
+          "Craving and anxiety are expected and important for the plan of care but not an acute airway threat.",
+          "Yawning and lacrimation are typical withdrawal signs, not signs of a life-threatening change."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client started on methadone 3 days ago for opioid use disorder. The client reports feeling drowsy and that a partner noticed pauses in breathing during sleep. Vitals: HR 62, BP 110/68, RR 10, SpO2 93%. Which action is the priority?",
+      "options": [
+        "Hold the next methadone dose, apply supplemental oxygen, and notify the provider",
+        "Reassure the client that mild drowsiness is expected and follow up in one week",
+        "Obtain a 12-lead ECG to check for QTc prolongation before doing anything else",
+        "Teach the client the importance of taking methadone exactly as prescribed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "RR 10, SpO2 93%, drowsiness, and sleep apnea are cues of opioid-induced respiratory depression from methadone accumulation (its long half-life stacks over days). Airway/breathing take priority: hold the dose, oxygenate, and notify the provider.",
+        "incorrect": [
+          "Calling this an expected side effect misses respiratory depression that is already reducing oxygenation.",
+          "QTc monitoring matters with methadone, but the breathing problem is the immediate threat, not a dysrhythmia risk here.",
+          "Adherence teaching is appropriate later; it does not address the current respiratory compromise."
+        ]
+      }
+    },
+    {
+      "stem": "A client is to begin extended-release naltrexone for opioid use disorder. Which assessment finding requires the nurse to hold the medication and notify the provider?",
+      "options": [
+        "The client's last opioid use was 2 days ago",
+        "The client completed alcohol withdrawal last week",
+        "The client's liver function tests are within normal limits",
+        "The client expresses motivation to stay abstinent"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Naltrexone is a pure opioid antagonist; giving it to someone not fully opioid-free (typically 7-10 days) precipitates severe withdrawal. Use only 2 days ago is far too soon, so the nurse holds the drug and clarifies the plan.",
+        "incorrect": [
+          "Completing alcohol withdrawal is not a contraindication; naltrexone is also used for alcohol use disorder.",
+          "Normal LFTs are reassuring — hepatotoxicity monitoring is needed, but normal values support, not prevent, starting.",
+          "Motivation is a positive prognostic sign, not a reason to hold the medication."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client who was prescribed disulfiram for alcohol use disorder. Which statement by the client indicates the teaching was effective?",
+      "options": [
+        "\"I will check labels on mouthwash, cough syrup, and aftershave for alcohol.\"",
+        "\"If I drink while taking this, it will make me crave alcohol less over time.\"",
+        "\"I can have a small glass of wine as long as I take the pill afterward.\"",
+        "\"This medication blocks the pleasure I get from drinking in my brain.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Disulfiram inhibits aldehyde dehydrogenase, so any alcohol — including hidden sources in mouthwash, cough syrup, aftershave, and cooking wine — triggers a severe aversive reaction (flushing, headache, vomiting, tachycardia, hypotension). Recognizing hidden alcohol is the essential self-management step.",
+        "incorrect": [
+          "It is an aversive deterrent, not a craving reducer, and drinking on it causes a dangerous reaction rather than a gradual effect.",
+          "Even small amounts of alcohol provoke the reaction; there is no safe amount while on disulfiram.",
+          "That describes naltrexone's reward-pathway action; disulfiram works by causing a toxic acetaldehyde buildup."
+        ]
+      }
+    },
+    {
+      "stem": "A 52-year-old admitted for elective surgery reports drinking a pint of vodka daily for years. Twelve hours postoperatively the nurse observes hand tremor, diaphoresis, HR 112, BP 168/96, anxiety, and the client says they see bugs on the wall. Which pathophysiologic explanation is correct?",
+      "options": [
+        "Chronic alcohol downregulates GABA and upregulates glutamate; on cessation, unopposed CNS excitation produces these signs",
+        "Chronic alcohol upregulates GABA receptors, causing excessive CNS depression on cessation",
+        "Acute cessation releases endogenous opioids, causing autonomic instability",
+        "Alcohol withdrawal results from dopamine depletion in the mesolimbic pathway"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Alcohol enhances inhibitory GABA and suppresses excitatory glutamate/NMDA; the brain compensates by downregulating GABA and upregulating glutamate. When alcohol stops, unopposed excitation drives tremor, autonomic hyperactivity, anxiety, and hallucinations — the analyze-cues step here.",
+        "incorrect": [
+          "Withdrawal causes CNS excitation, not depression; the compensation runs the opposite direction from this statement.",
+          "The mechanism is GABA/glutamate imbalance, not an endogenous opioid surge.",
+          "Dopamine depletion explains reward and craving, not the hyperexcitable withdrawal syndrome."
+        ]
+      }
+    },
+    {
+      "stem": "A client in alcohol withdrawal is being managed with symptom-triggered lorazepam using the CIWA-Ar protocol. The client's CIWA-Ar score has risen from 9 to 18 over two hours. What does the nurse anticipate?",
+      "options": [
+        "Administering a larger, more frequent lorazepam dose per the protocol",
+        "Discontinuing lorazepam because the score shows the client is improving",
+        "Switching to a stimulant to counteract sedation",
+        "Withholding all medication until the score exceeds 30"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The CIWA-Ar drives dosing: a rising score means worsening withdrawal, so the protocol escalates the benzodiazepine dose and frequency to prevent progression to seizures and delirium tremens. Trending the score and acting on it is the evaluation-to-action link.",
+        "incorrect": [
+          "A rising score means worsening, not improvement; stopping the benzodiazepine risks seizures and DTs.",
+          "Stimulants would worsen the hyperexcitable state; benzodiazepines are the treatment.",
+          "Waiting until the score is very high abandons the whole point of symptom-triggered dosing, which is to intervene early."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client who will start varenicline for smoking cessation. The client asks, \"When should I stop smoking?\" Which response is most accurate?",
+      "options": [
+        "\"Set a quit date about one week after you start the medication; you'll keep smoking and take a lower dose during that first week.\"",
+        "\"Stop smoking today, before you take your very first dose.\"",
+        "\"You can keep smoking as long as you like — the medication will make you lose interest.\"",
+        "\"Stop smoking the same day you start so you don't cause a dangerous interaction.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Varenicline is up-titrated over the first week — during which the client still smokes — with the quit date set about a week after starting. The gradual titration also reduces nausea. This is the evidence-based dosing sequence.",
+        "incorrect": [
+          "Quitting before the first dose is not how varenicline is started; it needs the titration week first.",
+          "The plan does require an actual quit date; passively waiting to lose interest is not the protocol.",
+          "There is no dangerous interaction requiring same-day cessation; the quit date is deliberately set ~1 week out."
+        ]
+      }
+    },
+    {
+      "stem": "A client using a nicotine patch for smoking cessation reports vivid, disturbing dreams. What is the nurse's best response?",
+      "options": [
+        "\"Try removing the patch at bedtime and applying a fresh one in the morning.\"",
+        "\"Stop using the patch entirely; this means it isn't right for you.\"",
+        "\"Apply a second patch at night so the level stays steady while you sleep.\"",
+        "\"Chew a piece of nicotine gum before bed instead of wearing the patch.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Vivid dreams are a known effect of the overnight nicotine level from the patch. Removing it at night and reapplying in the morning relieves the dreams while preserving daytime cessation support — a targeted self-management fix.",
+        "incorrect": [
+          "The patch does not have to be abandoned; a simple timing change resolves the dreams.",
+          "Adding a second patch raises the nicotine level and worsens the problem, with a risk of toxicity.",
+          "Swapping in bedtime gum is unnecessary and does not address the reason the dreams occur."
+        ]
+      }
+    },
+    {
+      "stem": "A client wearing a 21 mg nicotine patch is found smoking a cigarette. The nurse recognizes this behavior places the client at risk for which problem?",
+      "options": [
+        "Nicotine toxicity from stacked sources of nicotine",
+        "Sudden loss of the patch's effectiveness",
+        "An allergic reaction to the adhesive",
+        "Immediate nicotine withdrawal"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Smoking while wearing a patch stacks two nicotine sources, and the combined dose can produce nicotine toxicity (nausea, vomiting, tachycardia, dizziness, hypertension). Recognizing the additive risk is the safety cue.",
+        "incorrect": [
+          "The patch still delivers nicotine; the problem is too much, not loss of effect.",
+          "Adhesive allergy causes local skin irritation, not the systemic risk created by combined dosing.",
+          "Adding more nicotine causes toxicity, not withdrawal, which comes from too little."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse practices harm reduction with a client who continues to use opioids and is not ready to stop. Which intervention best reflects this approach?",
+      "options": [
+        "Provide naloxone, teach the client and family to use it, and advise never using alone",
+        "Tell the client that treatment can only begin once they commit to abstinence",
+        "Require the client to attend counseling before receiving any services",
+        "Withhold clean supplies to discourage continued injection drug use"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Harm reduction meets people where they are and reduces negative outcomes without requiring abstinence: naloxone access with teaching, and advising against using alone so someone can respond to an overdose. It supports autonomy and safety.",
+        "incorrect": [
+          "Requiring abstinence first is the opposite of harm reduction and a barrier to engagement.",
+          "Mandating counseling as a precondition also blocks access; behavioral care is offered, not required.",
+          "Withholding sterile supplies increases infection and overdose harm, contradicting the approach."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse administers naloxone to an opioid-dependent client for respiratory depression. Shortly afterward the client becomes agitated, diaphoretic, and hypertensive. Which explanation should the nurse give the concerned family?",
+      "options": [
+        "Naloxone triggers a catecholamine release and can precipitate acute withdrawal, causing these signs",
+        "The client is having an allergic reaction to naloxone that requires epinephrine",
+        "These signs mean the naloxone dose was too low to work",
+        "The client is becoming intoxicated again as the opioid takes effect"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In an opioid-dependent client, naloxone abruptly reverses opioid effect and provokes catecholamine release and acute withdrawal — agitation, diaphoresis, and hypertension. This is an expected consequence to anticipate and monitor, not an allergy.",
+        "incorrect": [
+          "These are withdrawal/catecholamine effects, not an allergic reaction; epinephrine is not indicated.",
+          "The signs show the naloxone worked and reversed the opioid, not that the dose was insufficient.",
+          "Intoxication causes sedation; agitation and hypertension are the opposite, reflecting reversal."
+        ]
+      }
+    },
+    {
+      "stem": "A client with alcohol use disorder is prescribed acamprosate to maintain abstinence after detox. Which client finding requires the nurse to question the prescription?",
+      "options": [
+        "A GFR consistent with severe renal impairment",
+        "A history of compensated liver cirrhosis",
+        "A blood pressure of 128/78",
+        "A stated goal of lifelong sobriety"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Acamprosate is renally cleared and contraindicated in severe renal impairment. It is notably safe in liver disease, so a low GFR — not the hepatic history — is the cue to hold and clarify.",
+        "incorrect": [
+          "Liver disease is actually where acamprosate is preferred over hepatically metabolized options; it is not a reason to question it.",
+          "A normal blood pressure is not a contraindication.",
+          "A sobriety goal is the indication for maintenance therapy, not a concern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews new prescriptions for a client admitted in alcohol withdrawal who also has significant hepatic impairment. Which benzodiazepine order would the nurse most expect the team to prefer, and why?",
+      "options": [
+        "A shorter-acting benzodiazepine such as lorazepam, because it is less dependent on hepatic oxidative metabolism",
+        "Chlordiazepoxide, because its long half-life is safest in liver failure",
+        "No benzodiazepine, because all are absolutely contraindicated in liver disease",
+        "A stimulant, to offset benzodiazepine sedation in liver disease"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Long-acting agents like chlordiazepoxide give smooth coverage but accumulate when the liver cannot clear them; in significant hepatic impairment a shorter-acting agent that bypasses oxidative metabolism (lorazepam) is generally preferred to reduce oversedation. This integrates the drug's caution in hepatic impairment with the clinical picture.",
+        "incorrect": [
+          "A long half-life is smoother in a healthy liver but is the accumulation risk in hepatic failure, not the safest choice.",
+          "Benzodiazepines are the treatment for alcohol withdrawal; withholding them risks seizures and DTs.",
+          "Stimulants worsen the hyperexcitable withdrawal state and are never used to offset needed sedation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client in opioid withdrawal. The client demands \"something for the pain\" and rates discomfort 8/10 but is alert with a respiratory rate of 20. Which action is most appropriate?",
+      "options": [
+        "Treat symptoms with supportive medications such as clonidine and antiemetics per protocol",
+        "Administer naloxone to speed up the withdrawal process",
+        "Prepare for endotracheal intubation",
+        "Give activated charcoal to bind the remaining opioid"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Opioid withdrawal is uncomfortable but not usually life-threatening; management is supportive (autonomic symptoms with clonidine, nausea with antiemetics, initiation of buprenorphine per protocol). The alert client with intact breathing does not need reversal or airway rescue.",
+        "incorrect": [
+          "Naloxone would intensify withdrawal, not help it, and is for overdose, not symptom relief.",
+          "Intubation is for respiratory failure; this client is alert and breathing adequately.",
+          "Charcoal is not indicated here and does not address the withdrawal symptoms."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about the difference between methadone and buprenorphine for opioid use disorder. Which statement is accurate?",
+      "options": [
+        "\"Buprenorphine is a partial agonist with a ceiling effect that lowers overdose risk, while methadone is a full agonist dispensed only at specialized clinics.\"",
+        "\"Both are opioid antagonists that block the effects of any opioid you take.\"",
+        "\"Methadone can be prescribed by any clinician in an office, while buprenorphine requires a special clinic.\"",
+        "\"Buprenorphine must be given as a monthly injection after you are opioid-free for 10 days.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Buprenorphine is a partial agonist whose ceiling effect limits respiratory depression and overdose risk, and it can be office-based; methadone is a full agonist dispensed through federally regulated opioid treatment programs. Distinguishing the two is core teaching.",
+        "incorrect": [
+          "Both are agonists (full and partial), not antagonists; naltrexone is the antagonist.",
+          "The dispensing rules are reversed — methadone is clinic-only; buprenorphine can be office-based.",
+          "The monthly-injection, opioid-free-first description fits naltrexone, not buprenorphine."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is counseling a client about which withdrawal syndrome is most likely to be life-threatening if untreated. Which response is correct?",
+      "options": [
+        "Alcohol withdrawal, because CNS hyperexcitability can progress to seizures and delirium tremens",
+        "Opioid withdrawal, because it causes fatal respiratory depression",
+        "Nicotine withdrawal, because it causes dangerous hypertension",
+        "All withdrawal syndromes are equally likely to be fatal"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Alcohol (and benzodiazepine) withdrawal can be fatal because unopposed CNS excitation produces seizures and delirium tremens. Opioid withdrawal is severe but not usually life-threatening. Prioritizing the deadliest hypothesis is the point.",
+        "incorrect": [
+          "Opioid overdose causes respiratory depression; opioid withdrawal itself is rarely fatal.",
+          "Nicotine withdrawal is uncomfortable (irritability, craving, appetite) but not life-threatening.",
+          "They are not equal — alcohol/benzodiazepine withdrawal carries the seizure and DT risk."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking disulfiram is brought to the clinic with facial flushing, a throbbing headache, vomiting, HR 120, and BP 88/54. The client admits to using an alcohol-based hand product and mouthwash before an event. What is the nurse's priority?",
+      "options": [
+        "Support circulation and airway and monitor vitals, because this is the expected disulfiram-alcohol reaction",
+        "Administer naloxone to reverse the reaction",
+        "Give the client a small amount of oral alcohol to desensitize the response",
+        "Reassure the client that the symptoms are harmless and discharge them"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The flushing, headache, vomiting, tachycardia, and hypotension are the disulfiram-alcohol reaction from acetaldehyde buildup. It can cause significant hemodynamic instability, so priority is supportive care — airway, circulation, and monitoring.",
+        "incorrect": [
+          "Naloxone reverses opioids and has no role in an acetaldehyde reaction.",
+          "Giving more alcohol would worsen the reaction, not desensitize it.",
+          "The reaction is not harmless — hypotension and tachycardia here require monitoring, not discharge."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client 30 hours after the last alcohol drink. Which finding is most consistent with impending delirium tremens rather than uncomplicated withdrawal?",
+      "options": [
+        "Disorientation, fever, HR 130, and severe agitation with visual hallucinations",
+        "Mild hand tremor and requests for reassurance",
+        "Anxiety and difficulty sleeping",
+        "Nausea relieved by small sips of fluid"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Delirium tremens (typically 48-96 hours) is marked by disorientation, fever, marked tachycardia, severe agitation, and hallucinations — severe autonomic instability that can be fatal. Distinguishing it from mild early withdrawal drives escalation of care.",
+        "incorrect": [
+          "Mild tremor and needing reassurance are early, uncomplicated withdrawal.",
+          "Anxiety and insomnia are common early symptoms, not the severe autonomic crisis of DTs.",
+          "Mild nausea relieved by fluids is not the profound instability of DTs."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic alcohol use disorder has a macrocytic anemia. The nurse recognizes this most likely reflects which alcohol-related deficiency?",
+      "options": [
+        "Folate deficiency",
+        "Iron deficiency from acute blood loss",
+        "Vitamin C deficiency",
+        "Excess vitamin B6 intake"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Chronic alcohol use impairs folate intake and metabolism, producing a macrocytic (large-cell) anemia. Linking the lab pattern to the alcohol history is the analyze-cues step.",
+        "incorrect": [
+          "Iron deficiency causes a microcytic, not macrocytic, anemia.",
+          "Vitamin C deficiency causes scurvy, not macrocytosis.",
+          "Excess B6 is not a recognized cause of this anemia in alcohol use disorder."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is educating a group about how substance use disorders develop. Which statement best captures the hallmark progression the instructor emphasized?",
+      "options": [
+        "Use shifts from positive reinforcement (\"I use because it feels good\") to negative reinforcement (\"I use because I feel terrible without it\")",
+        "Use is a moral failure that reflects a lack of willpower",
+        "Tolerance means the brain becomes more sensitive to the drug over time",
+        "Once physical dependence develops, the reward pathway returns to normal"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The hallmark of all SUDs is the shift from positive reinforcement to negative reinforcement as the prefrontal control center is impaired and conditioned cues drive compulsive use. Framing addiction as a chronic medical condition, not a moral failing, is central.",
+        "incorrect": [
+          "SUD is a chronic, relapsing medical condition, not a moral failure — this framing is explicitly rejected.",
+          "Tolerance is downregulation (desensitization) requiring more drug for the same effect, not increased sensitivity.",
+          "Dependence reflects a dysregulated reward pathway that does not simply normalize."
+        ]
+      }
+    },
+    {
+      "stem": "A client on methadone maintenance is scheduled for a new medication. Which additional monitoring does the nurse recognize as specifically important with methadone?",
+      "options": [
+        "Monitoring the ECG for QTc prolongation",
+        "Monitoring for extrapyramidal symptoms",
+        "Monitoring serum drug levels to a narrow therapeutic range",
+        "Monitoring for a tyramine reaction"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Methadone can prolong the QTc interval, so ECG monitoring is a key nursing consideration, especially when other QT-affecting drugs are added. Recognizing this drug-specific risk protects the client.",
+        "incorrect": [
+          "Extrapyramidal symptoms are an antipsychotic concern, not a methadone effect.",
+          "Methadone is not dosed to a serum level the way lithium is.",
+          "Tyramine reactions relate to MAOIs, not methadone."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse uses person-first, non-judgmental language when documenting and speaking about clients with substance use disorders. Which phrase best reflects this communication strategy?",
+      "options": [
+        "\"A person who uses methamphetamine\"",
+        "\"A meth addict\"",
+        "\"A drug abuser who won't quit\"",
+        "\"A noncompliant user\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Neutral, person-first language (\"a person who uses methamphetamine\") reduces stigma, supports engagement and trust, and keeps the door open for future care — a core communication strategy across all SUDs.",
+        "incorrect": [
+          "\"Addict\" is stigmatizing labeling language, the opposite of person-first.",
+          "\"Abuser who won't quit\" is judgmental and punitive.",
+          "\"Noncompliant user\" is shaming and undermines the therapeutic relationship."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed naltrexone for alcohol use disorder. Which baseline and ongoing lab does the nurse prioritize teaching the client about?",
+      "options": [
+        "Liver function tests, drawn before and during treatment",
+        "Serum sodium, drawn weekly",
+        "A tyramine-restricted diet log",
+        "Thyroid-stimulating hormone every visit"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Naltrexone can be hepatotoxic, so LFTs are checked before and during therapy. Teaching the client why this monitoring matters supports safe use and adherence.",
+        "incorrect": [
+          "Sodium monitoring is not the specific concern with naltrexone.",
+          "Tyramine restriction applies to MAOIs, not naltrexone.",
+          "TSH monitoring is unrelated to naltrexone therapy."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client for signs of opioid withdrawal. Which findings support this conclusion? Select all that apply.",
+      "options": [
+        "Dilated pupils",
+        "Yawning and rhinorrhea",
+        "Diaphoresis and piloerection",
+        "Pinpoint pupils and respiratory depression",
+        "Diffuse muscle and bone aches"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Opioid withdrawal is a CNS-hyperexcitable, autonomic picture: dilated pupils, yawning, rhinorrhea, diaphoresis, piloerection, and diffuse aches. Pinpoint pupils with respiratory depression belong to overdose, the opposite state.",
+        "incorrect": [
+          "Correct—withdrawal produces mydriasis (dilated pupils).",
+          "Correct—yawning and rhinorrhea are classic autonomic withdrawal signs.",
+          "Correct—sweating and gooseflesh reflect the norepinephrine surge of withdrawal.",
+          "Incorrect—pinpoint pupils and respiratory depression are overdose findings, not withdrawal.",
+          "Correct—bone and muscle aches are hallmark withdrawal complaints."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client starting disulfiram. Which products should the client avoid because they may trigger a reaction? Select all that apply.",
+      "options": [
+        "Alcohol-based mouthwash",
+        "Cough syrups containing alcohol",
+        "Aftershave and cologne",
+        "Plain water",
+        "Cooking wine and vanilla extract"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Any product containing alcohol — mouthwash, alcohol-based cough syrup, aftershave/cologne, cooking wine, and extracts — can provoke the disulfiram-alcohol reaction. Alcohol-free items such as water are safe.",
+        "incorrect": [
+          "Correct—alcohol-based mouthwash can trigger the reaction.",
+          "Correct—cough syrups often contain alcohol and must be checked.",
+          "Correct—topical aftershave and cologne contain alcohol that can be absorbed or inhaled.",
+          "Incorrect—plain water contains no alcohol and is safe.",
+          "Correct—cooking wine and alcohol-containing extracts can provoke the reaction even in cooking."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is providing harm-reduction education to a client who uses opioids and is not ready to stop. Which points are appropriate to include? Select all that apply.",
+      "options": [
+        "Carry naloxone and teach friends or family how to use it",
+        "Avoid using alone, and consider small test doses",
+        "Do not mix opioids with benzodiazepines or alcohol",
+        "You must achieve complete abstinence before we can help you",
+        "Access sterile supplies through syringe service programs"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Harm reduction focuses on reducing negative outcomes without demanding abstinence: naloxone access and teaching, never using alone, avoiding dangerous combinations, and connecting to syringe service programs. Requiring abstinence first is a barrier, not harm reduction.",
+        "incorrect": [
+          "Correct—naloxone access with teaching is a core harm-reduction step.",
+          "Correct—not using alone and test doses reduce overdose risk.",
+          "Correct—mixing with other CNS depressants sharply raises overdose risk.",
+          "Incorrect—requiring abstinence first is contrary to harm reduction and blocks engagement.",
+          "Correct—syringe service programs reduce infection risk and connect clients to care."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic alcohol use disorder is admitted with confusion, ataxia, and abnormal eye movements. Which intervention does the nurse anticipate as the priority?",
+      "options": [
+        "Administer thiamine, ideally before any IV glucose",
+        "Administer IV dextrose immediately to correct presumed hypoglycemia",
+        "Give naloxone to reverse a suspected opioid effect",
+        "Start disulfiram to prevent further drinking"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Confusion, ataxia, and ophthalmoplegia suggest Wernicke encephalopathy from thiamine deficiency; thiamine is given before glucose, because a glucose load can precipitate or worsen Wernicke. Recognizing this triad drives the priority.",
+        "incorrect": [
+          "Giving glucose before thiamine can precipitate or worsen Wernicke encephalopathy in a thiamine-depleted client.",
+          "Naloxone treats opioid overdose, not thiamine-deficiency encephalopathy.",
+          "Disulfiram is a maintenance deterrent, not a treatment for acute encephalopathy."
+        ]
+      }
+    }
+  ]
+}

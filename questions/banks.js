@@ -9,7 +9,12 @@ window.NCLEX_DATA = {
     "med-surg-lower-gi": "Med-Surg: Lower GI",
     "med-surg-kidney": "Med-Surg: Kidney",
     "med-surg-endocrine": "Med-Surg: Endocrine",
-    "med-surg-fluids-electrolytes": "Med-Surg: Fluids & Electrolytes"
+    "med-surg-fluids-electrolytes": "Med-Surg: Fluids & Electrolytes",
+    "final-substance-use": "Final: Substance Use & Addiction",
+    "final-neuro": "Final: Neuro & Neuromuscular",
+    "final-endocrine": "Final: Endocrine",
+    "final-repro-bone": "Final: Bone & Reproductive Health",
+    "final-mental-health": "Final: Mental Health Meds"
   },
   "banks": {
     "upper-gi": [
@@ -8384,6 +8389,2536 @@ window.NCLEX_DATA = {
           "Taking it on an empty stomach with little fluid increases GI upset.",
           "A small volume of fluid does not adequately dilute the potassium to protect the GI tract.",
           "Doubling a missed dose risks hyperkalemia and is unsafe."
+        ]
+      }
+    ],
+    "final-substance-use": [
+      {
+        "stem": "A nurse finds a client unresponsive with a respiratory rate of 6, shallow breathing, cyanotic lips, pinpoint pupils, and no response to sternal rub. The client received IV morphine 45 minutes ago. Which action should the nurse take FIRST?",
+        "options": [
+          "Open the airway and begin bag-valve-mask ventilation while calling for help",
+          "Administer naloxone 0.4 mg IV push immediately",
+          "Draw an arterial blood gas and obtain a stat chest X-ray",
+          "Position the client on their side and monitor for further decline"
+        ],
+        "answer": 0,
+        "explanations": [
+          "This is opioid overdose, but the cues that kill are hypoxia and apnea. Airway and breathing come before the antidote: ventilate with a BVM to correct hypoxia, then give naloxone. Restoring oxygenation is the priority action.",
+          "Naloxone is essential and comes next, but an apneic, hypoxic client needs oxygen restored first — reversal without ventilation leaves the brain hypoxic during the lag before it works.",
+          "Diagnostics delay treatment; the presentation already identifies opioid overdose and the client is not breathing.",
+          "Recovery positioning and monitoring are passive; a client with a rate of 6 and cyanosis needs active ventilation now."
+        ]
+      },
+      {
+        "stem": "A client with a documented opioid use disorder was found in a shelter and reports last using fentanyl about 18 hours ago. The nurse notes restlessness, yawning, rhinorrhea, dilated pupils, piloerection, diaphoresis, and diffuse muscle aches. Vitals: HR 108, BP 152/94, RR 22, SpO2 98%. Which conclusion is correct?",
+        "options": [
+          "The client is in opioid withdrawal, which is uncomfortable but not usually life-threatening",
+          "The client is in opioid overdose and needs naloxone",
+          "The client is intoxicated and should be observed until sedation clears",
+          "The client is having an anaphylactic reaction to fentanyl"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Dilated (not pinpoint) pupils, yawning, rhinorrhea, piloerection, diaphoresis, GI upset, and intact respirations with normal SpO2 are the autonomic, CNS-hyperexcitable picture of withdrawal — the opposite of the low-and-slow overdose state.",
+          "Overdose produces pinpoint pupils and respiratory depression; this client has dilated pupils and a normal respiratory rate.",
+          "Intoxication causes CNS depression and sedation; these are hyperactive autonomic signs.",
+          "There is no urticaria, wheeze, or hypotension — this is an autonomic withdrawal syndrome, not anaphylaxis."
+        ]
+      },
+      {
+        "stem": "A nurse is preparing to start buprenorphine for a client with opioid use disorder. The client used heroin 3 hours ago and currently has no withdrawal symptoms. What is the nurse's BEST action?",
+        "options": [
+          "Hold the buprenorphine and wait until the client shows objective signs of withdrawal",
+          "Give the buprenorphine now to prevent withdrawal from developing",
+          "Administer naloxone first to clear the receptors, then give buprenorphine",
+          "Give a full dose of methadone instead since the client used recently"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Buprenorphine is a partial agonist with high receptor affinity. Given while full agonist is still on the receptors, it displaces them and precipitates acute withdrawal. It is started only once the client is already in objective withdrawal (e.g., a rising COWS score).",
+          "Dosing before withdrawal begins is exactly what precipitates it — the partial agonist knocks the full agonist off the receptor.",
+          "Naloxone would itself precipitate severe withdrawal and is not how buprenorphine induction is done.",
+          "Substituting methadone does not fix the timing problem and is not indicated simply because of recent use; the induction still hinges on the withdrawal window."
+        ]
+      },
+      {
+        "stem": "A client who received naloxone in the emergency department for a heroin overdose is now alert with a respiratory rate of 16. Thirty-five minutes later the nurse reassesses. Which finding is the nurse MOST concerned about?",
+        "options": [
+          "Return of drowsiness with a respiratory rate falling to 8",
+          "Complaints of muscle aches and mild nausea",
+          "Anxiety and a strong craving to use again",
+          "Yawning and watery eyes"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Naloxone's duration of action is shorter than that of many opioids, so respiratory depression can recur as it wears off. A falling rate and returning sedation signal re-narcotization and the need to re-dose and maintain surveillance — recognizing this recurring cue is the point.",
+          "Aches and nausea are expected precipitated-withdrawal effects, uncomfortable but not immediately dangerous.",
+          "Craving and anxiety are expected and important for the plan of care but not an acute airway threat.",
+          "Yawning and lacrimation are typical withdrawal signs, not signs of a life-threatening change."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client started on methadone 3 days ago for opioid use disorder. The client reports feeling drowsy and that a partner noticed pauses in breathing during sleep. Vitals: HR 62, BP 110/68, RR 10, SpO2 93%. Which action is the priority?",
+        "options": [
+          "Hold the next methadone dose, apply supplemental oxygen, and notify the provider",
+          "Reassure the client that mild drowsiness is expected and follow up in one week",
+          "Obtain a 12-lead ECG to check for QTc prolongation before doing anything else",
+          "Teach the client the importance of taking methadone exactly as prescribed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "RR 10, SpO2 93%, drowsiness, and sleep apnea are cues of opioid-induced respiratory depression from methadone accumulation (its long half-life stacks over days). Airway/breathing take priority: hold the dose, oxygenate, and notify the provider.",
+          "Calling this an expected side effect misses respiratory depression that is already reducing oxygenation.",
+          "QTc monitoring matters with methadone, but the breathing problem is the immediate threat, not a dysrhythmia risk here.",
+          "Adherence teaching is appropriate later; it does not address the current respiratory compromise."
+        ]
+      },
+      {
+        "stem": "A client is to begin extended-release naltrexone for opioid use disorder. Which assessment finding requires the nurse to hold the medication and notify the provider?",
+        "options": [
+          "The client's last opioid use was 2 days ago",
+          "The client completed alcohol withdrawal last week",
+          "The client's liver function tests are within normal limits",
+          "The client expresses motivation to stay abstinent"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Naltrexone is a pure opioid antagonist; giving it to someone not fully opioid-free (typically 7-10 days) precipitates severe withdrawal. Use only 2 days ago is far too soon, so the nurse holds the drug and clarifies the plan.",
+          "Completing alcohol withdrawal is not a contraindication; naltrexone is also used for alcohol use disorder.",
+          "Normal LFTs are reassuring — hepatotoxicity monitoring is needed, but normal values support, not prevent, starting.",
+          "Motivation is a positive prognostic sign, not a reason to hold the medication."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client who was prescribed disulfiram for alcohol use disorder. Which statement by the client indicates the teaching was effective?",
+        "options": [
+          "\"I will check labels on mouthwash, cough syrup, and aftershave for alcohol.\"",
+          "\"If I drink while taking this, it will make me crave alcohol less over time.\"",
+          "\"I can have a small glass of wine as long as I take the pill afterward.\"",
+          "\"This medication blocks the pleasure I get from drinking in my brain.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Disulfiram inhibits aldehyde dehydrogenase, so any alcohol — including hidden sources in mouthwash, cough syrup, aftershave, and cooking wine — triggers a severe aversive reaction (flushing, headache, vomiting, tachycardia, hypotension). Recognizing hidden alcohol is the essential self-management step.",
+          "It is an aversive deterrent, not a craving reducer, and drinking on it causes a dangerous reaction rather than a gradual effect.",
+          "Even small amounts of alcohol provoke the reaction; there is no safe amount while on disulfiram.",
+          "That describes naltrexone's reward-pathway action; disulfiram works by causing a toxic acetaldehyde buildup."
+        ]
+      },
+      {
+        "stem": "A 52-year-old admitted for elective surgery reports drinking a pint of vodka daily for years. Twelve hours postoperatively the nurse observes hand tremor, diaphoresis, HR 112, BP 168/96, anxiety, and the client says they see bugs on the wall. Which pathophysiologic explanation is correct?",
+        "options": [
+          "Chronic alcohol downregulates GABA and upregulates glutamate; on cessation, unopposed CNS excitation produces these signs",
+          "Chronic alcohol upregulates GABA receptors, causing excessive CNS depression on cessation",
+          "Acute cessation releases endogenous opioids, causing autonomic instability",
+          "Alcohol withdrawal results from dopamine depletion in the mesolimbic pathway"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Alcohol enhances inhibitory GABA and suppresses excitatory glutamate/NMDA; the brain compensates by downregulating GABA and upregulating glutamate. When alcohol stops, unopposed excitation drives tremor, autonomic hyperactivity, anxiety, and hallucinations — the analyze-cues step here.",
+          "Withdrawal causes CNS excitation, not depression; the compensation runs the opposite direction from this statement.",
+          "The mechanism is GABA/glutamate imbalance, not an endogenous opioid surge.",
+          "Dopamine depletion explains reward and craving, not the hyperexcitable withdrawal syndrome."
+        ]
+      },
+      {
+        "stem": "A client in alcohol withdrawal is being managed with symptom-triggered lorazepam using the CIWA-Ar protocol. The client's CIWA-Ar score has risen from 9 to 18 over two hours. What does the nurse anticipate?",
+        "options": [
+          "Administering a larger, more frequent lorazepam dose per the protocol",
+          "Discontinuing lorazepam because the score shows the client is improving",
+          "Switching to a stimulant to counteract sedation",
+          "Withholding all medication until the score exceeds 30"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The CIWA-Ar drives dosing: a rising score means worsening withdrawal, so the protocol escalates the benzodiazepine dose and frequency to prevent progression to seizures and delirium tremens. Trending the score and acting on it is the evaluation-to-action link.",
+          "A rising score means worsening, not improvement; stopping the benzodiazepine risks seizures and DTs.",
+          "Stimulants would worsen the hyperexcitable state; benzodiazepines are the treatment.",
+          "Waiting until the score is very high abandons the whole point of symptom-triggered dosing, which is to intervene early."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client who will start varenicline for smoking cessation. The client asks, \"When should I stop smoking?\" Which response is most accurate?",
+        "options": [
+          "\"Set a quit date about one week after you start the medication; you'll keep smoking and take a lower dose during that first week.\"",
+          "\"Stop smoking today, before you take your very first dose.\"",
+          "\"You can keep smoking as long as you like — the medication will make you lose interest.\"",
+          "\"Stop smoking the same day you start so you don't cause a dangerous interaction.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Varenicline is up-titrated over the first week — during which the client still smokes — with the quit date set about a week after starting. The gradual titration also reduces nausea. This is the evidence-based dosing sequence.",
+          "Quitting before the first dose is not how varenicline is started; it needs the titration week first.",
+          "The plan does require an actual quit date; passively waiting to lose interest is not the protocol.",
+          "There is no dangerous interaction requiring same-day cessation; the quit date is deliberately set ~1 week out."
+        ]
+      },
+      {
+        "stem": "A client using a nicotine patch for smoking cessation reports vivid, disturbing dreams. What is the nurse's best response?",
+        "options": [
+          "\"Try removing the patch at bedtime and applying a fresh one in the morning.\"",
+          "\"Stop using the patch entirely; this means it isn't right for you.\"",
+          "\"Apply a second patch at night so the level stays steady while you sleep.\"",
+          "\"Chew a piece of nicotine gum before bed instead of wearing the patch.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Vivid dreams are a known effect of the overnight nicotine level from the patch. Removing it at night and reapplying in the morning relieves the dreams while preserving daytime cessation support — a targeted self-management fix.",
+          "The patch does not have to be abandoned; a simple timing change resolves the dreams.",
+          "Adding a second patch raises the nicotine level and worsens the problem, with a risk of toxicity.",
+          "Swapping in bedtime gum is unnecessary and does not address the reason the dreams occur."
+        ]
+      },
+      {
+        "stem": "A client wearing a 21 mg nicotine patch is found smoking a cigarette. The nurse recognizes this behavior places the client at risk for which problem?",
+        "options": [
+          "Nicotine toxicity from stacked sources of nicotine",
+          "Sudden loss of the patch's effectiveness",
+          "An allergic reaction to the adhesive",
+          "Immediate nicotine withdrawal"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Smoking while wearing a patch stacks two nicotine sources, and the combined dose can produce nicotine toxicity (nausea, vomiting, tachycardia, dizziness, hypertension). Recognizing the additive risk is the safety cue.",
+          "The patch still delivers nicotine; the problem is too much, not loss of effect.",
+          "Adhesive allergy causes local skin irritation, not the systemic risk created by combined dosing.",
+          "Adding more nicotine causes toxicity, not withdrawal, which comes from too little."
+        ]
+      },
+      {
+        "stem": "A nurse practices harm reduction with a client who continues to use opioids and is not ready to stop. Which intervention best reflects this approach?",
+        "options": [
+          "Provide naloxone, teach the client and family to use it, and advise never using alone",
+          "Tell the client that treatment can only begin once they commit to abstinence",
+          "Require the client to attend counseling before receiving any services",
+          "Withhold clean supplies to discourage continued injection drug use"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Harm reduction meets people where they are and reduces negative outcomes without requiring abstinence: naloxone access with teaching, and advising against using alone so someone can respond to an overdose. It supports autonomy and safety.",
+          "Requiring abstinence first is the opposite of harm reduction and a barrier to engagement.",
+          "Mandating counseling as a precondition also blocks access; behavioral care is offered, not required.",
+          "Withholding sterile supplies increases infection and overdose harm, contradicting the approach."
+        ]
+      },
+      {
+        "stem": "A nurse administers naloxone to an opioid-dependent client for respiratory depression. Shortly afterward the client becomes agitated, diaphoretic, and hypertensive. Which explanation should the nurse give the concerned family?",
+        "options": [
+          "Naloxone triggers a catecholamine release and can precipitate acute withdrawal, causing these signs",
+          "The client is having an allergic reaction to naloxone that requires epinephrine",
+          "These signs mean the naloxone dose was too low to work",
+          "The client is becoming intoxicated again as the opioid takes effect"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In an opioid-dependent client, naloxone abruptly reverses opioid effect and provokes catecholamine release and acute withdrawal — agitation, diaphoresis, and hypertension. This is an expected consequence to anticipate and monitor, not an allergy.",
+          "These are withdrawal/catecholamine effects, not an allergic reaction; epinephrine is not indicated.",
+          "The signs show the naloxone worked and reversed the opioid, not that the dose was insufficient.",
+          "Intoxication causes sedation; agitation and hypertension are the opposite, reflecting reversal."
+        ]
+      },
+      {
+        "stem": "A client with alcohol use disorder is prescribed acamprosate to maintain abstinence after detox. Which client finding requires the nurse to question the prescription?",
+        "options": [
+          "A GFR consistent with severe renal impairment",
+          "A history of compensated liver cirrhosis",
+          "A blood pressure of 128/78",
+          "A stated goal of lifelong sobriety"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Acamprosate is renally cleared and contraindicated in severe renal impairment. It is notably safe in liver disease, so a low GFR — not the hepatic history — is the cue to hold and clarify.",
+          "Liver disease is actually where acamprosate is preferred over hepatically metabolized options; it is not a reason to question it.",
+          "A normal blood pressure is not a contraindication.",
+          "A sobriety goal is the indication for maintenance therapy, not a concern."
+        ]
+      },
+      {
+        "stem": "A nurse reviews new prescriptions for a client admitted in alcohol withdrawal who also has significant hepatic impairment. Which benzodiazepine order would the nurse most expect the team to prefer, and why?",
+        "options": [
+          "A shorter-acting benzodiazepine such as lorazepam, because it is less dependent on hepatic oxidative metabolism",
+          "Chlordiazepoxide, because its long half-life is safest in liver failure",
+          "No benzodiazepine, because all are absolutely contraindicated in liver disease",
+          "A stimulant, to offset benzodiazepine sedation in liver disease"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Long-acting agents like chlordiazepoxide give smooth coverage but accumulate when the liver cannot clear them; in significant hepatic impairment a shorter-acting agent that bypasses oxidative metabolism (lorazepam) is generally preferred to reduce oversedation. This integrates the drug's caution in hepatic impairment with the clinical picture.",
+          "A long half-life is smoother in a healthy liver but is the accumulation risk in hepatic failure, not the safest choice.",
+          "Benzodiazepines are the treatment for alcohol withdrawal; withholding them risks seizures and DTs.",
+          "Stimulants worsen the hyperexcitable withdrawal state and are never used to offset needed sedation."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client in opioid withdrawal. The client demands \"something for the pain\" and rates discomfort 8/10 but is alert with a respiratory rate of 20. Which action is most appropriate?",
+        "options": [
+          "Treat symptoms with supportive medications such as clonidine and antiemetics per protocol",
+          "Administer naloxone to speed up the withdrawal process",
+          "Prepare for endotracheal intubation",
+          "Give activated charcoal to bind the remaining opioid"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Opioid withdrawal is uncomfortable but not usually life-threatening; management is supportive (autonomic symptoms with clonidine, nausea with antiemetics, initiation of buprenorphine per protocol). The alert client with intact breathing does not need reversal or airway rescue.",
+          "Naloxone would intensify withdrawal, not help it, and is for overdose, not symptom relief.",
+          "Intubation is for respiratory failure; this client is alert and breathing adequately.",
+          "Charcoal is not indicated here and does not address the withdrawal symptoms."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about the difference between methadone and buprenorphine for opioid use disorder. Which statement is accurate?",
+        "options": [
+          "\"Buprenorphine is a partial agonist with a ceiling effect that lowers overdose risk, while methadone is a full agonist dispensed only at specialized clinics.\"",
+          "\"Both are opioid antagonists that block the effects of any opioid you take.\"",
+          "\"Methadone can be prescribed by any clinician in an office, while buprenorphine requires a special clinic.\"",
+          "\"Buprenorphine must be given as a monthly injection after you are opioid-free for 10 days.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Buprenorphine is a partial agonist whose ceiling effect limits respiratory depression and overdose risk, and it can be office-based; methadone is a full agonist dispensed through federally regulated opioid treatment programs. Distinguishing the two is core teaching.",
+          "Both are agonists (full and partial), not antagonists; naltrexone is the antagonist.",
+          "The dispensing rules are reversed — methadone is clinic-only; buprenorphine can be office-based.",
+          "The monthly-injection, opioid-free-first description fits naltrexone, not buprenorphine."
+        ]
+      },
+      {
+        "stem": "A nurse is counseling a client about which withdrawal syndrome is most likely to be life-threatening if untreated. Which response is correct?",
+        "options": [
+          "Alcohol withdrawal, because CNS hyperexcitability can progress to seizures and delirium tremens",
+          "Opioid withdrawal, because it causes fatal respiratory depression",
+          "Nicotine withdrawal, because it causes dangerous hypertension",
+          "All withdrawal syndromes are equally likely to be fatal"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Alcohol (and benzodiazepine) withdrawal can be fatal because unopposed CNS excitation produces seizures and delirium tremens. Opioid withdrawal is severe but not usually life-threatening. Prioritizing the deadliest hypothesis is the point.",
+          "Opioid overdose causes respiratory depression; opioid withdrawal itself is rarely fatal.",
+          "Nicotine withdrawal is uncomfortable (irritability, craving, appetite) but not life-threatening.",
+          "They are not equal — alcohol/benzodiazepine withdrawal carries the seizure and DT risk."
+        ]
+      },
+      {
+        "stem": "A client taking disulfiram is brought to the clinic with facial flushing, a throbbing headache, vomiting, HR 120, and BP 88/54. The client admits to using an alcohol-based hand product and mouthwash before an event. What is the nurse's priority?",
+        "options": [
+          "Support circulation and airway and monitor vitals, because this is the expected disulfiram-alcohol reaction",
+          "Administer naloxone to reverse the reaction",
+          "Give the client a small amount of oral alcohol to desensitize the response",
+          "Reassure the client that the symptoms are harmless and discharge them"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The flushing, headache, vomiting, tachycardia, and hypotension are the disulfiram-alcohol reaction from acetaldehyde buildup. It can cause significant hemodynamic instability, so priority is supportive care — airway, circulation, and monitoring.",
+          "Naloxone reverses opioids and has no role in an acetaldehyde reaction.",
+          "Giving more alcohol would worsen the reaction, not desensitize it.",
+          "The reaction is not harmless — hypotension and tachycardia here require monitoring, not discharge."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client 30 hours after the last alcohol drink. Which finding is most consistent with impending delirium tremens rather than uncomplicated withdrawal?",
+        "options": [
+          "Disorientation, fever, HR 130, and severe agitation with visual hallucinations",
+          "Mild hand tremor and requests for reassurance",
+          "Anxiety and difficulty sleeping",
+          "Nausea relieved by small sips of fluid"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Delirium tremens (typically 48-96 hours) is marked by disorientation, fever, marked tachycardia, severe agitation, and hallucinations — severe autonomic instability that can be fatal. Distinguishing it from mild early withdrawal drives escalation of care.",
+          "Mild tremor and needing reassurance are early, uncomplicated withdrawal.",
+          "Anxiety and insomnia are common early symptoms, not the severe autonomic crisis of DTs.",
+          "Mild nausea relieved by fluids is not the profound instability of DTs."
+        ]
+      },
+      {
+        "stem": "A client with chronic alcohol use disorder has a macrocytic anemia. The nurse recognizes this most likely reflects which alcohol-related deficiency?",
+        "options": [
+          "Folate deficiency",
+          "Iron deficiency from acute blood loss",
+          "Vitamin C deficiency",
+          "Excess vitamin B6 intake"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Chronic alcohol use impairs folate intake and metabolism, producing a macrocytic (large-cell) anemia. Linking the lab pattern to the alcohol history is the analyze-cues step.",
+          "Iron deficiency causes a microcytic, not macrocytic, anemia.",
+          "Vitamin C deficiency causes scurvy, not macrocytosis.",
+          "Excess B6 is not a recognized cause of this anemia in alcohol use disorder."
+        ]
+      },
+      {
+        "stem": "A nurse is educating a group about how substance use disorders develop. Which statement best captures the hallmark progression the instructor emphasized?",
+        "options": [
+          "Use shifts from positive reinforcement (\"I use because it feels good\") to negative reinforcement (\"I use because I feel terrible without it\")",
+          "Use is a moral failure that reflects a lack of willpower",
+          "Tolerance means the brain becomes more sensitive to the drug over time",
+          "Once physical dependence develops, the reward pathway returns to normal"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The hallmark of all SUDs is the shift from positive reinforcement to negative reinforcement as the prefrontal control center is impaired and conditioned cues drive compulsive use. Framing addiction as a chronic medical condition, not a moral failing, is central.",
+          "SUD is a chronic, relapsing medical condition, not a moral failure — this framing is explicitly rejected.",
+          "Tolerance is downregulation (desensitization) requiring more drug for the same effect, not increased sensitivity.",
+          "Dependence reflects a dysregulated reward pathway that does not simply normalize."
+        ]
+      },
+      {
+        "stem": "A client on methadone maintenance is scheduled for a new medication. Which additional monitoring does the nurse recognize as specifically important with methadone?",
+        "options": [
+          "Monitoring the ECG for QTc prolongation",
+          "Monitoring for extrapyramidal symptoms",
+          "Monitoring serum drug levels to a narrow therapeutic range",
+          "Monitoring for a tyramine reaction"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Methadone can prolong the QTc interval, so ECG monitoring is a key nursing consideration, especially when other QT-affecting drugs are added. Recognizing this drug-specific risk protects the client.",
+          "Extrapyramidal symptoms are an antipsychotic concern, not a methadone effect.",
+          "Methadone is not dosed to a serum level the way lithium is.",
+          "Tyramine reactions relate to MAOIs, not methadone."
+        ]
+      },
+      {
+        "stem": "A nurse uses person-first, non-judgmental language when documenting and speaking about clients with substance use disorders. Which phrase best reflects this communication strategy?",
+        "options": [
+          "\"A person who uses methamphetamine\"",
+          "\"A meth addict\"",
+          "\"A drug abuser who won't quit\"",
+          "\"A noncompliant user\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Neutral, person-first language (\"a person who uses methamphetamine\") reduces stigma, supports engagement and trust, and keeps the door open for future care — a core communication strategy across all SUDs.",
+          "\"Addict\" is stigmatizing labeling language, the opposite of person-first.",
+          "\"Abuser who won't quit\" is judgmental and punitive.",
+          "\"Noncompliant user\" is shaming and undermines the therapeutic relationship."
+        ]
+      },
+      {
+        "stem": "A client is prescribed naltrexone for alcohol use disorder. Which baseline and ongoing lab does the nurse prioritize teaching the client about?",
+        "options": [
+          "Liver function tests, drawn before and during treatment",
+          "Serum sodium, drawn weekly",
+          "A tyramine-restricted diet log",
+          "Thyroid-stimulating hormone every visit"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Naltrexone can be hepatotoxic, so LFTs are checked before and during therapy. Teaching the client why this monitoring matters supports safe use and adherence.",
+          "Sodium monitoring is not the specific concern with naltrexone.",
+          "Tyramine restriction applies to MAOIs, not naltrexone.",
+          "TSH monitoring is unrelated to naltrexone therapy."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client for signs of opioid withdrawal. Which findings support this conclusion? Select all that apply.",
+        "options": [
+          "Dilated pupils",
+          "Yawning and rhinorrhea",
+          "Diaphoresis and piloerection",
+          "Pinpoint pupils and respiratory depression",
+          "Diffuse muscle and bone aches"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—withdrawal produces mydriasis (dilated pupils).",
+          "Correct—yawning and rhinorrhea are classic autonomic withdrawal signs.",
+          "Correct—sweating and gooseflesh reflect the norepinephrine surge of withdrawal.",
+          "Incorrect—pinpoint pupils and respiratory depression are overdose findings, not withdrawal.",
+          "Correct—bone and muscle aches are hallmark withdrawal complaints."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse teaches a client starting disulfiram. Which products should the client avoid because they may trigger a reaction? Select all that apply.",
+        "options": [
+          "Alcohol-based mouthwash",
+          "Cough syrups containing alcohol",
+          "Aftershave and cologne",
+          "Plain water",
+          "Cooking wine and vanilla extract"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—alcohol-based mouthwash can trigger the reaction.",
+          "Correct—cough syrups often contain alcohol and must be checked.",
+          "Correct—topical aftershave and cologne contain alcohol that can be absorbed or inhaled.",
+          "Incorrect—plain water contains no alcohol and is safe.",
+          "Correct—cooking wine and alcohol-containing extracts can provoke the reaction even in cooking."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is providing harm-reduction education to a client who uses opioids and is not ready to stop. Which points are appropriate to include? Select all that apply.",
+        "options": [
+          "Carry naloxone and teach friends or family how to use it",
+          "Avoid using alone, and consider small test doses",
+          "Do not mix opioids with benzodiazepines or alcohol",
+          "You must achieve complete abstinence before we can help you",
+          "Access sterile supplies through syringe service programs"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—naloxone access with teaching is a core harm-reduction step.",
+          "Correct—not using alone and test doses reduce overdose risk.",
+          "Correct—mixing with other CNS depressants sharply raises overdose risk.",
+          "Incorrect—requiring abstinence first is contrary to harm reduction and blocks engagement.",
+          "Correct—syringe service programs reduce infection risk and connect clients to care."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with chronic alcohol use disorder is admitted with confusion, ataxia, and abnormal eye movements. Which intervention does the nurse anticipate as the priority?",
+        "options": [
+          "Administer thiamine, ideally before any IV glucose",
+          "Administer IV dextrose immediately to correct presumed hypoglycemia",
+          "Give naloxone to reverse a suspected opioid effect",
+          "Start disulfiram to prevent further drinking"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Confusion, ataxia, and ophthalmoplegia suggest Wernicke encephalopathy from thiamine deficiency; thiamine is given before glucose, because a glucose load can precipitate or worsen Wernicke. Recognizing this triad drives the priority.",
+          "Giving glucose before thiamine can precipitate or worsen Wernicke encephalopathy in a thiamine-depleted client.",
+          "Naloxone treats opioid overdose, not thiamine-deficiency encephalopathy.",
+          "Disulfiram is a maintenance deterrent, not a treatment for acute encephalopathy."
+        ]
+      }
+    ],
+    "final-neuro": [
+      {
+        "stem": "A client with myasthenia gravis who takes pyridostigmine at home is admitted with increasing difficulty swallowing, a nasal-sounding voice, and use of accessory muscles to breathe. SpO2 is 91% on room air. Which action is the priority?",
+        "options": [
+          "Notify the rapid response team and prepare for possible ventilatory support",
+          "Administer the next scheduled dose of pyridostigmine early to improve strength",
+          "Encourage the client to rest and recheck the oxygen saturation in 30 minutes",
+          "Give atropine to counteract cholinergic side effects"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bulbar weakness (dysphagia, nasal voice), accessory-muscle use, and SpO2 91% signal impending myasthenic crisis with respiratory failure. Airway and breathing are the priority: call for help and prepare for ventilatory support before any medication decision.",
+          "Dosing early is unsafe until myasthenic versus cholinergic crisis is differentiated, and it does not secure the airway now.",
+          "Watchful waiting is unsafe with a falling SpO2 and bulbar weakness.",
+          "Atropine treats cholinergic crisis but could worsen a myasthenic crisis; the airway must be addressed first regardless."
+        ]
+      },
+      {
+        "stem": "A 72-year-old presents with a resting pill-rolling tremor, cogwheel rigidity, bradykinesia, a shuffling gait, and a mask-like face. Which two-part pathophysiology best explains this presentation?",
+        "options": [
+          "Loss of dopamine in the substantia nigra creating a relative excess of acetylcholine",
+          "Autoimmune destruction of acetylcholine receptors at the neuromuscular junction",
+          "Demyelination of neurons in the central nervous system",
+          "Blockage of a cerebral artery causing acute ischemia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Parkinson's disease is degeneration of dopamine-producing neurons in the substantia nigra, leaving too little dopamine and a relative excess of acetylcholine — the imbalance that produces tremor, rigidity, and bradykinesia. Recognizing this cue set points to the diagnosis.",
+          "AChR destruction at the neuromuscular junction is myasthenia gravis, which causes fatigable weakness, not resting tremor.",
+          "CNS demyelination is multiple sclerosis, presenting with optic and sensory changes, not a pill-rolling tremor.",
+          "Acute arterial blockage is stroke, which is sudden and focal, not a gradual movement disorder."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client newly prescribed carbidopa-levodopa for Parkinson's disease. Which instruction is most important?",
+        "options": [
+          "Take the medication 30 to 60 minutes before meals and limit high-protein foods around dosing",
+          "Take the medication with a high-protein snack to improve absorption",
+          "Stop the medication immediately if urine turns dark",
+          "Double the dose whenever symptoms feel worse"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Levodopa is absorbed in the small intestine and competes with dietary amino acids, so it is taken 30-60 minutes before meals with protein spread through the day; taking it with a large protein load reduces the amount reaching the brain. This is the key administration teaching.",
+          "A high-protein snack competes with levodopa for absorption and reduces its effect.",
+          "Dark urine is a harmless, expected side effect, not a reason to stop the drug abruptly.",
+          "Self-doubling the dose risks dyskinesia and does not fix the underlying dosing issue."
+        ]
+      },
+      {
+        "stem": "A client taking carbidopa-levodopa reports periods where the medication suddenly stops working and Parkinson symptoms return, alternating with times it works well. What is the nurse's best response?",
+        "options": [
+          "\"This is called the on-off phenomenon; report it so the provider can adjust your dosing schedule.\"",
+          "\"Stop the medication right away, since this means it is no longer safe.\"",
+          "\"This is an allergic reaction; you should never take levodopa again.\"",
+          "\"Take an extra dose whenever the symptoms return, without limits.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "The on-off phenomenon — abrupt swings between medication effect and symptom return — is a recognized long-term levodopa effect managed by adjusting dosing or scheduling, not by stopping the drug (which can cause severe rigidity). Naming it and directing follow-up is correct.",
+          "Abruptly stopping levodopa can precipitate a severe rigidity crisis; the drug should not be stopped this way.",
+          "This is a pharmacologic wearing-off effect, not an allergic reaction.",
+          "Unlimited extra dosing risks dyskinesia; adjustments should be provider-directed."
+        ]
+      },
+      {
+        "stem": "A client who has taken carbidopa-levodopa for two years is noted by family to have started gambling online and has developed uncharacteristic hypersexual behavior. What is the nurse's best action?",
+        "options": [
+          "Report the behaviors to the provider, as dopaminergic medications can cause impulse-control disorders",
+          "Reassure the family that these behaviors are unrelated to the medication",
+          "Tell the client to simply use more willpower to control the urges",
+          "Recommend stopping the medication abruptly to end the behaviors"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Medications that raise central dopaminergic tone can cause intense, uncontrollable urges — gambling, hypersexuality, and other impulse-control problems (an FDA-labeled effect). The nurse recognizes the link and reports it for management, not abrupt cessation.",
+          "These behaviors are a recognized medication effect, not unrelated.",
+          "This is a neurochemical drug effect, not a willpower issue.",
+          "Abruptly stopping levodopa risks a rigidity crisis; changes should be provider-directed."
+        ]
+      },
+      {
+        "stem": "A client with Lewy body dementia becomes acutely agitated. The nurse anticipates that which class of medication should be avoided?",
+        "options": [
+          "Antipsychotics, because they can trigger a severe dopaminergic reaction",
+          "Cholinesterase inhibitors, because they have no role in dementia",
+          "Carbidopa-levodopa, because it worsens all Lewy body symptoms",
+          "Stool softeners, because they precipitate delirium"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In Lewy body dementia, antipsychotics (even atypicals) can cause severe sensitivity reactions and dopaminergic crisis, so they are avoided when possible. Recognizing this contraindication protects the client.",
+          "Cholinesterase inhibitors are actually used in dementia to raise acetylcholine.",
+          "Lewy body dementia often responds well to carbidopa-levodopa for motor symptoms; it is not uniformly harmful.",
+          "Stool softeners do not precipitate delirium and are unrelated to this concern."
+        ]
+      },
+      {
+        "stem": "A nurse reviews the medication list of an 80-year-old with mild Alzheimer's disease taking donepezil. An urgent care provider newly prescribed atropine for abdominal cramping. What is the nurse's best response?",
+        "options": [
+          "\"Atropine opposes donepezil and can blunt the Alzheimer's medication's benefit; I'll contact the provider for an alternative.\"",
+          "\"These are safe together as long as they are taken at different times of day.\"",
+          "\"Both drugs help memory, so taking them together gives a double benefit.\"",
+          "\"The main concern is that these two drugs will drop the blood pressure too much.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Donepezil is a cholinesterase inhibitor that raises acetylcholine; atropine is an anticholinergic that directly opposes it, blunting the drug's effect. The nurse flags the pharmacologic antagonism and seeks an alternative — a medication-reasoning safety catch.",
+          "Spacing the doses does not resolve a direct pharmacologic antagonism.",
+          "Atropine does not help memory; it opposes the cholinergic drug that does.",
+          "The key problem is antagonism of the cholinergic effect, not additive hypotension."
+        ]
+      },
+      {
+        "stem": "A client taking donepezil for Alzheimer's disease is admitted with new bradycardia (HR 48), dizziness, and syncope. The nurse recognizes this may reflect which effect of the medication?",
+        "options": [
+          "Cholinergic vagotonic effects on the SA and AV nodes",
+          "Anticholinergic overload causing tachyarrhythmia",
+          "Dopaminergic excess causing hallucinations",
+          "Serotonin syndrome from excess serotonin"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Cholinesterase inhibitors raise acetylcholine and can have vagotonic effects on the SA and AV nodes, producing bradycardia and syncope (an FDA warning). Connecting the slow heart rate to the drug's cholinergic action is the analyze-cues step.",
+          "Donepezil is pro-cholinergic; it does not cause anticholinergic tachyarrhythmia.",
+          "It affects acetylcholine, not dopamine, and hallucinations are not the issue here.",
+          "Serotonin syndrome is unrelated to a cholinesterase inhibitor's cardiac effect."
+        ]
+      },
+      {
+        "stem": "A client with moderate Alzheimer's disease is started on lecanemab, a monoclonal antibody. Which monitoring does the nurse recognize as essential during therapy?",
+        "options": [
+          "Frequent brain MRIs to detect amyloid-related imaging abnormalities such as microhemorrhages and edema",
+          "Weekly serum lithium levels",
+          "Daily 24-hour urine cortisol collection",
+          "Routine electrocardiograms for QT prolongation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Lecanemab clears beta-amyloid but risks amyloid-related imaging abnormalities (ARIA) — brain microhemorrhages and edema — so frequent MRIs, especially early, are essential to detect and manage them. This is the drug-specific safety monitoring.",
+          "Lithium levels are for bipolar therapy, not a monoclonal antibody.",
+          "24-hour urine cortisol is a Cushing's workup, unrelated here.",
+          "Routine QT monitoring is not the defining concern with lecanemab; ARIA is."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with late-stage Alzheimer's disease who is disoriented and calling for a long-deceased spouse. Which nursing approach is most appropriate?",
+        "options": [
+          "Redirect the client to a calming activity rather than repeatedly correcting them",
+          "Firmly reorient the client to reality each time and explain the spouse has died",
+          "Restrain the client to prevent wandering during confusion",
+          "Encourage long daytime naps to reduce agitation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In advanced dementia the client is not reliably reorientable; repeatedly correcting them causes distress. Redirecting to a calming activity and mimicking a familiar environment supports safety and dignity.",
+          "Insistent reorientation in late-stage dementia increases agitation and is not effective.",
+          "Restraints increase injury and agitation risk and are not a first-line safety measure.",
+          "Long daytime naps worsen sundowning and disrupt the sleep-wake cycle; napping is limited."
+        ]
+      },
+      {
+        "stem": "A young adult reports several weeks of blurry vision and eye discomfort, along with intermittent numbness and unsteady gait that come and go. Which condition should the nurse suspect?",
+        "options": [
+          "Multiple sclerosis",
+          "Myasthenia gravis",
+          "Guillain-Barre syndrome",
+          "Parkinson's disease"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Relapsing-remitting visual changes from optic neuritis plus sensory and gait symptoms in a young adult are classic early multiple sclerosis, reflecting CNS demyelination. Matching the relapsing pattern and optic involvement to the disease is the point.",
+          "Myasthenia gravis causes fatigable ptosis and diplopia that worsen with activity, not relapsing optic neuritis with sensory changes.",
+          "Guillain-Barre causes acute ascending weakness, not a relapsing-remitting visual course.",
+          "Parkinson's is a movement disorder with tremor and rigidity, not optic neuritis."
+        ]
+      },
+      {
+        "stem": "A client with multiple sclerosis is admitted for an acute exacerbation and started on high-dose IV methylprednisolone. Which laboratory values does the nurse monitor most closely?",
+        "options": [
+          "Blood glucose and serum potassium",
+          "Serum calcium and phosphate",
+          "Ammonia and INR",
+          "Amylase and lipase"
+        ],
+        "answer": 0,
+        "explanations": [
+          "High-dose corticosteroids raise blood glucose and can cause hypokalemia, so glucose and potassium are monitored during pulse therapy for an MS relapse. Anticipating these effects guides safe care.",
+          "Calcium and phosphate are parathyroid concerns, not the acute steroid monitoring priority.",
+          "Ammonia and INR relate to hepatic function, not corticosteroid therapy.",
+          "Amylase and lipase are pancreatic markers, not the focus here."
+        ]
+      },
+      {
+        "stem": "A client with multiple sclerosis has urinary retention with a large post-void residual. Which medication does the nurse anticipate to relieve outlet symptoms?",
+        "options": [
+          "Tamsulosin, an alpha-adrenergic antagonist",
+          "Oxybutynin, an anticholinergic",
+          "Baclofen, a muscle relaxant",
+          "Modafinil, a CNS stimulant"
+        ],
+        "answer": 0,
+        "explanations": [
+          "For retention from functional outlet obstruction or sphincter overactivity, an alpha-blocker such as tamsulosin relaxes the bladder neck to improve emptying. Matching the drug to the retention problem is the reasoning step.",
+          "Oxybutynin is an anticholinergic for overactive bladder/spasticity; it worsens retention.",
+          "Baclofen treats spasticity, not urinary outlet obstruction.",
+          "Modafinil treats MS-related fatigue, not bladder emptying."
+        ]
+      },
+      {
+        "stem": "A client is admitted with rapidly progressing weakness that began in the feet and is ascending up the legs, with loss of deep tendon reflexes. The client had a diarrheal illness two weeks ago. Which assessment is the nurse's priority?",
+        "options": [
+          "Serial monitoring of respiratory function and vital capacity",
+          "Assessment of long-term memory and orientation",
+          "Evaluation of resting tremor and rigidity",
+          "Inspection for a facial rash"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Ascending weakness with areflexia after a preceding infection is Guillain-Barre syndrome, which can progress to respiratory failure. Monitoring respiratory function and vital capacity to anticipate the need for ventilation is the priority.",
+          "Memory and orientation are dementia assessments, not the acute respiratory threat in GBS.",
+          "Tremor and rigidity point to Parkinson's, not GBS.",
+          "A facial rash is unrelated to GBS's respiratory risk."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing treatment for a client with Guillain-Barre syndrome. Which statement is accurate?",
+        "options": [
+          "There is no cure and no role for steroids; treatment is supportive plus IVIG or plasmapheresis",
+          "High-dose corticosteroids are the first-line treatment",
+          "The disease is treated with lifelong dopaminergic medication",
+          "Antibiotics cure the underlying demyelination"
+        ],
+        "answer": 0,
+        "explanations": [
+          "GBS has no cure and steroids are not helpful; management is supportive care with immune-modifying therapy — IVIG (best within two weeks) or plasmapheresis. Knowing steroids have no role is a key NCLEX point.",
+          "Steroids are explicitly not helpful in GBS, unlike in MS relapses.",
+          "Dopaminergic therapy is for Parkinson's, not GBS.",
+          "Antibiotics treat the preceding infection but do not reverse the autoimmune demyelination."
+        ]
+      },
+      {
+        "stem": "A client with myasthenia gravis is taking pyridostigmine. Which teaching point is most important for the nurse to emphasize?",
+        "options": [
+          "Take the medication on time and about 30 to 60 minutes before meals",
+          "Take the medication only when weakness becomes severe",
+          "Skip doses on days the client feels strong to avoid overdose",
+          "Crush and take the medication with a large protein meal"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Pyridostigmine has a short half-life and must be taken on schedule, and giving it 30-60 minutes before meals maximizes strength for chewing and swallowing. Consistent, on-time dosing prevents both under-treatment and swallowing difficulty.",
+          "It is a scheduled maintenance drug, not a PRN taken only for severe weakness.",
+          "Skipping doses leads to fluctuating weakness; timing, not feeling strong, guides dosing.",
+          "There is no requirement to crush it with a protein meal; timing before meals is the point."
+        ]
+      },
+      {
+        "stem": "A client with myasthenia gravis develops increased salivation, sweating, abdominal cramping, and diarrhea shortly after a medication change. The nurse suspects which problem?",
+        "options": [
+          "Cholinergic crisis from too much medication",
+          "Myasthenic crisis from too little medication",
+          "An allergic reaction to pyridostigmine",
+          "Diabetic ketoacidosis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Excess acetylcholine from overmedication produces cholinergic crisis — the SLUDGE picture of salivation, lacrimation, urination, diarrhea, GI cramping, and emesis. Distinguishing it from myasthenic crisis determines management.",
+          "Myasthenic crisis is under-medication and presents as worsening weakness, not cholinergic excess.",
+          "These are cholinergic-excess signs, not an allergic reaction.",
+          "DKA presents with hyperglycemia, ketones, and Kussmaul respirations, not the SLUDGE pattern."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client hospitalized in myasthenic crisis. Which newly ordered medication would the nurse question because it can worsen neuromuscular weakness?",
+        "options": [
+          "An aminoglycoside antibiotic",
+          "Scheduled acetaminophen",
+          "Subcutaneous heparin for prophylaxis",
+          "An oral stool softener"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Aminoglycosides impair neuromuscular transmission and can precipitate or worsen a myasthenic crisis, so the nurse questions that order. Recognizing the trigger medication protects the airway.",
+          "Acetaminophen is not a neuromuscular-blocking risk in myasthenia gravis.",
+          "Prophylactic heparin does not worsen neuromuscular transmission.",
+          "A stool softener has no effect on the neuromuscular junction."
+        ]
+      },
+      {
+        "stem": "A client with a spinal cord lesion has urinary retention. The provider orders bethanechol. Which finding would cause the nurse to hold the medication and clarify the order?",
+        "options": [
+          "A suspected bladder outlet obstruction",
+          "A post-void residual of 300 mL",
+          "A report of a weak urinary stream",
+          "A sensation of incomplete emptying"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bethanechol is a cholinergic agonist that increases detrusor contraction; giving it against a mechanical obstruction can be dangerous, so it is contraindicated with obstruction (and with peptic ulcer disease). The obstruction cue prompts holding and clarifying.",
+          "A high post-void residual is the reason bethanechol might be considered, not a contraindication.",
+          "A weak stream is a retention symptom the drug is meant to help.",
+          "Incomplete emptying is also a target symptom, not a reason to hold."
+        ]
+      },
+      {
+        "stem": "A nurse is preparing to administer oxybutynin to an older adult with urinary spasticity. Which nursing consideration is most important?",
+        "options": [
+          "Anticholinergics can worsen confusion, constipation, and fall risk in older adults",
+          "The drug must be taken on a completely empty stomach one hour before meals",
+          "The client should remain upright for 30 minutes after the dose",
+          "The client should avoid all foods containing tyramine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Oxybutynin is anticholinergic, and in older adults anticholinergics worsen confusion, constipation, and fall risk (the anticholinergic toxidrome), so it is used cautiously. This safety consideration guides monitoring.",
+          "The empty-stomach rule is a levothyroxine/alendronate concern, not oxybutynin.",
+          "Remaining upright 30 minutes is a bisphosphonate instruction, not relevant here.",
+          "Tyramine restriction applies to MAOIs, not anticholinergics."
+        ]
+      },
+      {
+        "stem": "A nurse cares for four clients. Which client should the nurse assess FIRST?",
+        "options": [
+          "A client with Guillain-Barre syndrome whose vital capacity has dropped over the last hour",
+          "A client with Parkinson's disease requesting help to the bathroom",
+          "A client with stable Alzheimer's disease asking the same question repeatedly",
+          "A client with multiple sclerosis reporting mild fatigue"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A falling vital capacity in GBS signals ascending weakness reaching the diaphragm and impending respiratory failure — an airway/breathing emergency that outranks the others. Recognizing the deteriorating cue drives the priority.",
+          "The Parkinson's client needs safe assistance but is stable; fall risk is managed, not emergent.",
+          "Repetitive questioning in stable Alzheimer's is expected and not urgent.",
+          "Mild MS fatigue is a chronic symptom, not an acute threat."
+        ]
+      },
+      {
+        "stem": "A nurse differentiates multiple sclerosis from Guillain-Barre syndrome for a group of students. Which statement is correct?",
+        "options": [
+          "MS is a chronic CNS demyelinating disease, while GBS is an acute demyelination of peripheral nerves",
+          "MS affects peripheral nerves, while GBS affects the central nervous system",
+          "Both are neuromuscular junction disorders caused by acetylcholine receptor antibodies",
+          "Both are movement disorders caused by dopamine loss"
+        ],
+        "answer": 0,
+        "explanations": [
+          "MS is chronic CNS demyelination (brain, cord, optic nerves); GBS is acute demyelination of peripheral nerves, usually post-infectious and ascending. Locating the lesion — CNS versus PNS — distinguishes them.",
+          "The locations are reversed: MS is CNS, GBS is PNS.",
+          "Neither is an NMJ/AChR-antibody disorder; that describes myasthenia gravis.",
+          "Neither is a dopamine-loss movement disorder; that is Parkinson's."
+        ]
+      },
+      {
+        "stem": "A client with Alzheimer's disease is prescribed memantine. The nurse recognizes this medication works by which mechanism?",
+        "options": [
+          "Blocking NMDA receptors to reduce glutamate excitotoxicity",
+          "Inhibiting acetylcholinesterase to raise acetylcholine",
+          "Replacing dopamine lost in the substantia nigra",
+          "Removing beta-amyloid plaque from the brain"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Memantine is an NMDA-receptor antagonist that reduces glutamate-mediated excitotoxicity in moderate-to-severe Alzheimer's disease. Knowing the mechanism separates it from the cholinesterase inhibitors.",
+          "Raising acetylcholine is the cholinesterase-inhibitor (donepezil) mechanism, not memantine's.",
+          "Dopamine replacement is the Parkinson's strategy, not an Alzheimer's one.",
+          "Amyloid removal is the monoclonal-antibody (lecanemab) mechanism, not memantine's."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with advanced Parkinson's disease. Which nursing diagnosis does the nurse prioritize?",
+        "options": [
+          "Risk for injury related to shuffling gait and postural instability",
+          "Risk for infection related to immunosuppression",
+          "Deficient fluid volume related to polyuria",
+          "Impaired gas exchange related to demyelination"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The shuffling gait, bradykinesia, and postural instability of Parkinson's make the client a high fall risk, so safety and injury prevention are the nursing priority. Matching the priority problem to the motor findings is the point.",
+          "Parkinson's does not cause immunosuppression; infection risk is not the primary concern.",
+          "Polyuria and fluid deficit are not core Parkinson features.",
+          "Impaired gas exchange from demyelination describes GBS/MS respiratory involvement, not Parkinson's."
+        ]
+      },
+      {
+        "stem": "A client with vascular dementia has a history of stroke, hypertension, and diabetes. Which goal does the nurse identify as the priority for slowing further cognitive decline?",
+        "options": [
+          "Preventing further strokes by managing modifiable risk factors",
+          "Increasing dopamine with carbidopa-levodopa",
+          "Starting lifelong plasmapheresis",
+          "Avoiding all cholinesterase inhibitors"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Vascular dementia is driven by cerebrovascular disease, so preventing further strokes — controlling blood pressure, glucose, lipids, and smoking — is the priority for limiting additional decline. Targeting the underlying vascular cause is the plan.",
+          "Dopamine replacement addresses Parkinson's motor symptoms, not vascular dementia progression.",
+          "Plasmapheresis is a GBS/immune therapy, not a vascular dementia treatment.",
+          "Cholinesterase inhibitors are not contraindicated; the priority is vascular risk reduction."
+        ]
+      },
+      {
+        "stem": "A nurse teaches the family of a client with Alzheimer's disease about promoting a consistent sleep-wake cycle. Which instruction is correct?",
+        "options": [
+          "Limit daytime napping and keep a consistent daily and toileting schedule",
+          "Encourage long afternoon naps to conserve energy",
+          "Keep the room brightly lit and noisy at night to prevent confusion",
+          "Reorient the client repeatedly through the night"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Limiting daytime napping, keeping a consistent routine and toileting schedule, and mimicking a calm familiar environment reduce sundowning and support the sleep-wake cycle. This is practical caregiver teaching.",
+          "Long naps worsen nighttime wakefulness and sundowning.",
+          "A bright, noisy room at night increases agitation, not calm.",
+          "Repeated nighttime reorientation disturbs sleep and increases distress in advanced dementia."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client and family about carbidopa-levodopa for Parkinson's disease. Which statements are appropriate to include? Select all that apply.",
+        "options": [
+          "Take the medication about 30 to 60 minutes before meals",
+          "Change positions slowly because the drug can cause orthostatic hypotension",
+          "Darkening of urine or sweat is a harmless expected effect",
+          "Stop the medication abruptly if symptoms worsen",
+          "Report new gambling or other uncontrollable urges to the provider"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—pre-meal timing improves absorption by limiting protein competition.",
+          "Correct—orthostatic hypotension is common, so slow position changes reduce fall risk.",
+          "Correct—dark urine and sweat are harmless and expected.",
+          "Incorrect—abruptly stopping levodopa can cause severe rigidity; do not stop without provider direction.",
+          "Correct—dopaminergic drugs can cause impulse-control disorders that should be reported."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse assesses a client with myasthenia gravis for signs of cholinergic crisis. Which findings support this conclusion? Select all that apply.",
+        "options": [
+          "Excessive salivation",
+          "Diarrhea and abdominal cramping",
+          "Diaphoresis",
+          "Dry mouth and urinary retention",
+          "Increased tearing (lacrimation)"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—excess salivation is part of the SLUDGE picture.",
+          "Correct—diarrhea and GI cramping reflect cholinergic excess.",
+          "Correct—diaphoresis accompanies cholinergic crisis.",
+          "Incorrect—dry mouth and urinary retention are anticholinergic (opposite) effects.",
+          "Correct—increased lacrimation is a cholinergic sign."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is caring for a client with Guillain-Barre syndrome. Which interventions are appropriate? Select all that apply.",
+        "options": [
+          "Monitor respiratory function and anticipate possible ventilation",
+          "Administer IVIG or prepare for plasmapheresis as ordered",
+          "Provide DVT prophylaxis due to immobility",
+          "Administer high-dose corticosteroids as first-line therapy",
+          "Manage neuropathic pain with agents such as gabapentin"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—respiratory monitoring anticipates the high risk of respiratory failure.",
+          "Correct—IVIG or plasmapheresis is the immune-modifying first-line treatment.",
+          "Correct—immobility raises DVT risk, so prophylaxis is appropriate.",
+          "Incorrect—steroids are not helpful in GBS and are not first-line.",
+          "Correct—neuropathic pain is managed with agents such as gabapentin or pregabalin."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with multiple sclerosis is started on a disease-modifying therapy such as natalizumab. Which teaching does the nurse prioritize?",
+        "options": [
+          "Practice good hand hygiene and report signs of infection such as a cough or fever",
+          "Expect the medication to cure the disease within a few weeks",
+          "Stop the medication as soon as symptoms improve",
+          "Avoid all foods containing tyramine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Disease-modifying immunomodulators and immunosuppressants raise infection risk and can cause infusion or anaphylactic reactions, so infection precautions — hand hygiene and reporting URI symptoms — are prioritized. Matching monitoring to the drug's immune effect guides safe care.",
+          "Disease-modifying therapies slow progression; they do not cure MS in weeks.",
+          "These are ongoing therapies, not stopped once symptoms improve.",
+          "Tyramine restriction applies to MAOIs, not MS disease-modifying therapies."
+        ]
+      }
+    ],
+    "final-endocrine": [
+      {
+        "stem": "A client's labs show a high TSH with a low free T4. The nurse interprets this pattern as consistent with which condition?",
+        "options": [
+          "Primary hypothyroidism",
+          "Primary hyperthyroidism",
+          "Secondary hypothyroidism from a pituitary problem",
+          "Normal thyroid function"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In primary hypothyroidism the thyroid gland fails, so T4 is low while the pituitary drives TSH up — the inverse TSH/T4 relationship that is the hallmark of a primary thyroid problem. Reading the pattern is the analyze-cues step.",
+          "Hyperthyroidism shows the opposite: low TSH with high T3/T4.",
+          "Secondary hypothyroidism from the pituitary shows low TSH with low T4, not a high TSH.",
+          "A high TSH with low T4 is abnormal, not normal thyroid function."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client newly prescribed levothyroxine. Which instruction is most important?",
+        "options": [
+          "Take it on an empty stomach in the morning, 30 to 60 minutes before food or other medications",
+          "Take it at bedtime with a calcium supplement",
+          "Take it with an antacid to prevent stomach upset",
+          "Take it only on days you feel tired"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Levothyroxine absorption is reduced by food and by many drugs, so it is taken on an empty stomach in the early morning, 30-60 minutes before food or other medications. This timing is the essential administration teaching.",
+          "Calcium at bedtime reduces absorption; calcium should be separated by about 4 hours.",
+          "Antacids decrease levothyroxine absorption and should be separated from it.",
+          "It is a daily replacement hormone, not a PRN taken only on tired days."
+        ]
+      },
+      {
+        "stem": "A client taking levothyroxine returns after 3 weeks reporting no symptom improvement and asks the nurse to request a dose increase. What is the nurse's best response?",
+        "options": [
+          "\"It takes about 6 to 8 weeks to see the full effect, so we recheck labs and symptoms then before adjusting.\"",
+          "\"I'll ask the provider to double your dose today so you feel better faster.\"",
+          "\"You should stop the medication since it clearly isn't working.\"",
+          "\"Take an extra pill on the days you feel most tired.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Levothyroxine takes roughly 6-8 weeks to reach steady effect, and TSH and symptoms are rechecked at that interval before adjusting. Teaching the client the timeline prevents premature, unsafe changes.",
+          "Doubling the dose at 3 weeks risks thyrotoxicosis before steady state is reached.",
+          "Stopping the lifelong replacement is unsafe and premature.",
+          "Extra PRN pills are not how this daily replacement is dosed."
+        ]
+      },
+      {
+        "stem": "A nurse reviews home medications for a client taking levothyroxine who reports it \"isn't working\" despite taking it daily. Which client statement best explains the poor response?",
+        "options": [
+          "\"I take it every morning at the same time as my calcium and iron supplements.\"",
+          "\"I take it with a full glass of water 45 minutes before breakfast.\"",
+          "\"I take it at the same time every day.\"",
+          "\"I have not missed a dose in a month.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Calcium and iron markedly reduce levothyroxine absorption and must be separated by about 4 hours; taking them together explains the poor response. The nurse should give administration teaching before any dose change.",
+          "Taking it with water before breakfast is correct technique and would not explain failure.",
+          "Consistent timing is appropriate and would support, not undermine, effectiveness.",
+          "Good adherence is a positive; it does not explain a poor response."
+        ]
+      },
+      {
+        "stem": "A client is prescribed methimazole for Graves' disease. Which symptom should the nurse teach the client to report to the provider immediately?",
+        "options": [
+          "Sore throat and fever",
+          "Mild weight gain",
+          "Slight drowsiness",
+          "Dry mouth"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Methimazole (and PTU) can cause agranulocytosis, so a sore throat and fever may signal a serious infection from loss of neutrophils and must be reported at once. Recognizing this early sign prevents a life-threatening complication.",
+          "Mild weight gain may accompany reduced thyroid activity and is not an emergency.",
+          "Slight drowsiness is not the agranulocytosis warning sign.",
+          "Dry mouth is not the priority symptom to report with this drug."
+        ]
+      },
+      {
+        "stem": "A client with long-standing hypothyroidism is brought in lethargic, hypothermic, bradycardic, with +4 non-pitting edema and shallow breathing. The nurse recognizes this as which emergency?",
+        "options": [
+          "Myxedema coma",
+          "Thyroid storm",
+          "Adrenal crisis",
+          "Diabetic ketoacidosis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Profound hypothyroidism can progress to myxedema coma — a medical emergency with a severely low metabolic rate, hypothermia, bradycardia, non-pitting edema, and respiratory depression requiring airway management and IV levothyroxine. Recognizing the deteriorating cue set is critical.",
+          "Thyroid storm is the hyperthyroid crisis — hyperthermia and tachycardia, the opposite picture.",
+          "Adrenal crisis features hypotension and hyperkalemia, not this hypothyroid picture.",
+          "DKA presents with hyperglycemia and Kussmaul breathing, not hypothermia and non-pitting edema."
+        ]
+      },
+      {
+        "stem": "A client being treated for hypothyroidism suddenly develops hyperthermia, tachycardia, agitation, and delirium after an infection. What is the nurse's priority action?",
+        "options": [
+          "Recognize thyroid storm and intervene immediately, notifying the provider",
+          "Reassure the client that these are expected hypothyroid symptoms",
+          "Hold all fluids and continue routine monitoring",
+          "Administer additional levothyroxine to raise the metabolic rate"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Thyroid storm is a rare, life-threatening worsening of a thyrotoxic state — hyperthermia, tachycardia, dysrhythmias, and delirium from catecholamine release — that can be fatal within 24 hours. Even in a client treated for hypothyroidism, these signs demand immediate intervention.",
+          "These are hyperthyroid crisis signs, not expected hypothyroid symptoms.",
+          "Passive monitoring is unsafe in a potentially fatal emergency.",
+          "More levothyroxine would worsen a thyrotoxic crisis, not help it."
+        ]
+      },
+      {
+        "stem": "A client is admitted after a total thyroidectomy. Which assessment finding should the nurse recognize as a sign of hypocalcemia from parathyroid injury?",
+        "options": [
+          "Muscle spasms with a positive Chvostek's sign",
+          "Bone pain and kidney stones",
+          "Warm, flushed skin",
+          "Deep, rapid respirations"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The parathyroid glands can be damaged during thyroid surgery, causing hypocalcemia; the low calcium produces neuromuscular irritability — muscle spasms, hyperreflexia, and a positive Chvostek's/Trousseau's sign. Connecting the postoperative context to the calcium cue is the point.",
+          "Bone pain and stones reflect hypercalcemia (hyperparathyroidism), the opposite problem.",
+          "Warm flushed skin is not a hypocalcemia sign.",
+          "Deep rapid breathing suggests a metabolic acidosis, not hypocalcemia from parathyroid injury."
+        ]
+      },
+      {
+        "stem": "A client with primary hyperparathyroidism is admitted. Which set of findings does the nurse expect?",
+        "options": [
+          "High calcium with kidney stones, bone pain, constipation, and confusion",
+          "Low calcium with muscle spasms and tetany",
+          "Low sodium with seizures and concentrated urine",
+          "High potassium with hyperpigmentation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Excess PTH raises calcium, producing the classic \"stones, bones, groans, thrones, and psychiatric overtones\": kidney stones, bone pain, constipation/weakness, polyuria, and confusion. Matching the hypercalcemia pattern is the analyze-cues step.",
+          "Low calcium with tetany is hypoparathyroidism, the opposite disorder.",
+          "Low sodium with seizures and concentrated urine describes SIADH.",
+          "High potassium with hyperpigmentation points to Addison's disease."
+        ]
+      },
+      {
+        "stem": "A client with chronic kidney disease develops secondary hyperparathyroidism. Which explanation does the nurse recognize as correct?",
+        "options": [
+          "Reduced vitamin D activation and phosphate retention lower calcium, driving PTH up",
+          "Excess dietary calcium directly stimulates PTH release",
+          "The parathyroid glands were surgically removed",
+          "High calcium suppresses PTH in these clients"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In CKD the kidneys retain phosphate and cannot activate vitamin D, so calcium falls and the parathyroids respond with sustained PTH release (secondary hyperparathyroidism), risking bone demineralization. Tracing the calcium-phosphate-PTH loop is the reasoning.",
+          "It is low calcium, not excess dietary calcium, that drives the PTH rise here.",
+          "The glands are intact and overactive, not removed.",
+          "Calcium is low in CKD, so PTH is elevated, not suppressed."
+        ]
+      },
+      {
+        "stem": "A client is admitted with a serum sodium of 122 mEq/L, low serum osmolality, concentrated urine, and no edema after a diagnosis of small cell lung cancer. Which condition does the nurse suspect?",
+        "options": [
+          "Syndrome of inappropriate antidiuretic hormone (SIADH)",
+          "Diabetes insipidus",
+          "Addison's disease",
+          "Diabetic ketoacidosis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Excess ADH (often from an ectopic tumor source) causes water retention with dilutional hyponatremia, low serum osmolality, concentrated urine, and euvolemia — SIADH, \"soaked inside.\" Linking the low sodium and concentrated urine to the cancer is the point.",
+          "Diabetes insipidus is too little ADH: polyuria, dilute urine, and hypernatremia — the opposite.",
+          "Addison's causes hyponatremia with hyperkalemia and hypotension, not concentrated urine from excess ADH.",
+          "DKA presents with hyperglycemia and ketosis, not dilutional hyponatremia."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with SIADH. Which intervention does the nurse anticipate?",
+        "options": [
+          "Fluid (water) restriction",
+          "Administering large volumes of hypotonic IV fluid",
+          "Encouraging free water intake",
+          "Administering desmopressin"
+        ],
+        "answer": 0,
+        "explanations": [
+          "SIADH is water excess with dilutional hyponatremia, so treatment restricts water (and may use hypertonic saline for severe hyponatremia). Restricting fluid targets the underlying excess.",
+          "Hypotonic fluid would worsen the dilutional hyponatremia.",
+          "Encouraging free water adds to the water excess.",
+          "Desmopressin is an ADH analog used in DI; it would worsen SIADH."
+        ]
+      },
+      {
+        "stem": "A client with diabetes insipidus is prescribed desmopressin. Which finding indicates the dose may be too high?",
+        "options": [
+          "Serum sodium of 126 mEq/L with headache and confusion",
+          "Serum sodium of 145 mEq/L with normal mentation",
+          "Increased urine output with dilute urine",
+          "Weight loss and increased thirst"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Desmopressin replaces ADH; too much causes water retention and dilutional hyponatremia — essentially SIADH-like effects. Falling sodium with headache and confusion signals overtreatment and the need to reassess the dose and fluid intake.",
+          "A normal sodium with normal mentation indicates appropriate dosing.",
+          "Increased dilute urine suggests too little effect (undertreatment), not too much.",
+          "Weight loss and thirst suggest ongoing DI, not desmopressin excess."
+        ]
+      },
+      {
+        "stem": "A nurse compares SIADH and diabetes insipidus for a student. Which statement is correct?",
+        "options": [
+          "SIADH causes low sodium and concentrated urine; DI causes high sodium and dilute urine",
+          "SIADH causes high sodium and dilute urine; DI causes low sodium and concentrated urine",
+          "Both cause identical sodium levels and urine concentration",
+          "Both are treated with water restriction"
+        ],
+        "answer": 0,
+        "explanations": [
+          "SIADH is too much ADH — water retained, low sodium, concentrated urine (\"soaked inside\"). DI is too little ADH — water lost, high sodium, dilute urine (\"dry inside\"). Contrasting the two prevents the classic mix-up.",
+          "The sodium and urine findings are reversed in this option.",
+          "The two are opposites, not identical.",
+          "DI is treated with fluid replacement and desmopressin, not water restriction."
+        ]
+      },
+      {
+        "stem": "A client on long-term prednisone for an autoimmune disease develops a round \"moon\" face, a fat pad on the upper back, truncal obesity with thin extremities, purple striae, and elevated blood glucose. The nurse recognizes this as which condition?",
+        "options": [
+          "Cushing's syndrome from exogenous glucocorticoids",
+          "Addison's disease from adrenal insufficiency",
+          "Primary hypothyroidism",
+          "Diabetes insipidus"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Long-term exogenous glucocorticoids are the most common cause of Cushing's syndrome: moon face, buffalo hump, truncal obesity, striae, and hyperglycemia from cortisol excess. Recognizing this pattern in a client on chronic steroids is the point.",
+          "Addison's is cortisol deficiency with weight loss and hyperpigmentation, the opposite picture.",
+          "Hypothyroidism causes weight gain and puffiness but not striae, buffalo hump, and hyperglycemia from cortisol excess.",
+          "Diabetes insipidus involves ADH and polyuria, not cortisol excess."
+        ]
+      },
+      {
+        "stem": "A client with Cushing's syndrome caused by long-term prednisone is ready to stop the medication. Which instruction is correct?",
+        "options": [
+          "The dose must be tapered gradually rather than stopped abruptly",
+          "Stop the medication immediately to reverse the syndrome",
+          "Double the dose for one week, then stop",
+          "Switch to taking the full dose only every other day without tapering"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Chronic exogenous steroids suppress the adrenal axis, so glucocorticoids must be tapered to let the adrenals resume cortisol production; abrupt cessation can precipitate an adrenal crisis. Teaching the taper prevents a dangerous complication.",
+          "Stopping abruptly risks acute adrenal insufficiency.",
+          "Doubling then stopping does not address the need for a gradual taper.",
+          "An unsupervised every-other-day full dose is not a safe substitute for a proper taper."
+        ]
+      },
+      {
+        "stem": "A client with Addison's disease is admitted with profound weakness, dehydration, hypotension (BP 82/50), and reports missing several doses of hydrocortisone. Labs show low sodium and high potassium. What is the nurse's priority?",
+        "options": [
+          "Recognize adrenal crisis and prepare to give IV fluids and IV hydrocortisone",
+          "Withhold all steroids until the potassium normalizes",
+          "Restrict fluids to correct the low sodium",
+          "Administer insulin to lower the potassium as the only intervention"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Missed cortisol replacement plus hypotension, dehydration, hyponatremia, and hyperkalemia is adrenal (Addisonian) crisis. Priority is IV fluids and IV hydrocortisone to restore volume and cortisol — a take-action response to a life-threatening deficiency.",
+          "Withholding steroids worsens the crisis; the client needs cortisol now.",
+          "The client is hypovolemic and hyponatremic from sodium loss; fluid restriction is wrong.",
+          "Potassium management may be needed, but IV fluids and hydrocortisone are the priority in adrenal crisis."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with Addison's disease about lifelong hydrocortisone therapy. Which instruction is most important?",
+        "options": [
+          "Increase the dose during times of physical or emotional stress and never stop abruptly",
+          "Stop the medication once you feel well",
+          "Take the medication only when symptoms appear",
+          "Restrict sodium intake to prevent fluid retention"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In Addison's the body cannot mount a cortisol response to stress, so the client must increase the dose during illness/stress and never stop abruptly (which risks adrenal crisis). This self-management teaching is life-saving.",
+          "Stopping when feeling well causes adrenal insufficiency; therapy is lifelong.",
+          "It is scheduled replacement, not a PRN taken only for symptoms.",
+          "Clients with Addison's often need increased, not restricted, sodium due to salt wasting."
+        ]
+      },
+      {
+        "stem": "A nurse contrasts Addison's disease and Cushing's syndrome. Which statement is accurate?",
+        "options": [
+          "Addison's produces mostly low values (except high potassium); Cushing's produces mostly high values (except low potassium)",
+          "Both conditions produce identical electrolyte patterns",
+          "Addison's causes hyperglycemia and weight gain; Cushing's causes hypoglycemia and weight loss",
+          "Cushing's causes hyperpigmentation and salt wasting; Addison's causes truncal obesity"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Addison's (cortisol deficiency) trends low — low sodium, low glucose, low BP — except potassium runs high; Cushing's (cortisol excess) trends high — high glucose, high sodium, high BP — except potassium runs low. This framing organizes the two.",
+          "Their electrolyte patterns are opposite, not identical.",
+          "The metabolic effects are reversed: Cushing's raises glucose and weight; Addison's lowers them.",
+          "Hyperpigmentation and salt wasting are Addison's; truncal obesity is Cushing's — this option swaps them."
+        ]
+      },
+      {
+        "stem": "A client is prescribed levothyroxine and also takes calcium carbonate and a proton pump inhibitor. Which instruction does the nurse give to protect levothyroxine absorption?",
+        "options": [
+          "Separate the calcium from levothyroxine by about 4 hours",
+          "Take all three medications together each morning",
+          "Take levothyroxine with the calcium to buffer the stomach",
+          "Stop the levothyroxine on days the calcium is taken"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Calcium reduces levothyroxine absorption, so the two are separated by about 4 hours. Teaching correct spacing preserves the effectiveness of the thyroid replacement.",
+          "Taking them together reduces levothyroxine absorption.",
+          "Taking levothyroxine with calcium is exactly what impairs absorption.",
+          "Stopping the thyroid replacement on calcium days is unsafe and unnecessary."
+        ]
+      },
+      {
+        "stem": "A client taking levothyroxine returns with new palpitations, heat intolerance, insomnia, weight loss, and a heart rate of 108. The nurse recognizes these as signs of what?",
+        "options": [
+          "Overdosing (thyrotoxic effects) from too much levothyroxine",
+          "Underdosing with worsening hypothyroidism",
+          "An expected response to correct dosing",
+          "A hypocalcemic reaction"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Levothyroxine overdose produces hyperthyroid (thyrotoxic) effects — tachycardia, heat intolerance, insomnia, and weight loss. Recognizing overtreatment prompts holding the dose and notifying the provider.",
+          "Underdosing would cause hypothyroid symptoms (fatigue, cold intolerance, weight gain), not these.",
+          "These are signs of excess, not a well-controlled response.",
+          "These are thyrotoxic effects, not signs of hypocalcemia."
+        ]
+      },
+      {
+        "stem": "A client with hyperthyroidism is scheduled for radioactive iodine ablation. Which long-term outcome should the nurse teach the client to expect?",
+        "options": [
+          "Lifelong thyroid hormone replacement because the gland will be destroyed",
+          "A rapid return to normal thyroid function with no medication",
+          "A permanent cure of all metabolic symptoms without follow-up",
+          "The need for lifelong methimazole after ablation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Destroying the thyroid with radioactive iodine leaves the client hypothyroid, requiring lifelong levothyroxine replacement. Setting this expectation supports adherence and follow-up.",
+          "Function does not simply normalize on its own; the client becomes hypothyroid.",
+          "It is not a no-follow-up cure; lifelong monitoring and replacement are needed.",
+          "Methimazole blocks synthesis in an intact gland; after ablation the need is replacement, not an antithyroid drug."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with hyperthyroidism (Graves' disease). Which pathophysiologic statement is correct?",
+        "options": [
+          "Autoantibodies stimulate the thyroid to overproduce T3 and T4 independent of TSH, so TSH is suppressed",
+          "The thyroid gland fails, causing high TSH and low T3 and T4",
+          "The pituitary stops producing TSH, lowering T3 and T4",
+          "Excess PTH drives the thyroid to overproduce hormone"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In Graves' disease, IgG autoantibodies bind TSH receptors and drive T3/T4 overproduction without pituitary stimulation, so feedback suppresses TSH — low TSH with high T3/T4. Understanding the autoimmune mechanism explains the lab pattern.",
+          "Gland failure with high TSH and low T3/T4 is hypothyroidism, the opposite.",
+          "Loss of pituitary TSH is a secondary hypothyroid mechanism, not Graves'.",
+          "PTH regulates calcium, not thyroid hormone production."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with hypothyroidism about levothyroxine and heart disease. Which point is most important for a client with known coronary artery disease?",
+        "options": [
+          "Report chest pain or palpitations, because increasing thyroid hormone raises heart rate and can stress the heart",
+          "Expect the medication to slow the heart rate significantly",
+          "The medication has no cardiac effects to monitor",
+          "Take the medication with nitroglycerin to protect the heart"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Levothyroxine raises metabolic rate and heart rate, which can provoke angina or dysrhythmias in cardiac disease, so it is used cautiously and the client reports chest pain or palpitations. Anticipating this cardiac caution guides safe titration.",
+          "Levothyroxine increases, not decreases, heart rate.",
+          "It has clear cardiac effects requiring monitoring in CAD.",
+          "There is no basis for co-administering nitroglycerin with each dose."
+        ]
+      },
+      {
+        "stem": "A client with hypoparathyroidism after neck surgery has a positive Trousseau's sign. Which treatment does the nurse anticipate?",
+        "options": [
+          "Calcium replacement",
+          "Administration of a phosphate binder alone",
+          "A loop diuretic to lower calcium",
+          "Radioactive iodine therapy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Hypoparathyroidism causes hypocalcemia (positive Chvostek's/Trousseau's), so treatment replaces calcium (and often activated vitamin D). Matching the low-calcium problem to calcium replacement is the plan.",
+          "A phosphate binder alone does not correct the low calcium causing the tetany.",
+          "A loop diuretic lowers calcium and would worsen hypocalcemia.",
+          "Radioactive iodine treats hyperthyroidism, not hypoparathyroid hypocalcemia."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client for signs of hypothyroidism. Which findings are consistent with this diagnosis? Select all that apply.",
+        "options": [
+          "Cold intolerance",
+          "Bradycardia",
+          "Weight gain",
+          "Heat intolerance and diaphoresis",
+          "Constipation"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—cold intolerance reflects the low metabolic rate.",
+          "Correct—bradycardia occurs because thyroid hormone normally upregulates cardiac beta receptors.",
+          "Correct—weight gain is expected with slowed metabolism.",
+          "Incorrect—heat intolerance and diaphoresis are hyperthyroid findings.",
+          "Correct—constipation reflects slowed GI motility."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is teaching a client about Addison's disease self-management. Which instructions are appropriate? Select all that apply.",
+        "options": [
+          "Take hydrocortisone daily and never stop it abruptly",
+          "Increase the dose during illness, surgery, or emotional stress",
+          "Report signs of adrenal crisis such as severe weakness, dizziness, and low blood pressure",
+          "Restrict sodium tightly to avoid fluid retention",
+          "Wear a medical alert identification"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—replacement is lifelong and stopping abruptly can trigger crisis.",
+          "Correct—stress dosing covers the body's inability to raise cortisol.",
+          "Correct—recognizing crisis symptoms allows early treatment.",
+          "Incorrect—Addison's causes salt wasting, so sodium is maintained or increased, not restricted.",
+          "Correct—medical-alert identification ensures emergency responders know about the steroid dependence."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse assesses a client with Cushing's syndrome. Which findings does the nurse expect? Select all that apply.",
+        "options": [
+          "Truncal obesity with thin extremities",
+          "Elevated blood glucose",
+          "Purple striae and easy bruising",
+          "Hyperpigmentation with weight loss",
+          "Increased risk of infection"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—truncal obesity with thin extremities is classic for cortisol excess.",
+          "Correct—cortisol raises blood glucose.",
+          "Correct—striae and easy bruising reflect thin, fragile skin.",
+          "Incorrect—hyperpigmentation with weight loss is Addison's disease, not Cushing's.",
+          "Correct—cortisol suppresses immunity, raising infection risk."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is caring for a pregnant client with hyperthyroidism prescribed an antithyroid medication such as propylthiouracil or methimazole. Which consideration is most important?",
+        "options": [
+          "Antithyroid drugs cross the placenta and into breast milk, so the specific agent and dose are chosen carefully",
+          "Antithyroid drugs are completely safe in any amount during pregnancy",
+          "The client should also receive radioactive iodine during pregnancy",
+          "Antithyroid drugs increase thyroid hormone production"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Methimazole and PTU cross the placenta and enter breast milk and can affect the fetal or infant thyroid, so agent selection and dosing are individualized in pregnancy and lactation. Anticipating this risk guides safe prescribing.",
+          "They are not unconditionally safe; placental transfer requires careful dosing.",
+          "Radioactive iodine is contraindicated in pregnancy because it would destroy the fetal thyroid.",
+          "Antithyroid drugs block hormone synthesis; they do not increase production."
+        ]
+      },
+      {
+        "stem": "A client with Cushing's syndrome from an adrenal tumor is started on ketoconazole to lower cortisol before surgery. Which lab does the nurse monitor most closely?",
+        "options": [
+          "Liver enzymes, because ketoconazole can cause hepatotoxicity",
+          "Serum potassium, because it causes hyperkalemia",
+          "Serum calcium, because it causes hypercalcemia",
+          "Serum ammonia, because it causes encephalopathy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Ketoconazole inhibits adrenal cortisol synthesis but can be hepatotoxic, so liver enzymes are monitored during therapy. Linking the drug's adverse effect to the monitored lab is the reasoning.",
+          "Hyperkalemia is not the characteristic ketoconazole concern.",
+          "Hypercalcemia is not the key monitoring issue with ketoconazole.",
+          "Ammonia and encephalopathy are not the primary ketoconazole toxicity monitored here."
+        ]
+      }
+    ],
+    "final-repro-bone": [
+      {
+        "stem": "A nurse is teaching a client newly prescribed weekly oral alendronate for osteoporosis. Which instruction is most important?",
+        "options": [
+          "Take it with a full glass of water on an empty stomach and remain upright for at least 30 minutes",
+          "Take it at bedtime with a snack to prevent nausea",
+          "Lie down for 30 minutes after taking it to aid absorption",
+          "Crush the tablet and mix it into applesauce if swallowing is hard"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bisphosphonates can cause esophagitis and esophageal ulceration, so alendronate is taken with a full glass of water on an empty stomach and the client stays upright for at least 30 minutes to keep the pill moving through the esophagus. This safety teaching prevents the key complication.",
+          "Taking it at bedtime with food defeats absorption and lets the client lie down, raising esophagitis risk.",
+          "Lying down increases the risk of esophageal irritation — the client must stay upright.",
+          "Crushing or chewing increases mucosal contact and irritation; tablets are swallowed whole."
+        ]
+      },
+      {
+        "stem": "A client reports chest pain and took sildenafil about 20 hours ago for erectile dysfunction. The emergency provider considers nitroglycerin for the pain. What is the nurse's priority action?",
+        "options": [
+          "Alert the provider that nitrates are contraindicated within 24 hours of sildenafil due to the risk of severe hypotension",
+          "Administer the nitroglycerin immediately as ordered",
+          "Give the client another dose of sildenafil to relieve the chest pain",
+          "Delay all treatment until sildenafil fully clears in 48 hours"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Sildenafil potentiates the hypotensive effect of nitrates; giving nitroglycerin within 24 hours of sildenafil can cause profound, dangerous hypotension. The nurse must flag this interaction before the nitrate is given — a medication-safety catch.",
+          "Giving the nitrate now risks life-threatening hypotension because of the recent sildenafil.",
+          "More sildenafil does not treat cardiac chest pain and compounds the hypotension risk.",
+          "Care cannot simply be delayed for chest pain; the team needs safe alternatives while respecting the interaction window."
+        ]
+      },
+      {
+        "stem": "A client taking sildenafil calls the clinic reporting an erection that has lasted more than 4 hours and is painful. What is the nurse's best response?",
+        "options": [
+          "\"This is priapism, a medical emergency — seek immediate care to prevent permanent tissue damage.\"",
+          "\"This is an expected effect; it will resolve on its own within a day.\"",
+          "\"Take another dose of sildenafil to help it subside.\"",
+          "\"Apply heat and wait 24 hours before seeking care.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "An erection lasting more than 4 hours is priapism, an emergency; untreated it causes ischemic penile tissue damage and permanent loss of function, so the client needs immediate care. Recognizing the emergency drives urgent action.",
+          "Priapism is not benign and does not simply self-resolve safely.",
+          "More sildenafil would worsen it.",
+          "Delaying care risks permanent tissue damage."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client and their pregnant partner about finasteride prescribed for benign prostatic hyperplasia. Which instruction is most important?",
+        "options": [
+          "The pregnant partner should not handle the tablets, and the client should not donate blood while taking it",
+          "The client should expect improved urine flow within 24 hours",
+          "The medication should be stopped as soon as symptoms improve",
+          "The pregnant partner may safely crush the tablets to help with dosing"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Finasteride can harm a developing fetus, so pregnant persons should not handle the tablets (nurses wear gloves), and the client should not donate blood while on it. The drug also takes months to improve urine flow. This safety teaching protects the fetus.",
+          "Finasteride shrinks the prostate slowly — improvement takes months, not 24 hours.",
+          "It is a long-term therapy; stopping when symptoms improve reverses the benefit.",
+          "A pregnant partner should avoid handling the tablets entirely, not crush them."
+        ]
+      },
+      {
+        "stem": "A client starting tamsulosin for benign prostatic hyperplasia asks about side effects. Which teaching is most important for safety?",
+        "options": [
+          "Change positions slowly because the drug can cause orthostatic hypotension and dizziness",
+          "Expect the urine to turn bright orange",
+          "Take the drug only when urinary symptoms are severe",
+          "Avoid all foods containing tyramine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Tamsulosin is an alpha-1 blocker that relaxes smooth muscle and can cause orthostatic hypotension and dizziness, especially with the first dose, so the client changes positions slowly to prevent falls. This is the priority safety teaching.",
+          "Bright orange urine is associated with other drugs (e.g., phenazopyridine), not tamsulosin.",
+          "It is taken regularly for ongoing symptom control, not only when severe.",
+          "Tyramine restriction applies to MAOIs, not alpha-blockers."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client taking oral calcium carbonate. Which instruction promotes the best absorption?",
+        "options": [
+          "Take calcium carbonate with meals, since it needs an acidic environment",
+          "Take it on a completely empty stomach for best effect",
+          "Take it together with the client's proton pump inhibitor",
+          "Take it at the same time as levothyroxine each morning"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Calcium carbonate requires stomach acid to dissolve, so it is taken with meals; acid-suppressing drugs reduce its absorption. Matching the formulation to correct timing optimizes benefit.",
+          "Carbonate needs acid, so an empty stomach is not ideal (that suits calcium citrate).",
+          "Taking it with a PPI reduces absorption because carbonate needs an acidic environment.",
+          "Calcium reduces levothyroxine absorption; the two should be separated by about 4 hours."
+        ]
+      },
+      {
+        "stem": "A 30-year-old who smokes one pack of cigarettes daily asks about starting a combined estrogen-progestin oral contraceptive. Which concern does the nurse prioritize teaching?",
+        "options": [
+          "Smoking combined with estrogen-containing contraception significantly raises the risk of dangerous blood clots",
+          "Smoking makes the contraceptive completely ineffective",
+          "The client must stop the contraceptive if they gain any weight",
+          "Combined contraceptives are only used to treat acne, not for pregnancy prevention"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Estrogen-containing contraception raises thromboembolic risk, and smoking compounds it, so the nurse prioritizes teaching this clot risk. Recognizing the interaction guides safer contraceptive counseling.",
+          "Smoking does not make the pill ineffective; the concern is the added clot risk.",
+          "Weight gain alone is not the reason to stop the pill.",
+          "Combined contraceptives prevent pregnancy; treating acne is a secondary benefit."
+        ]
+      },
+      {
+        "stem": "A client requests emergency contraception 4 days (about 96 hours) after unprotected intercourse. Which option does the nurse recognize as effective this far out?",
+        "options": [
+          "Ulipristal (Ella), effective up to 120 hours after intercourse",
+          "Levonorgestrel (Plan B), most effective within 72 hours",
+          "A combined estrogen-progestin daily pill started next cycle",
+          "Finasteride taken once now"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Ulipristal (Ella) is effective up to 120 hours (5 days) after intercourse, so it fits a 96-hour window; levonorgestrel is most effective within 72 hours. A copper IUD is also an option within a few days. Matching the timing to the agent is the point.",
+          "Levonorgestrel's window is best within 72 hours, so it is less ideal at 96 hours.",
+          "A routine daily pill started next cycle is not emergency contraception.",
+          "Finasteride is a BPH drug, not a contraceptive."
+        ]
+      },
+      {
+        "stem": "A client on testosterone therapy returns for routine labs. Which result requires the nurse to notify the provider?",
+        "options": [
+          "Hematocrit of 58% (elevated), consistent with polycythemia",
+          "Hemoglobin of 14 g/dL",
+          "Serum sodium of 139 mEq/L",
+          "A normal fasting glucose"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Testosterone stimulates red cell production and can cause polycythemia, raising clot and stroke risk, so an elevated hematocrit is monitored on the CBC and reported. Recognizing this evaluation cue protects the client.",
+          "A normal hemoglobin is reassuring, not a concern.",
+          "A normal sodium does not require notification.",
+          "A normal glucose is expected and not the monitoring priority here."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client applying transdermal testosterone gel. Which instruction is correct?",
+        "options": [
+          "Apply the gel to the upper arms or shoulders, not to the scrotum, and let it dry before dressing",
+          "Apply the gel directly to the scrotum for best absorption",
+          "Allow young children to touch the application site freely",
+          "Apply the gel to broken or irritated skin to speed absorption"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Testosterone gel is applied to intact skin such as the shoulders/upper arms (not the scrotum or bony areas), allowed to dry, and kept covered to prevent transfer to others, especially children. This administration teaching prevents harm.",
+          "The gel is not applied to the scrotum.",
+          "Skin-to-skin transfer can virilize children, so contact with the site must be prevented.",
+          "Applying to broken or irritated skin is unsafe and alters absorption."
+        ]
+      },
+      {
+        "stem": "A transgender woman on feminizing hormone therapy is at increased risk for venous thromboembolism. Which estrogen route does the nurse recognize as preferred to lower this risk?",
+        "options": [
+          "Transdermal estradiol",
+          "High-dose oral ethinyl estradiol",
+          "Conjugated equine estrogens by mouth",
+          "Intramuscular estradiol at supratherapeutic doses"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Transdermal estradiol avoids first-pass metabolism and carries a lower thromboembolic risk, so it is preferred in clients at higher VTE risk; ethinyl estradiol and conjugated equine estrogens raise clot risk and are avoided. Matching the route to the risk is the reasoning.",
+          "Ethinyl estradiol increases thromboembolic risk and is specifically avoided.",
+          "Conjugated equine estrogens also raise clot risk and are not preferred.",
+          "Supratherapeutic IM dosing does not lower and can raise VTE risk."
+        ]
+      },
+      {
+        "stem": "A transgender woman on estradiol plus spironolactone undergoes orchiectomy. Which change to her regimen does the nurse anticipate?",
+        "options": [
+          "Continue estradiol and discontinue spironolactone",
+          "Discontinue estradiol and continue spironolactone",
+          "Discontinue both medications permanently",
+          "Double both medications after surgery"
+        ],
+        "answer": 0,
+        "explanations": [
+          "After orchiectomy the testosterone-producing gonads are removed, so the anti-androgen (spironolactone) is no longer needed and is stopped, while estradiol is continued for feminization and bone health. Understanding the rationale guides the medication change.",
+          "Estradiol is continued, not stopped; feminization and bone protection still require it.",
+          "The anti-androgen becomes unnecessary once the gonads are removed.",
+          "Doubling both is not indicated by the surgery."
+        ]
+      },
+      {
+        "stem": "A nurse reviews risk factors for osteoporosis. Which client is at highest risk?",
+        "options": [
+          "A 68-year-old postmenopausal woman who smokes and has taken long-term glucocorticoids",
+          "A 30-year-old man who does weight-bearing exercise",
+          "A 45-year-old woman with adequate calcium and vitamin D intake",
+          "A 25-year-old with a high peak bone mass"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Postmenopausal estrogen loss, older age, smoking, and long-term glucocorticoids all accelerate bone loss, making this client highest risk. Recognizing the stacked risk factors identifies who needs prevention and screening.",
+          "Weight-bearing exercise and younger age are protective, not high-risk.",
+          "Adequate calcium and vitamin D intake reduces risk.",
+          "A high peak bone mass is protective against osteoporosis."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching about erectile dysfunction as a health indicator. Which statement reflects the high-yield teaching point?",
+        "options": [
+          "Erectile dysfunction can be an early marker of cardiovascular disease due to shared endothelial dysfunction",
+          "Erectile dysfunction is always purely psychological",
+          "Erectile dysfunction never requires any further medical evaluation",
+          "Erectile dysfunction only occurs in men over 70"
+        ],
+        "answer": 0,
+        "explanations": [
+          "ED shares endothelial-dysfunction mechanisms with cardiovascular disease and can be an early warning sign, so it warrants evaluation of cardiovascular risk. Framing ED this way is the emphasized point.",
+          "ED has vascular, neurologic, hormonal, and medication causes — not only psychological ones.",
+          "ED can signal underlying disease and does warrant evaluation.",
+          "ED occurs across adulthood, not only after 70."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with benign prostatic hyperplasia. Which pathophysiologic statement is correct?",
+        "options": [
+          "Androgen-driven prostate growth compresses the urethra and raises smooth-muscle tone, causing bladder outlet obstruction",
+          "It is a malignant tumor of the peripheral zone of the prostate",
+          "It results from autoimmune destruction of the bladder wall",
+          "It is caused by a deficiency of dihydrotestosterone"
+        ],
+        "answer": 0,
+        "explanations": [
+          "BPH is non-malignant, androgen (DHT)-driven enlargement of the transitional zone that compresses the urethra (static) and increases alpha-adrenergic smooth-muscle tone (dynamic), producing outlet obstruction and lower urinary tract symptoms. This explains why alpha-blockers and 5-alpha-reductase inhibitors help.",
+          "A peripheral-zone malignancy describes prostate cancer, not BPH.",
+          "BPH is not autoimmune bladder-wall destruction.",
+          "BPH is driven by DHT excess effect on the prostate, not a DHT deficiency."
+        ]
+      },
+      {
+        "stem": "A client is prescribed calcitriol for hypocalcemia related to chronic kidney disease. The nurse understands calcitriol is used because it:",
+        "options": [
+          "Is the active form of vitamin D that does not require kidney activation",
+          "Binds phosphate in the gut to lower phosphorus",
+          "Blocks osteoclast-mediated bone resorption",
+          "Provides elemental calcium directly for bone mineralization"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In CKD the kidneys cannot convert vitamin D to its active form, so calcitriol (the already-active form) is used to raise calcium absorption. Matching the drug to the failed activation step is the reasoning.",
+          "Phosphate binding in the gut is the role of calcium acetate, not calcitriol.",
+          "Blocking osteoclast resorption describes bisphosphonates.",
+          "Providing elemental calcium describes calcium supplements, not activated vitamin D."
+        ]
+      },
+      {
+        "stem": "A client taking a bisphosphonate for several years reports a new, dull mid-thigh ache. Which complication should the nurse consider?",
+        "options": [
+          "Atypical femur fracture associated with long-term bisphosphonate use",
+          "Expected muscle soreness that needs no evaluation",
+          "A normal effect of improved bone density",
+          "Esophageal irritation from the tablet"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Long-term bisphosphonate therapy is linked to atypical femur fractures, which can present as new thigh or groin pain, so the nurse recognizes the cue and reports it for evaluation. Anticipating this complication prevents a completed fracture.",
+          "New persistent thigh pain on long-term therapy should not be dismissed as ordinary soreness.",
+          "It is a potential complication, not a benign sign of better density.",
+          "Esophageal irritation causes heartburn or dysphagia, not thigh pain."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about finasteride's expected therapeutic effect for BPH. Which statement indicates correct understanding?",
+        "options": [
+          "\"It shrinks my prostate over several months, so my urine flow should gradually improve.\"",
+          "\"It should relax my bladder muscles and improve my flow within a day.\"",
+          "\"It cures prostate cancer as well as my BPH.\"",
+          "\"I can stop it once my symptoms improve and expect them to stay better.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Finasteride, a 5-alpha-reductase inhibitor, shrinks the prostate by blocking conversion of testosterone to DHT, so urine flow improves gradually over months. Understanding the slow onset sets realistic expectations.",
+          "Rapid smooth-muscle relaxation describes alpha-blockers like tamsulosin, not finasteride.",
+          "Finasteride treats BPH and male-pattern baldness; it is not a prostate cancer cure.",
+          "Stopping it reverses the benefit; it is ongoing therapy."
+        ]
+      },
+      {
+        "stem": "A nurse reviews the mechanism of combined hormonal contraceptives. Which effect is a primary way they prevent pregnancy?",
+        "options": [
+          "Suppressing pituitary FSH and LH to prevent ovulation",
+          "Blocking sperm production in the client",
+          "Destroying an implanted embryo",
+          "Increasing menstrual blood loss to flush the uterus"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Combined hormonal contraceptives suppress pituitary FSH and LH to prevent ovulation (and also thicken cervical mucus and thin the endometrium). Knowing the primary mechanism supports accurate teaching.",
+          "They do not block sperm production in the client taking them.",
+          "They prevent ovulation/fertilization and implantation; they are not abortifacients of an implanted embryo.",
+          "They reduce, not increase, menstrual blood loss."
+        ]
+      },
+      {
+        "stem": "A nurse is monitoring a client using anabolic steroids without a prescription. Which finding is the nurse most concerned about long-term?",
+        "options": [
+          "Increased risk of myocardial infarction and stroke",
+          "Temporary acne on the face and back",
+          "Mild increase in appetite",
+          "Slight water retention"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Anabolic steroids raise cardiovascular risk — elevated LDL, hypertension, cardiomegaly — increasing the risk of MI and stroke, the most serious long-term harm. Prioritizing the deadliest effect guides teaching and monitoring.",
+          "Acne is a bothersome but minor effect compared with cardiovascular risk.",
+          "Increased appetite is not a dangerous long-term outcome.",
+          "Water retention is a comparatively minor concern."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client taking a bisphosphonate about a rare but serious oral complication. Which instruction is appropriate?",
+        "options": [
+          "Maintain good oral hygiene and inform the dentist you take this drug, because of osteonecrosis of the jaw risk",
+          "Expect the gums to bleed heavily as a normal effect",
+          "Avoid brushing your teeth while taking the medication",
+          "Stop the medication before any dental cleaning without telling the provider"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bisphosphonates carry a small risk of osteonecrosis of the jaw, higher with dental procedures, so good oral hygiene and informing the dentist are appropriate. This teaching reduces the risk of the complication.",
+          "Heavy gum bleeding is not a normal expected effect.",
+          "Good oral hygiene, including brushing, is encouraged, not avoided.",
+          "The client should not stop the drug on their own; changes are provider-directed."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client taking spironolactone as an anti-androgen. Which lab does the nurse monitor because of the drug's mechanism?",
+        "options": [
+          "Serum potassium, because spironolactone is a potassium-sparing aldosterone antagonist",
+          "Serum calcium, because it causes hypercalcemia",
+          "Blood glucose, because it causes hyperglycemia",
+          "Ammonia, because it is hepatotoxic"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Spironolactone is a potassium-sparing aldosterone antagonist, so it can raise potassium, making serum potassium the key lab to monitor. Linking the mechanism to the monitored value is the reasoning.",
+          "It does not cause hypercalcemia; calcium is not the monitoring priority.",
+          "Hyperglycemia is not its characteristic effect.",
+          "Hepatotoxicity with ammonia monitoring is associated with bicalutamide, not spironolactone's main concern."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching about postmenopausal osteoporosis. Which statement about the underlying pathophysiology is correct?",
+        "options": [
+          "Estrogen loss removes a brake on osteoclast activity, so bone resorption outpaces formation",
+          "Excess estrogen drives osteoblasts to overbuild dense bone",
+          "High calcium intake causes bone to break down faster",
+          "Weight-bearing exercise accelerates bone loss"
+        ],
+        "answer": 0,
+        "explanations": [
+          "After menopause, falling estrogen unleashes RANKL-driven osteoclast activity, so resorption outpaces formation and bone density falls. Understanding this mechanism explains why estrogen loss is the key risk driver.",
+          "It is estrogen loss, not excess, that leads to bone loss.",
+          "Adequate calcium supports bone; it does not accelerate breakdown.",
+          "Weight-bearing exercise builds bone and is protective."
+        ]
+      },
+      {
+        "stem": "A client taking sildenafil reports sudden decreased vision in one eye. What is the nurse's best action?",
+        "options": [
+          "Tell the client to stop the medication and seek immediate evaluation",
+          "Reassure the client that blue-tinged vision is expected and harmless",
+          "Advise taking the next dose with food to reduce the effect",
+          "Recommend an over-the-counter antihistamine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Sudden vision loss (and sudden hearing loss) are serious adverse effects of sildenafil that require stopping the drug and immediate evaluation. Distinguishing this from the benign transient blue-tinge effect is the safety point.",
+          "Sudden vision loss is not the same as the benign blue-tinge color change and is not harmless.",
+          "Taking it with food does not address a serious visual adverse effect.",
+          "An antihistamine does not treat drug-induced vision loss."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a transgender man starting masculinizing testosterone therapy about monitoring. Which parameters does the nurse emphasize?",
+        "options": [
+          "CBC (for polycythemia), lipids, and mood changes",
+          "Serum ammonia and INR",
+          "Thyroid-stimulating hormone weekly",
+          "24-hour urine cortisol monthly"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Testosterone can cause polycythemia, alter lipids, and affect mood, so the CBC, lipid panel, and mood are monitored on masculinizing therapy. Matching monitoring to the drug's known effects guides safe care.",
+          "Ammonia and INR are hepatic-function tests, not the routine testosterone monitoring set.",
+          "Weekly TSH is not the testosterone monitoring priority.",
+          "24-hour urine cortisol is a Cushing's workup, unrelated to testosterone therapy."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client about safe administration of weekly oral alendronate. Which instructions are appropriate? Select all that apply.",
+        "options": [
+          "Take it first thing in the morning with a full glass of plain water",
+          "Remain upright (sitting or standing) for at least 30 minutes",
+          "Do not eat, drink, or take other medications for at least 30 minutes",
+          "Lie down immediately after taking it to help absorption",
+          "Report new or worsening heartburn or difficulty swallowing"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—plain water on an empty stomach maximizes absorption and reduces irritation.",
+          "Correct—staying upright keeps the pill moving and protects the esophagus.",
+          "Correct—delaying food and other meds prevents impaired absorption.",
+          "Incorrect—lying down raises the risk of esophagitis and ulceration.",
+          "Correct—heartburn or dysphagia may signal esophageal injury and should be reported."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse reviews contraindications and cautions for sildenafil. Which findings would cause the nurse to question its use? Select all that apply.",
+        "options": [
+          "Use of nitroglycerin within the last 24 hours",
+          "A myocardial infarction one month ago",
+          "Concurrent use of an alpha-blocker for BPH",
+          "A well-controlled blood pressure of 122/78",
+          "A history of priapism-predisposing conditions such as sickle cell anemia"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—nitrates within 24 hours risk severe hypotension.",
+          "Correct—a recent MI is a cardiovascular caution for sildenafil.",
+          "Correct—alpha-blockers add to the hypotensive effect.",
+          "Incorrect—a normal, controlled blood pressure is not a contraindication.",
+          "Correct—conditions predisposing to priapism raise the risk of a prolonged erection."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse monitors a transgender woman on feminizing hormone therapy. Which assessments and labs are appropriate? Select all that apply.",
+        "options": [
+          "Monitor for signs of venous thromboembolism such as calf pain or swelling",
+          "Assess smoking status because it compounds clot risk",
+          "Monitor serum potassium if she is taking spironolactone",
+          "Monitor for polycythemia as the main hematologic risk of estrogen",
+          "Monitor cardiac status and lipids"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—estrogen raises VTE risk, so signs of clots are monitored.",
+          "Correct—smoking compounds the thromboembolic risk.",
+          "Correct—spironolactone can raise potassium.",
+          "Incorrect—polycythemia is a testosterone (masculinizing) risk, not an estrogen one.",
+          "Correct—cardiac status and lipids are part of feminizing-therapy monitoring."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client seeks the most effective emergency contraception and can present within a few days of unprotected intercourse. Which option does the nurse identify as both highly effective and providing ongoing contraception?",
+        "options": [
+          "A copper intrauterine device inserted within a few days",
+          "A single dose of finasteride",
+          "A daily prenatal vitamin",
+          "An over-the-counter antihistamine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A copper IUD placed within a few days of intercourse is highly effective emergency contraception and continues to provide contraception afterward. Matching the client's goal to the method is the point.",
+          "Finasteride is a BPH drug, not a contraceptive.",
+          "A prenatal vitamin does not prevent pregnancy.",
+          "An antihistamine has no contraceptive effect."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client prescribed testosterone therapy. Which statement reflects correct understanding of its risks and controlled status?",
+        "options": [
+          "\"It is a controlled substance with potential for abuse, and I'll have my blood counts and liver checked.\"",
+          "\"It has no potential for misuse, so my refills are unlimited.\"",
+          "\"It thins my blood, so I'm at higher risk of bleeding.\"",
+          "\"It lowers my red blood cell count, so I may need iron.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Testosterone is a Schedule III controlled substance with abuse and dependence potential and can cause polycythemia and hepatotoxicity, so CBC and liver function are monitored. Understanding both the controlled status and the labs guides safe use.",
+          "Testosterone has recognized misuse potential and controlled-substance status.",
+          "It raises red cell mass (polycythemia), a clot risk, rather than thinning the blood.",
+          "It increases, not lowers, red blood cell production."
+        ]
+      }
+    ],
+    "final-mental-health": [
+      {
+        "stem": "A client returns to the clinic 3 weeks after starting a selective serotonin reuptake inhibitor (SSRI) for major depression, reporting they still feel depressed and worry it isn't working, though they take it daily. Which response by the nurse is most appropriate?",
+        "options": [
+          "\"It often takes 4 to 8 weeks to feel the full effect, so continuing your current dose a bit longer is expected.\"",
+          "\"Since you have no improvement, you should stop and switch to a different class.\"",
+          "\"You'll need to double your dose to reach a therapeutic blood level.\"",
+          "\"It sounds like antidepressants aren't for you — try exercise instead.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Antidepressants have a delayed onset — initial response in 1-3 weeks, full effect up to several weeks — so at 3 weeks with good adherence, continuing the current dose and reassessing is correct. Teaching the timeline prevents premature discontinuation.",
+          "Abandoning treatment at 3 weeks is premature before the drug has had time to work.",
+          "SSRIs are not titrated to a blood level, and doubling now is not indicated.",
+          "Dismissing pharmacologic treatment undermines adherence when the drug simply needs more time."
+        ]
+      },
+      {
+        "stem": "A 24-year-old taking fluoxetine is brought to the emergency department after taking an over-the-counter cough medicine containing dextromethorphan. The nurse suspects serotonin syndrome. Which finding supports this?",
+        "options": [
+          "Hyperreflexia and clonus with agitation and diaphoresis",
+          "Lead-pipe rigidity with a slowly rising fever over several days",
+          "Pinpoint pupils and slowed bowel sounds",
+          "Bradycardia and cool, dry skin"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Serotonin syndrome has a rapid onset with neuromuscular excitation (hyperreflexia, clonus), autonomic instability (diaphoresis, hyperthermia, tachycardia), and altered mental status (agitation) — dextromethorphan is a classic serotonergic trigger. These cues distinguish it from NMS.",
+          "Lead-pipe rigidity with a slow-onset fever is neuroleptic malignant syndrome from dopamine blockade, not serotonin syndrome.",
+          "Serotonin syndrome causes hyperactive bowel sounds and dilated pupils, not pinpoint pupils and slowed bowel sounds.",
+          "It causes tachycardia and diaphoresis, not bradycardia with cool, dry skin."
+        ]
+      },
+      {
+        "stem": "A nurse contrasts serotonin syndrome and neuroleptic malignant syndrome (NMS). Which statement is correct?",
+        "options": [
+          "Serotonin syndrome has rapid onset with hyperreflexia and clonus; NMS has slower onset with lead-pipe rigidity",
+          "Both are caused by too much dopamine at the receptor",
+          "NMS has rapid onset with clonus; serotonin syndrome has lead-pipe rigidity",
+          "Both are treated by increasing the causative medication"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Serotonin syndrome comes on within hours with hyperreflexia and clonus from excess serotonergic activity; NMS develops over days with lead-pipe rigidity from dopamine blockade. Both are treated by stopping the causative drug and supportive care.",
+          "Serotonin syndrome is from excess serotonin; NMS is from dopamine blockade — not both from dopamine.",
+          "The features are reversed here: clonus is serotonin syndrome, rigidity is NMS.",
+          "Both require stopping, not increasing, the causative medication."
+        ]
+      },
+      {
+        "stem": "A client with bipolar disorder taking lithium is admitted with vomiting and diarrhea from a viral illness. Why does the nurse recognize this raises the client's risk for lithium toxicity?",
+        "options": [
+          "Fluid and sodium loss make the kidneys reabsorb more lithium, raising the level",
+          "Dehydration dilutes the lithium level, causing symptoms",
+          "Illness increases lithium metabolism in the liver",
+          "Vomiting increases lithium binding to plasma proteins"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Lithium and sodium are handled alike by the kidney; when sodium and fluid are lost, the kidney reabsorbs more lithium, pushing the level toward toxicity. Anticipating this from the fluid-loss cue prevents a dangerous rise.",
+          "Dehydration concentrates, rather than dilutes, the lithium level.",
+          "Lithium is renally excreted, not hepatically metabolized.",
+          "Lithium is not highly protein-bound; the mechanism is renal reabsorption tied to sodium."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client on lithium. Which findings indicate lithium toxicity requiring immediate provider notification?",
+        "options": [
+          "Confusion, ataxia, coarse tremor, and severe persistent GI upset",
+          "Mild fine hand tremor and increased thirst present since starting therapy",
+          "A serum lithium level of 0.8 mEq/L",
+          "Occasional metallic taste that resolves with food"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Lithium has a narrow therapeutic range (0.6-1.2 mEq/L); confusion, ataxia, a coarse tremor, and severe persistent GI symptoms are signs of toxicity needing urgent action (there is no antidote — treatment is supportive and may require dialysis). Distinguishing toxicity from mild effects is the point.",
+          "A mild fine tremor and thirst are common early, non-toxic effects.",
+          "A level of 0.8 mEq/L is within the therapeutic range.",
+          "A transient metallic taste is a minor effect, not toxicity."
+        ]
+      },
+      {
+        "stem": "A client with bipolar disorder is started on lamotrigine. The nurse teaches the client to report which sign as potentially life-threatening?",
+        "options": [
+          "A spreading blister-like rash",
+          "Mild drowsiness",
+          "Mild weight gain",
+          "Dry mouth"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Lamotrigine carries a black-box warning for Stevens-Johnson syndrome/toxic epidermal necrolysis; a blister-like or spreading rash requires stopping the drug and immediate evaluation. Recognizing this rash is the critical safety teaching.",
+          "Mild drowsiness is a minor, non-life-threatening effect.",
+          "Mild weight gain is not the serious warning sign here.",
+          "Dry mouth is not the dangerous reaction to report."
+        ]
+      },
+      {
+        "stem": "A client taking phenelzine, a monoamine oxidase inhibitor (MAOI), reports eating aged cheese and cured salami at a party. The nurse assesses for which life-threatening reaction?",
+        "options": [
+          "Hypertensive crisis from tyramine",
+          "Serotonin syndrome from tyramine",
+          "Neuroleptic malignant syndrome",
+          "Cholinergic crisis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "MAOIs block tyramine breakdown, so tyramine-rich foods (aged cheese, cured/smoked meats, red wine, soy sauce) can trigger a hypertensive crisis — severe headache, hypertension, tachycardia — that can cause stroke or death. Recognizing this interaction guides urgent assessment.",
+          "The tyramine reaction is a hypertensive crisis, not serotonin syndrome.",
+          "NMS is from dopamine blockade by antipsychotics, unrelated to tyramine.",
+          "Cholinergic crisis is from acetylcholine excess, not an MAOI-tyramine interaction."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client starting amitriptyline, a tricyclic antidepressant. Which assessment does the nurse expect before therapy and why?",
+        "options": [
+          "A baseline ECG, because TCAs can prolong the QT interval and cause heart block in overdose",
+          "A baseline TSH, because TCAs suppress the thyroid",
+          "A baseline serum lithium level, because TCAs raise lithium",
+          "A baseline 24-hour urine cortisol, because TCAs raise cortisol"
+        ],
+        "answer": 0,
+        "explanations": [
+          "TCAs have cardiac effects — prolonged QT and, in overdose, severe heart block or arrest — so a baseline ECG is obtained before treatment. Anticipating the cardiac risk protects the client.",
+          "TCAs do not suppress the thyroid; TSH is not the baseline concern.",
+          "A lithium level is unrelated to starting a TCA.",
+          "Urine cortisol is a Cushing's workup, not a TCA baseline."
+        ]
+      },
+      {
+        "stem": "A client with major depression and a history of an eating disorder with prior seizures is being considered for an antidepressant. Which agent would the nurse question?",
+        "options": [
+          "Bupropion, because it lowers the seizure threshold",
+          "Sertraline, an SSRI",
+          "Venlafaxine, an SNRI",
+          "Mirtazapine, an atypical antidepressant"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bupropion lowers the seizure threshold and is avoided in clients at higher seizure risk (including eating disorders and prior seizures), so the nurse questions it. Matching the contraindication to the client's history is the safety catch.",
+          "An SSRI like sertraline is not specifically contraindicated by seizure risk in this way.",
+          "Venlafaxine is not the agent flagged for seizure threshold here.",
+          "Mirtazapine is not the seizure-threshold concern that bupropion is."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client the difference between a benzodiazepine and buspirone for anxiety. Which statement is accurate?",
+        "options": [
+          "\"Buspirone has a delayed onset and no dependence risk, while the benzodiazepine works quickly but can cause dependence.\"",
+          "\"Both work within minutes and both carry a high risk of dependence.\"",
+          "\"Buspirone works immediately, so you can take it as needed for panic.\"",
+          "\"The benzodiazepine has no antidote, but buspirone can be reversed with flumazenil.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Buspirone has a delayed onset, is not a CNS depressant, and lacks tolerance/dependence, which is why a benzodiazepine taper may run alongside it while it takes effect; benzodiazepines act rapidly but carry dependence risk. This classic contrast guides teaching.",
+          "Buspirone is delayed in onset, not rapid, and it does not carry the dependence risk benzodiazepines do.",
+          "Buspirone is not immediate and is not a PRN panic medication.",
+          "Flumazenil reverses benzodiazepines, not buspirone, which needs no antidote."
+        ]
+      },
+      {
+        "stem": "A client is brought to the emergency department with respiratory depression and sedation after a benzodiazepine overdose. Which antidote does the nurse anticipate?",
+        "options": [
+          "Flumazenil",
+          "Naloxone",
+          "Acetylcysteine",
+          "Physostigmine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Flumazenil is the benzodiazepine receptor antagonist used to reverse benzodiazepine overdose. Knowing the specific antidote guides emergency management.",
+          "Naloxone reverses opioids, not benzodiazepines.",
+          "Acetylcysteine is the antidote for acetaminophen toxicity.",
+          "Physostigmine is used for severe anticholinergic toxicity, not benzodiazepine overdose."
+        ]
+      },
+      {
+        "stem": "A nurse reviews a new stimulant prescription for a child with ADHD. Which finding in the history would cause the nurse to question the order?",
+        "options": [
+          "A structural cardiac abnormality",
+          "Difficulty sustaining attention in school",
+          "Impulsivity and hyperactivity",
+          "A recent normal growth chart"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Stimulants increase dopamine and norepinephrine and are contraindicated with structural cardiac abnormalities (and with hypertension, seizure history, and substance dependence), so the nurse questions the order. Matching the contraindication to the history protects the child.",
+          "Inattention is the indication for the stimulant, not a contraindication.",
+          "Impulsivity and hyperactivity are ADHD features the drug treats.",
+          "A normal growth chart is reassuring; growth is monitored during therapy."
+        ]
+      },
+      {
+        "stem": "A nurse is monitoring a child who started a stimulant for ADHD. Which parameters are most important to monitor?",
+        "options": [
+          "Blood pressure, heart rate, growth, and signs of depression or anxiety",
+          "Serum lithium level and thyroid function",
+          "Deep tendon reflexes and gait",
+          "24-hour urine cortisol"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Stimulants can raise blood pressure and heart rate, suppress appetite and growth, and worsen mood, so BP, HR, growth, and mood are monitored at baseline and during therapy. Matching monitoring to the drug's effects guides safe care.",
+          "Lithium level and TSH are unrelated to stimulant therapy.",
+          "Reflexes and gait are not the stimulant monitoring priorities.",
+          "Urine cortisol is a Cushing's workup, not stimulant monitoring."
+        ]
+      },
+      {
+        "stem": "A client taking a first-generation antipsychotic develops muscle rigidity, high fever, altered mental status, and autonomic instability. What does the nurse recognize and what is the priority?",
+        "options": [
+          "Neuroleptic malignant syndrome — stop the drug and provide supportive care",
+          "Serotonin syndrome — increase the antipsychotic dose",
+          "Expected sedation — continue the medication",
+          "Tardive dyskinesia — no action needed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Rigidity, high fever, altered mental status, and autonomic instability on an antipsychotic indicate neuroleptic malignant syndrome, a life-threatening reaction; priority is to stop the drug and give supportive care. Recognizing NMS drives immediate action.",
+          "This is NMS, not serotonin syndrome, and increasing the drug would worsen it.",
+          "This is a dangerous reaction, not expected sedation.",
+          "Tardive dyskinesia is a late movement disorder, not this acute crisis."
+        ]
+      },
+      {
+        "stem": "A client taking haloperidol develops acute muscle spasms of the neck and eyes (acute dystonia). Which medication does the nurse anticipate administering?",
+        "options": [
+          "Benztropine or diphenhydramine",
+          "Additional haloperidol",
+          "Flumazenil",
+          "Levothyroxine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Acute extrapyramidal reactions such as dystonia from first-generation antipsychotics are managed with anticholinergics like benztropine or diphenhydramine. Matching the reaction to its treatment relieves the distressing spasm.",
+          "More haloperidol would worsen the extrapyramidal reaction.",
+          "Flumazenil reverses benzodiazepines, not dystonia.",
+          "Levothyroxine is a thyroid replacement, unrelated to dystonia."
+        ]
+      },
+      {
+        "stem": "A nurse compares first-generation (FGA) and second-generation (SGA) antipsychotics. Which statement correctly identifies the primary difference in their side-effect profiles?",
+        "options": [
+          "FGAs more often cause extrapyramidal symptoms; SGAs more often cause metabolic effects like weight gain, diabetes, and dyslipidemia",
+          "FGAs more often cause weight gain and diabetes; SGAs more often cause tardive dyskinesia",
+          "SGAs are used only for acute mania; FGAs only for schizophrenia",
+          "Neither class causes sedation or QT prolongation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The one-line contrast: FGAs cause more movement problems (EPS, tardive dyskinesia) and anticholinergic effects; SGAs cause more metabolic problems (weight gain, diabetes, dyslipidemia). Both share sedation, orthostasis, prolactin elevation, and agent-specific QT risk.",
+          "This reverses the profiles; metabolic effects are the SGA pattern, EPS the FGA pattern.",
+          "Both classes are used across schizophrenia, schizoaffective disorder, acute psychosis, and bipolar mania.",
+          "Both classes can cause sedation, orthostasis, and agent-specific QT prolongation."
+        ]
+      },
+      {
+        "stem": "A client taking a first-generation antipsychotic for years develops involuntary lip smacking and tongue movements. The nurse recognizes this as tardive dyskinesia. Which principle guides care?",
+        "options": [
+          "Tardive dyskinesia may be irreversible, so prevention and early recognition are key",
+          "Tardive dyskinesia always resolves quickly once noticed",
+          "Increasing the antipsychotic dose will reliably cure it",
+          "It is an acute reaction treated with anticholinergics like acute dystonia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Tardive dyskinesia is a late-onset, potentially irreversible movement disorder, so prevention and early recognition are the emphasis. Understanding its irreversibility changes how it is managed compared with acute EPS.",
+          "It does not reliably resolve quickly; it can be permanent.",
+          "Raising the dose does not cure it and may worsen it.",
+          "Unlike acute dystonia, it is not simply reversed with anticholinergics."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about SSRIs and older adults. Which statement is accurate?",
+        "options": [
+          "Older adults have an increased risk of hyponatremia, often from SIADH, especially early in treatment",
+          "SSRIs decrease the risk of falls and hip fractures in the elderly",
+          "SSRIs should be started at the full standard adult dose for a quick effect",
+          "Aging speeds SSRI metabolism, shortening the half-life"
+        ],
+        "answer": 0,
+        "explanations": [
+          "SSRIs can cause hyponatremia (often SIADH-mediated), and older adults are at higher risk, particularly early in treatment. Recognizing this age-related risk guides monitoring of sodium.",
+          "SSRIs increase, not decrease, fall and fracture risk in the elderly.",
+          "Older adults are started low and titrated slowly, not at full dose.",
+          "Aging slows metabolism and lengthens the half-life, the opposite of this option."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client about the increased suicide risk early in antidepressant therapy. Which explanation is correct?",
+        "options": [
+          "Energy and motivation can improve before mood lifts, so the client may regain the ability to act on suicidal thoughts",
+          "Antidepressants directly cause new suicidal thoughts in everyone",
+          "The risk is highest after one year of stable treatment",
+          "The risk applies only to adults over 65"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Early in treatment, psychomotor activity and motivation may improve before mood does, so a still-depressed client can act on pre-existing suicidal thoughts; risk is greatest early and in those under 25, warranting close screening. This explains the monitoring emphasis.",
+          "Antidepressants do not universally create new suicidal thoughts; the mechanism is the energy-mood mismatch.",
+          "The risk is greatest early in treatment and after dose changes, not after a year of stability.",
+          "The heightened risk is greatest in younger clients, not those over 65."
+        ]
+      },
+      {
+        "stem": "A client on lithium asks how to prevent toxicity at home. Which teaching is most important?",
+        "options": [
+          "Maintain steady salt and fluid intake and check a level with any illness causing fluid loss",
+          "Follow a strict low-sodium diet to keep the level down",
+          "Take extra doses on days of heavy sweating or exercise",
+          "Take ibuprofen routinely for the tremor"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Because the kidney handles lithium like sodium, steady salt and fluid intake keeps the level stable, and illness with fluid loss warrants a level check. This prevents the swings that drive toxicity.",
+          "A low-sodium diet makes the kidney retain lithium and raises the level toward toxicity.",
+          "Extra doses with sweating/exercise would push the level up dangerously.",
+          "NSAIDs like ibuprofen raise lithium levels and should be avoided, not taken routinely."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client taking an SSRI about safe use. Which instruction is correct?",
+        "options": [
+          "Take it in the morning rather than at bedtime, since it can impair sleep, and do not stop it abruptly",
+          "Take it only when feeling depressed, as a PRN medication",
+          "Stop it abruptly once you feel better to avoid side effects",
+          "Combine it with St. John's wort to boost the effect"
+        ],
+        "answer": 0,
+        "explanations": [
+          "SSRIs can impair sleep, so morning dosing is preferred, and abrupt discontinuation causes a withdrawal syndrome, so tapering is needed. Correct timing and gradual discontinuation support safe use.",
+          "SSRIs are scheduled daily, not PRN for low mood.",
+          "Abrupt cessation causes dizziness, headache, and other withdrawal symptoms.",
+          "St. John's wort adds serotonergic load and can precipitate serotonin syndrome."
+        ]
+      },
+      {
+        "stem": "A client is prescribed venlafaxine, an SNRI. Which adverse effect does the nurse specifically monitor that differs from SSRIs?",
+        "options": [
+          "Elevated blood pressure from the norepinephrine effect",
+          "Significant weight gain",
+          "Complete absence of sexual side effects",
+          "Bradycardia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "SNRIs block norepinephrine reuptake in addition to serotonin, so they can raise blood pressure — a distinguishing effect the nurse monitors. Linking the mechanism to the monitored effect is the reasoning.",
+          "SNRIs tend toward weight loss, whereas SSRIs are more associated with weight gain.",
+          "SNRIs can still cause sexual side effects; they are not free of them.",
+          "SNRIs do not characteristically cause bradycardia; the concern is hypertension."
+        ]
+      },
+      {
+        "stem": "A nurse reviews teaching for a client taking phenelzine, an MAOI. Which client statement indicates a need for further teaching?",
+        "options": [
+          "\"I can take over-the-counter cold medicines whenever I have symptoms.\"",
+          "\"I will avoid aged cheeses, cured meats, and red wine.\"",
+          "\"I will check with my provider before starting any new medication.\"",
+          "\"I will report a sudden severe headache right away.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "MAOIs have many dangerous interactions, so taking OTC cold medicines freely is unsafe and indicates a need for further teaching; the other statements reflect correct understanding of tyramine avoidance, checking before new drugs, and reporting hypertensive-crisis headache.",
+          "Avoiding tyramine-rich foods is correct MAOI teaching.",
+          "Checking before starting new medications is correct given the interaction risk.",
+          "Reporting a sudden severe headache (possible hypertensive crisis) is correct."
+        ]
+      },
+      {
+        "stem": "A client with major depression taking an SSRI is prescribed a second serotonergic agent. The nurse monitors for serotonin syndrome most closely at which time?",
+        "options": [
+          "Soon after starting the second agent or increasing a dose",
+          "Only after several months of stable dosing",
+          "Only if the client stops the medication",
+          "Only during the taper at the end of therapy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Serotonin syndrome risk rises with added serotonergic drugs or dose increases, so monitoring is most intensive soon after those changes. Anticipating the highest-risk window guides assessment.",
+          "The risk is highest with recent changes, not after months of stability.",
+          "It arises from too much serotonergic activity, not from stopping the drug.",
+          "The taper is when withdrawal syndrome may occur, not peak serotonin syndrome risk."
+        ]
+      },
+      {
+        "stem": "A client taking an antipsychotic asks why routine metabolic monitoring is done. Which response is most accurate for a second-generation agent?",
+        "options": [
+          "\"These drugs can raise weight, blood sugar, and cholesterol, so we monitor a metabolic panel.\"",
+          "\"These drugs commonly cause a tyramine reaction, so we check your diet.\"",
+          "\"These drugs lower blood sugar dangerously, so we check for hypoglycemia.\"",
+          "\"These drugs have no metabolic effects; the monitoring is only routine.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Second-generation antipsychotics are associated with weight gain, diabetes, and dyslipidemia, so metabolic monitoring (weight, glucose, lipids) is standard. Explaining the class-specific risk supports informed care.",
+          "Tyramine reactions relate to MAOIs, not antipsychotics.",
+          "SGAs raise, not lower, blood sugar.",
+          "SGAs do have significant metabolic effects; the monitoring is not merely perfunctory."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client for serotonin syndrome. Which findings are characteristic? Select all that apply.",
+        "options": [
+          "Hyperreflexia and clonus",
+          "Diaphoresis and skin flushing",
+          "Agitation and restlessness",
+          "Hypoactive bowel sounds and constipation",
+          "Hyperthermia and tachycardia"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—hyperreflexia and clonus are neuromuscular excitation.",
+          "Correct—diaphoresis and flushing are autonomic signs.",
+          "Correct—agitation and restlessness reflect altered mental status.",
+          "Incorrect—bowel activity is increased (hyperactive sounds, diarrhea), not hypoactive.",
+          "Correct—hyperthermia and tachycardia are autonomic instability."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse teaches a client taking an MAOI which foods to avoid because of tyramine. Which foods should be avoided? Select all that apply.",
+        "options": [
+          "Aged cheeses",
+          "Cured or smoked meats such as salami and pepperoni",
+          "Red wine",
+          "Fresh grilled chicken breast",
+          "Soy sauce"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—aged cheeses are high in tyramine.",
+          "Correct—cured and smoked meats are high in tyramine.",
+          "Correct—red wine is a tyramine source.",
+          "Incorrect—fresh, unaged chicken is low in tyramine and safe.",
+          "Correct—soy sauce is high in tyramine."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse monitors a client on lithium. Which findings indicate possible lithium toxicity? Select all that apply.",
+        "options": [
+          "Confusion",
+          "Ataxia",
+          "A coarse tremor",
+          "A serum level of 0.9 mEq/L",
+          "Seizures"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—confusion is a sign of lithium toxicity.",
+          "Correct—ataxia reflects neurologic toxicity.",
+          "Correct—a coarse tremor (unlike a mild fine tremor) suggests toxicity.",
+          "Incorrect—0.9 mEq/L is within the therapeutic range.",
+          "Correct—seizures occur in severe toxicity."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with bipolar disorder is started on valproate. Which laboratory monitoring does the nurse prioritize?",
+        "options": [
+          "Liver function tests and a complete blood count",
+          "Serum sodium weekly",
+          "Thyroid-stimulating hormone monthly",
+          "A 24-hour urine cortisol"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Valproate can cause hepatotoxicity and blood dyscrasias, so liver function tests and a CBC are monitored (serum levels are also followed for this traditional agent). Matching monitoring to the drug's toxicities protects the client.",
+          "Sodium is not the specific valproate monitoring priority.",
+          "TSH is not the routine valproate lab.",
+          "Urine cortisol is a Cushing's workup, unrelated to valproate."
+        ]
+      },
+      {
+        "stem": "A client newly prescribed an antidepressant asks if they can take it only on days they feel especially low. What is the nurse's best response?",
+        "options": [
+          "\"Antidepressants are taken daily on a schedule, not as needed, because they work gradually over weeks.\"",
+          "\"Yes, take it only when you feel depressed to reduce side effects.\"",
+          "\"Take a double dose on bad days and skip it on good days.\"",
+          "\"Stop it entirely once you have a few good days in a row.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Antidepressants are not designed for PRN use; they require consistent daily dosing over weeks to build and sustain their effect. Correcting the PRN misconception supports adherence and efficacy.",
+          "PRN use will not achieve or maintain the therapeutic effect.",
+          "Doubling and skipping doses destabilizes the level and is unsafe.",
+          "Stopping after a few good days risks relapse and a withdrawal syndrome."
         ]
       }
     ]

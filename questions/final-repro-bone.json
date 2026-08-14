@@ -1,0 +1,573 @@
+{
+  "topic": "final-repro-bone",
+  "label": "Final: Bone & Reproductive Health",
+  "questions": [
+    {
+      "stem": "A nurse is teaching a client newly prescribed weekly oral alendronate for osteoporosis. Which instruction is most important?",
+      "options": [
+        "Take it with a full glass of water on an empty stomach and remain upright for at least 30 minutes",
+        "Take it at bedtime with a snack to prevent nausea",
+        "Lie down for 30 minutes after taking it to aid absorption",
+        "Crush the tablet and mix it into applesauce if swallowing is hard"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bisphosphonates can cause esophagitis and esophageal ulceration, so alendronate is taken with a full glass of water on an empty stomach and the client stays upright for at least 30 minutes to keep the pill moving through the esophagus. This safety teaching prevents the key complication.",
+        "incorrect": [
+          "Taking it at bedtime with food defeats absorption and lets the client lie down, raising esophagitis risk.",
+          "Lying down increases the risk of esophageal irritation — the client must stay upright.",
+          "Crushing or chewing increases mucosal contact and irritation; tablets are swallowed whole."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports chest pain and took sildenafil about 20 hours ago for erectile dysfunction. The emergency provider considers nitroglycerin for the pain. What is the nurse's priority action?",
+      "options": [
+        "Alert the provider that nitrates are contraindicated within 24 hours of sildenafil due to the risk of severe hypotension",
+        "Administer the nitroglycerin immediately as ordered",
+        "Give the client another dose of sildenafil to relieve the chest pain",
+        "Delay all treatment until sildenafil fully clears in 48 hours"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Sildenafil potentiates the hypotensive effect of nitrates; giving nitroglycerin within 24 hours of sildenafil can cause profound, dangerous hypotension. The nurse must flag this interaction before the nitrate is given — a medication-safety catch.",
+        "incorrect": [
+          "Giving the nitrate now risks life-threatening hypotension because of the recent sildenafil.",
+          "More sildenafil does not treat cardiac chest pain and compounds the hypotension risk.",
+          "Care cannot simply be delayed for chest pain; the team needs safe alternatives while respecting the interaction window."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking sildenafil calls the clinic reporting an erection that has lasted more than 4 hours and is painful. What is the nurse's best response?",
+      "options": [
+        "\"This is priapism, a medical emergency — seek immediate care to prevent permanent tissue damage.\"",
+        "\"This is an expected effect; it will resolve on its own within a day.\"",
+        "\"Take another dose of sildenafil to help it subside.\"",
+        "\"Apply heat and wait 24 hours before seeking care.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "An erection lasting more than 4 hours is priapism, an emergency; untreated it causes ischemic penile tissue damage and permanent loss of function, so the client needs immediate care. Recognizing the emergency drives urgent action.",
+        "incorrect": [
+          "Priapism is not benign and does not simply self-resolve safely.",
+          "More sildenafil would worsen it.",
+          "Delaying care risks permanent tissue damage."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client and their pregnant partner about finasteride prescribed for benign prostatic hyperplasia. Which instruction is most important?",
+      "options": [
+        "The pregnant partner should not handle the tablets, and the client should not donate blood while taking it",
+        "The client should expect improved urine flow within 24 hours",
+        "The medication should be stopped as soon as symptoms improve",
+        "The pregnant partner may safely crush the tablets to help with dosing"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Finasteride can harm a developing fetus, so pregnant persons should not handle the tablets (nurses wear gloves), and the client should not donate blood while on it. The drug also takes months to improve urine flow. This safety teaching protects the fetus.",
+        "incorrect": [
+          "Finasteride shrinks the prostate slowly — improvement takes months, not 24 hours.",
+          "It is a long-term therapy; stopping when symptoms improve reverses the benefit.",
+          "A pregnant partner should avoid handling the tablets entirely, not crush them."
+        ]
+      }
+    },
+    {
+      "stem": "A client starting tamsulosin for benign prostatic hyperplasia asks about side effects. Which teaching is most important for safety?",
+      "options": [
+        "Change positions slowly because the drug can cause orthostatic hypotension and dizziness",
+        "Expect the urine to turn bright orange",
+        "Take the drug only when urinary symptoms are severe",
+        "Avoid all foods containing tyramine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Tamsulosin is an alpha-1 blocker that relaxes smooth muscle and can cause orthostatic hypotension and dizziness, especially with the first dose, so the client changes positions slowly to prevent falls. This is the priority safety teaching.",
+        "incorrect": [
+          "Bright orange urine is associated with other drugs (e.g., phenazopyridine), not tamsulosin.",
+          "It is taken regularly for ongoing symptom control, not only when severe.",
+          "Tyramine restriction applies to MAOIs, not alpha-blockers."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client taking oral calcium carbonate. Which instruction promotes the best absorption?",
+      "options": [
+        "Take calcium carbonate with meals, since it needs an acidic environment",
+        "Take it on a completely empty stomach for best effect",
+        "Take it together with the client's proton pump inhibitor",
+        "Take it at the same time as levothyroxine each morning"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Calcium carbonate requires stomach acid to dissolve, so it is taken with meals; acid-suppressing drugs reduce its absorption. Matching the formulation to correct timing optimizes benefit.",
+        "incorrect": [
+          "Carbonate needs acid, so an empty stomach is not ideal (that suits calcium citrate).",
+          "Taking it with a PPI reduces absorption because carbonate needs an acidic environment.",
+          "Calcium reduces levothyroxine absorption; the two should be separated by about 4 hours."
+        ]
+      }
+    },
+    {
+      "stem": "A 30-year-old who smokes one pack of cigarettes daily asks about starting a combined estrogen-progestin oral contraceptive. Which concern does the nurse prioritize teaching?",
+      "options": [
+        "Smoking combined with estrogen-containing contraception significantly raises the risk of dangerous blood clots",
+        "Smoking makes the contraceptive completely ineffective",
+        "The client must stop the contraceptive if they gain any weight",
+        "Combined contraceptives are only used to treat acne, not for pregnancy prevention"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Estrogen-containing contraception raises thromboembolic risk, and smoking compounds it, so the nurse prioritizes teaching this clot risk. Recognizing the interaction guides safer contraceptive counseling.",
+        "incorrect": [
+          "Smoking does not make the pill ineffective; the concern is the added clot risk.",
+          "Weight gain alone is not the reason to stop the pill.",
+          "Combined contraceptives prevent pregnancy; treating acne is a secondary benefit."
+        ]
+      }
+    },
+    {
+      "stem": "A client requests emergency contraception 4 days (about 96 hours) after unprotected intercourse. Which option does the nurse recognize as effective this far out?",
+      "options": [
+        "Ulipristal (Ella), effective up to 120 hours after intercourse",
+        "Levonorgestrel (Plan B), most effective within 72 hours",
+        "A combined estrogen-progestin daily pill started next cycle",
+        "Finasteride taken once now"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Ulipristal (Ella) is effective up to 120 hours (5 days) after intercourse, so it fits a 96-hour window; levonorgestrel is most effective within 72 hours. A copper IUD is also an option within a few days. Matching the timing to the agent is the point.",
+        "incorrect": [
+          "Levonorgestrel's window is best within 72 hours, so it is less ideal at 96 hours.",
+          "A routine daily pill started next cycle is not emergency contraception.",
+          "Finasteride is a BPH drug, not a contraceptive."
+        ]
+      }
+    },
+    {
+      "stem": "A client on testosterone therapy returns for routine labs. Which result requires the nurse to notify the provider?",
+      "options": [
+        "Hematocrit of 58% (elevated), consistent with polycythemia",
+        "Hemoglobin of 14 g/dL",
+        "Serum sodium of 139 mEq/L",
+        "A normal fasting glucose"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Testosterone stimulates red cell production and can cause polycythemia, raising clot and stroke risk, so an elevated hematocrit is monitored on the CBC and reported. Recognizing this evaluation cue protects the client.",
+        "incorrect": [
+          "A normal hemoglobin is reassuring, not a concern.",
+          "A normal sodium does not require notification.",
+          "A normal glucose is expected and not the monitoring priority here."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client applying transdermal testosterone gel. Which instruction is correct?",
+      "options": [
+        "Apply the gel to the upper arms or shoulders, not to the scrotum, and let it dry before dressing",
+        "Apply the gel directly to the scrotum for best absorption",
+        "Allow young children to touch the application site freely",
+        "Apply the gel to broken or irritated skin to speed absorption"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Testosterone gel is applied to intact skin such as the shoulders/upper arms (not the scrotum or bony areas), allowed to dry, and kept covered to prevent transfer to others, especially children. This administration teaching prevents harm.",
+        "incorrect": [
+          "The gel is not applied to the scrotum.",
+          "Skin-to-skin transfer can virilize children, so contact with the site must be prevented.",
+          "Applying to broken or irritated skin is unsafe and alters absorption."
+        ]
+      }
+    },
+    {
+      "stem": "A transgender woman on feminizing hormone therapy is at increased risk for venous thromboembolism. Which estrogen route does the nurse recognize as preferred to lower this risk?",
+      "options": [
+        "Transdermal estradiol",
+        "High-dose oral ethinyl estradiol",
+        "Conjugated equine estrogens by mouth",
+        "Intramuscular estradiol at supratherapeutic doses"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Transdermal estradiol avoids first-pass metabolism and carries a lower thromboembolic risk, so it is preferred in clients at higher VTE risk; ethinyl estradiol and conjugated equine estrogens raise clot risk and are avoided. Matching the route to the risk is the reasoning.",
+        "incorrect": [
+          "Ethinyl estradiol increases thromboembolic risk and is specifically avoided.",
+          "Conjugated equine estrogens also raise clot risk and are not preferred.",
+          "Supratherapeutic IM dosing does not lower and can raise VTE risk."
+        ]
+      }
+    },
+    {
+      "stem": "A transgender woman on estradiol plus spironolactone undergoes orchiectomy. Which change to her regimen does the nurse anticipate?",
+      "options": [
+        "Continue estradiol and discontinue spironolactone",
+        "Discontinue estradiol and continue spironolactone",
+        "Discontinue both medications permanently",
+        "Double both medications after surgery"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "After orchiectomy the testosterone-producing gonads are removed, so the anti-androgen (spironolactone) is no longer needed and is stopped, while estradiol is continued for feminization and bone health. Understanding the rationale guides the medication change.",
+        "incorrect": [
+          "Estradiol is continued, not stopped; feminization and bone protection still require it.",
+          "The anti-androgen becomes unnecessary once the gonads are removed.",
+          "Doubling both is not indicated by the surgery."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews risk factors for osteoporosis. Which client is at highest risk?",
+      "options": [
+        "A 68-year-old postmenopausal woman who smokes and has taken long-term glucocorticoids",
+        "A 30-year-old man who does weight-bearing exercise",
+        "A 45-year-old woman with adequate calcium and vitamin D intake",
+        "A 25-year-old with a high peak bone mass"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Postmenopausal estrogen loss, older age, smoking, and long-term glucocorticoids all accelerate bone loss, making this client highest risk. Recognizing the stacked risk factors identifies who needs prevention and screening.",
+        "incorrect": [
+          "Weight-bearing exercise and younger age are protective, not high-risk.",
+          "Adequate calcium and vitamin D intake reduces risk.",
+          "A high peak bone mass is protective against osteoporosis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about erectile dysfunction as a health indicator. Which statement reflects the high-yield teaching point?",
+      "options": [
+        "Erectile dysfunction can be an early marker of cardiovascular disease due to shared endothelial dysfunction",
+        "Erectile dysfunction is always purely psychological",
+        "Erectile dysfunction never requires any further medical evaluation",
+        "Erectile dysfunction only occurs in men over 70"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "ED shares endothelial-dysfunction mechanisms with cardiovascular disease and can be an early warning sign, so it warrants evaluation of cardiovascular risk. Framing ED this way is the emphasized point.",
+        "incorrect": [
+          "ED has vascular, neurologic, hormonal, and medication causes — not only psychological ones.",
+          "ED can signal underlying disease and does warrant evaluation.",
+          "ED occurs across adulthood, not only after 70."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with benign prostatic hyperplasia. Which pathophysiologic statement is correct?",
+      "options": [
+        "Androgen-driven prostate growth compresses the urethra and raises smooth-muscle tone, causing bladder outlet obstruction",
+        "It is a malignant tumor of the peripheral zone of the prostate",
+        "It results from autoimmune destruction of the bladder wall",
+        "It is caused by a deficiency of dihydrotestosterone"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "BPH is non-malignant, androgen (DHT)-driven enlargement of the transitional zone that compresses the urethra (static) and increases alpha-adrenergic smooth-muscle tone (dynamic), producing outlet obstruction and lower urinary tract symptoms. This explains why alpha-blockers and 5-alpha-reductase inhibitors help.",
+        "incorrect": [
+          "A peripheral-zone malignancy describes prostate cancer, not BPH.",
+          "BPH is not autoimmune bladder-wall destruction.",
+          "BPH is driven by DHT excess effect on the prostate, not a DHT deficiency."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed calcitriol for hypocalcemia related to chronic kidney disease. The nurse understands calcitriol is used because it:",
+      "options": [
+        "Is the active form of vitamin D that does not require kidney activation",
+        "Binds phosphate in the gut to lower phosphorus",
+        "Blocks osteoclast-mediated bone resorption",
+        "Provides elemental calcium directly for bone mineralization"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In CKD the kidneys cannot convert vitamin D to its active form, so calcitriol (the already-active form) is used to raise calcium absorption. Matching the drug to the failed activation step is the reasoning.",
+        "incorrect": [
+          "Phosphate binding in the gut is the role of calcium acetate, not calcitriol.",
+          "Blocking osteoclast resorption describes bisphosphonates.",
+          "Providing elemental calcium describes calcium supplements, not activated vitamin D."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking a bisphosphonate for several years reports a new, dull mid-thigh ache. Which complication should the nurse consider?",
+      "options": [
+        "Atypical femur fracture associated with long-term bisphosphonate use",
+        "Expected muscle soreness that needs no evaluation",
+        "A normal effect of improved bone density",
+        "Esophageal irritation from the tablet"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Long-term bisphosphonate therapy is linked to atypical femur fractures, which can present as new thigh or groin pain, so the nurse recognizes the cue and reports it for evaluation. Anticipating this complication prevents a completed fracture.",
+        "incorrect": [
+          "New persistent thigh pain on long-term therapy should not be dismissed as ordinary soreness.",
+          "It is a potential complication, not a benign sign of better density.",
+          "Esophageal irritation causes heartburn or dysphagia, not thigh pain."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about finasteride's expected therapeutic effect for BPH. Which statement indicates correct understanding?",
+      "options": [
+        "\"It shrinks my prostate over several months, so my urine flow should gradually improve.\"",
+        "\"It should relax my bladder muscles and improve my flow within a day.\"",
+        "\"It cures prostate cancer as well as my BPH.\"",
+        "\"I can stop it once my symptoms improve and expect them to stay better.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Finasteride, a 5-alpha-reductase inhibitor, shrinks the prostate by blocking conversion of testosterone to DHT, so urine flow improves gradually over months. Understanding the slow onset sets realistic expectations.",
+        "incorrect": [
+          "Rapid smooth-muscle relaxation describes alpha-blockers like tamsulosin, not finasteride.",
+          "Finasteride treats BPH and male-pattern baldness; it is not a prostate cancer cure.",
+          "Stopping it reverses the benefit; it is ongoing therapy."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews the mechanism of combined hormonal contraceptives. Which effect is a primary way they prevent pregnancy?",
+      "options": [
+        "Suppressing pituitary FSH and LH to prevent ovulation",
+        "Blocking sperm production in the client",
+        "Destroying an implanted embryo",
+        "Increasing menstrual blood loss to flush the uterus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Combined hormonal contraceptives suppress pituitary FSH and LH to prevent ovulation (and also thicken cervical mucus and thin the endometrium). Knowing the primary mechanism supports accurate teaching.",
+        "incorrect": [
+          "They do not block sperm production in the client taking them.",
+          "They prevent ovulation/fertilization and implantation; they are not abortifacients of an implanted embryo.",
+          "They reduce, not increase, menstrual blood loss."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is monitoring a client using anabolic steroids without a prescription. Which finding is the nurse most concerned about long-term?",
+      "options": [
+        "Increased risk of myocardial infarction and stroke",
+        "Temporary acne on the face and back",
+        "Mild increase in appetite",
+        "Slight water retention"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Anabolic steroids raise cardiovascular risk — elevated LDL, hypertension, cardiomegaly — increasing the risk of MI and stroke, the most serious long-term harm. Prioritizing the deadliest effect guides teaching and monitoring.",
+        "incorrect": [
+          "Acne is a bothersome but minor effect compared with cardiovascular risk.",
+          "Increased appetite is not a dangerous long-term outcome.",
+          "Water retention is a comparatively minor concern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client taking a bisphosphonate about a rare but serious oral complication. Which instruction is appropriate?",
+      "options": [
+        "Maintain good oral hygiene and inform the dentist you take this drug, because of osteonecrosis of the jaw risk",
+        "Expect the gums to bleed heavily as a normal effect",
+        "Avoid brushing your teeth while taking the medication",
+        "Stop the medication before any dental cleaning without telling the provider"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bisphosphonates carry a small risk of osteonecrosis of the jaw, higher with dental procedures, so good oral hygiene and informing the dentist are appropriate. This teaching reduces the risk of the complication.",
+        "incorrect": [
+          "Heavy gum bleeding is not a normal expected effect.",
+          "Good oral hygiene, including brushing, is encouraged, not avoided.",
+          "The client should not stop the drug on their own; changes are provider-directed."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client taking spironolactone as an anti-androgen. Which lab does the nurse monitor because of the drug's mechanism?",
+      "options": [
+        "Serum potassium, because spironolactone is a potassium-sparing aldosterone antagonist",
+        "Serum calcium, because it causes hypercalcemia",
+        "Blood glucose, because it causes hyperglycemia",
+        "Ammonia, because it is hepatotoxic"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Spironolactone is a potassium-sparing aldosterone antagonist, so it can raise potassium, making serum potassium the key lab to monitor. Linking the mechanism to the monitored value is the reasoning.",
+        "incorrect": [
+          "It does not cause hypercalcemia; calcium is not the monitoring priority.",
+          "Hyperglycemia is not its characteristic effect.",
+          "Hepatotoxicity with ammonia monitoring is associated with bicalutamide, not spironolactone's main concern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about postmenopausal osteoporosis. Which statement about the underlying pathophysiology is correct?",
+      "options": [
+        "Estrogen loss removes a brake on osteoclast activity, so bone resorption outpaces formation",
+        "Excess estrogen drives osteoblasts to overbuild dense bone",
+        "High calcium intake causes bone to break down faster",
+        "Weight-bearing exercise accelerates bone loss"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "After menopause, falling estrogen unleashes RANKL-driven osteoclast activity, so resorption outpaces formation and bone density falls. Understanding this mechanism explains why estrogen loss is the key risk driver.",
+        "incorrect": [
+          "It is estrogen loss, not excess, that leads to bone loss.",
+          "Adequate calcium supports bone; it does not accelerate breakdown.",
+          "Weight-bearing exercise builds bone and is protective."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking sildenafil reports sudden decreased vision in one eye. What is the nurse's best action?",
+      "options": [
+        "Tell the client to stop the medication and seek immediate evaluation",
+        "Reassure the client that blue-tinged vision is expected and harmless",
+        "Advise taking the next dose with food to reduce the effect",
+        "Recommend an over-the-counter antihistamine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Sudden vision loss (and sudden hearing loss) are serious adverse effects of sildenafil that require stopping the drug and immediate evaluation. Distinguishing this from the benign transient blue-tinge effect is the safety point.",
+        "incorrect": [
+          "Sudden vision loss is not the same as the benign blue-tinge color change and is not harmless.",
+          "Taking it with food does not address a serious visual adverse effect.",
+          "An antihistamine does not treat drug-induced vision loss."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a transgender man starting masculinizing testosterone therapy about monitoring. Which parameters does the nurse emphasize?",
+      "options": [
+        "CBC (for polycythemia), lipids, and mood changes",
+        "Serum ammonia and INR",
+        "Thyroid-stimulating hormone weekly",
+        "24-hour urine cortisol monthly"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Testosterone can cause polycythemia, alter lipids, and affect mood, so the CBC, lipid panel, and mood are monitored on masculinizing therapy. Matching monitoring to the drug's known effects guides safe care.",
+        "incorrect": [
+          "Ammonia and INR are hepatic-function tests, not the routine testosterone monitoring set.",
+          "Weekly TSH is not the testosterone monitoring priority.",
+          "24-hour urine cortisol is a Cushing's workup, unrelated to testosterone therapy."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client about safe administration of weekly oral alendronate. Which instructions are appropriate? Select all that apply.",
+      "options": [
+        "Take it first thing in the morning with a full glass of plain water",
+        "Remain upright (sitting or standing) for at least 30 minutes",
+        "Do not eat, drink, or take other medications for at least 30 minutes",
+        "Lie down immediately after taking it to help absorption",
+        "Report new or worsening heartburn or difficulty swallowing"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Alendronate is taken on an empty stomach with plain water; the client stays upright and delays food and other drugs for at least 30 minutes and reports esophageal symptoms — all to prevent esophagitis. Lying down after the dose increases irritation risk.",
+        "incorrect": [
+          "Correct—plain water on an empty stomach maximizes absorption and reduces irritation.",
+          "Correct—staying upright keeps the pill moving and protects the esophagus.",
+          "Correct—delaying food and other meds prevents impaired absorption.",
+          "Incorrect—lying down raises the risk of esophagitis and ulceration.",
+          "Correct—heartburn or dysphagia may signal esophageal injury and should be reported."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews contraindications and cautions for sildenafil. Which findings would cause the nurse to question its use? Select all that apply.",
+      "options": [
+        "Use of nitroglycerin within the last 24 hours",
+        "A myocardial infarction one month ago",
+        "Concurrent use of an alpha-blocker for BPH",
+        "A well-controlled blood pressure of 122/78",
+        "A history of priapism-predisposing conditions such as sickle cell anemia"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Sildenafil is contraindicated with recent nitrates, cautioned within about 6 months of MI/CVA, cautioned with alpha-blockers (additive hypotension), and cautioned in priapism-predisposing conditions. A normal, controlled blood pressure is not a contraindication.",
+        "incorrect": [
+          "Correct—nitrates within 24 hours risk severe hypotension.",
+          "Correct—a recent MI is a cardiovascular caution for sildenafil.",
+          "Correct—alpha-blockers add to the hypotensive effect.",
+          "Incorrect—a normal, controlled blood pressure is not a contraindication.",
+          "Correct—conditions predisposing to priapism raise the risk of a prolonged erection."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse monitors a transgender woman on feminizing hormone therapy. Which assessments and labs are appropriate? Select all that apply.",
+      "options": [
+        "Monitor for signs of venous thromboembolism such as calf pain or swelling",
+        "Assess smoking status because it compounds clot risk",
+        "Monitor serum potassium if she is taking spironolactone",
+        "Monitor for polycythemia as the main hematologic risk of estrogen",
+        "Monitor cardiac status and lipids"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Feminizing therapy monitoring targets thromboembolism (VTE risk, smoking status), potassium with spironolactone, cardiac status, and lipids. Polycythemia is the hematologic concern of testosterone (masculinizing therapy), not estrogen.",
+        "incorrect": [
+          "Correct—estrogen raises VTE risk, so signs of clots are monitored.",
+          "Correct—smoking compounds the thromboembolic risk.",
+          "Correct—spironolactone can raise potassium.",
+          "Incorrect—polycythemia is a testosterone (masculinizing) risk, not an estrogen one.",
+          "Correct—cardiac status and lipids are part of feminizing-therapy monitoring."
+        ]
+      }
+    },
+    {
+      "stem": "A client seeks the most effective emergency contraception and can present within a few days of unprotected intercourse. Which option does the nurse identify as both highly effective and providing ongoing contraception?",
+      "options": [
+        "A copper intrauterine device inserted within a few days",
+        "A single dose of finasteride",
+        "A daily prenatal vitamin",
+        "An over-the-counter antihistamine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A copper IUD placed within a few days of intercourse is highly effective emergency contraception and continues to provide contraception afterward. Matching the client's goal to the method is the point.",
+        "incorrect": [
+          "Finasteride is a BPH drug, not a contraceptive.",
+          "A prenatal vitamin does not prevent pregnancy.",
+          "An antihistamine has no contraceptive effect."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client prescribed testosterone therapy. Which statement reflects correct understanding of its risks and controlled status?",
+      "options": [
+        "\"It is a controlled substance with potential for abuse, and I'll have my blood counts and liver checked.\"",
+        "\"It has no potential for misuse, so my refills are unlimited.\"",
+        "\"It thins my blood, so I'm at higher risk of bleeding.\"",
+        "\"It lowers my red blood cell count, so I may need iron.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Testosterone is a Schedule III controlled substance with abuse and dependence potential and can cause polycythemia and hepatotoxicity, so CBC and liver function are monitored. Understanding both the controlled status and the labs guides safe use.",
+        "incorrect": [
+          "Testosterone has recognized misuse potential and controlled-substance status.",
+          "It raises red cell mass (polycythemia), a clot risk, rather than thinning the blood.",
+          "It increases, not lowers, red blood cell production."
+        ]
+      }
+    }
+  ]
+}

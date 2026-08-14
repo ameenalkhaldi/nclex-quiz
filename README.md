@@ -12,7 +12,12 @@ way to drill practice questions with clear rationales for every answer choice.
 
 ## What's inside
 
-The app currently has **393 practice questions** across six topic banks:
+The app currently has **655 practice questions** across 14 topic banks,
+organized into three courses you can switch between with tabs on the start
+screen. Each course can be studied topic by topic, or "mixed" — every question
+in that course, shuffled.
+
+**Pathopharmacology**
 
 | Topic | Questions |
 | --- | --- |
@@ -20,11 +25,30 @@ The app currently has **393 practice questions** across six topic banks:
 | Lower GI | 79 |
 | Neoplasms & Cancer | 99 |
 | Migraine · Insomnia · Seizures | 70 |
-| Med-Surg: Anemia | 40 |
-| Med-Surg: Lower GI | 40 |
 
-The four Pathopharm banks and the two Med-Surg banks are kept separate — the
-Med-Surg Lower GI bank is distinct from the Pathopharm Lower GI bank.
+**Med-Surg**
+
+| Topic | Questions |
+| --- | --- |
+| Anemia | 40 |
+| Lower GI | 40 |
+| Kidney | 41 |
+| Endocrine | 41 |
+| Fluids & Electrolytes | 30 |
+
+**Pathofarm Final**
+
+| Topic | Questions |
+| --- | --- |
+| Substance Use & Addiction | 30 |
+| Neuro & Neuromuscular | 30 |
+| Endocrine | 30 |
+| Bone & Reproductive Health | 30 |
+| Mental Health Meds | 30 |
+
+The banks are kept separate by course — for example, the Med-Surg Lower GI bank
+is distinct from the Pathopharm Lower GI bank, and the Pathofarm Final Endocrine
+bank is distinct from the Med-Surg Endocrine bank.
 
 Every question is written in NCLEX style and includes:
 

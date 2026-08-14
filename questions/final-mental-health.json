@@ -1,0 +1,573 @@
+{
+  "topic": "final-mental-health",
+  "label": "Final: Mental Health Meds",
+  "questions": [
+    {
+      "stem": "A client returns to the clinic 3 weeks after starting a selective serotonin reuptake inhibitor (SSRI) for major depression, reporting they still feel depressed and worry it isn't working, though they take it daily. Which response by the nurse is most appropriate?",
+      "options": [
+        "\"It often takes 4 to 8 weeks to feel the full effect, so continuing your current dose a bit longer is expected.\"",
+        "\"Since you have no improvement, you should stop and switch to a different class.\"",
+        "\"You'll need to double your dose to reach a therapeutic blood level.\"",
+        "\"It sounds like antidepressants aren't for you — try exercise instead.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Antidepressants have a delayed onset — initial response in 1-3 weeks, full effect up to several weeks — so at 3 weeks with good adherence, continuing the current dose and reassessing is correct. Teaching the timeline prevents premature discontinuation.",
+        "incorrect": [
+          "Abandoning treatment at 3 weeks is premature before the drug has had time to work.",
+          "SSRIs are not titrated to a blood level, and doubling now is not indicated.",
+          "Dismissing pharmacologic treatment undermines adherence when the drug simply needs more time."
+        ]
+      }
+    },
+    {
+      "stem": "A 24-year-old taking fluoxetine is brought to the emergency department after taking an over-the-counter cough medicine containing dextromethorphan. The nurse suspects serotonin syndrome. Which finding supports this?",
+      "options": [
+        "Hyperreflexia and clonus with agitation and diaphoresis",
+        "Lead-pipe rigidity with a slowly rising fever over several days",
+        "Pinpoint pupils and slowed bowel sounds",
+        "Bradycardia and cool, dry skin"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Serotonin syndrome has a rapid onset with neuromuscular excitation (hyperreflexia, clonus), autonomic instability (diaphoresis, hyperthermia, tachycardia), and altered mental status (agitation) — dextromethorphan is a classic serotonergic trigger. These cues distinguish it from NMS.",
+        "incorrect": [
+          "Lead-pipe rigidity with a slow-onset fever is neuroleptic malignant syndrome from dopamine blockade, not serotonin syndrome.",
+          "Serotonin syndrome causes hyperactive bowel sounds and dilated pupils, not pinpoint pupils and slowed bowel sounds.",
+          "It causes tachycardia and diaphoresis, not bradycardia with cool, dry skin."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse contrasts serotonin syndrome and neuroleptic malignant syndrome (NMS). Which statement is correct?",
+      "options": [
+        "Serotonin syndrome has rapid onset with hyperreflexia and clonus; NMS has slower onset with lead-pipe rigidity",
+        "Both are caused by too much dopamine at the receptor",
+        "NMS has rapid onset with clonus; serotonin syndrome has lead-pipe rigidity",
+        "Both are treated by increasing the causative medication"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Serotonin syndrome comes on within hours with hyperreflexia and clonus from excess serotonergic activity; NMS develops over days with lead-pipe rigidity from dopamine blockade. Both are treated by stopping the causative drug and supportive care.",
+        "incorrect": [
+          "Serotonin syndrome is from excess serotonin; NMS is from dopamine blockade — not both from dopamine.",
+          "The features are reversed here: clonus is serotonin syndrome, rigidity is NMS.",
+          "Both require stopping, not increasing, the causative medication."
+        ]
+      }
+    },
+    {
+      "stem": "A client with bipolar disorder taking lithium is admitted with vomiting and diarrhea from a viral illness. Why does the nurse recognize this raises the client's risk for lithium toxicity?",
+      "options": [
+        "Fluid and sodium loss make the kidneys reabsorb more lithium, raising the level",
+        "Dehydration dilutes the lithium level, causing symptoms",
+        "Illness increases lithium metabolism in the liver",
+        "Vomiting increases lithium binding to plasma proteins"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Lithium and sodium are handled alike by the kidney; when sodium and fluid are lost, the kidney reabsorbs more lithium, pushing the level toward toxicity. Anticipating this from the fluid-loss cue prevents a dangerous rise.",
+        "incorrect": [
+          "Dehydration concentrates, rather than dilutes, the lithium level.",
+          "Lithium is renally excreted, not hepatically metabolized.",
+          "Lithium is not highly protein-bound; the mechanism is renal reabsorption tied to sodium."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client on lithium. Which findings indicate lithium toxicity requiring immediate provider notification?",
+      "options": [
+        "Confusion, ataxia, coarse tremor, and severe persistent GI upset",
+        "Mild fine hand tremor and increased thirst present since starting therapy",
+        "A serum lithium level of 0.8 mEq/L",
+        "Occasional metallic taste that resolves with food"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Lithium has a narrow therapeutic range (0.6-1.2 mEq/L); confusion, ataxia, a coarse tremor, and severe persistent GI symptoms are signs of toxicity needing urgent action (there is no antidote — treatment is supportive and may require dialysis). Distinguishing toxicity from mild effects is the point.",
+        "incorrect": [
+          "A mild fine tremor and thirst are common early, non-toxic effects.",
+          "A level of 0.8 mEq/L is within the therapeutic range.",
+          "A transient metallic taste is a minor effect, not toxicity."
+        ]
+      }
+    },
+    {
+      "stem": "A client with bipolar disorder is started on lamotrigine. The nurse teaches the client to report which sign as potentially life-threatening?",
+      "options": [
+        "A spreading blister-like rash",
+        "Mild drowsiness",
+        "Mild weight gain",
+        "Dry mouth"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Lamotrigine carries a black-box warning for Stevens-Johnson syndrome/toxic epidermal necrolysis; a blister-like or spreading rash requires stopping the drug and immediate evaluation. Recognizing this rash is the critical safety teaching.",
+        "incorrect": [
+          "Mild drowsiness is a minor, non-life-threatening effect.",
+          "Mild weight gain is not the serious warning sign here.",
+          "Dry mouth is not the dangerous reaction to report."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking phenelzine, a monoamine oxidase inhibitor (MAOI), reports eating aged cheese and cured salami at a party. The nurse assesses for which life-threatening reaction?",
+      "options": [
+        "Hypertensive crisis from tyramine",
+        "Serotonin syndrome from tyramine",
+        "Neuroleptic malignant syndrome",
+        "Cholinergic crisis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "MAOIs block tyramine breakdown, so tyramine-rich foods (aged cheese, cured/smoked meats, red wine, soy sauce) can trigger a hypertensive crisis — severe headache, hypertension, tachycardia — that can cause stroke or death. Recognizing this interaction guides urgent assessment.",
+        "incorrect": [
+          "The tyramine reaction is a hypertensive crisis, not serotonin syndrome.",
+          "NMS is from dopamine blockade by antipsychotics, unrelated to tyramine.",
+          "Cholinergic crisis is from acetylcholine excess, not an MAOI-tyramine interaction."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client starting amitriptyline, a tricyclic antidepressant. Which assessment does the nurse expect before therapy and why?",
+      "options": [
+        "A baseline ECG, because TCAs can prolong the QT interval and cause heart block in overdose",
+        "A baseline TSH, because TCAs suppress the thyroid",
+        "A baseline serum lithium level, because TCAs raise lithium",
+        "A baseline 24-hour urine cortisol, because TCAs raise cortisol"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "TCAs have cardiac effects — prolonged QT and, in overdose, severe heart block or arrest — so a baseline ECG is obtained before treatment. Anticipating the cardiac risk protects the client.",
+        "incorrect": [
+          "TCAs do not suppress the thyroid; TSH is not the baseline concern.",
+          "A lithium level is unrelated to starting a TCA.",
+          "Urine cortisol is a Cushing's workup, not a TCA baseline."
+        ]
+      }
+    },
+    {
+      "stem": "A client with major depression and a history of an eating disorder with prior seizures is being considered for an antidepressant. Which agent would the nurse question?",
+      "options": [
+        "Bupropion, because it lowers the seizure threshold",
+        "Sertraline, an SSRI",
+        "Venlafaxine, an SNRI",
+        "Mirtazapine, an atypical antidepressant"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bupropion lowers the seizure threshold and is avoided in clients at higher seizure risk (including eating disorders and prior seizures), so the nurse questions it. Matching the contraindication to the client's history is the safety catch.",
+        "incorrect": [
+          "An SSRI like sertraline is not specifically contraindicated by seizure risk in this way.",
+          "Venlafaxine is not the agent flagged for seizure threshold here.",
+          "Mirtazapine is not the seizure-threshold concern that bupropion is."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client the difference between a benzodiazepine and buspirone for anxiety. Which statement is accurate?",
+      "options": [
+        "\"Buspirone has a delayed onset and no dependence risk, while the benzodiazepine works quickly but can cause dependence.\"",
+        "\"Both work within minutes and both carry a high risk of dependence.\"",
+        "\"Buspirone works immediately, so you can take it as needed for panic.\"",
+        "\"The benzodiazepine has no antidote, but buspirone can be reversed with flumazenil.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Buspirone has a delayed onset, is not a CNS depressant, and lacks tolerance/dependence, which is why a benzodiazepine taper may run alongside it while it takes effect; benzodiazepines act rapidly but carry dependence risk. This classic contrast guides teaching.",
+        "incorrect": [
+          "Buspirone is delayed in onset, not rapid, and it does not carry the dependence risk benzodiazepines do.",
+          "Buspirone is not immediate and is not a PRN panic medication.",
+          "Flumazenil reverses benzodiazepines, not buspirone, which needs no antidote."
+        ]
+      }
+    },
+    {
+      "stem": "A client is brought to the emergency department with respiratory depression and sedation after a benzodiazepine overdose. Which antidote does the nurse anticipate?",
+      "options": [
+        "Flumazenil",
+        "Naloxone",
+        "Acetylcysteine",
+        "Physostigmine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Flumazenil is the benzodiazepine receptor antagonist used to reverse benzodiazepine overdose. Knowing the specific antidote guides emergency management.",
+        "incorrect": [
+          "Naloxone reverses opioids, not benzodiazepines.",
+          "Acetylcysteine is the antidote for acetaminophen toxicity.",
+          "Physostigmine is used for severe anticholinergic toxicity, not benzodiazepine overdose."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews a new stimulant prescription for a child with ADHD. Which finding in the history would cause the nurse to question the order?",
+      "options": [
+        "A structural cardiac abnormality",
+        "Difficulty sustaining attention in school",
+        "Impulsivity and hyperactivity",
+        "A recent normal growth chart"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Stimulants increase dopamine and norepinephrine and are contraindicated with structural cardiac abnormalities (and with hypertension, seizure history, and substance dependence), so the nurse questions the order. Matching the contraindication to the history protects the child.",
+        "incorrect": [
+          "Inattention is the indication for the stimulant, not a contraindication.",
+          "Impulsivity and hyperactivity are ADHD features the drug treats.",
+          "A normal growth chart is reassuring; growth is monitored during therapy."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is monitoring a child who started a stimulant for ADHD. Which parameters are most important to monitor?",
+      "options": [
+        "Blood pressure, heart rate, growth, and signs of depression or anxiety",
+        "Serum lithium level and thyroid function",
+        "Deep tendon reflexes and gait",
+        "24-hour urine cortisol"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Stimulants can raise blood pressure and heart rate, suppress appetite and growth, and worsen mood, so BP, HR, growth, and mood are monitored at baseline and during therapy. Matching monitoring to the drug's effects guides safe care.",
+        "incorrect": [
+          "Lithium level and TSH are unrelated to stimulant therapy.",
+          "Reflexes and gait are not the stimulant monitoring priorities.",
+          "Urine cortisol is a Cushing's workup, not stimulant monitoring."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking a first-generation antipsychotic develops muscle rigidity, high fever, altered mental status, and autonomic instability. What does the nurse recognize and what is the priority?",
+      "options": [
+        "Neuroleptic malignant syndrome — stop the drug and provide supportive care",
+        "Serotonin syndrome — increase the antipsychotic dose",
+        "Expected sedation — continue the medication",
+        "Tardive dyskinesia — no action needed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Rigidity, high fever, altered mental status, and autonomic instability on an antipsychotic indicate neuroleptic malignant syndrome, a life-threatening reaction; priority is to stop the drug and give supportive care. Recognizing NMS drives immediate action.",
+        "incorrect": [
+          "This is NMS, not serotonin syndrome, and increasing the drug would worsen it.",
+          "This is a dangerous reaction, not expected sedation.",
+          "Tardive dyskinesia is a late movement disorder, not this acute crisis."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking haloperidol develops acute muscle spasms of the neck and eyes (acute dystonia). Which medication does the nurse anticipate administering?",
+      "options": [
+        "Benztropine or diphenhydramine",
+        "Additional haloperidol",
+        "Flumazenil",
+        "Levothyroxine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Acute extrapyramidal reactions such as dystonia from first-generation antipsychotics are managed with anticholinergics like benztropine or diphenhydramine. Matching the reaction to its treatment relieves the distressing spasm.",
+        "incorrect": [
+          "More haloperidol would worsen the extrapyramidal reaction.",
+          "Flumazenil reverses benzodiazepines, not dystonia.",
+          "Levothyroxine is a thyroid replacement, unrelated to dystonia."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse compares first-generation (FGA) and second-generation (SGA) antipsychotics. Which statement correctly identifies the primary difference in their side-effect profiles?",
+      "options": [
+        "FGAs more often cause extrapyramidal symptoms; SGAs more often cause metabolic effects like weight gain, diabetes, and dyslipidemia",
+        "FGAs more often cause weight gain and diabetes; SGAs more often cause tardive dyskinesia",
+        "SGAs are used only for acute mania; FGAs only for schizophrenia",
+        "Neither class causes sedation or QT prolongation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The one-line contrast: FGAs cause more movement problems (EPS, tardive dyskinesia) and anticholinergic effects; SGAs cause more metabolic problems (weight gain, diabetes, dyslipidemia). Both share sedation, orthostasis, prolactin elevation, and agent-specific QT risk.",
+        "incorrect": [
+          "This reverses the profiles; metabolic effects are the SGA pattern, EPS the FGA pattern.",
+          "Both classes are used across schizophrenia, schizoaffective disorder, acute psychosis, and bipolar mania.",
+          "Both classes can cause sedation, orthostasis, and agent-specific QT prolongation."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking a first-generation antipsychotic for years develops involuntary lip smacking and tongue movements. The nurse recognizes this as tardive dyskinesia. Which principle guides care?",
+      "options": [
+        "Tardive dyskinesia may be irreversible, so prevention and early recognition are key",
+        "Tardive dyskinesia always resolves quickly once noticed",
+        "Increasing the antipsychotic dose will reliably cure it",
+        "It is an acute reaction treated with anticholinergics like acute dystonia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Tardive dyskinesia is a late-onset, potentially irreversible movement disorder, so prevention and early recognition are the emphasis. Understanding its irreversibility changes how it is managed compared with acute EPS.",
+        "incorrect": [
+          "It does not reliably resolve quickly; it can be permanent.",
+          "Raising the dose does not cure it and may worsen it.",
+          "Unlike acute dystonia, it is not simply reversed with anticholinergics."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about SSRIs and older adults. Which statement is accurate?",
+      "options": [
+        "Older adults have an increased risk of hyponatremia, often from SIADH, especially early in treatment",
+        "SSRIs decrease the risk of falls and hip fractures in the elderly",
+        "SSRIs should be started at the full standard adult dose for a quick effect",
+        "Aging speeds SSRI metabolism, shortening the half-life"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "SSRIs can cause hyponatremia (often SIADH-mediated), and older adults are at higher risk, particularly early in treatment. Recognizing this age-related risk guides monitoring of sodium.",
+        "incorrect": [
+          "SSRIs increase, not decrease, fall and fracture risk in the elderly.",
+          "Older adults are started low and titrated slowly, not at full dose.",
+          "Aging slows metabolism and lengthens the half-life, the opposite of this option."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client about the increased suicide risk early in antidepressant therapy. Which explanation is correct?",
+      "options": [
+        "Energy and motivation can improve before mood lifts, so the client may regain the ability to act on suicidal thoughts",
+        "Antidepressants directly cause new suicidal thoughts in everyone",
+        "The risk is highest after one year of stable treatment",
+        "The risk applies only to adults over 65"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Early in treatment, psychomotor activity and motivation may improve before mood does, so a still-depressed client can act on pre-existing suicidal thoughts; risk is greatest early and in those under 25, warranting close screening. This explains the monitoring emphasis.",
+        "incorrect": [
+          "Antidepressants do not universally create new suicidal thoughts; the mechanism is the energy-mood mismatch.",
+          "The risk is greatest early in treatment and after dose changes, not after a year of stability.",
+          "The heightened risk is greatest in younger clients, not those over 65."
+        ]
+      }
+    },
+    {
+      "stem": "A client on lithium asks how to prevent toxicity at home. Which teaching is most important?",
+      "options": [
+        "Maintain steady salt and fluid intake and check a level with any illness causing fluid loss",
+        "Follow a strict low-sodium diet to keep the level down",
+        "Take extra doses on days of heavy sweating or exercise",
+        "Take ibuprofen routinely for the tremor"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Because the kidney handles lithium like sodium, steady salt and fluid intake keeps the level stable, and illness with fluid loss warrants a level check. This prevents the swings that drive toxicity.",
+        "incorrect": [
+          "A low-sodium diet makes the kidney retain lithium and raises the level toward toxicity.",
+          "Extra doses with sweating/exercise would push the level up dangerously.",
+          "NSAIDs like ibuprofen raise lithium levels and should be avoided, not taken routinely."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client taking an SSRI about safe use. Which instruction is correct?",
+      "options": [
+        "Take it in the morning rather than at bedtime, since it can impair sleep, and do not stop it abruptly",
+        "Take it only when feeling depressed, as a PRN medication",
+        "Stop it abruptly once you feel better to avoid side effects",
+        "Combine it with St. John's wort to boost the effect"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "SSRIs can impair sleep, so morning dosing is preferred, and abrupt discontinuation causes a withdrawal syndrome, so tapering is needed. Correct timing and gradual discontinuation support safe use.",
+        "incorrect": [
+          "SSRIs are scheduled daily, not PRN for low mood.",
+          "Abrupt cessation causes dizziness, headache, and other withdrawal symptoms.",
+          "St. John's wort adds serotonergic load and can precipitate serotonin syndrome."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed venlafaxine, an SNRI. Which adverse effect does the nurse specifically monitor that differs from SSRIs?",
+      "options": [
+        "Elevated blood pressure from the norepinephrine effect",
+        "Significant weight gain",
+        "Complete absence of sexual side effects",
+        "Bradycardia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "SNRIs block norepinephrine reuptake in addition to serotonin, so they can raise blood pressure — a distinguishing effect the nurse monitors. Linking the mechanism to the monitored effect is the reasoning.",
+        "incorrect": [
+          "SNRIs tend toward weight loss, whereas SSRIs are more associated with weight gain.",
+          "SNRIs can still cause sexual side effects; they are not free of them.",
+          "SNRIs do not characteristically cause bradycardia; the concern is hypertension."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews teaching for a client taking phenelzine, an MAOI. Which client statement indicates a need for further teaching?",
+      "options": [
+        "\"I can take over-the-counter cold medicines whenever I have symptoms.\"",
+        "\"I will avoid aged cheeses, cured meats, and red wine.\"",
+        "\"I will check with my provider before starting any new medication.\"",
+        "\"I will report a sudden severe headache right away.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "MAOIs have many dangerous interactions, so taking OTC cold medicines freely is unsafe and indicates a need for further teaching; the other statements reflect correct understanding of tyramine avoidance, checking before new drugs, and reporting hypertensive-crisis headache.",
+        "incorrect": [
+          "Avoiding tyramine-rich foods is correct MAOI teaching.",
+          "Checking before starting new medications is correct given the interaction risk.",
+          "Reporting a sudden severe headache (possible hypertensive crisis) is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A client with major depression taking an SSRI is prescribed a second serotonergic agent. The nurse monitors for serotonin syndrome most closely at which time?",
+      "options": [
+        "Soon after starting the second agent or increasing a dose",
+        "Only after several months of stable dosing",
+        "Only if the client stops the medication",
+        "Only during the taper at the end of therapy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Serotonin syndrome risk rises with added serotonergic drugs or dose increases, so monitoring is most intensive soon after those changes. Anticipating the highest-risk window guides assessment.",
+        "incorrect": [
+          "The risk is highest with recent changes, not after months of stability.",
+          "It arises from too much serotonergic activity, not from stopping the drug.",
+          "The taper is when withdrawal syndrome may occur, not peak serotonin syndrome risk."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking an antipsychotic asks why routine metabolic monitoring is done. Which response is most accurate for a second-generation agent?",
+      "options": [
+        "\"These drugs can raise weight, blood sugar, and cholesterol, so we monitor a metabolic panel.\"",
+        "\"These drugs commonly cause a tyramine reaction, so we check your diet.\"",
+        "\"These drugs lower blood sugar dangerously, so we check for hypoglycemia.\"",
+        "\"These drugs have no metabolic effects; the monitoring is only routine.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Second-generation antipsychotics are associated with weight gain, diabetes, and dyslipidemia, so metabolic monitoring (weight, glucose, lipids) is standard. Explaining the class-specific risk supports informed care.",
+        "incorrect": [
+          "Tyramine reactions relate to MAOIs, not antipsychotics.",
+          "SGAs raise, not lower, blood sugar.",
+          "SGAs do have significant metabolic effects; the monitoring is not merely perfunctory."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client for serotonin syndrome. Which findings are characteristic? Select all that apply.",
+      "options": [
+        "Hyperreflexia and clonus",
+        "Diaphoresis and skin flushing",
+        "Agitation and restlessness",
+        "Hypoactive bowel sounds and constipation",
+        "Hyperthermia and tachycardia"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Serotonin syndrome is neuromuscular excitation (hyperreflexia, clonus), autonomic instability (diaphoresis, flushing, hyperthermia, tachycardia), and altered mental status (agitation, restlessness). GI activity is increased (hyperactive bowel sounds, diarrhea), not decreased.",
+        "incorrect": [
+          "Correct—hyperreflexia and clonus are neuromuscular excitation.",
+          "Correct—diaphoresis and flushing are autonomic signs.",
+          "Correct—agitation and restlessness reflect altered mental status.",
+          "Incorrect—bowel activity is increased (hyperactive sounds, diarrhea), not hypoactive.",
+          "Correct—hyperthermia and tachycardia are autonomic instability."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client taking an MAOI which foods to avoid because of tyramine. Which foods should be avoided? Select all that apply.",
+      "options": [
+        "Aged cheeses",
+        "Cured or smoked meats such as salami and pepperoni",
+        "Red wine",
+        "Fresh grilled chicken breast",
+        "Soy sauce"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Tyramine-rich foods — aged cheeses, cured/smoked meats, red wine, and soy sauce — can trigger a hypertensive crisis with MAOIs. Fresh, unaged foods such as freshly cooked chicken are safe.",
+        "incorrect": [
+          "Correct—aged cheeses are high in tyramine.",
+          "Correct—cured and smoked meats are high in tyramine.",
+          "Correct—red wine is a tyramine source.",
+          "Incorrect—fresh, unaged chicken is low in tyramine and safe.",
+          "Correct—soy sauce is high in tyramine."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse monitors a client on lithium. Which findings indicate possible lithium toxicity? Select all that apply.",
+      "options": [
+        "Confusion",
+        "Ataxia",
+        "A coarse tremor",
+        "A serum level of 0.9 mEq/L",
+        "Seizures"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Lithium toxicity presents with confusion, ataxia, a coarse tremor, and seizures (with ECG changes in severe cases). A level of 0.9 mEq/L is within the therapeutic range of 0.6-1.2.",
+        "incorrect": [
+          "Correct—confusion is a sign of lithium toxicity.",
+          "Correct—ataxia reflects neurologic toxicity.",
+          "Correct—a coarse tremor (unlike a mild fine tremor) suggests toxicity.",
+          "Incorrect—0.9 mEq/L is within the therapeutic range.",
+          "Correct—seizures occur in severe toxicity."
+        ]
+      }
+    },
+    {
+      "stem": "A client with bipolar disorder is started on valproate. Which laboratory monitoring does the nurse prioritize?",
+      "options": [
+        "Liver function tests and a complete blood count",
+        "Serum sodium weekly",
+        "Thyroid-stimulating hormone monthly",
+        "A 24-hour urine cortisol"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Valproate can cause hepatotoxicity and blood dyscrasias, so liver function tests and a CBC are monitored (serum levels are also followed for this traditional agent). Matching monitoring to the drug's toxicities protects the client.",
+        "incorrect": [
+          "Sodium is not the specific valproate monitoring priority.",
+          "TSH is not the routine valproate lab.",
+          "Urine cortisol is a Cushing's workup, unrelated to valproate."
+        ]
+      }
+    },
+    {
+      "stem": "A client newly prescribed an antidepressant asks if they can take it only on days they feel especially low. What is the nurse's best response?",
+      "options": [
+        "\"Antidepressants are taken daily on a schedule, not as needed, because they work gradually over weeks.\"",
+        "\"Yes, take it only when you feel depressed to reduce side effects.\"",
+        "\"Take a double dose on bad days and skip it on good days.\"",
+        "\"Stop it entirely once you have a few good days in a row.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Antidepressants are not designed for PRN use; they require consistent daily dosing over weeks to build and sustain their effect. Correcting the PRN misconception supports adherence and efficacy.",
+        "incorrect": [
+          "PRN use will not achieve or maintain the therapeutic effect.",
+          "Doubling and skipping doses destabilizes the level and is unsafe.",
+          "Stopping after a few good days risks relapse and a withdrawal syndrome."
+        ]
+      }
+    }
+  ]
+}
