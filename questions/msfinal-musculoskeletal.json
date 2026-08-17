@@ -1,0 +1,573 @@
+{
+  "topic": "msfinal-musculoskeletal",
+  "label": "MS Final: Musculoskeletal",
+  "questions": [
+    {
+      "stem": "A nurse is conducting a community osteoporosis screening. Which client should the nurse identify as having the highest risk?",
+      "options": [
+        "A 68-year-old thin White woman who smokes cigarettes",
+        "A 45-year-old man with a history of high-impact sports injuries",
+        "A 70-year-old man who performs weight-bearing exercise daily",
+        "A 50-year-old woman who takes calcium and vitamin D supplements"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Osteoporosis risk factors include advancing age (over 65), female sex, low body weight, White or Asian ethnicity, and smoking — this client has four. Recognizing stacked risk factors identifies who needs screening.",
+        "incorrect": [
+          "A younger man with sports injuries lacks the stacked osteoporosis risk factors.",
+          "Weight-bearing exercise is protective, and this client is male with fewer risks.",
+          "Calcium and vitamin D supplementation is protective, and this client is younger."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client which test is the gold standard for diagnosing osteoporosis and monitoring treatment. Which test does the nurse identify?",
+      "options": [
+        "Dual-energy X-ray absorptiometry (DEXA)",
+        "A serum calcium level",
+        "A plain X-ray of the spine",
+        "A complete blood count"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "DEXA is the gold standard for measuring bone density, diagnosing osteoporosis, and monitoring treatment effectiveness over time; there is no definitive blood test. Matching the tool to its purpose is the point.",
+        "incorrect": [
+          "Serum calcium is used to rule out other metabolic bone disease, not to diagnose osteoporosis.",
+          "A plain X-ray detects fractures but is not the gold standard for bone density.",
+          "A CBC does not diagnose osteoporosis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client newly prescribed alendronate for osteoporosis. Which instruction is most important?",
+      "options": [
+        "Take it first thing in the morning on an empty stomach with a full glass of water and remain upright for 30 minutes",
+        "Take it at bedtime with a snack",
+        "Lie down for 30 minutes after taking it",
+        "Take it with calcium to improve absorption"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bisphosphonates can cause esophagitis, so alendronate is taken on an empty stomach with a full glass of water, and the client stays upright for 30 minutes. This teaching prevents the key complication.",
+        "incorrect": [
+          "Taking it at bedtime with food impairs absorption and allows lying down, raising esophagitis risk.",
+          "Lying down increases esophageal irritation risk.",
+          "Calcium taken with the bisphosphonate impairs its absorption."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client to take a calcium supplement for osteoporosis. Which instruction reflects correct dosing?",
+      "options": [
+        "Split doses because calcium is poorly absorbed at amounts greater than 500 mg",
+        "Take the entire daily dose at once for convenience",
+        "Take calcium only with the bisphosphonate",
+        "Avoid vitamin D because it blocks calcium absorption"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Calcium absorption is limited above about 500 mg per dose, so larger daily amounts are split. Vitamin D enhances absorption, and calcium is separated from bisphosphonates. Correct dosing optimizes benefit.",
+        "incorrect": [
+          "A large single dose exceeds absorption capacity; splitting improves uptake.",
+          "Calcium is separated from the bisphosphonate, not taken with it.",
+          "Vitamin D enhances, not blocks, calcium absorption."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews osteoporosis medications. Which statement about denosumab (Prolia) is accurate?",
+      "options": [
+        "It is a monoclonal antibody that inhibits osteoclast formation, decreasing bone resorption",
+        "It forms new osteoblasts to build bone",
+        "It is a bisphosphonate taken weekly on an empty stomach",
+        "It increases bone resorption to remodel bone"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Denosumab is a monoclonal antibody that inhibits osteoclast formation, reducing bone resorption. Distinguishing its mechanism from teriparatide (which builds bone via osteoblasts) and bisphosphonates is the point.",
+        "incorrect": [
+          "Building bone via osteoblasts describes teriparatide, not denosumab.",
+          "Denosumab is a monoclonal antibody injection, not an oral bisphosphonate.",
+          "It decreases, not increases, bone resorption."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports chronic joint pain with morning stiffness that consistently resolves within about 20 to 30 minutes, along with bony enlargement of the finger joints. Which condition is most likely?",
+      "options": [
+        "Osteoarthritis",
+        "Rheumatoid arthritis",
+        "Systemic lupus erythematosus",
+        "Gout"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Morning stiffness that resolves within about 30 minutes, with Heberden's and Bouchard's nodes and no systemic symptoms, is characteristic of osteoarthritis — the single biggest discriminator from RA (whose stiffness lasts an hour or more). Recognizing the stiffness duration is the cue.",
+        "incorrect": [
+          "RA stiffness lasts 60 minutes to several hours with systemic symptoms and symmetric small-joint involvement.",
+          "Lupus causes systemic autoimmune features, not this localized degenerative pattern.",
+          "Gout causes acute, intensely painful monoarticular attacks, not this chronic stiffness pattern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is differentiating osteoarthritis from rheumatoid arthritis. Which finding points specifically to rheumatoid arthritis?",
+      "options": [
+        "Symmetric small-joint involvement with morning stiffness lasting more than an hour and systemic symptoms",
+        "Morning stiffness that resolves in under 30 minutes",
+        "Heberden's and Bouchard's nodes with no systemic symptoms",
+        "Joint changes limited to weight-bearing joints from wear and tear"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "RA is a systemic autoimmune disease with symmetric small-joint involvement, prolonged morning stiffness (an hour or more), and systemic symptoms; OA is a noninflammatory, wear-and-tear disorder. Matching the distinguishing features is the point.",
+        "incorrect": [
+          "Stiffness resolving in under 30 minutes is characteristic of OA.",
+          "Heberden's and Bouchard's nodes without systemic symptoms are OA findings.",
+          "Weight-bearing joint wear describes OA, not RA."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is developing a teaching plan for a client with rheumatoid arthritis to help manage joint stiffness and preserve function. Which instruction is appropriate?",
+      "options": [
+        "Take a warm shower or bath in the morning to decrease joint stiffness",
+        "Apply ice packs to stiff joints for 30 minutes every morning before activity",
+        "Perform high-impact aerobic exercises daily to maintain range of motion",
+        "Limit the use of assistive devices to prevent dependence"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "For RA, heat (a warm morning shower or bath) loosens stiff joints, and therapeutic exercise plus joint protection with assistive devices preserves function. Matching the intervention to inflamed joints is the point.",
+        "incorrect": [
+          "Ice does not relieve the prolonged morning stiffness the way warmth does for RA.",
+          "High-impact exercise can damage inflamed joints; therapeutic, low-impact exercise is recommended.",
+          "Assistive devices protect joints and are encouraged, not limited."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews disease-modifying therapy for rheumatoid arthritis. Which statement is accurate?",
+      "options": [
+        "Disease-modifying antirheumatic drugs (DMARDs) such as methotrexate are the backbone of therapy, with corticosteroids used as a short-term bridge",
+        "NSAIDs alone are the definitive long-term treatment",
+        "Corticosteroids are used indefinitely as the primary therapy",
+        "DMARDs are avoided because RA is not autoimmune"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "DMARDs (nonbiologic such as methotrexate and biologics such as rituximab) are the backbone of RA therapy, aiming for remission, while NSAIDs and corticosteroids provide short-term symptom control and bridging. Understanding the treatment hierarchy is the point.",
+        "incorrect": [
+          "NSAIDs relieve symptoms but do not modify the disease long-term.",
+          "Corticosteroids are a short-term bridge, not indefinite primary therapy.",
+          "RA is autoimmune, and DMARDs are central to its treatment."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is performing an admission assessment on a client with acute low back pain. Which finding should the nurse prioritize for immediate notification of the provider?",
+      "options": [
+        "New-onset urinary incontinence with numbness in the perineal area (saddle anesthesia)",
+        "Pain that radiates down the back of one leg when sitting",
+        "A sharp, shooting sensation during a straight-leg-raise test",
+        "Pain that began after lifting a heavy box using the back instead of the legs"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Saddle anesthesia with new bowel or bladder changes signals cauda equina syndrome, a surgical emergency requiring immediate provider notification. Recognizing this red flag is the priority.",
+        "incorrect": [
+          "Radiating leg pain is an expected radicular symptom, not the emergency.",
+          "A positive straight-leg raise suggests radiculopathy but is not the cauda equina emergency.",
+          "Pain after improper lifting suggests a common lumbar strain, the most frequent cause of low back pain."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with acute low back pain and no red-flag findings. Which approach reflects appropriate management?",
+      "options": [
+        "Reassure the client, encourage activity as tolerated, and use short-term NSAIDs or muscle relaxants",
+        "Recommend strict, prolonged bed rest until all pain resolves",
+        "Order immediate spinal surgery",
+        "Advise the client to avoid all movement for several weeks"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Nonspecific low back pain is managed with reassurance, staying active as tolerated, physical therapy, and short-term medications (NSAIDs, muscle relaxants). Prolonged bed rest and immobility are discouraged.",
+        "incorrect": [
+          "Prolonged bed rest worsens outcomes; activity as tolerated is recommended.",
+          "Surgery is not indicated for uncomplicated, nonspecific low back pain.",
+          "Avoiding all movement for weeks delays recovery."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews the pathophysiology of osteoporosis. Which statement is accurate?",
+      "options": [
+        "Osteoclastic activity exceeds osteoblastic activity, so bone becomes porous, brittle, and prone to fragility fractures",
+        "Osteoblastic activity exceeds osteoclastic activity, making bones denser",
+        "It is an inflammatory autoimmune destruction of the joints",
+        "It results from excess vitamin D causing bone overgrowth"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In osteoporosis, bone breakdown (osteoclastic activity) outpaces bone building (osteoblastic activity), producing porous, brittle bone that fractures easily, especially the spine, hip, and wrist. Understanding the imbalance is the point.",
+        "incorrect": [
+          "If building exceeded breakdown, bone would strengthen, not weaken.",
+          "Autoimmune joint destruction describes rheumatoid arthritis, not osteoporosis.",
+          "Osteoporosis reflects bone loss, not vitamin D excess causing overgrowth."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing an older client for physical signs of osteoporosis. Which finding does the nurse expect?",
+      "options": [
+        "Loss of height and a \"dowager's hump\" (kyphosis)",
+        "Symmetric swelling of the small joints of the hands",
+        "A malar (butterfly) rash across the cheeks",
+        "Warm, red, swollen joints with fever"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Osteoporosis presents with loss of height and a dowager's hump from vertebral compression fractures, along with back pain and fragility fractures; the nurse also assesses fear of falling. Recognizing these signs guides care.",
+        "incorrect": [
+          "Symmetric small-joint swelling suggests rheumatoid arthritis.",
+          "A malar rash suggests lupus, not osteoporosis.",
+          "Warm, red, swollen joints with fever suggest an inflammatory or infectious arthritis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews USPSTF osteoporosis screening recommendations. Which client should be screened based on age alone?",
+      "options": [
+        "A woman 65 years or older",
+        "A man 50 years or older with no risk factors",
+        "A 40-year-old woman with no risk factors",
+        "A 30-year-old man"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The USPSTF recommends osteoporosis screening for women 65 and older (and for younger postmenopausal women at increased risk); evidence is insufficient to recommend routine screening in men. Matching the recommendation to the client is the point.",
+        "incorrect": [
+          "Evidence is insufficient to recommend routine screening in men.",
+          "A 40-year-old woman without risk factors is not screened by age alone.",
+          "A 30-year-old man is not a routine screening candidate."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with osteoporosis about lifestyle measures. Which recommendation is appropriate?",
+      "options": [
+        "Perform weight-bearing exercise and get adequate calcium and vitamin D, while avoiding smoking and excess alcohol",
+        "Avoid all exercise to prevent fractures",
+        "Increase alcohol intake to strengthen bones",
+        "Avoid sunlight entirely"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Osteoporosis prevention includes weight-bearing exercise, adequate calcium (1000-1200 mg/day) and vitamin D (800 IU/day), sunlight exposure, and avoiding smoking and excess alcohol. Targeting modifiable factors strengthens bone.",
+        "incorrect": [
+          "Weight-bearing exercise strengthens bone; avoiding all exercise is counterproductive.",
+          "Excess alcohol is a risk factor, not a strengthening measure.",
+          "Some sunlight supports vitamin D; total avoidance is not recommended."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client after a total knee arthroplasty. Which postoperative complication does the nurse prioritize preventing?",
+      "options": [
+        "Thromboembolic complications such as deep vein thrombosis",
+        "Hyperthyroidism",
+        "Hypoglycemia from the surgery",
+        "Tardive dyskinesia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "After total joint arthroplasty, key postoperative risks include dislocation, infection, and thromboembolism (DVT/PE), so prevention of clots (plus assessment of bleeding and anemia) is prioritized. Anticipating these complications guides care.",
+        "incorrect": [
+          "Hyperthyroidism is not a joint-surgery complication.",
+          "Hypoglycemia is not the priority arthroplasty complication.",
+          "Tardive dyskinesia relates to dopamine-blocking drugs, not joint surgery."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews management of osteoarthritis. Which nonpharmacologic measure is appropriate?",
+      "options": [
+        "Aerobic and resistance exercise, weight loss if indicated, and heat and cold therapy",
+        "Strict immobilization of affected joints",
+        "High-impact running to rebuild cartilage",
+        "Complete bed rest until pain resolves"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Nonpharmacologic OA management includes exercise (aerobic and resistance), weight loss if indicated, PT/OT with assistive devices, and heat/cold therapy. Movement preserves range of motion and reduces disability.",
+        "incorrect": [
+          "Immobilization worsens stiffness and function in OA.",
+          "High-impact running can worsen joint damage rather than rebuild cartilage.",
+          "Bed rest deconditions and does not improve OA."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews laboratory findings for a client with suspected rheumatoid arthritis. Which results support this diagnosis?",
+      "options": [
+        "Positive rheumatoid factor and anti-CCP antibodies with elevated CRP and ESR",
+        "Normal inflammatory markers and no autoantibodies",
+        "Elevated serum calcium and low phosphate",
+        "A positive PSA and Gleason score"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "RA is supported by positive rheumatoid factor and anti-CCP antibodies with elevated inflammatory markers (CRP, ESR); OA has no such diagnostic labs. Matching the serology to RA is the point.",
+        "incorrect": [
+          "Normal markers and absent autoantibodies argue against active RA.",
+          "Calcium and phosphate abnormalities relate to parathyroid/bone metabolism, not RA.",
+          "PSA and Gleason score relate to prostate cancer, not RA."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with rheumatoid arthritis. Which hand finding is characteristic of RA rather than osteoarthritis?",
+      "options": [
+        "Ulnar drift (\"zig-zag deformity\") and swan-neck deformities",
+        "Heberden's nodes at the distal finger joints",
+        "Bouchard's nodes at the proximal finger joints",
+        "Bony enlargement from wear and tear"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "RA causes characteristic deformities such as ulnar drift, swan-neck, and boutonnière from synovial inflammation, whereas Heberden's and Bouchard's nodes are OA findings. Distinguishing the deformities is the point.",
+        "incorrect": [
+          "Heberden's nodes are an OA finding at the distal joints.",
+          "Bouchard's nodes are an OA finding at the proximal joints.",
+          "Bony enlargement from wear and tear is characteristic of OA."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing a client with low back pain for red-flag features suggesting malignancy. Which finding is a red flag?",
+      "options": [
+        "A history of breast, lung, or prostate cancer with persistent night pain and unintentional weight loss",
+        "Pain that improves with rest and worsens with activity",
+        "Pain that began after shoveling snow",
+        "Mild stiffness that eases with a warm shower"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Red flags for malignancy in low back pain include a prior history of cancer (especially breast, lung, or prostate), age over 50, persistent bone or night pain, unintentional weight loss, and failure to improve with therapy. Recognizing these prompts urgent evaluation.",
+        "incorrect": [
+          "Mechanical pain that improves with rest is typical of benign musculoskeletal causes.",
+          "Pain after exertion suggests a mechanical strain, not malignancy.",
+          "Stiffness relieved by warmth is not a malignancy red flag."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client about a bisphosphonate drug holiday. Which statement is accurate?",
+      "options": [
+        "A drug holiday may be considered after about 5 years of therapy",
+        "Bisphosphonates should never be stopped once started",
+        "A drug holiday is taken every 6 months routinely",
+        "A drug holiday means doubling the dose periodically"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "After about 5 years of bisphosphonate therapy, a drug holiday may be considered to balance benefit against rare risks such as atypical femur fractures and osteonecrosis of the jaw. Knowing this timeframe guides teaching.",
+        "incorrect": [
+          "Bisphosphonates can be reassessed for a holiday, not necessarily continued indefinitely.",
+          "A holiday is not a routine every-6-month event.",
+          "A drug holiday is a planned pause, not a dose increase."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews the pathophysiology of osteoarthritis. Which statement is accurate?",
+      "options": [
+        "It is a noninflammatory degenerative disorder with progressive cartilage loss and osteophyte (bone spur) formation",
+        "It is a systemic autoimmune disease attacking the synovium",
+        "It is caused by autoantibodies against cyclic citrullinated peptides",
+        "It primarily affects the small joints symmetrically with systemic symptoms"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "OA is a noninflammatory degenerative joint disorder with progressive cartilage loss and osteophyte formation, mainly in weight-bearing joints. Distinguishing it from the autoimmune, systemic picture of RA is the point.",
+        "incorrect": [
+          "Systemic autoimmune synovial attack describes RA, not OA.",
+          "Anti-CCP autoantibodies are an RA feature.",
+          "Symmetric small-joint involvement with systemic symptoms is RA, not OA."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with low back pain about short-term self-care. Which instruction reflects the deck's guidance?",
+      "options": [
+        "Apply an ice pack wrapped in a towel, or moist heat for about 20 minutes, several times a day, and stay active as tolerated",
+        "Maintain strict bed rest for two weeks",
+        "Apply heat directly to bare skin for an hour at a time",
+        "Avoid any physical therapy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Short-term low back pain self-care includes an ice pack wrapped in a towel or moist heat for about 20 minutes several times daily, staying active as tolerated, and starting physical therapy. These measures relieve pain without prolonged immobility.",
+        "incorrect": [
+          "Strict two-week bed rest is discouraged; activity as tolerated is recommended.",
+          "Heat is applied with a barrier for about 20 minutes, not directly to bare skin for an hour.",
+          "Physical therapy is part of management, not avoided."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse explains why osteoporosis is more common in females. Which statement is accurate?",
+      "options": [
+        "Bone resorption begins earlier and accelerates at menopause with estrogen loss, and females tend to have lower bone mass and calcium intake",
+        "Females have higher testosterone levels that weaken bone",
+        "Females always have higher calcium intake than males",
+        "Menopause increases bone density"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Females are more prone to osteoporosis because bone resorption begins earlier and accelerates at menopause with estrogen loss, and they tend to have lower peak bone mass and calcium intake. Understanding the hormonal basis is the point.",
+        "incorrect": [
+          "Higher testosterone is not the reason; estrogen loss is the driver in females.",
+          "Females tend to have lower, not higher, lifelong calcium intake than males.",
+          "Menopause accelerates bone loss, it does not increase density."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews physical activity recommendations for a client with osteoporosis. Which recommendation is appropriate?",
+      "options": [
+        "At least 150 minutes per week of moderate aerobic activity plus muscle-strengthening at least 2 days per week",
+        "No structured activity to avoid fractures",
+        "Only high-impact contact sports",
+        "Bed rest with passive range of motion only"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Recommended activity includes at least 150 minutes per week of moderate aerobic activity plus muscle-strengthening on at least 2 days per week to promote bone strengthening. Weight-bearing and resistance activity build bone.",
+        "incorrect": [
+          "Avoiding all activity weakens bone; appropriate exercise strengthens it.",
+          "High-impact contact sports are not the recommended approach for fragile bone.",
+          "Bed rest with only passive motion promotes bone loss."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews osteoporosis medications and their mechanisms. Which pairing is correct?",
+      "options": [
+        "Teriparatide forms osteoblasts to build bone, while bisphosphonates inhibit osteoclast-mediated resorption",
+        "Bisphosphonates build new bone, while teriparatide dissolves bone",
+        "Raloxifene increases the risk of osteoporosis",
+        "Denosumab stimulates osteoclasts to remodel bone"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Teriparatide is an anabolic agent that forms osteoblasts to build bone, whereas bisphosphonates are antiresorptive, inhibiting osteoclast-mediated resorption. Matching each drug to its mechanism is the point.",
+        "incorrect": [
+          "This reverses the mechanisms; bisphosphonates inhibit resorption, and teriparatide builds bone.",
+          "Raloxifene is used to treat osteoporosis, not increase its risk.",
+          "Denosumab inhibits, not stimulates, osteoclast formation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client taking raloxifene for osteoporosis. Which adverse effect should the nurse teach the client to monitor for?",
+      "options": [
+        "Signs of deep vein thrombosis, such as calf pain and swelling",
+        "Severe hypoglycemia",
+        "Hyperthyroidism",
+        "Acute kidney stones"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Raloxifene, an estrogen agonist/antagonist, increases the risk of venous thromboembolism, so the client watches for DVT signs (and LFTs are monitored). Anticipating this risk protects the client.",
+        "incorrect": [
+          "Raloxifene is not associated with severe hypoglycemia.",
+          "It does not cause hyperthyroidism.",
+          "Kidney stones are not the characteristic raloxifene concern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about modifiable and non-modifiable risk factors for osteoporosis. Which are recognized risk factors? Select all that apply.",
+      "options": [
+        "Advancing age over 65",
+        "Long-term corticosteroid use",
+        "Cigarette smoking",
+        "A diet low in calcium and vitamin D",
+        "Regular weight-bearing exercise"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Osteoporosis risk factors include advancing age, long-term corticosteroid use, smoking, excess alcohol, sedentary lifestyle, and low calcium/vitamin D intake. Regular weight-bearing exercise is protective, not a risk factor.",
+        "incorrect": [
+          "Correct—advancing age is a major risk factor.",
+          "Correct—corticosteroids longer than 3 months increase bone loss.",
+          "Correct—smoking is a recognized risk factor.",
+          "Correct—low calcium and vitamin D intake weakens bone.",
+          "Incorrect—weight-bearing exercise strengthens bone and is protective."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with acute low back pain for red-flag conditions. Which findings warrant urgent provider notification? Select all that apply.",
+      "options": [
+        "Saddle anesthesia with new bowel or bladder dysfunction",
+        "Fever with recent infection and pain at rest",
+        "A prior history of prostate cancer with night pain and weight loss",
+        "Muscle stiffness relieved by a warm shower",
+        "Progressive lower-extremity weakness"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Red flags include cauda equina signs (saddle anesthesia, new bowel/bladder changes, progressive weakness), infection (fever, recent infection, rest pain), and malignancy (prior cancer, night pain, weight loss). Stiffness relieved by warmth is a benign mechanical feature.",
+        "incorrect": [
+          "Correct—saddle anesthesia with bowel/bladder changes signals cauda equina, an emergency.",
+          "Correct—fever with recent infection and rest pain suggests spinal infection.",
+          "Correct—prior cancer with night pain and weight loss suggests malignancy.",
+          "Incorrect—stiffness relieved by warmth is a benign mechanical feature, not a red flag.",
+          "Correct—progressive weakness is a neurologic red flag."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse compares osteoarthritis and rheumatoid arthritis. Which findings are characteristic of rheumatoid arthritis? Select all that apply.",
+      "options": [
+        "Symmetric involvement of small joints",
+        "Morning stiffness lasting 60 minutes to several hours",
+        "Systemic signs and symptoms",
+        "Morning stiffness that resolves within 30 minutes",
+        "Positive rheumatoid factor and anti-CCP antibodies"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "RA is a systemic autoimmune disease with symmetric small-joint involvement, prolonged morning stiffness (an hour or more), systemic symptoms, and positive RF/anti-CCP. Stiffness resolving within 30 minutes is an osteoarthritis feature.",
+        "incorrect": [
+          "Correct—RA characteristically affects small joints symmetrically.",
+          "Correct—RA morning stiffness lasts 60 minutes to several hours.",
+          "Correct—RA produces systemic signs and symptoms.",
+          "Incorrect—stiffness resolving within 30 minutes is an osteoarthritis feature.",
+          "Correct—RF and anti-CCP antibodies support RA."
+        ]
+      }
+    }
+  ]
+}

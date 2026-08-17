@@ -1,0 +1,609 @@
+{
+  "topic": "msfinal-parkinsons-dementia",
+  "label": "MS Final: Parkinson's & Dementia",
+  "questions": [
+    {
+      "stem": "An older client who was started on an antipsychotic three weeks ago develops symmetric rigidity, slowed movement, and early gait instability. The symptoms respond poorly to a trial of levodopa. Which conclusion is most accurate?",
+      "options": [
+        "This is drug-induced parkinsonism from the dopamine-blocking medication, not idiopathic Parkinson's disease",
+        "This is classic idiopathic Parkinson's disease",
+        "This is an intention tremor unrelated to dopamine",
+        "This is expected aging that requires no follow-up"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Parkinsonism from dopamine-blocking drugs is more symmetric, brings early gait instability, and responds poorly to levodopa — the single best discriminator from idiopathic PD, which is asymmetric and levodopa-responsive. The recent antipsychotic is the cue.",
+        "incorrect": [
+          "Idiopathic PD is typically asymmetric and responds to levodopa, unlike this presentation.",
+          "An intention tremor worsens with movement and is not the rigidity/bradykinesia picture described.",
+          "New parkinsonian signs after starting a dopamine blocker are a medication effect to act on, not benign aging."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing a client for the cardinal features of Parkinson's disease. Which finding is most consistent with the disease?",
+      "options": [
+        "A resting pill-rolling tremor that disappears with intentional movement",
+        "A tremor that worsens when reaching for an object",
+        "Symmetric weakness that improves with rest",
+        "Hyperreflexia with clonus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A resting, pill-rolling tremor that disappears with purposeful movement is a cardinal PD feature, along with cogwheel rigidity and bradykinesia. A tremor that worsens with movement is an intention tremor and is not Parkinson's.",
+        "incorrect": [
+          "A tremor that worsens with reaching is an intention tremor, not the resting tremor of PD.",
+          "Symmetric fatigable weakness suggests a neuromuscular disorder, not PD.",
+          "Hyperreflexia with clonus points to an upper motor neuron or serotonergic process, not PD."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews the pathophysiology of Parkinson's disease. Which statement is correct?",
+      "options": [
+        "Loss of dopamine-producing neurons in the substantia nigra creates a relative excess of acetylcholine, producing tremor and rigidity",
+        "Autoimmune destruction of acetylcholine receptors at the neuromuscular junction causes fatigable weakness",
+        "Demyelination of central nervous system neurons causes optic and sensory changes",
+        "An excess of dopamine overstimulates the basal ganglia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "PD is degeneration of dopaminergic neurons in the substantia nigra, depleting dopamine and leaving a relative excess of acetylcholine in the corpus striatum, which drives tremor and rigidity. Lewy bodies (alpha-synuclein) accumulate in surviving neurons.",
+        "incorrect": [
+          "AChR destruction at the neuromuscular junction describes myasthenia gravis, not PD.",
+          "CNS demyelination describes multiple sclerosis, not PD.",
+          "PD involves too little dopamine, not an excess."
+        ]
+      }
+    },
+    {
+      "stem": "A 72-year-old with Parkinson's disease has a stooped posture, shuffling gait, and decreased arm swing. His sitting blood pressure is 118/70 and drops to 98/60 on standing. Which nursing priority does the nurse identify?",
+      "options": [
+        "Safety and fall prevention",
+        "Promotion of a high-protein diet",
+        "Restriction of all physical activity",
+        "Encouraging rapid position changes to build tolerance"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Postural instability, shuffling gait, and orthostatic hypotension make falls the leading risk, so safety and fall prevention is the number-one nursing priority in PD. Recognizing the stacked cues drives the priority.",
+        "incorrect": [
+          "High-protein meals interfere with levodopa absorption; protein is timed around doses, not promoted freely.",
+          "Activity and PT are encouraged to maintain mobility, not restricted entirely.",
+          "Rapid position changes worsen orthostatic hypotension and increase fall risk."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Parkinson's disease has drooling, soft slurred speech, and difficulty swallowing pills. Which risk does the nurse prioritize, and which intervention is appropriate?",
+      "options": [
+        "Aspiration risk — provide soft, moist foods in small, frequent meals and allow extra time to eat",
+        "Bleeding risk — hold all oral medications",
+        "Infection risk — place the client in isolation",
+        "Seizure risk — pad the side rails"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bulbar involvement (drooling, dysphagia, hypophonia) makes aspiration the priority risk; soft moist foods, small frequent meals, extra time, and speech therapy reduce it. Matching the swallowing cues to aspiration precautions is the point.",
+        "incorrect": [
+          "There is no bleeding risk here, and holding all oral meds could cause dangerous wearing-off in PD.",
+          "Isolation addresses infectious spread, not the swallowing/aspiration problem.",
+          "Seizure precautions do not address dysphagia and aspiration."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with Parkinson's disease about the carbidopa-levodopa regimen scheduled at fixed times throughout the day. Which instruction is most important?",
+      "options": [
+        "Take each dose on time, every time, because late doses cause return of tremor, rigidity, and freezing",
+        "Take doses only when symptoms are bothering you",
+        "Take the medication with a high-protein meal for better absorption",
+        "Stop the medication abruptly if side effects occur"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Levodopa must be taken on time, every time; late doses cause wearing-off with return of tremor, rigidity, freezing, and falls. Consistent timing — not symptom-driven or PRN dosing — maintains motor control.",
+        "incorrect": [
+          "PRN dosing leads to wearing-off; the schedule is fixed to prevent symptom return.",
+          "High-protein meals interfere with levodopa absorption and should be separated from doses.",
+          "Abruptly stopping dopaminergic therapy can be dangerous and is avoided."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Parkinson's disease takes carbidopa-levodopa. To optimize absorption, which dietary teaching does the nurse provide?",
+      "options": [
+        "Separate the medication from high-protein meals",
+        "Take the medication with a large protein-rich snack",
+        "Increase dietary protein at every meal",
+        "Avoid all carbohydrates while taking the drug"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Dietary protein competes with levodopa for absorption, so the medication is separated from high-protein meals (often with a dietitian's help). Timing protein around doses preserves the drug's effect.",
+        "incorrect": [
+          "Taking it with a protein-rich snack reduces absorption.",
+          "Increasing protein at every meal worsens the competition for absorption.",
+          "The issue is protein timing, not carbohydrate avoidance."
+        ]
+      }
+    },
+    {
+      "stem": "A client with Parkinson's disease is taking ropinirole, a dopamine agonist. The nurse teaches the client and family to report which adverse effect?",
+      "options": [
+        "New hallucinations or confusion",
+        "Improved handwriting size",
+        "Decreased drooling",
+        "A slower resting heart rate"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Dopamine agonists such as ropinirole can cause hallucinations and confusion, which should be reported rather than self-managed. Recognizing this class effect is the medication-reasoning point.",
+        "incorrect": [
+          "Improved handwriting would be a therapeutic response, not an adverse effect to report.",
+          "Decreased drooling is a benefit, not an adverse effect.",
+          "A slower heart rate is not the hallmark ropinirole concern; hallucinations are."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with Parkinson's disease who has a complex, multi-dose medication schedule and mild dysphagia. Which strategy best supports safe self-management?",
+      "options": [
+        "Use a written schedule, a pill organizer, and alarms set to exact clock times, and involve the pharmacist about formulation",
+        "Advise taking all doses whenever the client remembers them",
+        "Recommend crushing all extended-release tablets into food",
+        "Encourage the client to adjust doses based on how they feel each day"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A written schedule, pill organizer, and time-specific alarms support on-time dosing, and the pharmacist can advise on formulations given dysphagia — the client should never take doses \"when they remember.\" These strategies protect the tight dosing window.",
+        "incorrect": [
+          "Taking doses whenever remembered causes wearing-off; timing must be exact.",
+          "Crushing extended-release tablets can dump the dose and is not done without pharmacist guidance.",
+          "Self-adjusting doses by feel risks wearing-off and dyskinesias; changes should be provider-directed."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse identifies the eighth nursing priority for Parkinson's disease as \"long-term and palliative considerations.\" Which statement best reflects this priority?",
+      "options": [
+        "Because PD is progressive and non-curative, palliative care can be introduced at any point in the trajectory to support quality of life",
+        "Palliative care should be withheld until the client is in the final days of life",
+        "Palliative care means stopping all Parkinson's medications immediately",
+        "Palliative care is not appropriate for a chronic neurologic disease"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "PD is a progressive, life-limiting illness, so palliative care — which can begin at any point — supports quality of life throughout the trajectory, bridging chronic and end-of-life care. Recognizing this reframes long-term management.",
+        "incorrect": [
+          "Palliative care is offered at any point, not withheld until the final days.",
+          "Palliative care does not require stopping PD medications; it adds symptom and quality-of-life support.",
+          "Palliative care is appropriate for progressive chronic diseases like PD."
+        ]
+      }
+    },
+    {
+      "stem": "A daughter reports her 78-year-old mother has had 8 to 10 months of worsening forgetfulness, repeated questions, and trouble managing bills; the mother says, \"Everyone forgets things.\" Vital signs are stable and a urinalysis is negative. Which problem does this insidious course most suggest?",
+      "options": [
+        "Dementia (a neurocognitive disorder), given the gradual, progressive decline",
+        "Delirium, given the acute change",
+        "Normal age-related memory change requiring no evaluation",
+        "An acute urinary tract infection"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A gradual, progressive 8-to-10-month decline with lack of insight, stable vitals, and negative infection workup fits dementia rather than delirium (which is acute) or normal aging. The insidious course is the key cue.",
+        "incorrect": [
+          "Delirium is acute in onset; this decline unfolded over many months.",
+          "Progressive functional decline is not normal aging and warrants evaluation, never false reassurance.",
+          "A negative urinalysis and stable vitals argue against an acute UTI/delirium."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews the medication list of a 78-year-old with cognitive decline and finds diphenhydramine taken nightly for sleep. Why does the nurse flag this medication?",
+      "options": [
+        "Its anticholinergic effects can worsen cognition and increase fall risk in older adults",
+        "It is a dopamine agonist that causes hallucinations",
+        "It is a cholinesterase inhibitor that can cause bradycardia",
+        "It has no relevance to cognition and can be continued"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Diphenhydramine is a potent anticholinergic; in older adults with cognitive impairment it can worsen cognition and raise fall risk, making it a modifiable, nurse-identifiable contributor to review. Recognizing the anticholinergic cue is the point.",
+        "incorrect": [
+          "Diphenhydramine is an anticholinergic antihistamine, not a dopamine agonist.",
+          "It is not a cholinesterase inhibitor; its concern is anticholinergic burden.",
+          "It is highly relevant to cognition and should be reviewed, not simply continued."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing an older client with new confusion. Which set of features would meet the Confusion Assessment Method (CAM) criteria for delirium?",
+      "options": [
+        "Acute onset with a fluctuating course and inattention, plus disorganized thinking",
+        "Disorganized thinking and altered level of consciousness without any acute onset",
+        "Chronic, slowly progressive memory loss over a year",
+        "Inattention alone with a stable baseline"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CAM requires feature 1 (acute onset and fluctuating course) AND feature 2 (inattention), PLUS either feature 3 (disorganized thinking) OR feature 4 (altered LOC). Acute onset with fluctuation, inattention, and disorganized thinking meets the rule.",
+        "incorrect": [
+          "Without acute onset (feature 1), CAM is not met even with features 3 and 4 present.",
+          "Slowly progressive memory loss over a year describes dementia, not delirium.",
+          "Inattention alone does not satisfy CAM, which requires acute onset plus inattention plus feature 3 or 4."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse differentiates delirium from dementia for a group of students. Which statement is correct?",
+      "options": [
+        "Delirium is acute in onset and often caused by illness or infection, whereas dementia is insidious and progressive",
+        "Delirium is chronic and progressive, whereas dementia is acute and reversible",
+        "Both have identical onset and are managed the same way",
+        "Delirium is never a medical emergency"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Delirium is acute, fluctuating, a medical emergency, and often triggered by serious illness or infection; dementia is insidious, progressive, and chronic. Distinguishing onset and cause guides urgency and workup.",
+        "incorrect": [
+          "The descriptors are reversed: delirium is acute; dementia is chronic and progressive.",
+          "Their onset differs — delirium acute, dementia insidious — and management differs.",
+          "Delirium is a medical emergency requiring prompt evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse administers the SLUMS examination to a 78-year-old with a high school education who scores 16 out of 30. How does the nurse interpret this result?",
+      "options": [
+        "It falls in the dementia range, indicating significant cognitive impairment",
+        "It is a normal result for her age",
+        "It indicates only mild neurocognitive disorder",
+        "It cannot be interpreted without also giving a depression scale"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "On the SLUMS, a high-school-educated adult scores 27-30 normal, 21-26 mild neurocognitive disorder, and 1-20 dementia; 16 falls in the dementia range under either education column. The education level adjusts the cutoffs, and 16 is clearly abnormal.",
+        "incorrect": [
+          "A score of 16 is well below the normal range (27-30 for high-school-educated adults).",
+          "Mild neurocognitive disorder is 21-26; 16 is below that, in the dementia range.",
+          "A depression scale complements the workup but is not required to interpret a SLUMS of 16."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is choosing a screening tool to detect mild cognitive impairment and dementia in an older adult. Which tool is appropriate, and what should the nurse remember about scoring it?",
+      "options": [
+        "The SLUMS — it is more sensitive than the MMSE and its cutoffs are adjusted for the client's education level",
+        "The CAM — it grades cognition on a 30-point scale",
+        "The GDS — it detects dementia based on memory recall",
+        "The PHQ-9 — it stages the severity of dementia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The SLUMS screens for mild cognitive impairment and dementia, is more sensitive than the MMSE, and uses education-adjusted cutoffs, so education level must be recorded. Matching the tool and its scoring caveat is the point.",
+        "incorrect": [
+          "The CAM screens for delirium using four features, not a 30-point cognitive score.",
+          "The GDS screens for depression, not dementia.",
+          "The PHQ-9 screens for depression, not dementia severity."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse administers the Geriatric Depression Scale (GDS) short form to an older client, who scores 8 out of 15. How does the nurse interpret and act on this result?",
+      "options": [
+        "A score above 5 is suggestive of depression and warrants a follow-up comprehensive assessment",
+        "A score of 8 is normal and requires no further action",
+        "A score of 8 is diagnostic of major depression and requires immediate medication",
+        "The GDS score is used to diagnose dementia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "On the GDS, a score above 5 is suggestive of depression and should prompt a follow-up comprehensive assessment; a score of 10 or more is almost always indicative. A screen suggests, it does not diagnose or by itself mandate medication.",
+        "incorrect": [
+          "A score of 8 exceeds the >5 threshold and is not normal; it warrants follow-up.",
+          "A screening score is not a diagnosis and does not by itself mandate immediate medication.",
+          "The GDS screens for depression, not dementia."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is asked what the PHQ-9 screens for. Which response is correct?",
+      "options": [
+        "It screens for depression",
+        "It screens for delirium",
+        "It screens for cognitive impairment and dementia",
+        "It measures fall risk"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The PHQ-9 is a validated depression screening tool. Knowing each named tool's purpose — PHQ-9 and GDS for depression, SLUMS for cognition, CAM for delirium — is the tested distinction.",
+        "incorrect": [
+          "Delirium is screened with the CAM, not the PHQ-9.",
+          "Cognitive impairment and dementia are screened with the SLUMS, not the PHQ-9.",
+          "The PHQ-9 does not measure fall risk."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cognitive decline has a SLUMS of 16 (dementia range) and a GDS of 2. How does the nurse interpret these results together?",
+      "options": [
+        "The cognitive impairment is unlikely to be explained by depression, since the low GDS argues against depression",
+        "The client most likely has depression causing the low SLUMS",
+        "Both scores are normal and no further workup is needed",
+        "The GDS confirms delirium as the cause"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A SLUMS in the dementia range with a GDS below the >5 threshold indicates cognitive impairment that is not depression-driven (ruling out pseudodementia). Reading the two screens together refines the analysis.",
+        "incorrect": [
+          "A GDS of 2 is below the depression threshold, so depression is unlikely to explain the low SLUMS.",
+          "A SLUMS of 16 is abnormal (dementia range); it is not normal.",
+          "The GDS screens for depression, not delirium."
+        ]
+      }
+    },
+    {
+      "stem": "A client with newly identified cognitive decline has lab results of TSH 5.8 (elevated), free T4 low-normal, and vitamin B12 of 256 (borderline low). Why does the nurse recognize these results as important?",
+      "options": [
+        "Hypothyroidism and low B12 are potentially reversible contributors to cognitive impairment that should be treated before diagnosing dementia",
+        "They confirm irreversible Alzheimer's dementia",
+        "They confirm an acute infection causing delirium",
+        "They are unrelated to cognition and can be ignored"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "An elevated TSH with low-normal T4 (hypothyroidism) and borderline-low B12 are potentially reversible causes of cognitive impairment, so the workup addresses them before diagnosing dementia. Seeking treatable contributors is the reasoning.",
+        "incorrect": [
+          "These labs point to reversible contributors, not confirmation of irreversible dementia.",
+          "Thyroid and B12 results do not indicate an acute infection; a negative UA and normal CBC argue against delirium.",
+          "They are directly relevant to cognition and must be addressed."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is prioritizing interventions for an older client with dementia who left the stove on and got lost in the neighborhood twice, takes nightly diphenhydramine, and has withdrawn from social activities. Which intervention is the highest priority?",
+      "options": [
+        "Address immediate home safety, including supervision with cooking",
+        "Refer the caregiver to support resources",
+        "Encourage re-engagement in social activities",
+        "Schedule a follow-up cognitive screen in six months"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Immediate physical safety outranks all else: leaving the stove on and getting lost are acute hazards, so home safety and cooking supervision come first, followed by removing modifiable causes (diphenhydramine), caregiver support, and quality-of-life measures.",
+        "incorrect": [
+          "Caregiver support is important but does not address the immediate physical danger first.",
+          "Social re-engagement improves quality of life but is the lowest urgency here.",
+          "A future screen does not address the present safety hazards."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse recognizes that behavioral and psychological symptoms of dementia (BPSD) are often a signal of an unmet need. A client with dementia becomes agitated in the late afternoon. Which action should the nurse take first?",
+      "options": [
+        "Investigate for triggers such as pain, a full bladder, hunger, or overstimulation",
+        "Request an order for haloperidol to control the agitation",
+        "Apply restraints to keep the client safe",
+        "Move the client to a brightly lit, busy common area"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "BPSD often communicates an unmet need, so the nurse first investigates reversible triggers — pain, a full bladder, hunger, over- or understimulation, or medication effects — before considering medication. Behavior is communication; the first step is to look for the cause.",
+        "incorrect": [
+          "Reaching for an antipsychotic before investigating the unmet need is the wrong first step.",
+          "Restraints increase distress and injury risk and do not address the underlying need.",
+          "A bright, busy area may worsen agitation from overstimulation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse uses the DICE approach to manage behavioral symptoms of dementia. Which principle governs this approach?",
+      "options": [
+        "Non-pharmacologic interventions are first-line; describe, investigate, create a plan, and evaluate before considering medication",
+        "Medicate first with an antipsychotic, then investigate the cause",
+        "Restrain the client during any episode of agitation",
+        "Avoid involving caregivers in identifying triggers"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "DICE — Describe, Investigate, Create, Evaluate — makes non-pharmacologic interventions first-line, reserving medication until unmet needs and triggers are ruled out. Any answer reaching for an antipsychotic before DICE is completed is wrong.",
+        "incorrect": [
+          "Medicating first inverts DICE, which investigates and tries non-pharmacologic measures before drugs.",
+          "Restraint is not part of DICE and increases harm.",
+          "DICE explicitly involves caregivers and the environment in investigating triggers."
+        ]
+      }
+    },
+    {
+      "stem": "An 82-year-old with moderate Alzheimer's disease was started on quetiapine one week ago for agitation and is now brought to the ED after a fall, appearing somnolent and hypotensive with a weak cough. He also takes lisinopril and tamsulosin. Which understanding guides the nurse's analysis of this cascade?",
+      "options": [
+        "Treating agitation with an antipsychotic instead of investigating the unmet need led to sedation, hypotension, a fall, and aspiration risk",
+        "The fall is unrelated to any of the client's medications",
+        "The quetiapine was the correct first-line treatment for his agitation",
+        "Aspiration is not a concern because he is only somnolent"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Quetiapine started for agitation (instead of non-pharmacologic DICE) caused sedation; combined with lisinopril and tamsulosin it produced hypotension and a fall, and somnolence with a weak cough now raises aspiration and possible superimposed delirium. Recognizing the cascade is the analyze-cues step.",
+        "incorrect": [
+          "The antipsychotic plus antihypertensives directly contributed to the sedation and fall.",
+          "Non-pharmacologic measures are first-line; the antipsychotic was not the appropriate first step.",
+          "Somnolence with a weak cough impairs airway protection and raises aspiration risk."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about treatment for Alzheimer's dementia. Which statement is accurate?",
+      "options": [
+        "There is no cure; medications such as cholinesterase inhibitors, memantine, and anti-amyloid drugs aim to slow the disease",
+        "These medications cure the disease if started early",
+        "Antipsychotics are the first-line treatment for all dementia symptoms",
+        "Treatment reverses the cognitive decline"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Alzheimer's has no current cure; the three drug classes — cholinesterase inhibitors, memantine, and anti-amyloid agents — slow the disease and provide supportive, symptomatic care alongside early identification. \"Slow,\" not \"cure,\" is the key word.",
+        "incorrect": [
+          "These drugs slow, not cure, the disease.",
+          "Antipsychotics are not first-line; non-pharmacologic measures are first-line for behavioral symptoms.",
+          "Treatment does not reverse the decline; it slows progression."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a community group about reducing the risk of Alzheimer's disease and related dementias. Which recommendation reflects a modifiable risk factor?",
+      "options": [
+        "Manage blood pressure and diabetes, stay physically active, avoid smoking, and address hearing loss",
+        "Because all dementia risk is genetic, lifestyle changes make no difference",
+        "Increase alcohol intake to relax the brain",
+        "Avoid any physical activity to conserve energy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Modifiable risks for dementia include physical inactivity, obesity, smoking, hypertension, excessive alcohol, diabetes, depression, and hearing loss, so managing these lowers risk. Framing prevention around modifiable factors is the teaching point.",
+        "incorrect": [
+          "Much dementia risk is modifiable, so lifestyle changes do matter.",
+          "Excessive alcohol is a risk factor, not a protective one.",
+          "Physical activity is protective; inactivity raises risk."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver for a spouse with dementia reports exhaustion, guilt, and having stopped seeing friends. Which nursing intervention best addresses caregiver stress?",
+      "options": [
+        "Assess the caregiver's well-being and connect them to respite and support services",
+        "Advise the caregiver to provide all care alone to maintain routine",
+        "Tell the caregiver that stress is unavoidable and cannot be helped",
+        "Recommend the caregiver ignore their own health needs for now"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Caregiver stress spans emotional strain, physical exhaustion, social isolation, and role overload; the nurse assesses well-being and connects the caregiver to respite and support (such as the GUIDE model's respite hours). Supporting the caregiver protects both members of the dyad.",
+        "incorrect": [
+          "Providing all care alone deepens role overload and isolation.",
+          "Dismissing stress as unavoidable ignores available respite and support.",
+          "Encouraging self-neglect worsens caregiver burnout."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse describes the CMS GUIDE model to the family of a client with dementia. Which benefit is part of this model?",
+      "options": [
+        "Caregiver skills training, a 24/7 support line, and in-home respite care",
+        "Guaranteed reversal of the client's dementia",
+        "A requirement that the client be placed in a nursing home",
+        "Immediate initiation of antipsychotic medication for all clients"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The GUIDE model provides a comprehensive package — care coordination, caregiver training, a 24/7 support line, and in-home respite — to improve quality of life and reduce caregiver strain. It is supportive, not curative, and does not mandate placement or medication.",
+        "incorrect": [
+          "No model reverses dementia; GUIDE improves quality of life and supports caregivers.",
+          "GUIDE supports care at home and does not require nursing-home placement.",
+          "GUIDE does not mandate antipsychotics, which are not first-line."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse receives report on four older adults. Which client requires the most urgent assessment?",
+      "options": [
+        "A client with a sudden change in mental status, fluctuating attention, and a new fever",
+        "A client with a stable 10-month history of progressive memory loss",
+        "A client with dementia asking repetitive questions",
+        "A client with well-controlled Parkinson's requesting help to the bathroom"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Acute mental status change with fluctuating attention and fever suggests delirium — a medical emergency often caused by infection — that outranks the chronic and stable presentations. Recognizing the acute cue drives the priority.",
+        "incorrect": [
+          "A stable, progressive memory decline is chronic dementia, not an emergency.",
+          "Repetitive questioning is an expected dementia behavior, not urgent.",
+          "Assisting a stable Parkinson's client to the bathroom is routine, not emergent."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client taking a multi-drug Parkinson's regimen (carbidopa-levodopa, entacapone, ropinirole, amantadine). Which teaching points are appropriate? Select all that apply.",
+      "options": [
+        "Take each dose on time, every time, using alarms set to exact clock times",
+        "Separate levodopa doses from high-protein meals",
+        "Report new hallucinations or confusion rather than self-adjusting doses",
+        "Stop the medications abruptly if you feel better",
+        "Change positions slowly because of orthostatic hypotension"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "PD regimen teaching includes on-time dosing, separating levodopa from protein, reporting hallucinations (dopamine-agonist effect) rather than self-adjusting, and rising slowly for orthostatic hypotension. Dopaminergic therapy is never stopped abruptly.",
+        "incorrect": [
+          "Correct—on-time dosing prevents wearing-off with return of tremor and rigidity.",
+          "Correct—protein competes with levodopa absorption, so doses are separated from high-protein meals.",
+          "Correct—hallucinations and confusion (a dopamine-agonist effect) should be reported.",
+          "Incorrect—abruptly stopping dopaminergic therapy is dangerous and must be avoided.",
+          "Correct—dopaminergic drugs cause orthostatic hypotension, so slow position changes reduce falls."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client using the Confusion Assessment Method (CAM). Which features are part of the CAM? Select all that apply.",
+      "options": [
+        "Acute onset and fluctuating course",
+        "Inattention",
+        "Disorganized thinking",
+        "Altered level of consciousness",
+        "A 30-point graded memory score"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The CAM comprises four features: acute onset and fluctuating course, inattention, disorganized thinking, and altered level of consciousness (diagnosis requires the first two plus either of the last two). A graded 30-point memory score belongs to the SLUMS, not the CAM.",
+        "incorrect": [
+          "Correct—acute onset with a fluctuating course is CAM feature 1.",
+          "Correct—inattention is CAM feature 2.",
+          "Correct—disorganized thinking is CAM feature 3.",
+          "Correct—altered level of consciousness is CAM feature 4.",
+          "Incorrect—a 30-point graded memory score describes the SLUMS, not the CAM."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing potential triggers of behavioral and psychological symptoms of dementia (BPSD). Which are recognized unmet-need triggers? Select all that apply.",
+      "options": [
+        "Unrelieved pain",
+        "Infection or dehydration",
+        "Anticholinergic medication effects",
+        "Environmental overstimulation or understimulation",
+        "Non-pharmacologic redirection by the caregiver"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "BPSD often signals unmet needs — pain, infection/dehydration, sensory impairment, anticholinergic medication effects, over- or understimulation, fear/loneliness/boredom, and fatigue. Non-pharmacologic redirection is an intervention, not a trigger.",
+        "incorrect": [
+          "Correct—unrelieved pain is a common unmet-need trigger.",
+          "Correct—infection or dehydration can precipitate behavioral symptoms.",
+          "Correct—anticholinergic medication effects are a named trigger.",
+          "Correct—over- or understimulation in the environment can trigger BPSD.",
+          "Incorrect—non-pharmacologic redirection is a first-line intervention, not a trigger."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "topic": "msfinal-palliative",
+  "label": "MS Final: Palliative & Hospice",
+  "questions": [
+    {
+      "stem": "A newly diagnosed client with early-stage lung cancer who is starting curative chemotherapy asks whether a palliative care referral means the team is giving up on treatment. Which response by the nurse is most accurate?",
+      "options": [
+        "\"Palliative care focuses on relieving symptoms and stress and can be provided alongside your cancer treatment at any stage.\"",
+        "\"Palliative care is only for patients who are dying, so we would stop your chemotherapy first.\"",
+        "\"Palliative care and hospice are the same thing, so you would give up curative treatment.\"",
+        "\"We only offer palliative care once you have less than six months to live.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Palliative care is specialized care that relieves symptoms and stress of a serious illness and can begin at diagnosis, alongside curative treatment — it is not limited to the dying. Any answer equating palliative care with giving up is the classic trap and is wrong.",
+        "incorrect": [
+          "Equating palliative care with dying is the exact misconception to correct; it is offered at any point in the illness.",
+          "Hospice is a subset of palliative care, not the same thing, and palliative care does not require stopping treatment.",
+          "The six-month framing describes hospice eligibility, not palliative care, which starts at serious diagnosis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a class on how hospice and palliative care differ. Which statement correctly describes hospice?",
+      "options": [
+        "It is care that focuses on comfort rather than cure, generally for the last six months of life, and is regulated by CMS",
+        "It can be started at the time of a serious diagnosis regardless of prognosis",
+        "It can be delivered in any clinical setting at any stage of any illness",
+        "It always continues disease-modifying, curative treatments"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Hospice is CMS-regulated, delivered by a Medicare hospice-certified agency, generally for the last six months of life, and focuses on caring rather than curing. Distinguishing it from the broader, any-stage palliative model is the point.",
+        "incorrect": [
+          "Starting at serious diagnosis regardless of prognosis describes palliative care, not hospice.",
+          "Any-setting, any-stage delivery describes palliative care; hospice is usually delivered wherever the patient calls home under specific eligibility.",
+          "Hospice patients forgo disease-modifying treatment; the focus is comfort, not cure."
+        ]
+      }
+    },
+    {
+      "stem": "A client with end-stage heart failure elects the Medicare Hospice Benefit. Which implication should the nurse ensure the client understands?",
+      "options": [
+        "They are choosing comfort-focused care and forgoing disease-modifying treatments under this benefit",
+        "They must continue all curative treatments while receiving hospice services",
+        "Hospice care can only be provided in a hospital setting",
+        "They will lose access to pain and symptom management"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Under the Medicare Hospice Benefit the client elects comfort-focused care and forgoes disease-modifying treatment for the terminal condition. Ensuring the client grasps this trade-off supports an informed, autonomous choice.",
+        "incorrect": [
+          "Electing the benefit means forgoing curative treatment, not continuing it.",
+          "Hospice is usually delivered wherever the patient calls home, not only in a hospital.",
+          "Pain and symptom management are central to hospice, not lost."
+        ]
+      }
+    },
+    {
+      "stem": "A provider asks the nurse who is responsible for determining whether a client has the ability to consent to a proposed treatment. Which response reflects the correct concept?",
+      "options": [
+        "A physician determines decision-making capacity, which is a clinical judgment with no single gold-standard test",
+        "A court determines capacity, and a guardian is appointed if the client lacks it",
+        "The nurse legally determines the client's competency at the bedside",
+        "Capacity is established automatically once the client signs any form"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Decision-making capacity is the psychological ability to make rational decisions and is determined clinically by a physician; there is no gold-standard test. Competency, by contrast, is a legal/court concept. Separating these is the tested distinction.",
+        "incorrect": [
+          "Court determination and guardianship describe competency, a legal concept, not clinical capacity.",
+          "Nurses do not legally determine competency; a physician assesses capacity and courts decide competency.",
+          "Signing a form does not establish capacity; capacity is a clinical judgment."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client's decision-making capacity before a surgical consent. Which finding best demonstrates that the client has capacity?",
+      "options": [
+        "The client can describe the treatment, its alternatives, and the consequences of both accepting and declining it, and can reason through the choice",
+        "The client agrees with whatever the surgeon recommends without questions",
+        "The client has no legal guardian appointed",
+        "The client scores within normal limits on a cognitive screen"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Capacity rests on four abilities: to communicate a choice, understand the treatment and alternatives, appreciate the consequences of accepting and declining, and reason through it. Demonstrating all four — including the consequences of refusal — is the standard.",
+        "incorrect": [
+          "Simply agreeing without understanding does not demonstrate the reasoning and appreciation capacity requires.",
+          "Absence of a guardian relates to legal competency, not the clinical capacity standards.",
+          "A normal cognitive screen alone does not establish decision-specific capacity for this treatment."
+        ]
+      }
+    },
+    {
+      "stem": "A client wants to appoint their adult child to make health care decisions if they become unable to speak for themselves. Which document does the nurse explain is used for this purpose?",
+      "options": [
+        "A health care proxy (durable power of attorney for health care)",
+        "A living will",
+        "A do-not-resuscitate (DNR) order",
+        "A MOLST form"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A health care proxy (durable power of attorney for health care) appoints an agent to make decisions when the client cannot. A living will states treatment preferences, and DNR/MOLST are medical orders — matching the client's goal to the correct document is the point.",
+        "incorrect": [
+          "A living will documents treatment preferences, not the appointment of a decision-maker.",
+          "A DNR is a specific medical order about resuscitation, not an appointment of an agent.",
+          "A MOLST is a set of medical orders signed by a physician, not the document that names a proxy."
+        ]
+      }
+    },
+    {
+      "stem": "A client without a DNR order is found unresponsive and pulseless. What is the nurse's correct action?",
+      "options": [
+        "Initiate CPR, because providers must attempt resuscitation unless a valid DNR order exists",
+        "Withhold CPR because the client is terminally ill",
+        "Wait for the family to decide whether to start CPR",
+        "Call the physician for a verbal DNR before doing anything"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "By law, providers must initiate CPR for a pulseless, non-breathing person unless a valid DNR order exists. Absent that order, resuscitation is started immediately — the take-action step.",
+        "incorrect": [
+          "A terminal diagnosis alone does not authorize withholding CPR without a valid DNR order.",
+          "Waiting for family delays required resuscitation when no DNR is in place.",
+          "Resuscitation must begin now; obtaining an order cannot delay CPR in an arrest."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is coordinating a MOLST form for a client with a serious illness who is transferring from the hospital to a long-term care facility. Which statement about the MOLST is correct?",
+      "options": [
+        "The physician must sign it, the patient keeps the original during transfers, and it is reviewed when the patient moves between settings",
+        "The nurse signs the MOLST, and the facility keeps the only copy",
+        "It is appropriate only for clients expected to live many years",
+        "Once signed, it never needs to be reviewed again"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A MOLST is a physician-signed set of medical orders; the patient keeps the original when moving between settings, the physician keeps a copy, and the orders are reviewed at each transition. It is intended for clients with serious illness who may die within a year or need long-term care.",
+        "incorrect": [
+          "A physician, not the nurse, must sign the MOLST, and the patient keeps the original.",
+          "MOLST is intended for those with serious illness who might die within a year, not clients expected to live many years.",
+          "MOLST orders must be reviewed when the client moves between settings."
+        ]
+      }
+    },
+    {
+      "stem": "A client is transitioning to comfort-focused end-of-life care. Which change in the plan of care does the nurse anticipate?",
+      "options": [
+        "Discontinuing non-essential treatments and routine vital signs while increasing the focus on family needs",
+        "Increasing the frequency of diagnostic testing and laboratory draws",
+        "Prioritizing aggressive life-prolonging interventions",
+        "Restricting family presence to reduce stimulation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "At end of life the focus shifts to quality of life: non-essential treatments, routine vitals, and diagnostics are de-emphasized, comfort measures are initiated, and family needs become more pronounced. Recognizing this reorientation guides care.",
+        "incorrect": [
+          "Diagnostics and labs are de-emphasized at end of life, not increased.",
+          "Life-prolonging interventions are de-emphasized in comfort-focused care.",
+          "Family needs become more pronounced; family presence is supported, not restricted."
+        ]
+      }
+    },
+    {
+      "stem": "A family member of a dying client tells the nurse, \"I just don't know how we'll go on without her.\" Which response best reflects therapeutic communication in palliative care?",
+      "options": [
+        "\"This is such a painful time. Tell me more about what you're feeling.\"",
+        "\"I know exactly how you feel; I've been through this too.\"",
+        "\"Try not to worry — everything happens for a reason.\"",
+        "\"You should focus on the arrangements that need to be made.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Naming the emotion and inviting the person to say more reflects the NURSE approach — naming, understanding, respecting, supporting, exploring — and allows silence and active listening. It avoids the classic errors of premature reassurance or advice.",
+        "incorrect": [
+          "\"I know how you feel\" is the classic wrong response; it invites the reaction that no one can truly know another's feelings.",
+          "\"Everything happens for a reason\" is premature, dismissive reassurance rather than empathy.",
+          "Redirecting to arrangements shuts down the emotion instead of exploring it."
+        ]
+      }
+    },
+    {
+      "stem": "An actively dying client develops noisy, gurgling respirations (\"death rattle\") from pooled secretions. Which intervention does the nurse anticipate?",
+      "options": [
+        "Reposition the client and administer an anticholinergic such as scopolamine, with family education",
+        "Perform deep tracheal suctioning to clear the secretions",
+        "Increase IV fluids to thin the secretions",
+        "Place the client flat and supine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The death rattle is managed by repositioning, an anticholinergic (scopolamine) to dry secretions, and educating family that the sound distresses them more than the patient. Deep suctioning is explicitly avoided because it causes distress without benefit.",
+        "incorrect": [
+          "Deep suctioning is the number-one wrong answer here; it is distressing and not recommended for the death rattle.",
+          "Adding IV fluids increases secretions and worsens the rattle.",
+          "Lying flat and supine does not relieve pooled secretions; repositioning is used."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is managing dyspnea in a client near the end of life. Which nonpharmacologic measure is appropriate?",
+      "options": [
+        "Direct a fan or cool air toward the client's face and position them to facilitate chest expansion",
+        "Keep the room warm and humid with the client lying flat",
+        "Restrict all activity and avoid repositioning",
+        "Withhold oxygen because it is a life-prolonging measure"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Nonpharmacologic dyspnea relief includes cool air or a fan to the face, positioning to ease chest expansion, rest periods, and imagery/deep breathing. These comfort measures target the sensation of breathlessness directly.",
+        "incorrect": [
+          "A warm, humid room with the client flat does not relieve breathlessness the way cool air and upright positioning do.",
+          "Positioning to aid chest expansion is beneficial; immobilizing the client is not the measure.",
+          "Oxygen is used for comfort in end-of-life dyspnea, not withheld."
+        ]
+      }
+    },
+    {
+      "stem": "A client at the end of life is prescribed ondansetron for nausea. Which assessment is most important for the nurse to prioritize with this medication?",
+      "options": [
+        "Monitoring the QT interval on the ECG",
+        "Monitoring for extrapyramidal symptoms such as tardive dyskinesia",
+        "Monitoring blood glucose for hyperglycemia",
+        "Monitoring for a hypertensive crisis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Ondansetron can prolong the QT interval, so ECG/QT monitoring is prioritized. Matching each antiemetic to its signature risk (ondansetron → QT) is the key medication-reasoning point.",
+        "incorrect": [
+          "Tardive dyskinesia is the risk with the dopamine-blocking antiemetics prochlorperazine and metoclopramide, not ondansetron.",
+          "Hyperglycemia is the concern with dexamethasone, not ondansetron.",
+          "Hypertensive crisis is not an ondansetron effect."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving dexamethasone for nausea and appetite at the end of life has these antiemetics on the medication list. The nurse recognizes dexamethasone requires monitoring for which effect?",
+      "options": [
+        "Hyperglycemia",
+        "QT prolongation",
+        "Tardive dyskinesia",
+        "Agranulocytosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Dexamethasone is a corticosteroid that can raise blood glucose, so hyperglycemia monitoring is required. Linking each antiemetic to its signature adverse effect is the reasoning.",
+        "incorrect": [
+          "QT prolongation is the ondansetron concern, not dexamethasone's.",
+          "Tardive dyskinesia is associated with prochlorperazine and metoclopramide, not dexamethasone.",
+          "Agranulocytosis is not the characteristic dexamethasone risk here."
+        ]
+      }
+    },
+    {
+      "stem": "A client near the end of life is receiving prochlorperazine for nausea and begins to show repetitive lip-smacking and tongue movements. The nurse recognizes this as which adverse effect?",
+      "options": [
+        "Tardive dyskinesia from the dopamine-blocking antiemetic",
+        "QT prolongation",
+        "Hyperglycemia",
+        "A cholinergic crisis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Prochlorperazine (like metoclopramide) blocks dopamine and can cause tardive dyskinesia — involuntary orofacial movements. Recognizing the drug class effect is the analyze-cues step, and these are the same dopamine-blocking drugs that can cause drug-induced parkinsonism.",
+        "incorrect": [
+          "QT prolongation is the ondansetron effect, not prochlorperazine's movement disorder.",
+          "Hyperglycemia is the dexamethasone concern, not prochlorperazine's.",
+          "These are extrapyramidal movements from dopamine blockade, not a cholinergic crisis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is planning pain management for a client with a serious, life-limiting illness who has persistent pain. Which approach is most appropriate?",
+      "options": [
+        "Schedule analgesics around the clock to prevent pain from recurring",
+        "Give analgesics only PRN when the client reports severe pain",
+        "Prefer intramuscular injections over oral or transdermal routes",
+        "Wait until pain reaches a high level before medicating"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Persistent end-of-life pain is best controlled by scheduling analgesics around the clock to prevent recurrence, using routes such as oral, transdermal, or suppository rather than IM. Preventing pain rather than chasing it is the evidence-based principle.",
+        "incorrect": [
+          "PRN-only dosing chases pain after it returns rather than preventing it.",
+          "IM injections are the route to avoid at end of life; patches and suppositories are preferred over IM.",
+          "Waiting for severe pain before treating undermines the goal of preventing recurrence."
+        ]
+      }
+    },
+    {
+      "stem": "The family of a dying client who is no longer eating asks the nurse to \"start an IV so she doesn't starve.\" Which response reflects appropriate end-of-life care?",
+      "options": [
+        "Explain that decreased intake is expected and that artificial nutrition and IV fluids can cause nausea, vomiting, and aspiration; focus on oral care and comfort",
+        "Immediately start IV fluids to prevent dehydration",
+        "Insert a feeding tube to ensure adequate nutrition",
+        "Encourage the family to force fluids by mouth"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Near death, decreased intake is expected, and artificial nutrition/hydration can cause nausea, vomiting, diarrhea, and aspiration without improving comfort; care shifts to oral care and other comfort measures. Reframing food as care while avoiding IVs supports the client's comfort.",
+        "incorrect": [
+          "Starting IV fluids can worsen secretions and cause nausea/aspiration at end of life.",
+          "A feeding tube introduces aspiration and discomfort without benefit at this stage.",
+          "Forcing oral fluids risks aspiration in a dying client with decreased intake."
+        ]
+      }
+    },
+    {
+      "stem": "A client in the last hours of life is restless and agitated. Which nursing action should the nurse take first?",
+      "options": [
+        "Assess for reversible causes such as pain or urinary retention",
+        "Immediately administer palliative sedation",
+        "Apply soft wrist restraints to prevent injury",
+        "Reduce all analgesics to lower sedation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Terminal agitation is first addressed by identifying reversible causes — pain, a full bladder, other discomfort — before palliative sedation or antipsychotics. Recognizing and correcting the underlying cue comes before medicating.",
+        "incorrect": [
+          "Palliative sedation may follow, but assessing for a treatable cause comes first.",
+          "Restraints increase distress and injury risk and do not address the cause of agitation.",
+          "Reducing analgesics may worsen unrelieved pain, a common cause of agitation."
+        ]
+      }
+    },
+    {
+      "stem": "A client is showing signs that death is near, including mottled, cool extremities and irregular breathing. The family is frightened. What is the nurse's priority intervention?",
+      "options": [
+        "Teach the family what to expect as death approaches and reassure them these changes are part of the natural process",
+        "Begin aggressive warming measures for the cool extremities",
+        "Move the client to intensive care for closer monitoring",
+        "Increase IV fluids to improve circulation to the extremities"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "As death nears, the nurse's priority is to teach the family what to expect — mottling, cooling, and breathing changes are part of the natural dying process — which reduces fear and supports them. Not all signs occur in every patient, and family education is the key role.",
+        "incorrect": [
+          "Warming measures do not reverse the natural circulatory changes of dying and are not the priority.",
+          "Transfer to intensive care contradicts comfort-focused goals at end of life.",
+          "IV fluids do not reverse these expected changes and can worsen secretions."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse caring for dying clients recognizes that spiritual care is an important dimension of palliative nursing. Which statement about spirituality at end of life is accurate?",
+      "options": [
+        "Spirituality is positively associated with well-being and hope and negatively associated with depression",
+        "Spirituality is only relevant for clients who identify with an organized religion",
+        "Addressing spirituality is outside the nurse's scope and should be avoided",
+        "Spiritual distress has no measurable effect on end-of-life outcomes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Spirituality correlates positively with well-being, openness, self-esteem, and hope, and negatively with depression, making it a legitimate and important focus of nursing care at end of life. Attending to it can improve outcomes.",
+        "incorrect": [
+          "Spirituality is broader than organized religion and is relevant to many clients.",
+          "Addressing spiritual needs is within nursing's holistic scope, not to be avoided.",
+          "Spiritual well-being is linked to better outcomes; distress is not without effect."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is developing a culturally responsive end-of-life plan of care. Which action best reflects attention to cultural influences at end of life?",
+      "options": [
+        "Ask the client and family about their preferences for communication, decision-making, and death rituals",
+        "Apply the same standardized death rituals to every client",
+        "Assume the family wants full disclosure of the prognosis to the client",
+        "Make decisions for the family to spare them difficult conversations"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Culture shapes communication, medical decision-making, pain expression, food, degree of aggressive care, and death rituals, so the nurse asks about preferences rather than assuming. Individualizing care to the client's cultural context respects autonomy.",
+        "incorrect": [
+          "Applying uniform rituals ignores the cultural variation the nurse should assess for.",
+          "Assuming full disclosure imposes one cultural norm; disclosure preferences vary.",
+          "Making decisions for the family removes their autonomy rather than supporting it."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing when advance care planning should occur. Which statement reflects best practice?",
+      "options": [
+        "Advance care planning should be proactive and revisited whenever the client's medical condition changes",
+        "Advance care planning should occur only once the client is actively dying",
+        "Advance care planning is only appropriate for older adults",
+        "Once an advance directive is completed, it should never be changed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Advance care planning is a proactive, appropriately timed process integrated into routine care and revisited each time the client's condition changes — and it applies to adults at any age or stage of health. Timing it early and updating it is the standard.",
+        "incorrect": [
+          "Waiting until active dying misses the proactive, ongoing nature of advance care planning.",
+          "It applies to adults at any age or stage, not only older adults.",
+          "Directives should be revisited and can change as conditions and preferences change."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse on a palliative care unit receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A dying client with a respiratory rate of 8, gurgling secretions, and visible distress",
+        "A hospice client whose family is asking about funeral arrangements",
+        "A palliative client scheduled for a routine dressing change",
+        "A client who wants to discuss updating their advance directive"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The dying client with labored breathing, pooled secretions, and distress needs immediate comfort intervention (positioning, anticholinergic, opioid) — an airway/comfort priority that outranks the others. Recognizing acute distress drives the priority.",
+        "incorrect": [
+          "Discussing funeral arrangements is important support but not an acute physiologic need.",
+          "A routine dressing change is not time-sensitive compared with acute respiratory distress.",
+          "Updating an advance directive is important but not an emergency."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a life-limiting illness says, \"I'm scared of dying in pain.\" Which statement by the nurse best reflects that pain is the symptom dying patients fear most and is multidimensional?",
+      "options": [
+        "\"Pain has physical, emotional, social, and spiritual parts, and our team will work to address all of them.\"",
+        "\"Pain is only physical, so a stronger dose of medication will completely fix it.\"",
+        "\"Most people don't actually experience pain at the end of life.\"",
+        "\"We'll wait to treat any pain until it becomes severe.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Pain is the symptom seriously ill and dying patients fear most and is multidimensional — physical, psychological, social, and spiritual — so it is addressed across all four dimensions. Validating the fear and describing comprehensive management is therapeutic.",
+        "incorrect": [
+          "Treating pain as purely physical ignores its psychological, social, and spiritual dimensions.",
+          "Dismissing the likelihood of pain invalidates a common and feared symptom.",
+          "Waiting until pain is severe contradicts scheduling analgesics to prevent recurrence."
+        ]
+      }
+    },
+    {
+      "stem": "A dying client is incontinent of urine and the family is distressed about frequent linen changes and skin exposure. Which intervention does the nurse anticipate to promote comfort and dignity?",
+      "options": [
+        "Insert an indwelling (Foley) catheter to manage incontinence and protect the skin",
+        "Restrict all fluids to reduce urine output",
+        "Reposition the client every 15 minutes throughout the night",
+        "Begin intermittent straight catheterization every hour"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "For incontinence in the actively dying client, an indwelling Foley catheter manages output, protects the skin, and reduces disruptive linen changes, supporting comfort and dignity. Matching the comfort goal to the intervention is the point.",
+        "incorrect": [
+          "Severely restricting fluids does not address comfort and is not the intended measure.",
+          "Repositioning every 15 minutes overnight is disruptive and does not manage the incontinence.",
+          "Hourly straight catheterization is far more disruptive than a single indwelling catheter for comfort care."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is delivering serious news to a client using the SPIKES framework. Which action reflects the first step of SPIKES?",
+      "options": [
+        "Arrange a private, uninterrupted setting before beginning the conversation",
+        "Immediately give the client all of the medical facts",
+        "Summarize a treatment strategy before assessing understanding",
+        "Reassure the client that everything will be fine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "SPIKES begins with Setting — arranging privacy and freedom from interruption — before assessing perception, obtaining invitation, sharing knowledge, addressing emotions, and summarizing. Starting with the setting frames the whole conversation.",
+        "incorrect": [
+          "Delivering all facts first skips the setting, perception, and invitation steps.",
+          "Summarizing a strategy is the final step, not the first.",
+          "Empty reassurance is not part of SPIKES and undermines honest communication."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse observes a colleague respond to a grieving family member by immediately offering advice and clinical information before understanding their concerns. Using the NURSE framework, which approach should the nurse model instead?",
+      "options": [
+        "Name the emotion, allow silence, and explore the family member's concerns before offering information",
+        "Provide detailed clinical statistics to reassure the family",
+        "Tell the family member not to be upset because it will not help",
+        "Change the subject to logistics to move the conversation along"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The NURSE framework — naming, understanding, respecting, supporting, exploring — emphasizes listening actively, allowing silence, and understanding before giving information or advice. Premature reassurance, advice, or clinical data is the error to avoid.",
+        "incorrect": [
+          "Leading with statistics gives clinical information before understanding, the error NURSE warns against.",
+          "Telling someone not to be upset is dismissive rather than empathetic.",
+          "Redirecting to logistics avoids the emotion instead of exploring it."
+        ]
+      }
+    },
+    {
+      "stem": "A client transitioning to comfort care is receiving several routine interventions. Which order would the nurse most expect to be discontinued as care shifts to comfort?",
+      "options": [
+        "Every-4-hour vital signs and routine morning laboratory draws",
+        "Scheduled opioid analgesia for pain",
+        "Oral care for comfort",
+        "Repositioning for skin integrity"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "As care becomes comfort-focused, non-essential monitoring such as routine vitals and labs is discontinued, while comfort measures — analgesia, oral care, repositioning — continue. Recognizing what to de-emphasize is the reorientation of care.",
+        "incorrect": [
+          "Scheduled analgesia is a comfort measure that is continued, not discontinued.",
+          "Oral care is a core comfort measure that continues.",
+          "Repositioning for comfort and skin integrity continues in comfort care."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client in the last hours of life who has noisy respirations. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        "Reposition the client",
+        "Administer an anticholinergic such as scopolamine",
+        "Educate the family that the sound is expected",
+        "Perform deep tracheal suctioning",
+        "Start IV fluids to thin secretions"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Noisy end-of-life respirations are managed with repositioning, an anticholinergic (scopolamine), and family education that the sound distresses them more than the patient. Deep suctioning and IV fluids are avoided — suctioning is distressing and fluids increase secretions.",
+        "incorrect": [
+          "Correct—repositioning can reduce pooling of secretions.",
+          "Correct—an anticholinergic such as scopolamine dries secretions.",
+          "Correct—educating the family that the sound is expected reduces their distress.",
+          "Incorrect—deep suctioning is distressing and not recommended for the death rattle.",
+          "Incorrect—IV fluids increase secretions and worsen the noisy breathing."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse matches end-of-life antiemetics to their key nursing considerations. Which pairings are correct? Select all that apply.",
+      "options": [
+        "Ondansetron — monitor for QT prolongation",
+        "Dexamethasone — monitor for hyperglycemia",
+        "Prochlorperazine — monitor for tardive dyskinesia",
+        "Metoclopramide — monitor for QT prolongation only, with no movement effects",
+        "Metoclopramide — monitor for tardive dyskinesia"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Ondansetron prolongs the QT interval; dexamethasone raises glucose; prochlorperazine and metoclopramide are dopamine blockers that can cause tardive dyskinesia. Metoclopramide's signature risk is the movement disorder, not an absence of it.",
+        "incorrect": [
+          "Correct—ondansetron can prolong the QT interval.",
+          "Correct—dexamethasone is a steroid that can cause hyperglycemia.",
+          "Correct—prochlorperazine blocks dopamine and can cause tardive dyskinesia.",
+          "Incorrect—metoclopramide does cause movement effects; tardive dyskinesia is its key risk.",
+          "Correct—metoclopramide is a dopamine blocker that can cause tardive dyskinesia."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching new staff about the differences between palliative care and hospice. Which statements about palliative care are accurate? Select all that apply.",
+      "options": [
+        "It can be offered at any time in the disease trajectory",
+        "It should be part of care at the time of a serious diagnosis",
+        "It can occur in any clinical setting",
+        "It requires the client to give up disease-modifying treatment",
+        "Hospice is a subset of palliative care"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Palliative care can begin at diagnosis, at any stage, in any setting, and does not require forgoing curative treatment; hospice is a comfort-focused subset of palliative care. Requiring the client to give up treatment describes hospice, not palliative care broadly.",
+        "incorrect": [
+          "Correct—palliative care can be offered at any point in the illness.",
+          "Correct—it should begin at the time of a serious diagnosis.",
+          "Correct—it can be provided in any clinical setting.",
+          "Incorrect—forgoing disease-modifying treatment describes hospice, not palliative care generally.",
+          "Correct—hospice is a subset of palliative care focused on comfort at end of life."
+        ]
+      }
+    }
+  ]
+}

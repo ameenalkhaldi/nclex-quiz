@@ -16,7 +16,10 @@ ORDER = ["upper-gi", "lower-gi", "neoplasms-cancer", "neuro",
          "med-surg-anemia", "med-surg-lower-gi", "med-surg-kidney",
          "med-surg-endocrine", "med-surg-fluids-electrolytes",
          "final-substance-use", "final-neuro", "final-endocrine",
-         "final-repro-bone", "final-mental-health"]
+         "final-repro-bone", "final-mental-health",
+         "msfinal-palliative", "msfinal-parkinsons-dementia",
+         "msfinal-male-gu", "msfinal-breast", "msfinal-sti-hiv",
+         "msfinal-musculoskeletal", "msfinal-dermatology"]
 
 
 def normalize(q, topic, idx):

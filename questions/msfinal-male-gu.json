@@ -1,0 +1,573 @@
+{
+  "topic": "msfinal-male-gu",
+  "label": "MS Final: Male GU",
+  "questions": [
+    {
+      "stem": "A man with a history of benign prostatic hyperplasia presents with intense suprapubic pain, inability to void for several hours, and a palpable, distended bladder. Which action should the nurse take first?",
+      "options": [
+        "Perform a bladder scan and catheterize the client (using a Coude-tip catheter if needed)",
+        "Encourage the client to increase oral fluids to stimulate voiding",
+        "Apply a cold compress to the suprapubic area to reduce inflammation",
+        "Administer the prescribed PRN dose of finasteride"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "This is acute urinary retention, a complication of BPH. The priority is to relieve the obstruction: scan the bladder and catheterize (a Coude tip navigates the enlarged prostate). Draining the bladder is the take-action step.",
+        "incorrect": [
+          "Increasing fluids worsens distention when the client already cannot void.",
+          "A cold compress does nothing to relieve an obstructed bladder.",
+          "Finasteride shrinks the prostate over months and is not a rescue for acute retention."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse performs a bladder scan on a client with BPH who is straining to void and finds a post-void residual of 350 mL. What does the nurse anticipate?",
+      "options": [
+        "Catheterizing the client, because the residual exceeds about 300 mL",
+        "Rechecking the scan in 8 hours before acting",
+        "Encouraging the client to drink more water",
+        "Administering an alpha-blocker to empty the bladder immediately"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A residual above roughly 300 mL indicates significant retention, so the client is catheterized to drain the bladder and protect the kidneys. Acting on the measured residual is the point.",
+        "incorrect": [
+          "Waiting 8 hours risks bladder overdistention and hydronephrosis.",
+          "More fluid increases distention in an already retaining bladder.",
+          "Alpha-blockers help chronic outflow symptoms but do not immediately empty an acutely retained bladder."
+        ]
+      }
+    },
+    {
+      "stem": "A 62-year-old man tells the nurse that the first change he noticed was having to get up several times each night to urinate. Which condition does this classic early symptom most suggest?",
+      "options": [
+        "Benign prostatic hyperplasia",
+        "Acute pyelonephritis",
+        "Bladder cancer",
+        "A sexually transmitted infection"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Nocturia is often the first symptom of BPH, reflecting outflow obstruction and bladder irritability from prostatic enlargement. Recognizing this hallmark cue points to the diagnosis.",
+        "incorrect": [
+          "Pyelonephritis presents with fever, flank pain, and dysuria, not isolated nocturia.",
+          "Bladder cancer classically presents with painless hematuria, not nocturia as the first symptom.",
+          "An STI presents with discharge or dysuria, not this obstructive pattern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client newly prescribed tamsulosin for BPH. Which instruction is most important for safety?",
+      "options": [
+        "Change positions slowly because this alpha-blocker can cause orthostatic hypotension and dizziness",
+        "Expect your prostate to shrink and urine flow to improve within 24 hours",
+        "Take the medication only when your symptoms flare",
+        "Stop the medication as soon as your stream improves"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Tamsulosin is an alpha-adrenergic blocker that relaxes bladder-neck and prostatic smooth muscle; it can cause orthostatic hypotension, so the client changes positions slowly to prevent falls. This is the priority safety teaching.",
+        "incorrect": [
+          "Alpha-blockers relax smooth muscle for symptom relief; they do not shrink the prostate.",
+          "It is taken regularly for ongoing symptom control, not only during flares.",
+          "Stopping the drug reverses the symptom benefit; it is continued."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews BPH medications. Which statement about finasteride is accurate?",
+      "options": [
+        "It is a 5-alpha-reductase inhibitor that shrinks the prostate gradually over months",
+        "It is an alpha-blocker that relaxes the bladder neck within hours",
+        "It rapidly relieves acute urinary retention",
+        "It increases prostate size to improve flow"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Finasteride is a 5-alpha-reductase inhibitor that shrinks the prostate slowly over months by blocking conversion of testosterone to DHT. Distinguishing its slow mechanism from the alpha-blockers is the point.",
+        "incorrect": [
+          "Rapid bladder-neck relaxation describes alpha-blockers like tamsulosin, not finasteride.",
+          "Finasteride is not a rescue for acute retention; it works over months.",
+          "It shrinks, not enlarges, the prostate."
+        ]
+      }
+    },
+    {
+      "stem": "A client with BPH is scheduled for a transurethral resection of the prostate (TURP). The nurse explains that this procedure is:",
+      "options": [
+        "The most common surgical treatment for BPH, removing prostate tissue to relieve obstruction",
+        "A procedure that removes the entire prostate and seminal vesicles for cancer",
+        "A medication regimen to shrink the prostate",
+        "A test to measure urinary flow rates"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "TURP is the most common surgical treatment for BPH; it resects obstructing prostate tissue to restore urine flow. Matching the procedure to its purpose is the teaching point.",
+        "incorrect": [
+          "Removing the entire prostate is a radical prostatectomy for cancer, not TURP for BPH.",
+          "TURP is a surgery, not a medication regimen.",
+          "It is a resection procedure, not a diagnostic flow study."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about prostate cancer. Which statement reflects the key facts taught?",
+      "options": [
+        "It is typically slow-growing, yet it is the second most common cause of cancer death in American men",
+        "It is the fastest-growing cancer and rarely fatal",
+        "It never spreads beyond the prostate",
+        "It affects men and women equally"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Prostate cancer is usually slow-growing but is the second most common cancer in men and the second most common cause of cancer death in American men; Black Americans have higher risk and mortality. Holding both halves of the statement is the tested point.",
+        "incorrect": [
+          "It is generally slow-growing, not the fastest-growing, and it can be fatal.",
+          "Advanced prostate cancer can metastasize, notably to bone.",
+          "Prostate cancer occurs in those with a prostate; it does not affect men and women equally."
+        ]
+      }
+    },
+    {
+      "stem": "A client's PSA is mildly elevated. Which teaching about the PSA test is accurate?",
+      "options": [
+        "An elevated PSA is not specific to cancer; it can also rise with BPH or prostatitis, and a biopsy with a Gleason score is used to diagnose cancer",
+        "An elevated PSA confirms prostate cancer",
+        "A normal PSA rules out prostate cancer completely",
+        "PSA measures the size of a bladder tumor"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "PSA can rise with BPH and prostatitis as well as cancer, so it is not diagnostic; a prostate biopsy yielding a Gleason score is what diagnoses and grades cancer. Distinguishing screening from diagnosis is the point.",
+        "incorrect": [
+          "An elevated PSA raises concern but does not confirm cancer.",
+          "A normal PSA does not completely rule out cancer.",
+          "PSA is a prostate marker, not a measure of a bladder tumor."
+        ]
+      }
+    },
+    {
+      "stem": "An 82-year-old man with significant heart failure and a limited life expectancy is diagnosed with a small, low-grade (Gleason 6) prostate tumor. Which management approach is most appropriate, and why?",
+      "options": [
+        "Watchful waiting, because with limited life expectancy the goal is to manage symptoms as they arise rather than pursue a cure",
+        "Radical prostatectomy, because all prostate cancers eventually metastasize",
+        "Active surveillance with frequent repeat biopsies aiming for cure",
+        "Immediate chemotherapy regardless of prognosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "For a small, low-grade tumor in a client with limited life expectancy and comorbidity, watchful waiting manages symptoms as they arise rather than pursuing a cure. Active surveillance (repeat PSA/biopsies with curative intent) would be burdensome and not beneficial here.",
+        "incorrect": [
+          "Not all prostate cancers metastasize; aggressive surgery is not warranted for this indolent tumor in a frail client.",
+          "Active surveillance's repeat biopsies with curative intent are burdensome and pointless given the limited prognosis.",
+          "Chemotherapy is not indicated for this indolent, localized tumor in this client."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse distinguishes watchful waiting from active surveillance for prostate cancer. Which statement is correct?",
+      "options": [
+        "Watchful waiting manages symptoms as they arise without curative intent, while active surveillance uses frequent PSA testing and repeat biopsies to monitor for progression with curative intent still possible",
+        "Watchful waiting requires monthly biopsies, while active surveillance ignores the cancer",
+        "Both approaches begin immediate chemotherapy",
+        "Active surveillance is only for clients with a very short life expectancy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Watchful waiting treats symptoms as they occur without aiming to cure (used for limited life expectancy/comorbidity), whereas active surveillance monitors closely with PSA and repeat biopsies, keeping curative treatment on the table. Contrasting the two prevents the classic mix-up.",
+        "incorrect": [
+          "Watchful waiting does not require monthly biopsies, and active surveillance actively monitors rather than ignoring the cancer.",
+          "Neither approach starts immediate chemotherapy.",
+          "Active surveillance suits clients who could still benefit from cure, not only those with a short life expectancy."
+        ]
+      }
+    },
+    {
+      "stem": "A man with advanced prostate cancer reports new, persistent bone pain in his spine and hips. The nurse recognizes this most likely indicates:",
+      "options": [
+        "Metastasis of the prostate cancer to bone",
+        "A new primary bone cancer unrelated to the prostate",
+        "Normal age-related joint changes requiring no follow-up",
+        "A side effect of PSA testing"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Advanced prostate cancer commonly metastasizes to bone (spine, pelvis, ribs), so new persistent bone pain suggests bony metastasis and warrants evaluation. Linking the cue to metastasis is the analyze-cues step.",
+        "incorrect": [
+          "A new unrelated primary bone cancer is far less likely than metastasis from the known prostate cancer.",
+          "Persistent bone pain with known prostate cancer is not simply normal aging.",
+          "PSA testing is a blood test and does not cause bone pain."
+        ]
+      }
+    },
+    {
+      "stem": "A man reports difficulty maintaining an erection and mentions he has hypertension, diabetes, and takes antihypertensive medications. Which understanding guides the nurse's assessment?",
+      "options": [
+        "Erectile dysfunction often has organic causes such as vascular disease, diabetes, and medications, and can be an early marker of cardiovascular disease",
+        "Erectile dysfunction is always purely psychogenic",
+        "Erectile dysfunction never requires further evaluation",
+        "Erectile dysfunction only occurs after a prostatectomy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "ED has both organic (vascular disease, diabetes, endocrine disorders, neurologic disease, medications) and psychogenic causes; the vascular link means it can signal underlying cardiovascular disease. Recognizing organic contributors guides the workup.",
+        "incorrect": [
+          "ED is not always psychogenic; organic causes are common in this client.",
+          "ED can indicate underlying disease and does warrant evaluation.",
+          "Prostatectomy is one cause, but many organic and psychogenic factors exist."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client prescribed sildenafil for erectile dysfunction. Which instruction is most important?",
+      "options": [
+        "Do not take sildenafil if you are taking nitrates, because the combination can cause profound, dangerous drops in blood pressure",
+        "Take sildenafil immediately before intercourse for instant effect",
+        "Take an extra pill if the first does not work within 15 minutes",
+        "Sildenafil will protect you from sexually transmitted infections"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Sildenafil (a PDE-5 inhibitor) taken with nitrates causes profound hypotension and reduced blood flow to vital organs, so the two must never be combined. This is the priority safety teaching; it is taken about one hour before intercourse.",
+        "incorrect": [
+          "Sildenafil is taken about one hour before intercourse, not for an instant effect.",
+          "Taking extra pills increases side effects such as leg/back cramps and does not fix timing.",
+          "Sildenafil treats ED; it does not prevent sexually transmitted infections."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking sildenafil calls to report an erection that has lasted more than four hours and is painful. What is the nurse's best response?",
+      "options": [
+        "\"This is priapism, a medical emergency — seek immediate care to prevent permanent damage.\"",
+        "\"This is expected and will resolve on its own by tomorrow.\"",
+        "\"Take another dose of sildenafil to help it subside.\"",
+        "\"Apply ice and wait 24 hours before seeking care.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "An erection lasting more than four hours is priapism, a medical emergency; untreated it causes permanent tissue damage, so the client needs immediate care. Recognizing the emergency drives urgent action.",
+        "incorrect": [
+          "Priapism does not safely self-resolve and is not expected.",
+          "More sildenafil would worsen it.",
+          "Delaying care risks permanent penile tissue damage."
+        ]
+      }
+    },
+    {
+      "stem": "A client whose erectile dysfunction has not responded to a PDE-5 inhibitor asks about other options. Which does the nurse describe?",
+      "options": [
+        "Vacuum erectile devices, intracavernosal or intraurethral injections, or penile prostheses",
+        "Taking two PDE-5 inhibitors together",
+        "Combining the PDE-5 inhibitor with nitrates for a stronger effect",
+        "No other options exist once pills fail"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "When PDE-5 inhibitors are ineffective or contraindicated, alternatives include vacuum devices, intracavernosal or intraurethral injections, and penile prostheses. Knowing the second-line options guides teaching.",
+        "incorrect": [
+          "Doubling PDE-5 inhibitors increases adverse effects, not efficacy.",
+          "Combining with nitrates is dangerous and contraindicated.",
+          "Several alternatives exist when pills fail."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews the pathophysiology of BPH. Which statement is accurate?",
+      "options": [
+        "Prostatic enlargement from hormonal changes of aging obstructs urine outflow, producing both obstructive and irritative symptoms",
+        "It is a malignant tumor of the prostate that always metastasizes",
+        "It results from an acute bacterial infection of the bladder",
+        "It is caused by a deficiency of testosterone in young men"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "BPH is non-malignant prostatic enlargement driven by hormonal changes of aging; it obstructs urine outflow, causing obstructive symptoms (weak stream, hesitancy) and irritative symptoms (urgency, nocturia). This explains why alpha-blockers and 5-ARIs help.",
+        "incorrect": [
+          "BPH is benign, not a malignant, metastasizing tumor.",
+          "BPH is not an acute bladder infection.",
+          "It relates to aging hormonal changes and DHT effect, not a testosterone deficiency in young men."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client taking a PDE-5 inhibitor about common side effects. Which does the nurse include?",
+      "options": [
+        "Headache, facial flushing, nasal congestion, dyspepsia, and mild hypotension",
+        "Severe bradycardia and hypertension",
+        "Hearing improvement and increased urine output",
+        "Weight gain and constipation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "PDE-5 inhibitors commonly cause headache, facial flushing, nasal congestion, dyspepsia, and hypotension from vasodilation. Recognizing the expected side-effect profile supports teaching.",
+        "incorrect": [
+          "They cause hypotension and vasodilation, not bradycardia with hypertension.",
+          "They do not improve hearing; sudden hearing loss is a rare serious adverse effect, not a benefit.",
+          "Weight gain and constipation are not characteristic PDE-5 inhibitor effects."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse receives report on four clients with genitourinary conditions. Which client should the nurse assess first?",
+      "options": [
+        "A client with BPH who has not voided in 8 hours and has a firm, distended, painful bladder",
+        "A client with BPH asking about the timing of his alpha-blocker",
+        "A client scheduled for a routine PSA blood draw",
+        "A client with stable erectile dysfunction requesting education"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A firm, distended, painful bladder with no voiding for 8 hours is acute urinary retention, which threatens the kidneys and needs immediate bladder scan and catheterization — the priority over routine concerns.",
+        "incorrect": [
+          "A medication-timing question is important teaching but not an emergency.",
+          "A routine PSA draw is not time-sensitive.",
+          "Stable ED education is not urgent."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about complications of untreated benign prostatic hyperplasia. Which are recognized complications? Select all that apply.",
+      "options": [
+        "Acute urinary retention",
+        "Urinary tract infection and sepsis",
+        "Hydronephrosis",
+        "Renal failure",
+        "Improved urinary stream over time"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Untreated BPH can cause acute urinary retention, UTI/sepsis, bladder calculi, hydroureter, hydronephrosis, renal failure, and bladder damage. Symptoms worsen, not improve, without treatment.",
+        "incorrect": [
+          "Correct—acute urinary retention is a key complication.",
+          "Correct—stasis of urine predisposes to UTI and sepsis.",
+          "Correct—back-pressure can cause hydronephrosis.",
+          "Correct—severe obstruction can progress to renal failure.",
+          "Incorrect—the stream worsens with progressive obstruction, it does not improve."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client for organic risk factors for erectile dysfunction. Which factors are organic contributors? Select all that apply.",
+      "options": [
+        "Vascular disease such as hypertension",
+        "Diabetes mellitus",
+        "Prior prostatectomy",
+        "Antihypertensive medications",
+        "Confidence and a satisfying relationship"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Organic ED contributors include vascular disease (HTN), endocrine disease (diabetes), pelvic/genitourinary surgery such as prostatectomy, and medications such as antihypertensives. Confidence and a good relationship are not risk factors.",
+        "incorrect": [
+          "Correct—vascular disease impairs the blood flow needed for erection.",
+          "Correct—diabetes causes vascular and neurologic damage contributing to ED.",
+          "Correct—prostatectomy can damage nerves and vessels involved in erection.",
+          "Correct—antihypertensives are a recognized medication cause of ED.",
+          "Incorrect—confidence and a satisfying relationship are protective, not risk factors."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client after a TURP with continuous bladder irrigation. Which postoperative assessment does the nurse prioritize?",
+      "options": [
+        "Monitoring urine output color and for clots or signs of hemorrhage",
+        "Encouraging the client to bear down to pass the catheter",
+        "Restricting all fluids to reduce urine output",
+        "Deflating the catheter balloon every hour"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "After TURP, bleeding is the key early risk; the nurse monitors irrigation outflow color and watches for clots or frank hemorrhage, keeping the catheter patent. Prioritizing bleeding assessment protects the client.",
+        "incorrect": [
+          "Bearing down increases bleeding and bladder spasms after TURP.",
+          "Fluids are generally maintained to keep urine flowing and the catheter clear, not restricted.",
+          "The balloon is not routinely deflated hourly; traction and patency are managed per protocol."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client that erectile dysfunction can be an early warning sign of which condition?",
+      "options": [
+        "Cardiovascular disease, because of shared vascular and endothelial mechanisms",
+        "A urinary tract infection",
+        "Prostate enlargement only",
+        "A psychiatric illness in all cases"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Because ED shares vascular and endothelial mechanisms with cardiovascular disease, it can be an early marker prompting cardiovascular risk evaluation. Framing ED this way guides holistic care.",
+        "incorrect": [
+          "ED is not primarily a sign of a urinary tract infection.",
+          "ED reflects more than prostate size; the vascular link is key.",
+          "ED is not psychiatric in all cases; many causes are organic."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a man about the difference between BPH obstructive and irritative symptoms. Which symptom is an irritative symptom?",
+      "options": [
+        "Urinary urgency and nocturia",
+        "A weak, dribbling urinary stream",
+        "Hesitancy in initiating voiding",
+        "Intermittency of the stream"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Irritative symptoms of BPH include urgency, frequency, and nocturia, whereas obstructive symptoms include weak stream, hesitancy, intermittency, and dribbling. Classifying the symptom correctly is the point.",
+        "incorrect": [
+          "A weak, dribbling stream is an obstructive symptom.",
+          "Hesitancy is an obstructive symptom.",
+          "Intermittency is an obstructive symptom."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews diagnostic studies for a client with suspected prostate cancer. Which test provides the definitive diagnosis and grade?",
+      "options": [
+        "A prostate biopsy yielding a Gleason score",
+        "A serum PSA level alone",
+        "A digital rectal exam alone",
+        "A urinary flow study"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A prostate biopsy provides tissue for definitive diagnosis and a Gleason score that grades aggressiveness; PSA and DRE raise suspicion but do not diagnose. Distinguishing screening from definitive diagnosis is the point.",
+        "incorrect": [
+          "PSA alone raises suspicion but does not diagnose cancer.",
+          "A DRE alone can detect abnormality but does not diagnose cancer.",
+          "A flow study assesses obstruction, not cancer diagnosis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with ED about lifestyle factors. Which instruction is appropriate based on the deck?",
+      "options": [
+        "Abstain from alcohol before intercourse, as it can impair erectile function",
+        "Increase alcohol intake to reduce performance anxiety",
+        "Smoking has no effect on erectile function",
+        "Stop all antihypertensive medications without consulting the provider"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Clients are instructed to abstain from alcohol before intercourse because it impairs erectile function; smoking and alcohol are risk factors. Targeting modifiable contributors supports management.",
+        "incorrect": [
+          "Increasing alcohol worsens, rather than helps, erectile function.",
+          "Smoking is a recognized risk factor for ED.",
+          "Stopping antihypertensives without provider input is unsafe, even though some can contribute to ED."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews risk factors for prostate cancer. Which client is at highest risk?",
+      "options": [
+        "A 70-year-old Black man with a family history of prostate cancer",
+        "A 30-year-old man with no family history",
+        "A 45-year-old man who exercises regularly",
+        "A 25-year-old man with a high fluid intake"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Prostate cancer risk rises with age, is higher in Black Americans, and increases with family history and genetic mutations (BRCA, HPC1); this older Black client with a family history is highest risk. Recognizing stacked risk factors identifies who to prioritize for screening discussion.",
+        "incorrect": [
+          "A young man with no family history is at low risk.",
+          "Regular exercise and younger age lower relative risk.",
+          "High fluid intake and young age are not prostate cancer risk factors."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about when to take sildenafil for best effect. Which instruction is correct?",
+      "options": [
+        "Take it about one hour before anticipated intercourse",
+        "Take it every morning on a fixed daily schedule regardless of activity",
+        "Take it only after intercourse to prolong the effect",
+        "Take it with a nitrate to enhance the response"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Sildenafil is taken about one hour before intercourse for optimal effect. Correct timing supports efficacy, and it must never be combined with nitrates.",
+        "incorrect": [
+          "It is taken before anticipated intercourse, not as a fixed daily dose unrelated to activity.",
+          "Taking it after intercourse does not achieve the intended effect.",
+          "Combining with a nitrate is dangerous and contraindicated."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with an indwelling catheter placed for acute urinary retention from BPH. After the bladder is drained, which nursing consideration is important?",
+      "options": [
+        "Monitor for post-obstructive diuresis and hemodynamic changes as the bladder decompresses",
+        "Clamp the catheter permanently to retrain the bladder",
+        "Remove the catheter immediately once 100 mL drains",
+        "Encourage vigorous Valsalva to speed emptying"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "After relieving significant retention, the nurse monitors for post-obstructive diuresis and related fluid/electrolyte and hemodynamic changes as the bladder decompresses. Anticipating this response protects the client.",
+        "incorrect": [
+          "Permanently clamping the catheter defeats the purpose of draining the obstructed bladder.",
+          "Removing the catheter after only 100 mL leaves the retained bladder undrained.",
+          "Vigorous Valsalva is not needed with an indwelling catheter and can cause harm."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client prescribed a PDE-5 inhibitor (sildenafil) for erectile dysfunction. Which points should be included? Select all that apply.",
+      "options": [
+        "Do not use it if you take nitrates",
+        "Take it about one hour before intercourse",
+        "Seek emergency care for an erection lasting more than four hours",
+        "Take a second dose right away if the first does not work",
+        "Report side effects such as headache, flushing, or dizziness"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "PDE-5 inhibitor teaching includes never combining with nitrates, taking it about an hour before intercourse, seeking emergency care for priapism (more than four hours), and reporting side effects. Doubling the dose when the first does not work increases adverse effects.",
+        "incorrect": [
+          "Correct—combining with nitrates causes dangerous hypotension.",
+          "Correct—it is taken about an hour before intercourse.",
+          "Correct—an erection over four hours is priapism, an emergency.",
+          "Incorrect—taking a second dose immediately increases side effects and is not advised.",
+          "Correct—headache, flushing, and dizziness are expected side effects to report."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about early-stage prostate cancer. Which statement is accurate?",
+      "options": [
+        "Early prostate cancer is often asymptomatic and detected through screening such as PSA and a digital rectal exam",
+        "Early prostate cancer always causes severe bone pain",
+        "Early prostate cancer causes immediate urinary obstruction in all clients",
+        "Early prostate cancer is easily seen on the skin"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Early prostate cancer is typically asymptomatic and detected by screening (PSA and DRE); urinary obstruction, hematuria, and bone pain appear in advanced disease. Recognizing the silent early course underscores the role of screening.",
+        "incorrect": [
+          "Bone pain reflects advanced metastatic disease, not early cancer.",
+          "Urinary obstruction is an advanced-disease finding, not universal early on.",
+          "Prostate cancer is internal and not visible on the skin."
+        ]
+      }
+    }
+  ]
+}

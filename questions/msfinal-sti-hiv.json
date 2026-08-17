@@ -1,0 +1,572 @@
+{
+  "topic": "msfinal-sti-hiv",
+  "label": "MS Final: STIs & HIV/AIDS",
+  "questions": [
+    {
+      "stem": "A client is diagnosed with a sexually transmitted infection, and the nurse is preparing to discuss partner notification. Which action should the nurse take first?",
+      "options": [
+        "Assess the client for potential risk of intimate partner violence before encouraging partner notification",
+        "Immediately contact all of the client's partners directly",
+        "Refuse to provide care until the client names all partners",
+        "Tell the client that partner notification is legally required of them personally"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Before encouraging partner notification, the nurse assesses for potential intimate partner violence, because notification could endanger the client — a high-yield nursing-judgment step that protects safety first.",
+        "incorrect": [
+          "Contacting partners without assessing safety and following partner-services processes is inappropriate.",
+          "Refusing care until partners are named is coercive and unethical.",
+          "Providers make a good-faith effort in partner services; the burden is not simply placed on the client, and safety comes first."
+        ]
+      }
+    },
+    {
+      "stem": "A client being treated for primary syphilis with benzathine penicillin develops fever, chills, headache, and muscle aches about five hours after the injection. What is the nurse's best action?",
+      "options": [
+        "Recognize this as the Jarisch-Herxheimer reaction, provide antipyretics and supportive care, and continue treatment",
+        "Stop the penicillin immediately because this is an allergic reaction",
+        "Administer epinephrine for anaphylaxis",
+        "Withhold all further antibiotics until the fever resolves"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The Jarisch-Herxheimer reaction is a self-limiting inflammatory response from rapid spirochete destruction, not a penicillin allergy; it means the treatment is working. The nurse gives supportive care and does not stop the penicillin or give epinephrine.",
+        "incorrect": [
+          "This is not an allergy; stopping the penicillin is inappropriate.",
+          "Epinephrine is for anaphylaxis, not the Jarisch-Herxheimer reaction.",
+          "Treatment should continue; withholding antibiotics is not indicated."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with a single, painless genital ulcer (chancre). Which sexually transmitted infection does this finding suggest?",
+      "options": [
+        "Primary syphilis",
+        "Gonorrhea",
+        "Trichomoniasis",
+        "Chlamydia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A painless chancre is the hallmark of primary syphilis (Treponema pallidum). Secondary syphilis brings a diffuse rash including palms and soles and condylomata lata. Recognizing the painless ulcer is the cue.",
+        "incorrect": [
+          "Gonorrhea causes purulent discharge and dysuria, not a painless chancre.",
+          "Trichomoniasis causes frothy discharge and a strawberry cervix, not a chancre.",
+          "Chlamydia is often asymptomatic and does not cause a painless chancre."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews a client's diagnostic results showing a diffuse rash on the palms and soles with condylomata lata. Which stage of syphilis does this indicate?",
+      "options": [
+        "Secondary syphilis",
+        "Primary syphilis",
+        "Latent syphilis",
+        "Tertiary syphilis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A rash involving the palms and soles with condylomata lata and lymphadenopathy characterizes secondary syphilis. Matching the manifestation to the stage is the analyze-cues step.",
+        "incorrect": [
+          "Primary syphilis presents with a painless chancre, not a widespread rash.",
+          "Latent syphilis is asymptomatic.",
+          "Tertiary syphilis involves gummas and cardiovascular or neurologic disease, not this rash."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with purulent urethral discharge and dysuria whose Gram stain shows gram-negative diplococci. Which infection is most likely?",
+      "options": [
+        "Gonorrhea",
+        "Syphilis",
+        "Trichomoniasis",
+        "Human papillomavirus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Neisseria gonorrhoeae is a gram-negative diplococcus that causes purulent discharge and dysuria; NAAT is the preferred test. Linking the Gram-stain morphology and discharge to gonorrhea is the point.",
+        "incorrect": [
+          "Syphilis is caused by a spirochete, not a gram-negative diplococcus.",
+          "Trichomoniasis is caused by a protozoan, not a diplococcus.",
+          "HPV is a virus causing warts, not a purulent discharge with diplococci."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing chlamydia. Which statement is accurate?",
+      "options": [
+        "It is often asymptomatic, is most common in people aged 15 to 24, and can cause pelvic inflammatory disease and neonatal conjunctivitis or pneumonia",
+        "It always causes obvious painful ulcers",
+        "It is diagnosed only by Gram stain",
+        "It cannot be transmitted to a newborn during delivery"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Chlamydia trachomatis is frequently asymptomatic, is most common in ages 15 to 24, and can cause PID and neonatal conjunctivitis/pneumonia; NAAT is the preferred test. Recognizing its silent, high-impact nature guides screening.",
+        "incorrect": [
+          "Chlamydia is often asymptomatic, not marked by obvious painful ulcers.",
+          "It is diagnosed by NAAT, not Gram stain.",
+          "It can be transmitted to a newborn during delivery, causing conjunctivitis or pneumonia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a malodorous, frothy, yellow-green vaginal discharge and a \"strawberry cervix\" is being evaluated. Which infection is most likely?",
+      "options": [
+        "Trichomoniasis",
+        "Gonorrhea",
+        "Syphilis",
+        "Human papillomavirus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Trichomonas vaginalis, a flagellated protozoan, causes a frothy yellow-green discharge and a strawberry cervix; unlike most STIs, prevalence increases with age in women. Recognizing this classic presentation is the point.",
+        "incorrect": [
+          "Gonorrhea causes purulent discharge, not the frothy discharge and strawberry cervix.",
+          "Syphilis presents with a chancre or rash, not this discharge.",
+          "HPV causes warts or dysplasia, not a frothy discharge."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is counseling a client about HPV. Which statement is accurate?",
+      "options": [
+        "High-risk types (16 and 18) are associated with cervical and other cancers, and the 9-valent vaccine helps prevent infection",
+        "There is a medication that cures the HPV virus itself",
+        "HPV only causes visible genital warts and never cancer",
+        "The vaccine treats existing HPV infections"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "High-risk HPV types 16 and 18 cause cervical, anal, and oropharyngeal dysplasia/cancer, and the 9-valent vaccine prevents infection; there is no cure for the virus itself. Distinguishing prevention from cure is the teaching point.",
+        "incorrect": [
+          "There is no cure for the HPV virus itself; treatment targets warts or dysplasia.",
+          "High-risk HPV can cause cancer, not only warts.",
+          "The vaccine prevents infection; it does not treat existing infection."
+        ]
+      }
+    },
+    {
+      "stem": "A client with HIV asks the nurse what \"U=U\" means. Which response is accurate?",
+      "options": [
+        "\"Undetectable equals untransmittable — sustained viral suppression on treatment eliminates sexual transmission of HIV.\"",
+        "\"It means you no longer have HIV and can stop your medication.\"",
+        "\"It means your CD4 count is undetectable.\"",
+        "\"It means the virus is untreatable.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "U=U means that a person with sustained, undetectable HIV viral load on antiretroviral therapy does not transmit HIV sexually. This is a key, hope-giving teaching point that supports adherence.",
+        "incorrect": [
+          "U=U does not mean the person is cured; therapy must continue to maintain suppression.",
+          "U=U refers to viral load, not the CD4 count.",
+          "U=U reflects effective treatment, not that the virus is untreatable."
+        ]
+      }
+    },
+    {
+      "stem": "A client presents within days of a possible HIV exposure. The antibody test is negative, but the nurse remains concerned. Which understanding guides the next step?",
+      "options": [
+        "Antibody tests can be negative during acute infection, so an HIV RNA (viral load) test is used when suspicion is high",
+        "A negative antibody test always rules out HIV",
+        "No further testing is ever needed after a negative antibody test",
+        "The client cannot be infected because symptoms are absent"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "During the window period of acute infection, antibody tests can be negative; when suspicion is high, an HIV RNA (viral load) test detects the virus earlier. Recognizing the window period drives appropriate testing.",
+        "incorrect": [
+          "A negative antibody test does not rule out acute infection in the window period.",
+          "Further testing (viral load) is warranted when suspicion is high.",
+          "Absence of symptoms does not exclude infection; acute HIV can be asymptomatic."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is planning care for a person living with HIV whose CD4 count is 180 cells/µL. Which prophylaxis does the nurse anticipate?",
+      "options": [
+        "Prophylaxis against Pneumocystis jirovecii pneumonia (PJP), usually with trimethoprim-sulfamethoxazole",
+        "No prophylaxis is needed at this CD4 count",
+        "Live varicella vaccine to boost immunity",
+        "Immediate discontinuation of antiretroviral therapy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "At a CD4 count below 200 cells/µL, PJP prophylaxis (typically SMX/TMP) is started and continued until CD4 stays above 200 for at least 3 months on ART. Matching the CD4 threshold to prophylaxis is the point.",
+        "incorrect": [
+          "Below 200 CD4, prophylaxis is indicated, not withheld.",
+          "Live vaccines such as varicella are contraindicated at CD4 below 200.",
+          "Antiretroviral therapy is continued, not stopped."
+        ]
+      }
+    },
+    {
+      "stem": "A person living with HIV has a CD4 count of 150 cells/µL and needs vaccinations. Which vaccine is contraindicated?",
+      "options": [
+        "The live attenuated MMR (measles-mumps-rubella) vaccine",
+        "The inactivated influenza vaccine",
+        "The pneumococcal vaccine",
+        "The hepatitis B vaccine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Live vaccines such as MMR and varicella are contraindicated when CD4 is below 200 cells/µL; the live attenuated influenza vaccine (LAIV) is contraindicated at any CD4 count. Inactivated vaccines are given. Recognizing the CD4-based live-vaccine rule protects the client.",
+        "incorrect": [
+          "The inactivated influenza vaccine is appropriate (the live nasal spray is the one contraindicated).",
+          "The pneumococcal vaccine is recommended for people with HIV.",
+          "The hepatitis B vaccine is recommended, not contraindicated."
+        ]
+      }
+    },
+    {
+      "stem": "A client presents 48 hours after a high-risk sexual exposure to HIV with a partner of unknown status. Which intervention does the nurse anticipate?",
+      "options": [
+        "Post-exposure prophylaxis (PEP) with a three-drug antiretroviral regimen, started because it is within 72 hours",
+        "Waiting three months to test before any treatment",
+        "Starting lifelong antiretroviral therapy immediately as treatment for established HIV",
+        "No intervention, because exposure alone does not warrant treatment"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "PEP is indicated within 72 hours of a high-risk exposure and uses a three-drug antiretroviral regimen for up to 28 days, with follow-up testing. Acting within the 72-hour window is the take-action step.",
+        "incorrect": [
+          "Waiting three months forgoes the time-sensitive PEP window.",
+          "This is prophylaxis after exposure, not treatment for established infection.",
+          "A high-risk exposure within 72 hours does warrant PEP."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse uses person-first, stigma-free language when caring for people living with HIV. Which phrase reflects this best?",
+      "options": [
+        "\"A person living with HIV\"",
+        "\"An HIV patient\"",
+        "\"An AIDS victim\"",
+        "\"An infected individual\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Person-first language (\"a person living with HIV\") reduces stigma, which remains a major barrier to care engagement and adherence. Choosing respectful language supports the therapeutic relationship.",
+        "incorrect": [
+          "\"HIV patient\" labels the person by the disease rather than using person-first language.",
+          "\"Victim\" is stigmatizing and disempowering.",
+          "\"Infected individual\" is depersonalizing."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is collecting specimens for STI testing. Which principle guides site-specific testing?",
+      "options": [
+        "Test all sites of exposure, because screening only urogenital sites misses many pharyngeal and rectal infections",
+        "Test only the urogenital site to save resources",
+        "Collect specimens without regard to the sexual history",
+        "Avoid self-collected swabs because they are unreliable"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Screening only urogenital sites misses a large share of pharyngeal and rectal infections, so all sites of exposure are tested, guided by the sexual history; validated self-collected swabs improve acceptability. Comprehensive, history-guided testing is the point.",
+        "incorrect": [
+          "Testing only the urogenital site misses many extragenital infections.",
+          "The sexual history should guide which sites are tested.",
+          "Self-collected vaginal, pharyngeal, and rectal swabs are validated and acceptable."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is providing HIV pre-exposure prophylaxis (PrEP) education. Which statement about PrEP is accurate?",
+      "options": [
+        "PrEP is taken by HIV-negative people at risk to prevent acquiring HIV, and options include daily oral and long-acting injectable forms",
+        "PrEP is a treatment for people already living with HIV",
+        "PrEP eliminates the need for any HIV testing",
+        "PrEP is a one-time vaccine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "PrEP is used by HIV-negative people at risk to prevent acquisition; options include daily oral agents and long-acting injectables, with regular HIV testing required. Distinguishing prevention from treatment is the point.",
+        "incorrect": [
+          "PrEP is prevention for HIV-negative people, not treatment for those with HIV.",
+          "PrEP requires ongoing HIV testing, not its elimination.",
+          "PrEP is not a one-time vaccine; it is ongoing prophylaxis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews HIV viral load goals with a client on antiretroviral therapy. Which result indicates the therapy is meeting its goal?",
+      "options": [
+        "An undetectable viral load (below 50 copies)",
+        "A viral load of 100,000 copies",
+        "A CD4 count of 100 cells/µL",
+        "A positive antibody test"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The goal of antiretroviral therapy is viral suppression to an undetectable level (below 50 copies), which also underpins U=U. Evaluating the viral load against this target is the outcome measure.",
+        "incorrect": [
+          "A viral load of 100,000 copies indicates uncontrolled infection.",
+          "A CD4 of 100 reflects immune status, not the viral load goal, and is low.",
+          "A positive antibody test confirms infection but does not measure suppression."
+        ]
+      }
+    },
+    {
+      "stem": "A client on antiretroviral therapy has a viral load \"blip\" of 150 copies/mL after being undetectable. What is the nurse's best action?",
+      "options": [
+        "Assess adherence and drug interactions and plan to recheck the viral load in 2 to 4 weeks",
+        "Immediately stop all antiretroviral therapy",
+        "Reassure the client that the medication has failed and switch regimens today",
+        "Tell the client no further monitoring is needed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A transient blip (up to about 200 copies/mL) prompts assessment of adherence and drug interactions with a recheck in 2 to 4 weeks, rather than abrupt changes. Responding proportionately is the point.",
+        "incorrect": [
+          "Stopping therapy risks loss of suppression and resistance.",
+          "A single blip does not confirm failure; premature switching is not warranted.",
+          "Continued monitoring is exactly what a blip requires."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about doxyPEP for STI prevention. Which statement is accurate?",
+      "options": [
+        "It is a dose of doxycycline taken within 72 hours after a sexual exposure to reduce bacterial STIs such as syphilis and chlamydia in high-risk individuals",
+        "It is a daily lifelong HIV treatment",
+        "It prevents all viral STIs including HIV",
+        "It is taken several times per day indefinitely"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "DoxyPEP is doxycycline (200 mg) taken within 72 hours after sexual exposure, not more than once per day, to reduce acquisition of bacterial STIs (syphilis, chlamydia, some gonorrhea) in high-risk populations. Matching the drug and window is the point.",
+        "incorrect": [
+          "DoxyPEP is STI post-exposure prophylaxis, not HIV treatment.",
+          "It targets bacterial STIs, not viral STIs like HIV.",
+          "It is taken within 72 hours and not more than once per day, not several times daily indefinitely."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with mpox who has a rash progressing through macules, papules, vesicles, and pustules. Which statement about management is accurate?",
+      "options": [
+        "Supportive care (pain control, wound care, hydration) is first-line, and the JYNNEOS vaccine is used for prevention in high-risk populations",
+        "A specific FDA-approved antiviral cures all cases within 24 hours",
+        "The rash is diagnosed by a routine throat culture",
+        "No isolation or precautions are needed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Mpox management is supportive (pain control, wound care, hydration), with JYNNEOS vaccine for prevention in high-risk groups; diagnosis is by PCR of lesion material. Recognizing the supportive, preventive approach is the point.",
+        "incorrect": [
+          "There is no FDA-approved curative antiviral that resolves mpox in 24 hours; tecovirimat is available for severe disease via expanded access.",
+          "Diagnosis is by PCR of a lesion swab, not a throat culture.",
+          "Precautions are needed given transmission by close skin-to-skin contact."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews reportable sexually transmitted infections. Which infection is nationally reportable in all states?",
+      "options": [
+        "Syphilis",
+        "Bacterial vaginosis",
+        "A yeast infection (candidiasis)",
+        "A urinary tract infection"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Nationally reportable STIs include syphilis (including congenital), gonorrhea, chlamydia, chancroid, and HIV; reports are kept confidential. Recognizing which conditions require reporting supports public health duties.",
+        "incorrect": [
+          "Bacterial vaginosis is not a nationally reportable STI.",
+          "Candidiasis is not a reportable STI.",
+          "A urinary tract infection is not a reportable STI."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is taking a sexual history using the 5 P's framework. Which topics are included?",
+      "options": [
+        "Partners, practices, past history of STDs, protection from STDs, and pregnancy plans",
+        "Only the number of lifetime partners",
+        "Financial history and employment",
+        "Family medical history only"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The 5 P's are Partners, Practices, Past history of STDs, Protection from STDs, and Pregnancy plans, taken from all adolescent and adult patients regardless of identity. Knowing the framework guides a complete, nonjudgmental history.",
+        "incorrect": [
+          "The framework covers five domains, not only the number of partners.",
+          "Financial and employment history are not the 5 P's.",
+          "Family medical history alone is not the sexual-history framework."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is planning HIV-specific monitoring for a newly diagnosed client starting antiretroviral therapy. Which laboratory tests does the nurse anticipate at baseline?",
+      "options": [
+        "HIV RNA (viral load) and CD4 count, along with a resistance genotype",
+        "Only a complete blood count",
+        "A single antibody test with no further monitoring",
+        "A 24-hour urine cortisol"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Baseline HIV assessment includes HIV RNA (viral load) and CD4 count, plus baseline genotype resistance testing (and screening labs such as hepatitis serologies and HLA-B*5701 if abacavir is considered). Matching monitoring to HIV care is the point.",
+        "incorrect": [
+          "A CBC alone is insufficient for HIV baseline monitoring.",
+          "A single antibody test with no monitoring does not guide therapy.",
+          "A 24-hour urine cortisol is unrelated to HIV monitoring."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client living with HIV and reviewing comorbidity management. Which statement reflects the taught approach?",
+      "options": [
+        "HIV is a chronic inflammatory condition and an independent cardiovascular risk factor, so cardiovascular, kidney, bone, and metabolic health are actively managed",
+        "People with HIV have no increased risk of other chronic diseases",
+        "Bone health is not a concern in HIV",
+        "Kidney function does not need monitoring on antiretroviral therapy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "HIV is a chronic inflammatory condition and an independent cardiovascular risk factor, so comprehensive primary care manages cardiovascular, metabolic, renal, and bone health across the lifespan. Recognizing HIV as a chronic disease guides holistic care.",
+        "incorrect": [
+          "People with HIV have higher risks of several chronic conditions, not none.",
+          "Bone health is a concern; osteoporosis risk is higher, and DEXA is recommended for certain groups.",
+          "Kidney function is monitored, especially with tenofovir-based regimens."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is providing STI screening for a person living with HIV. Which screening approach is appropriate?",
+      "options": [
+        "Screen for syphilis, gonorrhea, and chlamydia at all exposed sites at least annually, and more often if at higher risk",
+        "Screen only if the client reports symptoms",
+        "Screen the urogenital site only",
+        "Avoid STI screening to reduce cost"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "People living with HIV are screened for syphilis at least annually and for gonorrhea/chlamydia by NAAT at all exposed sites (rectal, pharyngeal, vaginal, urethral) at least annually, more often if at higher risk. Site-inclusive, routine screening is the point.",
+        "incorrect": [
+          "Screening is routine, not only symptom-driven, given frequent asymptomatic infection.",
+          "All exposed sites are screened, not only the urogenital site.",
+          "STI screening is a recommended part of HIV primary care."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client with newly diagnosed genital herpes simplex virus type 2. Which statement is accurate?",
+      "options": [
+        "Outbreaks can recur, especially during times of stress, and many people are asymptomatic between outbreaks",
+        "A single course of antivirals cures the virus permanently",
+        "It can only be transmitted when visible sores are present in every case",
+        "It is a nationally reportable infection in all states"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "HSV establishes lifelong infection with recurrences (often triggered by stress) and frequent asymptomatic periods; antivirals manage but do not cure it. Setting accurate expectations supports coping and prevention.",
+        "incorrect": [
+          "Antivirals control outbreaks but do not cure HSV.",
+          "HSV can shed and transmit even without visible lesions.",
+          "HSV is not among the nationally reportable STIs listed (syphilis, gonorrhea, chlamydia, chancroid, HIV)."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reconstituting intramuscular ceftriaxone for a client with gonorrhea and wants to reduce injection-site pain. Which diluent does the nurse anticipate using?",
+      "options": [
+        "1% lidocaine without epinephrine",
+        "Sterile water only, because lidocaine alters the drug",
+        "1% lidocaine with epinephrine",
+        "Normal saline with added potassium"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "IM ceftriaxone can be reconstituted with 1% lidocaine (without epinephrine) to significantly reduce injection-site pain without altering the drug's pharmacokinetics. Choosing the correct diluent improves comfort safely.",
+        "incorrect": [
+          "Lidocaine does not alter ceftriaxone's efficacy and reduces pain versus sterile water.",
+          "Epinephrine is not used in this reconstitution.",
+          "Potassium additive is not appropriate and is unsafe for IM reconstitution."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing sexually transmitted infections that are nationally reportable. Which are reportable in all states? Select all that apply.",
+      "options": [
+        "Syphilis",
+        "Gonorrhea",
+        "Chlamydia",
+        "Bacterial vaginosis",
+        "HIV"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Nationally reportable STIs include syphilis (including congenital), gonorrhea, chlamydia, chancroid, and HIV. Bacterial vaginosis is not a nationally reportable STI.",
+        "incorrect": [
+          "Correct—syphilis, including congenital syphilis, is reportable.",
+          "Correct—gonorrhea is reportable.",
+          "Correct—chlamydia is reportable.",
+          "Incorrect—bacterial vaginosis is not a nationally reportable STI.",
+          "Correct—HIV is reportable."
+        ]
+      }
+    },
+    {
+      "stem": "A person living with HIV has a CD4 count of 160 cells/µL and needs immunizations. Which vaccines are contraindicated at this time? Select all that apply.",
+      "options": [
+        "MMR (measles-mumps-rubella) live vaccine",
+        "Live attenuated varicella vaccine",
+        "Live attenuated influenza vaccine (nasal spray)",
+        "Inactivated influenza vaccine",
+        "Pneumococcal vaccine"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "With CD4 below 200, live MMR and varicella vaccines are contraindicated, and the live attenuated (nasal) influenza vaccine is contraindicated at any CD4 count. Inactivated influenza and pneumococcal vaccines are appropriate.",
+        "incorrect": [
+          "Correct—live MMR is contraindicated at CD4 below 200.",
+          "Correct—live varicella is contraindicated at CD4 below 200.",
+          "Correct—the live nasal-spray influenza vaccine is contraindicated at any CD4 count.",
+          "Incorrect—the inactivated influenza vaccine is appropriate.",
+          "Incorrect—the pneumococcal vaccine is recommended, not contraindicated."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client being treated for syphilis who develops the Jarisch-Herxheimer reaction. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        "Educate the client before treatment that this reaction may occur",
+        "Continue the penicillin",
+        "Manage symptoms with antipyretics and supportive care",
+        "Administer epinephrine because it is an allergic reaction",
+        "In a pregnant client, monitor for preterm labor but do not delay treatment"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The Jarisch-Herxheimer reaction is self-limiting and means treatment is working: educate beforehand, continue penicillin, give supportive care/antipyretics, and in pregnancy monitor for preterm labor without delaying treatment. Epinephrine is not indicated because it is not an allergy.",
+        "incorrect": [
+          "Correct—educating the client beforehand prepares them for the reaction.",
+          "Correct—the penicillin is continued, not stopped.",
+          "Correct—antipyretics and supportive care manage the symptoms.",
+          "Incorrect—it is not an allergic reaction, so epinephrine is not indicated.",
+          "Correct—in pregnancy, monitor for preterm labor/fetal distress but do not delay treatment."
+        ]
+      }
+    }
+  ]
+}

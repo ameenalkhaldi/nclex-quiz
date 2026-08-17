@@ -1,0 +1,609 @@
+{
+  "topic": "msfinal-dermatology",
+  "label": "MS Final: Dermatology",
+  "questions": [
+    {
+      "stem": "A nurse is assessing a client with deeply pigmented skin for possible cellulitis. Which finding best indicates erythema (inflammation) in darker skin tones?",
+      "options": [
+        "A dusky, violaceous, or dark-brown area that can be compared to the opposite limb",
+        "A bright, cherry-red area",
+        "A silvery scale over the affected area",
+        "A hypopigmented patch with sharp borders"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In darker skin tones, erythema does not appear red; it manifests as violaceous, dusky, grey, or dark-brown discoloration, confirmed with blanching and contralateral comparison. Assessing morphology over color is the single most important concept.",
+        "incorrect": [
+          "Bright red is how erythema appears in lighter skin; darker skin shows dusky or violaceous hues.",
+          "Silvery scale suggests psoriasis, not the color change of inflammation.",
+          "A hypopigmented patch is a pigment change, not the erythema of acute inflammation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is documenting skin lesions and needs to distinguish a macule from a papule. Which description is correct?",
+      "options": [
+        "A macule is a flat area of discoloration less than 1 cm; a papule is a solid, elevated lesion 0.5 cm or smaller",
+        "A macule is elevated and solid; a papule is flat",
+        "A macule is a fluid-filled blister; a papule contains pus",
+        "Both are fluid-filled lesions larger than 1 cm"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A macule is a flat discoloration under 1 cm, while a papule is a superficial solid elevated lesion 0.5 cm or smaller. Size and whether the lesion is flat or elevated are the key discriminators.",
+        "incorrect": [
+          "This reverses the definitions; the macule is flat and the papule is elevated.",
+          "Fluid-filled and pus-filled describe vesicles/bullae and pustules, not macules and papules.",
+          "Macules and papules are not fluid-filled; a bulla is a fluid lesion over 1 cm."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with a break in the skin who now has a tender, warm, erythematous, well-demarcated area with a red streak tracking up the arm and fever. Which condition is most likely, and what is the priority nursing assessment?",
+      "options": [
+        "Cellulitis — monitor vital signs and assess for increasing size of the area or worsening pain",
+        "Contact dermatitis — remove the offending allergen",
+        "Tinea — apply a topical antifungal",
+        "Psoriasis — apply a topical steroid"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Cellulitis (usually group A strep or S. aureus after a skin break) causes a tender, warm, well-demarcated area with possible lymphatic streaking and fever; the nurse monitors vital signs and watches for spreading or worsening pain. Recognizing spread and systemic signs guides care.",
+        "incorrect": [
+          "Contact dermatitis follows an allergen exposure and lacks the systemic fever and lymphatic streaking.",
+          "Tinea is a fungal infection with scaling, not this acute bacterial picture.",
+          "Psoriasis presents with scaly plaques, not acute erythema with fever and streaking."
+        ]
+      }
+    },
+    {
+      "stem": "A parent asks when a child with impetigo who was started on oral antibiotics can return to school. Which response is correct?",
+      "options": [
+        "\"After 24 hours of oral antibiotic treatment.\"",
+        "\"After 48 hours of oral antibiotic treatment.\"",
+        "\"Only after the lesions have completely healed.\"",
+        "\"Immediately, since impetigo is not contagious.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Impetigo is no longer contagious after 24 hours on oral antibiotics (or 48 hours on topical). Knowing the contagion timeframe by route is the point.",
+        "incorrect": [
+          "The 48-hour rule applies to topical treatment, not oral.",
+          "Complete healing is not required to be non-contagious once treated.",
+          "Untreated impetigo remains contagious; treatment is needed."
+        ]
+      }
+    },
+    {
+      "stem": "Before applying antibiotic ointment to impetigo lesions, the nurse removes the crusts. What is the rationale?",
+      "options": [
+        "The bacteria live in the crust, so the ointment must contact the skin to be effective",
+        "Crust removal prevents scarring",
+        "Crusts prevent the lesion from being cultured",
+        "Crust removal reduces pain during application"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In impetigo, bacteria reside in the crust, so crusts are removed to allow the antibiotic ointment to reach and act on the skin. Understanding this rationale guides correct technique.",
+        "incorrect": [
+          "Crust removal is about drug contact, not primarily scar prevention.",
+          "The rationale is drug efficacy, not culturing.",
+          "Reducing pain is not the stated rationale for removing crusts."
+        ]
+      }
+    },
+    {
+      "stem": "A client with strep impetigo asks why finishing the full course of antibiotics matters. The nurse explains that incomplete treatment of strep impetigo may lead to which complication?",
+      "options": [
+        "Kidney problems (post-streptococcal glomerulonephritis)",
+        "Postherpetic neuralgia",
+        "Psoriatic arthritis",
+        "Onychomycosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Streptococcal impetigo can lead to kidney complications (post-streptococcal glomerulonephritis), so completing the antibiotic course matters. Linking the organism to its complication is the point.",
+        "incorrect": [
+          "Postherpetic neuralgia follows shingles, not strep impetigo.",
+          "Psoriatic arthritis relates to psoriasis, not strep impetigo.",
+          "Onychomycosis is a fungal nail infection, unrelated to strep impetigo."
+        ]
+      }
+    },
+    {
+      "stem": "A 62-year-old reports a unilateral, painful, burning rash confined to a single band on one side of the trunk. The nurse recognizes this as which condition?",
+      "options": [
+        "Herpes zoster (shingles)",
+        "Contact dermatitis",
+        "Cellulitis",
+        "Atopic dermatitis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Herpes zoster is an acute, unilateral, segmental eruption confined to a dermatome, with severe neuralgic pain, caused by reactivation of the varicella-zoster virus. Recognizing the dermatomal, unilateral pattern is the cue.",
+        "incorrect": [
+          "Contact dermatitis follows the shape of the contacting object, not a dermatome.",
+          "Cellulitis is a spreading bacterial infection, not a dermatomal vesicular rash.",
+          "Atopic dermatitis is a chronic, often bilateral flexural eczema, not a unilateral band."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks how to prevent shingles. The nurse teaches that the Shingrix vaccine is recommended for adults of which age?",
+      "options": [
+        "50 years and older",
+        "18 years and older",
+        "40 years and older",
+        "65 years and older"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Shingrix is recommended for adults 50 and older to prevent shingles. Note that shingles itself usually appears in adults over 40 — two different numbers not to blend.",
+        "incorrect": [
+          "18 and older is not the Shingrix recommendation.",
+          "40 and older is the usual age shingles appears, not the vaccine recommendation.",
+          "65 and older is too restrictive; the recommendation starts at 50."
+        ]
+      }
+    },
+    {
+      "stem": "A 68-year-old reports burning pain along the right flank that has persisted for months after a shingles rash resolved. The nurse recognizes this as which condition?",
+      "options": [
+        "Postherpetic neuralgia",
+        "Cellulitis",
+        "Contact dermatitis",
+        "Normal age-related hyperesthesia"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Postherpetic neuralgia is the most common complication of shingles: burning pain that persists long after the rash and blisters resolve, sometimes managed with anti-seizure medications. Recognizing the post-shingles timeline is the cue.",
+        "incorrect": [
+          "Cellulitis is an acute bacterial infection, not chronic post-shingles pain.",
+          "Contact dermatitis is a rash from contact, not persistent neuralgic pain.",
+          "Persistent post-shingles pain is a recognized complication, not normal aging."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is matching tinea infections to their locations. Which pairing is correct?",
+      "options": [
+        "Tinea pedis is on the foot (athlete's foot), and tinea cruris is in the groin (jock itch)",
+        "Tinea capitis is on the foot, and tinea pedis is on the scalp",
+        "Tinea unguium is on the face, and tinea corporis is on the nails",
+        "Tinea barbae is on the scalp, and tinea capitis is in the beard"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Tinea pedis affects the foot (athlete's foot) and tinea cruris affects the groin (jock itch); tinea is treated with topical or oral antifungals based on location. Matching the Latin roots to the sites is the point.",
+        "incorrect": [
+          "Tinea capitis is the scalp and tinea pedis is the foot; this reverses them.",
+          "Tinea unguium is the nails and tinea corporis is the body; this reverses them.",
+          "Tinea barbae is the bearded area and tinea capitis is the scalp; this reverses them."
+        ]
+      }
+    },
+    {
+      "stem": "A hospitalized client with obesity has a moist, inflamed, macerated rash in the inframammary and abdominal folds. The nurse recognizes this intertrigo is most commonly secondarily infected with which organism?",
+      "options": [
+        "Candida",
+        "Sarcoptes scabiei",
+        "Varicella-zoster virus",
+        "Group A streptococcus only"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Intertrigo affects warm, moist flexural surfaces (axilla, inframammary and abdominal folds, perineum), is most common in clients with obesity, and commonly becomes secondarily infected with Candida. Recognizing the organism guides treatment with an antifungal.",
+        "incorrect": [
+          "Sarcoptes scabiei causes scabies with burrows, not intertrigo.",
+          "Varicella-zoster causes shingles, not intertrigo.",
+          "Candida, not group A strep alone, is the classic secondary infection in intertrigo."
+        ]
+      }
+    },
+    {
+      "stem": "A client being treated for intertrigo returns for follow-up. The rash is gone, but the skin appears slightly darker than the surrounding area, with no redness, discomfort, or sores. What is the nurse's best action?",
+      "options": [
+        "Recognize this as an expected outcome of successful treatment",
+        "Restart the topical antifungal for another 3 to 8 weeks",
+        "Obtain a wound culture",
+        "Initiate contact precautions"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The treatment endpoint for intertrigo is that the skin may look slightly darker than usual but has no redness, discomfort, or sores. Recognizing resolution as the expected outcome prevents unnecessary treatment.",
+        "incorrect": [
+          "Restarting the antifungal is unnecessary once the rash has resolved without redness or sores.",
+          "A wound culture is not needed for a resolved rash.",
+          "Contact precautions are not indicated for resolved intertrigo."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with intense itching and notes tiny, raised, crooked, grayish-white lines on the skin. Which finding is pathognomonic for scabies?",
+      "options": [
+        "Serpiginous grayish-white burrows",
+        "Honey-colored crusting",
+        "A single painless ulcer",
+        "Silvery scaly plaques"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Burrows — tiny, raised, crooked (serpiginous) grayish-white lines made by the female mite — are pathognomonic for scabies, which requires contact precautions and a scabicidal agent. Recognizing the burrow is the key cue.",
+        "incorrect": [
+          "Honey-colored crusting is impetigo, not scabies.",
+          "A single painless ulcer is a syphilitic chancre, not scabies.",
+          "Silvery scaly plaques are psoriasis, not scabies."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client with scabies. Which precaution and treatment does the nurse anticipate?",
+      "options": [
+        "Contact precautions and a scabicidal agent, with an antimicrobial if a secondary infection develops",
+        "Airborne precautions and an oral antiviral",
+        "No precautions and a topical steroid only",
+        "Droplet precautions and an antifungal"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Scabies requires contact precautions and a scabicidal agent (e.g., permethrin), plus an antimicrobial if secondary infection occurs and skin-integrity measures. Matching precautions and treatment to the parasite is the point.",
+        "incorrect": [
+          "Scabies needs contact, not airborne, precautions, and a scabicide, not an antiviral.",
+          "Precautions and a scabicide are required; a topical steroid alone does not treat the infestation.",
+          "Contact, not droplet, precautions are used, and a scabicide, not an antifungal, treats scabies."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse distinguishes scabies from pediculosis (lice). Which statement is correct?",
+      "options": [
+        "Scabies mites burrow into the skin and lay eggs there, whereas lice stay on the surface and feed on blood, causing itching especially at night",
+        "Lice burrow into the skin, whereas scabies mites stay on the surface",
+        "Both are treated with oral antivirals",
+        "Neither requires environmental decontamination"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Scabies mites burrow into the skin (burrows are pathognomonic), while lice remain on the surface feeding on blood, causing nighttime itching; both share a nursing theme of decontamination and screening close contacts. Distinguishing the two prevents mix-ups.",
+        "incorrect": [
+          "This reverses them; scabies burrows, lice stay on the surface.",
+          "Both are parasitic infestations treated with antiparasitics, not antivirals.",
+          "Both involve environmental decontamination and contact screening."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a family about managing head lice (pediculosis capitis). Which instruction is appropriate?",
+      "options": [
+        "Treat with a pediculicide such as permethrin, remove nits with a fine-toothed comb, and screen all close contacts",
+        "Apply calamine lotion to the scalp to smother the eggs",
+        "Treat only the affected child and ignore household contacts",
+        "Wash bedding in cold water only"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Head lice are treated with a pediculicide (e.g., permethrin or pyrethrin with piperonyl butoxide), nits are removed with a fine-toothed comb, close contacts are screened, and clothing/bedding are laundered in hot water. Comprehensive treatment and decontamination prevent reinfestation.",
+        "incorrect": [
+          "Calamine relieves itching (as in shingles); it does not treat lice or eggs.",
+          "Close contacts must be screened and treated, not ignored.",
+          "Bedding is washed in hot water (or dry-cleaned), not cold."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching an adolescent with moderate-to-severe acne who is prescribed an oral retinoid. Which teaching point carries the greatest safety weight?",
+      "options": [
+        "Oral retinoids are teratogenic, so effective contraception counseling is essential for those of childbearing potential",
+        "Oral retinoids cure acne permanently after one dose",
+        "Oral retinoids can be shared with friends who have acne",
+        "Oral retinoids are applied topically to the lesions"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Oral retinoids are teratogenic, so counseling a person of childbearing potential about contraception is the safety-critical teaching point. Recognizing teratogenicity protects a potential fetus.",
+        "incorrect": [
+          "Oral retinoids do not cure acne in one dose.",
+          "Medications are never shared; dosing is individualized and this one is teratogenic.",
+          "Oral retinoids are systemic, not applied topically."
+        ]
+      }
+    },
+    {
+      "stem": "A client presents with dry, itchy lesions on flexor surfaces (the inner elbows and behind the knees) and a history of asthma and allergic rhinitis. Which condition is most likely?",
+      "options": [
+        "Atopic dermatitis (eczema)",
+        "Psoriasis",
+        "Contact dermatitis",
+        "Herpes zoster"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Atopic dermatitis presents with dry, pruritic lesions on flexor surfaces and often occurs in a triad with asthma and allergic rhinitis. The flexor distribution plus the atopic history is the discriminator from psoriasis (extensor surfaces).",
+        "incorrect": [
+          "Psoriasis presents on extensor surfaces with sharply defined scaly plaques, not flexor eczema.",
+          "Contact dermatitis follows the shape of the contacting object.",
+          "Herpes zoster is a unilateral dermatomal rash, not chronic flexor eczema."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a client with sharply defined, erythematous plaques with silvery scale on the extensor surfaces (elbows and knees) and reports of joint pain. Which condition is most likely?",
+      "options": [
+        "Psoriasis",
+        "Atopic dermatitis",
+        "Tinea corporis",
+        "Cellulitis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Psoriasis is a chronic immune-mediated disorder with sharply defined erythematous plaques and scale on extensor surfaces and possible psoriatic arthritis. The extensor distribution distinguishes it from atopic dermatitis (flexor).",
+        "incorrect": [
+          "Atopic dermatitis involves flexor surfaces, not extensor plaques with joint disease.",
+          "Tinea corporis is a fungal ring-shaped lesion, not extensor plaques with arthritis.",
+          "Cellulitis is an acute spreading infection, not chronic scaly plaques."
+        ]
+      }
+    },
+    {
+      "stem": "A client develops a ring-shaped rash on a finger exactly where a nickel ring sits, and a rash on the forearm where a plant brushed the skin. Which condition does the distribution indicate?",
+      "options": [
+        "Contact dermatitis",
+        "Psoriasis",
+        "Atopic dermatitis",
+        "Herpes zoster"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Contact dermatitis is defined by where the contact happened — the rash mirrors the offending object (a ring, a plant). Reading the distribution is the diagnostic clue; management includes avoidance, barrier measures, and corticosteroids for the allergic type.",
+        "incorrect": [
+          "Psoriasis appears on extensor surfaces in plaques, not in the shape of a contacting object.",
+          "Atopic dermatitis is flexor eczema with an atopic history, not object-shaped.",
+          "Herpes zoster follows a dermatome, not the shape of an object."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client about the ABCDE assessment for melanoma. Which feature reflects the \"D\" and its threshold?",
+      "options": [
+        "Diameter larger than 6 mm (about 1/4 inch)",
+        "Diameter larger than 2 mm",
+        "Diameter larger than 1 cm",
+        "Diameter larger than 2 cm"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "In ABCDE, D is Diameter, with concern for lesions larger than 6 mm (about 1/4 inch) — the one hard number in the mnemonic. Knowing the threshold is the tested detail.",
+        "incorrect": [
+          "2 mm is below the concerning threshold.",
+          "The threshold is 6 mm, not 1 cm.",
+          "The threshold is 6 mm, not 2 cm."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client to monitor a mole using the ABCDE method. Which feature specifically requires comparison over time?",
+      "options": [
+        "Evolution — a change in size, shape, color, or another trait",
+        "Asymmetry",
+        "Border irregularity",
+        "Color variation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The \"E\" (Evolution) requires observing change over time, so teaching focuses on monitoring and reporting change rather than a single snapshot. Understanding this makes patient self-monitoring effective.",
+        "incorrect": [
+          "Asymmetry is assessed at a single point in time.",
+          "Border irregularity is a single-snapshot feature.",
+          "Color variation is assessed at one point, though change in color also counts as evolution."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a lesion on a client's nose that appears as a small, waxy nodule with rolled, translucent, pearly borders on sun-exposed skin. Which type of skin cancer is most likely?",
+      "options": [
+        "Basal cell carcinoma",
+        "Squamous cell carcinoma",
+        "Melanoma",
+        "Seborrheic keratosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Basal cell carcinoma appears as a small, waxy nodule with rolled, translucent, pearly borders on sun-exposed areas; it is the most common skin cancer (about 80%) and rarely causes morbidity or death. Recognizing the pearly, rolled border is the cue.",
+        "incorrect": [
+          "Squamous cell carcinoma is a rough, thickened, scaly tumor, not a pearly nodule.",
+          "Melanoma is pigmented and changing (ABCDE), not a waxy pearly nodule.",
+          "Seborrheic keratosis is a benign, stuck-on, tan-to-brown papule, not a pearly malignant nodule."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse compares basal cell carcinoma, squamous cell carcinoma, and melanoma. Which statement is accurate?",
+      "options": [
+        "Melanoma is the most aggressive with a high risk of metastasis but is treatable if caught early, while basal cell carcinoma is the most common and least dangerous",
+        "Basal cell carcinoma is the most aggressive and most likely to metastasize",
+        "Squamous cell carcinoma never metastasizes",
+        "Melanoma arises from keratinocytes in the dermis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Melanoma (from melanocytes in the stratum basale) is the most aggressive with high metastatic risk yet treatable if caught early; BCC is the most common (about 80%) and least dangerous, and SCC is intermediate and can metastasize. Ranking the three by aggressiveness is the point.",
+        "incorrect": [
+          "Basal cell carcinoma is the least aggressive and rarely metastasizes.",
+          "Squamous cell carcinoma can metastasize.",
+          "Melanoma arises from melanocytes in the stratum basale, not keratinocytes in the dermis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about melanoma in patients with skin of color. Which statement is supported by the data presented?",
+      "options": [
+        "It is less common but tends to be diagnosed at more advanced stages, with significantly lower 5-year survival",
+        "It is more common and diagnosed earlier",
+        "It is equally common and carries identical survival rates",
+        "It rarely metastasizes in any patient"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Melanoma in patients with skin of color is less common but diagnosed at more advanced stages with lower survival (16% vs 5% presenting with advanced disease; 66.2% vs 90.1% 5-year survival). Delayed recognition drives worse outcomes, which is why morphology-over-color assessment matters.",
+        "incorrect": [
+          "It is less common, and it is diagnosed later, not earlier.",
+          "Survival rates are significantly lower, not identical.",
+          "Melanoma has high metastatic potential; the concern here is delayed diagnosis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching skin cancer prevention. Which recommendation is appropriate?",
+      "options": [
+        "Use sunscreen consistently, wear protective clothing and hats, seek shade, and avoid tanning beds",
+        "Establish a protective base tan before sun exposure",
+        "Use tanning beds instead of natural sunlight",
+        "Avoid sunscreen because it blocks needed vitamin D"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Skin cancer prevention includes sunglasses, hats, protective clothing, avoiding peak-intensity hours, seeking shade, using sunscreen consistently, and avoiding tanning. Any \"base tan protects the skin\" or pro-tanning option is wrong.",
+        "incorrect": [
+          "A base tan does not protect the skin; tanning is to be avoided.",
+          "Tanning beds increase skin cancer risk and are avoided.",
+          "Sunscreen is recommended; skipping it to gain vitamin D is not appropriate prevention."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews management options for skin cancer. Which reflects the treatment-route logic taught?",
+      "options": [
+        "Local disease is treated with excision, Mohs surgery, cryotherapy, or topical 5-fluorouracil, while advanced disease is treated with systemic chemotherapy, targeted therapy, or immunotherapy",
+        "All skin cancers require systemic chemotherapy regardless of stage",
+        "Topical 5-fluorouracil is used for widely metastatic disease",
+        "Mohs surgery is used only for advanced metastatic melanoma"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Skin cancer treatment follows a local-versus-systemic logic: local disease is managed with excision, Mohs, cryotherapy, curettage/electrodesiccation, radiation, or topical 5-FU, while advanced disease requires systemic therapy (chemotherapy, targeted therapy, immunotherapy). Matching stage to route is the point.",
+        "incorrect": [
+          "Early, local skin cancers do not all require systemic chemotherapy.",
+          "Topical 5-FU treats local disease, not widespread metastasis.",
+          "Mohs surgery is a local treatment, not for widely metastatic melanoma."
+        ]
+      }
+    },
+    {
+      "stem": "A hospitalized child has honey-colored crusting on the face. Which condition and precaution does the nurse anticipate?",
+      "options": [
+        "Impetigo — contact precautions if hospitalized, plus meticulous hand hygiene and separate linens",
+        "Herpes zoster — airborne precautions",
+        "Scabies — droplet precautions",
+        "Tinea — no precautions and an oral antiviral"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Honey-colored crusting is impetigo (often streptococcal), which warrants contact precautions if hospitalized, along with hand hygiene, separate linens, short nails, and no touching/scratching. Matching the lesion to the precaution is the point.",
+        "incorrect": [
+          "Herpes zoster is treated with precautions related to varicella, not the impetigo picture, and this lesion is impetigo.",
+          "Scabies uses contact precautions, but the honey-colored crust is impetigo, not scabies.",
+          "Tinea is fungal with no such precautions and is not treated with an antiviral."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse documents a fluid-filled skin lesion. Which description correctly distinguishes a vesicle from a bulla?",
+      "options": [
+        "A vesicle is a fluid-filled lesion 1 cm or smaller; a bulla is a fluid-filled lesion larger than 1 cm",
+        "A vesicle is larger than 1 cm; a bulla is 1 cm or smaller",
+        "A vesicle contains pus; a bulla is solid",
+        "Both are flat discolorations"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "A vesicle is a circumscribed collection of free fluid 1 cm or smaller, and a bulla is a collection of free fluid larger than 1 cm (a bulla is a big vesicle). Size is the discriminator.",
+        "incorrect": [
+          "This reverses the sizes; the vesicle is the smaller lesion.",
+          "A pus-filled lesion is a pustule; a bulla is fluid-filled, not solid.",
+          "Vesicles and bullae are fluid-filled and elevated, not flat discolorations."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about skin cancer prevention. Which teaching points are appropriate? Select all that apply.",
+      "options": [
+        "Wear sunglasses, hats, and protective clothing",
+        "Avoid outdoor activity during peak sun-intensity hours",
+        "Use sunscreen properly and consistently",
+        "Stay in shaded areas when outdoors",
+        "Use a tanning bed to establish a protective base tan"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Skin cancer prevention includes protective clothing, avoiding peak sun hours, consistent sunscreen use, and seeking shade. Using a tanning bed is explicitly discouraged because tanning should be avoided.",
+        "incorrect": [
+          "Correct—protective clothing and hats reduce UV exposure.",
+          "Correct—avoiding peak-intensity hours limits UV exposure.",
+          "Correct—consistent sunscreen use is recommended.",
+          "Correct—seeking shade reduces UV exposure.",
+          "Incorrect—tanning beds increase risk; a base tan is not protective."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a family about managing pediculosis (lice). Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Remove nits with a fine-toothed comb",
+        "Wash clothing, towels, and bedding in hot water or dry clean",
+        "Screen all family members and close contacts",
+        "Bathe with soap and water for body lice",
+        "Apply calamine lotion to the scalp to smother the eggs"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Pediculosis management includes removing nits with a fine-toothed comb, laundering clothing/bedding in hot water or dry cleaning, screening close contacts, and bathing with soap and water for body lice. Calamine relieves itching (as in shingles) and does not treat lice or eggs.",
+        "incorrect": [
+          "Correct—nits are removed with a fine-toothed comb.",
+          "Correct—laundering in hot water or dry cleaning decontaminates the environment.",
+          "Correct—close contacts are screened to prevent spread.",
+          "Correct—bathing with soap and water is used for body lice.",
+          "Incorrect—calamine soothes itching but does not treat lice or eggs."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing primary skin lesions and their size cutoffs. Which statements are correct? Select all that apply.",
+      "options": [
+        "A macule is a flat discoloration smaller than 1 cm",
+        "A papule is a superficial solid elevated lesion 0.5 cm or smaller",
+        "A vesicle is a fluid-filled lesion 1 cm or smaller",
+        "A bulla is a fluid-filled lesion smaller than 0.5 cm",
+        "A pustule is a vesicle containing pus"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "A macule is flat and under 1 cm, a papule is a solid elevated lesion 0.5 cm or smaller, a vesicle is fluid-filled and 1 cm or smaller, and a pustule is a vesicle containing pus. A bulla is a fluid-filled lesion larger than 1 cm, not smaller than 0.5 cm.",
+        "incorrect": [
+          "Correct—a macule is a flat discoloration under 1 cm.",
+          "Correct—a papule is a solid elevated lesion 0.5 cm or smaller.",
+          "Correct—a vesicle is fluid-filled and 1 cm or smaller.",
+          "Incorrect—a bulla is a fluid-filled lesion larger than 1 cm, not under 0.5 cm.",
+          "Correct—a pustule is a vesicle containing pus."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "topic": "msfinal-breast",
+  "label": "MS Final: Breast",
+  "questions": [
+    {
+      "stem": "A client reports unilateral, spontaneous, bloody nipple discharge from one breast. Which action does the nurse anticipate?",
+      "options": [
+        "Screening for cancer with a mammogram and/or ultrasound",
+        "Reassuring the client that this is a normal physiologic finding",
+        "Checking only the TSH and prolactin levels",
+        "Recommending a supportive bra and observation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Unilateral, spontaneous, bloody (sanguineous) discharge is non-physiologic and worrisome, prompting a cancer workup with mammography and/or ultrasound. Distinguishing it from benign discharge is the point.",
+        "incorrect": [
+          "Bilateral, non-bloody, provoked discharge is physiologic; unilateral bloody discharge is not reassuring.",
+          "TSH and prolactin are checked for benign bilateral discharge, not for suspicious unilateral bloody discharge.",
+          "A supportive bra and observation are appropriate for cyclical breast pain, not for suspicious discharge."
+        ]
+      }
+    },
+    {
+      "stem": "A client has bilateral, non-bloody nipple discharge that occurs only with compression. Which workup does the nurse anticipate for this physiologic discharge?",
+      "options": [
+        "Review of medications and checking TSH and prolactin levels",
+        "Immediate mammography and biopsy",
+        "Prophylactic mastectomy",
+        "Referral for chemotherapy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Bilateral, non-bloody, provoked discharge is physiologic (seen in about one in three females); the workup reviews medications and checks TSH and prolactin. Matching the benign pattern to the correct evaluation is the point.",
+        "incorrect": [
+          "Immediate mammography and biopsy are reserved for suspicious unilateral bloody discharge.",
+          "Prophylactic mastectomy is unrelated to benign physiologic discharge.",
+          "Chemotherapy is a cancer treatment, not a workup for physiologic discharge."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfeeding client is diagnosed with mastitis. Which treatment does the nurse anticipate per the lecture content?",
+      "options": [
+        "Antibiotics and cold compresses, with drainage if an abscess is present",
+        "Warm compresses and immediate weaning",
+        "Observation alone with no medication",
+        "Prophylactic mastectomy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Mastitis is treated with antibiotics and cold compresses, with drainage if it progresses to an abscess (its main complication). If a distractor substitutes warm compresses, it does not match the deck.",
+        "incorrect": [
+          "The deck specifies cold, not warm, compresses, and weaning is not the specified treatment.",
+          "Mastitis is an infection requiring antibiotics, not observation alone.",
+          "Mastectomy is not a treatment for mastitis."
+        ]
+      }
+    },
+    {
+      "stem": "A client reports diffuse, bilateral breast pain that predictably worsens before each menstrual period. How does the nurse classify this pain, and what is the appropriate management?",
+      "options": [
+        "Cyclical mastalgia — acetaminophen or NSAIDs and a supportive bra",
+        "Non-cyclical mastalgia — urgent biopsy",
+        "A breast abscess — antibiotics and drainage",
+        "Inflammatory breast cancer — immediate chemotherapy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Pain that is diffuse, bilateral, and predictable with the menstrual cycle is cyclical mastalgia (two-thirds of cases), managed with acetaminophen or NSAIDs and a supportive bra. Matching the pattern to conservative management is the point.",
+        "incorrect": [
+          "Non-cyclical pain has no menstrual association and often prompts imaging, not this predictable cyclical pattern.",
+          "An abscess is a localized infection, not diffuse cyclical pain.",
+          "Inflammatory breast cancer presents with redness and peau d'orange, not cyclical bilateral pain."
+        ]
+      }
+    },
+    {
+      "stem": "During a breast assessment, the nurse palpates a firm, irregular, immobile, nontender mass with overlying skin retraction. Which finding is most concerning for malignancy?",
+      "options": [
+        "The mass is irregular, hard, fixed, and shows skin retraction",
+        "The mass is soft, mobile, and tender",
+        "The mass is round, mobile, and tender",
+        "The mass is round or lobular, mobile, and nontender"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Malignant masses are typically irregular, firm/hard, immobile (fixed), nontender, and may show skin retraction. These discriminators separate cancer from mobile, tender cysts and mobile, nontender fibroadenomas.",
+        "incorrect": [
+          "A soft, mobile, tender mass is characteristic of a cyst, not malignancy.",
+          "A round, mobile, tender mass suggests a cyst.",
+          "A round or lobular, mobile, nontender mass suggests a fibroadenoma."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse palpates two nontender breast masses in different clients. Which additional feature best distinguishes a fibroadenoma from a malignancy?",
+      "options": [
+        "A fibroadenoma is round or lobular and mobile, whereas a malignancy is irregular and immobile",
+        "A fibroadenoma is always tender, whereas a malignancy is painful",
+        "A fibroadenoma is fixed to the chest wall, whereas a malignancy is mobile",
+        "Both are identical and cannot be distinguished on exam"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Because both fibroadenomas and malignancies are often nontender, mobility and shape are the tie-breakers: fibroadenomas are round/lobular and mobile, malignancies are irregular and immobile. Using the discriminating features is the reasoning.",
+        "incorrect": [
+          "Fibroadenomas are usually nontender, not always tender.",
+          "The mobility is reversed here — fibroadenomas are mobile and malignancies are fixed.",
+          "They can be distinguished by mobility and shape on exam."
+        ]
+      }
+    },
+    {
+      "stem": "A client is told a biopsy shows lobular carcinoma in situ (LCIS). Which explanation by the nurse is accurate?",
+      "options": [
+        "LCIS is a premalignant risk marker, not a cancer, and it substantially raises future breast cancer risk",
+        "LCIS is an invasive cancer requiring immediate mastectomy",
+        "LCIS is the same as ductal carcinoma in situ and is treated identically",
+        "LCIS carries no increased risk and needs no follow-up"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "LCIS is a microscopic finding under benign proliferative disease — a premalignant risk marker (7-11 times the risk), not a cancer. This contrasts with DCIS, which is an actual cancer confined to the ducts.",
+        "incorrect": [
+          "LCIS is not invasive cancer; it is a risk marker.",
+          "DCIS is a cancer; LCIS is a risk marker, so they are not the same or treated identically.",
+          "LCIS substantially increases risk and warrants surveillance."
+        ]
+      }
+    },
+    {
+      "stem": "An adolescent male and his parent are worried about mild bilateral breast enlargement. Which response by the nurse is most appropriate?",
+      "options": [
+        "\"In adolescent males this is usually related to puberty hormones and often resolves on its own.\"",
+        "\"This always requires an urgent breast cancer workup.\"",
+        "\"This means he has a testicular tumor.\"",
+        "\"This is caused by taking spironolactone.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Gynecomastia is the most common male breast condition; in adolescents it is usually due to puberty hormones and self-resolves. Reassurance with monitoring is appropriate, unlike in adult males where it requires evaluation.",
+        "incorrect": [
+          "Adolescent gynecomastia usually self-resolves; an urgent cancer workup is not the routine step.",
+          "A testicular tumor is one cause to evaluate in adult males, not the expected cause in an adolescent.",
+          "Spironolactone-induced gynecomastia applies to clients taking that drug, not to a typical adolescent."
+        ]
+      }
+    },
+    {
+      "stem": "A 55-year-old man reports new unilateral breast enlargement. Which nursing action is most appropriate?",
+      "options": [
+        "Recognize that gynecomastia in an adult male requires further evaluation for causes such as medications, testicular tumor, alcohol use, liver disease, or breast cancer",
+        "Reassure him it is a normal part of aging that needs no workup",
+        "Tell him it will resolve on its own as it does in adolescents",
+        "Assume it is caused by excessive exercise"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Unlike adolescent gynecomastia, breast enlargement in an adult male is never assumed benign and requires evaluation for medication effects (e.g., spironolactone), testicular tumor, alcohol use disorder, liver disease, or breast cancer. Recognizing the age-based difference drives the workup.",
+        "incorrect": [
+          "Adult male gynecomastia is not simply normal aging; it requires evaluation.",
+          "Self-resolution applies to adolescents, not adult-onset gynecomastia.",
+          "Exercise is not an assumed cause; serious causes must be ruled out."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks whether her deodorant, underwire bra, or a past abortion increased her breast cancer risk. Which response is accurate?",
+      "options": [
+        "\"There is no evidence that antiperspirants, underwire bras, or abortion cause breast cancer.\"",
+        "\"Yes, all of those are established risk factors.\"",
+        "\"Only the underwire bra increases your risk.\"",
+        "\"Antiperspirants are the leading cause of breast cancer.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "There is no evidence that silicone implants, antiperspirants, underwire bras, or abortion cause breast cancer. Correcting these common misconceptions is a high-yield teaching point.",
+        "incorrect": [
+          "None of these are established risk factors, so this is incorrect.",
+          "The underwire bra is not a risk factor.",
+          "Antiperspirants are not a cause of breast cancer."
+        ]
+      }
+    },
+    {
+      "stem": "A client asks the nurse to explain BRCA gene testing. Which statement is most accurate?",
+      "options": [
+        "Everyone has BRCA1 and BRCA2 genes; it is a mutation in these genes that markedly increases breast cancer risk",
+        "Only people with breast cancer carry the BRCA genes",
+        "A BRCA2 mutation carries a higher lifetime risk than a BRCA1 mutation",
+        "BRCA mutations occur only in people of Ashkenazi Jewish descent"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "BRCA1 and BRCA2 are normal genes everyone has; it is a mutation that raises risk (BRCA1 up to 80%, average 55-65%; BRCA2 about 45%). Precise language — mutation, not simply \"having the gene\" — is the tested point.",
+        "incorrect": [
+          "Everyone has BRCA genes; the mutation, not mere possession, raises risk.",
+          "BRCA1 mutations carry a higher lifetime risk than BRCA2, not the reverse.",
+          "BRCA mutations are more common in Ashkenazi Jewish people but can occur in anyone."
+        ]
+      }
+    },
+    {
+      "stem": "A 46-year-old woman at average risk asks how often she should have a screening mammogram. Which response reflects current guidance?",
+      "options": [
+        "Guidelines support mammography every 1 to 2 years in this age range; the ACS recommends yearly mammograms for women 45 to 54",
+        "She does not need any mammograms until age 55",
+        "She should have a clinical breast exam instead of a mammogram",
+        "She only needs a mammogram if she has symptoms"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "For average-risk women, USPSTF recommends biennial mammography for ages 40-74, and ACS recommends yearly mammograms for ages 45-54. Matching age to the screening interval is the teaching point.",
+        "incorrect": [
+          "Screening is recommended well before age 55 for average-risk women in their 40s.",
+          "Clinical breast exams are not recommended for average-risk women at any age; mammography is the screen.",
+          "Screening mammography is for asymptomatic women, not only those with symptoms."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about clinical breast exams for average-risk women. Which statement is correct?",
+      "options": [
+        "Clinical breast exams are not recommended for average-risk women at any age",
+        "Clinical breast exams should be performed annually for all women",
+        "Clinical breast exams replace the need for mammography",
+        "Clinical breast exams are the only reliable screening method"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Current guidance does not recommend clinical breast exams for average-risk women at any age — a commonly missed fact — so \"perform a clinical breast exam annually\" is a wrong answer.",
+        "incorrect": [
+          "Annual clinical breast exams are not recommended for average-risk women.",
+          "Clinical breast exams do not replace mammography, which is the screening tool.",
+          "Mammography, not the clinical breast exam, is the recommended screening method."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a suspicious mammogram asks if this means she definitely has breast cancer. Which response by the nurse is most accurate?",
+      "options": [
+        "\"Mammography detects abnormalities, but a tissue biopsy is the only way to definitively diagnose breast cancer.\"",
+        "\"Yes, a suspicious mammogram confirms breast cancer.\"",
+        "\"A PET scan will confirm whether it is cancer.\"",
+        "\"We will wait six months and repeat the mammogram before doing anything.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Mammography and ultrasound detect abnormalities, but only a tissue biopsy definitively diagnoses breast cancer. Distinguishing screening/detection from diagnosis is the key teaching point.",
+        "incorrect": [
+          "A suspicious mammogram raises concern but does not confirm cancer; biopsy does.",
+          "PET is used for staging, not to confirm a diagnosis, which requires biopsy.",
+          "Waiting six months is falsely reassuring and delays needed diagnosis."
+        ]
+      }
+    },
+    {
+      "stem": "A client's breast cancer is described as triple-negative. Which understanding guides the nurse's teaching about treatment?",
+      "options": [
+        "The tumor lacks estrogen, progesterone, and HER2 receptors, so chemotherapy is the most successful treatment",
+        "Hormonal therapy such as tamoxifen will be the primary treatment",
+        "Targeted HER2 therapy such as trastuzumab (Herceptin) will be most effective",
+        "The tumor is well-differentiated with a low chance of recurrence"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Triple-negative tumors lack estrogen, progesterone, and HER2 receptors, so hormonal therapy and HER2-targeted therapy do not work and chemotherapy is the most successful treatment. It is also more aggressive with a poorer prognosis.",
+        "incorrect": [
+          "Tamoxifen targets estrogen receptors, which triple-negative tumors lack.",
+          "HER2-targeted therapy requires HER2 expression, which triple-negative tumors lack.",
+          "Triple-negative disease is more aggressive with a poorer prognosis, not well-differentiated."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews a client's pathology showing a receptor-positive, well-differentiated breast tumor. Which implication is accurate?",
+      "options": [
+        "It is frequently hormone-dependent and responsive to hormonal therapy, with a lower chance of recurrence",
+        "It is unresponsive to hormonal therapy and frequently recurs",
+        "It is poorly differentiated with high proliferative activity",
+        "It requires no treatment because it is well-differentiated"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Receptor-positive, well-differentiated tumors are frequently hormone-dependent and responsive to hormonal therapy, with a lower recurrence risk. Reading receptor status guides treatment selection.",
+        "incorrect": [
+          "Unresponsiveness and frequent recurrence describe receptor-negative tumors.",
+          "Poor differentiation with high proliferation describes receptor-negative tumors.",
+          "Well-differentiated tumors still require treatment; being well-differentiated does not mean no treatment."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews a breast tumor that overexpresses HER2. Which implication does the nurse recognize?",
+      "options": [
+        "HER2 overexpression is associated with aggressive tumor growth and a worse prognosis",
+        "HER2 overexpression indicates a slow-growing, low-risk tumor",
+        "HER2 overexpression means hormonal therapy alone will cure it",
+        "HER2 overexpression has no effect on prognosis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "HER2 overexpression drives aggressive tumor growth, increases recurrence, and worsens prognosis (and directs HER2-targeted therapy such as trastuzumab). Interpreting the marker guides prognosis and treatment.",
+        "incorrect": [
+          "HER2 overexpression indicates a more aggressive, not low-risk, tumor.",
+          "Hormonal therapy alone does not address HER2-driven growth.",
+          "HER2 status meaningfully affects prognosis and treatment."
+        ]
+      }
+    },
+    {
+      "stem": "A client is prescribed tamoxifen after breast cancer treatment. Which symptom should the nurse teach the client to report immediately?",
+      "options": [
+        "Calf pain and swelling or new shortness of breath",
+        "Occasional hot flashes",
+        "Mild nausea that improves with food",
+        "Temporary fatigue"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Tamoxifen carries an FDA warning for thromboembolic events, so calf pain/swelling and shortness of breath (possible clot or PE) must be reported immediately. It also raises uterine/endometrial cancer risk, so abnormal vaginal bleeding is reported too.",
+        "incorrect": [
+          "Hot flashes are an expected, non-emergent side effect of tamoxifen.",
+          "Mild nausea that improves with food is a manageable side effect, not an emergency.",
+          "Temporary fatigue is not the priority warning sign compared with thromboembolism."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a postmenopausal client starting tamoxifen. Besides clot symptoms, which finding should the client report immediately?",
+      "options": [
+        "Any abnormal vaginal bleeding",
+        "Mild hot flashes",
+        "Slight weight change",
+        "Occasional headache"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Tamoxifen increases the risk of uterine/endometrial cancer, so any abnormal vaginal bleeding must be reported and evaluated promptly. This is one of the drug's two red-flag teaching points, alongside thromboembolism.",
+        "incorrect": [
+          "Hot flashes are an expected side effect, not a red flag.",
+          "Slight weight change is not the priority warning sign.",
+          "An occasional headache is not the specific red flag for tamoxifen's uterine cancer risk."
+        ]
+      }
+    },
+    {
+      "stem": "A client is scheduled for a modified radical mastectomy and asks how it differs from a radical mastectomy. Which explanation is accurate?",
+      "options": [
+        "A modified radical mastectomy removes breast tissue and axillary nodes but spares the pectoralis major, whereas a radical mastectomy also removes the pectoralis major muscle",
+        "A modified radical mastectomy removes the pectoralis major, whereas a radical mastectomy spares it",
+        "Both procedures remove only the tumor and a margin, preserving the breast",
+        "A modified radical mastectomy removes only some axillary nodes and preserves all breast tissue"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The distinction is the pectoralis major: a modified radical mastectomy spares it, while a radical mastectomy removes it (both remove breast tissue and address axillary nodes). Naming the muscle is the discriminator.",
+        "incorrect": [
+          "This reverses the muscle involvement; the modified radical spares the pectoralis major.",
+          "Removing only the tumor and a margin describes a lumpectomy, not a mastectomy.",
+          "Removing some nodes while preserving breast tissue describes a lumpectomy."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is providing preoperative teaching before a mastectomy. Which instruction is most important?",
+      "options": [
+        "Stop aspirin, NSAIDs, vitamin E, ginkgo biloba, garlic, and warfarin for at least one week before surgery",
+        "Continue all blood thinners up to the morning of surgery",
+        "Begin vigorous arm exercises the day before surgery",
+        "Apply deodorant to the surgical site the morning of surgery"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Aspirin, NSAIDs, vitamin E, ginkgo biloba, garlic, and warfarin all increase bleeding risk and are stopped at least one week before surgery — the herbals (ginkgo, garlic) are easily overlooked. This directly reduces postoperative bleeding.",
+        "incorrect": [
+          "Continuing blood thinners raises bleeding risk and is not appropriate before surgery.",
+          "Arm exercises begin postoperatively to restore range of motion, not the day before surgery.",
+          "Deodorant is not applied to the incision, and this is a postoperative rather than preoperative teaching point."
+        ]
+      }
+    },
+    {
+      "stem": "A client returns from a mastectomy with a Jackson-Pratt drain in place. Which postoperative instruction is correct?",
+      "options": [
+        "The drain stays in place until the area heals, and the incision is kept dry with sponge baths recommended",
+        "The drain should be removed as soon as the client is discharged",
+        "The incision should be soaked in a tub bath daily",
+        "Deodorant should be applied to the incision to reduce odor"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "The closed-suction drain (Jackson-Pratt or Hemovac) is left in place until the area heals, and the incision is kept dry with sponge baths, with no deodorant applied until healing. These measures protect the healing site and monitor drainage.",
+        "incorrect": [
+          "The drain is left until healing occurs, not removed at discharge.",
+          "The incision is kept dry; soaking in a tub bath risks infection and impairs healing.",
+          "Deodorant is not applied to the incision until it has healed."
+        ]
+      }
+    },
+    {
+      "stem": "A client is recovering from a mastectomy and asks about activity restrictions. Which teaching is correct?",
+      "options": [
+        "Avoid heavy lifting for 4 to 6 weeks and perform prescribed arm exercises three times a day for 20 minutes",
+        "Resume heavy lifting immediately to prevent stiffness",
+        "Avoid moving the affected arm entirely until fully healed",
+        "Perform arm exercises once a week for 5 minutes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Post-mastectomy teaching includes avoiding heavy lifting for 4 to 6 weeks and performing arm exercises three times daily for 20 minutes to restore shoulder range of motion. The specific numbers are the tested details.",
+        "incorrect": [
+          "Resuming heavy lifting immediately risks injury and impaired healing.",
+          "Avoiding all arm movement causes stiffness; prescribed exercises restore range of motion.",
+          "Once-weekly, 5-minute exercises are insufficient to restore range of motion."
+        ]
+      }
+    },
+    {
+      "stem": "A client had an axillary lymph node dissection on the right side. Which instruction is essential to prevent lymphedema complications?",
+      "options": [
+        "Do not allow blood pressures, injections, or blood draws in the right arm",
+        "Keep the right arm below heart level at all times",
+        "Apply tight, non-elastic bands around the right arm",
+        "Limit all movement of the right arm indefinitely"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "After node dissection the affected arm is protected: no blood pressures, injections, or phlebotomy in that arm (a sign is posted). Elevation is level with the heart, and prescribed exercises are encouraged — the more nodes removed, the greater the lymphedema risk.",
+        "incorrect": [
+          "The arm is elevated level with the heart, not kept below heart level.",
+          "Tight constricting bands worsen lymphedema; graduated compression, not tight bands, is used.",
+          "Prescribed exercises are encouraged; the arm is not immobilized indefinitely."
+        ]
+      }
+    },
+    {
+      "stem": "A client with lymphedema of the arm after breast cancer surgery is learning about management. Which instruction about positioning is correct?",
+      "options": [
+        "Elevate the affected arm level with the heart",
+        "Keep the arm elevated well above the head continuously",
+        "Keep the arm in a dependent position to promote drainage",
+        "Wrap the arm tightly with an inelastic bandage"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "For lymphedema, the affected arm is elevated level with the heart (not above), along with compression, manual techniques, and isometric exercises. The precise elevation level is the tested detail.",
+        "incorrect": [
+          "Continuous elevation above the head is not the recommended position; level with the heart is.",
+          "A dependent position promotes fluid pooling and worsens lymphedema.",
+          "Tight inelastic wrapping is not the recommended approach; graduated compression is used."
+        ]
+      }
+    },
+    {
+      "stem": "A client presents with a red, swollen, warm breast with an orange-peel (peau d'orange) appearance that has not improved on antibiotics. Which condition should the nurse suspect?",
+      "options": [
+        "Inflammatory breast cancer",
+        "Simple mastitis",
+        "A fibroadenoma",
+        "A benign breast cyst"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Inflammatory breast cancer causes redness, swelling, warmth, and peau d'orange and is often misdiagnosed as infection; a red, swollen breast that does not respond to antibiotics must be worked up for cancer. Recognizing the non-resolving cue is the point.",
+        "incorrect": [
+          "Simple mastitis typically improves with antibiotics; failure to respond raises concern for inflammatory cancer.",
+          "A fibroadenoma is a firm, mobile, nontender mass, not a red, swollen breast.",
+          "A benign cyst does not cause diffuse redness, warmth, and peau d'orange."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews factors that determine breast cancer prognosis. Which combination reflects the key prognostic factors taught?",
+      "options": [
+        "Tumor size, spread to lymph nodes, and certain genes such as ERBB2 (HER2)",
+        "The client's height, weight, and blood type",
+        "The color and location of the client's clothing",
+        "The client's dietary preferences alone"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Prognosis depends chiefly on tumor size, lymph node spread, and certain genes (ERBB2/HER2); larger, poorly differentiated tumors with more involved nodes carry a worse prognosis. Identifying the true prognostic drivers is the point.",
+        "incorrect": [
+          "Height, weight, and blood type are not the taught prognostic factors.",
+          "Clothing has no bearing on prognosis.",
+          "Diet alone is not a determinant of breast cancer prognosis."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a BRCA1 mutation and a strong family history asks about options to reduce her risk of breast cancer. Which risk-reducing option does the nurse discuss?",
+      "options": [
+        "Prophylactic mastectomy and/or oophorectomy",
+        "Annual clinical breast exams as the only needed measure",
+        "Avoiding antiperspirants and underwire bras",
+        "Taking a daily multivitamin to prevent cancer"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "For a BRCA mutation carrier at high risk, prophylactic mastectomy and/or oophorectomy are recognized risk-reducing options (tamoxifen may also be used for prevention). Matching the high-risk status to appropriate prophylaxis is the point.",
+        "incorrect": [
+          "Clinical breast exams are not recommended for average-risk screening and are not a risk-reducing strategy on their own.",
+          "Avoiding antiperspirants and underwire bras does not reduce risk; they are not risk factors.",
+          "A multivitamin does not prevent breast cancer."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching about breast cancer disparities. Which statement is accurate?",
+      "options": [
+        "Non-Hispanic Black women have a higher incidence before age 40 and are more likely to die from breast cancer at every age",
+        "Breast cancer risk decreases with age",
+        "Breast cancer affects men and women at equal rates",
+        "Most breast cancers occur in people with a strong family history"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "Non-Hispanic Black women have a higher incidence before age 40 and higher mortality at every age. Risk increases with age, 99% of cases are in females, and about 80% of cancers are sporadic without a family history.",
+        "incorrect": [
+          "Breast cancer risk increases, not decreases, with age.",
+          "Ninety-nine percent of cases are female; men and women are not affected equally.",
+          "About 80% of breast cancers are sporadic, occurring without a strong family history."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client which factors are NOT established causes of breast cancer. Which items have no evidence of causing breast cancer? Select all that apply.",
+      "options": [
+        "Silicone breast implants",
+        "Antiperspirants",
+        "Underwire bras",
+        "Inherited BRCA1 or BRCA2 mutations",
+        "Abortion"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "There is no evidence that silicone implants, antiperspirants, underwire bras, or abortion cause breast cancer. Inherited BRCA1/BRCA2 mutations, in contrast, are established, high-risk factors.",
+        "incorrect": [
+          "Correct—silicone implants are not an evidence-based cause of breast cancer.",
+          "Correct—antiperspirants are not a cause of breast cancer.",
+          "Correct—underwire bras are not a cause of breast cancer.",
+          "Incorrect—inherited BRCA1/BRCA2 mutations are established high-risk factors, not myths.",
+          "Correct—abortion is not an evidence-based cause of breast cancer."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client starting tamoxifen. Which points should be included? Select all that apply.",
+      "options": [
+        "Report calf pain, swelling, or new shortness of breath",
+        "Report any abnormal vaginal bleeding",
+        "Hot flashes are a possible side effect",
+        "The drug increases estrogen activity in breast tissue to treat the cancer",
+        "It is used for prevention in high-risk individuals"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Tamoxifen blocks estrogen and carries an FDA warning for thromboembolic events and uterine/endometrial cancer, so clients report clot symptoms and abnormal bleeding; hot flashes are common, and it is also used for prevention in high-risk people. It blocks, not increases, estrogen activity.",
+        "incorrect": [
+          "Correct—thromboembolism is an FDA-warned risk, so clot symptoms are reported.",
+          "Correct—abnormal vaginal bleeding may signal uterine/endometrial cancer and is reported.",
+          "Correct—hot flashes are a common side effect.",
+          "Incorrect—tamoxifen blocks estrogen; it does not increase estrogen activity.",
+          "Correct—tamoxifen is also used for prevention in high-risk individuals."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a client after an axillary lymph node dissection. Which instructions help prevent lymphedema and its complications? Select all that apply.",
+      "options": [
+        "Avoid blood pressure measurements in the affected arm",
+        "Avoid injections and blood draws in the affected arm",
+        "Elevate the affected arm level with the heart",
+        "Keep the affected arm in a dependent (lowered) position",
+        "Perform prescribed arm exercises to maintain range of motion"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Lymphedema precautions protect the affected arm: no blood pressures, injections, or blood draws; elevation level with the heart; and prescribed exercises. A dependent position promotes fluid pooling and is avoided.",
+        "incorrect": [
+          "Correct—blood pressures on the affected arm are avoided to reduce lymphedema risk.",
+          "Correct—injections and blood draws on the affected arm are avoided.",
+          "Correct—elevation level with the heart helps mobilize fluid.",
+          "Incorrect—a dependent position promotes pooling and worsens lymphedema.",
+          "Correct—prescribed arm exercises maintain range of motion and aid drainage."
+        ]
+      }
+    }
+  ]
+}

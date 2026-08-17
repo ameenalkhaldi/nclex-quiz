@@ -14,7 +14,14 @@ window.NCLEX_DATA = {
     "final-neuro": "Final: Neuro & Neuromuscular",
     "final-endocrine": "Final: Endocrine",
     "final-repro-bone": "Final: Bone & Reproductive Health",
-    "final-mental-health": "Final: Mental Health Meds"
+    "final-mental-health": "Final: Mental Health Meds",
+    "msfinal-palliative": "MS Final: Palliative & Hospice",
+    "msfinal-parkinsons-dementia": "MS Final: Parkinson's & Dementia",
+    "msfinal-male-gu": "MS Final: Male GU",
+    "msfinal-breast": "MS Final: Breast",
+    "msfinal-sti-hiv": "MS Final: STIs & HIV/AIDS",
+    "msfinal-musculoskeletal": "MS Final: Musculoskeletal",
+    "msfinal-dermatology": "MS Final: Dermatology"
   },
   "banks": {
     "upper-gi": [
@@ -10920,6 +10927,3658 @@ window.NCLEX_DATA = {
           "Doubling and skipping doses destabilizes the level and is unsafe.",
           "Stopping after a few good days risks relapse and a withdrawal syndrome."
         ]
+      }
+    ],
+    "msfinal-palliative": [
+      {
+        "stem": "A newly diagnosed client with early-stage lung cancer who is starting curative chemotherapy asks whether a palliative care referral means the team is giving up on treatment. Which response by the nurse is most accurate?",
+        "options": [
+          "\"Palliative care focuses on relieving symptoms and stress and can be provided alongside your cancer treatment at any stage.\"",
+          "\"Palliative care is only for patients who are dying, so we would stop your chemotherapy first.\"",
+          "\"Palliative care and hospice are the same thing, so you would give up curative treatment.\"",
+          "\"We only offer palliative care once you have less than six months to live.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Palliative care is specialized care that relieves symptoms and stress of a serious illness and can begin at diagnosis, alongside curative treatment — it is not limited to the dying. Any answer equating palliative care with giving up is the classic trap and is wrong.",
+          "Equating palliative care with dying is the exact misconception to correct; it is offered at any point in the illness.",
+          "Hospice is a subset of palliative care, not the same thing, and palliative care does not require stopping treatment.",
+          "The six-month framing describes hospice eligibility, not palliative care, which starts at serious diagnosis."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a class on how hospice and palliative care differ. Which statement correctly describes hospice?",
+        "options": [
+          "It is care that focuses on comfort rather than cure, generally for the last six months of life, and is regulated by CMS",
+          "It can be started at the time of a serious diagnosis regardless of prognosis",
+          "It can be delivered in any clinical setting at any stage of any illness",
+          "It always continues disease-modifying, curative treatments"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Hospice is CMS-regulated, delivered by a Medicare hospice-certified agency, generally for the last six months of life, and focuses on caring rather than curing. Distinguishing it from the broader, any-stage palliative model is the point.",
+          "Starting at serious diagnosis regardless of prognosis describes palliative care, not hospice.",
+          "Any-setting, any-stage delivery describes palliative care; hospice is usually delivered wherever the patient calls home under specific eligibility.",
+          "Hospice patients forgo disease-modifying treatment; the focus is comfort, not cure."
+        ]
+      },
+      {
+        "stem": "A client with end-stage heart failure elects the Medicare Hospice Benefit. Which implication should the nurse ensure the client understands?",
+        "options": [
+          "They are choosing comfort-focused care and forgoing disease-modifying treatments under this benefit",
+          "They must continue all curative treatments while receiving hospice services",
+          "Hospice care can only be provided in a hospital setting",
+          "They will lose access to pain and symptom management"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Under the Medicare Hospice Benefit the client elects comfort-focused care and forgoes disease-modifying treatment for the terminal condition. Ensuring the client grasps this trade-off supports an informed, autonomous choice.",
+          "Electing the benefit means forgoing curative treatment, not continuing it.",
+          "Hospice is usually delivered wherever the patient calls home, not only in a hospital.",
+          "Pain and symptom management are central to hospice, not lost."
+        ]
+      },
+      {
+        "stem": "A provider asks the nurse who is responsible for determining whether a client has the ability to consent to a proposed treatment. Which response reflects the correct concept?",
+        "options": [
+          "A physician determines decision-making capacity, which is a clinical judgment with no single gold-standard test",
+          "A court determines capacity, and a guardian is appointed if the client lacks it",
+          "The nurse legally determines the client's competency at the bedside",
+          "Capacity is established automatically once the client signs any form"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Decision-making capacity is the psychological ability to make rational decisions and is determined clinically by a physician; there is no gold-standard test. Competency, by contrast, is a legal/court concept. Separating these is the tested distinction.",
+          "Court determination and guardianship describe competency, a legal concept, not clinical capacity.",
+          "Nurses do not legally determine competency; a physician assesses capacity and courts decide competency.",
+          "Signing a form does not establish capacity; capacity is a clinical judgment."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client's decision-making capacity before a surgical consent. Which finding best demonstrates that the client has capacity?",
+        "options": [
+          "The client can describe the treatment, its alternatives, and the consequences of both accepting and declining it, and can reason through the choice",
+          "The client agrees with whatever the surgeon recommends without questions",
+          "The client has no legal guardian appointed",
+          "The client scores within normal limits on a cognitive screen"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Capacity rests on four abilities: to communicate a choice, understand the treatment and alternatives, appreciate the consequences of accepting and declining, and reason through it. Demonstrating all four — including the consequences of refusal — is the standard.",
+          "Simply agreeing without understanding does not demonstrate the reasoning and appreciation capacity requires.",
+          "Absence of a guardian relates to legal competency, not the clinical capacity standards.",
+          "A normal cognitive screen alone does not establish decision-specific capacity for this treatment."
+        ]
+      },
+      {
+        "stem": "A client wants to appoint their adult child to make health care decisions if they become unable to speak for themselves. Which document does the nurse explain is used for this purpose?",
+        "options": [
+          "A health care proxy (durable power of attorney for health care)",
+          "A living will",
+          "A do-not-resuscitate (DNR) order",
+          "A MOLST form"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A health care proxy (durable power of attorney for health care) appoints an agent to make decisions when the client cannot. A living will states treatment preferences, and DNR/MOLST are medical orders — matching the client's goal to the correct document is the point.",
+          "A living will documents treatment preferences, not the appointment of a decision-maker.",
+          "A DNR is a specific medical order about resuscitation, not an appointment of an agent.",
+          "A MOLST is a set of medical orders signed by a physician, not the document that names a proxy."
+        ]
+      },
+      {
+        "stem": "A client without a DNR order is found unresponsive and pulseless. What is the nurse's correct action?",
+        "options": [
+          "Initiate CPR, because providers must attempt resuscitation unless a valid DNR order exists",
+          "Withhold CPR because the client is terminally ill",
+          "Wait for the family to decide whether to start CPR",
+          "Call the physician for a verbal DNR before doing anything"
+        ],
+        "answer": 0,
+        "explanations": [
+          "By law, providers must initiate CPR for a pulseless, non-breathing person unless a valid DNR order exists. Absent that order, resuscitation is started immediately — the take-action step.",
+          "A terminal diagnosis alone does not authorize withholding CPR without a valid DNR order.",
+          "Waiting for family delays required resuscitation when no DNR is in place.",
+          "Resuscitation must begin now; obtaining an order cannot delay CPR in an arrest."
+        ]
+      },
+      {
+        "stem": "A nurse is coordinating a MOLST form for a client with a serious illness who is transferring from the hospital to a long-term care facility. Which statement about the MOLST is correct?",
+        "options": [
+          "The physician must sign it, the patient keeps the original during transfers, and it is reviewed when the patient moves between settings",
+          "The nurse signs the MOLST, and the facility keeps the only copy",
+          "It is appropriate only for clients expected to live many years",
+          "Once signed, it never needs to be reviewed again"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A MOLST is a physician-signed set of medical orders; the patient keeps the original when moving between settings, the physician keeps a copy, and the orders are reviewed at each transition. It is intended for clients with serious illness who may die within a year or need long-term care.",
+          "A physician, not the nurse, must sign the MOLST, and the patient keeps the original.",
+          "MOLST is intended for those with serious illness who might die within a year, not clients expected to live many years.",
+          "MOLST orders must be reviewed when the client moves between settings."
+        ]
+      },
+      {
+        "stem": "A client is transitioning to comfort-focused end-of-life care. Which change in the plan of care does the nurse anticipate?",
+        "options": [
+          "Discontinuing non-essential treatments and routine vital signs while increasing the focus on family needs",
+          "Increasing the frequency of diagnostic testing and laboratory draws",
+          "Prioritizing aggressive life-prolonging interventions",
+          "Restricting family presence to reduce stimulation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "At end of life the focus shifts to quality of life: non-essential treatments, routine vitals, and diagnostics are de-emphasized, comfort measures are initiated, and family needs become more pronounced. Recognizing this reorientation guides care.",
+          "Diagnostics and labs are de-emphasized at end of life, not increased.",
+          "Life-prolonging interventions are de-emphasized in comfort-focused care.",
+          "Family needs become more pronounced; family presence is supported, not restricted."
+        ]
+      },
+      {
+        "stem": "A family member of a dying client tells the nurse, \"I just don't know how we'll go on without her.\" Which response best reflects therapeutic communication in palliative care?",
+        "options": [
+          "\"This is such a painful time. Tell me more about what you're feeling.\"",
+          "\"I know exactly how you feel; I've been through this too.\"",
+          "\"Try not to worry — everything happens for a reason.\"",
+          "\"You should focus on the arrangements that need to be made.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Naming the emotion and inviting the person to say more reflects the NURSE approach — naming, understanding, respecting, supporting, exploring — and allows silence and active listening. It avoids the classic errors of premature reassurance or advice.",
+          "\"I know how you feel\" is the classic wrong response; it invites the reaction that no one can truly know another's feelings.",
+          "\"Everything happens for a reason\" is premature, dismissive reassurance rather than empathy.",
+          "Redirecting to arrangements shuts down the emotion instead of exploring it."
+        ]
+      },
+      {
+        "stem": "An actively dying client develops noisy, gurgling respirations (\"death rattle\") from pooled secretions. Which intervention does the nurse anticipate?",
+        "options": [
+          "Reposition the client and administer an anticholinergic such as scopolamine, with family education",
+          "Perform deep tracheal suctioning to clear the secretions",
+          "Increase IV fluids to thin the secretions",
+          "Place the client flat and supine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The death rattle is managed by repositioning, an anticholinergic (scopolamine) to dry secretions, and educating family that the sound distresses them more than the patient. Deep suctioning is explicitly avoided because it causes distress without benefit.",
+          "Deep suctioning is the number-one wrong answer here; it is distressing and not recommended for the death rattle.",
+          "Adding IV fluids increases secretions and worsens the rattle.",
+          "Lying flat and supine does not relieve pooled secretions; repositioning is used."
+        ]
+      },
+      {
+        "stem": "A nurse is managing dyspnea in a client near the end of life. Which nonpharmacologic measure is appropriate?",
+        "options": [
+          "Direct a fan or cool air toward the client's face and position them to facilitate chest expansion",
+          "Keep the room warm and humid with the client lying flat",
+          "Restrict all activity and avoid repositioning",
+          "Withhold oxygen because it is a life-prolonging measure"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Nonpharmacologic dyspnea relief includes cool air or a fan to the face, positioning to ease chest expansion, rest periods, and imagery/deep breathing. These comfort measures target the sensation of breathlessness directly.",
+          "A warm, humid room with the client flat does not relieve breathlessness the way cool air and upright positioning do.",
+          "Positioning to aid chest expansion is beneficial; immobilizing the client is not the measure.",
+          "Oxygen is used for comfort in end-of-life dyspnea, not withheld."
+        ]
+      },
+      {
+        "stem": "A client at the end of life is prescribed ondansetron for nausea. Which assessment is most important for the nurse to prioritize with this medication?",
+        "options": [
+          "Monitoring the QT interval on the ECG",
+          "Monitoring for extrapyramidal symptoms such as tardive dyskinesia",
+          "Monitoring blood glucose for hyperglycemia",
+          "Monitoring for a hypertensive crisis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Ondansetron can prolong the QT interval, so ECG/QT monitoring is prioritized. Matching each antiemetic to its signature risk (ondansetron → QT) is the key medication-reasoning point.",
+          "Tardive dyskinesia is the risk with the dopamine-blocking antiemetics prochlorperazine and metoclopramide, not ondansetron.",
+          "Hyperglycemia is the concern with dexamethasone, not ondansetron.",
+          "Hypertensive crisis is not an ondansetron effect."
+        ]
+      },
+      {
+        "stem": "A client receiving dexamethasone for nausea and appetite at the end of life has these antiemetics on the medication list. The nurse recognizes dexamethasone requires monitoring for which effect?",
+        "options": [
+          "Hyperglycemia",
+          "QT prolongation",
+          "Tardive dyskinesia",
+          "Agranulocytosis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Dexamethasone is a corticosteroid that can raise blood glucose, so hyperglycemia monitoring is required. Linking each antiemetic to its signature adverse effect is the reasoning.",
+          "QT prolongation is the ondansetron concern, not dexamethasone's.",
+          "Tardive dyskinesia is associated with prochlorperazine and metoclopramide, not dexamethasone.",
+          "Agranulocytosis is not the characteristic dexamethasone risk here."
+        ]
+      },
+      {
+        "stem": "A client near the end of life is receiving prochlorperazine for nausea and begins to show repetitive lip-smacking and tongue movements. The nurse recognizes this as which adverse effect?",
+        "options": [
+          "Tardive dyskinesia from the dopamine-blocking antiemetic",
+          "QT prolongation",
+          "Hyperglycemia",
+          "A cholinergic crisis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Prochlorperazine (like metoclopramide) blocks dopamine and can cause tardive dyskinesia — involuntary orofacial movements. Recognizing the drug class effect is the analyze-cues step, and these are the same dopamine-blocking drugs that can cause drug-induced parkinsonism.",
+          "QT prolongation is the ondansetron effect, not prochlorperazine's movement disorder.",
+          "Hyperglycemia is the dexamethasone concern, not prochlorperazine's.",
+          "These are extrapyramidal movements from dopamine blockade, not a cholinergic crisis."
+        ]
+      },
+      {
+        "stem": "A nurse is planning pain management for a client with a serious, life-limiting illness who has persistent pain. Which approach is most appropriate?",
+        "options": [
+          "Schedule analgesics around the clock to prevent pain from recurring",
+          "Give analgesics only PRN when the client reports severe pain",
+          "Prefer intramuscular injections over oral or transdermal routes",
+          "Wait until pain reaches a high level before medicating"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Persistent end-of-life pain is best controlled by scheduling analgesics around the clock to prevent recurrence, using routes such as oral, transdermal, or suppository rather than IM. Preventing pain rather than chasing it is the evidence-based principle.",
+          "PRN-only dosing chases pain after it returns rather than preventing it.",
+          "IM injections are the route to avoid at end of life; patches and suppositories are preferred over IM.",
+          "Waiting for severe pain before treating undermines the goal of preventing recurrence."
+        ]
+      },
+      {
+        "stem": "The family of a dying client who is no longer eating asks the nurse to \"start an IV so she doesn't starve.\" Which response reflects appropriate end-of-life care?",
+        "options": [
+          "Explain that decreased intake is expected and that artificial nutrition and IV fluids can cause nausea, vomiting, and aspiration; focus on oral care and comfort",
+          "Immediately start IV fluids to prevent dehydration",
+          "Insert a feeding tube to ensure adequate nutrition",
+          "Encourage the family to force fluids by mouth"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Near death, decreased intake is expected, and artificial nutrition/hydration can cause nausea, vomiting, diarrhea, and aspiration without improving comfort; care shifts to oral care and other comfort measures. Reframing food as care while avoiding IVs supports the client's comfort.",
+          "Starting IV fluids can worsen secretions and cause nausea/aspiration at end of life.",
+          "A feeding tube introduces aspiration and discomfort without benefit at this stage.",
+          "Forcing oral fluids risks aspiration in a dying client with decreased intake."
+        ]
+      },
+      {
+        "stem": "A client in the last hours of life is restless and agitated. Which nursing action should the nurse take first?",
+        "options": [
+          "Assess for reversible causes such as pain or urinary retention",
+          "Immediately administer palliative sedation",
+          "Apply soft wrist restraints to prevent injury",
+          "Reduce all analgesics to lower sedation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Terminal agitation is first addressed by identifying reversible causes — pain, a full bladder, other discomfort — before palliative sedation or antipsychotics. Recognizing and correcting the underlying cue comes before medicating.",
+          "Palliative sedation may follow, but assessing for a treatable cause comes first.",
+          "Restraints increase distress and injury risk and do not address the cause of agitation.",
+          "Reducing analgesics may worsen unrelieved pain, a common cause of agitation."
+        ]
+      },
+      {
+        "stem": "A client is showing signs that death is near, including mottled, cool extremities and irregular breathing. The family is frightened. What is the nurse's priority intervention?",
+        "options": [
+          "Teach the family what to expect as death approaches and reassure them these changes are part of the natural process",
+          "Begin aggressive warming measures for the cool extremities",
+          "Move the client to intensive care for closer monitoring",
+          "Increase IV fluids to improve circulation to the extremities"
+        ],
+        "answer": 0,
+        "explanations": [
+          "As death nears, the nurse's priority is to teach the family what to expect — mottling, cooling, and breathing changes are part of the natural dying process — which reduces fear and supports them. Not all signs occur in every patient, and family education is the key role.",
+          "Warming measures do not reverse the natural circulatory changes of dying and are not the priority.",
+          "Transfer to intensive care contradicts comfort-focused goals at end of life.",
+          "IV fluids do not reverse these expected changes and can worsen secretions."
+        ]
+      },
+      {
+        "stem": "A nurse caring for dying clients recognizes that spiritual care is an important dimension of palliative nursing. Which statement about spirituality at end of life is accurate?",
+        "options": [
+          "Spirituality is positively associated with well-being and hope and negatively associated with depression",
+          "Spirituality is only relevant for clients who identify with an organized religion",
+          "Addressing spirituality is outside the nurse's scope and should be avoided",
+          "Spiritual distress has no measurable effect on end-of-life outcomes"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Spirituality correlates positively with well-being, openness, self-esteem, and hope, and negatively with depression, making it a legitimate and important focus of nursing care at end of life. Attending to it can improve outcomes.",
+          "Spirituality is broader than organized religion and is relevant to many clients.",
+          "Addressing spiritual needs is within nursing's holistic scope, not to be avoided.",
+          "Spiritual well-being is linked to better outcomes; distress is not without effect."
+        ]
+      },
+      {
+        "stem": "A nurse is developing a culturally responsive end-of-life plan of care. Which action best reflects attention to cultural influences at end of life?",
+        "options": [
+          "Ask the client and family about their preferences for communication, decision-making, and death rituals",
+          "Apply the same standardized death rituals to every client",
+          "Assume the family wants full disclosure of the prognosis to the client",
+          "Make decisions for the family to spare them difficult conversations"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Culture shapes communication, medical decision-making, pain expression, food, degree of aggressive care, and death rituals, so the nurse asks about preferences rather than assuming. Individualizing care to the client's cultural context respects autonomy.",
+          "Applying uniform rituals ignores the cultural variation the nurse should assess for.",
+          "Assuming full disclosure imposes one cultural norm; disclosure preferences vary.",
+          "Making decisions for the family removes their autonomy rather than supporting it."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing when advance care planning should occur. Which statement reflects best practice?",
+        "options": [
+          "Advance care planning should be proactive and revisited whenever the client's medical condition changes",
+          "Advance care planning should occur only once the client is actively dying",
+          "Advance care planning is only appropriate for older adults",
+          "Once an advance directive is completed, it should never be changed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Advance care planning is a proactive, appropriately timed process integrated into routine care and revisited each time the client's condition changes — and it applies to adults at any age or stage of health. Timing it early and updating it is the standard.",
+          "Waiting until active dying misses the proactive, ongoing nature of advance care planning.",
+          "It applies to adults at any age or stage, not only older adults.",
+          "Directives should be revisited and can change as conditions and preferences change."
+        ]
+      },
+      {
+        "stem": "A nurse on a palliative care unit receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "A dying client with a respiratory rate of 8, gurgling secretions, and visible distress",
+          "A hospice client whose family is asking about funeral arrangements",
+          "A palliative client scheduled for a routine dressing change",
+          "A client who wants to discuss updating their advance directive"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The dying client with labored breathing, pooled secretions, and distress needs immediate comfort intervention (positioning, anticholinergic, opioid) — an airway/comfort priority that outranks the others. Recognizing acute distress drives the priority.",
+          "Discussing funeral arrangements is important support but not an acute physiologic need.",
+          "A routine dressing change is not time-sensitive compared with acute respiratory distress.",
+          "Updating an advance directive is important but not an emergency."
+        ]
+      },
+      {
+        "stem": "A client with a life-limiting illness says, \"I'm scared of dying in pain.\" Which statement by the nurse best reflects that pain is the symptom dying patients fear most and is multidimensional?",
+        "options": [
+          "\"Pain has physical, emotional, social, and spiritual parts, and our team will work to address all of them.\"",
+          "\"Pain is only physical, so a stronger dose of medication will completely fix it.\"",
+          "\"Most people don't actually experience pain at the end of life.\"",
+          "\"We'll wait to treat any pain until it becomes severe.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Pain is the symptom seriously ill and dying patients fear most and is multidimensional — physical, psychological, social, and spiritual — so it is addressed across all four dimensions. Validating the fear and describing comprehensive management is therapeutic.",
+          "Treating pain as purely physical ignores its psychological, social, and spiritual dimensions.",
+          "Dismissing the likelihood of pain invalidates a common and feared symptom.",
+          "Waiting until pain is severe contradicts scheduling analgesics to prevent recurrence."
+        ]
+      },
+      {
+        "stem": "A dying client is incontinent of urine and the family is distressed about frequent linen changes and skin exposure. Which intervention does the nurse anticipate to promote comfort and dignity?",
+        "options": [
+          "Insert an indwelling (Foley) catheter to manage incontinence and protect the skin",
+          "Restrict all fluids to reduce urine output",
+          "Reposition the client every 15 minutes throughout the night",
+          "Begin intermittent straight catheterization every hour"
+        ],
+        "answer": 0,
+        "explanations": [
+          "For incontinence in the actively dying client, an indwelling Foley catheter manages output, protects the skin, and reduces disruptive linen changes, supporting comfort and dignity. Matching the comfort goal to the intervention is the point.",
+          "Severely restricting fluids does not address comfort and is not the intended measure.",
+          "Repositioning every 15 minutes overnight is disruptive and does not manage the incontinence.",
+          "Hourly straight catheterization is far more disruptive than a single indwelling catheter for comfort care."
+        ]
+      },
+      {
+        "stem": "A nurse is delivering serious news to a client using the SPIKES framework. Which action reflects the first step of SPIKES?",
+        "options": [
+          "Arrange a private, uninterrupted setting before beginning the conversation",
+          "Immediately give the client all of the medical facts",
+          "Summarize a treatment strategy before assessing understanding",
+          "Reassure the client that everything will be fine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "SPIKES begins with Setting — arranging privacy and freedom from interruption — before assessing perception, obtaining invitation, sharing knowledge, addressing emotions, and summarizing. Starting with the setting frames the whole conversation.",
+          "Delivering all facts first skips the setting, perception, and invitation steps.",
+          "Summarizing a strategy is the final step, not the first.",
+          "Empty reassurance is not part of SPIKES and undermines honest communication."
+        ]
+      },
+      {
+        "stem": "A nurse observes a colleague respond to a grieving family member by immediately offering advice and clinical information before understanding their concerns. Using the NURSE framework, which approach should the nurse model instead?",
+        "options": [
+          "Name the emotion, allow silence, and explore the family member's concerns before offering information",
+          "Provide detailed clinical statistics to reassure the family",
+          "Tell the family member not to be upset because it will not help",
+          "Change the subject to logistics to move the conversation along"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The NURSE framework — naming, understanding, respecting, supporting, exploring — emphasizes listening actively, allowing silence, and understanding before giving information or advice. Premature reassurance, advice, or clinical data is the error to avoid.",
+          "Leading with statistics gives clinical information before understanding, the error NURSE warns against.",
+          "Telling someone not to be upset is dismissive rather than empathetic.",
+          "Redirecting to logistics avoids the emotion instead of exploring it."
+        ]
+      },
+      {
+        "stem": "A client transitioning to comfort care is receiving several routine interventions. Which order would the nurse most expect to be discontinued as care shifts to comfort?",
+        "options": [
+          "Every-4-hour vital signs and routine morning laboratory draws",
+          "Scheduled opioid analgesia for pain",
+          "Oral care for comfort",
+          "Repositioning for skin integrity"
+        ],
+        "answer": 0,
+        "explanations": [
+          "As care becomes comfort-focused, non-essential monitoring such as routine vitals and labs is discontinued, while comfort measures — analgesia, oral care, repositioning — continue. Recognizing what to de-emphasize is the reorientation of care.",
+          "Scheduled analgesia is a comfort measure that is continued, not discontinued.",
+          "Oral care is a core comfort measure that continues.",
+          "Repositioning for comfort and skin integrity continues in comfort care."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client in the last hours of life who has noisy respirations. Which interventions are appropriate? Select all that apply.",
+        "options": [
+          "Reposition the client",
+          "Administer an anticholinergic such as scopolamine",
+          "Educate the family that the sound is expected",
+          "Perform deep tracheal suctioning",
+          "Start IV fluids to thin secretions"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—repositioning can reduce pooling of secretions.",
+          "Correct—an anticholinergic such as scopolamine dries secretions.",
+          "Correct—educating the family that the sound is expected reduces their distress.",
+          "Incorrect—deep suctioning is distressing and not recommended for the death rattle.",
+          "Incorrect—IV fluids increase secretions and worsen the noisy breathing."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse matches end-of-life antiemetics to their key nursing considerations. Which pairings are correct? Select all that apply.",
+        "options": [
+          "Ondansetron — monitor for QT prolongation",
+          "Dexamethasone — monitor for hyperglycemia",
+          "Prochlorperazine — monitor for tardive dyskinesia",
+          "Metoclopramide — monitor for QT prolongation only, with no movement effects",
+          "Metoclopramide — monitor for tardive dyskinesia"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—ondansetron can prolong the QT interval.",
+          "Correct—dexamethasone is a steroid that can cause hyperglycemia.",
+          "Correct—prochlorperazine blocks dopamine and can cause tardive dyskinesia.",
+          "Incorrect—metoclopramide does cause movement effects; tardive dyskinesia is its key risk.",
+          "Correct—metoclopramide is a dopamine blocker that can cause tardive dyskinesia."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is teaching new staff about the differences between palliative care and hospice. Which statements about palliative care are accurate? Select all that apply.",
+        "options": [
+          "It can be offered at any time in the disease trajectory",
+          "It should be part of care at the time of a serious diagnosis",
+          "It can occur in any clinical setting",
+          "It requires the client to give up disease-modifying treatment",
+          "Hospice is a subset of palliative care"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—palliative care can be offered at any point in the illness.",
+          "Correct—it should begin at the time of a serious diagnosis.",
+          "Correct—it can be provided in any clinical setting.",
+          "Incorrect—forgoing disease-modifying treatment describes hospice, not palliative care generally.",
+          "Correct—hospice is a subset of palliative care focused on comfort at end of life."
+        ],
+        "type": "sata"
+      }
+    ],
+    "msfinal-parkinsons-dementia": [
+      {
+        "stem": "An older client who was started on an antipsychotic three weeks ago develops symmetric rigidity, slowed movement, and early gait instability. The symptoms respond poorly to a trial of levodopa. Which conclusion is most accurate?",
+        "options": [
+          "This is drug-induced parkinsonism from the dopamine-blocking medication, not idiopathic Parkinson's disease",
+          "This is classic idiopathic Parkinson's disease",
+          "This is an intention tremor unrelated to dopamine",
+          "This is expected aging that requires no follow-up"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Parkinsonism from dopamine-blocking drugs is more symmetric, brings early gait instability, and responds poorly to levodopa — the single best discriminator from idiopathic PD, which is asymmetric and levodopa-responsive. The recent antipsychotic is the cue.",
+          "Idiopathic PD is typically asymmetric and responds to levodopa, unlike this presentation.",
+          "An intention tremor worsens with movement and is not the rigidity/bradykinesia picture described.",
+          "New parkinsonian signs after starting a dopamine blocker are a medication effect to act on, not benign aging."
+        ]
+      },
+      {
+        "stem": "A nurse is assessing a client for the cardinal features of Parkinson's disease. Which finding is most consistent with the disease?",
+        "options": [
+          "A resting pill-rolling tremor that disappears with intentional movement",
+          "A tremor that worsens when reaching for an object",
+          "Symmetric weakness that improves with rest",
+          "Hyperreflexia with clonus"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A resting, pill-rolling tremor that disappears with purposeful movement is a cardinal PD feature, along with cogwheel rigidity and bradykinesia. A tremor that worsens with movement is an intention tremor and is not Parkinson's.",
+          "A tremor that worsens with reaching is an intention tremor, not the resting tremor of PD.",
+          "Symmetric fatigable weakness suggests a neuromuscular disorder, not PD.",
+          "Hyperreflexia with clonus points to an upper motor neuron or serotonergic process, not PD."
+        ]
+      },
+      {
+        "stem": "A nurse reviews the pathophysiology of Parkinson's disease. Which statement is correct?",
+        "options": [
+          "Loss of dopamine-producing neurons in the substantia nigra creates a relative excess of acetylcholine, producing tremor and rigidity",
+          "Autoimmune destruction of acetylcholine receptors at the neuromuscular junction causes fatigable weakness",
+          "Demyelination of central nervous system neurons causes optic and sensory changes",
+          "An excess of dopamine overstimulates the basal ganglia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "PD is degeneration of dopaminergic neurons in the substantia nigra, depleting dopamine and leaving a relative excess of acetylcholine in the corpus striatum, which drives tremor and rigidity. Lewy bodies (alpha-synuclein) accumulate in surviving neurons.",
+          "AChR destruction at the neuromuscular junction describes myasthenia gravis, not PD.",
+          "CNS demyelination describes multiple sclerosis, not PD.",
+          "PD involves too little dopamine, not an excess."
+        ]
+      },
+      {
+        "stem": "A 72-year-old with Parkinson's disease has a stooped posture, shuffling gait, and decreased arm swing. His sitting blood pressure is 118/70 and drops to 98/60 on standing. Which nursing priority does the nurse identify?",
+        "options": [
+          "Safety and fall prevention",
+          "Promotion of a high-protein diet",
+          "Restriction of all physical activity",
+          "Encouraging rapid position changes to build tolerance"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Postural instability, shuffling gait, and orthostatic hypotension make falls the leading risk, so safety and fall prevention is the number-one nursing priority in PD. Recognizing the stacked cues drives the priority.",
+          "High-protein meals interfere with levodopa absorption; protein is timed around doses, not promoted freely.",
+          "Activity and PT are encouraged to maintain mobility, not restricted entirely.",
+          "Rapid position changes worsen orthostatic hypotension and increase fall risk."
+        ]
+      },
+      {
+        "stem": "A client with Parkinson's disease has drooling, soft slurred speech, and difficulty swallowing pills. Which risk does the nurse prioritize, and which intervention is appropriate?",
+        "options": [
+          "Aspiration risk — provide soft, moist foods in small, frequent meals and allow extra time to eat",
+          "Bleeding risk — hold all oral medications",
+          "Infection risk — place the client in isolation",
+          "Seizure risk — pad the side rails"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bulbar involvement (drooling, dysphagia, hypophonia) makes aspiration the priority risk; soft moist foods, small frequent meals, extra time, and speech therapy reduce it. Matching the swallowing cues to aspiration precautions is the point.",
+          "There is no bleeding risk here, and holding all oral meds could cause dangerous wearing-off in PD.",
+          "Isolation addresses infectious spread, not the swallowing/aspiration problem.",
+          "Seizure precautions do not address dysphagia and aspiration."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with Parkinson's disease about the carbidopa-levodopa regimen scheduled at fixed times throughout the day. Which instruction is most important?",
+        "options": [
+          "Take each dose on time, every time, because late doses cause return of tremor, rigidity, and freezing",
+          "Take doses only when symptoms are bothering you",
+          "Take the medication with a high-protein meal for better absorption",
+          "Stop the medication abruptly if side effects occur"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Levodopa must be taken on time, every time; late doses cause wearing-off with return of tremor, rigidity, freezing, and falls. Consistent timing — not symptom-driven or PRN dosing — maintains motor control.",
+          "PRN dosing leads to wearing-off; the schedule is fixed to prevent symptom return.",
+          "High-protein meals interfere with levodopa absorption and should be separated from doses.",
+          "Abruptly stopping dopaminergic therapy can be dangerous and is avoided."
+        ]
+      },
+      {
+        "stem": "A client with Parkinson's disease takes carbidopa-levodopa. To optimize absorption, which dietary teaching does the nurse provide?",
+        "options": [
+          "Separate the medication from high-protein meals",
+          "Take the medication with a large protein-rich snack",
+          "Increase dietary protein at every meal",
+          "Avoid all carbohydrates while taking the drug"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Dietary protein competes with levodopa for absorption, so the medication is separated from high-protein meals (often with a dietitian's help). Timing protein around doses preserves the drug's effect.",
+          "Taking it with a protein-rich snack reduces absorption.",
+          "Increasing protein at every meal worsens the competition for absorption.",
+          "The issue is protein timing, not carbohydrate avoidance."
+        ]
+      },
+      {
+        "stem": "A client with Parkinson's disease is taking ropinirole, a dopamine agonist. The nurse teaches the client and family to report which adverse effect?",
+        "options": [
+          "New hallucinations or confusion",
+          "Improved handwriting size",
+          "Decreased drooling",
+          "A slower resting heart rate"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Dopamine agonists such as ropinirole can cause hallucinations and confusion, which should be reported rather than self-managed. Recognizing this class effect is the medication-reasoning point.",
+          "Improved handwriting would be a therapeutic response, not an adverse effect to report.",
+          "Decreased drooling is a benefit, not an adverse effect.",
+          "A slower heart rate is not the hallmark ropinirole concern; hallucinations are."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with Parkinson's disease who has a complex, multi-dose medication schedule and mild dysphagia. Which strategy best supports safe self-management?",
+        "options": [
+          "Use a written schedule, a pill organizer, and alarms set to exact clock times, and involve the pharmacist about formulation",
+          "Advise taking all doses whenever the client remembers them",
+          "Recommend crushing all extended-release tablets into food",
+          "Encourage the client to adjust doses based on how they feel each day"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A written schedule, pill organizer, and time-specific alarms support on-time dosing, and the pharmacist can advise on formulations given dysphagia — the client should never take doses \"when they remember.\" These strategies protect the tight dosing window.",
+          "Taking doses whenever remembered causes wearing-off; timing must be exact.",
+          "Crushing extended-release tablets can dump the dose and is not done without pharmacist guidance.",
+          "Self-adjusting doses by feel risks wearing-off and dyskinesias; changes should be provider-directed."
+        ]
+      },
+      {
+        "stem": "A nurse identifies the eighth nursing priority for Parkinson's disease as \"long-term and palliative considerations.\" Which statement best reflects this priority?",
+        "options": [
+          "Because PD is progressive and non-curative, palliative care can be introduced at any point in the trajectory to support quality of life",
+          "Palliative care should be withheld until the client is in the final days of life",
+          "Palliative care means stopping all Parkinson's medications immediately",
+          "Palliative care is not appropriate for a chronic neurologic disease"
+        ],
+        "answer": 0,
+        "explanations": [
+          "PD is a progressive, life-limiting illness, so palliative care — which can begin at any point — supports quality of life throughout the trajectory, bridging chronic and end-of-life care. Recognizing this reframes long-term management.",
+          "Palliative care is offered at any point, not withheld until the final days.",
+          "Palliative care does not require stopping PD medications; it adds symptom and quality-of-life support.",
+          "Palliative care is appropriate for progressive chronic diseases like PD."
+        ]
+      },
+      {
+        "stem": "A daughter reports her 78-year-old mother has had 8 to 10 months of worsening forgetfulness, repeated questions, and trouble managing bills; the mother says, \"Everyone forgets things.\" Vital signs are stable and a urinalysis is negative. Which problem does this insidious course most suggest?",
+        "options": [
+          "Dementia (a neurocognitive disorder), given the gradual, progressive decline",
+          "Delirium, given the acute change",
+          "Normal age-related memory change requiring no evaluation",
+          "An acute urinary tract infection"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A gradual, progressive 8-to-10-month decline with lack of insight, stable vitals, and negative infection workup fits dementia rather than delirium (which is acute) or normal aging. The insidious course is the key cue.",
+          "Delirium is acute in onset; this decline unfolded over many months.",
+          "Progressive functional decline is not normal aging and warrants evaluation, never false reassurance.",
+          "A negative urinalysis and stable vitals argue against an acute UTI/delirium."
+        ]
+      },
+      {
+        "stem": "A nurse reviews the medication list of a 78-year-old with cognitive decline and finds diphenhydramine taken nightly for sleep. Why does the nurse flag this medication?",
+        "options": [
+          "Its anticholinergic effects can worsen cognition and increase fall risk in older adults",
+          "It is a dopamine agonist that causes hallucinations",
+          "It is a cholinesterase inhibitor that can cause bradycardia",
+          "It has no relevance to cognition and can be continued"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Diphenhydramine is a potent anticholinergic; in older adults with cognitive impairment it can worsen cognition and raise fall risk, making it a modifiable, nurse-identifiable contributor to review. Recognizing the anticholinergic cue is the point.",
+          "Diphenhydramine is an anticholinergic antihistamine, not a dopamine agonist.",
+          "It is not a cholinesterase inhibitor; its concern is anticholinergic burden.",
+          "It is highly relevant to cognition and should be reviewed, not simply continued."
+        ]
+      },
+      {
+        "stem": "A nurse is assessing an older client with new confusion. Which set of features would meet the Confusion Assessment Method (CAM) criteria for delirium?",
+        "options": [
+          "Acute onset with a fluctuating course and inattention, plus disorganized thinking",
+          "Disorganized thinking and altered level of consciousness without any acute onset",
+          "Chronic, slowly progressive memory loss over a year",
+          "Inattention alone with a stable baseline"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CAM requires feature 1 (acute onset and fluctuating course) AND feature 2 (inattention), PLUS either feature 3 (disorganized thinking) OR feature 4 (altered LOC). Acute onset with fluctuation, inattention, and disorganized thinking meets the rule.",
+          "Without acute onset (feature 1), CAM is not met even with features 3 and 4 present.",
+          "Slowly progressive memory loss over a year describes dementia, not delirium.",
+          "Inattention alone does not satisfy CAM, which requires acute onset plus inattention plus feature 3 or 4."
+        ]
+      },
+      {
+        "stem": "A nurse differentiates delirium from dementia for a group of students. Which statement is correct?",
+        "options": [
+          "Delirium is acute in onset and often caused by illness or infection, whereas dementia is insidious and progressive",
+          "Delirium is chronic and progressive, whereas dementia is acute and reversible",
+          "Both have identical onset and are managed the same way",
+          "Delirium is never a medical emergency"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Delirium is acute, fluctuating, a medical emergency, and often triggered by serious illness or infection; dementia is insidious, progressive, and chronic. Distinguishing onset and cause guides urgency and workup.",
+          "The descriptors are reversed: delirium is acute; dementia is chronic and progressive.",
+          "Their onset differs — delirium acute, dementia insidious — and management differs.",
+          "Delirium is a medical emergency requiring prompt evaluation."
+        ]
+      },
+      {
+        "stem": "A nurse administers the SLUMS examination to a 78-year-old with a high school education who scores 16 out of 30. How does the nurse interpret this result?",
+        "options": [
+          "It falls in the dementia range, indicating significant cognitive impairment",
+          "It is a normal result for her age",
+          "It indicates only mild neurocognitive disorder",
+          "It cannot be interpreted without also giving a depression scale"
+        ],
+        "answer": 0,
+        "explanations": [
+          "On the SLUMS, a high-school-educated adult scores 27-30 normal, 21-26 mild neurocognitive disorder, and 1-20 dementia; 16 falls in the dementia range under either education column. The education level adjusts the cutoffs, and 16 is clearly abnormal.",
+          "A score of 16 is well below the normal range (27-30 for high-school-educated adults).",
+          "Mild neurocognitive disorder is 21-26; 16 is below that, in the dementia range.",
+          "A depression scale complements the workup but is not required to interpret a SLUMS of 16."
+        ]
+      },
+      {
+        "stem": "A nurse is choosing a screening tool to detect mild cognitive impairment and dementia in an older adult. Which tool is appropriate, and what should the nurse remember about scoring it?",
+        "options": [
+          "The SLUMS — it is more sensitive than the MMSE and its cutoffs are adjusted for the client's education level",
+          "The CAM — it grades cognition on a 30-point scale",
+          "The GDS — it detects dementia based on memory recall",
+          "The PHQ-9 — it stages the severity of dementia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The SLUMS screens for mild cognitive impairment and dementia, is more sensitive than the MMSE, and uses education-adjusted cutoffs, so education level must be recorded. Matching the tool and its scoring caveat is the point.",
+          "The CAM screens for delirium using four features, not a 30-point cognitive score.",
+          "The GDS screens for depression, not dementia.",
+          "The PHQ-9 screens for depression, not dementia severity."
+        ]
+      },
+      {
+        "stem": "A nurse administers the Geriatric Depression Scale (GDS) short form to an older client, who scores 8 out of 15. How does the nurse interpret and act on this result?",
+        "options": [
+          "A score above 5 is suggestive of depression and warrants a follow-up comprehensive assessment",
+          "A score of 8 is normal and requires no further action",
+          "A score of 8 is diagnostic of major depression and requires immediate medication",
+          "The GDS score is used to diagnose dementia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "On the GDS, a score above 5 is suggestive of depression and should prompt a follow-up comprehensive assessment; a score of 10 or more is almost always indicative. A screen suggests, it does not diagnose or by itself mandate medication.",
+          "A score of 8 exceeds the >5 threshold and is not normal; it warrants follow-up.",
+          "A screening score is not a diagnosis and does not by itself mandate immediate medication.",
+          "The GDS screens for depression, not dementia."
+        ]
+      },
+      {
+        "stem": "A nurse is asked what the PHQ-9 screens for. Which response is correct?",
+        "options": [
+          "It screens for depression",
+          "It screens for delirium",
+          "It screens for cognitive impairment and dementia",
+          "It measures fall risk"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The PHQ-9 is a validated depression screening tool. Knowing each named tool's purpose — PHQ-9 and GDS for depression, SLUMS for cognition, CAM for delirium — is the tested distinction.",
+          "Delirium is screened with the CAM, not the PHQ-9.",
+          "Cognitive impairment and dementia are screened with the SLUMS, not the PHQ-9.",
+          "The PHQ-9 does not measure fall risk."
+        ]
+      },
+      {
+        "stem": "A client with cognitive decline has a SLUMS of 16 (dementia range) and a GDS of 2. How does the nurse interpret these results together?",
+        "options": [
+          "The cognitive impairment is unlikely to be explained by depression, since the low GDS argues against depression",
+          "The client most likely has depression causing the low SLUMS",
+          "Both scores are normal and no further workup is needed",
+          "The GDS confirms delirium as the cause"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A SLUMS in the dementia range with a GDS below the >5 threshold indicates cognitive impairment that is not depression-driven (ruling out pseudodementia). Reading the two screens together refines the analysis.",
+          "A GDS of 2 is below the depression threshold, so depression is unlikely to explain the low SLUMS.",
+          "A SLUMS of 16 is abnormal (dementia range); it is not normal.",
+          "The GDS screens for depression, not delirium."
+        ]
+      },
+      {
+        "stem": "A client with newly identified cognitive decline has lab results of TSH 5.8 (elevated), free T4 low-normal, and vitamin B12 of 256 (borderline low). Why does the nurse recognize these results as important?",
+        "options": [
+          "Hypothyroidism and low B12 are potentially reversible contributors to cognitive impairment that should be treated before diagnosing dementia",
+          "They confirm irreversible Alzheimer's dementia",
+          "They confirm an acute infection causing delirium",
+          "They are unrelated to cognition and can be ignored"
+        ],
+        "answer": 0,
+        "explanations": [
+          "An elevated TSH with low-normal T4 (hypothyroidism) and borderline-low B12 are potentially reversible causes of cognitive impairment, so the workup addresses them before diagnosing dementia. Seeking treatable contributors is the reasoning.",
+          "These labs point to reversible contributors, not confirmation of irreversible dementia.",
+          "Thyroid and B12 results do not indicate an acute infection; a negative UA and normal CBC argue against delirium.",
+          "They are directly relevant to cognition and must be addressed."
+        ]
+      },
+      {
+        "stem": "A nurse is prioritizing interventions for an older client with dementia who left the stove on and got lost in the neighborhood twice, takes nightly diphenhydramine, and has withdrawn from social activities. Which intervention is the highest priority?",
+        "options": [
+          "Address immediate home safety, including supervision with cooking",
+          "Refer the caregiver to support resources",
+          "Encourage re-engagement in social activities",
+          "Schedule a follow-up cognitive screen in six months"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Immediate physical safety outranks all else: leaving the stove on and getting lost are acute hazards, so home safety and cooking supervision come first, followed by removing modifiable causes (diphenhydramine), caregiver support, and quality-of-life measures.",
+          "Caregiver support is important but does not address the immediate physical danger first.",
+          "Social re-engagement improves quality of life but is the lowest urgency here.",
+          "A future screen does not address the present safety hazards."
+        ]
+      },
+      {
+        "stem": "A nurse recognizes that behavioral and psychological symptoms of dementia (BPSD) are often a signal of an unmet need. A client with dementia becomes agitated in the late afternoon. Which action should the nurse take first?",
+        "options": [
+          "Investigate for triggers such as pain, a full bladder, hunger, or overstimulation",
+          "Request an order for haloperidol to control the agitation",
+          "Apply restraints to keep the client safe",
+          "Move the client to a brightly lit, busy common area"
+        ],
+        "answer": 0,
+        "explanations": [
+          "BPSD often communicates an unmet need, so the nurse first investigates reversible triggers — pain, a full bladder, hunger, over- or understimulation, or medication effects — before considering medication. Behavior is communication; the first step is to look for the cause.",
+          "Reaching for an antipsychotic before investigating the unmet need is the wrong first step.",
+          "Restraints increase distress and injury risk and do not address the underlying need.",
+          "A bright, busy area may worsen agitation from overstimulation."
+        ]
+      },
+      {
+        "stem": "A nurse uses the DICE approach to manage behavioral symptoms of dementia. Which principle governs this approach?",
+        "options": [
+          "Non-pharmacologic interventions are first-line; describe, investigate, create a plan, and evaluate before considering medication",
+          "Medicate first with an antipsychotic, then investigate the cause",
+          "Restrain the client during any episode of agitation",
+          "Avoid involving caregivers in identifying triggers"
+        ],
+        "answer": 0,
+        "explanations": [
+          "DICE — Describe, Investigate, Create, Evaluate — makes non-pharmacologic interventions first-line, reserving medication until unmet needs and triggers are ruled out. Any answer reaching for an antipsychotic before DICE is completed is wrong.",
+          "Medicating first inverts DICE, which investigates and tries non-pharmacologic measures before drugs.",
+          "Restraint is not part of DICE and increases harm.",
+          "DICE explicitly involves caregivers and the environment in investigating triggers."
+        ]
+      },
+      {
+        "stem": "An 82-year-old with moderate Alzheimer's disease was started on quetiapine one week ago for agitation and is now brought to the ED after a fall, appearing somnolent and hypotensive with a weak cough. He also takes lisinopril and tamsulosin. Which understanding guides the nurse's analysis of this cascade?",
+        "options": [
+          "Treating agitation with an antipsychotic instead of investigating the unmet need led to sedation, hypotension, a fall, and aspiration risk",
+          "The fall is unrelated to any of the client's medications",
+          "The quetiapine was the correct first-line treatment for his agitation",
+          "Aspiration is not a concern because he is only somnolent"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Quetiapine started for agitation (instead of non-pharmacologic DICE) caused sedation; combined with lisinopril and tamsulosin it produced hypotension and a fall, and somnolence with a weak cough now raises aspiration and possible superimposed delirium. Recognizing the cascade is the analyze-cues step.",
+          "The antipsychotic plus antihypertensives directly contributed to the sedation and fall.",
+          "Non-pharmacologic measures are first-line; the antipsychotic was not the appropriate first step.",
+          "Somnolence with a weak cough impairs airway protection and raises aspiration risk."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching about treatment for Alzheimer's dementia. Which statement is accurate?",
+        "options": [
+          "There is no cure; medications such as cholinesterase inhibitors, memantine, and anti-amyloid drugs aim to slow the disease",
+          "These medications cure the disease if started early",
+          "Antipsychotics are the first-line treatment for all dementia symptoms",
+          "Treatment reverses the cognitive decline"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Alzheimer's has no current cure; the three drug classes — cholinesterase inhibitors, memantine, and anti-amyloid agents — slow the disease and provide supportive, symptomatic care alongside early identification. \"Slow,\" not \"cure,\" is the key word.",
+          "These drugs slow, not cure, the disease.",
+          "Antipsychotics are not first-line; non-pharmacologic measures are first-line for behavioral symptoms.",
+          "Treatment does not reverse the decline; it slows progression."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a community group about reducing the risk of Alzheimer's disease and related dementias. Which recommendation reflects a modifiable risk factor?",
+        "options": [
+          "Manage blood pressure and diabetes, stay physically active, avoid smoking, and address hearing loss",
+          "Because all dementia risk is genetic, lifestyle changes make no difference",
+          "Increase alcohol intake to relax the brain",
+          "Avoid any physical activity to conserve energy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Modifiable risks for dementia include physical inactivity, obesity, smoking, hypertension, excessive alcohol, diabetes, depression, and hearing loss, so managing these lowers risk. Framing prevention around modifiable factors is the teaching point.",
+          "Much dementia risk is modifiable, so lifestyle changes do matter.",
+          "Excessive alcohol is a risk factor, not a protective one.",
+          "Physical activity is protective; inactivity raises risk."
+        ]
+      },
+      {
+        "stem": "A caregiver for a spouse with dementia reports exhaustion, guilt, and having stopped seeing friends. Which nursing intervention best addresses caregiver stress?",
+        "options": [
+          "Assess the caregiver's well-being and connect them to respite and support services",
+          "Advise the caregiver to provide all care alone to maintain routine",
+          "Tell the caregiver that stress is unavoidable and cannot be helped",
+          "Recommend the caregiver ignore their own health needs for now"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Caregiver stress spans emotional strain, physical exhaustion, social isolation, and role overload; the nurse assesses well-being and connects the caregiver to respite and support (such as the GUIDE model's respite hours). Supporting the caregiver protects both members of the dyad.",
+          "Providing all care alone deepens role overload and isolation.",
+          "Dismissing stress as unavoidable ignores available respite and support.",
+          "Encouraging self-neglect worsens caregiver burnout."
+        ]
+      },
+      {
+        "stem": "A nurse describes the CMS GUIDE model to the family of a client with dementia. Which benefit is part of this model?",
+        "options": [
+          "Caregiver skills training, a 24/7 support line, and in-home respite care",
+          "Guaranteed reversal of the client's dementia",
+          "A requirement that the client be placed in a nursing home",
+          "Immediate initiation of antipsychotic medication for all clients"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The GUIDE model provides a comprehensive package — care coordination, caregiver training, a 24/7 support line, and in-home respite — to improve quality of life and reduce caregiver strain. It is supportive, not curative, and does not mandate placement or medication.",
+          "No model reverses dementia; GUIDE improves quality of life and supports caregivers.",
+          "GUIDE supports care at home and does not require nursing-home placement.",
+          "GUIDE does not mandate antipsychotics, which are not first-line."
+        ]
+      },
+      {
+        "stem": "A nurse receives report on four older adults. Which client requires the most urgent assessment?",
+        "options": [
+          "A client with a sudden change in mental status, fluctuating attention, and a new fever",
+          "A client with a stable 10-month history of progressive memory loss",
+          "A client with dementia asking repetitive questions",
+          "A client with well-controlled Parkinson's requesting help to the bathroom"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Acute mental status change with fluctuating attention and fever suggests delirium — a medical emergency often caused by infection — that outranks the chronic and stable presentations. Recognizing the acute cue drives the priority.",
+          "A stable, progressive memory decline is chronic dementia, not an emergency.",
+          "Repetitive questioning is an expected dementia behavior, not urgent.",
+          "Assisting a stable Parkinson's client to the bathroom is routine, not emergent."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client taking a multi-drug Parkinson's regimen (carbidopa-levodopa, entacapone, ropinirole, amantadine). Which teaching points are appropriate? Select all that apply.",
+        "options": [
+          "Take each dose on time, every time, using alarms set to exact clock times",
+          "Separate levodopa doses from high-protein meals",
+          "Report new hallucinations or confusion rather than self-adjusting doses",
+          "Stop the medications abruptly if you feel better",
+          "Change positions slowly because of orthostatic hypotension"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—on-time dosing prevents wearing-off with return of tremor and rigidity.",
+          "Correct—protein competes with levodopa absorption, so doses are separated from high-protein meals.",
+          "Correct—hallucinations and confusion (a dopamine-agonist effect) should be reported.",
+          "Incorrect—abruptly stopping dopaminergic therapy is dangerous and must be avoided.",
+          "Correct—dopaminergic drugs cause orthostatic hypotension, so slow position changes reduce falls."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse assesses a client using the Confusion Assessment Method (CAM). Which features are part of the CAM? Select all that apply.",
+        "options": [
+          "Acute onset and fluctuating course",
+          "Inattention",
+          "Disorganized thinking",
+          "Altered level of consciousness",
+          "A 30-point graded memory score"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—acute onset with a fluctuating course is CAM feature 1.",
+          "Correct—inattention is CAM feature 2.",
+          "Correct—disorganized thinking is CAM feature 3.",
+          "Correct—altered level of consciousness is CAM feature 4.",
+          "Incorrect—a 30-point graded memory score describes the SLUMS, not the CAM."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is reviewing potential triggers of behavioral and psychological symptoms of dementia (BPSD). Which are recognized unmet-need triggers? Select all that apply.",
+        "options": [
+          "Unrelieved pain",
+          "Infection or dehydration",
+          "Anticholinergic medication effects",
+          "Environmental overstimulation or understimulation",
+          "Non-pharmacologic redirection by the caregiver"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—unrelieved pain is a common unmet-need trigger.",
+          "Correct—infection or dehydration can precipitate behavioral symptoms.",
+          "Correct—anticholinergic medication effects are a named trigger.",
+          "Correct—over- or understimulation in the environment can trigger BPSD.",
+          "Incorrect—non-pharmacologic redirection is a first-line intervention, not a trigger."
+        ],
+        "type": "sata"
+      }
+    ],
+    "msfinal-male-gu": [
+      {
+        "stem": "A man with a history of benign prostatic hyperplasia presents with intense suprapubic pain, inability to void for several hours, and a palpable, distended bladder. Which action should the nurse take first?",
+        "options": [
+          "Perform a bladder scan and catheterize the client (using a Coude-tip catheter if needed)",
+          "Encourage the client to increase oral fluids to stimulate voiding",
+          "Apply a cold compress to the suprapubic area to reduce inflammation",
+          "Administer the prescribed PRN dose of finasteride"
+        ],
+        "answer": 0,
+        "explanations": [
+          "This is acute urinary retention, a complication of BPH. The priority is to relieve the obstruction: scan the bladder and catheterize (a Coude tip navigates the enlarged prostate). Draining the bladder is the take-action step.",
+          "Increasing fluids worsens distention when the client already cannot void.",
+          "A cold compress does nothing to relieve an obstructed bladder.",
+          "Finasteride shrinks the prostate over months and is not a rescue for acute retention."
+        ]
+      },
+      {
+        "stem": "A nurse performs a bladder scan on a client with BPH who is straining to void and finds a post-void residual of 350 mL. What does the nurse anticipate?",
+        "options": [
+          "Catheterizing the client, because the residual exceeds about 300 mL",
+          "Rechecking the scan in 8 hours before acting",
+          "Encouraging the client to drink more water",
+          "Administering an alpha-blocker to empty the bladder immediately"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A residual above roughly 300 mL indicates significant retention, so the client is catheterized to drain the bladder and protect the kidneys. Acting on the measured residual is the point.",
+          "Waiting 8 hours risks bladder overdistention and hydronephrosis.",
+          "More fluid increases distention in an already retaining bladder.",
+          "Alpha-blockers help chronic outflow symptoms but do not immediately empty an acutely retained bladder."
+        ]
+      },
+      {
+        "stem": "A 62-year-old man tells the nurse that the first change he noticed was having to get up several times each night to urinate. Which condition does this classic early symptom most suggest?",
+        "options": [
+          "Benign prostatic hyperplasia",
+          "Acute pyelonephritis",
+          "Bladder cancer",
+          "A sexually transmitted infection"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Nocturia is often the first symptom of BPH, reflecting outflow obstruction and bladder irritability from prostatic enlargement. Recognizing this hallmark cue points to the diagnosis.",
+          "Pyelonephritis presents with fever, flank pain, and dysuria, not isolated nocturia.",
+          "Bladder cancer classically presents with painless hematuria, not nocturia as the first symptom.",
+          "An STI presents with discharge or dysuria, not this obstructive pattern."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client newly prescribed tamsulosin for BPH. Which instruction is most important for safety?",
+        "options": [
+          "Change positions slowly because this alpha-blocker can cause orthostatic hypotension and dizziness",
+          "Expect your prostate to shrink and urine flow to improve within 24 hours",
+          "Take the medication only when your symptoms flare",
+          "Stop the medication as soon as your stream improves"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Tamsulosin is an alpha-adrenergic blocker that relaxes bladder-neck and prostatic smooth muscle; it can cause orthostatic hypotension, so the client changes positions slowly to prevent falls. This is the priority safety teaching.",
+          "Alpha-blockers relax smooth muscle for symptom relief; they do not shrink the prostate.",
+          "It is taken regularly for ongoing symptom control, not only during flares.",
+          "Stopping the drug reverses the symptom benefit; it is continued."
+        ]
+      },
+      {
+        "stem": "A nurse reviews BPH medications. Which statement about finasteride is accurate?",
+        "options": [
+          "It is a 5-alpha-reductase inhibitor that shrinks the prostate gradually over months",
+          "It is an alpha-blocker that relaxes the bladder neck within hours",
+          "It rapidly relieves acute urinary retention",
+          "It increases prostate size to improve flow"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Finasteride is a 5-alpha-reductase inhibitor that shrinks the prostate slowly over months by blocking conversion of testosterone to DHT. Distinguishing its slow mechanism from the alpha-blockers is the point.",
+          "Rapid bladder-neck relaxation describes alpha-blockers like tamsulosin, not finasteride.",
+          "Finasteride is not a rescue for acute retention; it works over months.",
+          "It shrinks, not enlarges, the prostate."
+        ]
+      },
+      {
+        "stem": "A client with BPH is scheduled for a transurethral resection of the prostate (TURP). The nurse explains that this procedure is:",
+        "options": [
+          "The most common surgical treatment for BPH, removing prostate tissue to relieve obstruction",
+          "A procedure that removes the entire prostate and seminal vesicles for cancer",
+          "A medication regimen to shrink the prostate",
+          "A test to measure urinary flow rates"
+        ],
+        "answer": 0,
+        "explanations": [
+          "TURP is the most common surgical treatment for BPH; it resects obstructing prostate tissue to restore urine flow. Matching the procedure to its purpose is the teaching point.",
+          "Removing the entire prostate is a radical prostatectomy for cancer, not TURP for BPH.",
+          "TURP is a surgery, not a medication regimen.",
+          "It is a resection procedure, not a diagnostic flow study."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching about prostate cancer. Which statement reflects the key facts taught?",
+        "options": [
+          "It is typically slow-growing, yet it is the second most common cause of cancer death in American men",
+          "It is the fastest-growing cancer and rarely fatal",
+          "It never spreads beyond the prostate",
+          "It affects men and women equally"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Prostate cancer is usually slow-growing but is the second most common cancer in men and the second most common cause of cancer death in American men; Black Americans have higher risk and mortality. Holding both halves of the statement is the tested point.",
+          "It is generally slow-growing, not the fastest-growing, and it can be fatal.",
+          "Advanced prostate cancer can metastasize, notably to bone.",
+          "Prostate cancer occurs in those with a prostate; it does not affect men and women equally."
+        ]
+      },
+      {
+        "stem": "A client's PSA is mildly elevated. Which teaching about the PSA test is accurate?",
+        "options": [
+          "An elevated PSA is not specific to cancer; it can also rise with BPH or prostatitis, and a biopsy with a Gleason score is used to diagnose cancer",
+          "An elevated PSA confirms prostate cancer",
+          "A normal PSA rules out prostate cancer completely",
+          "PSA measures the size of a bladder tumor"
+        ],
+        "answer": 0,
+        "explanations": [
+          "PSA can rise with BPH and prostatitis as well as cancer, so it is not diagnostic; a prostate biopsy yielding a Gleason score is what diagnoses and grades cancer. Distinguishing screening from diagnosis is the point.",
+          "An elevated PSA raises concern but does not confirm cancer.",
+          "A normal PSA does not completely rule out cancer.",
+          "PSA is a prostate marker, not a measure of a bladder tumor."
+        ]
+      },
+      {
+        "stem": "An 82-year-old man with significant heart failure and a limited life expectancy is diagnosed with a small, low-grade (Gleason 6) prostate tumor. Which management approach is most appropriate, and why?",
+        "options": [
+          "Watchful waiting, because with limited life expectancy the goal is to manage symptoms as they arise rather than pursue a cure",
+          "Radical prostatectomy, because all prostate cancers eventually metastasize",
+          "Active surveillance with frequent repeat biopsies aiming for cure",
+          "Immediate chemotherapy regardless of prognosis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "For a small, low-grade tumor in a client with limited life expectancy and comorbidity, watchful waiting manages symptoms as they arise rather than pursuing a cure. Active surveillance (repeat PSA/biopsies with curative intent) would be burdensome and not beneficial here.",
+          "Not all prostate cancers metastasize; aggressive surgery is not warranted for this indolent tumor in a frail client.",
+          "Active surveillance's repeat biopsies with curative intent are burdensome and pointless given the limited prognosis.",
+          "Chemotherapy is not indicated for this indolent, localized tumor in this client."
+        ]
+      },
+      {
+        "stem": "A nurse distinguishes watchful waiting from active surveillance for prostate cancer. Which statement is correct?",
+        "options": [
+          "Watchful waiting manages symptoms as they arise without curative intent, while active surveillance uses frequent PSA testing and repeat biopsies to monitor for progression with curative intent still possible",
+          "Watchful waiting requires monthly biopsies, while active surveillance ignores the cancer",
+          "Both approaches begin immediate chemotherapy",
+          "Active surveillance is only for clients with a very short life expectancy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Watchful waiting treats symptoms as they occur without aiming to cure (used for limited life expectancy/comorbidity), whereas active surveillance monitors closely with PSA and repeat biopsies, keeping curative treatment on the table. Contrasting the two prevents the classic mix-up.",
+          "Watchful waiting does not require monthly biopsies, and active surveillance actively monitors rather than ignoring the cancer.",
+          "Neither approach starts immediate chemotherapy.",
+          "Active surveillance suits clients who could still benefit from cure, not only those with a short life expectancy."
+        ]
+      },
+      {
+        "stem": "A man with advanced prostate cancer reports new, persistent bone pain in his spine and hips. The nurse recognizes this most likely indicates:",
+        "options": [
+          "Metastasis of the prostate cancer to bone",
+          "A new primary bone cancer unrelated to the prostate",
+          "Normal age-related joint changes requiring no follow-up",
+          "A side effect of PSA testing"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Advanced prostate cancer commonly metastasizes to bone (spine, pelvis, ribs), so new persistent bone pain suggests bony metastasis and warrants evaluation. Linking the cue to metastasis is the analyze-cues step.",
+          "A new unrelated primary bone cancer is far less likely than metastasis from the known prostate cancer.",
+          "Persistent bone pain with known prostate cancer is not simply normal aging.",
+          "PSA testing is a blood test and does not cause bone pain."
+        ]
+      },
+      {
+        "stem": "A man reports difficulty maintaining an erection and mentions he has hypertension, diabetes, and takes antihypertensive medications. Which understanding guides the nurse's assessment?",
+        "options": [
+          "Erectile dysfunction often has organic causes such as vascular disease, diabetes, and medications, and can be an early marker of cardiovascular disease",
+          "Erectile dysfunction is always purely psychogenic",
+          "Erectile dysfunction never requires further evaluation",
+          "Erectile dysfunction only occurs after a prostatectomy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "ED has both organic (vascular disease, diabetes, endocrine disorders, neurologic disease, medications) and psychogenic causes; the vascular link means it can signal underlying cardiovascular disease. Recognizing organic contributors guides the workup.",
+          "ED is not always psychogenic; organic causes are common in this client.",
+          "ED can indicate underlying disease and does warrant evaluation.",
+          "Prostatectomy is one cause, but many organic and psychogenic factors exist."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client prescribed sildenafil for erectile dysfunction. Which instruction is most important?",
+        "options": [
+          "Do not take sildenafil if you are taking nitrates, because the combination can cause profound, dangerous drops in blood pressure",
+          "Take sildenafil immediately before intercourse for instant effect",
+          "Take an extra pill if the first does not work within 15 minutes",
+          "Sildenafil will protect you from sexually transmitted infections"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Sildenafil (a PDE-5 inhibitor) taken with nitrates causes profound hypotension and reduced blood flow to vital organs, so the two must never be combined. This is the priority safety teaching; it is taken about one hour before intercourse.",
+          "Sildenafil is taken about one hour before intercourse, not for an instant effect.",
+          "Taking extra pills increases side effects such as leg/back cramps and does not fix timing.",
+          "Sildenafil treats ED; it does not prevent sexually transmitted infections."
+        ]
+      },
+      {
+        "stem": "A client taking sildenafil calls to report an erection that has lasted more than four hours and is painful. What is the nurse's best response?",
+        "options": [
+          "\"This is priapism, a medical emergency — seek immediate care to prevent permanent damage.\"",
+          "\"This is expected and will resolve on its own by tomorrow.\"",
+          "\"Take another dose of sildenafil to help it subside.\"",
+          "\"Apply ice and wait 24 hours before seeking care.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "An erection lasting more than four hours is priapism, a medical emergency; untreated it causes permanent tissue damage, so the client needs immediate care. Recognizing the emergency drives urgent action.",
+          "Priapism does not safely self-resolve and is not expected.",
+          "More sildenafil would worsen it.",
+          "Delaying care risks permanent penile tissue damage."
+        ]
+      },
+      {
+        "stem": "A client whose erectile dysfunction has not responded to a PDE-5 inhibitor asks about other options. Which does the nurse describe?",
+        "options": [
+          "Vacuum erectile devices, intracavernosal or intraurethral injections, or penile prostheses",
+          "Taking two PDE-5 inhibitors together",
+          "Combining the PDE-5 inhibitor with nitrates for a stronger effect",
+          "No other options exist once pills fail"
+        ],
+        "answer": 0,
+        "explanations": [
+          "When PDE-5 inhibitors are ineffective or contraindicated, alternatives include vacuum devices, intracavernosal or intraurethral injections, and penile prostheses. Knowing the second-line options guides teaching.",
+          "Doubling PDE-5 inhibitors increases adverse effects, not efficacy.",
+          "Combining with nitrates is dangerous and contraindicated.",
+          "Several alternatives exist when pills fail."
+        ]
+      },
+      {
+        "stem": "A nurse reviews the pathophysiology of BPH. Which statement is accurate?",
+        "options": [
+          "Prostatic enlargement from hormonal changes of aging obstructs urine outflow, producing both obstructive and irritative symptoms",
+          "It is a malignant tumor of the prostate that always metastasizes",
+          "It results from an acute bacterial infection of the bladder",
+          "It is caused by a deficiency of testosterone in young men"
+        ],
+        "answer": 0,
+        "explanations": [
+          "BPH is non-malignant prostatic enlargement driven by hormonal changes of aging; it obstructs urine outflow, causing obstructive symptoms (weak stream, hesitancy) and irritative symptoms (urgency, nocturia). This explains why alpha-blockers and 5-ARIs help.",
+          "BPH is benign, not a malignant, metastasizing tumor.",
+          "BPH is not an acute bladder infection.",
+          "It relates to aging hormonal changes and DHT effect, not a testosterone deficiency in young men."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client taking a PDE-5 inhibitor about common side effects. Which does the nurse include?",
+        "options": [
+          "Headache, facial flushing, nasal congestion, dyspepsia, and mild hypotension",
+          "Severe bradycardia and hypertension",
+          "Hearing improvement and increased urine output",
+          "Weight gain and constipation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "PDE-5 inhibitors commonly cause headache, facial flushing, nasal congestion, dyspepsia, and hypotension from vasodilation. Recognizing the expected side-effect profile supports teaching.",
+          "They cause hypotension and vasodilation, not bradycardia with hypertension.",
+          "They do not improve hearing; sudden hearing loss is a rare serious adverse effect, not a benefit.",
+          "Weight gain and constipation are not characteristic PDE-5 inhibitor effects."
+        ]
+      },
+      {
+        "stem": "A nurse receives report on four clients with genitourinary conditions. Which client should the nurse assess first?",
+        "options": [
+          "A client with BPH who has not voided in 8 hours and has a firm, distended, painful bladder",
+          "A client with BPH asking about the timing of his alpha-blocker",
+          "A client scheduled for a routine PSA blood draw",
+          "A client with stable erectile dysfunction requesting education"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A firm, distended, painful bladder with no voiding for 8 hours is acute urinary retention, which threatens the kidneys and needs immediate bladder scan and catheterization — the priority over routine concerns.",
+          "A medication-timing question is important teaching but not an emergency.",
+          "A routine PSA draw is not time-sensitive.",
+          "Stable ED education is not urgent."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about complications of untreated benign prostatic hyperplasia. Which are recognized complications? Select all that apply.",
+        "options": [
+          "Acute urinary retention",
+          "Urinary tract infection and sepsis",
+          "Hydronephrosis",
+          "Renal failure",
+          "Improved urinary stream over time"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—acute urinary retention is a key complication.",
+          "Correct—stasis of urine predisposes to UTI and sepsis.",
+          "Correct—back-pressure can cause hydronephrosis.",
+          "Correct—severe obstruction can progress to renal failure.",
+          "Incorrect—the stream worsens with progressive obstruction, it does not improve."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse assesses a client for organic risk factors for erectile dysfunction. Which factors are organic contributors? Select all that apply.",
+        "options": [
+          "Vascular disease such as hypertension",
+          "Diabetes mellitus",
+          "Prior prostatectomy",
+          "Antihypertensive medications",
+          "Confidence and a satisfying relationship"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—vascular disease impairs the blood flow needed for erection.",
+          "Correct—diabetes causes vascular and neurologic damage contributing to ED.",
+          "Correct—prostatectomy can damage nerves and vessels involved in erection.",
+          "Correct—antihypertensives are a recognized medication cause of ED.",
+          "Incorrect—confidence and a satisfying relationship are protective, not risk factors."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is caring for a client after a TURP with continuous bladder irrigation. Which postoperative assessment does the nurse prioritize?",
+        "options": [
+          "Monitoring urine output color and for clots or signs of hemorrhage",
+          "Encouraging the client to bear down to pass the catheter",
+          "Restricting all fluids to reduce urine output",
+          "Deflating the catheter balloon every hour"
+        ],
+        "answer": 0,
+        "explanations": [
+          "After TURP, bleeding is the key early risk; the nurse monitors irrigation outflow color and watches for clots or frank hemorrhage, keeping the catheter patent. Prioritizing bleeding assessment protects the client.",
+          "Bearing down increases bleeding and bladder spasms after TURP.",
+          "Fluids are generally maintained to keep urine flowing and the catheter clear, not restricted.",
+          "The balloon is not routinely deflated hourly; traction and patency are managed per protocol."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client that erectile dysfunction can be an early warning sign of which condition?",
+        "options": [
+          "Cardiovascular disease, because of shared vascular and endothelial mechanisms",
+          "A urinary tract infection",
+          "Prostate enlargement only",
+          "A psychiatric illness in all cases"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Because ED shares vascular and endothelial mechanisms with cardiovascular disease, it can be an early marker prompting cardiovascular risk evaluation. Framing ED this way guides holistic care.",
+          "ED is not primarily a sign of a urinary tract infection.",
+          "ED reflects more than prostate size; the vascular link is key.",
+          "ED is not psychiatric in all cases; many causes are organic."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a man about the difference between BPH obstructive and irritative symptoms. Which symptom is an irritative symptom?",
+        "options": [
+          "Urinary urgency and nocturia",
+          "A weak, dribbling urinary stream",
+          "Hesitancy in initiating voiding",
+          "Intermittency of the stream"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Irritative symptoms of BPH include urgency, frequency, and nocturia, whereas obstructive symptoms include weak stream, hesitancy, intermittency, and dribbling. Classifying the symptom correctly is the point.",
+          "A weak, dribbling stream is an obstructive symptom.",
+          "Hesitancy is an obstructive symptom.",
+          "Intermittency is an obstructive symptom."
+        ]
+      },
+      {
+        "stem": "A nurse reviews diagnostic studies for a client with suspected prostate cancer. Which test provides the definitive diagnosis and grade?",
+        "options": [
+          "A prostate biopsy yielding a Gleason score",
+          "A serum PSA level alone",
+          "A digital rectal exam alone",
+          "A urinary flow study"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A prostate biopsy provides tissue for definitive diagnosis and a Gleason score that grades aggressiveness; PSA and DRE raise suspicion but do not diagnose. Distinguishing screening from definitive diagnosis is the point.",
+          "PSA alone raises suspicion but does not diagnose cancer.",
+          "A DRE alone can detect abnormality but does not diagnose cancer.",
+          "A flow study assesses obstruction, not cancer diagnosis."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with ED about lifestyle factors. Which instruction is appropriate based on the deck?",
+        "options": [
+          "Abstain from alcohol before intercourse, as it can impair erectile function",
+          "Increase alcohol intake to reduce performance anxiety",
+          "Smoking has no effect on erectile function",
+          "Stop all antihypertensive medications without consulting the provider"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Clients are instructed to abstain from alcohol before intercourse because it impairs erectile function; smoking and alcohol are risk factors. Targeting modifiable contributors supports management.",
+          "Increasing alcohol worsens, rather than helps, erectile function.",
+          "Smoking is a recognized risk factor for ED.",
+          "Stopping antihypertensives without provider input is unsafe, even though some can contribute to ED."
+        ]
+      },
+      {
+        "stem": "A nurse reviews risk factors for prostate cancer. Which client is at highest risk?",
+        "options": [
+          "A 70-year-old Black man with a family history of prostate cancer",
+          "A 30-year-old man with no family history",
+          "A 45-year-old man who exercises regularly",
+          "A 25-year-old man with a high fluid intake"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Prostate cancer risk rises with age, is higher in Black Americans, and increases with family history and genetic mutations (BRCA, HPC1); this older Black client with a family history is highest risk. Recognizing stacked risk factors identifies who to prioritize for screening discussion.",
+          "A young man with no family history is at low risk.",
+          "Regular exercise and younger age lower relative risk.",
+          "High fluid intake and young age are not prostate cancer risk factors."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about when to take sildenafil for best effect. Which instruction is correct?",
+        "options": [
+          "Take it about one hour before anticipated intercourse",
+          "Take it every morning on a fixed daily schedule regardless of activity",
+          "Take it only after intercourse to prolong the effect",
+          "Take it with a nitrate to enhance the response"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Sildenafil is taken about one hour before intercourse for optimal effect. Correct timing supports efficacy, and it must never be combined with nitrates.",
+          "It is taken before anticipated intercourse, not as a fixed daily dose unrelated to activity.",
+          "Taking it after intercourse does not achieve the intended effect.",
+          "Combining with a nitrate is dangerous and contraindicated."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with an indwelling catheter placed for acute urinary retention from BPH. After the bladder is drained, which nursing consideration is important?",
+        "options": [
+          "Monitor for post-obstructive diuresis and hemodynamic changes as the bladder decompresses",
+          "Clamp the catheter permanently to retrain the bladder",
+          "Remove the catheter immediately once 100 mL drains",
+          "Encourage vigorous Valsalva to speed emptying"
+        ],
+        "answer": 0,
+        "explanations": [
+          "After relieving significant retention, the nurse monitors for post-obstructive diuresis and related fluid/electrolyte and hemodynamic changes as the bladder decompresses. Anticipating this response protects the client.",
+          "Permanently clamping the catheter defeats the purpose of draining the obstructed bladder.",
+          "Removing the catheter after only 100 mL leaves the retained bladder undrained.",
+          "Vigorous Valsalva is not needed with an indwelling catheter and can cause harm."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client prescribed a PDE-5 inhibitor (sildenafil) for erectile dysfunction. Which points should be included? Select all that apply.",
+        "options": [
+          "Do not use it if you take nitrates",
+          "Take it about one hour before intercourse",
+          "Seek emergency care for an erection lasting more than four hours",
+          "Take a second dose right away if the first does not work",
+          "Report side effects such as headache, flushing, or dizziness"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—combining with nitrates causes dangerous hypotension.",
+          "Correct—it is taken about an hour before intercourse.",
+          "Correct—an erection over four hours is priapism, an emergency.",
+          "Incorrect—taking a second dose immediately increases side effects and is not advised.",
+          "Correct—headache, flushing, and dizziness are expected side effects to report."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is teaching about early-stage prostate cancer. Which statement is accurate?",
+        "options": [
+          "Early prostate cancer is often asymptomatic and detected through screening such as PSA and a digital rectal exam",
+          "Early prostate cancer always causes severe bone pain",
+          "Early prostate cancer causes immediate urinary obstruction in all clients",
+          "Early prostate cancer is easily seen on the skin"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Early prostate cancer is typically asymptomatic and detected by screening (PSA and DRE); urinary obstruction, hematuria, and bone pain appear in advanced disease. Recognizing the silent early course underscores the role of screening.",
+          "Bone pain reflects advanced metastatic disease, not early cancer.",
+          "Urinary obstruction is an advanced-disease finding, not universal early on.",
+          "Prostate cancer is internal and not visible on the skin."
+        ]
+      }
+    ],
+    "msfinal-breast": [
+      {
+        "stem": "A client reports unilateral, spontaneous, bloody nipple discharge from one breast. Which action does the nurse anticipate?",
+        "options": [
+          "Screening for cancer with a mammogram and/or ultrasound",
+          "Reassuring the client that this is a normal physiologic finding",
+          "Checking only the TSH and prolactin levels",
+          "Recommending a supportive bra and observation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Unilateral, spontaneous, bloody (sanguineous) discharge is non-physiologic and worrisome, prompting a cancer workup with mammography and/or ultrasound. Distinguishing it from benign discharge is the point.",
+          "Bilateral, non-bloody, provoked discharge is physiologic; unilateral bloody discharge is not reassuring.",
+          "TSH and prolactin are checked for benign bilateral discharge, not for suspicious unilateral bloody discharge.",
+          "A supportive bra and observation are appropriate for cyclical breast pain, not for suspicious discharge."
+        ]
+      },
+      {
+        "stem": "A client has bilateral, non-bloody nipple discharge that occurs only with compression. Which workup does the nurse anticipate for this physiologic discharge?",
+        "options": [
+          "Review of medications and checking TSH and prolactin levels",
+          "Immediate mammography and biopsy",
+          "Prophylactic mastectomy",
+          "Referral for chemotherapy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bilateral, non-bloody, provoked discharge is physiologic (seen in about one in three females); the workup reviews medications and checks TSH and prolactin. Matching the benign pattern to the correct evaluation is the point.",
+          "Immediate mammography and biopsy are reserved for suspicious unilateral bloody discharge.",
+          "Prophylactic mastectomy is unrelated to benign physiologic discharge.",
+          "Chemotherapy is a cancer treatment, not a workup for physiologic discharge."
+        ]
+      },
+      {
+        "stem": "A breastfeeding client is diagnosed with mastitis. Which treatment does the nurse anticipate per the lecture content?",
+        "options": [
+          "Antibiotics and cold compresses, with drainage if an abscess is present",
+          "Warm compresses and immediate weaning",
+          "Observation alone with no medication",
+          "Prophylactic mastectomy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Mastitis is treated with antibiotics and cold compresses, with drainage if it progresses to an abscess (its main complication). If a distractor substitutes warm compresses, it does not match the deck.",
+          "The deck specifies cold, not warm, compresses, and weaning is not the specified treatment.",
+          "Mastitis is an infection requiring antibiotics, not observation alone.",
+          "Mastectomy is not a treatment for mastitis."
+        ]
+      },
+      {
+        "stem": "A client reports diffuse, bilateral breast pain that predictably worsens before each menstrual period. How does the nurse classify this pain, and what is the appropriate management?",
+        "options": [
+          "Cyclical mastalgia — acetaminophen or NSAIDs and a supportive bra",
+          "Non-cyclical mastalgia — urgent biopsy",
+          "A breast abscess — antibiotics and drainage",
+          "Inflammatory breast cancer — immediate chemotherapy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Pain that is diffuse, bilateral, and predictable with the menstrual cycle is cyclical mastalgia (two-thirds of cases), managed with acetaminophen or NSAIDs and a supportive bra. Matching the pattern to conservative management is the point.",
+          "Non-cyclical pain has no menstrual association and often prompts imaging, not this predictable cyclical pattern.",
+          "An abscess is a localized infection, not diffuse cyclical pain.",
+          "Inflammatory breast cancer presents with redness and peau d'orange, not cyclical bilateral pain."
+        ]
+      },
+      {
+        "stem": "During a breast assessment, the nurse palpates a firm, irregular, immobile, nontender mass with overlying skin retraction. Which finding is most concerning for malignancy?",
+        "options": [
+          "The mass is irregular, hard, fixed, and shows skin retraction",
+          "The mass is soft, mobile, and tender",
+          "The mass is round, mobile, and tender",
+          "The mass is round or lobular, mobile, and nontender"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Malignant masses are typically irregular, firm/hard, immobile (fixed), nontender, and may show skin retraction. These discriminators separate cancer from mobile, tender cysts and mobile, nontender fibroadenomas.",
+          "A soft, mobile, tender mass is characteristic of a cyst, not malignancy.",
+          "A round, mobile, tender mass suggests a cyst.",
+          "A round or lobular, mobile, nontender mass suggests a fibroadenoma."
+        ]
+      },
+      {
+        "stem": "A nurse palpates two nontender breast masses in different clients. Which additional feature best distinguishes a fibroadenoma from a malignancy?",
+        "options": [
+          "A fibroadenoma is round or lobular and mobile, whereas a malignancy is irregular and immobile",
+          "A fibroadenoma is always tender, whereas a malignancy is painful",
+          "A fibroadenoma is fixed to the chest wall, whereas a malignancy is mobile",
+          "Both are identical and cannot be distinguished on exam"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Because both fibroadenomas and malignancies are often nontender, mobility and shape are the tie-breakers: fibroadenomas are round/lobular and mobile, malignancies are irregular and immobile. Using the discriminating features is the reasoning.",
+          "Fibroadenomas are usually nontender, not always tender.",
+          "The mobility is reversed here — fibroadenomas are mobile and malignancies are fixed.",
+          "They can be distinguished by mobility and shape on exam."
+        ]
+      },
+      {
+        "stem": "A client is told a biopsy shows lobular carcinoma in situ (LCIS). Which explanation by the nurse is accurate?",
+        "options": [
+          "LCIS is a premalignant risk marker, not a cancer, and it substantially raises future breast cancer risk",
+          "LCIS is an invasive cancer requiring immediate mastectomy",
+          "LCIS is the same as ductal carcinoma in situ and is treated identically",
+          "LCIS carries no increased risk and needs no follow-up"
+        ],
+        "answer": 0,
+        "explanations": [
+          "LCIS is a microscopic finding under benign proliferative disease — a premalignant risk marker (7-11 times the risk), not a cancer. This contrasts with DCIS, which is an actual cancer confined to the ducts.",
+          "LCIS is not invasive cancer; it is a risk marker.",
+          "DCIS is a cancer; LCIS is a risk marker, so they are not the same or treated identically.",
+          "LCIS substantially increases risk and warrants surveillance."
+        ]
+      },
+      {
+        "stem": "An adolescent male and his parent are worried about mild bilateral breast enlargement. Which response by the nurse is most appropriate?",
+        "options": [
+          "\"In adolescent males this is usually related to puberty hormones and often resolves on its own.\"",
+          "\"This always requires an urgent breast cancer workup.\"",
+          "\"This means he has a testicular tumor.\"",
+          "\"This is caused by taking spironolactone.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Gynecomastia is the most common male breast condition; in adolescents it is usually due to puberty hormones and self-resolves. Reassurance with monitoring is appropriate, unlike in adult males where it requires evaluation.",
+          "Adolescent gynecomastia usually self-resolves; an urgent cancer workup is not the routine step.",
+          "A testicular tumor is one cause to evaluate in adult males, not the expected cause in an adolescent.",
+          "Spironolactone-induced gynecomastia applies to clients taking that drug, not to a typical adolescent."
+        ]
+      },
+      {
+        "stem": "A 55-year-old man reports new unilateral breast enlargement. Which nursing action is most appropriate?",
+        "options": [
+          "Recognize that gynecomastia in an adult male requires further evaluation for causes such as medications, testicular tumor, alcohol use, liver disease, or breast cancer",
+          "Reassure him it is a normal part of aging that needs no workup",
+          "Tell him it will resolve on its own as it does in adolescents",
+          "Assume it is caused by excessive exercise"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Unlike adolescent gynecomastia, breast enlargement in an adult male is never assumed benign and requires evaluation for medication effects (e.g., spironolactone), testicular tumor, alcohol use disorder, liver disease, or breast cancer. Recognizing the age-based difference drives the workup.",
+          "Adult male gynecomastia is not simply normal aging; it requires evaluation.",
+          "Self-resolution applies to adolescents, not adult-onset gynecomastia.",
+          "Exercise is not an assumed cause; serious causes must be ruled out."
+        ]
+      },
+      {
+        "stem": "A client asks whether her deodorant, underwire bra, or a past abortion increased her breast cancer risk. Which response is accurate?",
+        "options": [
+          "\"There is no evidence that antiperspirants, underwire bras, or abortion cause breast cancer.\"",
+          "\"Yes, all of those are established risk factors.\"",
+          "\"Only the underwire bra increases your risk.\"",
+          "\"Antiperspirants are the leading cause of breast cancer.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "There is no evidence that silicone implants, antiperspirants, underwire bras, or abortion cause breast cancer. Correcting these common misconceptions is a high-yield teaching point.",
+          "None of these are established risk factors, so this is incorrect.",
+          "The underwire bra is not a risk factor.",
+          "Antiperspirants are not a cause of breast cancer."
+        ]
+      },
+      {
+        "stem": "A client asks the nurse to explain BRCA gene testing. Which statement is most accurate?",
+        "options": [
+          "Everyone has BRCA1 and BRCA2 genes; it is a mutation in these genes that markedly increases breast cancer risk",
+          "Only people with breast cancer carry the BRCA genes",
+          "A BRCA2 mutation carries a higher lifetime risk than a BRCA1 mutation",
+          "BRCA mutations occur only in people of Ashkenazi Jewish descent"
+        ],
+        "answer": 0,
+        "explanations": [
+          "BRCA1 and BRCA2 are normal genes everyone has; it is a mutation that raises risk (BRCA1 up to 80%, average 55-65%; BRCA2 about 45%). Precise language — mutation, not simply \"having the gene\" — is the tested point.",
+          "Everyone has BRCA genes; the mutation, not mere possession, raises risk.",
+          "BRCA1 mutations carry a higher lifetime risk than BRCA2, not the reverse.",
+          "BRCA mutations are more common in Ashkenazi Jewish people but can occur in anyone."
+        ]
+      },
+      {
+        "stem": "A 46-year-old woman at average risk asks how often she should have a screening mammogram. Which response reflects current guidance?",
+        "options": [
+          "Guidelines support mammography every 1 to 2 years in this age range; the ACS recommends yearly mammograms for women 45 to 54",
+          "She does not need any mammograms until age 55",
+          "She should have a clinical breast exam instead of a mammogram",
+          "She only needs a mammogram if she has symptoms"
+        ],
+        "answer": 0,
+        "explanations": [
+          "For average-risk women, USPSTF recommends biennial mammography for ages 40-74, and ACS recommends yearly mammograms for ages 45-54. Matching age to the screening interval is the teaching point.",
+          "Screening is recommended well before age 55 for average-risk women in their 40s.",
+          "Clinical breast exams are not recommended for average-risk women at any age; mammography is the screen.",
+          "Screening mammography is for asymptomatic women, not only those with symptoms."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching about clinical breast exams for average-risk women. Which statement is correct?",
+        "options": [
+          "Clinical breast exams are not recommended for average-risk women at any age",
+          "Clinical breast exams should be performed annually for all women",
+          "Clinical breast exams replace the need for mammography",
+          "Clinical breast exams are the only reliable screening method"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Current guidance does not recommend clinical breast exams for average-risk women at any age — a commonly missed fact — so \"perform a clinical breast exam annually\" is a wrong answer.",
+          "Annual clinical breast exams are not recommended for average-risk women.",
+          "Clinical breast exams do not replace mammography, which is the screening tool.",
+          "Mammography, not the clinical breast exam, is the recommended screening method."
+        ]
+      },
+      {
+        "stem": "A client with a suspicious mammogram asks if this means she definitely has breast cancer. Which response by the nurse is most accurate?",
+        "options": [
+          "\"Mammography detects abnormalities, but a tissue biopsy is the only way to definitively diagnose breast cancer.\"",
+          "\"Yes, a suspicious mammogram confirms breast cancer.\"",
+          "\"A PET scan will confirm whether it is cancer.\"",
+          "\"We will wait six months and repeat the mammogram before doing anything.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Mammography and ultrasound detect abnormalities, but only a tissue biopsy definitively diagnoses breast cancer. Distinguishing screening/detection from diagnosis is the key teaching point.",
+          "A suspicious mammogram raises concern but does not confirm cancer; biopsy does.",
+          "PET is used for staging, not to confirm a diagnosis, which requires biopsy.",
+          "Waiting six months is falsely reassuring and delays needed diagnosis."
+        ]
+      },
+      {
+        "stem": "A client's breast cancer is described as triple-negative. Which understanding guides the nurse's teaching about treatment?",
+        "options": [
+          "The tumor lacks estrogen, progesterone, and HER2 receptors, so chemotherapy is the most successful treatment",
+          "Hormonal therapy such as tamoxifen will be the primary treatment",
+          "Targeted HER2 therapy such as trastuzumab (Herceptin) will be most effective",
+          "The tumor is well-differentiated with a low chance of recurrence"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Triple-negative tumors lack estrogen, progesterone, and HER2 receptors, so hormonal therapy and HER2-targeted therapy do not work and chemotherapy is the most successful treatment. It is also more aggressive with a poorer prognosis.",
+          "Tamoxifen targets estrogen receptors, which triple-negative tumors lack.",
+          "HER2-targeted therapy requires HER2 expression, which triple-negative tumors lack.",
+          "Triple-negative disease is more aggressive with a poorer prognosis, not well-differentiated."
+        ]
+      },
+      {
+        "stem": "A nurse reviews a client's pathology showing a receptor-positive, well-differentiated breast tumor. Which implication is accurate?",
+        "options": [
+          "It is frequently hormone-dependent and responsive to hormonal therapy, with a lower chance of recurrence",
+          "It is unresponsive to hormonal therapy and frequently recurs",
+          "It is poorly differentiated with high proliferative activity",
+          "It requires no treatment because it is well-differentiated"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Receptor-positive, well-differentiated tumors are frequently hormone-dependent and responsive to hormonal therapy, with a lower recurrence risk. Reading receptor status guides treatment selection.",
+          "Unresponsiveness and frequent recurrence describe receptor-negative tumors.",
+          "Poor differentiation with high proliferation describes receptor-negative tumors.",
+          "Well-differentiated tumors still require treatment; being well-differentiated does not mean no treatment."
+        ]
+      },
+      {
+        "stem": "A nurse reviews a breast tumor that overexpresses HER2. Which implication does the nurse recognize?",
+        "options": [
+          "HER2 overexpression is associated with aggressive tumor growth and a worse prognosis",
+          "HER2 overexpression indicates a slow-growing, low-risk tumor",
+          "HER2 overexpression means hormonal therapy alone will cure it",
+          "HER2 overexpression has no effect on prognosis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "HER2 overexpression drives aggressive tumor growth, increases recurrence, and worsens prognosis (and directs HER2-targeted therapy such as trastuzumab). Interpreting the marker guides prognosis and treatment.",
+          "HER2 overexpression indicates a more aggressive, not low-risk, tumor.",
+          "Hormonal therapy alone does not address HER2-driven growth.",
+          "HER2 status meaningfully affects prognosis and treatment."
+        ]
+      },
+      {
+        "stem": "A client is prescribed tamoxifen after breast cancer treatment. Which symptom should the nurse teach the client to report immediately?",
+        "options": [
+          "Calf pain and swelling or new shortness of breath",
+          "Occasional hot flashes",
+          "Mild nausea that improves with food",
+          "Temporary fatigue"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Tamoxifen carries an FDA warning for thromboembolic events, so calf pain/swelling and shortness of breath (possible clot or PE) must be reported immediately. It also raises uterine/endometrial cancer risk, so abnormal vaginal bleeding is reported too.",
+          "Hot flashes are an expected, non-emergent side effect of tamoxifen.",
+          "Mild nausea that improves with food is a manageable side effect, not an emergency.",
+          "Temporary fatigue is not the priority warning sign compared with thromboembolism."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a postmenopausal client starting tamoxifen. Besides clot symptoms, which finding should the client report immediately?",
+        "options": [
+          "Any abnormal vaginal bleeding",
+          "Mild hot flashes",
+          "Slight weight change",
+          "Occasional headache"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Tamoxifen increases the risk of uterine/endometrial cancer, so any abnormal vaginal bleeding must be reported and evaluated promptly. This is one of the drug's two red-flag teaching points, alongside thromboembolism.",
+          "Hot flashes are an expected side effect, not a red flag.",
+          "Slight weight change is not the priority warning sign.",
+          "An occasional headache is not the specific red flag for tamoxifen's uterine cancer risk."
+        ]
+      },
+      {
+        "stem": "A client is scheduled for a modified radical mastectomy and asks how it differs from a radical mastectomy. Which explanation is accurate?",
+        "options": [
+          "A modified radical mastectomy removes breast tissue and axillary nodes but spares the pectoralis major, whereas a radical mastectomy also removes the pectoralis major muscle",
+          "A modified radical mastectomy removes the pectoralis major, whereas a radical mastectomy spares it",
+          "Both procedures remove only the tumor and a margin, preserving the breast",
+          "A modified radical mastectomy removes only some axillary nodes and preserves all breast tissue"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The distinction is the pectoralis major: a modified radical mastectomy spares it, while a radical mastectomy removes it (both remove breast tissue and address axillary nodes). Naming the muscle is the discriminator.",
+          "This reverses the muscle involvement; the modified radical spares the pectoralis major.",
+          "Removing only the tumor and a margin describes a lumpectomy, not a mastectomy.",
+          "Removing some nodes while preserving breast tissue describes a lumpectomy."
+        ]
+      },
+      {
+        "stem": "A nurse is providing preoperative teaching before a mastectomy. Which instruction is most important?",
+        "options": [
+          "Stop aspirin, NSAIDs, vitamin E, ginkgo biloba, garlic, and warfarin for at least one week before surgery",
+          "Continue all blood thinners up to the morning of surgery",
+          "Begin vigorous arm exercises the day before surgery",
+          "Apply deodorant to the surgical site the morning of surgery"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Aspirin, NSAIDs, vitamin E, ginkgo biloba, garlic, and warfarin all increase bleeding risk and are stopped at least one week before surgery — the herbals (ginkgo, garlic) are easily overlooked. This directly reduces postoperative bleeding.",
+          "Continuing blood thinners raises bleeding risk and is not appropriate before surgery.",
+          "Arm exercises begin postoperatively to restore range of motion, not the day before surgery.",
+          "Deodorant is not applied to the incision, and this is a postoperative rather than preoperative teaching point."
+        ]
+      },
+      {
+        "stem": "A client returns from a mastectomy with a Jackson-Pratt drain in place. Which postoperative instruction is correct?",
+        "options": [
+          "The drain stays in place until the area heals, and the incision is kept dry with sponge baths recommended",
+          "The drain should be removed as soon as the client is discharged",
+          "The incision should be soaked in a tub bath daily",
+          "Deodorant should be applied to the incision to reduce odor"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The closed-suction drain (Jackson-Pratt or Hemovac) is left in place until the area heals, and the incision is kept dry with sponge baths, with no deodorant applied until healing. These measures protect the healing site and monitor drainage.",
+          "The drain is left until healing occurs, not removed at discharge.",
+          "The incision is kept dry; soaking in a tub bath risks infection and impairs healing.",
+          "Deodorant is not applied to the incision until it has healed."
+        ]
+      },
+      {
+        "stem": "A client is recovering from a mastectomy and asks about activity restrictions. Which teaching is correct?",
+        "options": [
+          "Avoid heavy lifting for 4 to 6 weeks and perform prescribed arm exercises three times a day for 20 minutes",
+          "Resume heavy lifting immediately to prevent stiffness",
+          "Avoid moving the affected arm entirely until fully healed",
+          "Perform arm exercises once a week for 5 minutes"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Post-mastectomy teaching includes avoiding heavy lifting for 4 to 6 weeks and performing arm exercises three times daily for 20 minutes to restore shoulder range of motion. The specific numbers are the tested details.",
+          "Resuming heavy lifting immediately risks injury and impaired healing.",
+          "Avoiding all arm movement causes stiffness; prescribed exercises restore range of motion.",
+          "Once-weekly, 5-minute exercises are insufficient to restore range of motion."
+        ]
+      },
+      {
+        "stem": "A client had an axillary lymph node dissection on the right side. Which instruction is essential to prevent lymphedema complications?",
+        "options": [
+          "Do not allow blood pressures, injections, or blood draws in the right arm",
+          "Keep the right arm below heart level at all times",
+          "Apply tight, non-elastic bands around the right arm",
+          "Limit all movement of the right arm indefinitely"
+        ],
+        "answer": 0,
+        "explanations": [
+          "After node dissection the affected arm is protected: no blood pressures, injections, or phlebotomy in that arm (a sign is posted). Elevation is level with the heart, and prescribed exercises are encouraged — the more nodes removed, the greater the lymphedema risk.",
+          "The arm is elevated level with the heart, not kept below heart level.",
+          "Tight constricting bands worsen lymphedema; graduated compression, not tight bands, is used.",
+          "Prescribed exercises are encouraged; the arm is not immobilized indefinitely."
+        ]
+      },
+      {
+        "stem": "A client with lymphedema of the arm after breast cancer surgery is learning about management. Which instruction about positioning is correct?",
+        "options": [
+          "Elevate the affected arm level with the heart",
+          "Keep the arm elevated well above the head continuously",
+          "Keep the arm in a dependent position to promote drainage",
+          "Wrap the arm tightly with an inelastic bandage"
+        ],
+        "answer": 0,
+        "explanations": [
+          "For lymphedema, the affected arm is elevated level with the heart (not above), along with compression, manual techniques, and isometric exercises. The precise elevation level is the tested detail.",
+          "Continuous elevation above the head is not the recommended position; level with the heart is.",
+          "A dependent position promotes fluid pooling and worsens lymphedema.",
+          "Tight inelastic wrapping is not the recommended approach; graduated compression is used."
+        ]
+      },
+      {
+        "stem": "A client presents with a red, swollen, warm breast with an orange-peel (peau d'orange) appearance that has not improved on antibiotics. Which condition should the nurse suspect?",
+        "options": [
+          "Inflammatory breast cancer",
+          "Simple mastitis",
+          "A fibroadenoma",
+          "A benign breast cyst"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Inflammatory breast cancer causes redness, swelling, warmth, and peau d'orange and is often misdiagnosed as infection; a red, swollen breast that does not respond to antibiotics must be worked up for cancer. Recognizing the non-resolving cue is the point.",
+          "Simple mastitis typically improves with antibiotics; failure to respond raises concern for inflammatory cancer.",
+          "A fibroadenoma is a firm, mobile, nontender mass, not a red, swollen breast.",
+          "A benign cyst does not cause diffuse redness, warmth, and peau d'orange."
+        ]
+      },
+      {
+        "stem": "A nurse reviews factors that determine breast cancer prognosis. Which combination reflects the key prognostic factors taught?",
+        "options": [
+          "Tumor size, spread to lymph nodes, and certain genes such as ERBB2 (HER2)",
+          "The client's height, weight, and blood type",
+          "The color and location of the client's clothing",
+          "The client's dietary preferences alone"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Prognosis depends chiefly on tumor size, lymph node spread, and certain genes (ERBB2/HER2); larger, poorly differentiated tumors with more involved nodes carry a worse prognosis. Identifying the true prognostic drivers is the point.",
+          "Height, weight, and blood type are not the taught prognostic factors.",
+          "Clothing has no bearing on prognosis.",
+          "Diet alone is not a determinant of breast cancer prognosis."
+        ]
+      },
+      {
+        "stem": "A client with a BRCA1 mutation and a strong family history asks about options to reduce her risk of breast cancer. Which risk-reducing option does the nurse discuss?",
+        "options": [
+          "Prophylactic mastectomy and/or oophorectomy",
+          "Annual clinical breast exams as the only needed measure",
+          "Avoiding antiperspirants and underwire bras",
+          "Taking a daily multivitamin to prevent cancer"
+        ],
+        "answer": 0,
+        "explanations": [
+          "For a BRCA mutation carrier at high risk, prophylactic mastectomy and/or oophorectomy are recognized risk-reducing options (tamoxifen may also be used for prevention). Matching the high-risk status to appropriate prophylaxis is the point.",
+          "Clinical breast exams are not recommended for average-risk screening and are not a risk-reducing strategy on their own.",
+          "Avoiding antiperspirants and underwire bras does not reduce risk; they are not risk factors.",
+          "A multivitamin does not prevent breast cancer."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching about breast cancer disparities. Which statement is accurate?",
+        "options": [
+          "Non-Hispanic Black women have a higher incidence before age 40 and are more likely to die from breast cancer at every age",
+          "Breast cancer risk decreases with age",
+          "Breast cancer affects men and women at equal rates",
+          "Most breast cancers occur in people with a strong family history"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Non-Hispanic Black women have a higher incidence before age 40 and higher mortality at every age. Risk increases with age, 99% of cases are in females, and about 80% of cancers are sporadic without a family history.",
+          "Breast cancer risk increases, not decreases, with age.",
+          "Ninety-nine percent of cases are female; men and women are not affected equally.",
+          "About 80% of breast cancers are sporadic, occurring without a strong family history."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client which factors are NOT established causes of breast cancer. Which items have no evidence of causing breast cancer? Select all that apply.",
+        "options": [
+          "Silicone breast implants",
+          "Antiperspirants",
+          "Underwire bras",
+          "Inherited BRCA1 or BRCA2 mutations",
+          "Abortion"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—silicone implants are not an evidence-based cause of breast cancer.",
+          "Correct—antiperspirants are not a cause of breast cancer.",
+          "Correct—underwire bras are not a cause of breast cancer.",
+          "Incorrect—inherited BRCA1/BRCA2 mutations are established high-risk factors, not myths.",
+          "Correct—abortion is not an evidence-based cause of breast cancer."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is teaching a client starting tamoxifen. Which points should be included? Select all that apply.",
+        "options": [
+          "Report calf pain, swelling, or new shortness of breath",
+          "Report any abnormal vaginal bleeding",
+          "Hot flashes are a possible side effect",
+          "The drug increases estrogen activity in breast tissue to treat the cancer",
+          "It is used for prevention in high-risk individuals"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—thromboembolism is an FDA-warned risk, so clot symptoms are reported.",
+          "Correct—abnormal vaginal bleeding may signal uterine/endometrial cancer and is reported.",
+          "Correct—hot flashes are a common side effect.",
+          "Incorrect—tamoxifen blocks estrogen; it does not increase estrogen activity.",
+          "Correct—tamoxifen is also used for prevention in high-risk individuals."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is caring for a client after an axillary lymph node dissection. Which instructions help prevent lymphedema and its complications? Select all that apply.",
+        "options": [
+          "Avoid blood pressure measurements in the affected arm",
+          "Avoid injections and blood draws in the affected arm",
+          "Elevate the affected arm level with the heart",
+          "Keep the affected arm in a dependent (lowered) position",
+          "Perform prescribed arm exercises to maintain range of motion"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—blood pressures on the affected arm are avoided to reduce lymphedema risk.",
+          "Correct—injections and blood draws on the affected arm are avoided.",
+          "Correct—elevation level with the heart helps mobilize fluid.",
+          "Incorrect—a dependent position promotes pooling and worsens lymphedema.",
+          "Correct—prescribed arm exercises maintain range of motion and aid drainage."
+        ],
+        "type": "sata"
+      }
+    ],
+    "msfinal-sti-hiv": [
+      {
+        "stem": "A client is diagnosed with a sexually transmitted infection, and the nurse is preparing to discuss partner notification. Which action should the nurse take first?",
+        "options": [
+          "Assess the client for potential risk of intimate partner violence before encouraging partner notification",
+          "Immediately contact all of the client's partners directly",
+          "Refuse to provide care until the client names all partners",
+          "Tell the client that partner notification is legally required of them personally"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Before encouraging partner notification, the nurse assesses for potential intimate partner violence, because notification could endanger the client — a high-yield nursing-judgment step that protects safety first.",
+          "Contacting partners without assessing safety and following partner-services processes is inappropriate.",
+          "Refusing care until partners are named is coercive and unethical.",
+          "Providers make a good-faith effort in partner services; the burden is not simply placed on the client, and safety comes first."
+        ]
+      },
+      {
+        "stem": "A client being treated for primary syphilis with benzathine penicillin develops fever, chills, headache, and muscle aches about five hours after the injection. What is the nurse's best action?",
+        "options": [
+          "Recognize this as the Jarisch-Herxheimer reaction, provide antipyretics and supportive care, and continue treatment",
+          "Stop the penicillin immediately because this is an allergic reaction",
+          "Administer epinephrine for anaphylaxis",
+          "Withhold all further antibiotics until the fever resolves"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The Jarisch-Herxheimer reaction is a self-limiting inflammatory response from rapid spirochete destruction, not a penicillin allergy; it means the treatment is working. The nurse gives supportive care and does not stop the penicillin or give epinephrine.",
+          "This is not an allergy; stopping the penicillin is inappropriate.",
+          "Epinephrine is for anaphylaxis, not the Jarisch-Herxheimer reaction.",
+          "Treatment should continue; withholding antibiotics is not indicated."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client with a single, painless genital ulcer (chancre). Which sexually transmitted infection does this finding suggest?",
+        "options": [
+          "Primary syphilis",
+          "Gonorrhea",
+          "Trichomoniasis",
+          "Chlamydia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A painless chancre is the hallmark of primary syphilis (Treponema pallidum). Secondary syphilis brings a diffuse rash including palms and soles and condylomata lata. Recognizing the painless ulcer is the cue.",
+          "Gonorrhea causes purulent discharge and dysuria, not a painless chancre.",
+          "Trichomoniasis causes frothy discharge and a strawberry cervix, not a chancre.",
+          "Chlamydia is often asymptomatic and does not cause a painless chancre."
+        ]
+      },
+      {
+        "stem": "A nurse reviews a client's diagnostic results showing a diffuse rash on the palms and soles with condylomata lata. Which stage of syphilis does this indicate?",
+        "options": [
+          "Secondary syphilis",
+          "Primary syphilis",
+          "Latent syphilis",
+          "Tertiary syphilis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A rash involving the palms and soles with condylomata lata and lymphadenopathy characterizes secondary syphilis. Matching the manifestation to the stage is the analyze-cues step.",
+          "Primary syphilis presents with a painless chancre, not a widespread rash.",
+          "Latent syphilis is asymptomatic.",
+          "Tertiary syphilis involves gummas and cardiovascular or neurologic disease, not this rash."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with purulent urethral discharge and dysuria whose Gram stain shows gram-negative diplococci. Which infection is most likely?",
+        "options": [
+          "Gonorrhea",
+          "Syphilis",
+          "Trichomoniasis",
+          "Human papillomavirus"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Neisseria gonorrhoeae is a gram-negative diplococcus that causes purulent discharge and dysuria; NAAT is the preferred test. Linking the Gram-stain morphology and discharge to gonorrhea is the point.",
+          "Syphilis is caused by a spirochete, not a gram-negative diplococcus.",
+          "Trichomoniasis is caused by a protozoan, not a diplococcus.",
+          "HPV is a virus causing warts, not a purulent discharge with diplococci."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing chlamydia. Which statement is accurate?",
+        "options": [
+          "It is often asymptomatic, is most common in people aged 15 to 24, and can cause pelvic inflammatory disease and neonatal conjunctivitis or pneumonia",
+          "It always causes obvious painful ulcers",
+          "It is diagnosed only by Gram stain",
+          "It cannot be transmitted to a newborn during delivery"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Chlamydia trachomatis is frequently asymptomatic, is most common in ages 15 to 24, and can cause PID and neonatal conjunctivitis/pneumonia; NAAT is the preferred test. Recognizing its silent, high-impact nature guides screening.",
+          "Chlamydia is often asymptomatic, not marked by obvious painful ulcers.",
+          "It is diagnosed by NAAT, not Gram stain.",
+          "It can be transmitted to a newborn during delivery, causing conjunctivitis or pneumonia."
+        ]
+      },
+      {
+        "stem": "A client with a malodorous, frothy, yellow-green vaginal discharge and a \"strawberry cervix\" is being evaluated. Which infection is most likely?",
+        "options": [
+          "Trichomoniasis",
+          "Gonorrhea",
+          "Syphilis",
+          "Human papillomavirus"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Trichomonas vaginalis, a flagellated protozoan, causes a frothy yellow-green discharge and a strawberry cervix; unlike most STIs, prevalence increases with age in women. Recognizing this classic presentation is the point.",
+          "Gonorrhea causes purulent discharge, not the frothy discharge and strawberry cervix.",
+          "Syphilis presents with a chancre or rash, not this discharge.",
+          "HPV causes warts or dysplasia, not a frothy discharge."
+        ]
+      },
+      {
+        "stem": "A nurse is counseling a client about HPV. Which statement is accurate?",
+        "options": [
+          "High-risk types (16 and 18) are associated with cervical and other cancers, and the 9-valent vaccine helps prevent infection",
+          "There is a medication that cures the HPV virus itself",
+          "HPV only causes visible genital warts and never cancer",
+          "The vaccine treats existing HPV infections"
+        ],
+        "answer": 0,
+        "explanations": [
+          "High-risk HPV types 16 and 18 cause cervical, anal, and oropharyngeal dysplasia/cancer, and the 9-valent vaccine prevents infection; there is no cure for the virus itself. Distinguishing prevention from cure is the teaching point.",
+          "There is no cure for the HPV virus itself; treatment targets warts or dysplasia.",
+          "High-risk HPV can cause cancer, not only warts.",
+          "The vaccine prevents infection; it does not treat existing infection."
+        ]
+      },
+      {
+        "stem": "A client with HIV asks the nurse what \"U=U\" means. Which response is accurate?",
+        "options": [
+          "\"Undetectable equals untransmittable — sustained viral suppression on treatment eliminates sexual transmission of HIV.\"",
+          "\"It means you no longer have HIV and can stop your medication.\"",
+          "\"It means your CD4 count is undetectable.\"",
+          "\"It means the virus is untreatable.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "U=U means that a person with sustained, undetectable HIV viral load on antiretroviral therapy does not transmit HIV sexually. This is a key, hope-giving teaching point that supports adherence.",
+          "U=U does not mean the person is cured; therapy must continue to maintain suppression.",
+          "U=U refers to viral load, not the CD4 count.",
+          "U=U reflects effective treatment, not that the virus is untreatable."
+        ]
+      },
+      {
+        "stem": "A client presents within days of a possible HIV exposure. The antibody test is negative, but the nurse remains concerned. Which understanding guides the next step?",
+        "options": [
+          "Antibody tests can be negative during acute infection, so an HIV RNA (viral load) test is used when suspicion is high",
+          "A negative antibody test always rules out HIV",
+          "No further testing is ever needed after a negative antibody test",
+          "The client cannot be infected because symptoms are absent"
+        ],
+        "answer": 0,
+        "explanations": [
+          "During the window period of acute infection, antibody tests can be negative; when suspicion is high, an HIV RNA (viral load) test detects the virus earlier. Recognizing the window period drives appropriate testing.",
+          "A negative antibody test does not rule out acute infection in the window period.",
+          "Further testing (viral load) is warranted when suspicion is high.",
+          "Absence of symptoms does not exclude infection; acute HIV can be asymptomatic."
+        ]
+      },
+      {
+        "stem": "A nurse is planning care for a person living with HIV whose CD4 count is 180 cells/µL. Which prophylaxis does the nurse anticipate?",
+        "options": [
+          "Prophylaxis against Pneumocystis jirovecii pneumonia (PJP), usually with trimethoprim-sulfamethoxazole",
+          "No prophylaxis is needed at this CD4 count",
+          "Live varicella vaccine to boost immunity",
+          "Immediate discontinuation of antiretroviral therapy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "At a CD4 count below 200 cells/µL, PJP prophylaxis (typically SMX/TMP) is started and continued until CD4 stays above 200 for at least 3 months on ART. Matching the CD4 threshold to prophylaxis is the point.",
+          "Below 200 CD4, prophylaxis is indicated, not withheld.",
+          "Live vaccines such as varicella are contraindicated at CD4 below 200.",
+          "Antiretroviral therapy is continued, not stopped."
+        ]
+      },
+      {
+        "stem": "A person living with HIV has a CD4 count of 150 cells/µL and needs vaccinations. Which vaccine is contraindicated?",
+        "options": [
+          "The live attenuated MMR (measles-mumps-rubella) vaccine",
+          "The inactivated influenza vaccine",
+          "The pneumococcal vaccine",
+          "The hepatitis B vaccine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Live vaccines such as MMR and varicella are contraindicated when CD4 is below 200 cells/µL; the live attenuated influenza vaccine (LAIV) is contraindicated at any CD4 count. Inactivated vaccines are given. Recognizing the CD4-based live-vaccine rule protects the client.",
+          "The inactivated influenza vaccine is appropriate (the live nasal spray is the one contraindicated).",
+          "The pneumococcal vaccine is recommended for people with HIV.",
+          "The hepatitis B vaccine is recommended, not contraindicated."
+        ]
+      },
+      {
+        "stem": "A client presents 48 hours after a high-risk sexual exposure to HIV with a partner of unknown status. Which intervention does the nurse anticipate?",
+        "options": [
+          "Post-exposure prophylaxis (PEP) with a three-drug antiretroviral regimen, started because it is within 72 hours",
+          "Waiting three months to test before any treatment",
+          "Starting lifelong antiretroviral therapy immediately as treatment for established HIV",
+          "No intervention, because exposure alone does not warrant treatment"
+        ],
+        "answer": 0,
+        "explanations": [
+          "PEP is indicated within 72 hours of a high-risk exposure and uses a three-drug antiretroviral regimen for up to 28 days, with follow-up testing. Acting within the 72-hour window is the take-action step.",
+          "Waiting three months forgoes the time-sensitive PEP window.",
+          "This is prophylaxis after exposure, not treatment for established infection.",
+          "A high-risk exposure within 72 hours does warrant PEP."
+        ]
+      },
+      {
+        "stem": "A nurse uses person-first, stigma-free language when caring for people living with HIV. Which phrase reflects this best?",
+        "options": [
+          "\"A person living with HIV\"",
+          "\"An HIV patient\"",
+          "\"An AIDS victim\"",
+          "\"An infected individual\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Person-first language (\"a person living with HIV\") reduces stigma, which remains a major barrier to care engagement and adherence. Choosing respectful language supports the therapeutic relationship.",
+          "\"HIV patient\" labels the person by the disease rather than using person-first language.",
+          "\"Victim\" is stigmatizing and disempowering.",
+          "\"Infected individual\" is depersonalizing."
+        ]
+      },
+      {
+        "stem": "A nurse is collecting specimens for STI testing. Which principle guides site-specific testing?",
+        "options": [
+          "Test all sites of exposure, because screening only urogenital sites misses many pharyngeal and rectal infections",
+          "Test only the urogenital site to save resources",
+          "Collect specimens without regard to the sexual history",
+          "Avoid self-collected swabs because they are unreliable"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Screening only urogenital sites misses a large share of pharyngeal and rectal infections, so all sites of exposure are tested, guided by the sexual history; validated self-collected swabs improve acceptability. Comprehensive, history-guided testing is the point.",
+          "Testing only the urogenital site misses many extragenital infections.",
+          "The sexual history should guide which sites are tested.",
+          "Self-collected vaginal, pharyngeal, and rectal swabs are validated and acceptable."
+        ]
+      },
+      {
+        "stem": "A nurse is providing HIV pre-exposure prophylaxis (PrEP) education. Which statement about PrEP is accurate?",
+        "options": [
+          "PrEP is taken by HIV-negative people at risk to prevent acquiring HIV, and options include daily oral and long-acting injectable forms",
+          "PrEP is a treatment for people already living with HIV",
+          "PrEP eliminates the need for any HIV testing",
+          "PrEP is a one-time vaccine"
+        ],
+        "answer": 0,
+        "explanations": [
+          "PrEP is used by HIV-negative people at risk to prevent acquisition; options include daily oral agents and long-acting injectables, with regular HIV testing required. Distinguishing prevention from treatment is the point.",
+          "PrEP is prevention for HIV-negative people, not treatment for those with HIV.",
+          "PrEP requires ongoing HIV testing, not its elimination.",
+          "PrEP is not a one-time vaccine; it is ongoing prophylaxis."
+        ]
+      },
+      {
+        "stem": "A nurse reviews HIV viral load goals with a client on antiretroviral therapy. Which result indicates the therapy is meeting its goal?",
+        "options": [
+          "An undetectable viral load (below 50 copies)",
+          "A viral load of 100,000 copies",
+          "A CD4 count of 100 cells/µL",
+          "A positive antibody test"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The goal of antiretroviral therapy is viral suppression to an undetectable level (below 50 copies), which also underpins U=U. Evaluating the viral load against this target is the outcome measure.",
+          "A viral load of 100,000 copies indicates uncontrolled infection.",
+          "A CD4 of 100 reflects immune status, not the viral load goal, and is low.",
+          "A positive antibody test confirms infection but does not measure suppression."
+        ]
+      },
+      {
+        "stem": "A client on antiretroviral therapy has a viral load \"blip\" of 150 copies/mL after being undetectable. What is the nurse's best action?",
+        "options": [
+          "Assess adherence and drug interactions and plan to recheck the viral load in 2 to 4 weeks",
+          "Immediately stop all antiretroviral therapy",
+          "Reassure the client that the medication has failed and switch regimens today",
+          "Tell the client no further monitoring is needed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A transient blip (up to about 200 copies/mL) prompts assessment of adherence and drug interactions with a recheck in 2 to 4 weeks, rather than abrupt changes. Responding proportionately is the point.",
+          "Stopping therapy risks loss of suppression and resistance.",
+          "A single blip does not confirm failure; premature switching is not warranted.",
+          "Continued monitoring is exactly what a blip requires."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching about doxyPEP for STI prevention. Which statement is accurate?",
+        "options": [
+          "It is a dose of doxycycline taken within 72 hours after a sexual exposure to reduce bacterial STIs such as syphilis and chlamydia in high-risk individuals",
+          "It is a daily lifelong HIV treatment",
+          "It prevents all viral STIs including HIV",
+          "It is taken several times per day indefinitely"
+        ],
+        "answer": 0,
+        "explanations": [
+          "DoxyPEP is doxycycline (200 mg) taken within 72 hours after sexual exposure, not more than once per day, to reduce acquisition of bacterial STIs (syphilis, chlamydia, some gonorrhea) in high-risk populations. Matching the drug and window is the point.",
+          "DoxyPEP is STI post-exposure prophylaxis, not HIV treatment.",
+          "It targets bacterial STIs, not viral STIs like HIV.",
+          "It is taken within 72 hours and not more than once per day, not several times daily indefinitely."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with mpox who has a rash progressing through macules, papules, vesicles, and pustules. Which statement about management is accurate?",
+        "options": [
+          "Supportive care (pain control, wound care, hydration) is first-line, and the JYNNEOS vaccine is used for prevention in high-risk populations",
+          "A specific FDA-approved antiviral cures all cases within 24 hours",
+          "The rash is diagnosed by a routine throat culture",
+          "No isolation or precautions are needed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Mpox management is supportive (pain control, wound care, hydration), with JYNNEOS vaccine for prevention in high-risk groups; diagnosis is by PCR of lesion material. Recognizing the supportive, preventive approach is the point.",
+          "There is no FDA-approved curative antiviral that resolves mpox in 24 hours; tecovirimat is available for severe disease via expanded access.",
+          "Diagnosis is by PCR of a lesion swab, not a throat culture.",
+          "Precautions are needed given transmission by close skin-to-skin contact."
+        ]
+      },
+      {
+        "stem": "A nurse reviews reportable sexually transmitted infections. Which infection is nationally reportable in all states?",
+        "options": [
+          "Syphilis",
+          "Bacterial vaginosis",
+          "A yeast infection (candidiasis)",
+          "A urinary tract infection"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Nationally reportable STIs include syphilis (including congenital), gonorrhea, chlamydia, chancroid, and HIV; reports are kept confidential. Recognizing which conditions require reporting supports public health duties.",
+          "Bacterial vaginosis is not a nationally reportable STI.",
+          "Candidiasis is not a reportable STI.",
+          "A urinary tract infection is not a reportable STI."
+        ]
+      },
+      {
+        "stem": "A nurse is taking a sexual history using the 5 P's framework. Which topics are included?",
+        "options": [
+          "Partners, practices, past history of STDs, protection from STDs, and pregnancy plans",
+          "Only the number of lifetime partners",
+          "Financial history and employment",
+          "Family medical history only"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The 5 P's are Partners, Practices, Past history of STDs, Protection from STDs, and Pregnancy plans, taken from all adolescent and adult patients regardless of identity. Knowing the framework guides a complete, nonjudgmental history.",
+          "The framework covers five domains, not only the number of partners.",
+          "Financial and employment history are not the 5 P's.",
+          "Family medical history alone is not the sexual-history framework."
+        ]
+      },
+      {
+        "stem": "A nurse is planning HIV-specific monitoring for a newly diagnosed client starting antiretroviral therapy. Which laboratory tests does the nurse anticipate at baseline?",
+        "options": [
+          "HIV RNA (viral load) and CD4 count, along with a resistance genotype",
+          "Only a complete blood count",
+          "A single antibody test with no further monitoring",
+          "A 24-hour urine cortisol"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Baseline HIV assessment includes HIV RNA (viral load) and CD4 count, plus baseline genotype resistance testing (and screening labs such as hepatitis serologies and HLA-B*5701 if abacavir is considered). Matching monitoring to HIV care is the point.",
+          "A CBC alone is insufficient for HIV baseline monitoring.",
+          "A single antibody test with no monitoring does not guide therapy.",
+          "A 24-hour urine cortisol is unrelated to HIV monitoring."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client living with HIV and reviewing comorbidity management. Which statement reflects the taught approach?",
+        "options": [
+          "HIV is a chronic inflammatory condition and an independent cardiovascular risk factor, so cardiovascular, kidney, bone, and metabolic health are actively managed",
+          "People with HIV have no increased risk of other chronic diseases",
+          "Bone health is not a concern in HIV",
+          "Kidney function does not need monitoring on antiretroviral therapy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "HIV is a chronic inflammatory condition and an independent cardiovascular risk factor, so comprehensive primary care manages cardiovascular, metabolic, renal, and bone health across the lifespan. Recognizing HIV as a chronic disease guides holistic care.",
+          "People with HIV have higher risks of several chronic conditions, not none.",
+          "Bone health is a concern; osteoporosis risk is higher, and DEXA is recommended for certain groups.",
+          "Kidney function is monitored, especially with tenofovir-based regimens."
+        ]
+      },
+      {
+        "stem": "A nurse is providing STI screening for a person living with HIV. Which screening approach is appropriate?",
+        "options": [
+          "Screen for syphilis, gonorrhea, and chlamydia at all exposed sites at least annually, and more often if at higher risk",
+          "Screen only if the client reports symptoms",
+          "Screen the urogenital site only",
+          "Avoid STI screening to reduce cost"
+        ],
+        "answer": 0,
+        "explanations": [
+          "People living with HIV are screened for syphilis at least annually and for gonorrhea/chlamydia by NAAT at all exposed sites (rectal, pharyngeal, vaginal, urethral) at least annually, more often if at higher risk. Site-inclusive, routine screening is the point.",
+          "Screening is routine, not only symptom-driven, given frequent asymptomatic infection.",
+          "All exposed sites are screened, not only the urogenital site.",
+          "STI screening is a recommended part of HIV primary care."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with newly diagnosed genital herpes simplex virus type 2. Which statement is accurate?",
+        "options": [
+          "Outbreaks can recur, especially during times of stress, and many people are asymptomatic between outbreaks",
+          "A single course of antivirals cures the virus permanently",
+          "It can only be transmitted when visible sores are present in every case",
+          "It is a nationally reportable infection in all states"
+        ],
+        "answer": 0,
+        "explanations": [
+          "HSV establishes lifelong infection with recurrences (often triggered by stress) and frequent asymptomatic periods; antivirals manage but do not cure it. Setting accurate expectations supports coping and prevention.",
+          "Antivirals control outbreaks but do not cure HSV.",
+          "HSV can shed and transmit even without visible lesions.",
+          "HSV is not among the nationally reportable STIs listed (syphilis, gonorrhea, chlamydia, chancroid, HIV)."
+        ]
+      },
+      {
+        "stem": "A nurse is reconstituting intramuscular ceftriaxone for a client with gonorrhea and wants to reduce injection-site pain. Which diluent does the nurse anticipate using?",
+        "options": [
+          "1% lidocaine without epinephrine",
+          "Sterile water only, because lidocaine alters the drug",
+          "1% lidocaine with epinephrine",
+          "Normal saline with added potassium"
+        ],
+        "answer": 0,
+        "explanations": [
+          "IM ceftriaxone can be reconstituted with 1% lidocaine (without epinephrine) to significantly reduce injection-site pain without altering the drug's pharmacokinetics. Choosing the correct diluent improves comfort safely.",
+          "Lidocaine does not alter ceftriaxone's efficacy and reduces pain versus sterile water.",
+          "Epinephrine is not used in this reconstitution.",
+          "Potassium additive is not appropriate and is unsafe for IM reconstitution."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing sexually transmitted infections that are nationally reportable. Which are reportable in all states? Select all that apply.",
+        "options": [
+          "Syphilis",
+          "Gonorrhea",
+          "Chlamydia",
+          "Bacterial vaginosis",
+          "HIV"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—syphilis, including congenital syphilis, is reportable.",
+          "Correct—gonorrhea is reportable.",
+          "Correct—chlamydia is reportable.",
+          "Incorrect—bacterial vaginosis is not a nationally reportable STI.",
+          "Correct—HIV is reportable."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A person living with HIV has a CD4 count of 160 cells/µL and needs immunizations. Which vaccines are contraindicated at this time? Select all that apply.",
+        "options": [
+          "MMR (measles-mumps-rubella) live vaccine",
+          "Live attenuated varicella vaccine",
+          "Live attenuated influenza vaccine (nasal spray)",
+          "Inactivated influenza vaccine",
+          "Pneumococcal vaccine"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—live MMR is contraindicated at CD4 below 200.",
+          "Correct—live varicella is contraindicated at CD4 below 200.",
+          "Correct—the live nasal-spray influenza vaccine is contraindicated at any CD4 count.",
+          "Incorrect—the inactivated influenza vaccine is appropriate.",
+          "Incorrect—the pneumococcal vaccine is recommended, not contraindicated."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is caring for a client being treated for syphilis who develops the Jarisch-Herxheimer reaction. Which nursing actions are appropriate? Select all that apply.",
+        "options": [
+          "Educate the client before treatment that this reaction may occur",
+          "Continue the penicillin",
+          "Manage symptoms with antipyretics and supportive care",
+          "Administer epinephrine because it is an allergic reaction",
+          "In a pregnant client, monitor for preterm labor but do not delay treatment"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—educating the client beforehand prepares them for the reaction.",
+          "Correct—the penicillin is continued, not stopped.",
+          "Correct—antipyretics and supportive care manage the symptoms.",
+          "Incorrect—it is not an allergic reaction, so epinephrine is not indicated.",
+          "Correct—in pregnancy, monitor for preterm labor/fetal distress but do not delay treatment."
+        ],
+        "type": "sata"
+      }
+    ],
+    "msfinal-musculoskeletal": [
+      {
+        "stem": "A nurse is conducting a community osteoporosis screening. Which client should the nurse identify as having the highest risk?",
+        "options": [
+          "A 68-year-old thin White woman who smokes cigarettes",
+          "A 45-year-old man with a history of high-impact sports injuries",
+          "A 70-year-old man who performs weight-bearing exercise daily",
+          "A 50-year-old woman who takes calcium and vitamin D supplements"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Osteoporosis risk factors include advancing age (over 65), female sex, low body weight, White or Asian ethnicity, and smoking — this client has four. Recognizing stacked risk factors identifies who needs screening.",
+          "A younger man with sports injuries lacks the stacked osteoporosis risk factors.",
+          "Weight-bearing exercise is protective, and this client is male with fewer risks.",
+          "Calcium and vitamin D supplementation is protective, and this client is younger."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client which test is the gold standard for diagnosing osteoporosis and monitoring treatment. Which test does the nurse identify?",
+        "options": [
+          "Dual-energy X-ray absorptiometry (DEXA)",
+          "A serum calcium level",
+          "A plain X-ray of the spine",
+          "A complete blood count"
+        ],
+        "answer": 0,
+        "explanations": [
+          "DEXA is the gold standard for measuring bone density, diagnosing osteoporosis, and monitoring treatment effectiveness over time; there is no definitive blood test. Matching the tool to its purpose is the point.",
+          "Serum calcium is used to rule out other metabolic bone disease, not to diagnose osteoporosis.",
+          "A plain X-ray detects fractures but is not the gold standard for bone density.",
+          "A CBC does not diagnose osteoporosis."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client newly prescribed alendronate for osteoporosis. Which instruction is most important?",
+        "options": [
+          "Take it first thing in the morning on an empty stomach with a full glass of water and remain upright for 30 minutes",
+          "Take it at bedtime with a snack",
+          "Lie down for 30 minutes after taking it",
+          "Take it with calcium to improve absorption"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Bisphosphonates can cause esophagitis, so alendronate is taken on an empty stomach with a full glass of water, and the client stays upright for 30 minutes. This teaching prevents the key complication.",
+          "Taking it at bedtime with food impairs absorption and allows lying down, raising esophagitis risk.",
+          "Lying down increases esophageal irritation risk.",
+          "Calcium taken with the bisphosphonate impairs its absorption."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client to take a calcium supplement for osteoporosis. Which instruction reflects correct dosing?",
+        "options": [
+          "Split doses because calcium is poorly absorbed at amounts greater than 500 mg",
+          "Take the entire daily dose at once for convenience",
+          "Take calcium only with the bisphosphonate",
+          "Avoid vitamin D because it blocks calcium absorption"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Calcium absorption is limited above about 500 mg per dose, so larger daily amounts are split. Vitamin D enhances absorption, and calcium is separated from bisphosphonates. Correct dosing optimizes benefit.",
+          "A large single dose exceeds absorption capacity; splitting improves uptake.",
+          "Calcium is separated from the bisphosphonate, not taken with it.",
+          "Vitamin D enhances, not blocks, calcium absorption."
+        ]
+      },
+      {
+        "stem": "A nurse reviews osteoporosis medications. Which statement about denosumab (Prolia) is accurate?",
+        "options": [
+          "It is a monoclonal antibody that inhibits osteoclast formation, decreasing bone resorption",
+          "It forms new osteoblasts to build bone",
+          "It is a bisphosphonate taken weekly on an empty stomach",
+          "It increases bone resorption to remodel bone"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Denosumab is a monoclonal antibody that inhibits osteoclast formation, reducing bone resorption. Distinguishing its mechanism from teriparatide (which builds bone via osteoblasts) and bisphosphonates is the point.",
+          "Building bone via osteoblasts describes teriparatide, not denosumab.",
+          "Denosumab is a monoclonal antibody injection, not an oral bisphosphonate.",
+          "It decreases, not increases, bone resorption."
+        ]
+      },
+      {
+        "stem": "A client reports chronic joint pain with morning stiffness that consistently resolves within about 20 to 30 minutes, along with bony enlargement of the finger joints. Which condition is most likely?",
+        "options": [
+          "Osteoarthritis",
+          "Rheumatoid arthritis",
+          "Systemic lupus erythematosus",
+          "Gout"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Morning stiffness that resolves within about 30 minutes, with Heberden's and Bouchard's nodes and no systemic symptoms, is characteristic of osteoarthritis — the single biggest discriminator from RA (whose stiffness lasts an hour or more). Recognizing the stiffness duration is the cue.",
+          "RA stiffness lasts 60 minutes to several hours with systemic symptoms and symmetric small-joint involvement.",
+          "Lupus causes systemic autoimmune features, not this localized degenerative pattern.",
+          "Gout causes acute, intensely painful monoarticular attacks, not this chronic stiffness pattern."
+        ]
+      },
+      {
+        "stem": "A nurse is differentiating osteoarthritis from rheumatoid arthritis. Which finding points specifically to rheumatoid arthritis?",
+        "options": [
+          "Symmetric small-joint involvement with morning stiffness lasting more than an hour and systemic symptoms",
+          "Morning stiffness that resolves in under 30 minutes",
+          "Heberden's and Bouchard's nodes with no systemic symptoms",
+          "Joint changes limited to weight-bearing joints from wear and tear"
+        ],
+        "answer": 0,
+        "explanations": [
+          "RA is a systemic autoimmune disease with symmetric small-joint involvement, prolonged morning stiffness (an hour or more), and systemic symptoms; OA is a noninflammatory, wear-and-tear disorder. Matching the distinguishing features is the point.",
+          "Stiffness resolving in under 30 minutes is characteristic of OA.",
+          "Heberden's and Bouchard's nodes without systemic symptoms are OA findings.",
+          "Weight-bearing joint wear describes OA, not RA."
+        ]
+      },
+      {
+        "stem": "A nurse is developing a teaching plan for a client with rheumatoid arthritis to help manage joint stiffness and preserve function. Which instruction is appropriate?",
+        "options": [
+          "Take a warm shower or bath in the morning to decrease joint stiffness",
+          "Apply ice packs to stiff joints for 30 minutes every morning before activity",
+          "Perform high-impact aerobic exercises daily to maintain range of motion",
+          "Limit the use of assistive devices to prevent dependence"
+        ],
+        "answer": 0,
+        "explanations": [
+          "For RA, heat (a warm morning shower or bath) loosens stiff joints, and therapeutic exercise plus joint protection with assistive devices preserves function. Matching the intervention to inflamed joints is the point.",
+          "Ice does not relieve the prolonged morning stiffness the way warmth does for RA.",
+          "High-impact exercise can damage inflamed joints; therapeutic, low-impact exercise is recommended.",
+          "Assistive devices protect joints and are encouraged, not limited."
+        ]
+      },
+      {
+        "stem": "A nurse reviews disease-modifying therapy for rheumatoid arthritis. Which statement is accurate?",
+        "options": [
+          "Disease-modifying antirheumatic drugs (DMARDs) such as methotrexate are the backbone of therapy, with corticosteroids used as a short-term bridge",
+          "NSAIDs alone are the definitive long-term treatment",
+          "Corticosteroids are used indefinitely as the primary therapy",
+          "DMARDs are avoided because RA is not autoimmune"
+        ],
+        "answer": 0,
+        "explanations": [
+          "DMARDs (nonbiologic such as methotrexate and biologics such as rituximab) are the backbone of RA therapy, aiming for remission, while NSAIDs and corticosteroids provide short-term symptom control and bridging. Understanding the treatment hierarchy is the point.",
+          "NSAIDs relieve symptoms but do not modify the disease long-term.",
+          "Corticosteroids are a short-term bridge, not indefinite primary therapy.",
+          "RA is autoimmune, and DMARDs are central to its treatment."
+        ]
+      },
+      {
+        "stem": "A nurse is performing an admission assessment on a client with acute low back pain. Which finding should the nurse prioritize for immediate notification of the provider?",
+        "options": [
+          "New-onset urinary incontinence with numbness in the perineal area (saddle anesthesia)",
+          "Pain that radiates down the back of one leg when sitting",
+          "A sharp, shooting sensation during a straight-leg-raise test",
+          "Pain that began after lifting a heavy box using the back instead of the legs"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Saddle anesthesia with new bowel or bladder changes signals cauda equina syndrome, a surgical emergency requiring immediate provider notification. Recognizing this red flag is the priority.",
+          "Radiating leg pain is an expected radicular symptom, not the emergency.",
+          "A positive straight-leg raise suggests radiculopathy but is not the cauda equina emergency.",
+          "Pain after improper lifting suggests a common lumbar strain, the most frequent cause of low back pain."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with acute low back pain and no red-flag findings. Which approach reflects appropriate management?",
+        "options": [
+          "Reassure the client, encourage activity as tolerated, and use short-term NSAIDs or muscle relaxants",
+          "Recommend strict, prolonged bed rest until all pain resolves",
+          "Order immediate spinal surgery",
+          "Advise the client to avoid all movement for several weeks"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Nonspecific low back pain is managed with reassurance, staying active as tolerated, physical therapy, and short-term medications (NSAIDs, muscle relaxants). Prolonged bed rest and immobility are discouraged.",
+          "Prolonged bed rest worsens outcomes; activity as tolerated is recommended.",
+          "Surgery is not indicated for uncomplicated, nonspecific low back pain.",
+          "Avoiding all movement for weeks delays recovery."
+        ]
+      },
+      {
+        "stem": "A nurse reviews the pathophysiology of osteoporosis. Which statement is accurate?",
+        "options": [
+          "Osteoclastic activity exceeds osteoblastic activity, so bone becomes porous, brittle, and prone to fragility fractures",
+          "Osteoblastic activity exceeds osteoclastic activity, making bones denser",
+          "It is an inflammatory autoimmune destruction of the joints",
+          "It results from excess vitamin D causing bone overgrowth"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In osteoporosis, bone breakdown (osteoclastic activity) outpaces bone building (osteoblastic activity), producing porous, brittle bone that fractures easily, especially the spine, hip, and wrist. Understanding the imbalance is the point.",
+          "If building exceeded breakdown, bone would strengthen, not weaken.",
+          "Autoimmune joint destruction describes rheumatoid arthritis, not osteoporosis.",
+          "Osteoporosis reflects bone loss, not vitamin D excess causing overgrowth."
+        ]
+      },
+      {
+        "stem": "A nurse is assessing an older client for physical signs of osteoporosis. Which finding does the nurse expect?",
+        "options": [
+          "Loss of height and a \"dowager's hump\" (kyphosis)",
+          "Symmetric swelling of the small joints of the hands",
+          "A malar (butterfly) rash across the cheeks",
+          "Warm, red, swollen joints with fever"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Osteoporosis presents with loss of height and a dowager's hump from vertebral compression fractures, along with back pain and fragility fractures; the nurse also assesses fear of falling. Recognizing these signs guides care.",
+          "Symmetric small-joint swelling suggests rheumatoid arthritis.",
+          "A malar rash suggests lupus, not osteoporosis.",
+          "Warm, red, swollen joints with fever suggest an inflammatory or infectious arthritis."
+        ]
+      },
+      {
+        "stem": "A nurse reviews USPSTF osteoporosis screening recommendations. Which client should be screened based on age alone?",
+        "options": [
+          "A woman 65 years or older",
+          "A man 50 years or older with no risk factors",
+          "A 40-year-old woman with no risk factors",
+          "A 30-year-old man"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The USPSTF recommends osteoporosis screening for women 65 and older (and for younger postmenopausal women at increased risk); evidence is insufficient to recommend routine screening in men. Matching the recommendation to the client is the point.",
+          "Evidence is insufficient to recommend routine screening in men.",
+          "A 40-year-old woman without risk factors is not screened by age alone.",
+          "A 30-year-old man is not a routine screening candidate."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with osteoporosis about lifestyle measures. Which recommendation is appropriate?",
+        "options": [
+          "Perform weight-bearing exercise and get adequate calcium and vitamin D, while avoiding smoking and excess alcohol",
+          "Avoid all exercise to prevent fractures",
+          "Increase alcohol intake to strengthen bones",
+          "Avoid sunlight entirely"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Osteoporosis prevention includes weight-bearing exercise, adequate calcium (1000-1200 mg/day) and vitamin D (800 IU/day), sunlight exposure, and avoiding smoking and excess alcohol. Targeting modifiable factors strengthens bone.",
+          "Weight-bearing exercise strengthens bone; avoiding all exercise is counterproductive.",
+          "Excess alcohol is a risk factor, not a strengthening measure.",
+          "Some sunlight supports vitamin D; total avoidance is not recommended."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client after a total knee arthroplasty. Which postoperative complication does the nurse prioritize preventing?",
+        "options": [
+          "Thromboembolic complications such as deep vein thrombosis",
+          "Hyperthyroidism",
+          "Hypoglycemia from the surgery",
+          "Tardive dyskinesia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "After total joint arthroplasty, key postoperative risks include dislocation, infection, and thromboembolism (DVT/PE), so prevention of clots (plus assessment of bleeding and anemia) is prioritized. Anticipating these complications guides care.",
+          "Hyperthyroidism is not a joint-surgery complication.",
+          "Hypoglycemia is not the priority arthroplasty complication.",
+          "Tardive dyskinesia relates to dopamine-blocking drugs, not joint surgery."
+        ]
+      },
+      {
+        "stem": "A nurse reviews management of osteoarthritis. Which nonpharmacologic measure is appropriate?",
+        "options": [
+          "Aerobic and resistance exercise, weight loss if indicated, and heat and cold therapy",
+          "Strict immobilization of affected joints",
+          "High-impact running to rebuild cartilage",
+          "Complete bed rest until pain resolves"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Nonpharmacologic OA management includes exercise (aerobic and resistance), weight loss if indicated, PT/OT with assistive devices, and heat/cold therapy. Movement preserves range of motion and reduces disability.",
+          "Immobilization worsens stiffness and function in OA.",
+          "High-impact running can worsen joint damage rather than rebuild cartilage.",
+          "Bed rest deconditions and does not improve OA."
+        ]
+      },
+      {
+        "stem": "A nurse reviews laboratory findings for a client with suspected rheumatoid arthritis. Which results support this diagnosis?",
+        "options": [
+          "Positive rheumatoid factor and anti-CCP antibodies with elevated CRP and ESR",
+          "Normal inflammatory markers and no autoantibodies",
+          "Elevated serum calcium and low phosphate",
+          "A positive PSA and Gleason score"
+        ],
+        "answer": 0,
+        "explanations": [
+          "RA is supported by positive rheumatoid factor and anti-CCP antibodies with elevated inflammatory markers (CRP, ESR); OA has no such diagnostic labs. Matching the serology to RA is the point.",
+          "Normal markers and absent autoantibodies argue against active RA.",
+          "Calcium and phosphate abnormalities relate to parathyroid/bone metabolism, not RA.",
+          "PSA and Gleason score relate to prostate cancer, not RA."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client with rheumatoid arthritis. Which hand finding is characteristic of RA rather than osteoarthritis?",
+        "options": [
+          "Ulnar drift (\"zig-zag deformity\") and swan-neck deformities",
+          "Heberden's nodes at the distal finger joints",
+          "Bouchard's nodes at the proximal finger joints",
+          "Bony enlargement from wear and tear"
+        ],
+        "answer": 0,
+        "explanations": [
+          "RA causes characteristic deformities such as ulnar drift, swan-neck, and boutonnière from synovial inflammation, whereas Heberden's and Bouchard's nodes are OA findings. Distinguishing the deformities is the point.",
+          "Heberden's nodes are an OA finding at the distal joints.",
+          "Bouchard's nodes are an OA finding at the proximal joints.",
+          "Bony enlargement from wear and tear is characteristic of OA."
+        ]
+      },
+      {
+        "stem": "A nurse is assessing a client with low back pain for red-flag features suggesting malignancy. Which finding is a red flag?",
+        "options": [
+          "A history of breast, lung, or prostate cancer with persistent night pain and unintentional weight loss",
+          "Pain that improves with rest and worsens with activity",
+          "Pain that began after shoveling snow",
+          "Mild stiffness that eases with a warm shower"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Red flags for malignancy in low back pain include a prior history of cancer (especially breast, lung, or prostate), age over 50, persistent bone or night pain, unintentional weight loss, and failure to improve with therapy. Recognizing these prompts urgent evaluation.",
+          "Mechanical pain that improves with rest is typical of benign musculoskeletal causes.",
+          "Pain after exertion suggests a mechanical strain, not malignancy.",
+          "Stiffness relieved by warmth is not a malignancy red flag."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client about a bisphosphonate drug holiday. Which statement is accurate?",
+        "options": [
+          "A drug holiday may be considered after about 5 years of therapy",
+          "Bisphosphonates should never be stopped once started",
+          "A drug holiday is taken every 6 months routinely",
+          "A drug holiday means doubling the dose periodically"
+        ],
+        "answer": 0,
+        "explanations": [
+          "After about 5 years of bisphosphonate therapy, a drug holiday may be considered to balance benefit against rare risks such as atypical femur fractures and osteonecrosis of the jaw. Knowing this timeframe guides teaching.",
+          "Bisphosphonates can be reassessed for a holiday, not necessarily continued indefinitely.",
+          "A holiday is not a routine every-6-month event.",
+          "A drug holiday is a planned pause, not a dose increase."
+        ]
+      },
+      {
+        "stem": "A nurse reviews the pathophysiology of osteoarthritis. Which statement is accurate?",
+        "options": [
+          "It is a noninflammatory degenerative disorder with progressive cartilage loss and osteophyte (bone spur) formation",
+          "It is a systemic autoimmune disease attacking the synovium",
+          "It is caused by autoantibodies against cyclic citrullinated peptides",
+          "It primarily affects the small joints symmetrically with systemic symptoms"
+        ],
+        "answer": 0,
+        "explanations": [
+          "OA is a noninflammatory degenerative joint disorder with progressive cartilage loss and osteophyte formation, mainly in weight-bearing joints. Distinguishing it from the autoimmune, systemic picture of RA is the point.",
+          "Systemic autoimmune synovial attack describes RA, not OA.",
+          "Anti-CCP autoantibodies are an RA feature.",
+          "Symmetric small-joint involvement with systemic symptoms is RA, not OA."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client with low back pain about short-term self-care. Which instruction reflects the deck's guidance?",
+        "options": [
+          "Apply an ice pack wrapped in a towel, or moist heat for about 20 minutes, several times a day, and stay active as tolerated",
+          "Maintain strict bed rest for two weeks",
+          "Apply heat directly to bare skin for an hour at a time",
+          "Avoid any physical therapy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Short-term low back pain self-care includes an ice pack wrapped in a towel or moist heat for about 20 minutes several times daily, staying active as tolerated, and starting physical therapy. These measures relieve pain without prolonged immobility.",
+          "Strict two-week bed rest is discouraged; activity as tolerated is recommended.",
+          "Heat is applied with a barrier for about 20 minutes, not directly to bare skin for an hour.",
+          "Physical therapy is part of management, not avoided."
+        ]
+      },
+      {
+        "stem": "A nurse explains why osteoporosis is more common in females. Which statement is accurate?",
+        "options": [
+          "Bone resorption begins earlier and accelerates at menopause with estrogen loss, and females tend to have lower bone mass and calcium intake",
+          "Females have higher testosterone levels that weaken bone",
+          "Females always have higher calcium intake than males",
+          "Menopause increases bone density"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Females are more prone to osteoporosis because bone resorption begins earlier and accelerates at menopause with estrogen loss, and they tend to have lower peak bone mass and calcium intake. Understanding the hormonal basis is the point.",
+          "Higher testosterone is not the reason; estrogen loss is the driver in females.",
+          "Females tend to have lower, not higher, lifelong calcium intake than males.",
+          "Menopause accelerates bone loss, it does not increase density."
+        ]
+      },
+      {
+        "stem": "A nurse reviews physical activity recommendations for a client with osteoporosis. Which recommendation is appropriate?",
+        "options": [
+          "At least 150 minutes per week of moderate aerobic activity plus muscle-strengthening at least 2 days per week",
+          "No structured activity to avoid fractures",
+          "Only high-impact contact sports",
+          "Bed rest with passive range of motion only"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Recommended activity includes at least 150 minutes per week of moderate aerobic activity plus muscle-strengthening on at least 2 days per week to promote bone strengthening. Weight-bearing and resistance activity build bone.",
+          "Avoiding all activity weakens bone; appropriate exercise strengthens it.",
+          "High-impact contact sports are not the recommended approach for fragile bone.",
+          "Bed rest with only passive motion promotes bone loss."
+        ]
+      },
+      {
+        "stem": "A nurse reviews osteoporosis medications and their mechanisms. Which pairing is correct?",
+        "options": [
+          "Teriparatide forms osteoblasts to build bone, while bisphosphonates inhibit osteoclast-mediated resorption",
+          "Bisphosphonates build new bone, while teriparatide dissolves bone",
+          "Raloxifene increases the risk of osteoporosis",
+          "Denosumab stimulates osteoclasts to remodel bone"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Teriparatide is an anabolic agent that forms osteoblasts to build bone, whereas bisphosphonates are antiresorptive, inhibiting osteoclast-mediated resorption. Matching each drug to its mechanism is the point.",
+          "This reverses the mechanisms; bisphosphonates inhibit resorption, and teriparatide builds bone.",
+          "Raloxifene is used to treat osteoporosis, not increase its risk.",
+          "Denosumab inhibits, not stimulates, osteoclast formation."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client taking raloxifene for osteoporosis. Which adverse effect should the nurse teach the client to monitor for?",
+        "options": [
+          "Signs of deep vein thrombosis, such as calf pain and swelling",
+          "Severe hypoglycemia",
+          "Hyperthyroidism",
+          "Acute kidney stones"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Raloxifene, an estrogen agonist/antagonist, increases the risk of venous thromboembolism, so the client watches for DVT signs (and LFTs are monitored). Anticipating this risk protects the client.",
+          "Raloxifene is not associated with severe hypoglycemia.",
+          "It does not cause hyperthyroidism.",
+          "Kidney stones are not the characteristic raloxifene concern."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about modifiable and non-modifiable risk factors for osteoporosis. Which are recognized risk factors? Select all that apply.",
+        "options": [
+          "Advancing age over 65",
+          "Long-term corticosteroid use",
+          "Cigarette smoking",
+          "A diet low in calcium and vitamin D",
+          "Regular weight-bearing exercise"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—advancing age is a major risk factor.",
+          "Correct—corticosteroids longer than 3 months increase bone loss.",
+          "Correct—smoking is a recognized risk factor.",
+          "Correct—low calcium and vitamin D intake weakens bone.",
+          "Incorrect—weight-bearing exercise strengthens bone and is protective."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse assesses a client with acute low back pain for red-flag conditions. Which findings warrant urgent provider notification? Select all that apply.",
+        "options": [
+          "Saddle anesthesia with new bowel or bladder dysfunction",
+          "Fever with recent infection and pain at rest",
+          "A prior history of prostate cancer with night pain and weight loss",
+          "Muscle stiffness relieved by a warm shower",
+          "Progressive lower-extremity weakness"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—saddle anesthesia with bowel/bladder changes signals cauda equina, an emergency.",
+          "Correct—fever with recent infection and rest pain suggests spinal infection.",
+          "Correct—prior cancer with night pain and weight loss suggests malignancy.",
+          "Incorrect—stiffness relieved by warmth is a benign mechanical feature, not a red flag.",
+          "Correct—progressive weakness is a neurologic red flag."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse compares osteoarthritis and rheumatoid arthritis. Which findings are characteristic of rheumatoid arthritis? Select all that apply.",
+        "options": [
+          "Symmetric involvement of small joints",
+          "Morning stiffness lasting 60 minutes to several hours",
+          "Systemic signs and symptoms",
+          "Morning stiffness that resolves within 30 minutes",
+          "Positive rheumatoid factor and anti-CCP antibodies"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—RA characteristically affects small joints symmetrically.",
+          "Correct—RA morning stiffness lasts 60 minutes to several hours.",
+          "Correct—RA produces systemic signs and symptoms.",
+          "Incorrect—stiffness resolving within 30 minutes is an osteoarthritis feature.",
+          "Correct—RF and anti-CCP antibodies support RA."
+        ],
+        "type": "sata"
+      }
+    ],
+    "msfinal-dermatology": [
+      {
+        "stem": "A nurse is assessing a client with deeply pigmented skin for possible cellulitis. Which finding best indicates erythema (inflammation) in darker skin tones?",
+        "options": [
+          "A dusky, violaceous, or dark-brown area that can be compared to the opposite limb",
+          "A bright, cherry-red area",
+          "A silvery scale over the affected area",
+          "A hypopigmented patch with sharp borders"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In darker skin tones, erythema does not appear red; it manifests as violaceous, dusky, grey, or dark-brown discoloration, confirmed with blanching and contralateral comparison. Assessing morphology over color is the single most important concept.",
+          "Bright red is how erythema appears in lighter skin; darker skin shows dusky or violaceous hues.",
+          "Silvery scale suggests psoriasis, not the color change of inflammation.",
+          "A hypopigmented patch is a pigment change, not the erythema of acute inflammation."
+        ]
+      },
+      {
+        "stem": "A nurse is documenting skin lesions and needs to distinguish a macule from a papule. Which description is correct?",
+        "options": [
+          "A macule is a flat area of discoloration less than 1 cm; a papule is a solid, elevated lesion 0.5 cm or smaller",
+          "A macule is elevated and solid; a papule is flat",
+          "A macule is a fluid-filled blister; a papule contains pus",
+          "Both are fluid-filled lesions larger than 1 cm"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A macule is a flat discoloration under 1 cm, while a papule is a superficial solid elevated lesion 0.5 cm or smaller. Size and whether the lesion is flat or elevated are the key discriminators.",
+          "This reverses the definitions; the macule is flat and the papule is elevated.",
+          "Fluid-filled and pus-filled describe vesicles/bullae and pustules, not macules and papules.",
+          "Macules and papules are not fluid-filled; a bulla is a fluid lesion over 1 cm."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client with a break in the skin who now has a tender, warm, erythematous, well-demarcated area with a red streak tracking up the arm and fever. Which condition is most likely, and what is the priority nursing assessment?",
+        "options": [
+          "Cellulitis — monitor vital signs and assess for increasing size of the area or worsening pain",
+          "Contact dermatitis — remove the offending allergen",
+          "Tinea — apply a topical antifungal",
+          "Psoriasis — apply a topical steroid"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Cellulitis (usually group A strep or S. aureus after a skin break) causes a tender, warm, well-demarcated area with possible lymphatic streaking and fever; the nurse monitors vital signs and watches for spreading or worsening pain. Recognizing spread and systemic signs guides care.",
+          "Contact dermatitis follows an allergen exposure and lacks the systemic fever and lymphatic streaking.",
+          "Tinea is a fungal infection with scaling, not this acute bacterial picture.",
+          "Psoriasis presents with scaly plaques, not acute erythema with fever and streaking."
+        ]
+      },
+      {
+        "stem": "A parent asks when a child with impetigo who was started on oral antibiotics can return to school. Which response is correct?",
+        "options": [
+          "\"After 24 hours of oral antibiotic treatment.\"",
+          "\"After 48 hours of oral antibiotic treatment.\"",
+          "\"Only after the lesions have completely healed.\"",
+          "\"Immediately, since impetigo is not contagious.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "Impetigo is no longer contagious after 24 hours on oral antibiotics (or 48 hours on topical). Knowing the contagion timeframe by route is the point.",
+          "The 48-hour rule applies to topical treatment, not oral.",
+          "Complete healing is not required to be non-contagious once treated.",
+          "Untreated impetigo remains contagious; treatment is needed."
+        ]
+      },
+      {
+        "stem": "Before applying antibiotic ointment to impetigo lesions, the nurse removes the crusts. What is the rationale?",
+        "options": [
+          "The bacteria live in the crust, so the ointment must contact the skin to be effective",
+          "Crust removal prevents scarring",
+          "Crusts prevent the lesion from being cultured",
+          "Crust removal reduces pain during application"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In impetigo, bacteria reside in the crust, so crusts are removed to allow the antibiotic ointment to reach and act on the skin. Understanding this rationale guides correct technique.",
+          "Crust removal is about drug contact, not primarily scar prevention.",
+          "The rationale is drug efficacy, not culturing.",
+          "Reducing pain is not the stated rationale for removing crusts."
+        ]
+      },
+      {
+        "stem": "A client with strep impetigo asks why finishing the full course of antibiotics matters. The nurse explains that incomplete treatment of strep impetigo may lead to which complication?",
+        "options": [
+          "Kidney problems (post-streptococcal glomerulonephritis)",
+          "Postherpetic neuralgia",
+          "Psoriatic arthritis",
+          "Onychomycosis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Streptococcal impetigo can lead to kidney complications (post-streptococcal glomerulonephritis), so completing the antibiotic course matters. Linking the organism to its complication is the point.",
+          "Postherpetic neuralgia follows shingles, not strep impetigo.",
+          "Psoriatic arthritis relates to psoriasis, not strep impetigo.",
+          "Onychomycosis is a fungal nail infection, unrelated to strep impetigo."
+        ]
+      },
+      {
+        "stem": "A 62-year-old reports a unilateral, painful, burning rash confined to a single band on one side of the trunk. The nurse recognizes this as which condition?",
+        "options": [
+          "Herpes zoster (shingles)",
+          "Contact dermatitis",
+          "Cellulitis",
+          "Atopic dermatitis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Herpes zoster is an acute, unilateral, segmental eruption confined to a dermatome, with severe neuralgic pain, caused by reactivation of the varicella-zoster virus. Recognizing the dermatomal, unilateral pattern is the cue.",
+          "Contact dermatitis follows the shape of the contacting object, not a dermatome.",
+          "Cellulitis is a spreading bacterial infection, not a dermatomal vesicular rash.",
+          "Atopic dermatitis is a chronic, often bilateral flexural eczema, not a unilateral band."
+        ]
+      },
+      {
+        "stem": "A client asks how to prevent shingles. The nurse teaches that the Shingrix vaccine is recommended for adults of which age?",
+        "options": [
+          "50 years and older",
+          "18 years and older",
+          "40 years and older",
+          "65 years and older"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Shingrix is recommended for adults 50 and older to prevent shingles. Note that shingles itself usually appears in adults over 40 — two different numbers not to blend.",
+          "18 and older is not the Shingrix recommendation.",
+          "40 and older is the usual age shingles appears, not the vaccine recommendation.",
+          "65 and older is too restrictive; the recommendation starts at 50."
+        ]
+      },
+      {
+        "stem": "A 68-year-old reports burning pain along the right flank that has persisted for months after a shingles rash resolved. The nurse recognizes this as which condition?",
+        "options": [
+          "Postherpetic neuralgia",
+          "Cellulitis",
+          "Contact dermatitis",
+          "Normal age-related hyperesthesia"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Postherpetic neuralgia is the most common complication of shingles: burning pain that persists long after the rash and blisters resolve, sometimes managed with anti-seizure medications. Recognizing the post-shingles timeline is the cue.",
+          "Cellulitis is an acute bacterial infection, not chronic post-shingles pain.",
+          "Contact dermatitis is a rash from contact, not persistent neuralgic pain.",
+          "Persistent post-shingles pain is a recognized complication, not normal aging."
+        ]
+      },
+      {
+        "stem": "A nurse is matching tinea infections to their locations. Which pairing is correct?",
+        "options": [
+          "Tinea pedis is on the foot (athlete's foot), and tinea cruris is in the groin (jock itch)",
+          "Tinea capitis is on the foot, and tinea pedis is on the scalp",
+          "Tinea unguium is on the face, and tinea corporis is on the nails",
+          "Tinea barbae is on the scalp, and tinea capitis is in the beard"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Tinea pedis affects the foot (athlete's foot) and tinea cruris affects the groin (jock itch); tinea is treated with topical or oral antifungals based on location. Matching the Latin roots to the sites is the point.",
+          "Tinea capitis is the scalp and tinea pedis is the foot; this reverses them.",
+          "Tinea unguium is the nails and tinea corporis is the body; this reverses them.",
+          "Tinea barbae is the bearded area and tinea capitis is the scalp; this reverses them."
+        ]
+      },
+      {
+        "stem": "A hospitalized client with obesity has a moist, inflamed, macerated rash in the inframammary and abdominal folds. The nurse recognizes this intertrigo is most commonly secondarily infected with which organism?",
+        "options": [
+          "Candida",
+          "Sarcoptes scabiei",
+          "Varicella-zoster virus",
+          "Group A streptococcus only"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Intertrigo affects warm, moist flexural surfaces (axilla, inframammary and abdominal folds, perineum), is most common in clients with obesity, and commonly becomes secondarily infected with Candida. Recognizing the organism guides treatment with an antifungal.",
+          "Sarcoptes scabiei causes scabies with burrows, not intertrigo.",
+          "Varicella-zoster causes shingles, not intertrigo.",
+          "Candida, not group A strep alone, is the classic secondary infection in intertrigo."
+        ]
+      },
+      {
+        "stem": "A client being treated for intertrigo returns for follow-up. The rash is gone, but the skin appears slightly darker than the surrounding area, with no redness, discomfort, or sores. What is the nurse's best action?",
+        "options": [
+          "Recognize this as an expected outcome of successful treatment",
+          "Restart the topical antifungal for another 3 to 8 weeks",
+          "Obtain a wound culture",
+          "Initiate contact precautions"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The treatment endpoint for intertrigo is that the skin may look slightly darker than usual but has no redness, discomfort, or sores. Recognizing resolution as the expected outcome prevents unnecessary treatment.",
+          "Restarting the antifungal is unnecessary once the rash has resolved without redness or sores.",
+          "A wound culture is not needed for a resolved rash.",
+          "Contact precautions are not indicated for resolved intertrigo."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client with intense itching and notes tiny, raised, crooked, grayish-white lines on the skin. Which finding is pathognomonic for scabies?",
+        "options": [
+          "Serpiginous grayish-white burrows",
+          "Honey-colored crusting",
+          "A single painless ulcer",
+          "Silvery scaly plaques"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Burrows — tiny, raised, crooked (serpiginous) grayish-white lines made by the female mite — are pathognomonic for scabies, which requires contact precautions and a scabicidal agent. Recognizing the burrow is the key cue.",
+          "Honey-colored crusting is impetigo, not scabies.",
+          "A single painless ulcer is a syphilitic chancre, not scabies.",
+          "Silvery scaly plaques are psoriasis, not scabies."
+        ]
+      },
+      {
+        "stem": "A nurse is caring for a client with scabies. Which precaution and treatment does the nurse anticipate?",
+        "options": [
+          "Contact precautions and a scabicidal agent, with an antimicrobial if a secondary infection develops",
+          "Airborne precautions and an oral antiviral",
+          "No precautions and a topical steroid only",
+          "Droplet precautions and an antifungal"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Scabies requires contact precautions and a scabicidal agent (e.g., permethrin), plus an antimicrobial if secondary infection occurs and skin-integrity measures. Matching precautions and treatment to the parasite is the point.",
+          "Scabies needs contact, not airborne, precautions, and a scabicide, not an antiviral.",
+          "Precautions and a scabicide are required; a topical steroid alone does not treat the infestation.",
+          "Contact, not droplet, precautions are used, and a scabicide, not an antifungal, treats scabies."
+        ]
+      },
+      {
+        "stem": "A nurse distinguishes scabies from pediculosis (lice). Which statement is correct?",
+        "options": [
+          "Scabies mites burrow into the skin and lay eggs there, whereas lice stay on the surface and feed on blood, causing itching especially at night",
+          "Lice burrow into the skin, whereas scabies mites stay on the surface",
+          "Both are treated with oral antivirals",
+          "Neither requires environmental decontamination"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Scabies mites burrow into the skin (burrows are pathognomonic), while lice remain on the surface feeding on blood, causing nighttime itching; both share a nursing theme of decontamination and screening close contacts. Distinguishing the two prevents mix-ups.",
+          "This reverses them; scabies burrows, lice stay on the surface.",
+          "Both are parasitic infestations treated with antiparasitics, not antivirals.",
+          "Both involve environmental decontamination and contact screening."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a family about managing head lice (pediculosis capitis). Which instruction is appropriate?",
+        "options": [
+          "Treat with a pediculicide such as permethrin, remove nits with a fine-toothed comb, and screen all close contacts",
+          "Apply calamine lotion to the scalp to smother the eggs",
+          "Treat only the affected child and ignore household contacts",
+          "Wash bedding in cold water only"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Head lice are treated with a pediculicide (e.g., permethrin or pyrethrin with piperonyl butoxide), nits are removed with a fine-toothed comb, close contacts are screened, and clothing/bedding are laundered in hot water. Comprehensive treatment and decontamination prevent reinfestation.",
+          "Calamine relieves itching (as in shingles); it does not treat lice or eggs.",
+          "Close contacts must be screened and treated, not ignored.",
+          "Bedding is washed in hot water (or dry-cleaned), not cold."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching an adolescent with moderate-to-severe acne who is prescribed an oral retinoid. Which teaching point carries the greatest safety weight?",
+        "options": [
+          "Oral retinoids are teratogenic, so effective contraception counseling is essential for those of childbearing potential",
+          "Oral retinoids cure acne permanently after one dose",
+          "Oral retinoids can be shared with friends who have acne",
+          "Oral retinoids are applied topically to the lesions"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Oral retinoids are teratogenic, so counseling a person of childbearing potential about contraception is the safety-critical teaching point. Recognizing teratogenicity protects a potential fetus.",
+          "Oral retinoids do not cure acne in one dose.",
+          "Medications are never shared; dosing is individualized and this one is teratogenic.",
+          "Oral retinoids are systemic, not applied topically."
+        ]
+      },
+      {
+        "stem": "A client presents with dry, itchy lesions on flexor surfaces (the inner elbows and behind the knees) and a history of asthma and allergic rhinitis. Which condition is most likely?",
+        "options": [
+          "Atopic dermatitis (eczema)",
+          "Psoriasis",
+          "Contact dermatitis",
+          "Herpes zoster"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Atopic dermatitis presents with dry, pruritic lesions on flexor surfaces and often occurs in a triad with asthma and allergic rhinitis. The flexor distribution plus the atopic history is the discriminator from psoriasis (extensor surfaces).",
+          "Psoriasis presents on extensor surfaces with sharply defined scaly plaques, not flexor eczema.",
+          "Contact dermatitis follows the shape of the contacting object.",
+          "Herpes zoster is a unilateral dermatomal rash, not chronic flexor eczema."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a client with sharply defined, erythematous plaques with silvery scale on the extensor surfaces (elbows and knees) and reports of joint pain. Which condition is most likely?",
+        "options": [
+          "Psoriasis",
+          "Atopic dermatitis",
+          "Tinea corporis",
+          "Cellulitis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Psoriasis is a chronic immune-mediated disorder with sharply defined erythematous plaques and scale on extensor surfaces and possible psoriatic arthritis. The extensor distribution distinguishes it from atopic dermatitis (flexor).",
+          "Atopic dermatitis involves flexor surfaces, not extensor plaques with joint disease.",
+          "Tinea corporis is a fungal ring-shaped lesion, not extensor plaques with arthritis.",
+          "Cellulitis is an acute spreading infection, not chronic scaly plaques."
+        ]
+      },
+      {
+        "stem": "A client develops a ring-shaped rash on a finger exactly where a nickel ring sits, and a rash on the forearm where a plant brushed the skin. Which condition does the distribution indicate?",
+        "options": [
+          "Contact dermatitis",
+          "Psoriasis",
+          "Atopic dermatitis",
+          "Herpes zoster"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Contact dermatitis is defined by where the contact happened — the rash mirrors the offending object (a ring, a plant). Reading the distribution is the diagnostic clue; management includes avoidance, barrier measures, and corticosteroids for the allergic type.",
+          "Psoriasis appears on extensor surfaces in plaques, not in the shape of a contacting object.",
+          "Atopic dermatitis is flexor eczema with an atopic history, not object-shaped.",
+          "Herpes zoster follows a dermatome, not the shape of an object."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client about the ABCDE assessment for melanoma. Which feature reflects the \"D\" and its threshold?",
+        "options": [
+          "Diameter larger than 6 mm (about 1/4 inch)",
+          "Diameter larger than 2 mm",
+          "Diameter larger than 1 cm",
+          "Diameter larger than 2 cm"
+        ],
+        "answer": 0,
+        "explanations": [
+          "In ABCDE, D is Diameter, with concern for lesions larger than 6 mm (about 1/4 inch) — the one hard number in the mnemonic. Knowing the threshold is the tested detail.",
+          "2 mm is below the concerning threshold.",
+          "The threshold is 6 mm, not 1 cm.",
+          "The threshold is 6 mm, not 2 cm."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client to monitor a mole using the ABCDE method. Which feature specifically requires comparison over time?",
+        "options": [
+          "Evolution — a change in size, shape, color, or another trait",
+          "Asymmetry",
+          "Border irregularity",
+          "Color variation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "The \"E\" (Evolution) requires observing change over time, so teaching focuses on monitoring and reporting change rather than a single snapshot. Understanding this makes patient self-monitoring effective.",
+          "Asymmetry is assessed at a single point in time.",
+          "Border irregularity is a single-snapshot feature.",
+          "Color variation is assessed at one point, though change in color also counts as evolution."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a lesion on a client's nose that appears as a small, waxy nodule with rolled, translucent, pearly borders on sun-exposed skin. Which type of skin cancer is most likely?",
+        "options": [
+          "Basal cell carcinoma",
+          "Squamous cell carcinoma",
+          "Melanoma",
+          "Seborrheic keratosis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Basal cell carcinoma appears as a small, waxy nodule with rolled, translucent, pearly borders on sun-exposed areas; it is the most common skin cancer (about 80%) and rarely causes morbidity or death. Recognizing the pearly, rolled border is the cue.",
+          "Squamous cell carcinoma is a rough, thickened, scaly tumor, not a pearly nodule.",
+          "Melanoma is pigmented and changing (ABCDE), not a waxy pearly nodule.",
+          "Seborrheic keratosis is a benign, stuck-on, tan-to-brown papule, not a pearly malignant nodule."
+        ]
+      },
+      {
+        "stem": "A nurse compares basal cell carcinoma, squamous cell carcinoma, and melanoma. Which statement is accurate?",
+        "options": [
+          "Melanoma is the most aggressive with a high risk of metastasis but is treatable if caught early, while basal cell carcinoma is the most common and least dangerous",
+          "Basal cell carcinoma is the most aggressive and most likely to metastasize",
+          "Squamous cell carcinoma never metastasizes",
+          "Melanoma arises from keratinocytes in the dermis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Melanoma (from melanocytes in the stratum basale) is the most aggressive with high metastatic risk yet treatable if caught early; BCC is the most common (about 80%) and least dangerous, and SCC is intermediate and can metastasize. Ranking the three by aggressiveness is the point.",
+          "Basal cell carcinoma is the least aggressive and rarely metastasizes.",
+          "Squamous cell carcinoma can metastasize.",
+          "Melanoma arises from melanocytes in the stratum basale, not keratinocytes in the dermis."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching about melanoma in patients with skin of color. Which statement is supported by the data presented?",
+        "options": [
+          "It is less common but tends to be diagnosed at more advanced stages, with significantly lower 5-year survival",
+          "It is more common and diagnosed earlier",
+          "It is equally common and carries identical survival rates",
+          "It rarely metastasizes in any patient"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Melanoma in patients with skin of color is less common but diagnosed at more advanced stages with lower survival (16% vs 5% presenting with advanced disease; 66.2% vs 90.1% 5-year survival). Delayed recognition drives worse outcomes, which is why morphology-over-color assessment matters.",
+          "It is less common, and it is diagnosed later, not earlier.",
+          "Survival rates are significantly lower, not identical.",
+          "Melanoma has high metastatic potential; the concern here is delayed diagnosis."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching skin cancer prevention. Which recommendation is appropriate?",
+        "options": [
+          "Use sunscreen consistently, wear protective clothing and hats, seek shade, and avoid tanning beds",
+          "Establish a protective base tan before sun exposure",
+          "Use tanning beds instead of natural sunlight",
+          "Avoid sunscreen because it blocks needed vitamin D"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Skin cancer prevention includes sunglasses, hats, protective clothing, avoiding peak-intensity hours, seeking shade, using sunscreen consistently, and avoiding tanning. Any \"base tan protects the skin\" or pro-tanning option is wrong.",
+          "A base tan does not protect the skin; tanning is to be avoided.",
+          "Tanning beds increase skin cancer risk and are avoided.",
+          "Sunscreen is recommended; skipping it to gain vitamin D is not appropriate prevention."
+        ]
+      },
+      {
+        "stem": "A nurse reviews management options for skin cancer. Which reflects the treatment-route logic taught?",
+        "options": [
+          "Local disease is treated with excision, Mohs surgery, cryotherapy, or topical 5-fluorouracil, while advanced disease is treated with systemic chemotherapy, targeted therapy, or immunotherapy",
+          "All skin cancers require systemic chemotherapy regardless of stage",
+          "Topical 5-fluorouracil is used for widely metastatic disease",
+          "Mohs surgery is used only for advanced metastatic melanoma"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Skin cancer treatment follows a local-versus-systemic logic: local disease is managed with excision, Mohs, cryotherapy, curettage/electrodesiccation, radiation, or topical 5-FU, while advanced disease requires systemic therapy (chemotherapy, targeted therapy, immunotherapy). Matching stage to route is the point.",
+          "Early, local skin cancers do not all require systemic chemotherapy.",
+          "Topical 5-FU treats local disease, not widespread metastasis.",
+          "Mohs surgery is a local treatment, not for widely metastatic melanoma."
+        ]
+      },
+      {
+        "stem": "A hospitalized child has honey-colored crusting on the face. Which condition and precaution does the nurse anticipate?",
+        "options": [
+          "Impetigo — contact precautions if hospitalized, plus meticulous hand hygiene and separate linens",
+          "Herpes zoster — airborne precautions",
+          "Scabies — droplet precautions",
+          "Tinea — no precautions and an oral antiviral"
+        ],
+        "answer": 0,
+        "explanations": [
+          "Honey-colored crusting is impetigo (often streptococcal), which warrants contact precautions if hospitalized, along with hand hygiene, separate linens, short nails, and no touching/scratching. Matching the lesion to the precaution is the point.",
+          "Herpes zoster is treated with precautions related to varicella, not the impetigo picture, and this lesion is impetigo.",
+          "Scabies uses contact precautions, but the honey-colored crust is impetigo, not scabies.",
+          "Tinea is fungal with no such precautions and is not treated with an antiviral."
+        ]
+      },
+      {
+        "stem": "A nurse documents a fluid-filled skin lesion. Which description correctly distinguishes a vesicle from a bulla?",
+        "options": [
+          "A vesicle is a fluid-filled lesion 1 cm or smaller; a bulla is a fluid-filled lesion larger than 1 cm",
+          "A vesicle is larger than 1 cm; a bulla is 1 cm or smaller",
+          "A vesicle contains pus; a bulla is solid",
+          "Both are flat discolorations"
+        ],
+        "answer": 0,
+        "explanations": [
+          "A vesicle is a circumscribed collection of free fluid 1 cm or smaller, and a bulla is a collection of free fluid larger than 1 cm (a bulla is a big vesicle). Size is the discriminator.",
+          "This reverses the sizes; the vesicle is the smaller lesion.",
+          "A pus-filled lesion is a pustule; a bulla is fluid-filled, not solid.",
+          "Vesicles and bullae are fluid-filled and elevated, not flat discolorations."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about skin cancer prevention. Which teaching points are appropriate? Select all that apply.",
+        "options": [
+          "Wear sunglasses, hats, and protective clothing",
+          "Avoid outdoor activity during peak sun-intensity hours",
+          "Use sunscreen properly and consistently",
+          "Stay in shaded areas when outdoors",
+          "Use a tanning bed to establish a protective base tan"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—protective clothing and hats reduce UV exposure.",
+          "Correct—avoiding peak-intensity hours limits UV exposure.",
+          "Correct—consistent sunscreen use is recommended.",
+          "Correct—seeking shade reduces UV exposure.",
+          "Incorrect—tanning beds increase risk; a base tan is not protective."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is teaching a family about managing pediculosis (lice). Which actions are appropriate? Select all that apply.",
+        "options": [
+          "Remove nits with a fine-toothed comb",
+          "Wash clothing, towels, and bedding in hot water or dry clean",
+          "Screen all family members and close contacts",
+          "Bathe with soap and water for body lice",
+          "Apply calamine lotion to the scalp to smother the eggs"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—nits are removed with a fine-toothed comb.",
+          "Correct—laundering in hot water or dry cleaning decontaminates the environment.",
+          "Correct—close contacts are screened to prevent spread.",
+          "Correct—bathing with soap and water is used for body lice.",
+          "Incorrect—calamine soothes itching but does not treat lice or eggs."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is reviewing primary skin lesions and their size cutoffs. Which statements are correct? Select all that apply.",
+        "options": [
+          "A macule is a flat discoloration smaller than 1 cm",
+          "A papule is a superficial solid elevated lesion 0.5 cm or smaller",
+          "A vesicle is a fluid-filled lesion 1 cm or smaller",
+          "A bulla is a fluid-filled lesion smaller than 0.5 cm",
+          "A pustule is a vesicle containing pus"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—a macule is a flat discoloration under 1 cm.",
+          "Correct—a papule is a solid elevated lesion 0.5 cm or smaller.",
+          "Correct—a vesicle is fluid-filled and 1 cm or smaller.",
+          "Incorrect—a bulla is a fluid-filled lesion larger than 1 cm, not under 0.5 cm.",
+          "Correct—a pustule is a vesicle containing pus."
+        ],
+        "type": "sata"
       }
     ]
   }
