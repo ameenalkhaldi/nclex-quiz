@@ -1,0 +1,192 @@
+{
+  "topic": "acute-neuro",
+  "label": "Acute: ICP, Spinal Cord & Seizures",
+  "questions": [
+    {
+      "stem": "A client with a traumatic brain injury has BP 96/57 mm Hg and ICP 25 mm Hg. Which conclusion by the nurse is correct?",
+      "options": [
+        "CPP is 45 mm Hg, which is inadequate, so the provider must be notified and perfusion supported",
+        "CPP is 45 mm Hg, which is acceptable as long as the ICP stays under 30 mm Hg",
+        "CPP is 95 mm Hg, which is adequate cerebral perfusion",
+        "CPP is 70 mm Hg, which is within the target range"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: MAP = (SBP + 2 × DBP) ÷ 3 = (96 + 114) ÷ 3 = 70 mm Hg, and CPP = MAP − ICP = 70 − 25 = 45 mm Hg. Prioritize hypotheses: severe-TBI guidance targets a CPP of about 60–70 mm Hg and treats an ICP above 22, so this brain is underperfused and secondary ischemic injury is underway. Take action: notify the provider and support perfusion (prevent hypotension, use ICP-lowering measures as prescribed).",
+        "incorrect": [
+          "An ICP of 25 is already above the treatment threshold (about 22), and a CPP of 45 is too low no matter what the ICP is.",
+          "This adds the ICP to the MAP instead of subtracting it. CPP = MAP − ICP.",
+          "70 is the MAP, not the CPP. The ICP still has to be subtracted."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is monitoring a client 6 hours after a closed head injury. Which finding is the earliest sign of rising intracranial pressure?",
+      "options": [
+        "BP rising from 132/80 to 168/62 mm Hg",
+        "Heart rate falling from 88/min to 52/min",
+        "A client who was oriented is now restless and asking the same question repeatedly",
+        "A unilateral fixed, dilated pupil"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a change in level of consciousness (restlessness, new confusion) is the earliest and most sensitive sign of rising ICP, because the cortex is the first area affected by reduced perfusion. Take action: report it promptly, while the client may still be in the compensation phase and the change can be reversed. Evaluate: trend the GCS, pupils, and motor findings.",
+        "incorrect": [
+          "A widening pulse pressure with hypertension is part of the Cushing triad, which is a late sign of brainstem compression.",
+          "Bradycardia is also part of the late Cushing triad. Waiting for it means compensation has already failed.",
+          "A fixed, dilated pupil is a late sign suggesting herniation. Pupil changes can occur early, but a fixed, dilated pupil is not an early finding."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a severe TBI has an ICP of 24 mm Hg. Which nursing action is most appropriate?",
+      "options": [
+        "Group the bath, linen change, repositioning, and suctioning into one block so the client can rest afterward",
+        "Elevate the head of the bed about 30 degrees with the neck neutral and the hips not sharply flexed",
+        "Suction the endotracheal tube every hour to prevent hypoxemia",
+        "Keep the head of the bed flat to maximize blood flow to the brain"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions/take action: elevating the head of the bed about 30 degrees with the neck neutral and avoiding sharp hip flexion helps venous blood drain out of the skull (Monro–Kellie principle) without reducing arterial inflow. This is a key nursing action for lowering ICP. Evaluate: watch the ICP and CPP response.",
+        "incorrect": [
+          "Grouping several stimulating activities produces a sustained rise in ICP. When ICP is elevated, the blueprint says to space activities out.",
+          "Suctioning raises ICP and should be done only when needed, not hourly, with the client's response monitored.",
+          "Lying flat reduces venous drainage from the head and raises ICP."
+        ]
+      }
+    },
+    {
+      "stem": "After a baseball struck the side of the head, a client briefly lost consciousness. In the ED the client is now alert and oriented with a GCS of 15 and asks to go home. Which action is most appropriate?",
+      "options": [
+        "Prepare discharge teaching, since the client is neurologically intact",
+        "Give the prescribed opioid for headache and let the client sleep uninterrupted",
+        "Continue frequent neurologic checks, recognizing that the client may be in a lucid interval",
+        "Reassure the client that a normal exam rules out a bleed"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a blow to the temporal area, brief loss of consciousness, and now a completely normal exam. Prioritize hypotheses: this is the classic picture of an epidural hematoma, which is often arterial and may include a lucid interval before rapid decline. Take action: continue frequent neuro assessments. A falling GCS, a new pupil difference, or new weakness needs urgent escalation and imaging.",
+        "incorrect": [
+          "A normal GCS during a lucid interval is falsely reassuring. Rapid deterioration can follow.",
+          "Sedating opioids and uninterrupted sleep hide changes in level of consciousness, the earliest sign of deterioration.",
+          "A normal initial exam does not rule out an expanding bleed."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a head injury has ecchymosis behind the right ear and clear fluid dripping from the nose. Which nursing action is most appropriate?",
+      "options": [
+        "Insert a nasogastric tube to decompress the stomach before CT",
+        "Pack the nostrils firmly with gauze to stop the drainage",
+        "Test the drainage for glucose to confirm it is CSF before notifying the provider",
+        "Place a loose collection dressing under the nose and tell the client not to blow their nose"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: Battle sign plus clear rhinorrhea suggests a basilar skull fracture with a CSF leak. Analyze: an open path to the brain means a risk of meningitis, and a tube could pass into the cranial vault. Take action: use a loose collection dressing, avoid nose blowing and nasal tubes or suctioning, and report the findings.",
+        "incorrect": [
+          "Nasal tubes are contraindicated with a basilar skull fracture because they can pass through the fracture into the brain. If decompression is needed, the oral route is used.",
+          "Tight packing traps CSF, can raise pressure, and promotes infection. The dressing should be loose.",
+          "Halo or glucose findings alone do not confirm CSF (beta-2 transferrin can help), and testing should never delay notifying the provider."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a TBI opens the eyes only to painful stimuli, makes incomprehensible sounds, and withdraws from pain. What is the nurse's priority?",
+      "options": [
+        "Prepare for airway support, because the GCS is 8",
+        "Raise the head of the bed to 45 degrees and recheck the GCS in 1 hour",
+        "Take the client to CT before any further intervention",
+        "Document a GCS of 10 (moderate injury) and continue neuro checks every 2 hours"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: Eyes to pain = 2, incomprehensible sounds = 2, withdraws from pain = 4, so the GCS is 8 (a severe injury). Prioritize: a GCS of 8 or less means the client may not be able to protect their airway, and hypoxia worsens secondary brain injury. Take action: follow the ABCs. Get urgent airway assessment and support (the 'less than 8, intubate' principle) before anything else.",
+        "incorrect": [
+          "Positioning does not protect an airway the client cannot maintain, and waiting an hour risks hypoxia and aspiration.",
+          "Imaging is needed, but a client with an unprotected airway should not leave for CT until the airway is secured.",
+          "This is a scoring error. The total is 8 (2 + 2 + 4), which is a severe injury, not 10."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted 1 hour after a C5 spinal cord injury. BP is 78/42 mm Hg, HR 48/min, and the skin below the injury is warm and dry. How does the nurse interpret these findings?",
+      "options": [
+        "Hypovolemic shock from internal bleeding",
+        "Spinal shock",
+        "Autonomic dysreflexia",
+        "Neurogenic shock"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypotension with bradycardia and warm, dry skin after a cervical injury. Analyze cues: an injury at T6 or above interrupts sympathetic outflow, so the vessels dilate and the heart is driven by unopposed vagal tone. That is neurogenic shock, a circulatory problem. Take action: support perfusion with the prescribed fluids and vasopressors, and avoid hypotension.",
+        "incorrect": [
+          "Hypovolemic shock produces tachycardia with cool, clammy skin. Bradycardia with warm, dry skin points to a neurogenic cause.",
+          "Spinal shock is a temporary loss of reflexes with flaccid paralysis below the injury. It is a neurologic and reflex problem, not the cause of these vital signs.",
+          "Autonomic dysreflexia causes severe hypertension, not hypotension, and usually appears after reflexes return."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a T4 spinal cord injury from 8 months ago suddenly reports a pounding headache. BP is 212/110 mm Hg (baseline 102/64), HR 52/min, and the face is flushed and sweaty. The client is lying in bed. What should the nurse do first?",
+      "options": [
+        "Lower the head of the bed and elevate the legs",
+        "Sit the client upright and lower the legs",
+        "Perform a digital rectal exam to check for impaction",
+        "Give the PRN antihypertensive, then look for the cause"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an injury above T6, sudden severe hypertension, headache, flushing and sweating above the injury, and bradycardia. Prioritize: this is autonomic dysreflexia, an emergency. Take action: sit the client upright and lower the legs right away to pool blood in the lower body and drop the BP, then call for help, loosen clothing, and check BP every 1–2 minutes. Next, look for the trigger, starting with bladder distention or a blocked catheter.",
+        "incorrect": [
+          "Lying flat with the legs raised pushes more blood toward the head and makes the hypertensive crisis worse.",
+          "The bladder is checked first, and unplanned rectal manipulation can make the episode worse.",
+          "Medication is given if the BP stays high after positioning and removing the trigger. It is not the first step."
+        ]
+      }
+    },
+    {
+      "stem": "A client on seizure precautions has a generalized tonic-clonic seizure in bed. Which actions should the nurse take? Select all that apply.",
+      "options": [
+        "Stay with the client and note the time the seizure began",
+        "Turn the client to a side-lying position when it is safe to do so",
+        "Insert an oral airway or padded tongue blade between the teeth",
+        "Gently restrain the arms to prevent injury",
+        "Protect the head and move hazards away",
+        "Make sure working suction and oxygen are ready at the bedside"
+      ],
+      "answer": [0, 1, 4, 5],
+      "type": "sata",
+      "rationale": {
+        "correct": "Take action during a seizure: keep the client safe, support the airway and breathing, and time the event. Timing determines whether the episode has reached the 5-minute status threshold for a rescue benzodiazepine. Nothing goes in the mouth and the client is never restrained.",
+        "incorrect": [
+          "Correct—Timing the seizure shows whether it has reached 5 minutes (status epilepticus), which would require a rescue benzodiazepine.",
+          "Correct—Side-lying lets secretions drain and protects the airway. Keep spine precautions if trauma is suspected.",
+          "Incorrect—Forcing anything into the mouth can break teeth, injure the client or the nurse, and cause aspiration. Nothing goes in the mouth.",
+          "Incorrect—Restraint can cause fractures and soft-tissue injury and does not stop the seizure.",
+          "Correct—Protecting the head and clearing hazards prevents injury.",
+          "Correct—Suction and oxygen at the bedside are standard seizure precautions for clearing secretions and treating hypoxemia afterward."
+        ]
+      }
+    },
+    {
+      "stem": "A client's generalized tonic-clonic seizure has now lasted 6 minutes. SpO2 is 87%, and a peripheral IV is in place. What should the nurse do first?",
+      "options": [
+        "Continue to observe, since most seizures stop on their own",
+        "Give the prescribed IV fosphenytoin loading dose before any other medication",
+        "Give the prescribed rescue benzodiazepine (such as IV lorazepam) promptly while supporting the airway and oxygenation",
+        "Insert a padded bite block to keep the airway open"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a seizure lasting 5 minutes or more is convulsive status epilepticus, a neurologic emergency, and the hypoxemia confirms the airway is compromised. Take action: activate the emergency response, support the ABCs (oxygen, suction, positioning), check glucose, and give the prescribed rescue benzodiazepine promptly. Evaluate outcomes: the seizure stops, the airway is maintained, and second-line antiseizure therapy is ready if seizures continue. A brief 15–20-second seizure, by contrast, does not need a benzodiazepine.",
+        "incorrect": [
+          "Most seizures do stop on their own, but this one has passed the 5-minute threshold. Continuing to watch risks brain injury and worsening hypoxia.",
+          "Fosphenytoin is second-line therapy after the benzodiazepine, not instead of it.",
+          "Nothing should be placed in the mouth during a seizure. The airway is supported by positioning, suction, and oxygen."
+        ]
+      }
+    }
+  ]
+}

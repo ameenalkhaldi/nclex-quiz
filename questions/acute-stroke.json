@@ -1,0 +1,190 @@
+{
+  "topic": "acute-stroke",
+  "label": "Acute: Stroke",
+  "questions": [
+    {
+      "stem": "At 7:00 AM, a client's spouse finds the client with left facial droop and left arm weakness. The spouse says the client went to bed at 10:00 PM \"completely normal.\" The client says the symptoms were there on waking at 6:30 AM. How should the nurse interpret IV thrombolytic eligibility?",
+      "options": [
+        "Eligible under the standard window, because onset is counted from 6:30 AM, when the symptoms were noticed",
+        "Not eligible under the standard 4.5-hour window, because last known well was 10:00 PM, but the stroke team may still evaluate with advanced imaging or for thrombectomy",
+        "Eligible as long as the noncontrast CT shows no hemorrhage",
+        "Eligible, because thrombolytics may be given up to 24 hours after onset"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the stroke was discovered on waking, so the actual onset time is unknown. Analyze cues: the clock starts at last known well (10:00 PM), not at discovery. That is about 9 hours ago, well beyond the standard 4.5-hour window for thrombolysis. Generate solutions: cases with unknown onset or 4.5–9 hours need advanced-imaging selection by the stroke team, and a large-vessel occlusion may still qualify for thrombectomy. Take action: document last known well accurately and escalate quickly.",
+        "incorrect": [
+          "Counting from when symptoms were noticed is the classic trap. Onset is always last known well.",
+          "A negative CT rules out hemorrhage, but it does not make the client eligible. They must also be within the time window and meet the other criteria.",
+          "Up to 24 hours applies to thrombectomy in selected clients, not to IV thrombolysis."
+        ]
+      }
+    },
+    {
+      "stem": "A client on a medical unit suddenly develops slurred speech and right-sided weakness. The nurse activates the Code Stroke team. The airway is patent and SpO2 is 95%. Which action should the nurse take next?",
+      "options": [
+        "Give aspirin 325 mg orally to limit clot extension",
+        "Offer sips of water to see whether the client can swallow medications",
+        "Check a bedside capillary glucose",
+        "Give the PRN IV labetalol to bring the BP of 172/94 mm Hg down to 130/80 mm Hg"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Prioritize hypotheses: hypoglycemia can cause focal deficits that look exactly like a stroke. Take action: after the ABCs, check the glucose promptly. It is fast, it can be fixed right away, and it has to be ruled out before the client is treated as a stroke.",
+        "incorrect": [
+          "Aspirin should not be given until a hemorrhage has been excluded on CT, and the client must stay NPO until a swallow screen is passed.",
+          "A sip of water is not a validated swallow screen, and it risks aspiration in a client who may have dysphagia.",
+          "Lowering the BP rapidly without a prescribed target can reduce perfusion to the penumbra. Acute BP targets depend on the stroke type and treatment, and 172/94 does not need urgent lowering before imaging."
+        ]
+      }
+    },
+    {
+      "stem": "A client with an acute ischemic stroke has been confirmed eligible for IV alteplase. The BP is 196/112 mm Hg. What should the nurse do?",
+      "options": [
+        "Start the alteplase right away to avoid losing time in the window",
+        "Withhold the alteplase permanently, because the client is too hypertensive",
+        "Give the prescribed antihypertensive and recheck the BP, aiming for under 185/110 mm Hg before starting alteplase",
+        "Lower the BP to under 140/90 mm Hg before alteplase to minimize bleeding risk"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: a BP of 196/112 is above the pre-thrombolysis limit of 185/110, so giving alteplase now would raise the risk of a brain bleed. Generate solutions/take action: give the prescribed antihypertensive and recheck. Once the BP is below 185/110, alteplase can proceed. Evaluate: after alteplase, keep the BP under 180/105 for at least 24 hours.",
+        "incorrect": [
+          "Giving a thrombolytic with the BP above 185/110 significantly increases the risk of hemorrhage.",
+          "High BP that can be treated is not a permanent contraindication. Bringing it under 185/110 makes the client eligible again.",
+          "Overcorrecting the BP reduces perfusion to the brain tissue at risk. The target is under 185/110, not normal BP."
+        ]
+      }
+    },
+    {
+      "stem": "Three hours after an alteplase infusion for ischemic stroke, the client reports a sudden, severe headache and vomits. BP has risen to 190/108 mm Hg, and the client is harder to arouse. What should the nurse do first?",
+      "options": [
+        "Notify the provider immediately and prepare for emergent head CT",
+        "Give PRN acetaminophen and an antiemetic, then recheck in 1 hour",
+        "Start the prescribed aspirin to prevent the clot from reforming",
+        "Place the client flat to improve cerebral blood flow"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new severe headache, vomiting, a lower level of consciousness, and a jump in BP after thrombolysis. Prioritize hypotheses: symptomatic intracranial hemorrhage is the top concern. Take action: notify the provider immediately and prepare for an emergent CT. Stop any infusion that is still running. Evaluate: frequent neuro checks and BP monitoring.",
+        "incorrect": [
+          "Treating the symptoms hides a bleed that may be expanding. These are 'report immediately' findings.",
+          "Antiplatelets are generally withheld for 24 hours after thrombolysis and until follow-up imaging. Giving aspirin now could make a hemorrhage worse.",
+          "Lying flat can raise ICP, and it does nothing for a possible hemorrhage."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with an intracerebral hemorrhage confirmed on CT. Which admission prescription should the nurse question?",
+      "options": [
+        "Intermittent pneumatic compression devices to both legs",
+        "Nicardipine infusion titrated to the prescribed BP target",
+        "Neurologic checks every hour",
+        "Enoxaparin 40 mg subcutaneously daily, starting on admission"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: in a hemorrhagic stroke, the main early danger is the hematoma expanding. Generate solutions: VTE prevention starts with mechanical compression. Pharmacologic prophylaxis begins only once the treating team judges the bleeding stable and the timing appropriate. Take action: question an anticoagulant started on admission day before the bleed is shown to be stable.",
+        "incorrect": [
+          "IPC devices are the recommended initial VTE prevention in hemorrhagic stroke.",
+          "Prescribed BP control is central to managing hemorrhagic stroke and limiting hematoma growth.",
+          "Frequent neuro checks detect rebleeding, cerebral edema, or rising ICP early."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a left-hemisphere stroke correctly follows the instruction \"Point to the window, then touch your nose.\" When asked what they want, the client struggles and says, \"Want... uh... cup... water,\" and looks frustrated. Which type of communication deficit is this?",
+      "options": [
+        "Receptive (Wernicke) aphasia",
+        "Expressive (Broca) aphasia",
+        "Global aphasia",
+        "Dysarthria"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize/analyze cues: the client understands a two-step command, so comprehension is intact, but speech output is effortful and broken into short pieces, and the client knows it (frustration). That pattern is expressive aphasia, which affects producing language. Generate solutions: allow extra time to respond and offer picture or word boards.",
+        "incorrect": [
+          "In receptive aphasia, comprehension is impaired. Speech may be fluent but meaningless, and the client would have trouble following the command.",
+          "Global aphasia impairs both comprehension and expression. This client understands normally.",
+          "Dysarthria is a motor problem with articulation (slurred speech) while language is intact. This client is struggling to find and form the words themselves, which is a language problem."
+        ]
+      }
+    },
+    {
+      "stem": "A client with receptive aphasia after a stroke needs instructions before a transfer from bed to chair. Which approach by the nurse is most appropriate?",
+      "options": [
+        "Speak more slowly and loudly so the client can catch every word",
+        "Give a written list of the transfer steps to read",
+        "Use a simplified, child-like tone so the instructions feel less overwhelming",
+        "Use a normal adult tone, give one short instruction at a time, and pair each with a gesture"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: receptive aphasia impairs understanding of language, not hearing or intelligence. Generate solutions: keep spoken language simple (one idea at a time), add nonverbal cues such as gestures and demonstration, use a normal adult tone, and give the client time to respond. Evaluate: watch whether the client performs each step.",
+        "incorrect": [
+          "The problem is processing language, not hearing. Raising your voice does not improve comprehension and can feel demeaning.",
+          "Reading comprehension is usually impaired along with spoken language, so written steps do not get around the deficit.",
+          "The blueprint says to use a normal adult tone and not assume impaired intelligence. A child-like tone is disrespectful and no clearer."
+        ]
+      }
+    },
+    {
+      "stem": "Two hours after admission for an ischemic stroke, a client with mild left-sided weakness asks for water and their morning pills. The nurse notes that the gag reflex is intact. What should the nurse do?",
+      "options": [
+        "Give the pills crushed in applesauce, since the gag reflex is intact",
+        "Keep the client NPO, including oral medications, until a validated swallow screen is done and passed",
+        "Offer small sips of thin water first and give the pills if there is no coughing",
+        "Give the oral medications whole with a full glass of water while the client sits upright at 90 degrees"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: an intact gag reflex does not establish a safe swallow, and silent aspiration is common after a stroke. Take action: keep the client NPO, including oral medications, until a validated swallow screen is passed. If the client fails the screen, refer to speech-language pathology. Evaluate: follow the texture, positioning, and feeding plan that is prescribed.",
+        "incorrect": [
+          "Changing the texture comes after a swallow evaluation, not before. A gag reflex does not clear the client.",
+          "Watching for a cough after sips is not a validated screen, and silent aspiration produces no cough.",
+          "Positioning upright helps, but it does not replace screening. The client still has not been cleared to swallow."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a right-hemisphere stroke has left homonymous hemianopsia and left-sided neglect. Which nursing interventions are appropriate? Select all that apply.",
+      "options": [
+        "Cue the client to turn the head to scan toward the left side",
+        "Remind the client to look at the left side of the meal tray, or rotate the tray during the meal",
+        "Check the left arm often for safe positioning and for skin injury",
+        "Patch one eye to sharpen the remaining vision",
+        "Place the call light on the left side to make the client use that side"
+      ],
+      "answer": [0, 1, 2],
+      "type": "sata",
+      "rationale": {
+        "correct": "Analyze cues: hemianopsia is loss of the same half of the visual field in both eyes, and neglect is reduced attention to one side. Generate solutions: cue scanning and protect the client from injury, as the blueprint states. Essential safety items, such as the call light, stay where the client can see them.",
+        "incorrect": [
+          "Correct—Scanning makes up for the lost field and is the main teaching strategy.",
+          "Correct—The client may eat only from the visible half of the tray. Cueing or rotating it ensures adequate intake.",
+          "Correct—With neglect, the client may not notice the left arm hanging off the bed or getting caught, so injury prevention is essential.",
+          "Incorrect—Eye patching is used for diplopia (double vision). It does not help hemianopsia and reduces vision further.",
+          "Incorrect—The call light must be where the client can see and reach it. Putting it in the blind field creates a safety hazard."
+        ]
+      }
+    },
+    {
+      "stem": "A client is being discharged on apixaban after an ischemic stroke caused by atrial fibrillation. Which statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll take apixaban every day, even when I feel fine.\"",
+        "\"If my face droops or my arm goes weak, I'll call 911 right away.\"",
+        "\"Keeping my blood pressure under control lowers my chance of another stroke.\"",
+        "\"If the weakness goes away within an hour like last time, I can wait and call my doctor in the morning.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes (teaching): symptoms that resolve may be a TIA, which is a warning sign of a coming stroke. The blueprint says resolution does not remove the need for urgent evaluation. Waiting until morning loses the treatment window if a stroke follows. This statement needs correcting: recurrent symptoms, even brief ones, mean calling 911 (BE FAST).",
+        "incorrect": [
+          "This statement is correct. Adherence to anticoagulation is the main secondary prevention for a stroke caused by atrial fibrillation.",
+          "This statement is correct. It applies BE FAST and the emergency response to recurrent symptoms.",
+          "This statement is correct. Hypertension is a major modifiable stroke risk factor."
+        ]
+      }
+    }
+  ]
+}

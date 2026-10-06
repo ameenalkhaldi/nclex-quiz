@@ -21,7 +21,11 @@ window.NCLEX_DATA = {
     "msfinal-breast": "MS Final: Breast",
     "msfinal-sti-hiv": "MS Final: STIs & HIV/AIDS",
     "msfinal-musculoskeletal": "MS Final: Musculoskeletal",
-    "msfinal-dermatology": "MS Final: Dermatology"
+    "msfinal-dermatology": "MS Final: Dermatology",
+    "acute-dysrhythmias-vascular": "Acute: Dysrhythmias, DVT/PE & Aorta",
+    "acute-cardiac": "Acute: Cardiac (ACS, PCI, CABG, Valves)",
+    "acute-stroke": "Acute: Stroke",
+    "acute-neuro": "Acute: ICP, Spinal Cord & Seizures"
   },
   "banks": {
     "upper-gi": [
@@ -14579,6 +14583,691 @@ window.NCLEX_DATA = {
           "Correct—a pustule is a vesicle containing pus."
         ],
         "type": "sata"
+      }
+    ],
+    "acute-dysrhythmias-vascular": [
+      {
+        "stem": "The telemetry alarm sounds for a client admitted with pneumonia. The monitor now shows a wide-complex tachycardia at 180/min; 2 minutes earlier the rhythm was sinus at 92/min. What should the nurse do first?",
+        "options": [
+          "Go to the bedside and check responsiveness, breathing, and a carotid pulse",
+          "Prepare the prescribed amiodarone infusion for ventricular tachycardia",
+          "Bring the defibrillator to the room and place the pads",
+          "Print a rhythm strip and measure the QRS width to confirm the rhythm"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a sudden change in rhythm on the monitor tells you about electrical activity, not about the client. Analyze/prioritize: whether this is VT with a pulse, pulseless VT, or artifact all depends on how the client is doing, so the blueprint's 'assess first' rule applies. Take action: go to the bedside and check responsiveness, breathing, and pulse (ABCs). That one finding decides everything after it: CPR and defibrillation, synchronized cardioversion, antiarrhythmic drugs, or nothing at all if it is artifact.",
+          "Amiodarone is for stable VT with a pulse. Starting it before you know whether the client has a pulse could delay CPR and defibrillation, and it treats the monitor instead of the client.",
+          "Getting the defibrillator ready is reasonable, but it comes after the bedside assessment. If the client is pulseless the first priority is CPR, and if it is artifact the pads are unnecessary.",
+          "Interpreting the strip is useful, but it delays the assessment that matters most. You confirm the client's condition first and analyze the rhythm second."
+        ]
+      },
+      {
+        "stem": "A client has monomorphic ventricular tachycardia at 170/min. The client has a palpable carotid pulse, BP 74/40 mm Hg, is newly confused, and reports chest pressure. Which intervention should the nurse prepare for?",
+        "options": [
+          "Unsynchronized defibrillation at the maximum energy setting",
+          "Immediate high-quality chest compressions",
+          "Synchronized cardioversion",
+          "IV amiodarone, then reassessment in 10 minutes"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Unsynchronized defibrillation is for pulseless VT/VF or sustained polymorphic VT. Giving an unsynchronized shock to a client who has a pulse can trigger VF.",
+          "Chest compressions are for a client with no pulse. This client has one, so compressions are the wrong treatment.",
+          "CJMM — Recognize cues: pulse present, hypotension, altered mental status, and ischemic chest pressure. Analyze cues: these are instability markers, so this is unstable VT with a pulse. Generate solutions/take action: unstable monomorphic VT with a pulse calls for synchronized cardioversion. Syncing the shock to the R wave keeps it from landing on the T wave and causing VF. Evaluate outcomes: watch for conversion and a better BP and mentation.",
+          "Amiodarone is an option for stable VT. This client is unstable (BP 74/40, confused), so waiting 10 minutes for a drug to work delays the treatment they need right now."
+        ]
+      },
+      {
+        "stem": "A client on a cardiac unit is found unresponsive with no pulse, and the monitor shows ventricular fibrillation. The nurse has called a code and started chest compressions. A second nurse arrives with the defibrillator. What is the priority action?",
+        "options": [
+          "Give epinephrine 1 mg IV push, then defibrillate",
+          "Defibrillate as soon as the pads are placed, then resume CPR right away",
+          "Give amiodarone 300 mg IV push before the first shock",
+          "Pause compressions to insert an advanced airway before defibrillating"
+        ],
+        "answer": 1,
+        "explanations": [
+          "In VF, epinephrine comes after defibrillation has been attempted, not before. Giving it first delays the shock, which is the most important intervention.",
+          "CJMM — Recognize cues: unresponsive, pulseless, VF. Prioritize hypotheses: VF is a shockable arrest, and survival drops with every minute until defibrillation. Take action: start CPR and defibrillate as soon as possible, then go straight back to compressions. Epinephrine and amiodarone come later in the ACLS algorithm and never take the place of a timely shock. Evaluate: check the rhythm after 2 minutes of CPR.",
+          "Amiodarone is for VF/pVT that persists after shocks, not before the first one. Giving it first delays defibrillation.",
+          "An advanced airway does not come before defibrillation, and stopping compressions to place one cuts coronary perfusion. Bag-mask ventilation is fine early in the arrest."
+        ]
+      },
+      {
+        "stem": "During a code, the monitor shows an organized narrow-complex rhythm at 64/min, but the client has no palpable pulse. Which action does the nurse anticipate next?",
+        "options": [
+          "Deliver an unsynchronized shock because the rhythm is organized",
+          "Deliver a synchronized shock to restore perfusion",
+          "Give IV atropine because the rate is low",
+          "Continue CPR, give epinephrine per protocol, and look for reversible causes"
+        ],
+        "answer": 3,
+        "explanations": [
+          "PEA is not shockable. Shocking an organized rhythm does nothing for the missing pulse, and it interrupts CPR.",
+          "Synchronized cardioversion is only for clients who have a pulse. It plays no role in pulseless arrest.",
+          "Atropine treats symptomatic bradycardia in a client who has a pulse. It is no longer recommended for PEA, and 64/min is not bradycardic anyway.",
+          "CJMM — Recognize cues: organized electrical activity with no pulse. Analyze cues: this is pulseless electrical activity (PEA). An organized rhythm can make a client look stable, but without a pulse they are in arrest. Generate solutions/take action: PEA cannot be shocked, so the treatment is high-quality CPR, epinephrine per protocol, and a search for the reversible causes (hypoxia, hypovolemia, H+, K+, hypothermia, tamponade, tension pneumothorax, toxins, thrombosis)."
+        ]
+      },
+      {
+        "stem": "A client's heart rate drops to 38/min in sinus bradycardia. The client is dizzy, diaphoretic, and pale, with BP 80/48 mm Hg. Which prescription should the nurse carry out first?",
+        "options": [
+          "Atropine IV",
+          "Hold the next scheduled dose of metoprolol and recheck vital signs in 1 hour",
+          "Amiodarone IV",
+          "Instruct the client to bear down as if having a bowel movement"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: HR 38 plus hypotension, dizziness, and diaphoresis. Analyze cues: the slow rate is causing poor perfusion, so this is symptomatic bradycardia. Take action: atropine is the first-line ACLS drug for symptomatic bradycardia (the 'brady → atropine' rule). Evaluate outcomes: rising HR, better BP and mentation. If atropine fails, be ready to escalate. Contributing causes such as beta blockers still need to be addressed, but only after perfusion is supported.",
+          "Holding the beta blocker is a sensible way to treat a contributing cause, but it does not fix the hypotension happening right now. Waiting an hour leaves a client with poor perfusion untreated.",
+          "Amiodarone treats tachydysrhythmias and can slow the heart rate further. It is the wrong drug for bradycardia.",
+          "Bearing down (a vagal maneuver) raises vagal tone and slows the heart even more. It is a technique for some tachycardias and is dangerous here."
+        ]
+      },
+      {
+        "stem": "The nurse receives report on four telemetry clients. Which client should the nurse assess first?",
+        "options": [
+          "A client in rate-controlled atrial fibrillation at 84/min who missed a morning dose of apixaban",
+          "A client with new-onset atrial fibrillation at 152/min, BP 86/50 mm Hg, who is newly confused",
+          "A client with chronic atrial flutter at 78/min who is asking about discharge medications",
+          "A client in sinus tachycardia at 108/min who rates postoperative incisional pain 6/10"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A missed DOAC dose matters for stroke prevention and needs follow-up, but the client is stable and rate-controlled. It is not as urgent as a client who is hypotensive and confused.",
+          "CJMM — Recognize cues: rapid ventricular response, hypotension, and a new change in mental status. Analyze/prioritize: those three findings are instability markers, and the blueprint says instability needs prompt escalation. This client may need urgent rate control or synchronized cardioversion. Take action: assess this client first and escalate. The other three clients are stable.",
+          "Rate-controlled atrial flutter with a discharge-teaching question is a stable, routine need.",
+          "Sinus tachycardia with moderate postoperative pain is an expected response. Treating the pain is appropriate but not urgent compared with an unstable client."
+        ]
+      },
+      {
+        "stem": "A client with newly diagnosed atrial fibrillation is starting warfarin. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"The irregular rhythm lets blood pool in my heart, and that can form a clot that travels to my brain.\"",
+          "\"I need regular INR blood tests to make sure my dose is right.\"",
+          "\"Warfarin will dissolve any clot that has already formed in my heart.\"",
+          "\"I should report black stools, nosebleeds that won't stop, or unusual bruising.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This statement is correct. Atrial fibrillation causes blood to stagnate in the atria, and clots formed there can embolize to the brain (stroke). That is why anticoagulation is prescribed.",
+          "This statement is correct. Warfarin's effect is monitored with the INR.",
+          "CJMM — Evaluate outcomes (teaching effectiveness): anticoagulants prevent clots from growing and stop new clots from forming. They do not dissolve a clot that already exists; that is what fibrinolytics do. This client misunderstands how the drug works, so this statement needs correcting. The misunderstanding can lead to false reassurance or to poor adherence once the client believes the clot is gone.",
+          "This statement is correct. These are bleeding warning signs the client should report while on an anticoagulant."
+        ]
+      },
+      {
+        "stem": "A client has an acute left-calf deep vein thrombosis confirmed by venous duplex ultrasound and has started apixaban. Which nursing actions are appropriate? Select all that apply.",
+        "options": [
+          "Ambulate the client once stable and when the treatment team permits",
+          "Teach the client to report sudden shortness of breath or sharp chest pain right away",
+          "Massage the left calf gently to relieve the aching",
+          "Get daily INR results to adjust the apixaban dose",
+          "Check for bleeding: gums, urine, stools, and bruising",
+          "Review the client's renal function results"
+        ],
+        "answer": [
+          0,
+          1,
+          4,
+          5
+        ],
+        "explanations": [
+          "Correct—According to the blueprint, a client with a known DVT may walk once stable and permitted by the team. Mobility reduces venous stasis.",
+          "Correct—Sudden dyspnea and pleuritic chest pain can mean the clot has moved to the lungs (PE). Recognizing those cues early is the key safety teaching.",
+          "Incorrect—Massaging the calf could dislodge the clot and cause a PE.",
+          "Incorrect—The INR guides warfarin dosing. A routine INR does not reflect the effect of DOACs such as apixaban.",
+          "Correct—Bleeding surveillance is a core priority with any anticoagulant.",
+          "Correct—DOACs are cleared partly by the kidneys, so renal function is monitored to guide dosing and bleeding risk."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "On postoperative day 3 after a hip replacement, a client suddenly becomes short of breath and reports sharp chest pain on inspiration. RR is 32/min, HR 124/min, and SpO2 86% on room air. What should the nurse do first?",
+        "options": [
+          "Get a STAT D-dimer to confirm a pulmonary embolism",
+          "Give the scheduled evening enoxaparin dose now",
+          "Prepare the client for CT pulmonary angiography",
+          "Stay with the client, apply oxygen, and call for urgent help"
+        ],
+        "answer": 3,
+        "explanations": [
+          "A D-dimer cannot confirm a PE (a positive result is nonspecific), and ordering a lab does nothing for an SpO2 of 86%.",
+          "Anticoagulation is the treatment for a stable PE, but the nurse cannot independently change the timing of a dose. It also does not address the immediate hypoxemia.",
+          "CT pulmonary angiography is the right diagnostic test, but it comes after oxygen and urgent help. A hypoxemic client should not be sent to imaging first.",
+          "CJMM — Recognize cues: sudden dyspnea, tachypnea, pleuritic chest pain, tachycardia, and hypoxemia in a postoperative orthopedic client. Prioritize hypotheses: PE is the leading concern. Take action: follow the ABCs. Stay with the client, give oxygen for the hypoxemia, summon urgent help (rapid response), and then monitor vital signs and SpO2 and prepare IV access. Diagnostic tests and definitive treatment come after the client is supported."
+        ]
+      },
+      {
+        "stem": "A client with a known 5.2-cm abdominal aortic aneurysm suddenly reports severe back pain. BP has dropped from 148/86 to 84/52 mm Hg, HR is 128/min, and the skin is cool and clammy. What is the priority nursing action?",
+        "options": [
+          "Give the PRN IV morphine and reassess the pain in 30 minutes",
+          "Escalate emergently and make sure large-bore IV access is in place",
+          "Palpate the abdomen deeply to check for a pulsatile mass",
+          "Give the client's scheduled oral antihypertensive"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Pain control matters, but morphine can lower the BP further, and 'reassess in 30 minutes' wastes time when the aneurysm may have ruptured.",
+          "CJMM — Recognize cues: a known aneurysm, sudden severe back pain, hypotension, tachycardia, and cool, clammy skin. Analyze/prioritize: these signs suggest rupture with hypovolemic shock, a surgical emergency. Take action: escalate urgently (rapid response or emergency team), set up access for fluids and blood, and keep monitoring perfusion while the client is prepared for treatment.",
+          "Deep palpation of a suspected aneurysm can worsen the rupture. Assessment should never delay escalation.",
+          "Antihypertensives are part of chronic care for a stable aneurysm. This client is hypotensive and in shock, so lowering the BP would be harmful."
+        ]
+      }
+    ],
+    "acute-cardiac": [
+      {
+        "stem": "A 58-year-old client arrives in the emergency department with crushing chest pressure that radiates to the jaw, along with diaphoresis. Vital signs: BP 152/90 mm Hg, HR 104/min, SpO2 96% on room air. Which action is the nurse's priority within the first 10 minutes?",
+        "options": [
+          "Apply oxygen at 4 L/min by nasal cannula",
+          "Obtain a 12-lead ECG",
+          "Draw a troponin level and wait for the result before further testing",
+          "Give IV morphine for the chest pain"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Oxygen is given for hypoxemia (usually SpO2 below 90%). At 96%, routine oxygen is not indicated, and MONA is not a required sequence.",
+          "CJMM — Recognize cues: classic ischemic chest pressure, jaw radiation, and diaphoresis. Prioritize hypotheses: ACS, possibly a STEMI. Take action: the course target is a 12-lead ECG within 10 minutes of arrival, because it is the test that separates a STEMI (cath lab now) from an NSTEMI or unstable angina. Every later decision depends on it.",
+          "Serial troponins are needed, but you do not wait for a result before getting the ECG. A STEMI is diagnosed on the ECG, and waiting delays reperfusion.",
+          "Pain relief may be needed, but morphine is not the first-10-minutes priority and can hide ongoing ischemia. The ECG comes first."
+        ]
+      },
+      {
+        "stem": "A client's 12-lead ECG shows ST-segment elevation in leads V1–V4. The first troponin is still pending, and the hospital has a 24-hour cardiac catheterization lab. Which action does the nurse anticipate?",
+        "options": [
+          "Wait for a second troponin to confirm myocardial infarction before calling the cath lab",
+          "Start a fibrinolytic right away, since every STEMI requires one",
+          "Treat as an NSTEMI with a heparin infusion and serial troponins over 6 hours",
+          "Activate the cath lab, with a goal of PCI within 90 minutes of arrival"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Troponin rises in both STEMI and NSTEMI, but ST elevation alone is enough to activate the STEMI pathway. Waiting loses heart muscle ('time is muscle').",
+          "Fibrinolytics are for an eligible STEMI only when timely PCI is not available. Here PCI is available, and it is preferred.",
+          "This ECG is not an NSTEMI. ST elevation means a STEMI, which needs emergent reperfusion, not a 6-hour observation pathway.",
+          "CJMM — Analyze cues: ST elevation in contiguous leads means a STEMI, which is usually a complete coronary occlusion and the most time-critical form of ACS. Generate solutions: rapid PCI is the preferred reperfusion strategy. Take action: activate the cath lab, with a door-to-balloon target of 90 minutes. A STEMI is diagnosed on the ECG, so waiting for the troponin is not required."
+        ]
+      },
+      {
+        "stem": "A client at a rural hospital is having a STEMI that began 3 hours ago. Transfer for PCI cannot happen within 120 minutes, so a fibrinolytic is prescribed. Which finding in the client's history requires the nurse to contact the provider before giving it?",
+        "options": [
+          "Type 2 diabetes managed with metformin",
+          "Age 76",
+          "A hemorrhagic stroke 4 years ago",
+          "Current BP of 148/88 mm Hg"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Diabetes is a cardiac risk factor, not a bleeding contraindication to fibrinolytics. Metformin mainly matters for contrast procedures and renal function.",
+          "Older age raises bleeding risk somewhat, but it is not on its own a reason to withhold a fibrinolytic.",
+          "CJMM — Recognize cues: the client meets the timing criteria (eligible STEMI, under 12 hours, PCI not available in time). Analyze cues: the blueprint says to screen for bleeding contraindications before a fibrinolytic. Any prior intracranial hemorrhage is an absolute contraindication, because the drug could cause a fatal brain bleed. Take action: hold the drug and contact the provider.",
+          "A BP of 148/88 is well below the severely elevated levels that make fibrinolysis unsafe."
+        ]
+      },
+      {
+        "stem": "Two hours after PCI through the right femoral artery, the client's BP is 84/50 mm Hg (it was 128/76), HR is 118/min, and the client reports new back and flank pain. The femoral site is soft with no visible hematoma. What is the nurse's interpretation?",
+        "options": [
+          "Possible retroperitoneal bleeding",
+          "A vasovagal reaction to sheath removal",
+          "Acute stent thrombosis with reinfarction",
+          "Early contrast-induced acute kidney injury"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: hypotension, tachycardia, and back or flank pain after femoral access. Analyze cues: the dressing looks fine, but the blueprint specifically warns that hypotension with back or flank pain may mean retroperitoneal bleeding, which collects out of sight behind the abdomen. Take action: escalate immediately. Evaluate: trend the vital signs and hemoglobin.",
+          "A vasovagal reaction causes hypotension with bradycardia, not tachycardia, and it does not cause flank pain.",
+          "Stent thrombosis usually shows up as recurrent chest pain and new ECG changes, not back or flank pain with signs of blood loss.",
+          "Contrast-induced kidney injury develops over 24–72 hours and shows as falling urine output and rising creatinine, not sudden shock within 2 hours."
+        ]
+      },
+      {
+        "stem": "While being prepared for a scheduled cardiac catheterization, a client tells the nurse, \"I'm allergic to shellfish. I break out in hives.\" What is the nurse's best action?",
+        "options": [
+          "Notify the provider that the procedure must be cancelled because of an iodine allergy",
+          "Ask whether the client has ever had a reaction to iodinated contrast dye and report the findings",
+          "Give diphenhydramine before the procedure to prevent a reaction",
+          "Document 'iodine allergy—contrast contraindicated' in the allergy record"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Cancelling over a shellfish allergy is based on a myth. A shellfish allergy is not a contraindication to contrast.",
+          "CJMM — Analyze cues: the blueprint says a shellfish allergy does not specifically predict a contrast allergy. The question that matters is whether the client has reacted to contrast before. Generate solutions/take action: collect the right history (prior contrast reactions) and report it, along with the other pre-PCI checks: consent, IV access, renal function, bleeding risk, and baseline pulses.",
+          "Premedicating without a prescription is outside the nurse's scope, and it is not routinely indicated for a shellfish allergy.",
+          "Recording an 'iodine allergy' spreads a misconception and could wrongly block a needed procedure."
+        ]
+      },
+      {
+        "stem": "A client is being discharged on aspirin and clopidogrel after a drug-eluting stent was placed for ACS. Which statement indicates a need for further teaching?",
+        "options": [
+          "\"I'll tell my dentist I take blood thinners, but I won't stop them unless my cardiologist says so.\"",
+          "\"If I have chest pain that doesn't go away, I'll call 911 instead of driving myself.\"",
+          "\"I'll report black, tarry stools or blood in my urine.\"",
+          "\"Once I finish this first bottle and feel fine, I can stop the clopidogrel.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This statement is correct. The client keeps the dentist informed but does not stop antiplatelets independently.",
+          "This statement is correct. New or persistent chest discomfort needs emergency evaluation by EMS.",
+          "This statement is correct. These are GI and GU bleeding signs to report while on antiplatelet therapy.",
+          "CJMM — Evaluate outcomes (teaching): stopping dual antiplatelet therapy early sharply raises the risk of stent thrombosis and a repeat MI. The duration is individualized and is commonly at least 12 months after ACS. Antiplatelets should never be stopped without the cardiologist, and feeling well is not a reason to stop. This statement needs correcting."
+        ]
+      },
+      {
+        "stem": "Four hours after CABG, a client's chest-tube drainage, which had been 150 mL/hr, suddenly drops to 10 mL/hr. BP is 82/64 mm Hg, HR 130/min, neck veins are distended, and heart sounds are muffled. Which complication does the nurse suspect?",
+        "options": [
+          "Hypovolemia from postoperative bleeding",
+          "Expected slowing of drainage as hemostasis develops",
+          "Cardiac tamponade",
+          "Left ventricular failure from fluid overload"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Hypovolemia also causes hypotension and tachycardia, but the neck veins would be flat. Distended neck veins with muffled heart sounds point to tamponade.",
+          "Drainage that drops abruptly while the client becomes unstable is not expected. It is a red flag that the tube is clotted off.",
+          "CJMM — Recognize cues: chest-tube output stops abruptly after being high, hypotension with a narrow pulse pressure, JVD, and muffled heart sounds. Analyze/prioritize: blood is likely clotting in the tube and collecting around the heart, compressing it. That is cardiac tamponade, one of the blueprint's urgent post-CABG complications. Take action: escalate immediately; the client may need emergent surgical decompression.",
+          "Left ventricular failure causes crackles and pulmonary congestion. Muffled heart sounds with sudden loss of chest-tube output fits tamponade better."
+        ]
+      },
+      {
+        "stem": "Six months after a mechanical mitral valve replacement, a client says, \"My INR has been perfect for months. When can I stop the warfarin?\" What is the nurse's best response?",
+        "options": [
+          "\"Once the valve is covered by your own tissue, usually at 6 months, you can stop.\"",
+          "\"You'll need warfarin for life, because mechanical valves keep a high risk of clots.\"",
+          "\"After the first year, a daily aspirin alone is enough to protect the valve.\"",
+          "\"If your INR stays in range for a year, your provider will taper it off.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "That describes tissue (bioprosthetic) valves, which may need anticoagulation only at first. It does not apply to mechanical valves.",
+          "CJMM — Generate solutions (teaching): a mechanical valve lasts a long time but stays thrombogenic, so lifelong warfarin is required to prevent valve thrombosis and stroke. A stable INR shows the therapy is working, not that it can be stopped. Evaluate outcomes: reinforce adherence and regular INR monitoring.",
+          "Aspirin alone does not protect a mechanical valve from thrombosis.",
+          "A therapeutic INR shows the warfarin is working. Tapering it off would expose the client to valve clots."
+        ]
+      },
+      {
+        "stem": "A client with a history of injection drug use is admitted with a temperature of 39.2°C (102.6°F), a new regurgitant murmur, and painful nodules on the fingertips. Infective endocarditis is suspected. Which nursing actions are appropriate? Select all that apply.",
+        "options": [
+          "Draw the prescribed blood cultures before the first antibiotic dose, provided this does not delay urgent care",
+          "Assess for new focal neurologic deficits such as facial droop or arm weakness",
+          "Leave an unused second peripheral IV in place in case it is needed later",
+          "Monitor for worsening dyspnea and new crackles",
+          "Teach that good daily oral hygiene helps prevent future infection",
+          "Explain that the client must take antibiotics before every future dental cleaning"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "explanations": [
+          "Correct—Blood cultures drawn before antibiotics identify the organism and guide the 4–6-week IV course. Urgent care should not be delayed to get them.",
+          "Correct—Vegetations can break off and cause an embolic stroke, so new neurologic deficits are an important cue.",
+          "Incorrect—The blueprint says to remove unnecessary vascular catheters. An idle line is a source of more bacteremia.",
+          "Correct—Valve destruction, especially regurgitation, can cause acute heart failure. Crackles and dyspnea are cues to escalate.",
+          "Correct—The blueprint stresses good oral hygiene for prevention.",
+          "Incorrect—Dental prophylaxis is reserved for specific highest-risk conditions and qualifying procedures. Telling the client it is needed for 'every cleaning' overstates the guideline."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The nurse on a cardiac step-down unit receives report on four clients. Which client should the nurse see first?",
+        "options": [
+          "A client with stable angina who had chest discomfort while walking in the hall, relieved by rest 5 minutes ago",
+          "A client with angina that has been worsening in frequency, now with chest pain at rest for 20 minutes despite one sublingual nitroglycerin",
+          "A client 3 days post-CABG with incisional pain rated 5/10 when coughing",
+          "A client with known mitral regurgitation, stable 1+ ankle edema, and an unchanged daily weight"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Discomfort that comes with exertion and goes away with rest is the definition of stable angina, and it has resolved. This client can wait.",
+          "CJMM — Recognize cues: chest pain at rest, an escalating pattern, and no relief from nitroglycerin. Analyze/prioritize: this is unstable angina or an evolving MI (ACS), which needs urgent evaluation. Take action: assess now, get a 12-lead ECG, and activate the chest-pain pathway. The other clients have predictable or expected findings.",
+          "Incisional pain when coughing on postoperative day 3 is expected and should be treated, but it is not a sign of ischemia.",
+          "Chronic, stable valve findings with an unchanged weight show no decompensation."
+        ]
+      }
+    ],
+    "acute-stroke": [
+      {
+        "stem": "At 7:00 AM, a client's spouse finds the client with left facial droop and left arm weakness. The spouse says the client went to bed at 10:00 PM \"completely normal.\" The client says the symptoms were there on waking at 6:30 AM. How should the nurse interpret IV thrombolytic eligibility?",
+        "options": [
+          "Eligible under the standard window, because onset is counted from 6:30 AM, when the symptoms were noticed",
+          "Not eligible under the standard 4.5-hour window, because last known well was 10:00 PM, but the stroke team may still evaluate with advanced imaging or for thrombectomy",
+          "Eligible as long as the noncontrast CT shows no hemorrhage",
+          "Eligible, because thrombolytics may be given up to 24 hours after onset"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Counting from when symptoms were noticed is the classic trap. Onset is always last known well.",
+          "CJMM — Recognize cues: the stroke was discovered on waking, so the actual onset time is unknown. Analyze cues: the clock starts at last known well (10:00 PM), not at discovery. That is about 9 hours ago, well beyond the standard 4.5-hour window for thrombolysis. Generate solutions: cases with unknown onset or 4.5–9 hours need advanced-imaging selection by the stroke team, and a large-vessel occlusion may still qualify for thrombectomy. Take action: document last known well accurately and escalate quickly.",
+          "A negative CT rules out hemorrhage, but it does not make the client eligible. They must also be within the time window and meet the other criteria.",
+          "Up to 24 hours applies to thrombectomy in selected clients, not to IV thrombolysis."
+        ]
+      },
+      {
+        "stem": "A client on a medical unit suddenly develops slurred speech and right-sided weakness. The nurse activates the Code Stroke team. The airway is patent and SpO2 is 95%. Which action should the nurse take next?",
+        "options": [
+          "Give aspirin 325 mg orally to limit clot extension",
+          "Offer sips of water to see whether the client can swallow medications",
+          "Check a bedside capillary glucose",
+          "Give the PRN IV labetalol to bring the BP of 172/94 mm Hg down to 130/80 mm Hg"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Aspirin should not be given until a hemorrhage has been excluded on CT, and the client must stay NPO until a swallow screen is passed.",
+          "A sip of water is not a validated swallow screen, and it risks aspiration in a client who may have dysphagia.",
+          "CJMM — Prioritize hypotheses: hypoglycemia can cause focal deficits that look exactly like a stroke. Take action: after the ABCs, check the glucose promptly. It is fast, it can be fixed right away, and it has to be ruled out before the client is treated as a stroke.",
+          "Lowering the BP rapidly without a prescribed target can reduce perfusion to the penumbra. Acute BP targets depend on the stroke type and treatment, and 172/94 does not need urgent lowering before imaging."
+        ]
+      },
+      {
+        "stem": "A client with an acute ischemic stroke has been confirmed eligible for IV alteplase. The BP is 196/112 mm Hg. What should the nurse do?",
+        "options": [
+          "Start the alteplase right away to avoid losing time in the window",
+          "Withhold the alteplase permanently, because the client is too hypertensive",
+          "Give the prescribed antihypertensive and recheck the BP, aiming for under 185/110 mm Hg before starting alteplase",
+          "Lower the BP to under 140/90 mm Hg before alteplase to minimize bleeding risk"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Giving a thrombolytic with the BP above 185/110 significantly increases the risk of hemorrhage.",
+          "High BP that can be treated is not a permanent contraindication. Bringing it under 185/110 makes the client eligible again.",
+          "CJMM — Analyze cues: a BP of 196/112 is above the pre-thrombolysis limit of 185/110, so giving alteplase now would raise the risk of a brain bleed. Generate solutions/take action: give the prescribed antihypertensive and recheck. Once the BP is below 185/110, alteplase can proceed. Evaluate: after alteplase, keep the BP under 180/105 for at least 24 hours.",
+          "Overcorrecting the BP reduces perfusion to the brain tissue at risk. The target is under 185/110, not normal BP."
+        ]
+      },
+      {
+        "stem": "Three hours after an alteplase infusion for ischemic stroke, the client reports a sudden, severe headache and vomits. BP has risen to 190/108 mm Hg, and the client is harder to arouse. What should the nurse do first?",
+        "options": [
+          "Notify the provider immediately and prepare for emergent head CT",
+          "Give PRN acetaminophen and an antiemetic, then recheck in 1 hour",
+          "Start the prescribed aspirin to prevent the clot from reforming",
+          "Place the client flat to improve cerebral blood flow"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: new severe headache, vomiting, a lower level of consciousness, and a jump in BP after thrombolysis. Prioritize hypotheses: symptomatic intracranial hemorrhage is the top concern. Take action: notify the provider immediately and prepare for an emergent CT. Stop any infusion that is still running. Evaluate: frequent neuro checks and BP monitoring.",
+          "Treating the symptoms hides a bleed that may be expanding. These are 'report immediately' findings.",
+          "Antiplatelets are generally withheld for 24 hours after thrombolysis and until follow-up imaging. Giving aspirin now could make a hemorrhage worse.",
+          "Lying flat can raise ICP, and it does nothing for a possible hemorrhage."
+        ]
+      },
+      {
+        "stem": "A client is admitted with an intracerebral hemorrhage confirmed on CT. Which admission prescription should the nurse question?",
+        "options": [
+          "Intermittent pneumatic compression devices to both legs",
+          "Nicardipine infusion titrated to the prescribed BP target",
+          "Neurologic checks every hour",
+          "Enoxaparin 40 mg subcutaneously daily, starting on admission"
+        ],
+        "answer": 3,
+        "explanations": [
+          "IPC devices are the recommended initial VTE prevention in hemorrhagic stroke.",
+          "Prescribed BP control is central to managing hemorrhagic stroke and limiting hematoma growth.",
+          "Frequent neuro checks detect rebleeding, cerebral edema, or rising ICP early.",
+          "CJMM — Analyze cues: in a hemorrhagic stroke, the main early danger is the hematoma expanding. Generate solutions: VTE prevention starts with mechanical compression. Pharmacologic prophylaxis begins only once the treating team judges the bleeding stable and the timing appropriate. Take action: question an anticoagulant started on admission day before the bleed is shown to be stable."
+        ]
+      },
+      {
+        "stem": "A client with a left-hemisphere stroke correctly follows the instruction \"Point to the window, then touch your nose.\" When asked what they want, the client struggles and says, \"Want... uh... cup... water,\" and looks frustrated. Which type of communication deficit is this?",
+        "options": [
+          "Receptive (Wernicke) aphasia",
+          "Expressive (Broca) aphasia",
+          "Global aphasia",
+          "Dysarthria"
+        ],
+        "answer": 1,
+        "explanations": [
+          "In receptive aphasia, comprehension is impaired. Speech may be fluent but meaningless, and the client would have trouble following the command.",
+          "CJMM — Recognize/analyze cues: the client understands a two-step command, so comprehension is intact, but speech output is effortful and broken into short pieces, and the client knows it (frustration). That pattern is expressive aphasia, which affects producing language. Generate solutions: allow extra time to respond and offer picture or word boards.",
+          "Global aphasia impairs both comprehension and expression. This client understands normally.",
+          "Dysarthria is a motor problem with articulation (slurred speech) while language is intact. This client is struggling to find and form the words themselves, which is a language problem."
+        ]
+      },
+      {
+        "stem": "A client with receptive aphasia after a stroke needs instructions before a transfer from bed to chair. Which approach by the nurse is most appropriate?",
+        "options": [
+          "Speak more slowly and loudly so the client can catch every word",
+          "Give a written list of the transfer steps to read",
+          "Use a simplified, child-like tone so the instructions feel less overwhelming",
+          "Use a normal adult tone, give one short instruction at a time, and pair each with a gesture"
+        ],
+        "answer": 3,
+        "explanations": [
+          "The problem is processing language, not hearing. Raising your voice does not improve comprehension and can feel demeaning.",
+          "Reading comprehension is usually impaired along with spoken language, so written steps do not get around the deficit.",
+          "The blueprint says to use a normal adult tone and not assume impaired intelligence. A child-like tone is disrespectful and no clearer.",
+          "CJMM — Analyze cues: receptive aphasia impairs understanding of language, not hearing or intelligence. Generate solutions: keep spoken language simple (one idea at a time), add nonverbal cues such as gestures and demonstration, use a normal adult tone, and give the client time to respond. Evaluate: watch whether the client performs each step."
+        ]
+      },
+      {
+        "stem": "Two hours after admission for an ischemic stroke, a client with mild left-sided weakness asks for water and their morning pills. The nurse notes that the gag reflex is intact. What should the nurse do?",
+        "options": [
+          "Give the pills crushed in applesauce, since the gag reflex is intact",
+          "Keep the client NPO, including oral medications, until a validated swallow screen is done and passed",
+          "Offer small sips of thin water first and give the pills if there is no coughing",
+          "Give the oral medications whole with a full glass of water while the client sits upright at 90 degrees"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Changing the texture comes after a swallow evaluation, not before. A gag reflex does not clear the client.",
+          "CJMM — Analyze cues: an intact gag reflex does not establish a safe swallow, and silent aspiration is common after a stroke. Take action: keep the client NPO, including oral medications, until a validated swallow screen is passed. If the client fails the screen, refer to speech-language pathology. Evaluate: follow the texture, positioning, and feeding plan that is prescribed.",
+          "Watching for a cough after sips is not a validated screen, and silent aspiration produces no cough.",
+          "Positioning upright helps, but it does not replace screening. The client still has not been cleared to swallow."
+        ]
+      },
+      {
+        "stem": "A client with a right-hemisphere stroke has left homonymous hemianopsia and left-sided neglect. Which nursing interventions are appropriate? Select all that apply.",
+        "options": [
+          "Cue the client to turn the head to scan toward the left side",
+          "Remind the client to look at the left side of the meal tray, or rotate the tray during the meal",
+          "Check the left arm often for safe positioning and for skin injury",
+          "Patch one eye to sharpen the remaining vision",
+          "Place the call light on the left side to make the client use that side"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—Scanning makes up for the lost field and is the main teaching strategy.",
+          "Correct—The client may eat only from the visible half of the tray. Cueing or rotating it ensures adequate intake.",
+          "Correct—With neglect, the client may not notice the left arm hanging off the bed or getting caught, so injury prevention is essential.",
+          "Incorrect—Eye patching is used for diplopia (double vision). It does not help hemianopsia and reduces vision further.",
+          "Incorrect—The call light must be where the client can see and reach it. Putting it in the blind field creates a safety hazard."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client is being discharged on apixaban after an ischemic stroke caused by atrial fibrillation. Which statement indicates a need for further teaching?",
+        "options": [
+          "\"I'll take apixaban every day, even when I feel fine.\"",
+          "\"If my face droops or my arm goes weak, I'll call 911 right away.\"",
+          "\"Keeping my blood pressure under control lowers my chance of another stroke.\"",
+          "\"If the weakness goes away within an hour like last time, I can wait and call my doctor in the morning.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This statement is correct. Adherence to anticoagulation is the main secondary prevention for a stroke caused by atrial fibrillation.",
+          "This statement is correct. It applies BE FAST and the emergency response to recurrent symptoms.",
+          "This statement is correct. Hypertension is a major modifiable stroke risk factor.",
+          "CJMM — Evaluate outcomes (teaching): symptoms that resolve may be a TIA, which is a warning sign of a coming stroke. The blueprint says resolution does not remove the need for urgent evaluation. Waiting until morning loses the treatment window if a stroke follows. This statement needs correcting: recurrent symptoms, even brief ones, mean calling 911 (BE FAST)."
+        ]
+      }
+    ],
+    "acute-neuro": [
+      {
+        "stem": "A client with a traumatic brain injury has BP 96/57 mm Hg and ICP 25 mm Hg. Which conclusion by the nurse is correct?",
+        "options": [
+          "CPP is 45 mm Hg, which is inadequate, so the provider must be notified and perfusion supported",
+          "CPP is 45 mm Hg, which is acceptable as long as the ICP stays under 30 mm Hg",
+          "CPP is 95 mm Hg, which is adequate cerebral perfusion",
+          "CPP is 70 mm Hg, which is within the target range"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: MAP = (SBP + 2 × DBP) ÷ 3 = (96 + 114) ÷ 3 = 70 mm Hg, and CPP = MAP − ICP = 70 − 25 = 45 mm Hg. Prioritize hypotheses: severe-TBI guidance targets a CPP of about 60–70 mm Hg and treats an ICP above 22, so this brain is underperfused and secondary ischemic injury is underway. Take action: notify the provider and support perfusion (prevent hypotension, use ICP-lowering measures as prescribed).",
+          "An ICP of 25 is already above the treatment threshold (about 22), and a CPP of 45 is too low no matter what the ICP is.",
+          "This adds the ICP to the MAP instead of subtracting it. CPP = MAP − ICP.",
+          "70 is the MAP, not the CPP. The ICP still has to be subtracted."
+        ]
+      },
+      {
+        "stem": "The nurse is monitoring a client 6 hours after a closed head injury. Which finding is the earliest sign of rising intracranial pressure?",
+        "options": [
+          "BP rising from 132/80 to 168/62 mm Hg",
+          "Heart rate falling from 88/min to 52/min",
+          "A client who was oriented is now restless and asking the same question repeatedly",
+          "A unilateral fixed, dilated pupil"
+        ],
+        "answer": 2,
+        "explanations": [
+          "A widening pulse pressure with hypertension is part of the Cushing triad, which is a late sign of brainstem compression.",
+          "Bradycardia is also part of the late Cushing triad. Waiting for it means compensation has already failed.",
+          "CJMM — Recognize cues: a change in level of consciousness (restlessness, new confusion) is the earliest and most sensitive sign of rising ICP, because the cortex is the first area affected by reduced perfusion. Take action: report it promptly, while the client may still be in the compensation phase and the change can be reversed. Evaluate: trend the GCS, pupils, and motor findings.",
+          "A fixed, dilated pupil is a late sign suggesting herniation. Pupil changes can occur early, but a fixed, dilated pupil is not an early finding."
+        ]
+      },
+      {
+        "stem": "A client with a severe TBI has an ICP of 24 mm Hg. Which nursing action is most appropriate?",
+        "options": [
+          "Group the bath, linen change, repositioning, and suctioning into one block so the client can rest afterward",
+          "Elevate the head of the bed about 30 degrees with the neck neutral and the hips not sharply flexed",
+          "Suction the endotracheal tube every hour to prevent hypoxemia",
+          "Keep the head of the bed flat to maximize blood flow to the brain"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Grouping several stimulating activities produces a sustained rise in ICP. When ICP is elevated, the blueprint says to space activities out.",
+          "CJMM — Generate solutions/take action: elevating the head of the bed about 30 degrees with the neck neutral and avoiding sharp hip flexion helps venous blood drain out of the skull (Monro–Kellie principle) without reducing arterial inflow. This is a key nursing action for lowering ICP. Evaluate: watch the ICP and CPP response.",
+          "Suctioning raises ICP and should be done only when needed, not hourly, with the client's response monitored.",
+          "Lying flat reduces venous drainage from the head and raises ICP."
+        ]
+      },
+      {
+        "stem": "After a baseball struck the side of the head, a client briefly lost consciousness. In the ED the client is now alert and oriented with a GCS of 15 and asks to go home. Which action is most appropriate?",
+        "options": [
+          "Prepare discharge teaching, since the client is neurologically intact",
+          "Give the prescribed opioid for headache and let the client sleep uninterrupted",
+          "Continue frequent neurologic checks, recognizing that the client may be in a lucid interval",
+          "Reassure the client that a normal exam rules out a bleed"
+        ],
+        "answer": 2,
+        "explanations": [
+          "A normal GCS during a lucid interval is falsely reassuring. Rapid deterioration can follow.",
+          "Sedating opioids and uninterrupted sleep hide changes in level of consciousness, the earliest sign of deterioration.",
+          "CJMM — Recognize cues: a blow to the temporal area, brief loss of consciousness, and now a completely normal exam. Prioritize hypotheses: this is the classic picture of an epidural hematoma, which is often arterial and may include a lucid interval before rapid decline. Take action: continue frequent neuro assessments. A falling GCS, a new pupil difference, or new weakness needs urgent escalation and imaging.",
+          "A normal initial exam does not rule out an expanding bleed."
+        ]
+      },
+      {
+        "stem": "A client with a head injury has ecchymosis behind the right ear and clear fluid dripping from the nose. Which nursing action is most appropriate?",
+        "options": [
+          "Insert a nasogastric tube to decompress the stomach before CT",
+          "Pack the nostrils firmly with gauze to stop the drainage",
+          "Test the drainage for glucose to confirm it is CSF before notifying the provider",
+          "Place a loose collection dressing under the nose and tell the client not to blow their nose"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Nasal tubes are contraindicated with a basilar skull fracture because they can pass through the fracture into the brain. If decompression is needed, the oral route is used.",
+          "Tight packing traps CSF, can raise pressure, and promotes infection. The dressing should be loose.",
+          "Halo or glucose findings alone do not confirm CSF (beta-2 transferrin can help), and testing should never delay notifying the provider.",
+          "CJMM — Recognize cues: Battle sign plus clear rhinorrhea suggests a basilar skull fracture with a CSF leak. Analyze: an open path to the brain means a risk of meningitis, and a tube could pass into the cranial vault. Take action: use a loose collection dressing, avoid nose blowing and nasal tubes or suctioning, and report the findings."
+        ]
+      },
+      {
+        "stem": "A client with a TBI opens the eyes only to painful stimuli, makes incomprehensible sounds, and withdraws from pain. What is the nurse's priority?",
+        "options": [
+          "Prepare for airway support, because the GCS is 8",
+          "Raise the head of the bed to 45 degrees and recheck the GCS in 1 hour",
+          "Take the client to CT before any further intervention",
+          "Document a GCS of 10 (moderate injury) and continue neuro checks every 2 hours"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: Eyes to pain = 2, incomprehensible sounds = 2, withdraws from pain = 4, so the GCS is 8 (a severe injury). Prioritize: a GCS of 8 or less means the client may not be able to protect their airway, and hypoxia worsens secondary brain injury. Take action: follow the ABCs. Get urgent airway assessment and support (the 'less than 8, intubate' principle) before anything else.",
+          "Positioning does not protect an airway the client cannot maintain, and waiting an hour risks hypoxia and aspiration.",
+          "Imaging is needed, but a client with an unprotected airway should not leave for CT until the airway is secured.",
+          "This is a scoring error. The total is 8 (2 + 2 + 4), which is a severe injury, not 10."
+        ]
+      },
+      {
+        "stem": "A client is admitted 1 hour after a C5 spinal cord injury. BP is 78/42 mm Hg, HR 48/min, and the skin below the injury is warm and dry. How does the nurse interpret these findings?",
+        "options": [
+          "Hypovolemic shock from internal bleeding",
+          "Spinal shock",
+          "Autonomic dysreflexia",
+          "Neurogenic shock"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Hypovolemic shock produces tachycardia with cool, clammy skin. Bradycardia with warm, dry skin points to a neurogenic cause.",
+          "Spinal shock is a temporary loss of reflexes with flaccid paralysis below the injury. It is a neurologic and reflex problem, not the cause of these vital signs.",
+          "Autonomic dysreflexia causes severe hypertension, not hypotension, and usually appears after reflexes return.",
+          "CJMM — Recognize cues: hypotension with bradycardia and warm, dry skin after a cervical injury. Analyze cues: an injury at T6 or above interrupts sympathetic outflow, so the vessels dilate and the heart is driven by unopposed vagal tone. That is neurogenic shock, a circulatory problem. Take action: support perfusion with the prescribed fluids and vasopressors, and avoid hypotension."
+        ]
+      },
+      {
+        "stem": "A client with a T4 spinal cord injury from 8 months ago suddenly reports a pounding headache. BP is 212/110 mm Hg (baseline 102/64), HR 52/min, and the face is flushed and sweaty. The client is lying in bed. What should the nurse do first?",
+        "options": [
+          "Lower the head of the bed and elevate the legs",
+          "Sit the client upright and lower the legs",
+          "Perform a digital rectal exam to check for impaction",
+          "Give the PRN antihypertensive, then look for the cause"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Lying flat with the legs raised pushes more blood toward the head and makes the hypertensive crisis worse.",
+          "CJMM — Recognize cues: an injury above T6, sudden severe hypertension, headache, flushing and sweating above the injury, and bradycardia. Prioritize: this is autonomic dysreflexia, an emergency. Take action: sit the client upright and lower the legs right away to pool blood in the lower body and drop the BP, then call for help, loosen clothing, and check BP every 1–2 minutes. Next, look for the trigger, starting with bladder distention or a blocked catheter.",
+          "The bladder is checked first, and unplanned rectal manipulation can make the episode worse.",
+          "Medication is given if the BP stays high after positioning and removing the trigger. It is not the first step."
+        ]
+      },
+      {
+        "stem": "A client on seizure precautions has a generalized tonic-clonic seizure in bed. Which actions should the nurse take? Select all that apply.",
+        "options": [
+          "Stay with the client and note the time the seizure began",
+          "Turn the client to a side-lying position when it is safe to do so",
+          "Insert an oral airway or padded tongue blade between the teeth",
+          "Gently restrain the arms to prevent injury",
+          "Protect the head and move hazards away",
+          "Make sure working suction and oxygen are ready at the bedside"
+        ],
+        "answer": [
+          0,
+          1,
+          4,
+          5
+        ],
+        "explanations": [
+          "Correct—Timing the seizure shows whether it has reached 5 minutes (status epilepticus), which would require a rescue benzodiazepine.",
+          "Correct—Side-lying lets secretions drain and protects the airway. Keep spine precautions if trauma is suspected.",
+          "Incorrect—Forcing anything into the mouth can break teeth, injure the client or the nurse, and cause aspiration. Nothing goes in the mouth.",
+          "Incorrect—Restraint can cause fractures and soft-tissue injury and does not stop the seizure.",
+          "Correct—Protecting the head and clearing hazards prevents injury.",
+          "Correct—Suction and oxygen at the bedside are standard seizure precautions for clearing secretions and treating hypoxemia afterward."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client's generalized tonic-clonic seizure has now lasted 6 minutes. SpO2 is 87%, and a peripheral IV is in place. What should the nurse do first?",
+        "options": [
+          "Continue to observe, since most seizures stop on their own",
+          "Give the prescribed IV fosphenytoin loading dose before any other medication",
+          "Give the prescribed rescue benzodiazepine (such as IV lorazepam) promptly while supporting the airway and oxygenation",
+          "Insert a padded bite block to keep the airway open"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Most seizures do stop on their own, but this one has passed the 5-minute threshold. Continuing to watch risks brain injury and worsening hypoxia.",
+          "Fosphenytoin is second-line therapy after the benzodiazepine, not instead of it.",
+          "CJMM — Recognize cues: a seizure lasting 5 minutes or more is convulsive status epilepticus, a neurologic emergency, and the hypoxemia confirms the airway is compromised. Take action: activate the emergency response, support the ABCs (oxygen, suction, positioning), check glucose, and give the prescribed rescue benzodiazepine promptly. Evaluate outcomes: the seizure stops, the airway is maintained, and second-line antiseizure therapy is ready if seizures continue. A brief 15–20-second seizure, by contrast, does not need a benzodiazepine.",
+          "Nothing should be placed in the mouth during a seizure. The airway is supported by positioning, suction, and oxygen."
+        ]
       }
     ]
   }

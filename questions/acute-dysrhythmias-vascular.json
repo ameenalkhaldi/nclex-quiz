@@ -1,0 +1,192 @@
+{
+  "topic": "acute-dysrhythmias-vascular",
+  "label": "Acute: Dysrhythmias, DVT/PE & Aorta",
+  "questions": [
+    {
+      "stem": "The telemetry alarm sounds for a client admitted with pneumonia. The monitor now shows a wide-complex tachycardia at 180/min; 2 minutes earlier the rhythm was sinus at 92/min. What should the nurse do first?",
+      "options": [
+        "Go to the bedside and check responsiveness, breathing, and a carotid pulse",
+        "Prepare the prescribed amiodarone infusion for ventricular tachycardia",
+        "Bring the defibrillator to the room and place the pads",
+        "Print a rhythm strip and measure the QRS width to confirm the rhythm"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a sudden change in rhythm on the monitor tells you about electrical activity, not about the client. Analyze/prioritize: whether this is VT with a pulse, pulseless VT, or artifact all depends on how the client is doing, so the blueprint's 'assess first' rule applies. Take action: go to the bedside and check responsiveness, breathing, and pulse (ABCs). That one finding decides everything after it: CPR and defibrillation, synchronized cardioversion, antiarrhythmic drugs, or nothing at all if it is artifact.",
+        "incorrect": [
+          "Amiodarone is for stable VT with a pulse. Starting it before you know whether the client has a pulse could delay CPR and defibrillation, and it treats the monitor instead of the client.",
+          "Getting the defibrillator ready is reasonable, but it comes after the bedside assessment. If the client is pulseless the first priority is CPR, and if it is artifact the pads are unnecessary.",
+          "Interpreting the strip is useful, but it delays the assessment that matters most. You confirm the client's condition first and analyze the rhythm second."
+        ]
+      }
+    },
+    {
+      "stem": "A client has monomorphic ventricular tachycardia at 170/min. The client has a palpable carotid pulse, BP 74/40 mm Hg, is newly confused, and reports chest pressure. Which intervention should the nurse prepare for?",
+      "options": [
+        "Unsynchronized defibrillation at the maximum energy setting",
+        "Immediate high-quality chest compressions",
+        "Synchronized cardioversion",
+        "IV amiodarone, then reassessment in 10 minutes"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pulse present, hypotension, altered mental status, and ischemic chest pressure. Analyze cues: these are instability markers, so this is unstable VT with a pulse. Generate solutions/take action: unstable monomorphic VT with a pulse calls for synchronized cardioversion. Syncing the shock to the R wave keeps it from landing on the T wave and causing VF. Evaluate outcomes: watch for conversion and a better BP and mentation.",
+        "incorrect": [
+          "Unsynchronized defibrillation is for pulseless VT/VF or sustained polymorphic VT. Giving an unsynchronized shock to a client who has a pulse can trigger VF.",
+          "Chest compressions are for a client with no pulse. This client has one, so compressions are the wrong treatment.",
+          "Amiodarone is an option for stable VT. This client is unstable (BP 74/40, confused), so waiting 10 minutes for a drug to work delays the treatment they need right now."
+        ]
+      }
+    },
+    {
+      "stem": "A client on a cardiac unit is found unresponsive with no pulse, and the monitor shows ventricular fibrillation. The nurse has called a code and started chest compressions. A second nurse arrives with the defibrillator. What is the priority action?",
+      "options": [
+        "Give epinephrine 1 mg IV push, then defibrillate",
+        "Defibrillate as soon as the pads are placed, then resume CPR right away",
+        "Give amiodarone 300 mg IV push before the first shock",
+        "Pause compressions to insert an advanced airway before defibrillating"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: unresponsive, pulseless, VF. Prioritize hypotheses: VF is a shockable arrest, and survival drops with every minute until defibrillation. Take action: start CPR and defibrillate as soon as possible, then go straight back to compressions. Epinephrine and amiodarone come later in the ACLS algorithm and never take the place of a timely shock. Evaluate: check the rhythm after 2 minutes of CPR.",
+        "incorrect": [
+          "In VF, epinephrine comes after defibrillation has been attempted, not before. Giving it first delays the shock, which is the most important intervention.",
+          "Amiodarone is for VF/pVT that persists after shocks, not before the first one. Giving it first delays defibrillation.",
+          "An advanced airway does not come before defibrillation, and stopping compressions to place one cuts coronary perfusion. Bag-mask ventilation is fine early in the arrest."
+        ]
+      }
+    },
+    {
+      "stem": "During a code, the monitor shows an organized narrow-complex rhythm at 64/min, but the client has no palpable pulse. Which action does the nurse anticipate next?",
+      "options": [
+        "Deliver an unsynchronized shock because the rhythm is organized",
+        "Deliver a synchronized shock to restore perfusion",
+        "Give IV atropine because the rate is low",
+        "Continue CPR, give epinephrine per protocol, and look for reversible causes"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: organized electrical activity with no pulse. Analyze cues: this is pulseless electrical activity (PEA). An organized rhythm can make a client look stable, but without a pulse they are in arrest. Generate solutions/take action: PEA cannot be shocked, so the treatment is high-quality CPR, epinephrine per protocol, and a search for the reversible causes (hypoxia, hypovolemia, H+, K+, hypothermia, tamponade, tension pneumothorax, toxins, thrombosis).",
+        "incorrect": [
+          "PEA is not shockable. Shocking an organized rhythm does nothing for the missing pulse, and it interrupts CPR.",
+          "Synchronized cardioversion is only for clients who have a pulse. It plays no role in pulseless arrest.",
+          "Atropine treats symptomatic bradycardia in a client who has a pulse. It is no longer recommended for PEA, and 64/min is not bradycardic anyway."
+        ]
+      }
+    },
+    {
+      "stem": "A client's heart rate drops to 38/min in sinus bradycardia. The client is dizzy, diaphoretic, and pale, with BP 80/48 mm Hg. Which prescription should the nurse carry out first?",
+      "options": [
+        "Atropine IV",
+        "Hold the next scheduled dose of metoprolol and recheck vital signs in 1 hour",
+        "Amiodarone IV",
+        "Instruct the client to bear down as if having a bowel movement"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: HR 38 plus hypotension, dizziness, and diaphoresis. Analyze cues: the slow rate is causing poor perfusion, so this is symptomatic bradycardia. Take action: atropine is the first-line ACLS drug for symptomatic bradycardia (the 'brady → atropine' rule). Evaluate outcomes: rising HR, better BP and mentation. If atropine fails, be ready to escalate. Contributing causes such as beta blockers still need to be addressed, but only after perfusion is supported.",
+        "incorrect": [
+          "Holding the beta blocker is a sensible way to treat a contributing cause, but it does not fix the hypotension happening right now. Waiting an hour leaves a client with poor perfusion untreated.",
+          "Amiodarone treats tachydysrhythmias and can slow the heart rate further. It is the wrong drug for bradycardia.",
+          "Bearing down (a vagal maneuver) raises vagal tone and slows the heart even more. It is a technique for some tachycardias and is dangerous here."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse receives report on four telemetry clients. Which client should the nurse assess first?",
+      "options": [
+        "A client in rate-controlled atrial fibrillation at 84/min who missed a morning dose of apixaban",
+        "A client with new-onset atrial fibrillation at 152/min, BP 86/50 mm Hg, who is newly confused",
+        "A client with chronic atrial flutter at 78/min who is asking about discharge medications",
+        "A client in sinus tachycardia at 108/min who rates postoperative incisional pain 6/10"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: rapid ventricular response, hypotension, and a new change in mental status. Analyze/prioritize: those three findings are instability markers, and the blueprint says instability needs prompt escalation. This client may need urgent rate control or synchronized cardioversion. Take action: assess this client first and escalate. The other three clients are stable.",
+        "incorrect": [
+          "A missed DOAC dose matters for stroke prevention and needs follow-up, but the client is stable and rate-controlled. It is not as urgent as a client who is hypotensive and confused.",
+          "Rate-controlled atrial flutter with a discharge-teaching question is a stable, routine need.",
+          "Sinus tachycardia with moderate postoperative pain is an expected response. Treating the pain is appropriate but not urgent compared with an unstable client."
+        ]
+      }
+    },
+    {
+      "stem": "A client with newly diagnosed atrial fibrillation is starting warfarin. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"The irregular rhythm lets blood pool in my heart, and that can form a clot that travels to my brain.\"",
+        "\"I need regular INR blood tests to make sure my dose is right.\"",
+        "\"Warfarin will dissolve any clot that has already formed in my heart.\"",
+        "\"I should report black stools, nosebleeds that won't stop, or unusual bruising.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes (teaching effectiveness): anticoagulants prevent clots from growing and stop new clots from forming. They do not dissolve a clot that already exists; that is what fibrinolytics do. This client misunderstands how the drug works, so this statement needs correcting. The misunderstanding can lead to false reassurance or to poor adherence once the client believes the clot is gone.",
+        "incorrect": [
+          "This statement is correct. Atrial fibrillation causes blood to stagnate in the atria, and clots formed there can embolize to the brain (stroke). That is why anticoagulation is prescribed.",
+          "This statement is correct. Warfarin's effect is monitored with the INR.",
+          "This statement is correct. These are bleeding warning signs the client should report while on an anticoagulant."
+        ]
+      }
+    },
+    {
+      "stem": "A client has an acute left-calf deep vein thrombosis confirmed by venous duplex ultrasound and has started apixaban. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        "Ambulate the client once stable and when the treatment team permits",
+        "Teach the client to report sudden shortness of breath or sharp chest pain right away",
+        "Massage the left calf gently to relieve the aching",
+        "Get daily INR results to adjust the apixaban dose",
+        "Check for bleeding: gums, urine, stools, and bruising",
+        "Review the client's renal function results"
+      ],
+      "answer": [0, 1, 4, 5],
+      "type": "sata",
+      "rationale": {
+        "correct": "Generate solutions/take action: DVT nursing priorities are giving the prescribed anticoagulant, watching for bleeding, watching for PE, and early mobility once the team approves. For DOACs, renal function and bleeding are monitored, not the INR.",
+        "incorrect": [
+          "Correct—According to the blueprint, a client with a known DVT may walk once stable and permitted by the team. Mobility reduces venous stasis.",
+          "Correct—Sudden dyspnea and pleuritic chest pain can mean the clot has moved to the lungs (PE). Recognizing those cues early is the key safety teaching.",
+          "Incorrect—Massaging the calf could dislodge the clot and cause a PE.",
+          "Incorrect—The INR guides warfarin dosing. A routine INR does not reflect the effect of DOACs such as apixaban.",
+          "Correct—Bleeding surveillance is a core priority with any anticoagulant.",
+          "Correct—DOACs are cleared partly by the kidneys, so renal function is monitored to guide dosing and bleeding risk."
+        ]
+      }
+    },
+    {
+      "stem": "On postoperative day 3 after a hip replacement, a client suddenly becomes short of breath and reports sharp chest pain on inspiration. RR is 32/min, HR 124/min, and SpO2 86% on room air. What should the nurse do first?",
+      "options": [
+        "Get a STAT D-dimer to confirm a pulmonary embolism",
+        "Give the scheduled evening enoxaparin dose now",
+        "Prepare the client for CT pulmonary angiography",
+        "Stay with the client, apply oxygen, and call for urgent help"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden dyspnea, tachypnea, pleuritic chest pain, tachycardia, and hypoxemia in a postoperative orthopedic client. Prioritize hypotheses: PE is the leading concern. Take action: follow the ABCs. Stay with the client, give oxygen for the hypoxemia, summon urgent help (rapid response), and then monitor vital signs and SpO2 and prepare IV access. Diagnostic tests and definitive treatment come after the client is supported.",
+        "incorrect": [
+          "A D-dimer cannot confirm a PE (a positive result is nonspecific), and ordering a lab does nothing for an SpO2 of 86%.",
+          "Anticoagulation is the treatment for a stable PE, but the nurse cannot independently change the timing of a dose. It also does not address the immediate hypoxemia.",
+          "CT pulmonary angiography is the right diagnostic test, but it comes after oxygen and urgent help. A hypoxemic client should not be sent to imaging first."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a known 5.2-cm abdominal aortic aneurysm suddenly reports severe back pain. BP has dropped from 148/86 to 84/52 mm Hg, HR is 128/min, and the skin is cool and clammy. What is the priority nursing action?",
+      "options": [
+        "Give the PRN IV morphine and reassess the pain in 30 minutes",
+        "Escalate emergently and make sure large-bore IV access is in place",
+        "Palpate the abdomen deeply to check for a pulsatile mass",
+        "Give the client's scheduled oral antihypertensive"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a known aneurysm, sudden severe back pain, hypotension, tachycardia, and cool, clammy skin. Analyze/prioritize: these signs suggest rupture with hypovolemic shock, a surgical emergency. Take action: escalate urgently (rapid response or emergency team), set up access for fluids and blood, and keep monitoring perfusion while the client is prepared for treatment.",
+        "incorrect": [
+          "Pain control matters, but morphine can lower the BP further, and 'reassess in 30 minutes' wastes time when the aneurysm may have ruptured.",
+          "Deep palpation of a suspected aneurysm can worsen the rupture. Assessment should never delay escalation.",
+          "Antihypertensives are part of chronic care for a stable aneurysm. This client is hypotensive and in shock, so lowering the BP would be harmful."
+        ]
+      }
+    }
+  ]
+}

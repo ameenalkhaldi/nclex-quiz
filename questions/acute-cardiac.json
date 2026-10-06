@@ -1,0 +1,192 @@
+{
+  "topic": "acute-cardiac",
+  "label": "Acute: Cardiac (ACS, PCI, CABG, Valves)",
+  "questions": [
+    {
+      "stem": "A 58-year-old client arrives in the emergency department with crushing chest pressure that radiates to the jaw, along with diaphoresis. Vital signs: BP 152/90 mm Hg, HR 104/min, SpO2 96% on room air. Which action is the nurse's priority within the first 10 minutes?",
+      "options": [
+        "Apply oxygen at 4 L/min by nasal cannula",
+        "Obtain a 12-lead ECG",
+        "Draw a troponin level and wait for the result before further testing",
+        "Give IV morphine for the chest pain"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: classic ischemic chest pressure, jaw radiation, and diaphoresis. Prioritize hypotheses: ACS, possibly a STEMI. Take action: the course target is a 12-lead ECG within 10 minutes of arrival, because it is the test that separates a STEMI (cath lab now) from an NSTEMI or unstable angina. Every later decision depends on it.",
+        "incorrect": [
+          "Oxygen is given for hypoxemia (usually SpO2 below 90%). At 96%, routine oxygen is not indicated, and MONA is not a required sequence.",
+          "Serial troponins are needed, but you do not wait for a result before getting the ECG. A STEMI is diagnosed on the ECG, and waiting delays reperfusion.",
+          "Pain relief may be needed, but morphine is not the first-10-minutes priority and can hide ongoing ischemia. The ECG comes first."
+        ]
+      }
+    },
+    {
+      "stem": "A client's 12-lead ECG shows ST-segment elevation in leads V1–V4. The first troponin is still pending, and the hospital has a 24-hour cardiac catheterization lab. Which action does the nurse anticipate?",
+      "options": [
+        "Wait for a second troponin to confirm myocardial infarction before calling the cath lab",
+        "Start a fibrinolytic right away, since every STEMI requires one",
+        "Treat as an NSTEMI with a heparin infusion and serial troponins over 6 hours",
+        "Activate the cath lab, with a goal of PCI within 90 minutes of arrival"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: ST elevation in contiguous leads means a STEMI, which is usually a complete coronary occlusion and the most time-critical form of ACS. Generate solutions: rapid PCI is the preferred reperfusion strategy. Take action: activate the cath lab, with a door-to-balloon target of 90 minutes. A STEMI is diagnosed on the ECG, so waiting for the troponin is not required.",
+        "incorrect": [
+          "Troponin rises in both STEMI and NSTEMI, but ST elevation alone is enough to activate the STEMI pathway. Waiting loses heart muscle ('time is muscle').",
+          "Fibrinolytics are for an eligible STEMI only when timely PCI is not available. Here PCI is available, and it is preferred.",
+          "This ECG is not an NSTEMI. ST elevation means a STEMI, which needs emergent reperfusion, not a 6-hour observation pathway."
+        ]
+      }
+    },
+    {
+      "stem": "A client at a rural hospital is having a STEMI that began 3 hours ago. Transfer for PCI cannot happen within 120 minutes, so a fibrinolytic is prescribed. Which finding in the client's history requires the nurse to contact the provider before giving it?",
+      "options": [
+        "Type 2 diabetes managed with metformin",
+        "Age 76",
+        "A hemorrhagic stroke 4 years ago",
+        "Current BP of 148/88 mm Hg"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client meets the timing criteria (eligible STEMI, under 12 hours, PCI not available in time). Analyze cues: the blueprint says to screen for bleeding contraindications before a fibrinolytic. Any prior intracranial hemorrhage is an absolute contraindication, because the drug could cause a fatal brain bleed. Take action: hold the drug and contact the provider.",
+        "incorrect": [
+          "Diabetes is a cardiac risk factor, not a bleeding contraindication to fibrinolytics. Metformin mainly matters for contrast procedures and renal function.",
+          "Older age raises bleeding risk somewhat, but it is not on its own a reason to withhold a fibrinolytic.",
+          "A BP of 148/88 is well below the severely elevated levels that make fibrinolysis unsafe."
+        ]
+      }
+    },
+    {
+      "stem": "Two hours after PCI through the right femoral artery, the client's BP is 84/50 mm Hg (it was 128/76), HR is 118/min, and the client reports new back and flank pain. The femoral site is soft with no visible hematoma. What is the nurse's interpretation?",
+      "options": [
+        "Possible retroperitoneal bleeding",
+        "A vasovagal reaction to sheath removal",
+        "Acute stent thrombosis with reinfarction",
+        "Early contrast-induced acute kidney injury"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypotension, tachycardia, and back or flank pain after femoral access. Analyze cues: the dressing looks fine, but the blueprint specifically warns that hypotension with back or flank pain may mean retroperitoneal bleeding, which collects out of sight behind the abdomen. Take action: escalate immediately. Evaluate: trend the vital signs and hemoglobin.",
+        "incorrect": [
+          "A vasovagal reaction causes hypotension with bradycardia, not tachycardia, and it does not cause flank pain.",
+          "Stent thrombosis usually shows up as recurrent chest pain and new ECG changes, not back or flank pain with signs of blood loss.",
+          "Contrast-induced kidney injury develops over 24–72 hours and shows as falling urine output and rising creatinine, not sudden shock within 2 hours."
+        ]
+      }
+    },
+    {
+      "stem": "While being prepared for a scheduled cardiac catheterization, a client tells the nurse, \"I'm allergic to shellfish. I break out in hives.\" What is the nurse's best action?",
+      "options": [
+        "Notify the provider that the procedure must be cancelled because of an iodine allergy",
+        "Ask whether the client has ever had a reaction to iodinated contrast dye and report the findings",
+        "Give diphenhydramine before the procedure to prevent a reaction",
+        "Document 'iodine allergy—contrast contraindicated' in the allergy record"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the blueprint says a shellfish allergy does not specifically predict a contrast allergy. The question that matters is whether the client has reacted to contrast before. Generate solutions/take action: collect the right history (prior contrast reactions) and report it, along with the other pre-PCI checks: consent, IV access, renal function, bleeding risk, and baseline pulses.",
+        "incorrect": [
+          "Cancelling over a shellfish allergy is based on a myth. A shellfish allergy is not a contraindication to contrast.",
+          "Premedicating without a prescription is outside the nurse's scope, and it is not routinely indicated for a shellfish allergy.",
+          "Recording an 'iodine allergy' spreads a misconception and could wrongly block a needed procedure."
+        ]
+      }
+    },
+    {
+      "stem": "A client is being discharged on aspirin and clopidogrel after a drug-eluting stent was placed for ACS. Which statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll tell my dentist I take blood thinners, but I won't stop them unless my cardiologist says so.\"",
+        "\"If I have chest pain that doesn't go away, I'll call 911 instead of driving myself.\"",
+        "\"I'll report black, tarry stools or blood in my urine.\"",
+        "\"Once I finish this first bottle and feel fine, I can stop the clopidogrel.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes (teaching): stopping dual antiplatelet therapy early sharply raises the risk of stent thrombosis and a repeat MI. The duration is individualized and is commonly at least 12 months after ACS. Antiplatelets should never be stopped without the cardiologist, and feeling well is not a reason to stop. This statement needs correcting.",
+        "incorrect": [
+          "This statement is correct. The client keeps the dentist informed but does not stop antiplatelets independently.",
+          "This statement is correct. New or persistent chest discomfort needs emergency evaluation by EMS.",
+          "This statement is correct. These are GI and GU bleeding signs to report while on antiplatelet therapy."
+        ]
+      }
+    },
+    {
+      "stem": "Four hours after CABG, a client's chest-tube drainage, which had been 150 mL/hr, suddenly drops to 10 mL/hr. BP is 82/64 mm Hg, HR 130/min, neck veins are distended, and heart sounds are muffled. Which complication does the nurse suspect?",
+      "options": [
+        "Hypovolemia from postoperative bleeding",
+        "Expected slowing of drainage as hemostasis develops",
+        "Cardiac tamponade",
+        "Left ventricular failure from fluid overload"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: chest-tube output stops abruptly after being high, hypotension with a narrow pulse pressure, JVD, and muffled heart sounds. Analyze/prioritize: blood is likely clotting in the tube and collecting around the heart, compressing it. That is cardiac tamponade, one of the blueprint's urgent post-CABG complications. Take action: escalate immediately; the client may need emergent surgical decompression.",
+        "incorrect": [
+          "Hypovolemia also causes hypotension and tachycardia, but the neck veins would be flat. Distended neck veins with muffled heart sounds point to tamponade.",
+          "Drainage that drops abruptly while the client becomes unstable is not expected. It is a red flag that the tube is clotted off.",
+          "Left ventricular failure causes crackles and pulmonary congestion. Muffled heart sounds with sudden loss of chest-tube output fits tamponade better."
+        ]
+      }
+    },
+    {
+      "stem": "Six months after a mechanical mitral valve replacement, a client says, \"My INR has been perfect for months. When can I stop the warfarin?\" What is the nurse's best response?",
+      "options": [
+        "\"Once the valve is covered by your own tissue, usually at 6 months, you can stop.\"",
+        "\"You'll need warfarin for life, because mechanical valves keep a high risk of clots.\"",
+        "\"After the first year, a daily aspirin alone is enough to protect the valve.\"",
+        "\"If your INR stays in range for a year, your provider will taper it off.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions (teaching): a mechanical valve lasts a long time but stays thrombogenic, so lifelong warfarin is required to prevent valve thrombosis and stroke. A stable INR shows the therapy is working, not that it can be stopped. Evaluate outcomes: reinforce adherence and regular INR monitoring.",
+        "incorrect": [
+          "That describes tissue (bioprosthetic) valves, which may need anticoagulation only at first. It does not apply to mechanical valves.",
+          "Aspirin alone does not protect a mechanical valve from thrombosis.",
+          "A therapeutic INR shows the warfarin is working. Tapering it off would expose the client to valve clots."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a history of injection drug use is admitted with a temperature of 39.2°C (102.6°F), a new regurgitant murmur, and painful nodules on the fingertips. Infective endocarditis is suspected. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        "Draw the prescribed blood cultures before the first antibiotic dose, provided this does not delay urgent care",
+        "Assess for new focal neurologic deficits such as facial droop or arm weakness",
+        "Leave an unused second peripheral IV in place in case it is needed later",
+        "Monitor for worsening dyspnea and new crackles",
+        "Teach that good daily oral hygiene helps prevent future infection",
+        "Explain that the client must take antibiotics before every future dental cleaning"
+      ],
+      "answer": [0, 1, 3, 4],
+      "type": "sata",
+      "rationale": {
+        "correct": "Recognize cues: fever, a new murmur, and Osler nodes in a client who injects drugs point to endocarditis. Take action: get cultures before antibiotics when that is feasible, and watch for embolic stroke, heart failure from valve damage, and sepsis. Prevent recurrence: remove unnecessary lines and maintain good oral hygiene.",
+        "incorrect": [
+          "Correct—Blood cultures drawn before antibiotics identify the organism and guide the 4–6-week IV course. Urgent care should not be delayed to get them.",
+          "Correct—Vegetations can break off and cause an embolic stroke, so new neurologic deficits are an important cue.",
+          "Incorrect—The blueprint says to remove unnecessary vascular catheters. An idle line is a source of more bacteremia.",
+          "Correct—Valve destruction, especially regurgitation, can cause acute heart failure. Crackles and dyspnea are cues to escalate.",
+          "Correct—The blueprint stresses good oral hygiene for prevention.",
+          "Incorrect—Dental prophylaxis is reserved for specific highest-risk conditions and qualifying procedures. Telling the client it is needed for 'every cleaning' overstates the guideline."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse on a cardiac step-down unit receives report on four clients. Which client should the nurse see first?",
+      "options": [
+        "A client with stable angina who had chest discomfort while walking in the hall, relieved by rest 5 minutes ago",
+        "A client with angina that has been worsening in frequency, now with chest pain at rest for 20 minutes despite one sublingual nitroglycerin",
+        "A client 3 days post-CABG with incisional pain rated 5/10 when coughing",
+        "A client with known mitral regurgitation, stable 1+ ankle edema, and an unchanged daily weight"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: chest pain at rest, an escalating pattern, and no relief from nitroglycerin. Analyze/prioritize: this is unstable angina or an evolving MI (ACS), which needs urgent evaluation. Take action: assess now, get a 12-lead ECG, and activate the chest-pain pathway. The other clients have predictable or expected findings.",
+        "incorrect": [
+          "Discomfort that comes with exertion and goes away with rest is the definition of stable angina, and it has resolved. This client can wait.",
+          "Incisional pain when coughing on postoperative day 3 is expected and should be treated, but it is not a sign of ischemia.",
+          "Chronic, stable valve findings with an unchanged weight show no decompensation."
+        ]
+      }
+    }
+  ]
+}
