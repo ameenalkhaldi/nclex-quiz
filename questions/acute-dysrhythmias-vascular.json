@@ -3,6 +3,396 @@
   "label": "Acute: Dysrhythmias, DVT/PE & Aorta",
   "questions": [
     {
+      "stem": "A client admitted for atrial fibrillation with rapid ventricular response is being discharged on newly prescribed warfarin. During discharge medication reconciliation, the nurse sees that the client's home medication list includes apixaban 5 mg twice daily, and the discharge orders do not mention apixaban. What should the nurse do?",
+      "options": [
+        "Teach the client to take both anticoagulants because each works by a different mechanism",
+        "Tell the client to stop apixaban at home because warfarin is replacing it",
+        "Contact the provider to clarify whether apixaban is discontinued before completing discharge teaching",
+        "Complete warfarin teaching and tell the client to ask the primary care provider about apixaban at follow-up"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a home DOAC is on the list, a new anticoagulant (warfarin) has been prescribed, and the discharge orders say nothing about the DOAC. Analyze cues: if this is not reconciled, the client may take two anticoagulants at once and have a high risk of major bleeding. Take action: the purpose of medication reconciliation is to resolve this kind of discrepancy with the prescriber before the client leaves, so the discharge instructions are explicit. Evaluate outcomes: confirm the final list with the client using teach-back.",
+        "incorrect": [
+          "Two anticoagulants taken together are not complementary therapy. Together they greatly increase bleeding risk, and nothing in the orders supports taking both.",
+          "Stopping apixaban is probably the intended plan, but the nurse cannot decide that on their own. The discrepancy needs an explicit prescriber order so the discharge record is accurate.",
+          "Leaving the question for a later appointment means the client goes home unsure and may take both drugs in the meantime. Reconciliation has to be finished at the transition, not after it."
+        ]
+      }
+    },
+    {
+      "stem": "A client with end-stage heart failure has had several ICD shocks this week and is still receiving IV diuretics. When palliative care is consulted, the client's daughter says, \"So this means we're giving up and stopping all his heart medicines.\" Which response by the nurse is best?",
+      "options": [
+        "\"Palliative care is the same as hospice, so it starts once treatments aimed at his heart are stopped.\"",
+        "\"Palliative care focuses on easing his symptoms and supporting his goals, and it can be given alongside his current heart treatments.\"",
+        "\"You and your father will need to decide today whether to turn off his defibrillator.\"",
+        "\"It sounds like you're upset. I will ask the chaplain to come and talk with you.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the daughter thinks palliative care means stopping treatment. Analyze cues: this is a knowledge gap that may make the family resist a service meant to help them. Take action: correct the misconception. Per the blueprint, palliative care supports symptom relief and goals of care throughout serious illness, and it does not require stopping disease-directed therapy. Evaluate outcomes: the family can then join the goals-of-care discussion with accurate information.",
+        "incorrect": [
+          "This confuses palliative care with hospice. Palliative care can begin at any point in a serious illness, even while treatment continues.",
+          "ICD deactivation may come up in goals-of-care discussions, but it is the client's decision, made over time with the team. Pressuring the family to decide today is inappropriate and does not answer what she said.",
+          "Spiritual support may help later, but handing the conversation off right away leaves the daughter's misunderstanding uncorrected."
+        ]
+      }
+    },
+    {
+      "stem": "On postoperative day 1 after a bowel resection, a client's monitor shows sinus tachycardia at 126/min (it was 92/min). BP is 94/58 mm Hg (it was 130/76), urine output is 20 mL/h for the past 2 hours, and hemoglobin is 8.0 g/dL (it was 11.4 g/dL this morning). The client has a PRN prescription for IV metoprolol for HR >120/min. What should the nurse do?",
+      "options": [
+        "Give the PRN metoprolol because the HR is above the prescribed parameter",
+        "Give the PRN analgesic, since postoperative pain is the most common cause of sinus tachycardia",
+        "Hold the metoprolol and notify the provider of findings suggesting hemorrhage",
+        "Recheck the vital signs in 1 hour to see whether the tachycardia resolves"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new sinus tachycardia, falling BP, oliguria, and a 3.4-g/dL drop in hemoglobin. Analyze cues/prioritize hypotheses: the tachycardia is compensating for blood loss, and the blueprint says to treat the contributing cause and assess perfusion. Take action: slowing the heart with a beta blocker would remove that compensation and deepen the hypotension. The nurse holds the drug and escalates suspected bleeding, anticipating fluids or blood and surgical evaluation.",
+        "incorrect": [
+          "The HR meets the PRN parameter, but the BP and hemoglobin are a second cue that makes the drug unsafe. Blocking compensatory tachycardia in a client who is losing blood can cause shock.",
+          "Pain is a common cause of sinus tachycardia, but pain does not explain the hypotension, low urine output, and falling hemoglobin. Treating pain would miss the hemorrhage.",
+          "Waiting an hour delays treatment for a client who is already showing signs of poor perfusion."
+        ]
+      }
+    },
+    {
+      "stem": "A healthy 22-year-old client recovering from an appendectomy is on telemetry. The HR varies between 64 and 88/min, speeding up with inspiration and slowing with expiration. Each QRS is narrow and preceded by an upright P wave. The client is asymptomatic with BP 118/72 mm Hg. Which conclusion by the nurse is most appropriate?",
+      "options": [
+        "This is sinus arrhythmia, a normal respiratory variation; document it and continue routine monitoring",
+        "The irregular rate suggests atrial fibrillation; notify the provider about anticoagulation",
+        "The rate changes suggest an electrolyte imbalance; request a STAT potassium and magnesium",
+        "The irregularity may be ischemic; obtain a 12-lead ECG and a troponin level"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an irregular rate that follows the breathing cycle, an upright P wave before every narrow QRS, and normal perfusion. Analyze cues: this is sinus arrhythmia, a normal variant that is common in young people and changes with respiration. Take action: no treatment is needed. The nurse documents the finding and keeps monitoring. Evaluate: reassess if symptoms or a different rhythm appear.",
+        "incorrect": [
+          "Atrial fibrillation is irregularly irregular with no distinct P waves. This rhythm has a P wave before every QRS and a pattern tied to breathing.",
+          "Electrolyte problems more often cause ectopy such as PVCs. A regular, breathing-related variation in an asymptomatic client does not call for STAT labs.",
+          "There are no ischemic cues (no chest pain, no instability, a young client). Running an ischemia workup on a normal variant is not warranted."
+        ]
+      }
+    },
+    {
+      "stem": "A client with atrial fibrillation is receiving a continuous IV diltiazem infusion. The ventricular rate has fallen from 148/min to 86/min, but the client now reports dizziness, and BP is 84/50 mm Hg (it was 124/78 an hour ago). What is the nurse's best action?",
+      "options": [
+        "Continue the infusion because the target heart rate has been reached",
+        "Increase the infusion rate so the rate stays controlled when the client stands",
+        "Stop or reduce the infusion per protocol, keep the client supine, and notify the provider",
+        "Prepare the client for synchronized cardioversion because the AF has become unstable"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the rate is controlled, but there is new hypotension and dizziness. Analyze cues: diltiazem is a calcium channel blocker that lowers BP as well as HR. The current problem is a medication adverse effect, not loss of rate control. Take action: stop or reduce the infusion per protocol, support perfusion, and notify the provider. Evaluate outcomes: BP and symptoms improve while the rate is reassessed.",
+        "incorrect": [
+          "Reaching the rate goal does not justify continuing a drug that is causing symptomatic hypotension. Perfusion matters more than the number on the monitor.",
+          "Increasing the dose would lower the BP even more. That makes the adverse effect worse.",
+          "The rhythm is rate-controlled. The hypotension comes from the drug, not from a rapid rhythm, so cardioversion does not address the cause."
+        ]
+      }
+    },
+    {
+      "stem": "A client in atrial flutter at 150/min becomes diaphoretic and confused, with BP 76/44 mm Hg and a palpable pulse. The provider orders synchronized cardioversion. Which actions should the nurse take? Select all that apply.",
+      "options": [
+        "Confirm the defibrillator is in sync mode and that a sync marker appears on each R wave",
+        "Start chest compressions while the pads are being placed",
+        "Give the prescribed procedural sedation if the client's condition allows, without delaying the shock",
+        "Press and immediately release the shock button, because the device fires the instant it is pressed",
+        "Call \"all clear\" and visually confirm that no one is touching the client or bed before the shock",
+        "Assume sync mode stays on, so a repeat shock can be given without rechecking the setting"
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Recognize/analyze cues: hypotension and confusion make this unstable atrial flutter with a pulse, which per the blueprint requires synchronized cardioversion. Take action: confirm sync is on so the shock is timed to the R wave and avoids the T wave, sedate when the client's condition allows, and make sure everyone is clear for safety.",
+        "incorrect": [
+          "Correct—Sync mode times the shock to the R wave. A shock that lands on the T wave can cause VF. The markers confirm the device is sensing correctly.",
+          "Incorrect—The client has a pulse. Compressions are only for a client without a pulse.",
+          "Correct—Cardioversion is painful, so sedation is given when the client's condition allows, but it must not delay treatment of an unstable client.",
+          "Incorrect—In sync mode the device waits for the next R wave, so the shock button must be held until the shock is delivered. Releasing it early can mean no shock is given.",
+          "Correct—An announced, visually confirmed \"all clear\" protects staff from being shocked.",
+          "Incorrect—Many defibrillators return to unsynchronized mode after a shock. Sync must be confirmed before every repeat shock, or a client with a pulse could receive an unsynchronized shock."
+        ]
+      }
+    },
+    {
+      "stem": "A client with newly diagnosed atrial fibrillation is being discharged on apixaban. Which nurse statement best uses the teach-back method to evaluate the client's understanding?",
+      "options": [
+        "\"Do you have any questions about your apixaban before you go home?\"",
+        "\"Tell me in your own words why you take apixaban, how you will take it, and what you would do if you saw blood in your urine.\"",
+        "\"You understand that you need to take apixaban twice a day, right?\"",
+        "\"Read this handout on apixaban and sign that you have received it.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: teach-back asks the client to explain the key points in their own words: the purpose of the drug (preventing AF-related stroke), how to take it, and what to do about warning signs such as bleeding. The nurse can then find and correct gaps before the client leaves. Open-ended, specific prompts show what the client actually understands, which is the goal of teaching at a care transition.",
+        "incorrect": [
+          "\"Any questions?\" is a closed prompt. Clients often say no even when they have not understood, so it does not demonstrate comprehension.",
+          "This is a leading yes/no question that invites agreement and does not check understanding.",
+          "Written material supports teaching, but a signature only shows the client received the handout. It does not show they understood it."
+        ]
+      }
+    },
+    {
+      "stem": "A client on postoperative day 2 after an MI is receiving IV furosemide. The monitor now shows frequent multifocal PVCs with several couplets; the client had only rare PVCs yesterday. Which actions should the nurse take? Select all that apply.",
+      "options": [
+        "Assess the client for chest discomfort, dizziness, BP, and level of consciousness",
+        "Review the most recent potassium and magnesium levels",
+        "Obtain a 12-lead ECG per protocol and notify the provider of the change",
+        "Bring the defibrillator and deliver an unsynchronized shock to stop the PVCs",
+        "Give an amiodarone bolus from the code cart to suppress the ectopy",
+        "Document the PVCs as benign because the client has a pulse"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Recognize cues: new, increasing ventricular ectopy (couplets, multifocal) after an MI in a client on a potassium-wasting diuretic. Analyze cues: the blueprint says to assess symptoms, ischemia, and electrolytes when PVCs appear. Take action: assess perfusion, check K+ and Mg2+, evaluate for ischemia with a 12-lead ECG, and escalate. Correcting the cause is the treatment.",
+        "incorrect": [
+          "Correct—Checking for symptoms and perfusion tells the nurse whether the ectopy is compromising cardiac output and how urgent the situation is.",
+          "Correct—Hypokalemia and hypomagnesemia (likely with furosemide) are common, correctable causes of ventricular ectopy.",
+          "Correct—New ectopy after an MI may mean ongoing ischemia. A 12-lead ECG and provider notification address that cause.",
+          "Incorrect—PVCs with a pulse are never treated with defibrillation. Shocking a perfusing rhythm can cause VF.",
+          "Incorrect—An antiarrhythmic bolus without a prescription, and without first identifying the cause, is outside the nurse's scope and treats the monitor instead of the cause.",
+          "Incorrect—New couplets and multifocal PVCs after an MI are a warning sign that can progress to VT/VF. Having a pulse does not make the change benign."
+        ]
+      }
+    },
+    {
+      "stem": "A client's monitor shows sustained monomorphic ventricular tachycardia at 158/min. The client is alert and oriented, reports mild palpitations, denies chest pain or shortness of breath, and has BP 118/74 mm Hg with warm skin. Which intervention should the nurse anticipate?",
+      "options": [
+        "Immediate unsynchronized defibrillation",
+        "IV amiodarone per prescription with continuous monitoring and the defibrillator at the bedside",
+        "Immediate synchronized cardioversion without waiting for sedation",
+        "Observation only, since no treatment is needed unless symptoms develop"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: VT with a pulse, normal BP and mentation, and no ischemic pain or heart failure. Analyze cues: this is stable VT, and the blueprint says to determine pulse and stability right away. Generate solutions/take action: stable VT is managed with an antiarrhythmic such as amiodarone (\"tachy → amiodarone\"). Because VT can deteriorate at any moment, the defibrillator stays at the bedside. Evaluate: watch for conversion or for signs of instability that would call for synchronized cardioversion.",
+        "incorrect": [
+          "Unsynchronized defibrillation is for pulseless VT/VF or sustained polymorphic VT. This client has a pulse and a monomorphic rhythm.",
+          "Emergent cardioversion without sedation is for unstable VT. This client is stable, so there is time for drug therapy, or for a planned, sedated cardioversion if the drug fails.",
+          "Sustained VT is dangerous even when the client is stable, because it can become unstable or progress to VF. It needs treatment, not observation."
+        ]
+      }
+    },
+    {
+      "stem": "A client taking a QT-prolonging medication has a magnesium level of 1.3 mg/dL. The monitor suddenly shows sustained polymorphic VT with a twisting pattern, and the client becomes unresponsive. Which action should the nurse anticipate first?",
+      "options": [
+        "IV magnesium sulfate first, then a shock if the rhythm continues",
+        "Synchronized cardioversion, since the rhythm is ventricular tachycardia",
+        "IV amiodarone bolus followed by reassessment",
+        "Immediate unsynchronized shock (defibrillation)"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sustained polymorphic VT (torsades pattern) with loss of consciousness. Analyze cues: polymorphic complexes keep changing, so a device cannot reliably sync to them. Take action: the blueprint calls for an immediate unsynchronized shock for sustained polymorphic VT. Magnesium may help prevent recurrent long-QT torsades, given the low Mg and the QT-prolonging drug, but it must not delay the shock. Evaluate: rhythm and pulse after the shock, then magnesium and stopping the offending drug.",
+        "incorrect": [
+          "Magnesium suits this cause, but giving it before the shock delays the definitive treatment the blueprint says must not be delayed.",
+          "Synchronized cardioversion is for monomorphic VT with a pulse. With changing polymorphic complexes the device may not sense well enough to deliver the shock.",
+          "Amiodarone can prolong the QT further, and giving any drug before the shock delays treatment for an unresponsive client in sustained polymorphic VT."
+        ]
+      }
+    },
+    {
+      "stem": "During a cardiac arrest, a client remains in ventricular fibrillation. The team has delivered three shocks with high-quality CPR between them, and epinephrine 1 mg IV was given 2 minutes ago after the second shock. Which medication should the nurse prepare now?",
+      "options": [
+        "Amiodarone 300 mg IV push",
+        "Amiodarone 150 mg IV push",
+        "Atropine 1 mg IV push",
+        "A second dose of epinephrine 1 mg IV push"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: refractory VF after the third shock, with epinephrine given 2 minutes ago. Analyze cues: in the ACLS shockable pathway, epinephrine follows the second shock and amiodarone is given for VF/pVT that persists after the third shock. Take action: prepare the first amiodarone dose, 300 mg IV/IO. Keep compressions going and minimize interruptions. Evaluate: the next rhythm check. Epinephrine repeats every 3–5 minutes.",
+        "incorrect": [
+          "150 mg is the second amiodarone dose, used if VF persists later. The first dose is 300 mg.",
+          "Atropine treats symptomatic bradycardia in a client with a pulse. It has no role in VF.",
+          "Epinephrine is repeated every 3–5 minutes. Only 2 minutes have passed, so another dose now is too soon, and an antiarrhythmic is what is due."
+        ]
+      }
+    },
+    {
+      "stem": "A client receiving a continuous unfractionated heparin infusion for a pulmonary embolism is on day 7 of therapy. The aPTT is in the therapeutic range, but the platelet count has dropped from 245,000/mm³ at baseline to 96,000/mm³, and the right leg is newly swollen. Which action is most appropriate?",
+      "options": [
+        "Continue the infusion because the aPTT shows the dose is therapeutic",
+        "Increase the heparin rate, since the new leg swelling suggests clot extension",
+        "Hold the heparin and notify the provider immediately of the platelet drop and new swelling",
+        "Ask the provider to switch the client to enoxaparin to protect the platelet count"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the platelet count has fallen by more than 50% after about a week of heparin, and there is a new thrombosis. Analyze cues/prioritize hypotheses: this pattern suggests heparin-induced thrombocytopenia (HIT), which makes clots form despite thrombocytopenia. This is why platelets are monitored along with the aPTT. Take action: stop heparin exposure and notify the provider urgently so a non-heparin anticoagulant can be started. Evaluate: platelet recovery and no new clots.",
+        "incorrect": [
+          "A therapeutic aPTT does not rule out HIT. Continuing heparin keeps the immune reaction going and raises the risk of more clots.",
+          "More heparin would worsen HIT. The new clot here is a complication of heparin, not a dosing problem.",
+          "Enoxaparin is a heparin product and can cross-react in HIT. A non-heparin anticoagulant is needed."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews laboratory results for four clients receiving anticoagulants. Which client requires the nurse's immediate attention?",
+      "options": [
+        "A client on a heparin infusion whose aPTT is in the therapeutic range and whose platelets are 228,000/mm³ (baseline 250,000/mm³)",
+        "A client on warfarin for atrial fibrillation whose INR is 2.5",
+        "A client on apixaban whose INR is 1.3 and who has no signs of bleeding",
+        "A client on warfarin whose INR is 6.1 and who reports a new headache and is slightly confused"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a markedly high INR plus a new headache and confusion. Analyze cues/prioritize hypotheses: excessive warfarin effect with neurologic changes suggests intracranial bleeding, which is life-threatening. Take action: assess neurologic status, hold warfarin, and notify the provider urgently. Anticipate emergent imaging and possible reversal. The other results are expected or reassuring.",
+        "incorrect": [
+          "A therapeutic aPTT with a stable platelet count (a small change from baseline) is the expected finding for heparin monitoring.",
+          "An INR of 2.5 is within the usual therapeutic range for warfarin in atrial fibrillation.",
+          "Routine INR does not reflect the effect of DOACs, so an INR of 1.3 on apixaban is not a sign of under-anticoagulation. With no bleeding, this client is stable."
+        ]
+      }
+    },
+    {
+      "stem": "A 78-year-old client is on postoperative day 1 after a total knee replacement. Creatinine clearance is 18 mL/min. Which prescription should the nurse question?",
+      "options": [
+        "Intermittent pneumatic compression devices while in bed",
+        "Ambulate with physical therapy this afternoon",
+        "Enoxaparin 40 mg subcutaneously daily for VTE prophylaxis",
+        "Ankle pumps 10 times every hour while awake"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: severe renal impairment (CrCl 18 mL/min) in an older client who has been prescribed a standard dose of LMWH. Analyze cues: LMWH is cleared by the kidneys, so with poor renal function it accumulates and the bleeding risk rises. The blueprint lists renal function and bleeding as the key monitoring for LMWH/DOACs. Take action: clarify the enoxaparin dose or agent with the prescriber before giving it. The other prescriptions are appropriate VTE prevention.",
+        "incorrect": [
+          "Intermittent pneumatic compression is mechanical prophylaxis with no renal or bleeding concerns. It is appropriate.",
+          "Early mobility is a core VTE prevention measure after orthopedic surgery and is appropriate.",
+          "Ankle pumps promote venous return and reduce stasis. They are an appropriate, low-risk prevention measure."
+        ]
+      }
+    },
+    {
+      "stem": "A client with sudden pleuritic chest pain, HR 108/min, and SpO2 93% on room air is scheduled for CT pulmonary angiography to evaluate a suspected pulmonary embolism. Which finding is most important for the nurse to report before the scan?",
+      "options": [
+        "The client reports a shellfish allergy",
+        "The D-dimer result is elevated",
+        "The client's eGFR is 21 mL/min/1.73 m²",
+        "The client's HR is 108/min"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: severely reduced kidney function in a client scheduled for a test that uses IV contrast. Analyze cues: iodinated contrast can worsen renal injury, and the blueprint notes that a V/Q scan is used in selected clients, such as those with significant renal impairment. Take action: report the eGFR so the provider can weigh contrast risk, renal protection, or a V/Q scan instead. The client is stable, so there is time to choose the safest test.",
+        "incorrect": [
+          "According to the blueprint, a shellfish allergy does not specifically predict a reaction to contrast. It is worth documenting, but it is not the most important concern.",
+          "An elevated D-dimer is a nonspecific finding and is often the reason imaging was ordered. It does not confirm PE and does not change scan safety.",
+          "Mild tachycardia is an expected PE cue in a client who is otherwise stable. It does not affect whether the scan is safe."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a confirmed pulmonary embolism has been on a heparin infusion for 4 hours. The client suddenly becomes confused, with BP 78/48 mm Hg, HR 138/min, distended neck veins, and SpO2 84% despite oxygen at 6 L/min. Which intervention should the nurse anticipate?",
+      "options": [
+        "Continue the heparin infusion and repeat the CT angiogram in the morning",
+        "Urgent evaluation for reperfusion therapy, such as a thrombolytic or embolectomy",
+        "Transport to nuclear medicine for a V/Q scan to measure the size of the clot",
+        "Hold the heparin because the hypotension suggests bleeding"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypotension, altered mentation, JVD, and hypoxemia that does not respond to oxygen in a client with a known PE. Analyze cues/prioritize hypotheses: this is massive (high-risk) PE causing obstructive shock from acute right ventricular failure. Generate solutions/take action: anticoagulation alone is for stable PE. The blueprint calls for urgent reperfusion evaluation in unstable high-risk PE. The nurse escalates immediately and prepares for thrombolysis or catheter/surgical clot removal. Evaluate: BP, mentation, and oxygenation.",
+        "incorrect": [
+          "Anticoagulation alone stops clot growth but does not quickly relieve the obstruction. It is not enough for a client in obstructive shock.",
+          "The diagnosis is already confirmed. Sending an unstable client to more imaging delays definitive treatment.",
+          "JVD with hypoxemia points to right-heart obstruction, not bleeding. Stopping anticoagulation without evidence of bleeding would allow the clot to grow."
+        ]
+      }
+    },
+    {
+      "stem": "A 66-year-old client with poorly controlled hypertension arrives at the emergency department with abrupt, severe \"tearing\" chest pain that radiates to the back. BP is 184/102 mm Hg in the right arm and 132/76 mm Hg in the left arm. SpO2 is 97% on room air. The chest-pain protocol includes chewable aspirin and a heparin bolus. What should the nurse do?",
+      "options": [
+        "Give the chewable aspirin right away, since antiplatelet therapy is time-sensitive in chest pain",
+        "Start the heparin bolus while waiting for the troponin result",
+        "Apply oxygen at 4 L/min and give sublingual nitroglycerin",
+        "Hold the aspirin and heparin and escalate emergently for suspected aortic dissection"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: abrupt tearing pain radiating to the back, hypertension, and a BP difference of more than 50 mm Hg between the arms. Analyze cues/prioritize hypotheses: the blueprint lists unequal pulses/BP with abrupt severe pain as signs of aortic dissection, which needs emergency evaluation. Take action: antiplatelet and anticoagulant drugs could make bleeding into the aortic wall catastrophic, so the nurse holds them and escalates urgently. Anticipate imaging and prescribed BP and HR lowering.",
+        "incorrect": [
+          "Aspirin is appropriate for suspected ACS, but the unequal arm pressures are a second cue that makes it unsafe until dissection is ruled out.",
+          "Anticoagulation could worsen bleeding into the aortic wall. Waiting for the troponin does not make heparin safe here.",
+          "With an SpO2 of 97%, oxygen is not indicated, and treating this as angina misses the dissection and delays emergency evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a 4.3-cm abdominal aortic aneurysm is being discharged with a plan for surveillance. Which client statement indicates a need for further teaching?",
+      "options": [
+        "\"I will take my blood pressure medicine every day, even when I feel fine.\"",
+        "\"I'll call 911 if I suddenly get severe back or belly pain or feel like I'm going to pass out.\"",
+        "\"Since my aneurysm isn't causing any pain, I can skip the follow-up ultrasounds unless something changes.\"",
+        "\"Quitting smoking will help keep my aneurysm from growing as fast.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: aneurysms are often asymptomatic, so feeling no pain does not mean the aneurysm is stable. Per the blueprint, stable aneurysms need BP control and ongoing surveillance imaging to detect growth before rupture. A client who plans to skip imaging until symptoms appear may first have symptoms when the aneurysm ruptures, so this statement needs correcting.",
+        "incorrect": [
+          "This statement is correct. Daily BP control lowers wall stress and is a key part of managing a stable aneurysm.",
+          "This statement is correct. Sudden severe back or abdominal pain with presyncope suggests rupture and requires emergency response.",
+          "This statement is correct. Smoking is a major risk factor for aneurysm growth, so quitting is appropriate risk reduction."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 6 hours out from an open abdominal aortic aneurysm repair. Which findings should the nurse report to the surgeon immediately? Select all that apply.",
+      "options": [
+        "The left foot is newly cool and pale compared with the right",
+        "The left dorsalis pedis pulse has decreased from 2+ to barely palpable",
+        "BP is 90/54 mm Hg (it was 134/80 mm Hg), HR 122/min, and abdominal girth is increasing",
+        "Incisional pain is 5/10 and decreases with the PCA",
+        "Temperature is 37.4 °C (99.3 °F)",
+        "Pedal pulses are Doppler-audible bilaterally, unchanged from the preoperative baseline"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Recognize cues/analyze cues: after aortic repair, the blueprint says to monitor bleeding, vital signs, and distal pulses, temperature, sensation, and movement, and to report a newly cool limb or diminished pulse immediately. Take action: limb ischemia (graft occlusion or embolism) and hemorrhage need immediate surgical escalation. Expected postoperative findings do not.",
+        "incorrect": [
+          "Correct—A newly cool, pale limb suggests acute arterial occlusion, a surgical emergency.",
+          "Correct—A diminished distal pulse compared with earlier assessments signals reduced perfusion and must be reported immediately.",
+          "Correct—Hypotension, tachycardia, and a growing abdomen suggest postoperative hemorrhage.",
+          "Incorrect—Moderate incisional pain that responds to analgesia is expected after open repair.",
+          "Incorrect—A low-grade temperature in the first postoperative hours is a common inflammatory response. It needs monitoring, not emergency escalation.",
+          "Incorrect—Doppler pulses that match the preoperative baseline show distal perfusion has been maintained. This is a reassuring finding."
+        ]
+      }
+    },
+    {
+      "stem": "A client using an opioid PCA after abdominal surgery is found very drowsy and hard to arouse. The monitor shows sinus bradycardia at 46/min; RR is 7/min, SpO2 84%, and BP 104/66 mm Hg. What should the nurse do first?",
+      "options": [
+        "Give IV atropine to increase the heart rate",
+        "Stimulate the client, support ventilation and oxygenation, and stop the PCA",
+        "Get a 12-lead ECG to evaluate the bradycardia",
+        "Give the scheduled metoprolol, since the BP is adequate"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: oversedation, a respiratory rate of 7, and an SpO2 of 84% alongside the bradycardia. Analyze cues/prioritize hypotheses: opioid-induced respiratory depression with hypoxemia is driving the slow rate, so the bradycardia is a result, not the main problem. Take action: following the ABCs and the blueprint's \"treat contributing causes,\" stimulate the client, open the airway and assist ventilation, give oxygen for the hypoxemia, stop the opioid, and call for help (anticipate naloxone). Evaluate: RR, SpO2, and HR should rise as oxygenation improves.",
+        "incorrect": [
+          "Atropine treats symptomatic bradycardia, but here the cause is hypoxemia from respiratory depression. Raising the HR does nothing for the airway or breathing.",
+          "A 12-lead ECG delays the airway and breathing interventions this client needs right now.",
+          "A beta blocker would slow the HR further in a client who is already bradycardic and hypoxemic. The adequate BP does not make it safe."
+        ]
+      }
+    },
+    {
       "stem": "The telemetry alarm sounds for a client admitted with pneumonia. The monitor now shows a wide-complex tachycardia at 180/min; 2 minutes earlier the rhythm was sinus at 92/min. What should the nurse do first?",
       "options": [
         "Go to the bedside and check responsiveness, breathing, and a carotid pulse",
@@ -138,7 +528,12 @@
         "Check for bleeding: gums, urine, stools, and bruising",
         "Review the client's renal function results"
       ],
-      "answer": [0, 1, 4, 5],
+      "answer": [
+        0,
+        1,
+        4,
+        5
+      ],
       "type": "sata",
       "rationale": {
         "correct": "Generate solutions/take action: DVT nursing priorities are giving the prescribed anticoagulant, watching for bleeding, watching for PE, and early mobility once the team approves. For DOACs, renal function and bleeding are monitored, not the INR.",

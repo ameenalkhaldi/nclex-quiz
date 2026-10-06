@@ -3,6 +3,398 @@
   "label": "Acute: ICP, Spinal Cord & Seizures",
   "questions": [
     {
+      "stem": "A client with a severe TBI is receiving 3% hypertonic saline for cerebral edema. The prescribed serum sodium target is 145–155 mEq/L. Four hours into therapy, the nurse reviews the following findings. Which one requires immediate action?",
+      "options": [
+        "Serum sodium 151 mEq/L",
+        "ICP down from 25 to 17 mm Hg",
+        "New bibasilar crackles, RR 28/min, and SpO2 falling from 97% to 91%",
+        "Serum osmolality 304 mOsm/kg, up from 290 mOsm/kg"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new crackles, tachypnea, and a falling SpO2 during hyperosmolar therapy. Analyze cues: hypertonic saline pulls fluid into the vascular space, and that volume shift can cause pulmonary edema, which the blueprint lists as a monitoring priority. Prioritize hypotheses: a breathing problem comes first, and hypoxemia would also worsen secondary brain injury. Take action: assess the client's respiratory status, notify the provider, and expect the infusion to be held or adjusted.",
+        "incorrect": [
+          "This sodium is inside the prescribed 145–155 target. A rise in sodium is the expected effect of hypertonic saline, so it shows the therapy is working rather than a complication.",
+          "A falling ICP is the desired outcome of osmotic therapy, so it is evidence the treatment is working.",
+          "Rising serum osmolality is the intended effect of hyperosmolar therapy. It is monitored as ordered against therapy-specific targets, but it is less urgent than a new airway or breathing problem."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a severe TBI has an ICP of 26 mm Hg despite head-of-bed elevation and sedation. Temperature is 38.4°C (101.1°F) and serum sodium is 146 mEq/L. Which new prescription should the nurse question?",
+      "options": [
+        "Methylprednisolone 30 mg/kg IV bolus to reduce cerebral edema",
+        "Acetaminophen 650 mg via feeding tube now",
+        "Propofol infusion titrated to the prescribed sedation goal",
+        "3% hypertonic saline bolus, with serum sodium checked as ordered"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: refractory ICP after a traumatic brain injury, and a prescription for a high-dose corticosteroid. Analyze cues: corticosteroids are not recommended for TBI, and high-dose methylprednisolone increases mortality, unlike their use for edema around a brain tumor. Take action: hold the dose and clarify it with the provider. Generate solutions: the blueprint's evidence-based escalation options include osmotic therapy, CSF drainage, advanced sedation, or surgery.",
+        "incorrect": [
+          "Fever raises cerebral metabolic demand and ICP. Fever control is part of reducing stimulation and is appropriate here.",
+          "Analgesia and sedation are listed ways to reduce ICP in refractory cases, so this order is appropriate.",
+          "Hypertonic saline is an accepted osmotic therapy. A sodium of 146 does not contraindicate it, and checking sodium as ordered is the correct monitoring."
+        ]
+      }
+    },
+    {
+      "type": "sata",
+      "stem": "The nurse is caring for a client with an external ventricular drain (EVD) set to drain at a prescribed height. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Re-level the system to the tragus whenever the head of the bed position is changed",
+        "Clamp the drain before turning or sitting the client up, then relevel and reopen in the prescribed sequence",
+        "Lower the drip chamber below the prescribed height when ICP rises so more CSF drains",
+        "Report CSF that changes from clear to cloudy, especially with a new fever",
+        "Leave the drain clamped after repositioning until the next scheduled ICP reading",
+        "Use clean technique when emptying the collection bag, since the system is closed"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "rationale": {
+        "correct": "Take action: keep the EVD accurate and safe by leveling it to the tragus, following the clamp/relevel/reopen sequence during movement, and maintaining asepsis. Evaluate outcomes: monitor ICP and the amount and appearance of the CSF. Changing the drainage height without an order or leaving the drain clamped are both unsafe.",
+        "incorrect": [
+          "Correct—The tragus approximates the level of the ventricles. When the head moves and the system is not re-leveled, the ICP readings and the drainage rate are wrong.",
+          "Correct—Clamping during movement prevents sudden overdrainage. The drain must then be re-leveled and reopened as prescribed.",
+          "Incorrect—The drainage height is a prescribed setting. Lowering the chamber without an order can overdrain CSF and cause ventricular collapse or bleeding. Rising ICP is reported to the provider.",
+          "Correct—Cloudy CSF with fever suggests ventriculitis or meningitis, which the blueprint's CSF appearance monitoring is meant to detect.",
+          "Incorrect—A drain that is forgotten in the clamped position cannot drain CSF, so ICP can rise. The drain is reopened right after re-leveling, following the prescribed sequence.",
+          "Incorrect—An EVD is a direct route into the brain, so strict asepsis is required for any access to the system."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is orienting a new graduate who is caring for a client with a TBI whose ICP is in the low 20s. Which statement by the new graduate requires the nurse to intervene?",
+      "options": [
+        "\"I'll keep the neck midline and make sure the ET tube ties aren't compressing the jugular veins.\"",
+        "\"I'll request a cooling blanket to bring the temperature to 33°C, because routine hypothermia prevents ICP spikes.\"",
+        "\"I'll give the scheduled stool softener so the client doesn't bear down.\"",
+        "\"I'll give PRN acetaminophen for a temperature of 38.5°C because fever increases the brain's metabolic demand.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the new graduate is mixing up fever control, which is indicated, with routine prophylactic induced hypothermia, which the blueprint says is not standard care for TBI. Take action: correct the statement. The goal is normothermia achieved through prescribed antipyretics and fever management. Cooling to 33°C is not used as routine prevention.",
+        "incorrect": [
+          "This is correct. A neutral neck and avoiding pressure on the jugular veins let venous blood drain from the skull, which helps lower ICP.",
+          "This is correct. Straining (the Valsalva maneuver) raises intrathoracic pressure and ICP, and preventing constipation avoids it.",
+          "This is correct. Fever increases cerebral metabolism and blood flow, which raises ICP, so prescribed fever control is part of reducing stimulation."
+        ]
+      }
+    },
+    {
+      "stem": "The neuro step-down nurse receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A client with a subdural hematoma whose BP has gone from 138/76 to 182/58 mm Hg, with HR 50/min and an irregular breathing pattern",
+        "A client with a concussion who reports a headache of 5/10 and mild nausea, GCS 15",
+        "A client 30 minutes after a generalized tonic-clonic seizure who is drowsy but wakes to voice and follows commands",
+        "A client with an EVD whose ICP rose to 19 mm Hg during suctioning and returned to 12 mm Hg within 2 minutes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypertension with a widening pulse pressure, bradycardia, and irregular respirations. Analyze cues: this is the Cushing triad, a late sign that the brainstem is being compressed and herniation may be imminent. Prioritize hypotheses: this client is the most unstable. Take action: assess immediately, support the airway and breathing, and escalate for emergency intervention.",
+        "incorrect": [
+          "Headache and mild nausea with a normal GCS are expected after a concussion. They need monitoring, but the client is stable.",
+          "Drowsiness that improves, with the client waking to voice and following commands, is an expected postictal recovery.",
+          "A brief rise in ICP during suctioning that quickly returns to normal is an expected, self-limiting response, and the current ICP of 12 is within the normal range."
+        ]
+      }
+    },
+    {
+      "stem": "A 79-year-old client who takes warfarin is brought in by a daughter. Over the past 3 weeks the client has become more forgetful and unsteady and has had headaches on and off. The daughter says, \"I think this is the start of dementia.\" The client tripped on the driveway about a month ago. Which action by the nurse is best?",
+      "options": [
+        "Reassure the daughter that gradual memory changes are common at this age and suggest a memory clinic referral",
+        "Perform a cognitive screening exam and document it as a baseline for a dementia workup",
+        "Report the fall, the anticoagulant use, and the gradual decline to the provider, anticipating head imaging and coagulation studies",
+        "Hold the next warfarin dose and recheck the client's neurologic status in 24 hours"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an older adult on an anticoagulant with a minor fall weeks ago, followed by gradual confusion, unsteady gait, and headache. Prioritize hypotheses: a chronic subdural hematoma, in which bridging veins bleed slowly and the picture can mimic dementia or stroke, has to be ruled out before the change is attributed to dementia. Take action: report these findings so imaging and an INR can be obtained. This is a treatable cause.",
+        "incorrect": [
+          "This normalizes a potentially treatable bleed. A recent fall plus an anticoagulant makes this decline something other than routine aging until proven otherwise.",
+          "A cognitive screen may be part of the workup, but it delays recognizing a possible intracranial bleed and assumes the diagnosis is dementia.",
+          "Holding an anticoagulant requires a prescription, and waiting 24 hours delays imaging for a possible expanding bleed."
+        ]
+      }
+    },
+    {
+      "stem": "Four clients in the ED have been evaluated for minor head injuries and all currently have a GCS of 15. Which planned discharge should the nurse question?",
+      "options": [
+        "A 22-year-old with a concussion and no loss of consciousness whose roommate will stay overnight",
+        "A 35-year-old with a sutured scalp laceration, a normal CT, and no anticoagulant use",
+        "A 16-year-old soccer player with a concussion whose parent was taught no return to play until medically cleared",
+        "An 84-year-old taking apixaban who fell 1 hour ago, has a normal CT and exam, and lives alone"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: advanced age, a direct oral anticoagulant, a fall only 1 hour ago, and no one at home to watch for changes. Analyze cues: the blueprint warns that older adults on anticoagulants may deteriorate even after a normal initial exam, because a bleed can expand slowly. Take action: question the discharge and advocate for observation and repeat assessment per protocol, or at least a reliable observer at home.",
+        "incorrect": [
+          "A concussion can occur without loss of consciousness. A young adult with a GCS of 15 and an overnight observer is an appropriate discharge.",
+          "A young client with a normal CT and no bleeding risk is low risk, and wound care is the main teaching need.",
+          "Graded return to activity only after medical clearance is correct concussion teaching, and a parent is available to observe."
+        ]
+      }
+    },
+    {
+      "stem": "A 19-year-old client was in a high-speed motor vehicle crash and now has a GCS of 5 with abnormal posturing. CT shows only a few small punctate hemorrhages, with no hematoma or midline shift. The client's parent asks, \"The scan doesn't show much, so why isn't he waking up?\" Which response by the nurse is best?",
+      "options": [
+        "\"The CT is reassuring, so he is most likely still sedated and should wake as his medications wear off.\"",
+        "\"This kind of injury stretches and tears nerve fibers throughout the brain, and that can cause a coma even when the CT shows only small changes.\"",
+        "\"He most likely has a bruise on the brain, which usually heals within a few days, so he should wake soon.\"",
+        "\"The CT probably missed a large blood clot, so he will need emergency surgery to remove it.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a high-speed acceleration–deceleration mechanism, deep coma with posturing, and a CT that looks nearly normal. Analyze cues: this mismatch fits diffuse axonal injury, in which shearing of axons causes coma despite limited initial CT findings. Take action: explain this honestly to the family without giving false reassurance, and continue care aimed at preventing secondary injury.",
+        "incorrect": [
+          "This gives false reassurance and blames medications without evidence. The posturing and GCS of 5 reflect a severe structural injury.",
+          "A contusion is localized bruising of brain tissue and would not explain coma with a nearly normal CT. Promising a quick recovery is also false reassurance.",
+          "A large hematoma would be visible on CT as a mass with midline shift. Claiming it was missed is inaccurate and alarms the family."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 3 hours post-op after open reduction of a mandible fracture with the jaws wired shut (intermaxillary fixation). The client suddenly reports nausea and begins to retch. SpO2 is 96%. What should the nurse do first?",
+      "options": [
+        "Sit the client up or turn them to the side, suction the mouth, and call for help, with the release tools ready in case the airway becomes obstructed",
+        "Cut the wires immediately to prevent aspiration",
+        "Give the prescribed PRN IV antiemetic",
+        "Insert a nasogastric tube to decompress the stomach"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: retching in a client whose jaws are wired shut. Prioritize hypotheses: the main risks are airway obstruction and aspiration. Take action: position the client upright or on their side, suction the mouth, call for urgent help, and keep the emergency release tools (wire cutters or scissors) at hand. Fixation is released per the emergency protocol only if airway compromise requires it. Evaluate: airway patency and SpO2.",
+        "incorrect": [
+          "Releasing the fixation is reserved for actual airway compromise under the emergency protocol. The airway is currently patent with an SpO2 of 96%, and cutting the wires undoes the surgical repair.",
+          "An antiemetic is appropriate but takes time to work. Protecting the airway comes before the medication.",
+          "Inserting an NG tube requires a prescription, takes time, and can itself trigger vomiting. The immediate need is to protect the airway."
+        ]
+      }
+    },
+    {
+      "stem": "A client sustained a C4 spinal cord injury 10 hours ago. At 0800: RR 18/min, vital capacity 2.1 L, SpO2 97%. Now, at 1400: RR 30/min and shallow, vital capacity 1.0 L, SpO2 94% on room air. The client speaks only 3–4 words at a time and is using the neck muscles to breathe. Which action is the priority?",
+      "options": [
+        "Apply oxygen by nasal cannula at 2 L/min and recheck in 30 minutes",
+        "Perform assisted coughing and have the client use the incentive spirometer",
+        "Notify the provider or rapid response team of declining ventilation and prepare for airway support",
+        "Raise the head of the bed to high Fowler's and loosen the cervical collar to ease breathing"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a vital capacity that has fallen by half, rapid shallow breathing, accessory muscle use, and speech limited to a few words. Analyze cues: a high cervical injury affects the diaphragm (C3–C5), and rising edema can cause respiratory failure. The SpO2 lags behind ventilatory failure. Take action: escalate now and anticipate intubation and ventilation, following the ABCs.",
+        "incorrect": [
+          "The SpO2 is above 90%, and oxygen does not fix muscle fatigue or hypoventilation. It can also hide a rising CO2 and waste time.",
+          "Assisted coughing and spirometry help clear secretions in stable clients, but they cannot overcome failing respiratory muscles and they delay escalation.",
+          "Spinal motion restriction and neutral alignment must be maintained in an acute cervical injury, and loosening the collar risks further cord damage."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a T10 vertebral fracture has no motor function and no light-touch sensation in either leg. On sacral examination, the client can feel a touch in the perianal area and can voluntarily contract the anal sphincter. Which conclusion is correct?",
+      "options": [
+        "The injury is complete, because there is no motor function in the legs",
+        "The client is in spinal shock, and full function will return when it resolves",
+        "The findings are unreliable and should not be interpreted until swelling resolves",
+        "The injury is incomplete, because sacral sensory and motor function are preserved"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: perianal sensation and voluntary contraction of the anal sphincter despite paralysis of the legs. Analyze cues: sacral sparing defines an incomplete injury, whereas a complete injury has no sacral sensory or motor function. Take action: document the findings precisely and keep trending motor, sensory, and bladder function. An incomplete injury carries a better potential for recovery.",
+        "incorrect": [
+          "Whether an injury is complete or incomplete depends on the lowest sacral segments, not on leg movement. Sacral sparing makes this injury incomplete.",
+          "Spinal shock is a temporary loss of reflexes. It does not guarantee full recovery and does not explain preserved sacral function.",
+          "Serial exams are trended, but these sacral findings are meaningful now and must be documented and reported, not dismissed."
+        ]
+      }
+    },
+    {
+      "stem": "A client has had an acute C6 spinal cord injury for 1 day and is receiving a norepinephrine infusion. The prescription reads: titrate to maintain MAP 80–90 mm Hg. BP is now 96/54 mm Hg and HR is 56/min. Which action is most appropriate?",
+      "options": [
+        "Document the reading, because a MAP above 65 mm Hg is adequate for organ perfusion",
+        "Titrate the norepinephrine up per protocol and notify the provider if the MAP goal is not reached",
+        "Place the client in Trendelenburg to increase venous return",
+        "Pause the norepinephrine because the heart rate is below 60/min"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: MAP = (96 + 2 × 54) ÷ 3 = 68 mm Hg, below the ordered goal of 80–90. Prioritize hypotheses: hypotension reduces spinal cord perfusion and worsens secondary injury. Take action: titrate the vasopressor per protocol and escalate if the goal is not met. The slides use a MAP of 85–90, and updated guidance suggests a lower limit of 75–80; the nurse follows the individualized order. Evaluate: recheck the MAP after each titration.",
+        "incorrect": [
+          "A MAP of 65 is a general sepsis target. The client has an individualized, higher spinal cord perfusion goal of 80–90, and 68 does not meet it.",
+          "Trendelenburg is not an evidence-based way to raise BP, it can disrupt spinal alignment, and it compromises breathing in a cervical injury.",
+          "Bradycardia is expected in neurogenic shock because vagal tone is unopposed. Stopping the vasopressor would deepen the hypotension. Symptomatic bradycardia is reported, but the infusion is not stopped on its own authority."
+        ]
+      }
+    },
+    {
+      "stem": "Two days after a T8 spinal cord injury, a client has flaccid paralysis of both legs and no deep tendon reflexes below the injury. BP is 118/72 mm Hg, HR 80/min, and the skin is warm. The client's spouse asks, \"Does this mean he'll never move his legs again?\" Which response by the nurse is best?",
+      "options": [
+        "\"Right now his cord is in a temporary state in which reflexes below the injury shut down. The full extent of the injury can't be judged until that passes, so the team will keep reassessing him.\"",
+        "\"Because he has no reflexes, the injury is complete and the paralysis will be permanent.\"",
+        "\"This is neurogenic shock. Once his blood pressure is supported with medication, his movement should return.\"",
+        "\"Loss of reflexes is temporary, so he has a very good chance of a full recovery.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: flaccid paralysis with absent reflexes and normal vital signs. Analyze cues: this is spinal shock, a temporary loss of reflexes below the injury and a neurologic rather than circulatory problem. The true extent of the injury becomes clear as reflexes return. Take action: give honest information without false hope or false despair, provide supportive care, and keep reassessing.",
+        "incorrect": [
+          "Completeness is determined by sacral sparing. It cannot be judged from absent reflexes during spinal shock, so this is premature and inaccurate.",
+          "Neurogenic shock is a circulatory problem with hypotension, which this client does not have. Raising the BP does not restore movement.",
+          "Spinal shock resolving means reflexes return. It does not mean motor function will return, so promising a full recovery is false reassurance."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a T3 spinal cord injury and an indwelling urinary catheter develops autonomic dysreflexia, with BP 204/108 mm Hg (baseline 98/60). The nurse has sat the client upright, lowered the legs, and loosened the abdominal binder and leg-bag straps. BP is now 198/104 mm Hg. What should the nurse do next?",
+      "options": [
+        "Perform a digital rectal check for stool, using lidocaine jelly",
+        "Give the prescribed rapid-onset antihypertensive before looking for the cause",
+        "Check the full length of the catheter tubing for kinks or blockage and assess for bladder distention",
+        "Lay the client flat to inspect the sacrum for a pressure injury"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the BP remains severely elevated after positioning and loosening clothing. Analyze cues: bladder distention, including from a kinked or blocked catheter, is the most common trigger. Take action: check the bladder and catheter first, then bowel and skin per protocol, while rechecking BP every 1–2 minutes. Evaluate: the BP should fall once the stimulus is removed. If it stays high, give the prescribed rapid-onset, short-acting antihypertensive.",
+        "incorrect": [
+          "Bowel triggers are checked after the bladder. Unplanned rectal manipulation can make the episode worse, so it is done only per protocol, with anesthetic jelly, once bladder causes are excluded.",
+          "Medication is indicated if the BP stays high, but the trigger search comes first and starts with the bladder. Removing the cause often resolves the episode.",
+          "Lying flat raises the BP further. Skin triggers are checked after bladder and bowel, with the client kept upright."
+        ]
+      }
+    },
+    {
+      "type": "sata",
+      "stem": "A client with a C6 spinal cord injury has moved to a rehabilitation unit 3 weeks after the injury. Which interventions should the nurse include to prevent complications? Select all that apply.",
+      "options": [
+        "Perform assisted (quad) coughing by pushing upward on the abdomen as the client exhales",
+        "Continue sequential compression devices and the prescribed anticoagulant prophylaxis",
+        "Reposition on an individualized schedule and inspect the skin over bony prominences",
+        "Apply an abdominal binder and compression stockings and raise the head of the bed gradually before transfers",
+        "Massage reddened areas over the sacrum to improve circulation",
+        "Limit fluids to 1 L per day to reduce the bladder volume that needs to be managed"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rationale": {
+        "correct": "Generate solutions and take action: ongoing SCI care supports coughing and lung expansion and prevents VTE, pressure injuries, and orthostatic hypotension, within individualized repositioning, bowel, and bladder programs. Massaging reddened skin and restricting fluids cause harm.",
+        "incorrect": [
+          "Correct—With weak abdominal and intercostal muscles the client cannot cough effectively. Assisted coughing helps clear secretions and prevents pneumonia.",
+          "Correct—Immobility and venous stasis put SCI clients at high risk for VTE, so mechanical and prescribed pharmacologic prophylaxis continue.",
+          "Correct—Clients with no sensation cannot feel pressure. Scheduled repositioning and skin checks prevent pressure injuries.",
+          "Correct—Losing sympathetic tone causes orthostatic hypotension. A binder, stockings, and gradual position changes reduce it.",
+          "Incorrect—Massaging reddened bony prominences damages tissue that is already injured. Pressure should be relieved instead.",
+          "Incorrect—Fluid restriction promotes UTI, bladder stones, constipation, and dehydration. Bladder programs use scheduled fluid intake with intermittent catheterization."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is reviewing autonomic dysreflexia with a client who has a T5 spinal cord injury and is preparing to go home. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll carry the card that explains autonomic dysreflexia and my emergency plan.\"",
+        "\"If I get a pounding headache and start sweating, I'll sit up and lower my legs right away.\"",
+        "\"I'll check my catheter tubing for kinks first, and then think about my bowels and skin.\"",
+        "\"If I get a bad headache and feel flushed, I'll lie down flat in a dark room until it passes.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: this statement treats autonomic dysreflexia like an ordinary headache. Analyze cues: a pounding headache with flushing in a client with an injury above T6 signals an AD emergency, and lying flat raises the BP further while delaying the search for the trigger. Take action: reteach that the client should sit up, lower the legs, loosen clothing, look for the trigger (bladder first), check BP if able, and get emergency help if the episode does not resolve.",
+        "incorrect": [
+          "This is correct. AD can recur, and a wallet card and emergency plan help responders who may not recognize it.",
+          "This is correct. Sitting upright with the legs lowered is the first action because it pools blood in the lower body and lowers the BP.",
+          "This is correct. The bladder and catheter are checked first, then bowel and skin, which is the correct order for the trigger search."
+        ]
+      }
+    },
+    {
+      "stem": "A client with an L4–L5 disc herniation that is being managed conservatively reports new numbness in the groin and inner thighs, has not voided in 10 hours, and now has weakness in both legs. A bladder scan shows 850 mL. Which action is most important?",
+      "options": [
+        "Insert a straight catheter as prescribed and reassess the client's pain in 1 hour",
+        "Notify the provider immediately of suspected cauda equina syndrome and anticipate emergency imaging and a surgical consult",
+        "Give the prescribed opioid, because radicular pain often makes voiding difficult",
+        "Apply heat to the lower back and encourage the client to walk to promote voiding"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: saddle-area numbness, urinary retention, and new weakness in both legs in a client with a lumbar disc herniation. Prioritize hypotheses: cauda equina syndrome is compression of the lumbosacral nerve roots and a surgical emergency, because delay risks permanent bladder, bowel, and motor loss or incontinence. Take action: escalate immediately and anticipate emergency MRI and decompression. Bladder drainage is done as ordered but does not replace escalation.",
+        "incorrect": [
+          "Draining the bladder treats the symptom, but waiting an hour without reporting the new neurologic deficits delays decompression of the nerve roots.",
+          "Attributing new retention and saddle numbness to pain misses the emergency, and opioids can make retention worse.",
+          "Heat and walking do not treat nerve-root compression, and walking with new weakness in both legs creates a fall risk."
+        ]
+      }
+    },
+    {
+      "stem": "A 20-year-old client is admitted for seizure evaluation. While talking with the nurse, the client stops mid-sentence and stares blankly, with eyelids fluttering, for about 10 seconds, then continues the conversation with no awareness that anything happened. What should the nurse do?",
+      "options": [
+        "Stay with the client, note the duration and features of the episode, and then document and report it",
+        "Give the prescribed PRN IV lorazepam",
+        "Turn the client to the side and suction the mouth",
+        "Activate the rapid response team for an acute change in mental status"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: brief impaired awareness with staring, no convulsive movements, and immediate return to baseline. Analyze cues: this fits an absence seizure. Prioritize: the client is safe, the airway is not compromised, and the episode ended quickly. Take action: stay with the client and time the episode, then document what happened and report it so the provider can guide treatment.",
+        "incorrect": [
+          "A rescue benzodiazepine is for status epilepticus, meaning a seizure of 5 minutes or more or repeated seizures without recovery. A 10-second absence seizure does not call for one.",
+          "Side-lying and suction are for convulsive seizures or airway compromise. This client is upright, breathing normally, and already recovered.",
+          "The client returned to baseline within seconds. A rapid response is warranted for prolonged or persistent altered awareness, not for a brief, resolved absence seizure."
+        ]
+      }
+    },
+    {
+      "stem": "A client with epilepsy tells the nurse, \"Right before my seizures, I always smell something like burning rubber. Is something wrong with my nose?\" Which response by the nurse is best?",
+      "options": [
+        "\"That's the prodromal phase, a warning that can come hours or days before a seizure.\"",
+        "\"That's a postictal symptom that happens while your brain is recovering.\"",
+        "\"That smell is called an aura. It's actually the start of the seizure, so when you notice it, get into a safe position and let someone know.\"",
+        "\"That sounds like a smell hallucination. I'll ask your provider about a psychiatric evaluation.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a consistent sensory warning right before each seizure. Analyze cues: an aura is a brief, stereotyped sensation (smell, taste, visual, or a feeling) that is itself the start of focal seizure activity. Take action: tell the client \"this is known as an aura\" and teach them to use it as a cue to lie down or sit in a safe place and alert others. Evaluate: the client can describe the plan.",
+        "incorrect": [
+          "The prodromal phase consists of mood or behavior changes hours to days before a seizure. A smell immediately before the event is an aura.",
+          "The postictal phase follows the seizure and involves confusion, fatigue, and headache. This smell comes before the seizure.",
+          "A stereotyped smell right before each seizure is a neurologic aura, not a psychiatric symptom. Referring the client to psychiatry misreads the cue."
+        ]
+      }
+    },
+    {
+      "type": "sata",
+      "stem": "A client has just had a generalized tonic-clonic seizure. Which information should the nurse include when documenting the event? Select all that apply.",
+      "options": [
+        "The time the seizure began and its total duration",
+        "The body part where movements started and how they spread",
+        "\"Client had a grand mal seizure\" as the description of the event",
+        "Whether the client was responsive during the event and how long it took to return to baseline",
+        "Postictal breathing, GCS, pupils, and any injuries found",
+        "The duration, recorded only if the seizure lasted longer than 5 minutes"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "rationale": {
+        "correct": "Recognize cues and evaluate outcomes: seizure documentation is an objective description that the provider uses to classify the seizure and guide therapy. It includes the duration, the first body part involved, the movements, awareness, recovery, and the postictal assessment.",
+        "incorrect": [
+          "Correct—The start time and duration are always recorded. Duration also determines whether the 5-minute status threshold was reached.",
+          "Correct—Where the seizure started and how it spread helps distinguish a focal onset from a generalized one.",
+          "Incorrect—A label is not a description. The nurse records the observed movements, awareness, and timing objectively so the provider can classify the seizure.",
+          "Correct—Awareness during the event and the time it takes to return to baseline are key details. Persistent altered awareness needs urgent evaluation.",
+          "Correct—The blueprint calls for reassessing breathing, GCS, pupils, and injuries after a seizure, and those findings are documented.",
+          "Incorrect—Duration is documented for every seizure, not only prolonged ones. Short seizures still help establish the pattern and guide treatment."
+        ]
+      }
+    },
+    {
       "stem": "A client with a traumatic brain injury has BP 96/57 mm Hg and ICP 25 mm Hg. Which conclusion by the nurse is correct?",
       "options": [
         "CPP is 45 mm Hg, which is inadequate, so the provider must be notified and perfusion supported",
@@ -156,7 +548,12 @@
         "Protect the head and move hazards away",
         "Make sure working suction and oxygen are ready at the bedside"
       ],
-      "answer": [0, 1, 4, 5],
+      "answer": [
+        0,
+        1,
+        4,
+        5
+      ],
       "type": "sata",
       "rationale": {
         "correct": "Take action during a seizure: keep the client safe, support the airway and breathing, and time the event. Timing determines whether the episode has reached the 5-minute status threshold for a rescue benzodiazepine. Nothing goes in the mouth and the client is never restrained.",

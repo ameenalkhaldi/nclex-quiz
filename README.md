@@ -12,7 +12,7 @@ way to drill practice questions with clear rationales for every answer choice.
 
 ## What's inside
 
-The app currently has **912 practice questions** across 25 topic banks,
+The app currently has **992 practice questions** across 25 topic banks,
 organized into five courses you can switch between with tabs on the start
 screen. Each course can be studied topic by topic, or "mixed" — every question
 in that course, shuffled.
@@ -62,10 +62,10 @@ in that course, shuffled.
 
 | Topic | Questions |
 | --- | --- |
-| Dysrhythmias, DVT/PE & Aorta | 10 |
-| Cardiac (ACS, PCI, CABG, Valves) | 10 |
-| Stroke | 10 |
-| ICP, Spinal Cord & Seizures | 10 |
+| Dysrhythmias, DVT/PE & Aorta | 30 |
+| Cardiac (ACS, PCI, CABG, Valves) | 30 |
+| Stroke | 30 |
+| ICP, Spinal Cord & Seizures | 30 |
 
 The banks are kept separate by course — for example, the Med-Surg Lower GI bank
 is distinct from the Pathopharm Lower GI bank, and the Pathofarm Final Endocrine

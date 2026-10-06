@@ -3,6 +3,397 @@
   "label": "Acute: Stroke",
   "questions": [
     {
+      "stem": "The nurse on a neuro unit receives report on four clients. Which client should the nurse see first?",
+      "options": [
+        "A client admitted 3 days ago with an ischemic stroke who began crying and then laughing during breakfast with no clear trigger",
+        "A client with right hemiparesis whose bed alarm is on and who is asking for help to walk to the bathroom",
+        "A client with a ruptured cerebral aneurysm awaiting coiling who says the headache has suddenly become much worse and is now hard to keep awake",
+        "A client admitted 6 hours ago with a TIA whose symptoms fully resolved and who is asking when they can go home"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a sudden worse headache plus a new drop in level of consciousness in a client whose aneurysm is not yet secured. Prioritize hypotheses: rebleeding or acute hydrocephalus, both of which can raise ICP and kill quickly. Take action: assess this client first (LOC, pupils, vitals) and notify the provider emergently. The other clients have needs, but none shows active neurologic deterioration.",
+        "incorrect": [
+          "Sudden crying or laughing out of proportion to mood fits post-stroke emotional lability. It needs assessment and support, but it is not a physiologic emergency.",
+          "This is a real fall-safety need and should be met soon, but the bed alarm is on and the client is asking for help, so the risk is controlled. It ranks below a possible rebleed.",
+          "A TIA still needs prompt workup, but this client's symptoms are resolved and stable. A client with a new decline in consciousness comes first."
+        ]
+      }
+    },
+    {
+      "stem": "A client is on day 6 after coiling of a ruptured cerebral aneurysm. During the 0800 neuro check the client is newly confused about place, and the right arm drifts downward when held out. BP is 148/86 mm Hg; at 0400 the client was oriented with no drift. What should the nurse do?",
+      "options": [
+        "Give the PRN IV labetalol to lower the BP and reduce the risk of rebleeding",
+        "Reorient the client, attribute the change to sedation after the procedure, and recheck at the next scheduled neuro check",
+        "Hold the next nimodipine dose, because new deficits suggest the client is not tolerating it",
+        "Recognize possible vasospasm/delayed cerebral ischemia, notify the provider promptly, and anticipate urgent imaging"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a new focal deficit (arm drift) and new confusion several days after aneurysmal subarachnoid hemorrhage. Analyze cues/prioritize hypotheses: the aneurysm has been secured, and days 4–14 are the classic window for vasospasm with delayed cerebral ischemia, which the blueprint lists as a specific risk after aneurysmal SAH. Take action: report the change promptly so the team can evaluate (often with imaging) and treat. Evaluate outcomes: continue frequent neuro checks to see whether the deficit progresses.",
+        "incorrect": [
+          "The aneurysm has been coiled, so rebleeding is less likely. Unprescribed BP lowering can worsen ischemia in vessels that are already narrowed.",
+          "Six days after a procedure, new confusion and a new drift are not sedation effects. Waiting until the next check delays treatment of ischemic brain tissue.",
+          "Nimodipine is the drug given to improve outcomes in this exact problem. Stopping it on your own is unsafe; hold it only for hypotension or a provider order."
+        ]
+      }
+    },
+    {
+      "stem": "A client with aneurysmal subarachnoid hemorrhage failed the swallow screen and has a nasogastric tube in place. Which prescription should the nurse question?",
+      "options": [
+        "Nimodipine 60 mg via nasogastric tube every 4 hours",
+        "Nimodipine 60 mg IV every 4 hours",
+        "Keep the client NPO except for medications given through the nasogastric tube",
+        "Neurologic checks, including pupils, every hour"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the blueprint specifies enteral nimodipine for aneurysmal SAH. Prioritize hypotheses: nimodipine for this use is an oral/enteral product, and giving its capsule contents intravenously has caused severe hypotension and cardiac arrest. Take action: question the IV route and clarify that the dose goes through the NG tube. Evaluate outcomes: check BP before each dose, since hypotension is the main reason to hold and report.",
+        "incorrect": [
+          "This is correct: a client who cannot swallow can receive nimodipine enterally through the NG tube.",
+          "This is appropriate: a failed swallow screen means nothing by mouth, but the NG tube can be used for prescribed medications.",
+          "This is appropriate: hourly neuro checks detect rebleeding, hydrocephalus, and delayed cerebral ischemia early."
+        ]
+      }
+    },
+    {
+      "stem": "A 74-year-old with long-standing, poorly controlled hypertension takes warfarin for atrial fibrillation. A noncontrast CT shows an intracerebral hemorrhage. INR is 3.2, BP 176/98 mm Hg, GCS 13. Which prescription should the nurse carry out first?",
+      "options": [
+        "Place intermittent pneumatic compression devices on both legs",
+        "Start the levetiracetam loading dose to prevent seizures",
+        "Hold tonight's warfarin dose and recheck the INR in the morning",
+        "Give the prescribed IV vitamin K and 4-factor prothrombin complex concentrate"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a brain bleed in a client whose INR of 3.2 is above the therapeutic range. Prioritize hypotheses: hematoma expansion is the main early threat in ICH, and ongoing anticoagulation drives it. Take action: reversal of anticoagulation is a blueprint priority in hemorrhagic stroke, so the reversal agents come first (alongside prescribed BP control). Evaluate outcomes: repeat INR and serial neuro checks show whether the reversal and BP control are working.",
+        "incorrect": [
+          "IPC devices are the right VTE prevention in ICH, but they do not address the immediate risk of the bleed getting bigger.",
+          "The blueprint states antiseizure prophylaxis is not routine for every patient. Even if it is prescribed, it does not come before stopping the bleeding.",
+          "Holding the next dose does nothing about the anticoagulant effect already present. An INR of 3.2 with an active brain bleed needs active reversal now."
+        ]
+      }
+    },
+    {
+      "stem": "A 66-year-old has left arm weakness and slurred speech; last known well was 75 minutes ago. Noncontrast CT shows no hemorrhage, glucose is 132 mg/dL, BP is 178/104 mm Hg, and NIHSS is 9. The team is preparing alteplase. Which finding should the nurse report before the infusion starts?",
+      "options": [
+        "The BP of 178/104 mm Hg",
+        "The CT radiology report says no acute infarct is visible yet",
+        "The NIHSS score of 9",
+        "The client's spouse says the client took apixaban about 4 hours ago"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the blueprint tells the nurse to ask about anticoagulant use when establishing the history. Analyze cues: a recent dose of a direct oral anticoagulant greatly increases the risk of intracranial hemorrhage with a thrombolytic and is generally a contraindication. Take action: report the apixaban dose immediately so the team can reassess eligibility (and consider thrombectomy if there is a large-vessel occlusion). Every other finding is consistent with proceeding.",
+        "incorrect": [
+          "178/104 is below the pre-thrombolysis limit of 185/110, so it does not prevent alteplase.",
+          "This is expected. Early ischemic stroke often does not show on noncontrast CT; the scan's purpose is to rule out bleeding.",
+          "A score of 9 reflects a measurable, potentially disabling deficit, which supports treatment rather than ruling it out."
+        ]
+      }
+    },
+    {
+      "stem": "A client with sudden right-sided weakness is being prepared for alteplase. The daughter says, \"The doctor told us the CT scan was normal. If it's normal, why are they giving a clot-busting drug?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"The CT showed exactly where the clot is, so the medicine can be aimed at that spot.\"",
+        "\"A normal CT means the stroke is mild, so the medicine is being given to keep it from getting worse.\"",
+        "\"The team will repeat the scan with contrast to confirm a stroke before the medicine can be started.\"",
+        "\"The first scan mainly checks for bleeding. Early stroke damage often doesn't show up yet, so a scan without bleeding means the medicine can be considered.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the daughter thinks a normal CT means no stroke. Generate solutions: the urgent noncontrast head CT is done to identify hemorrhage; early ischemic stroke may not yet be visible. Take action: explain that ruling out a bleed is what makes a thrombolytic safe to consider, and that the diagnosis is based on the client's symptoms and exam. Evaluate outcomes: ask the daughter to explain it back.",
+        "incorrect": [
+          "A noncontrast CT does not locate the clot. CT angiography is used to look for a large-vessel occlusion.",
+          "A normal noncontrast CT says nothing about how severe the stroke is. Severity is judged clinically, for example with the NIHSS.",
+          "Repeating imaging to 'confirm' an ischemic stroke is not required and would waste time. Eligible clients are treated within course targets once a bleed is excluded."
+        ]
+      }
+    },
+    {
+      "stem": "A client with stroke symptoms arrives at the emergency department at 0910 and is eligible for thrombolysis. The nurse is reviewing the record against the course targets. Which timeline meets both targets?",
+      "options": [
+        "Head CT completed at 0925; alteplase started at 0950",
+        "Head CT completed at 0935; alteplase started at 1000",
+        "Head CT completed at 0920; alteplase started at 1015",
+        "Head CT completed at 0945; alteplase started at 1005"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: arrival at 0910. Analyze cues: the course targets for stroke are imaging within 20 minutes of arrival (by 0930) and thrombolysis within 60 minutes of arrival for eligible clients (by 1010). Evaluate outcomes: a CT at 0925 and alteplase at 0950 meet both. Do not confuse these with the 30-minute door-to-needle target used for fibrinolysis in STEMI.",
+        "incorrect": [
+          "The CT at 0935 is 25 minutes after arrival, which misses the 20-minute imaging target, even though the alteplase time is within 60 minutes.",
+          "The CT is on time, but alteplase at 1015 is 65 minutes after arrival, which misses the 60-minute thrombolysis target.",
+          "The CT at 0945 is 35 minutes after arrival, missing the imaging target. The alteplase time of 1005 does not fix that."
+        ]
+      }
+    },
+    {
+      "stem": "A client with an ischemic stroke began IV alteplase at 1030. CT angiography then shows an occlusion of the proximal left middle cerebral artery, and NIHSS is 17. The neurointerventional team is available. What should the nurse anticipate?",
+      "options": [
+        "Preparing the client for thrombectomy now, without waiting to see whether the alteplase works",
+        "Observing for 60 minutes after the alteplase to see whether the deficits improve before deciding on thrombectomy",
+        "No thrombectomy, because the client has already received a thrombolytic",
+        "Scheduling thrombectomy for the morning, since selected clients remain eligible for up to 24 hours"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a large-vessel occlusion on CTA with a severe deficit (NIHSS 17). Generate solutions: thrombectomy (catheter clot removal, usually through femoral/groin access) is indicated for eligible large-vessel occlusion, and IV thrombolysis does not exclude it. Take action: prepare for the procedure right away. The blueprint says to treat as rapidly as possible; the eligibility window is not a reason to delay.",
+        "incorrect": [
+          "Waiting to judge the response to alteplase loses brain tissue. Eligible clients go to thrombectomy without that pause.",
+          "Thrombolysis and thrombectomy are complementary. Receiving alteplase does not make a client ineligible.",
+          "The 24-hour figure is the outer limit for selected clients, not a target. Delaying lets more of the penumbra become infarcted."
+        ]
+      }
+    },
+    {
+      "stem": "Two hours after a thrombectomy through the right femoral artery, which finding requires the nurse's immediate action?",
+      "options": [
+        "A 2-cm bruise around the puncture site that has not changed in size since arrival",
+        "A dime-sized spot of dry drainage on the dressing that is not increasing",
+        "The client reports new lower back pain, and the heart rate has risen from 78 to 106/min",
+        "The client asks to raise the head of the bed to eat lunch"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new back pain plus a rising heart rate after femoral arterial access. Prioritize hypotheses: retroperitoneal bleeding from the access site can be hidden, with no visible groin swelling, and tachycardia is an early sign of blood loss. Take action: check BP, the site, and distal pulses, keep the leg straight, and notify the provider immediately. Evaluate outcomes: trend vital signs and hemoglobin as prescribed.",
+        "incorrect": [
+          "A stable bruise that is not expanding is an expected finding. Continue to mark and monitor it.",
+          "A small amount of dry drainage that is not increasing does not suggest active bleeding.",
+          "This is a reasonable request to check against the prescribed activity and positioning orders, but it is not an emergency."
+        ]
+      }
+    },
+    {
+      "stem": "Three hours after alteplase for an ischemic stroke, the client's BP is 184/100 mm Hg. Neuro checks are unchanged, and the client has no headache. What should the nurse do?",
+      "options": [
+        "Continue routine monitoring, because the BP is below 185/110 mm Hg",
+        "Give the prescribed antihypertensive per protocol and recheck the BP, keeping it below 180/105 mm Hg",
+        "Give the antihypertensive to bring the BP below 140/90 mm Hg as quickly as possible",
+        "Recheck the BP at the next scheduled check in 1 hour, since the client has no symptoms"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the threshold changes once thrombolysis is given. Before alteplase the limit is under 185/110; afterward the BP must stay under 180/105 for at least 24 hours. A systolic of 184 exceeds that. Take action: treat with the prescribed antihypertensive per protocol and recheck often to lower the risk of hemorrhage. Evaluate outcomes: confirm the BP is back within target and that neuro checks stay stable.",
+        "incorrect": [
+          "185/110 is the pre-treatment limit. After thrombolysis the target is under 180/105, so 184 systolic is out of range.",
+          "Rapid lowering to a normal BP is not prescribed and can reduce perfusion to the penumbra. The goal is under 180/105.",
+          "No symptoms does not make an out-of-range BP after a thrombolytic acceptable. Waiting an hour leaves the bleeding risk untreated."
+        ]
+      }
+    },
+    {
+      "stem": "Forty minutes into an alteplase infusion, a client who takes lisinopril at home says their tongue \"feels thick.\" The nurse sees swelling of the lips and tongue. SpO2 is 96%, and there is no stridor. What should the nurse do first?",
+      "options": [
+        "Continue the infusion and give the PRN diphenhydramine, since the airway is currently open",
+        "Raise the head of the bed and recheck the airway every 15 minutes",
+        "Stop the alteplase infusion, assess the airway, and notify the provider immediately",
+        "Document a lisinopril allergy and hold the next home dose"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: lip and tongue swelling during thrombolysis in a client taking an ACE inhibitor. Prioritize hypotheses: orolingual angioedema, a blueprint-listed complication of thrombolytics that can progress to airway obstruction. Take action: stop the infusion, assess the airway closely, and notify the provider so prescribed treatment and airway support are ready. Evaluate outcomes: watch for stridor, voice change, or drooling, which signal a threatened airway.",
+        "incorrect": [
+          "Keeping the trigger running while the swelling progresses is unsafe. A currently open airway can close quickly.",
+          "Positioning and monitoring are supportive, but they do not remove the cause or get help to the bedside.",
+          "The ACE inhibitor should be held and reported, but that is secondary to stopping the infusion and protecting the airway."
+        ]
+      }
+    },
+    {
+      "stem": "A client admitted 4 hours ago with an ischemic stroke (not a thrombolytic candidate) had right hemiparesis: the right arm drifted down after 6 seconds. Now the client cannot lift the right arm off the bed, speech is newly slurred, and NIHSS has risen from 5 to 9. BP is 162/90 mm Hg, and glucose is 118 mg/dL. What should the nurse do?",
+      "options": [
+        "Notify the provider immediately of the worsening deficits",
+        "Recheck the NIHSS in 15 minutes to confirm the change before calling",
+        "Give the PRN IV labetalol to bring the BP below 140/90 mm Hg",
+        "Document the change as an expected fluctuation in the first 24 hours"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: weakness has progressed from hemiparesis (drift) to hemiplegia (no movement against gravity), with new dysarthria and a 4-point NIHSS increase. Analyze cues: glucose is normal, so hypoglycemia is not the cause. Prioritize hypotheses: stroke extension, edema, or hemorrhagic transformation. Take action: the blueprint lists worsening deficits as 'report immediately', so notify the provider now; urgent imaging is likely.",
+        "incorrect": [
+          "A 4-point NIHSS rise with a clear new motor and speech change is already confirmed. Delaying the call delays treatment.",
+          "The blueprint warns against unprescribed rapid BP reduction. Lowering to 140/90 can worsen ischemia, and 162/90 is not the problem here.",
+          "Documenting worsening deficits as expected normalizes deterioration and misses a possibly treatable cause."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a large left-hemisphere stroke does not follow the spoken instruction \"Squeeze my hand,\" cannot name a cup or a pen, and says only \"ta, ta, ta\" when asked a question. Hearing was normal before the stroke. Which interpretation and approach is most appropriate?",
+      "options": [
+        "Expressive aphasia: provide a word board so the client can point to what they need",
+        "Global aphasia: communicate with gestures, pictures, and demonstration, using a normal adult tone and simple yes/no cues",
+        "Receptive aphasia: give written instructions, since reading is usually preserved",
+        "Dysarthria: ask the client to slow down and exaggerate each sound"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client cannot understand a simple command (impaired comprehension) and cannot produce meaningful words or name objects (impaired expression). Analyze cues: deficits in both understanding and producing language mean global aphasia. Generate solutions: rely on nonverbal channels such as gestures, pictures, and demonstration, keep to one idea at a time with simple yes/no cues, and use a normal adult tone without assuming impaired intelligence. Evaluate outcomes: watch the client's responses to nonverbal cues.",
+        "incorrect": [
+          "In expressive aphasia comprehension is intact, but this client cannot follow a simple command. A word board also depends on understanding and reading words.",
+          "Comprehension is impaired, but so is expression, which makes this global, not purely receptive aphasia. Reading is usually impaired as well.",
+          "Dysarthria is a motor problem with articulation while language is intact. This client cannot understand or form language at all."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a right-hemisphere stroke has left facial weakness and dysphagia. Speech-language pathology has cleared a soft diet with nectar-thick liquids. Which actions should the nurse include at mealtime? Select all that apply.",
+      "options": [
+        "Seat the client fully upright for meals and keep them upright for about 30 minutes afterward",
+        "Check the left cheek for pocketed food after each meal",
+        "Offer liquids through a straw so the client can control each sip",
+        "Offer sips of plain water between bites to help clear the mouth",
+        "Provide oral care before and after meals",
+        "Place food on the left side of the mouth to strengthen the weak muscles"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Recognize cues: facial weakness on the left plus dysphagia means a risk of aspiration and of food collecting in the weak cheek. Generate solutions/take action: follow the prescribed texture, positioning, and feeding plan; check the affected side for pocketing; and keep the mouth clean. Evaluate outcomes: watch for coughing, a wet voice, or food left in the mouth.",
+        "incorrect": [
+          "Correct—Upright positioning during and after meals uses gravity to reduce aspiration risk.",
+          "Correct—Food collects on the weak (affected) side, where the client may not feel it. Pocketed food can be aspirated later.",
+          "Incorrect—Straws can deliver a larger, faster bolus and are generally avoided in dysphagia unless the speech-language pathologist approves them.",
+          "Incorrect—Plain water is a thin liquid. The prescribed plan is nectar-thick, and thin liquids are the easiest to aspirate.",
+          "Correct—Oral care removes residue and reduces the bacteria that cause aspiration pneumonia.",
+          "Incorrect—Food is placed on the stronger (unaffected) side to give the client better control. Placing it on the weak side encourages pocketing and aspiration."
+        ]
+      }
+    },
+    {
+      "stem": "A client with right hemiparesis and expressive aphasia coughs during meals, needs help putting on a shirt and brushing their teeth, and is unsteady during bed-to-chair transfers. Which referral is correctly matched to the client's need?",
+      "options": [
+        "Occupational therapy to train safe transfers and walking with a quad cane",
+        "Physical therapy to teach one-handed dressing and adaptive grooming tools",
+        "Occupational therapy to evaluate the coughing at meals and recommend liquid consistency",
+        "Speech-language pathology to evaluate swallowing and develop communication strategies"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the client has three distinct problems: swallowing and language, self-care, and mobility. Generate solutions: speech-language therapy supports communication and swallowing, OT supports daily activities (dressing, grooming), and PT supports mobility (transfers, gait). Take action: SLP is the correct match for coughing at meals and for the aphasia.",
+        "incorrect": [
+          "Transfers and walking with an assistive device are PT's focus. OT's focus is daily activities.",
+          "Dressing and grooming adaptations are OT's role. PT focuses on mobility.",
+          "Evaluating swallowing and choosing liquid consistency is the role of speech-language pathology, not OT."
+        ]
+      }
+    },
+    {
+      "stem": "A client is being discharged after a minor noncardioembolic ischemic stroke with prescriptions for aspirin plus clopidogrel for 21 days, then clopidogrel alone, along with atorvastatin. Which statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll take my atorvastatin every day, even though I don't feel any different on it.\"",
+        "\"I'll check my blood pressure at home and bring the log to my follow-up visit.\"",
+        "\"I'll keep taking both aspirin and clopidogrel for the rest of my life to be extra safe.\"",
+        "\"If my speech or arm changes again, I'll call 911 instead of waiting to see if it passes.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes (teaching): the blueprint says short-term dual antiplatelet therapy applies only to selected minor stroke or high-risk TIA cases. Continuing both drugs long term raises bleeding risk without the same benefit. This statement needs correcting: take both only for the prescribed short course, then the single antiplatelet as directed.",
+        "incorrect": [
+          "This statement is correct. Prescribed lipid therapy is part of secondary prevention, and adherence matters even without symptoms.",
+          "This statement is correct. BP control is a key part of secondary prevention.",
+          "This statement is correct. Recurrent symptoms require an emergency response, not waiting."
+        ]
+      }
+    },
+    {
+      "stem": "On day 9 of inpatient rehabilitation after a stroke, a client has a flat affect, is sleeping poorly, has refused physical therapy twice, and says, \"I'm just a burden to my family now.\" What is the nurse's best action?",
+      "options": [
+        "Explain that emotional lability is common after a stroke and usually improves over time",
+        "Let the client skip therapy today, since post-stroke fatigue is expected",
+        "Ask the spouse to encourage the client more firmly to attend therapy",
+        "Screen the client for depression, including asking directly about thoughts of self-harm, and report the findings"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a persistent low mood, poor sleep, withdrawal from therapy, and statements of worthlessness. Analyze cues: this pattern suggests post-stroke depression, which the blueprint says to assess for, rather than emotional lability. Take action: screen with a validated tool, ask directly about self-harm, and report to the provider for treatment. Evaluate outcomes: watch for improved engagement in therapy.",
+        "incorrect": [
+          "Emotional lability is sudden crying or laughing out of proportion to mood. This client has a sustained low mood, so the explanation is wrong and dismissive.",
+          "Fatigue is real after a stroke, but excusing the client from therapy without assessing mood misses a treatable problem and delays recovery.",
+          "Involving the caregiver matters, but pushing harder without assessing for depression ignores the cause and adds strain on the caregiver."
+        ]
+      }
+    },
+    {
+      "stem": "A client is on day 3 after coiling of a ruptured cerebral aneurysm. SpO2 is 95% on room air. Which interventions should the nurse include in the plan of care? Select all that apply.",
+      "options": [
+        "Give nimodipine enterally on schedule, checking BP before each dose",
+        "Perform neuro checks for new confusion or a new focal deficit",
+        "Apply the prescribed intermittent pneumatic compression devices",
+        "Give a levetiracetam loading dose, because every SAH client needs seizure prophylaxis",
+        "Apply 2 L/min of oxygen by nasal cannula to keep SpO2 at 98% or higher to protect the brain",
+        "Monitor for a worsening headache, vomiting, and a decline in level of consciousness"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Analyze cues: after aneurysmal SAH the main threats are delayed cerebral ischemia/vasospasm, hydrocephalus, rebleeding, and VTE. Generate solutions/take action: give enteral nimodipine, do frequent neuro checks, use mechanical VTE prevention, and monitor for signs of rising ICP. The blueprint states antiseizure prophylaxis is not routine and oxygen is given for hypoxemia, not routinely.",
+        "incorrect": [
+          "Correct—Enteral nimodipine improves outcomes after aneurysmal SAH. Hypotension is the reason to hold a dose and report.",
+          "Correct—New confusion or a new focal deficit can signal delayed cerebral ischemia from vasospasm.",
+          "Correct—IPC is the ordered VTE prevention while the bleeding risk is being judged.",
+          "Incorrect—The blueprint states antiseizure prophylaxis is not routine for every patient. It is given only when the team prescribes it for that client.",
+          "Incorrect—An SpO2 of 95% is not hypoxemia. Oxygen is given for hypoxemia (typically SpO2 below 90%), not routinely.",
+          "Correct—These are signs of rising ICP from hydrocephalus or rebleeding and need urgent reporting."
+        ]
+      }
+    },
+    {
+      "stem": "A client has left hemiplegia on day 5 after an ischemic stroke. Which interventions help prevent complications? Select all that apply.",
+      "options": [
+        "Reposition at least every 2 hours and inspect the skin over bony prominences on the left side",
+        "Perform range-of-motion exercises on the left limbs several times a day",
+        "Pull the client up in bed by the left arm to give the shoulder a gentle stretch",
+        "Keep the bed alarm on and place the call light and personal items on the client's right side",
+        "Keep the client on bed rest until strength returns, to prevent falls",
+        "Limit fluids in the evening to reduce incontinence episodes overnight"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Recognize cues: paralysis of one side brings risks of skin breakdown, contractures, falls, VTE, and dehydration, which the blueprint lists as complications to prevent. Generate solutions/take action: reposition, do range of motion, take fall precautions with items on the functional side, and support assisted mobility and adequate hydration.",
+        "incorrect": [
+          "Correct—Reduced sensation and movement on the affected side raise the risk of pressure injury. Frequent repositioning and skin checks prevent it.",
+          "Correct—Range of motion keeps the paralyzed joints from developing contractures.",
+          "Incorrect—Pulling on a flaccid arm can injure the shoulder (subluxation). Reposition the client with a lift sheet instead.",
+          "Correct—The alarm reduces falls, and placing items on the functional side lets the client reach them safely.",
+          "Incorrect—Prolonged bed rest increases contractures, VTE, and skin injury. The blueprint calls for assisted mobility as appropriate.",
+          "Incorrect—Restricting fluids risks dehydration, a listed complication. Incontinence is managed with scheduled toileting instead."
+        ]
+      }
+    },
+    {
+      "stem": "A client is being discharged after an embolic ischemic stroke caused by newly diagnosed atrial fibrillation. Follow-up imaging shows no hemorrhage, and the team has documented that the client is safe for anticoagulation. The discharge medication list includes aspirin 81 mg daily and no anticoagulant. What should the nurse do?",
+      "options": [
+        "Teach the client about aspirin, since antiplatelets are the standard secondary prevention after ischemic stroke",
+        "Contact the provider to clarify whether an anticoagulant is intended for stroke prevention",
+        "Ask the provider to add clopidogrel so the client has dual antiplatelet therapy",
+        "Teach the client that anticoagulants are avoided after any stroke because of bleeding risk"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the stroke was cardioembolic from atrial fibrillation, the client is documented safe for anticoagulation, and only aspirin is listed. Analyze cues: the blueprint matches therapy to cause, with anticoagulation for AF-related stroke when safe and antiplatelets for many noncardioembolic strokes. Take action: clarify the discharge regimen with the provider before teaching. Evaluate outcomes: confirm the final medication list and the client's understanding of it.",
+        "incorrect": [
+          "Antiplatelets are standard for many noncardioembolic strokes, but this stroke came from AF, so aspirin alone does not match the cause.",
+          "Short-term dual antiplatelets apply only to selected minor stroke or high-risk TIA cases. They are not a substitute for anticoagulation in AF.",
+          "This is a misconception. Anticoagulation is the recommended secondary prevention for AF-related stroke once the team judges it safe."
+        ]
+      }
+    },
+    {
       "stem": "At 7:00 AM, a client's spouse finds the client with left facial droop and left arm weakness. The spouse says the client went to bed at 10:00 PM \"completely normal.\" The client says the symptoms were there on waking at 6:30 AM. How should the nurse interpret IV thrombolytic eligibility?",
       "options": [
         "Eligible under the standard window, because onset is counted from 6:30 AM, when the symptoms were noticed",
@@ -155,7 +546,11 @@
         "Patch one eye to sharpen the remaining vision",
         "Place the call light on the left side to make the client use that side"
       ],
-      "answer": [0, 1, 2],
+      "answer": [
+        0,
+        1,
+        2
+      ],
       "type": "sata",
       "rationale": {
         "correct": "Analyze cues: hemianopsia is loss of the same half of the visual field in both eyes, and neglect is reduced attention to one side. Generate solutions: cue scanning and protect the client from injury, as the blueprint states. Essential safety items, such as the call light, stay where the client can see them.",

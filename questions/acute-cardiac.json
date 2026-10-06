@@ -3,6 +3,399 @@
   "label": "Acute: Cardiac (ACS, PCI, CABG, Valves)",
   "questions": [
     {
+      "stem": "A 74-year-old woman with type 2 diabetes comes to the clinic saying, \"I'm just so tired, I feel sick to my stomach, and I got short of breath folding laundry this morning.\" She denies chest pain. BP 104/66 mm Hg, HR 108/min, SpO2 95% on room air, skin cool and moist. Fingerstick glucose is 142 mg/dL. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "Her symptoms are most consistent with gastroenteritis, so an antiemetic and oral fluids are appropriate",
+        "Her diaphoresis is most likely from hypoglycemia, so she should eat a snack and be rechecked in 15 minutes",
+        "She may be having acute coronary syndrome without chest pain, so a 12-lead ECG and the chest-pain pathway are needed now",
+        "She likely has stable angina, so she should be scheduled for an outpatient stress test this week"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fatigue, nausea, exertional dyspnea, tachycardia, borderline-low BP, and cool clammy skin in an older woman with diabetes. Analyze cues: the blueprint warns that older adults and people with diabetes may have minimal or no chest pain during ACS, and the normal glucose rules out the main mimic. Prioritize hypotheses: ACS is the life-threatening explanation that must be ruled out first. Take action: obtain a 12-lead ECG within 10 minutes and activate the chest-pain pathway.",
+        "incorrect": [
+          "Nausea fits gastroenteritis, but exertional dyspnea, tachycardia, and cool clammy skin point to poor perfusion. Treating it as GI illness delays recognition of an MI.",
+          "Hypoglycemia is a sensible thing to check in a diabetic client with diaphoresis, but the glucose is 142 mg/dL. The cue has already been ruled out, so feeding her treats nothing.",
+          "Stable angina is predictable discomfort with exertion that is relieved by rest. A new cluster of symptoms with abnormal vital signs needs urgent ACS evaluation, not an outpatient test."
+        ]
+      }
+    },
+    {
+      "stem": "A 66-year-old client with an inferior STEMI is waiting for the cardiac catheterization team. Pain is 6/10. BP 86/58 mm Hg, HR 58/min, SpO2 95% on room air. The prescriptions include chewable aspirin 324 mg, nitroglycerin 0.4 mg SL PRN chest pain, oxygen 2–4 L/min PRN, and morphine 2 mg IV PRN pain. Which action should the nurse take now?",
+      "options": [
+        "Give the sublingual nitroglycerin for the chest pain",
+        "Apply oxygen at 2 L/min by nasal cannula",
+        "Give IV morphine 2 mg for the chest pain",
+        "Give the chewable aspirin"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: STEMI with ongoing pain, but a BP of 86/58 and an SpO2 of 95%. Analyze cues: MONA is not a mandatory sequence. Each drug is given only when it is indicated and safe for this client. Generate solutions: aspirin is the one therapy that is both indicated and safe right now. Take action: give the chewable aspirin and report the hypotension while the cath lab is being prepared.",
+        "incorrect": [
+          "Nitroglycerin dilates blood vessels and lowers BP. With a systolic BP of 86 it could cause dangerous hypotension and worsen coronary perfusion, so hold it and report the BP.",
+          "Oxygen is indicated for hypoxemia, usually SpO2 below 90%. At 95% on room air, routine oxygen is not indicated.",
+          "Morphine can lower BP further in a client who is already hypotensive, and it can mask ongoing ischemia. It is not the safest first drug here."
+        ]
+      }
+    },
+    {
+      "stem": "A 44-year-old client who smokes reports chest pain that wakes him at about 0500 several times a week. During an episode on the monitor, the ECG shows ST elevation that returns to baseline within minutes after sublingual nitroglycerin. Serial troponins are negative, and coronary angiography shows no significant obstructive plaque. How should the nurse interpret these findings?",
+      "options": [
+        "Stable angina from a fixed atherosclerotic narrowing",
+        "Variant angina caused by coronary artery vasospasm",
+        "An evolving NSTEMI that needs repeat troponins",
+        "A STEMI that resolved spontaneously and needs emergent PCI"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: chest pain at rest in the early morning, transient ST elevation that resolves quickly with nitroglycerin, negative troponins, and no obstructive plaque. Analyze cues: the blueprint describes variant angina as coronary vasospasm, often at rest. Prioritize hypotheses: no cell injury (troponin negative) and no fixed blockage point to spasm rather than infarction. Generate solutions: teaching includes smoking cessation, because smoking is a vasospasm trigger.",
+        "incorrect": [
+          "Stable angina is predictable discomfort with exertion caused by fixed plaque. This client's pain occurs at rest, and angiography shows no significant obstruction.",
+          "An MI requires myocardial cell injury, which shows up as a rising troponin. Serial troponins here are negative.",
+          "A STEMI is a full occlusion with ongoing injury and rising troponin. ST elevation that resolves within minutes, with negative troponins and open arteries, fits spasm, and there is no lesion to stent."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with unstable angina. Two serial troponins are negative, and the ECG showed transient ST depression during pain that is now resolved. Which prescription should the nurse question?",
+      "options": [
+        "Heparin infusion per weight-based protocol",
+        "Aspirin 81 mg PO daily after the initial loading dose",
+        "Repeat troponin in 3 hours",
+        "Alteplase IV per fibrinolytic protocol"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: unstable angina with negative troponins and ST depression, not ST elevation. Analyze cues: fibrinolytics are for eligible STEMI only. The blueprint states they are not used for NSTEMI or unstable angina, where they add bleeding risk without benefit. Take action: hold the alteplase and clarify the order with the provider. Antiplatelet, anticoagulant, and serial-troponin orders are expected ACS care.",
+        "incorrect": [
+          "An anticoagulant is part of the expected ACS therapy the nurse prepares for in unstable angina and NSTEMI.",
+          "Antiplatelet therapy with aspirin is standard after ACS when there is no contraindication.",
+          "Serial troponins are needed to determine whether the client is having an MI. The first values can be normal early on."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse at a small rural hospital without a cath lab is caring for four clients with chest pain. For which client should the nurse anticipate fibrinolytic therapy?",
+      "options": [
+        "A client with ST elevation whose symptoms began 2 hours ago, whose estimated transfer time to a PCI center is 3 hours, and who has no bleeding history",
+        "A client with ST depression and a rising troponin whose symptoms began 1 hour ago",
+        "A client with ST elevation whose symptoms began 16 hours ago and who now has mild residual discomfort",
+        "A client with ST elevation whose symptoms began 1 hour ago and whom a helicopter team can deliver to a cath lab within 60 minutes of first medical contact"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: fibrinolysis is for an eligible STEMI, generally within 12 hours of symptom onset, when timely PCI is unavailable. Transfer pathways use a 120-minute first-medical-contact-to-device threshold. Prioritize hypotheses: a 3-hour transfer exceeds that threshold, onset was 2 hours ago, and there are no bleeding contraindications, so this client qualifies. Take action: prepare to give the drug with a door-to-needle target of 30 minutes.",
+        "incorrect": [
+          "ST depression with a rising troponin is an NSTEMI. Fibrinolytics are not used for NSTEMI or unstable angina.",
+          "Symptoms began 16 hours ago, which is outside the general 12-hour window for fibrinolysis.",
+          "PCI is preferred when it can be reached within the 120-minute first-medical-contact-to-device threshold. A 60-minute transfer meets it, so this client should go for PCI."
+        ]
+      }
+    },
+    {
+      "stem": "A client is scheduled for cardiac catheterization with possible PCI this morning. SpO2 is 97% on room air. Which actions should the nurse take before the procedure? Select all that apply.",
+      "options": [
+        "Confirm that informed consent has been signed",
+        "Assess and document bilateral distal pulses",
+        "Review the most recent serum creatinine and eGFR",
+        "Ask whether the client has ever reacted to contrast dye",
+        "Hold the client's prescribed morning aspirin until after the procedure",
+        "Apply oxygen at 2 L/min to protect the myocardium during the procedure"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Generate solutions/take action: the blueprint's pre-PCI checklist is consent, IV access, renal function, bleeding risk, baseline pulses, and prior contrast reactions, followed by the specific medication and fasting orders. Evaluate: baseline pulses and renal values give the comparison points for the post-procedure checks.",
+        "incorrect": [
+          "Correct—Consent must be confirmed before an invasive procedure.",
+          "Correct—Baseline pulses are needed so that a change in distal perfusion after the procedure can be recognized.",
+          "Correct—Contrast can injure the kidneys. Renal function guides hydration, contrast use, and whether metformin should be held.",
+          "Correct—A prior reaction to contrast is the history that matters, not a shellfish allergy.",
+          "Incorrect—Antiplatelets are not stopped independently. Aspirin is usually continued before PCI, and medication instructions follow the specific orders.",
+          "Incorrect—Oxygen is given for hypoxemia (SpO2 below 90%). At 97%, routine oxygen is not indicated."
+        ]
+      }
+    },
+    {
+      "stem": "A client with type 2 diabetes is scheduled for cardiac catheterization in 2 hours. Morning labs: creatinine 2.1 mg/dL, eGFR 34 mL/min/1.73 m². The client took the usual metformin dose with breakfast and also takes daily aspirin. What is the nurse's best action?",
+      "options": [
+        "Notify the provider of the renal values and the morning metformin dose before the procedure",
+        "Hold today's aspirin to lower the risk of bleeding at the access site",
+        "Cancel the procedure, because contrast is contraindicated when eGFR is below 45",
+        "Tell the client that metformin will be restarted with the evening meal after the procedure"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: reduced renal function (creatinine 2.1, eGFR 34) and a recent metformin dose before an iodinated contrast load. Analyze cues: the blueprint says metformin and antithrombotic instructions depend on renal function, the procedure, and orders. Contrast can worsen kidney function, and metformin builds up when the kidneys are impaired. Take action: report both findings so the provider can decide on hydration, contrast limits, and metformin timing.",
+        "incorrect": [
+          "Antiplatelets are not stopped independently. Aspirin is usually continued for PCI unless it is specifically ordered held.",
+          "The nurse does not cancel a procedure. Reduced eGFR calls for provider planning (hydration, contrast volume), not an automatic contraindication.",
+          "Whether and when metformin restarts depends on post-contrast renal function and the orders. Promising a routine restart overlooks the renal risk."
+        ]
+      }
+    },
+    {
+      "stem": "One hour after PCI through the right femoral artery, the client says the groin \"feels warm and wet.\" The nurse finds a firm, enlarging swelling at the puncture site with oozing blood. BP 116/70 mm Hg, HR 92/min. What should the nurse do first?",
+      "options": [
+        "Check the right pedal and posterior tibial pulses",
+        "Notify the interventional cardiologist",
+        "Apply firm manual pressure just above the puncture site",
+        "Raise the head of the bed to 45° to assess the size of the hematoma"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an expanding firm hematoma with active oozing at the femoral access site. Prioritize hypotheses: active arterial bleeding is the immediate threat, even though the vital signs are still stable. Take action: apply firm direct pressure just above the puncture site to stop the bleeding, then call for help, notify the provider, and check distal pulses. Evaluate outcomes: trend the BP, HR, hematoma size, and distal perfusion.",
+        "incorrect": [
+          "Distal pulses are an essential post-PCI check, but assessment comes after the active bleeding is controlled.",
+          "The provider must be notified, but the nurse controls the bleeding first. Leaving it to call lets the hematoma expand.",
+          "Flexing the hip by raising the head of the bed puts strain on the femoral puncture and can make the bleeding worse. The leg is kept straight."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse receives report on four clients who had cardiac catheterization today. Which client should the nurse assess first?",
+      "options": [
+        "A client 2 hours after radial PCI with a compression band in place, pink fingers, capillary refill under 3 seconds, and mild wrist soreness",
+        "A client 3 hours after femoral PCI who reports 7/10 chest pressure \"like what brought me in\"",
+        "A client 6 hours after diagnostic catheterization with urine output of 45 mL/hr who is drinking fluids",
+        "A client 4 hours after femoral PCI who has a stable 1-cm bruise at the site and is asking for a meal tray"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: chest pressure after PCI that matches the client's original ischemic pain. Analyze cues: this may mean acute stent thrombosis or reocclusion, which is a new ACS event. Prioritize hypotheses: the most time-critical threat to myocardium. Take action: assess first, obtain a 12-lead ECG, and notify the interventional team. The blueprint lists ECG and chest pain monitoring first after PCI.",
+        "incorrect": [
+          "Pink fingers and brisk capillary refill show adequate distal perfusion after radial access. Mild soreness is expected.",
+          "45 mL/hr is adequate urine output (above 0.5 mL/kg/hr) and shows the kidneys are tolerating the contrast.",
+          "A small, stable bruise without expansion is an expected finding. A meal request is routine."
+        ]
+      }
+    },
+    {
+      "stem": "Three days after an MI, a client suddenly becomes very short of breath. The nurse hears a new loud holosystolic murmur at the apex and crackles throughout both lung fields. BP 92/60 mm Hg, HR 124/min, SpO2 86% on room air. Which complication does the nurse suspect?",
+      "options": [
+        "Acute mitral regurgitation from papillary muscle rupture",
+        "Pericarditis after the MI",
+        "Aspiration pneumonia",
+        "A benign flow murmur from a hyperdynamic recovering ventricle"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a new murmur with sudden pulmonary edema and hypotension a few days after an MI. Analyze cues: the blueprint lists new murmur and mechanical rupture as signs of deterioration. A ruptured papillary muscle lets the mitral valve leak (acute regurgitation), and blood backs up into the lungs. Take action: start oxygen because SpO2 is below 90%, escalate emergently, and anticipate an urgent echocardiogram and surgical consult.",
+        "incorrect": [
+          "Pericarditis causes a friction rub and pleuritic pain that changes with position, not a new holosystolic murmur with flash pulmonary edema.",
+          "Pneumonia can cause crackles and hypoxemia, but it does not produce a sudden new loud holosystolic murmur with hypotension.",
+          "A new loud murmur with sudden pulmonary edema and hypotension is never assumed to be benign. It signals mechanical failure."
+        ]
+      }
+    },
+    {
+      "stem": "Six hours after an anterior STEMI, a client on a heparin infusion becomes confused. BP 80/58 mm Hg, HR 122/min, skin cool and clammy, urine output 15 mL/hr for 2 hours, jugular veins distended, and crackles in both lung bases. How should the nurse interpret these findings?",
+      "options": [
+        "Hypovolemic shock from heparin-related bleeding",
+        "Septic shock from an infected IV site",
+        "Cardiogenic shock from pump failure",
+        "Expected low output that will resolve as the myocardium recovers"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypotension, tachycardia, cool clammy skin, confusion, and oliguria (shock), together with JVD and crackles (congestion). Analyze cues: poor perfusion plus a fluid-overloaded heart after a large anterior MI means the pump is failing. Prioritize hypotheses: cardiogenic shock, one of the blueprint's deterioration complications. Take action: escalate emergently. Evaluate: trend mentation, urine output, and perfusion.",
+        "incorrect": [
+          "Bleeding is a real risk on heparin, but hypovolemia causes flat neck veins and clear lungs. JVD and crackles mean the heart is overfilled, not underfilled.",
+          "Early septic shock usually causes fever and warm, flushed skin. Nothing here suggests infection, and the congestion points to the heart.",
+          "Confusion and urine output of 15 mL/hr are signs of organ hypoperfusion. They are an emergency, not an expected phase of recovery."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching a client who is scheduled for CABG tomorrow. Which client statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll have a breathing tube when I first wake up, so I won't be able to talk for a while.\"",
+        "\"I'll hug a pillow against my chest when I cough, and I'll use the incentive spirometer every hour while awake.\"",
+        "\"I should stay in bed and avoid coughing for the first few days so my breastbone can heal.\"",
+        "\"I'll probably be sitting in a chair and starting to walk within the first day or two.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes (teaching): the blueprint says to teach postoperative breathing and activity expectations before CABG. Avoiding coughing and staying in bed promote atelectasis, pneumonia, and VTE, which feed into the respiratory failure and infection complications. Clients are taught to cough with a splinting pillow and to mobilize early. This statement needs correcting.",
+        "incorrect": [
+          "This statement is correct. Clients are often briefly intubated after CABG, and knowing this lowers anxiety on waking.",
+          "This statement is correct. Splinted coughing and incentive spirometry are the expected breathing exercises.",
+          "This statement is correct. Early, progressive mobilization is expected after CABG."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is caring for a client in the first 12 hours after CABG. Which findings should the nurse report to the surgeon immediately? Select all that apply.",
+      "options": [
+        "Urine output of 15 mL/hr for the last 2 hours",
+        "New confusion and right-sided arm weakness",
+        "Chest-tube drainage of 300 mL of bright red blood in the past hour",
+        "Incisional pain of 4/10 when coughing, relieved by the prescribed analgesic",
+        "BP 82/50 mm Hg with cool extremities and slow capillary refill",
+        "Serosanguineous chest-tube drainage of 40 mL in the past hour"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Recognize and analyze cues against the blueprint's urgent post-CABG complications: low cardiac output, major bleeding, stroke, and AKI. Take action: escalate hypotension, altered mentation, and falling urine output right away. Expected pain and modest drainage are monitored and trended.",
+        "incorrect": [
+          "Correct—Falling urine output means AKI or low cardiac output, and the blueprint says to escalate it.",
+          "Correct—New confusion with one-sided weakness suggests a perioperative stroke, which is time-critical.",
+          "Correct—300 mL/hr of bright red drainage indicates major bleeding that may need a return to surgery.",
+          "Incorrect—Moderate incisional pain with coughing that responds to analgesia is expected. It is treated and reassessed, not reported emergently.",
+          "Correct—Hypotension with signs of poor peripheral perfusion indicates low cardiac output (or tamponade or bleeding) and needs immediate escalation.",
+          "Incorrect—A small amount of serosanguineous drainage is expected early after surgery. It is trended for sudden increases or an abrupt stop."
+        ]
+      }
+    },
+    {
+      "stem": "A client with known mitral regurgitation is being treated on a medical unit. Which finding should the nurse report to the provider first?",
+      "options": [
+        "A soft systolic murmur at the apex that has been documented since admission",
+        "Fatigue after showering that goes away after a 20-minute rest",
+        "Potassium of 4.0 mEq/L while on furosemide",
+        "A 1.8-kg weight gain over 2 days with new bibasilar crackles and orthopnea"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: rapid weight gain, new crackles, and orthopnea. Analyze cues: in regurgitation, backflow through the leaking valve congests the lungs, and these findings show worsening fluid overload (heart failure). Prioritize hypotheses: decompensation is the threat to airway and breathing. Take action: report it so therapy can be adjusted. The blueprint's nursing priorities are to trend daily weight, lung sounds, and symptoms.",
+        "incorrect": [
+          "An unchanged murmur is a known baseline finding of the valve disease. A new or changed murmur would be the concern.",
+          "Fatigue that resolves with rest is expected, and it is managed by balancing activity with rest.",
+          "A potassium of 4.0 mEq/L is within normal limits, so the diuretic is not causing hypokalemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with severe aortic stenosis who has fainted twice during exertion is awaiting valve replacement. Which statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll keep up my brisk walks even if I get dizzy, so my heart gets stronger before surgery.\"",
+        "\"I'll weigh myself every morning and call if I gain weight quickly.\"",
+        "\"If I start to feel lightheaded, I'll sit or lie down right away.\"",
+        "\"I'll spread my chores out during the day and rest between them.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes (teaching): stenosis is a restricted valve opening, so cardiac output cannot rise to meet exertion. That causes the syncope and angina the blueprint lists. Pushing through dizziness risks another fainting episode, a fall, or ischemia. The nursing priority is to balance activity with rest, so this statement needs correcting.",
+        "incorrect": [
+          "This statement is correct. Daily weights detect congestion early.",
+          "This statement is correct. Sitting or lying down at the first lightheadedness prevents falls and injury from syncope.",
+          "This statement is correct. Spacing activities with rest periods matches the blueprint's balance of activity and rest."
+        ]
+      }
+    },
+    {
+      "stem": "Two weeks after a bioprosthetic (tissue) aortic valve replacement, a client with chronic atrial fibrillation is taking warfarin. The client says, \"My neighbor got a tissue valve and doesn't take any blood thinner, so I don't think I need this.\" What is the nurse's best response?",
+      "options": [
+        "\"Every replacement valve, tissue or mechanical, needs warfarin for life.\"",
+        "\"Tissue valves don't always need long-term blood thinners, but your atrial fibrillation is another reason you take it. Keep taking it as prescribed.\"",
+        "\"You're right that tissue valves don't need blood thinners. Ask your provider about stopping it at your next visit.\"",
+        "\"You'll need it only for the first 3 months after surgery, and then you can stop it on your own.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: a tissue valve plus atrial fibrillation. The blueprint says a tissue valve may need anticoagulation at first or for another indication, and warns against assuming either lifelong anticoagulation or none for every patient. Generate solutions/take action: explain that this client's atrial fibrillation is its own indication, reinforce adherence, and direct questions to the provider.",
+        "incorrect": [
+          "That is true of mechanical valves. Applying it to every tissue valve is the overgeneralization the blueprint warns against.",
+          "This reinforces the misconception and encourages the client to drop needed stroke prevention for atrial fibrillation.",
+          "It assumes a fixed stop date, ignores the atrial fibrillation, and suggests stopping without the provider."
+        ]
+      }
+    },
+    {
+      "stem": "On the first day after surgical aortic valve replacement, the client's monitor shows the heart rate falling from 82/min to 38/min. The client reports feeling lightheaded, and BP is 84/50 mm Hg. Which action should the nurse take first?",
+      "options": [
+        "Recheck the heart rate in 15 minutes, since bradycardia is common after valve surgery",
+        "Notify the provider immediately and prepare for pacing as ordered",
+        "Hold the next scheduled dose of metoprolol and recheck the heart rate in 1 hour",
+        "Increase the maintenance IV fluid rate to raise the blood pressure"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a sudden drop in heart rate to 38/min with lightheadedness and hypotension after aortic valve surgery. Analyze cues: the aortic valve sits next to the heart's conduction system, and the blueprint lists conduction changes as a post-procedure complication that may need pacing. Prioritize hypotheses: symptomatic bradycardia with poor perfusion. Take action: escalate immediately and prepare for pacing (atropine may also be ordered per ACLS).",
+        "incorrect": [
+          "A symptomatic, hypotensive bradycardia cannot wait 15 minutes. The client is already showing poor perfusion.",
+          "Holding a beta blocker may be appropriate later, but it does not treat the current symptomatic bradycardia, and waiting an hour is unsafe.",
+          "Changing the IV rate without an order does not fix a rate problem. The low BP comes from the slow heart rate."
+        ]
+      }
+    },
+    {
+      "stem": "A client with streptococcal infective endocarditis is on day 8 of IV antibiotics through a PICC. The client has been afebrile for 5 days and says, \"I feel great. Can we take this IV out and I'll finish with pills at home?\" What is the nurse's best response?",
+      "options": [
+        "\"Since your fever has been gone for more than 48 hours, switching to pills is the usual next step.\"",
+        "\"Once a repeat blood culture comes back negative, the infection is cured and the antibiotics can stop.\"",
+        "\"Endocarditis usually needs about 4 to 6 weeks of IV antibiotics to clear the infection from the valve, so stopping early risks it coming back.\"",
+        "\"You can stop the antibiotics when the heart murmur goes away.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client feels well after only 8 days of treatment. Analyze cues: bacteria inside a valve vegetation are hard to reach, so the blueprint notes IV antibiotics often continue for 4–6 weeks. Feeling better and being afebrile do not mean the valve is sterilized. Take action: explain the reason for the full course. Evaluate outcomes: confirm understanding with teach-back and coordinate home IV therapy if ordered.",
+        "incorrect": [
+          "Defervescence is a good sign, but it is not the criterion for ending or changing endocarditis therapy. The full course is set by the provider.",
+          "Clearing the bloodstream is expected early in treatment, but the vegetation on the valve still needs the full course.",
+          "A regurgitant murmur from valve damage may never go away. It does not show whether the infection is cured."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is preparing discharge teaching for a client recovering from an MI treated with PCI. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Ask the client to explain in their own words how and when to take each new medication",
+        "Reinforce the referral to a cardiac rehabilitation program",
+        "Offer smoking-cessation resources to a client who smokes a pack a day",
+        "Instruct the client to avoid all physical activity until the 6-week follow-up visit",
+        "Tell the client to drive to the nearest emergency department if chest discomfort returns",
+        "Teach the client to call 911 for new or persistent chest discomfort"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Take action/evaluate outcomes: the blueprint's discharge priorities are teach-back for medications, cardiac rehabilitation, smoking cessation, gradual activity, follow-up, and emergency evaluation for new or persistent chest discomfort.",
+        "incorrect": [
+          "Correct—Teach-back confirms understanding better than asking 'Do you understand?'",
+          "Correct—Cardiac rehabilitation supports safe, progressive recovery and risk-factor reduction.",
+          "Correct—Smoking cessation is one of the most effective ways to reduce CAD risk.",
+          "Incorrect—Activity is increased gradually. Complete inactivity causes deconditioning and VTE risk, and it contradicts the cardiac rehabilitation plan.",
+          "Incorrect—A client with possible ACS should not drive. EMS can start an ECG and treatment on the way and alert the hospital.",
+          "Correct—New or persistent chest discomfort needs emergency evaluation by EMS."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chest pressure has a 12-lead ECG showing ST depression and T-wave inversion with no ST elevation. The troponin at arrival was within normal limits, and the repeat troponin 3 hours later is elevated. Which conclusion is accurate?",
+      "options": [
+        "The client has unstable angina, because the ST segments are not elevated",
+        "The client has a STEMI, and the cath lab should be activated for a 90-minute door-to-balloon time",
+        "The pain is likely noncardiac, because the first troponin was normal",
+        "The client has an NSTEMI, and the nurse should prepare the ordered antiplatelet and anticoagulant therapy"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: ischemic changes without ST elevation, and a troponin that rises from normal to elevated. Analyze cues: troponin is positive in both STEMI and NSTEMI. A rising troponin confirms myocardial injury (an MI), and the absence of ST elevation makes it an NSTEMI, usually a partial occlusion. Take action: prepare the ordered antiplatelet and anticoagulant therapy and continue monitoring. Serial troponins are interpreted with the ECG and the clinical picture.",
+        "incorrect": [
+          "Unstable angina has no troponin rise. An elevated troponin means myocardial injury has occurred, which makes this an NSTEMI.",
+          "A STEMI requires ST elevation. ST depression with a positive troponin is an NSTEMI, which does not trigger the emergent STEMI pathway.",
+          "Troponin can be normal early in an MI, which is why serial levels are drawn. The rising second value confirms injury."
+        ]
+      }
+    },
+    {
       "stem": "A 58-year-old client arrives in the emergency department with crushing chest pressure that radiates to the jaw, along with diaphoresis. Vital signs: BP 152/90 mm Hg, HR 104/min, SpO2 96% on room air. Which action is the nurse's priority within the first 10 minutes?",
       "options": [
         "Apply oxygen at 4 L/min by nasal cannula",
@@ -156,7 +549,12 @@
         "Teach that good daily oral hygiene helps prevent future infection",
         "Explain that the client must take antibiotics before every future dental cleaning"
       ],
-      "answer": [0, 1, 3, 4],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
       "type": "sata",
       "rationale": {
         "correct": "Recognize cues: fever, a new murmur, and Osler nodes in a client who injects drugs point to endocarditis. Take action: get cultures before antibiotics when that is feasible, and watch for embolic stroke, heart failure from valve damage, and sepsis. Prevent recurrence: remove unnecessary lines and maintain good oral hygiene.",
