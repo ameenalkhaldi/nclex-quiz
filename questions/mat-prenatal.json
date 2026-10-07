@@ -1,0 +1,378 @@
+{
+  "topic": "mat-prenatal",
+  "label": "Maternity: Prenatal Assessment & Adaptations",
+  "questions": [
+    {
+      "stem": "A client calls the prenatal clinic 5 days after a missed period. They report nausea and breast tenderness, but a home urine pregnancy test taken at 8 p.m., after drinking several bottles of water, was negative. Which response by the nurse is best?",
+      "options": [
+        "\"A negative home test means you are not pregnant, so your symptoms are most likely hormonal.\"",
+        "\"Repeat the home test tonight after emptying your bladder twice so the result is more accurate.\"",
+        "\"Repeat the test with your first-morning urine, or we can draw a blood hCG level, which detects lower amounts.\"",
+        "\"Your nausea and breast tenderness confirm the pregnancy, so let's schedule your first prenatal visit.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an evening test taken after heavy fluid intake, early in pregnancy, alongside nausea and breast tenderness. Analyze cues: a urine test is qualitative and depends on hCG concentration, so dilute evening urine can give a false negative. A serum test is quantitative and detects low hCG as early as 7–8 days after fertilization. Generate solutions: retest with concentrated first-morning urine, or use the more sensitive serum test. Take action: offer both options.",
+        "incorrect": [
+          "This accepts a result from a dilute specimen as final. It skips Analyze cues: the timing and the extra fluid make a false negative likely, so pregnancy has not been ruled out.",
+          "Voiding repeatedly does not concentrate urine. The evening specimen is still dilute. First-morning urine is the best specimen for a qualitative test.",
+          "Nausea and breast tenderness are presumptive signs. They are subjective, least reliable, and can have other causes, so they cannot confirm pregnancy."
+        ]
+      }
+    },
+    {
+      "stem": "At a first prenatal visit, a client says, \"My last period started on June 10, 2026, and ended on June 15. My cycles are regular.\" Using Naegele's rule, which estimated date of delivery (EDD) should the nurse document?",
+      "options": [
+        "March 17, 2027",
+        "March 22, 2027",
+        "March 17, 2026",
+        "March 10, 2027"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client gives both the first and the last day of the period. Analyze cues: Naegele's rule uses the FIRST day of the LMP (June 10, 2026). Take action: subtract 3 months (March 10, 2026), add 7 days (March 17, 2026), and add 1 year, which gives March 17, 2027.",
+        "incorrect": [
+          "This uses the last day of the period (June 15). Naegele's rule always starts from the first day of the LMP, so this EDD is 5 days late.",
+          "This subtracts 3 months and adds 7 days but forgets to add 1 year, so the date falls before the LMP.",
+          "This subtracts 3 months and adds 1 year but leaves out the 7 days, so the EDD is a week early."
+        ]
+      }
+    },
+    {
+      "stem": "A client at a prenatal intake reports that the first day of their last menstrual period was January 25, 2026. Their cycles are regular, 28 days. Which EDD should the nurse record?",
+      "options": [
+        "November 1, 2025",
+        "October 25, 2026",
+        "October 18, 2026",
+        "November 1, 2026"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: LMP January 25, 2026, with regular cycles, so Naegele's rule applies. Analyze cues: adding 7 days crosses a month boundary, which is the step most often done wrong. Take action: subtract 3 months (October 25, 2025), add 7 days (November 1, 2025, because October has 31 days), then add 1 year, which gives November 1, 2026.",
+        "incorrect": [
+          "The arithmetic is right through the 7 days, but the year was not added. An EDD before the LMP is impossible.",
+          "This subtracts 3 months and adds 1 year but leaves out the 7 days.",
+          "This SUBTRACTS 7 days instead of adding them, which puts the EDD two weeks early."
+        ]
+      }
+    },
+    {
+      "stem": "A client's first day of the last menstrual period was March 28, 2026. A student nurse calculates the EDD and asks the nurse to check it. Which EDD is correct?",
+      "options": [
+        "January 4, 2026",
+        "January 4, 2027",
+        "December 28, 2026",
+        "December 21, 2026"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: subtracting 3 months from March 28, 2026 moves back into the previous year (December 28, 2025). Take action: add 7 days, which crosses into January (January 4, 2026), then add 1 year, which gives January 4, 2027. Evaluate outcomes: an EDD about 9 months and 1 week after the LMP confirms the math.",
+        "incorrect": [
+          "This adds the 7 days correctly but does not add the year. Subtracting 3 months already moved the date back into 2025, and the year still has to be added.",
+          "This subtracts 3 months and adds a year but leaves out the 7 days, so the EDD is a week early.",
+          "This subtracts 7 days instead of adding them, which is a common sign error and puts the EDD two weeks early."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 10 weeks' gestation gives this history: a son born at 40 weeks who is living; twins born at 32 weeks, one of whom died in the NICU at 3 days old; a spontaneous miscarriage at 7 weeks; and an elective termination at 9 weeks. Which GTPAL should the nurse document?",
+      "options": [
+        "G5 T1 P2 A2 L2",
+        "G4 T1 P1 A2 L3",
+        "G5 T1 P1 A2 L2",
+        "G5 T1 P1 A2 L3"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a current pregnancy, one term birth, one twin birth at 32 weeks, two losses before 20 weeks, and one twin death. Analyze cues: G counts every pregnancy including this one (current, term, twins, miscarriage, termination = 5). T = 1 (40 weeks). P = 1, because twins are ONE birth event. A = 2, because both losses happened before 20 weeks, whether spontaneous or elective. L counts children living now: the son and the surviving twin = 2. Take action: document G5 T1 P1 A2 L2.",
+        "incorrect": [
+          "This counts each twin as a separate preterm birth. A multiple birth is a single delivery event, so P = 1.",
+          "This leaves out the current pregnancy from gravida and counts the twin who died as living. L means children who are alive now.",
+          "Every number is right except L. The twin who died in the NICU is not a living child, so L = 2, not 3."
+        ]
+      }
+    },
+    {
+      "stem": "A nonpregnant client comes for preconception counseling. History: a daughter born at 37 weeks 0 days, a son born at 36 weeks 6 days, a spontaneous loss at 19 weeks, and a stillbirth at 22 weeks. Both children are living. Which GTPAL is accurate?",
+      "options": [
+        "G4 T2 P1 A1 L2",
+        "G4 T1 P2 A1 L2",
+        "G4 T1 P1 A2 L2",
+        "G5 T1 P2 A1 L2"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: three of the gestational ages sit exactly on GTPAL boundaries. Analyze cues: term means 37 weeks 0 days or later (the daughter, T = 1). Preterm means 20 weeks 0 days to 36 weeks 6 days, which includes the son AND the 22-week stillbirth (P = 2). Abortion means a loss before 20 weeks 0 days, which is the 19-week loss (A = 1). The client is not pregnant now, so G = 4. L = 2. Take action: document G4 T1 P2 A1 L2.",
+        "incorrect": [
+          "This rounds 36 weeks 6 days up to term. Term starts at exactly 37 weeks 0 days, so the son is preterm.",
+          "This counts the 22-week stillbirth as an abortion. A loss at 20 weeks or later is a preterm birth, even if the baby is stillborn.",
+          "This adds a current pregnancy. The client is not pregnant, so G counts only the 4 past pregnancies."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 14 weeks' gestation asks, \"Is this pregnancy 100% certain now?\" Which finding in the chart lets the nurse answer that the pregnancy is confirmed?",
+      "options": [
+        "Softening and compressibility of the lower uterine segment",
+        "Ballottement felt during the bimanual examination",
+        "A positive quantitative serum hCG level",
+        "Fetal heart tones of 152/min heard by Doppler"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client is asking for certainty. Analyze cues: only POSITIVE signs are direct anatomic proof that can come only from a fetus: fetal heart tones by Doppler or fetoscope, a fetus seen on ultrasound, or fetal movement felt by an examiner. Take action: point to the Doppler fetal heart tones as confirmation.",
+        "incorrect": [
+          "This is Hegar's sign, a probable sign. It is objective but can have other causes, so it is not proof.",
+          "Ballottement is a probable sign. A uterine or pelvic mass can produce a similar rebound.",
+          "Even a quantitative serum hCG is a probable sign. hCG can be raised in conditions other than a viable pregnancy."
+        ]
+      }
+    },
+    {
+      "type": "sata",
+      "stem": "A nurse is documenting the findings of a client at 8 weeks' gestation. Which findings should the nurse classify as PROBABLE signs of pregnancy? Select all that apply.",
+      "options": [
+        "Bluish-violet discoloration of the cervix and vagina",
+        "Positive urine hCG test done in the clinic",
+        "Client-reported breast tenderness and urinary frequency",
+        "Softening of the lower uterine segment on bimanual exam",
+        "Amenorrhea for the past 2 months",
+        "Fetus with cardiac activity seen on transvaginal ultrasound"
+      ],
+      "answer": [0, 1, 3],
+      "rationale": {
+        "correct": "Probable signs are objective findings an examiner observes that suggest pregnancy but are not proof: Chadwick's, Goodell's and Hegar's signs, a positive hCG test, Braxton Hicks contractions, and ballottement. Presumptive signs are subjective. Positive signs come only from a fetus.",
+        "incorrect": [
+          "Correct—Chadwick's sign (from hypervascularity, about 6–8 weeks) is an objective probable sign.",
+          "Correct—a positive hCG test is probable even when the examiner runs it, because other conditions can raise hCG.",
+          "Incorrect—breast tenderness and urinary frequency are subjective symptoms the client reports, so they are presumptive.",
+          "Correct—Hegar's sign (about 6 weeks) is a probable sign found on exam.",
+          "Incorrect—amenorrhea is a presumptive symptom. Stress, weight changes, and other conditions can also stop menses.",
+          "Incorrect—seeing a fetus on ultrasound is a POSITIVE sign, which is proof and not just probable."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 32 weeks' gestation has been lying flat on the exam table while the nurse measures fundal height. The client says, \"I feel dizzy and sick.\" The client is pale and diaphoretic. BP is 86/50 mm Hg; it was 114/72 mm Hg on arrival. What is the nurse's first action?",
+      "options": [
+        "Turn the client onto the left side",
+        "Raise the client's legs 30 degrees while keeping them supine",
+        "Notify the provider and prepare an IV fluid bolus",
+        "Recheck the BP in the opposite arm in 5 minutes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: third trimester, lying supine, sudden dizziness, pallor, diaphoresis, and a BP drop from 114/72 to 86/50. Analyze cues: the gravid uterus is compressing the inferior vena cava, which cuts venous return and cardiac output. This is supine hypotensive syndrome. Take action: turn the client to the left lateral position to take the uterus off the vena cava. Evaluate outcomes: BP and symptoms should recover within minutes.",
+        "incorrect": [
+          "This keeps the client supine, and the supine position is the cause. Leg elevation does not relieve vena cava compression and may push the uterus back harder.",
+          "This treats it as true hypovolemia. The cause is positional, so repositioning comes first. Escalate only if the BP does not recover after the client is turned.",
+          "Rechecking the BP delays the fix while placental perfusion is falling. This is reassessment before action."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 28 weeks' gestation reviews their lab results. At the first visit: Hgb 12.8 g/dL, Hct 38%. Today: Hgb 11.2 g/dL, Hct 34%. The client has no symptoms, takes a prenatal vitamin daily, and asks, \"Am I bleeding somewhere?\" Which conclusion by the nurse is most accurate?",
+      "options": [
+        "The drop suggests concealed bleeding, so the nurse should assess for vaginal bleeding and notify the provider now",
+        "The drop is consistent with physiologic anemia, because plasma volume expands more than red blood cell mass",
+        "The drop shows iron-deficiency anemia that will need IV iron before the client can safely give birth",
+        "The drop reflects dehydration, so the client should increase daily fluid intake"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a mild, gradual drop in Hgb and Hct by the third trimester, with no symptoms, and the client taking a prenatal vitamin. Analyze cues: blood volume rises 40–50% in pregnancy, but plasma expands more than RBC mass, so the blood is diluted. Prioritize hypotheses: physiologic anemia explains the trend better than blood loss. Take action: explain hemodilution to the client and reinforce the daily prenatal vitamin. Evaluate outcomes: the repeat CBC at 24–28 weeks is used to track the trend.",
+        "incorrect": [
+          "Bleeding would come with symptoms or a sharper drop. Escalating a mild, expected dilutional change is a Prioritize hypotheses error.",
+          "This mistakes dilution for iron deficiency. A mild expected drop does not call for IV iron, and there are no red-cell indices to suggest a true deficiency.",
+          "This misreads the cue. Dehydration CONCENTRATES the blood and would raise Hct, not lower it."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches a client at 10 weeks' gestation about managing urinary frequency. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll keep drinking plenty of fluids during the daytime.\"",
+        "\"I'll stop drinking fluids about 2 hours before bedtime.\"",
+        "\"I'll drink less all day so I don't have to go as often.\"",
+        "\"I'll call if I have burning or pain when I urinate.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: in the first trimester, frequency comes from the growing uterus pressing on the bladder. Pregnancy also brings ureteral dilation and urinary stasis, which raise the risk of UTI. Generate solutions: keep up hydration during the day and limit fluids only in the 2 hours before bed. Evaluate outcomes: restricting fluids all day increases urinary stasis, UTI risk, and dehydration, so this statement needs correction.",
+        "incorrect": [
+          "Correct teaching. Daytime hydration flushes the urinary tract, which counters stasis and lowers UTI risk.",
+          "Correct teaching. Limiting fluids only before bedtime cuts nighttime voiding without reducing total intake.",
+          "Correct teaching. Dysuria can signal a UTI, and the risk is higher in pregnancy, so it should be reported."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 30 weeks' gestation has frequent heartburn. After teaching, which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll eat five or six small meals instead of three large ones.\"",
+        "\"I'll stay upright for at least an hour after I eat.\"",
+        "\"I'll cut back on fried and spicy foods.\"",
+        "\"I'll take baking soda in water because it works fast.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: progesterone relaxes the lower esophageal sphincter, and the growing uterus raises gastric pressure. Generate solutions: small frequent meals, staying upright after meals, avoiding fatty or spicy foods, and NON-sodium antacids. Evaluate outcomes: baking soda (sodium bicarbonate) is a high-sodium antacid, so this plan is unsafe and needs correction. This is the medication-safety trap in the item.",
+        "incorrect": [
+          "Correct teaching. Small meals reduce gastric distention and reflux.",
+          "Correct teaching. Not lying down for 1 hour after eating lets gravity keep stomach contents down.",
+          "Correct teaching. Fatty and spicy foods worsen reflux through a relaxed sphincter."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 34 weeks' gestation reports aching low back pain at the end of the day. The nurse notes an exaggerated lumbar curve. There is no fever, dysuria, or contraction pattern. Which instruction is most appropriate?",
+      "options": [
+        "\"Do pelvic tilt or rocking exercises daily and switch to low-heeled shoes.\"",
+        "\"Lie flat on your back on a firm surface for 20 minutes several times a day.\"",
+        "\"Wear a padded 2-inch heel to support your arches and shift your weight forward.\"",
+        "\"Limit walking and stay off your feet to rest your pelvic joints until delivery.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: low back pain at the end of the day with lordosis, and no signs of infection or labor. Analyze cues: the shift in the center of gravity and relaxin-mediated loosening of the pelvic joints strain the lumbar spine. Generate solutions: pelvic tilt and rocking exercises, low-heeled shoes, good posture, and lifting with the knees. Take action: teach exercises and footwear that reduce lordosis.",
+        "incorrect": [
+          "Lying supine at 34 weeks risks supine hypotensive syndrome. This option is unsafe because of a second cue, the gestational age.",
+          "Heels tilt the pelvis forward and worsen lordosis, which increases back strain.",
+          "Daily physical activity is encouraged in pregnancy. Restricting movement weakens supporting muscles and does not address posture."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 24 weeks' gestation is upset about blotchy brown patches on the forehead and cheeks, a dark line running from the umbilicus to the pubis, and reddened palms. They ask, \"Is something wrong with my liver?\" Which response by the nurse is best?",
+      "options": [
+        "\"Red palms can signal liver disease, so I'll ask the provider to order liver function tests.\"",
+        "\"These are early stretch marks; using lotion every day will keep them from spreading.\"",
+        "\"These are expected changes from pregnancy hormones that stimulate pigment cells; the facial patches usually fade after birth.\"",
+        "\"These changes are expected, but darkening this early can signal a hormone disorder, so I'll report it.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: facial patches, a midline abdominal line, and palmar erythema in the second trimester. Analyze cues: these are chloasma (melasma), linea nigra, and palmar erythema. They are integumentary adaptations caused by melanocyte-stimulating hormone, not signs of disease. Take action: reassure the client with an accurate explanation.",
+        "incorrect": [
+          "Outside pregnancy, palmar erythema can point to liver disease. Here it appears with other expected pigment changes, so ordering tests anchors on the wrong hypothesis.",
+          "This misreads the cues. Striae gravidarum are stretch marks on the abdomen and breasts, not facial pigment or a midline line.",
+          "This starts correctly but then treats a normal second-trimester finding as abnormal. Hyperpigmentation at 24 weeks is expected and does not need to be reported."
+        ]
+      }
+    },
+    {
+      "type": "sata",
+      "stem": "A nurse reviews notes on several expectant families. Which findings are expected psychological adaptations for the stage of pregnancy? Select all that apply.",
+      "options": [
+        "At 9 weeks, the client says, \"Part of me is excited and part of me wishes this had happened next year.\"",
+        "At 10 weeks, the client spends most visits planning the nursery and birth and shows little interest in their own symptoms.",
+        "At 22 weeks, shortly after first feeling movement, the client calls the fetus by a nickname and worries about their changing body.",
+        "At 37 weeks, the client is reorganizing the house and says they feel anxious and vulnerable about labor.",
+        "The client's partner reports nausea and an 8-lb weight gain since the pregnancy began.",
+        "At 38 weeks, the client says, \"I still don't really believe I'm pregnant,\" and has made no preparations."
+      ],
+      "answer": [0, 2, 3, 4],
+      "rationale": {
+        "correct": "First trimester: ambivalence, disbelief, focus on self. Second trimester: acceptance, quickening, the fetus becomes real to the client, body-image changes. Third trimester: preparing for birth, anxiety, vulnerability, nesting. Couvade syndrome in a partner is a recognized partner adaptation. A finding is a concern when it is out of step with the trimester.",
+        "incorrect": [
+          "Correct—ambivalence is the expected first-trimester response, even in a planned pregnancy.",
+          "Incorrect—the first trimester centers on the self. Planning focused on the baby and the birth fits the third trimester, so this misreads the stage.",
+          "Correct—after quickening the fetus becomes real to the client and body-image concerns appear. Both are expected in the second trimester.",
+          "Correct—nesting, anxiety, and vulnerability are the expected third-trimester tasks.",
+          "Correct—couvade syndrome: the partner has pregnancy-like symptoms such as nausea or weight gain.",
+          "Incorrect—disbelief belongs to the first trimester. At 38 weeks, with no preparation, it suggests the client has not accepted the pregnancy and needs further assessment."
+        ]
+      }
+    },
+    {
+      "stem": "A primigravida at 16 weeks' gestation says, \"My sister felt her baby move at 15 weeks with her third pregnancy, and I haven't felt anything. Is something wrong?\" Fetal heart tones are 148/min. Which response by the nurse is best?",
+      "options": [
+        "\"Not feeling movement by 16 weeks needs a same-day ultrasound to check on the baby.\"",
+        "\"In a first pregnancy, movement is usually first felt around 18 to 20 weeks, so not feeling it yet is expected.\"",
+        "\"You should have felt movement by now, so start counting kicks every evening and call if you feel none.\"",
+        "\"Movement is first felt around 14 to 16 weeks in everyone, so let's schedule an ultrasound to check growth.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a first pregnancy at 16 weeks, a comparison with a multigravida sister, and normal fetal heart tones. Analyze cues: quickening is usually first felt at about 18–20 weeks by a primigravida and at about 14–16 weeks by a multigravida, who recognizes the sensation sooner. Take action: reassure the client with accurate timing. Evaluate outcomes: the heart rate of 148 already confirms fetal well-being today.",
+        "incorrect": [
+          "This applies a multigravida timeline to a primigravida and orders an urgent test for an expected finding. Normal fetal heart tones are already reassuring.",
+          "Kick counting is a later-pregnancy tool. Telling the client to call for no movement at 16 weeks will cause worry over a normal finding.",
+          "14–16 weeks is the multigravida range. Applying it to everyone misreads the cue that this is a first pregnancy."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 16 weeks pregnant by an LMP-based EDD and reports regular 28-day cycles. On exam the nurse palpates the fundus at the level of the umbilicus. Which action is most appropriate?",
+      "options": [
+        "Document an expected finding for 16 weeks and remeasure at the next routine visit",
+        "Reassure the client that fundal height varies widely until the third trimester",
+        "Recheck the LMP and recalculate the EDD; no further follow-up is needed if the dates are confirmed",
+        "Report that uterine size is greater than dates and anticipate an ultrasound to check dating and for multiple gestation"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the fundus is at the umbilicus at 16 weeks. Analyze cues: the umbilicus is the landmark for about 20 weeks; at 12 weeks the fundus is just above the symphysis. So the uterus is about 4 weeks larger than dates. Prioritize hypotheses: a dating error, multiple gestation, or another cause of excess uterine size. Take action: report the size–dates discrepancy and anticipate an ultrasound.",
+        "incorrect": [
+          "The umbilicus marks about 20 weeks, not 16. Calling this expected misreads the landmark, and waiting 4 weeks delays evaluation.",
+          "Landmark checks are used to find exactly this kind of discrepancy. Reassurance without evaluation is premature closure.",
+          "Checking the LMP is reasonable, but confirmed dates make the discrepancy MORE significant. Stopping there skips the follow-up the finding needs."
+        ]
+      }
+    },
+    {
+      "stem": "At 36 weeks, a primigravida's fundus was palpated at the xiphoid process. At 39 weeks the fundus is lower, and the client says, \"I can breathe so much easier, but now I'm running to the bathroom constantly.\" Fetal heart tones are 140/min. Which conclusion is most accurate?",
+      "options": [
+        "Lightening has occurred as the fetal head engages in the pelvis, which is an expected finding",
+        "The lower fundal height suggests fetal growth restriction and should be reported today",
+        "The lower fundus suggests decreased amniotic fluid, and an ultrasound is needed",
+        "Frequency together with a descending fundus suggests a UTI, so a urine culture is needed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the fundus was highest at the xiphoid at 36 weeks and is now lower at 39 weeks, breathing is easier, urinary frequency is back, and fetal heart tones are normal. Analyze cues: near term the fetal head descends and engages in the pelvis. This is lightening. It takes pressure off the diaphragm and puts it on the bladder, which matches the third-trimester frequency described in the outline. Take action: reassure the client and continue routine weekly visits.",
+        "incorrect": [
+          "A drop in fundal height near term together with easier breathing is the pattern of lightening. Calling it growth restriction ignores the timing.",
+          "Low amniotic fluid is not suggested by sudden relief of dyspnea and new bladder pressure. Those cues point to fetal descent.",
+          "Frequency in the third trimester is expected from fetal descent. Without dysuria, a culture is not the first conclusion. The client should still be taught to report burning."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews return appointments booked for clients with uncomplicated pregnancies. Which appointment should the nurse change?",
+      "options": [
+        "A client at 16 weeks scheduled to return at 20 weeks",
+        "A client at 33 weeks scheduled to return at 35 weeks",
+        "A client at 31 weeks scheduled to return at 35 weeks",
+        "A client at 37 weeks scheduled to return at 38 weeks"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: each client's gestational age and the interval booked. Analyze cues: the routine schedule is every 4 weeks from weeks 4 to 28, every 2 weeks from 28 to 36, and weekly from 36 weeks until birth. Take action: a client at 31 weeks should return at 33 weeks, not 35. A 4-week gap at that stage misses checks of BP, fundal height, and fetal status.",
+        "incorrect": [
+          "A 4-week interval at 16 weeks is correct for weeks 4–28.",
+          "A 2-week interval at 33 weeks is correct for weeks 28–36.",
+          "A weekly visit at 37 weeks is correct for 36 weeks until birth."
+        ]
+      }
+    },
+    {
+      "stem": "A prenatal clinic nurse returns four phone messages. Which client should the nurse call first?",
+      "options": [
+        "A client at 9 weeks with nausea every morning who keeps down crackers and fluids and asks about ginger",
+        "A client at 11 weeks who has vomited several times a day for a week, has lost 4 kg from a pre-pregnancy weight of 62 kg, and reports dizziness and dark urine",
+        "A client at 33 weeks who gets short of breath climbing stairs but breathes comfortably at rest",
+        "A client at 28 weeks with a stuffy nose who asks whether they can use an over-the-counter decongestant spray"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: vomiting that persists, a 4-kg loss (about 6.5% of 62 kg), dizziness, and dark urine. Analyze cues: weight loss above 5% of pre-pregnancy weight with signs of dehydration meets the outline's definition of hyperemesis gravidarum. It brings a risk of hypokalemia and ketonuria. Prioritize hypotheses: this is the only unstable client. Take action: arrange same-day evaluation for IV hydration, electrolyte replacement, and antiemetics.",
+        "incorrect": [
+          "Morning nausea with adequate intake is an expected discomfort caused by hCG and estrogen. Diet and ginger teaching is appropriate but not urgent.",
+          "Dyspnea on exertion is expected: the uterus raises the diaphragm and oxygen consumption rises about 20%. Comfortable breathing at rest is reassuring.",
+          "The client needs teaching (saline spray and a humidifier; avoid decongestant sprays because of rebound), but nasal congestion is a stable, expected discomfort."
+        ]
+      }
+    }
+  ]
+}

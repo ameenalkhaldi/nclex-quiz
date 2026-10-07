@@ -25,7 +25,12 @@ window.NCLEX_DATA = {
     "acute-dysrhythmias-vascular": "Acute: Dysrhythmias, DVT/PE & Aorta",
     "acute-cardiac": "Acute: Cardiac (ACS, PCI, CABG, Valves)",
     "acute-stroke": "Acute: Stroke",
-    "acute-neuro": "Acute: ICP, Spinal Cord & Seizures"
+    "acute-neuro": "Acute: ICP, Spinal Cord & Seizures",
+    "mat-foundations": "Maternity: Maternal Health, Roles & Fetal Development",
+    "mat-prenatal": "Maternity: Prenatal Assessment & Adaptations",
+    "mat-testing-nutrition": "Maternity: Prenatal Testing, Vaccines & Nutrition",
+    "mat-labor": "Maternity: Labor Process & Intrapartum Care",
+    "mat-efm-pain": "Maternity: Fetal Monitoring & Labor Pain Management"
   },
   "banks": {
     "upper-gi": [
@@ -16661,6 +16666,1706 @@ window.NCLEX_DATA = {
           "Fosphenytoin is second-line therapy after the benzodiazepine, not instead of it.",
           "CJMM — Recognize cues: a seizure lasting 5 minutes or more is convulsive status epilepticus, a neurologic emergency, and the hypoxemia confirms the airway is compromised. Take action: activate the emergency response, support the ABCs (oxygen, suction, positioning), check glucose, and give the prescribed rescue benzodiazepine promptly. Evaluate outcomes: the seizure stops, the airway is maintained, and second-line antiseizure therapy is ready if seizures continue. A brief 15–20-second seizure, by contrast, does not need a benzodiazepine.",
           "Nothing should be placed in the mouth during a seizure. The airway is supported by positioning, suction, and oxygen."
+        ]
+      }
+    ],
+    "mat-foundations": [
+      {
+        "stem": "A perinatal nurse on a hospital maternal mortality review committee is screening four recent deaths. Which death meets the definition of maternal mortality?",
+        "options": [
+          "A client who died in a motor vehicle crash 2 weeks after a vaginal birth",
+          "A client who died of peripartum cardiomyopathy 10 weeks after a cesarean birth",
+          "A client who was fatally assaulted by a partner at 30 weeks' gestation",
+          "A client who died of a pulmonary embolism 3 weeks after a cesarean birth"
+        ],
+        "answer": 3,
+        "explanations": [
+          "The timing fits (2 weeks), but a motor vehicle crash is an accidental cause, and the maternal mortality definition excludes accidental causes. This death is pregnancy-associated only.",
+          "Peripartum cardiomyopathy is a pregnancy complication, so this death is pregnancy-related. It occurred after 42 days, however, so it falls outside the maternal mortality window. This answer analyzes the cause correctly but misses the time limit.",
+          "Homicide during pregnancy is counted as pregnancy-associated, because that category includes any cause. It is not maternal mortality, because the cause is incidental to the pregnancy.",
+          "CJMM — Recognize cues: for each death, note the timing relative to the end of pregnancy and whether the cause was related to the pregnancy. Analyze cues: maternal mortality requires both conditions. The death must occur during pregnancy or within 42 days of its end, and the cause must be related to or aggravated by the pregnancy or its management. Accidental and incidental causes are excluded. Prioritize hypotheses: a postpartum PE at 3 weeks is inside the 42-day window and comes from a pregnancy-related chain of events (pregnancy and cesarean birth raise clotting risk). Take action: classify this death as maternal mortality. It is also pregnancy-related and pregnancy-associated."
+        ]
+      },
+      {
+        "stem": "A client dies of peripartum cardiomyopathy 8 weeks after giving birth. A nursing student preparing a case presentation asks how the death will be classified. Which response by the nurse is accurate?",
+        "options": [
+          "It is pregnancy-associated and pregnancy-related, but it falls outside the definition of maternal mortality",
+          "It is pregnancy-associated only, because the death happened after the 6-week postpartum period ended",
+          "It is maternal mortality, because the cardiomyopathy was caused by the physiologic effects of pregnancy",
+          "It is not counted in pregnancy surveillance, because the client was no longer pregnant at the time of death"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the death occurred 8 weeks (56 days) postpartum, and the cause was a cardiovascular complication of pregnancy. Analyze cues: pregnancy-associated covers any death within 1 year, and pregnancy-related covers a death within 1 year caused by a pregnancy complication or a chain of events started by pregnancy. Maternal mortality also requires a pregnancy-related cause, but only within 42 days. Prioritize hypotheses: the cause meets the pregnancy-related definition, and the timing is past 42 days but within 1 year. Take action: teach that the death is pregnancy-associated and pregnancy-related but is not maternal mortality. This is also why cardiovascular conditions appear among the leading causes of pregnancy-related death.",
+          "Passing 42 days removes the death from maternal mortality, not from pregnancy-related. The pregnancy-related window is 1 year, and a cardiomyopathy caused by pregnancy meets the cause criterion.",
+          "The cause is pregnancy-related, but maternal mortality is limited to 42 days after the end of pregnancy. At 56 days this death falls outside that window.",
+          "Both pregnancy-associated and pregnancy-related surveillance extend 1 year after the end of pregnancy, so a death at 8 weeks is counted."
+        ]
+      },
+      {
+        "stem": "A labor and delivery nurse is completing a quality-improvement audit of severe maternal morbidity (SMM). Which client outcome should the nurse flag as SMM?",
+        "options": [
+          "A client with a postpartum hemorrhage that resolved with fundal massage and IV oxytocin",
+          "A client who needed an unplanned cesarean birth for a nonreassuring fetal heart rate",
+          "A client with a postpartum hemorrhage who received 4 units of packed RBCs and was admitted to the ICU",
+          "A client with severe perineal pain who needed IV opioids for the first 24 hours after birth"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is maternal morbidity, a pregnancy-related condition with an adverse effect. It resolved with first-line measures, though, and needed no transfusion, hysterectomy, or ICU care, so it does not meet the SMM threshold.",
+          "An unplanned cesarean is a surgical intervention for a fetal indication. It does not by itself produce the significant maternal consequences that define SMM.",
+          "CJMM — Recognize cues: transfusion of several units and an ICU admission after birth. Analyze cues: SMM means unexpected outcomes of labor and delivery that cause significant short- or long-term consequences, and the outline's examples are blood transfusion, hysterectomy, and ICU admission. Prioritize hypotheses: this is the only outcome that includes those markers. Take action: flag it as SMM for review, because tracking SMM helps identify preventable harm before it progresses to death.",
+          "Significant pain is a morbidity that needs good management. Short-term IV analgesia is not the life-threatening, consequence-producing kind of outcome counted as SMM."
+        ]
+      },
+      {
+        "stem": "An infant born at 36 weeks' gestation is discharged home and dies at 40 days of age. The clinic nurse is completing the county's vital statistics review. How should the nurse classify this death?",
+        "options": [
+          "As neonatal mortality, because the infant was born preterm",
+          "As both neonatal and infant mortality, because the death occurred within the first 2 months",
+          "As fetal death, because the infant was born before 37 weeks' gestation",
+          "As infant mortality, but not neonatal mortality"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Being born preterm does not make a death neonatal. Neonatal mortality is defined only by age at death (within 28 days), and this infant lived to day 40. This answer misreads the cue.",
+          "Every neonatal death is also an infant death, but not the reverse. Day 40 is past the 28-day neonatal cutoff, so the death is counted as infant mortality only.",
+          "This infant was born alive and lived 40 days, so it cannot be a fetal death. Preterm describes gestational age at birth, not whether the birth was live.",
+          "CJMM — Recognize cues: a live-born infant who died at day 40. Analyze cues: neonatal mortality covers deaths in the first 28 days of life, and infant mortality covers deaths in the first 365 days. Gestational age at birth does not change either definition. Take action: count the death as infant mortality only, because day 40 is past the 28-day neonatal window but within the first year."
+        ]
+      },
+      {
+        "stem": "A newborn is born at 38 weeks 4 days' gestation and weighs 5 lb 5 oz (2,410 g). How should the nurse document the newborn's classification?",
+        "options": [
+          "Preterm and low birth weight",
+          "Early term and low birth weight",
+          "Full term and low birth weight",
+          "Early term and normal birth weight"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Preterm is birth before 37+0. At 38+4 this infant is past that cutoff. Mixing up the two labels misreads the gestational age cue.",
+          "CJMM — Recognize cues: gestational age 38+4 and weight 2,410 g. Analyze cues: early term is 37+0 through 38+6, and full term starts at 39+0. Low birth weight is under 2,500 g (5 lb 8 oz) regardless of gestational age. Take action: document the newborn as early term and LBW. Evaluate outcomes: the LBW label should prompt closer monitoring (for example, of temperature and glucose) even though the infant is not preterm.",
+          "Full term starts at 39 weeks 0 days. At 38+4 the infant is still early term.",
+          "2,410 g (5 lb 5 oz) is under the 2,500 g (5 lb 8 oz) cutoff, so it is low birth weight. LBW is defined by weight alone, whatever the gestational age."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a prenatal class about gestational age classifications. Which statement by a pregnant client indicates a need for further teaching?",
+        "options": [
+          "\"If my baby is born at 37 weeks and 0 days, my baby will not be considered preterm.\"",
+          "\"Full term doesn't begin until 39 weeks, so a scheduled birth before then should have a medical reason.\"",
+          "\"If I'm still pregnant at 41 weeks and 3 days, my pregnancy will be called postterm.\"",
+          "\"My baby could be born at full term and still be classified as low birth weight.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This statement is accurate. Preterm is birth before 37+0, so a birth at 37+0 is early term.",
+          "This statement is accurate. Full term is 39+0 through 40+6, and births before 39 weeks are early term. Knowing this helps the client understand why an elective birth is not scheduled earlier without a reason.",
+          "CJMM — Recognize cues: the client calls 41+3 'postterm.' Analyze cues: 41+0 through 41+6 is late term, and postterm starts at 42+0. Take action: correct the misunderstanding, because the label affects what the client should expect about monitoring and possible induction. Evaluate outcomes: the teaching has worked when the client can say that 41 weeks is late term and 42 weeks or later is postterm.",
+          "This statement is accurate. LBW (under 2,500 g) is defined regardless of gestational age, so a full-term newborn can still be LBW."
+        ]
+      },
+      {
+        "stem": "A nurse is preparing discharge teaching for a postpartum client. Most pregnancy-related deaths in the U.S. are preventable. Which findings should the nurse teach the client to report right away? Select all that apply.",
+        "options": [
+          "Chest pain or shortness of breath that is new or getting worse",
+          "Soaking a pad in an hour or less, or passing large clots",
+          "A temperature of 100.4°F (38°C) or higher with a foul-smelling discharge",
+          "Thoughts of harming yourself or feeling unable to care for yourself",
+          "Breasts that feel full and firm on day 3 after birth",
+          "Mild afterpains during breastfeeding in the first few days"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—chest pain or dyspnea can signal a cardiovascular condition or an embolism, which are both leading causes of pregnancy-related death.",
+          "Correct—heavy bleeding signals hemorrhage, a leading and highly preventable cause of death.",
+          "Correct—fever with foul-smelling discharge suggests infection that can progress to sepsis.",
+          "Correct—mental health conditions, including suicide, are a leading cause of pregnancy-related death. Self-harm thoughts need immediate care.",
+          "Incorrect—breast fullness around day 3 is expected as milk comes in. It is a breastfeeding teaching point, not an emergency.",
+          "Incorrect—afterpains with breastfeeding are expected uterine contractions in the early postpartum days. Teaching them as an emergency adds alarm without improving safety."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A Black client who is 5 days postpartum calls the clinic. They report a headache that has not improved with acetaminophen and say they \"feel like something is wrong.\" They add that staff told them at their last visit that their worries were \"normal new-mom stress.\" Which action should the nurse take first?",
+        "options": [
+          "Reassure the client that headaches are common after birth from fatigue and fluid shifts, and suggest rest",
+          "Ask the client to come in today and take their blood pressure and symptoms seriously, escalating to the provider",
+          "Schedule the client for the routine postpartum visit and give them a list of warning signs to watch for",
+          "Refer the client to a doula for emotional support during the postpartum adjustment period"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Fatigue can cause headaches, but calling this one benign without an assessment repeats the dismissal the client described. It skips the Analyze cues step and risks missing a preventable complication.",
+          "CJMM — Recognize cues: a persistent headache that does not respond to analgesia, a sense that something is wrong, and a report of earlier concerns being dismissed, in a client from a group with a 2- to 3-fold higher risk of pregnancy-related death. Analyze cues: a postpartum headache can signal a cardiovascular or hypertensive complication, and cardiovascular conditions are a leading cause of death. Dismissing a client's concerns contributes to the preventable deaths behind U.S. disparities. Prioritize hypotheses: a serious complication must be ruled out before the symptoms are called benign. Take action: see the client today, assess BP and symptoms, and escalate. Evaluate outcomes: the client is evaluated before the condition progresses, and the client's concerns are validated.",
+          "A list of warning signs is useful, but the client already has a warning sign now. Waiting for the routine visit delays an assessment that is needed today.",
+          "A doula gives valuable emotional support, but a doula is non-clinical and cannot evaluate a possible medical complication. This option treats a physical cue as only an emotional need."
+        ]
+      },
+      {
+        "stem": "A nurse is triaging phone calls at a freestanding birth center that provides low-risk care. Which client should the nurse direct to a hospital labor and delivery unit rather than the birth center?",
+        "options": [
+          "A client at 39 weeks 2 days with regular contractions every 5 minutes and intact membranes",
+          "A client at 40 weeks 1 day with an uncomplicated pregnancy who reports clear fluid leaking",
+          "A client at 34 weeks 3 days with regular contractions every 4 minutes for the past 2 hours",
+          "A client at 38 weeks 0 days with a normal prenatal course who reports loss of the mucus plug"
+        ],
+        "answer": 2,
+        "explanations": [
+          "A term client in early, uncomplicated labor is the low-risk client a birth center is designed to serve.",
+          "Clear fluid at term in an uncomplicated pregnancy suggests rupture of membranes and should be evaluated, but it is within low-risk term care. It does not by itself require an acute care setting.",
+          "CJMM — Recognize cues: regular contractions at 34+3 weeks. Analyze cues: this is preterm labor (before 37+0), and the infant may need resuscitation and NICU care from a neonatologist. Community settings such as birth centers focus on low-risk care, while acute care settings are equipped for resuscitation, cesarean birth, and critical care. Prioritize hypotheses: this client has a high-risk condition that is outside the birth center's scope. Take action: direct the client to the hospital L&D unit now.",
+          "Losing the mucus plug at term is an expected sign that labor is approaching, not a high-risk finding."
+        ]
+      },
+      {
+        "stem": "A nurse on a postpartum unit is planning care with an unlicensed assistive personnel (UAP). Which task is appropriate to delegate to the UAP?",
+        "options": [
+          "Checking fundal height and lochia on a client who gave birth 2 hours ago",
+          "Teaching a first-time parent how to recognize newborn feeding cues",
+          "Obtaining routine vital signs on a stable client who is 1 day postpartum",
+          "Evaluating whether a client's pain improved after an oral analgesic"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Assessing the fundus and lochia soon after birth is a nursing assessment used to detect hemorrhage. It needs RN judgment and cannot be delegated to a UAP.",
+          "Client and family teaching is an RN responsibility. A UAP can reinforce what the RN taught, but the UAP cannot provide the initial teaching.",
+          "CJMM — Generate solutions: match each task to the scope of the role. UAP assist with non-invasive tasks such as vital signs, hygiene, room preparation, and mobility. Assessment, teaching, and evaluation stay with the RN. Take action: delegate routine vital signs on a stable client, and tell the UAP which values to report right away. Evaluate outcomes: the RN reviews the vital signs the UAP reports and acts on any abnormal value.",
+          "Evaluating a client's response to a medication is the Evaluate outcomes step of the nursing process, so it belongs to the RN."
+        ]
+      },
+      {
+        "stem": "A client who is 2 days postpartum is breastfeeding. They report nipple pain with every feeding and say the newborn \"slides off.\" The nurse has already helped with positioning twice, and the problem continues. Which referral is most appropriate?",
+        "options": [
+          "Request a consult with the pediatrician to evaluate the newborn's feeding",
+          "Arrange support from the client's doula for the remaining feedings",
+          "Ask the certified nurse-midwife to reassess the client's postpartum recovery",
+          "Request a consult with the lactation consultant (IBCLC)"
+        ],
+        "answer": 3,
+        "explanations": [
+          "The pediatrician manages the infant's overall health. Nothing here suggests a medical problem with the newborn, and the problem is latch mechanics, which is the IBCLC's specialty.",
+          "A doula gives emotional, physical, and informational support, but a doula is not a certified lactation specialist for correcting a persistent latch problem.",
+          "The CNM manages low-risk postpartum care for the client, but this problem is specific to breastfeeding and needs a specialist in latch correction.",
+          "CJMM — Recognize cues: ongoing nipple pain and a poor latch even after the RN helped twice. Analyze cues: this is a complex feeding challenge that first-line nursing support did not resolve. Generate solutions: the IBCLC is the certified specialist in breastfeeding initiation, positioning, latch correction, and complex feeding problems. Take action: request the IBCLC consult. Evaluate outcomes: a deep latch, less nipple pain, and adequate newborn output."
+        ]
+      },
+      {
+        "stem": "A pregnant client at 20 weeks' gestation receives prenatal care from a certified nurse-midwife (CNM) at a community clinic. The client has repaired congenital heart disease, and today's anatomy ultrasound shows a suspected fetal cardiac anomaly. Which plan of care should the nurse anticipate?",
+        "options": [
+          "Refer the client to a maternal-fetal medicine (MFM) specialist for collaborative high-risk care",
+          "Continue routine prenatal care with the CNM and repeat the ultrasound at the next visit",
+          "Arrange a neonatology consult after birth to evaluate the newborn's heart",
+          "Refer the client to a doula to plan continuous support for a natural birth"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a pre-existing maternal cardiac condition plus a suspected complex fetal anomaly. Analyze cues: the CNM's scope focuses on low-risk care. The MFM specialist (perinatologist) focuses on high-risk pregnancies, maternal pre-existing conditions, complex fetal anomalies, and advanced diagnostic testing. Take action: anticipate an MFM referral now. Cardiovascular conditions are also a leading cause of pregnancy-related death, which raises the stakes for this client. Evaluate outcomes: the client receives coordinated high-risk care, and birth is planned at a setting equipped for critical care.",
+          "Waiting for the next routine visit delays care. Both the maternal heart disease and the fetal finding are outside the low-risk scope of the CNM's practice.",
+          "Neonatology will likely be needed at birth, but waiting until after birth skips advanced prenatal testing and planning. This option is correct but not yet.",
+          "A doula can add emotional support, but a doula does not address the high-risk medical needs, and a 'natural birth' plan may not be safe for this client."
+        ]
+      },
+      {
+        "stem": "A pregnant client has hired a doula for labor. The nurse reviews the doula's role with the client. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"My doula can massage my back and help me change positions during labor.\"",
+          "\"My doula can explain what is happening so I feel informed during labor.\"",
+          "\"My doula can stay with me continuously, even when my nurse leaves the room.\"",
+          "\"My doula can check my cervix and tell me if the baby's heart rate looks okay.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This statement is accurate. Massage and position changes are physical comfort measures, which are part of a doula's role.",
+          "This statement is accurate. Informational support is part of a doula's role, as long as the doula does not interpret clinical data.",
+          "This statement is accurate. The doula's support is continuous, and that is one of the doula's main benefits.",
+          "CJMM — Recognize cues: the client expects the doula to do cervical exams and interpret fetal monitoring. Analyze cues: a doula is a non-clinical professional who provides continuous emotional, physical, and informational support. Cervical exams and fetal monitoring assessment are clinical tasks done by the RN and the provider. Take action: clarify the roles so the client still reports concerns to the nurse. Evaluate outcomes: the client can explain the difference between the doula's support role and the nurse's clinical role."
+        ]
+      },
+      {
+        "stem": "A client at the first prenatal visit is tearful. They report taking a prescribed medication that is a known teratogen, and they stopped it when the pregnancy test was positive. By dating, the last dose was taken 10 days after conception. Which response by the nurse is most accurate?",
+        "options": [
+          "\"Exposure this early usually has an all-or-none effect, so a pregnancy that continues usually develops normally. I'll let your provider know so they can review it with you.\"",
+          "\"This was during the period when major organs form, so your baby is at the highest risk for structural defects.\"",
+          "\"Medications this early can't reach the embryo because the placenta hasn't formed yet, so there is no risk.\"",
+          "\"Exposure at this point mainly causes growth restriction later in pregnancy, so you'll need extra ultrasounds.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: teratogen exposure at day 10 after conception. Analyze cues: day 10 falls in the preembryonic stage (conception to day 14), which is the all-or-none period. Exposure then either ends in embryonic death or resorption, or is followed by complete recovery. Prioritize hypotheses: if the pregnancy continues, the risk of a major structural defect from this exposure is low. Take action: give accurate information without false reassurance, and inform the provider. Evaluate outcomes: the client's anxiety decreases, and the client understands the plan.",
+          "Weeks 3–8 (the embryonic stage) are the period of peak sensitivity to structural defects. Day 10 comes before that period, so this answer misplaces the timing.",
+          "This gives an inaccurate reason and false reassurance. The all-or-none principle does not mean exposure has no effect, because exposure can cause embryonic loss. Saying 'no risk' oversimplifies it.",
+          "Growth restriction and functional defects are typical of exposure in the fetal stage (weeks 9–40), not the preembryonic stage."
+        ]
+      },
+      {
+        "stem": "A prenatal clinic nurse receives four phone messages from pregnant clients who were exposed to the same known teratogenic medication. Gestation is counted from conception. Which client should the nurse prioritize for a same-day provider review?",
+        "options": [
+          "A client exposed on day 12 after conception",
+          "A client exposed during week 5 after conception",
+          "A client exposed during week 14 after conception",
+          "A client exposed during week 30 after conception"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Day 12 is in the all-or-none preembryonic period, so the risk of a major structural malformation is lower than during organogenesis. This client still needs follow-up, but not first.",
+          "CJMM — Recognize cues: the same teratogen, with each exposure at a different time after conception. Analyze cues: weeks 3–8 (the embryonic stage) are the period of organogenesis and peak sensitivity to major structural malformations such as neural tube and cardiac defects. Prioritize hypotheses: exposure in week 5 carries the greatest risk of a major structural defect. Take action: prioritize this client for a same-day provider review and counseling.",
+          "By week 14 the fetal stage has begun. Exposure in the fetal stage tends to cause functional defects or growth restriction, not the major structural defects of weeks 3–8.",
+          "Exposure in late pregnancy still matters for functional effects and growth, but the period of greatest structural vulnerability passed weeks ago."
+        ]
+      },
+      {
+        "stem": "While performing the newborn's initial assessment, the nurse inspects the umbilical cord. It has one large, thin-walled vessel and one smaller, thick-walled vessel. Which action should the nurse take?",
+        "options": [
+          "Report the finding to the provider, because the cord should contain two arteries and one vein",
+          "Document a normal cord, because the vein and an artery are both present",
+          "Clamp the cord closer to the abdomen, because one of the arteries has already closed",
+          "Reassess the cord in 24 hours, because the vessels are hard to identify through Wharton's jelly"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: only two vessels, one vein (large and thin-walled) and one artery. Analyze cues: a normal cord is AVA, two arteries and one vein encased in Wharton's jelly. A single umbilical artery is an abnormal finding that can be associated with other congenital anomalies, such as renal or cardiac defects. Take action: report the finding so the provider can decide whether further evaluation is needed. Evaluate outcomes: the newborn has a complete assessment for any associated anomalies.",
+          "This misreads the cue. A normal cord has three vessels (AVA), so a cord with only one artery is abnormal and must be reported, not documented as normal.",
+          "The cord vessels are counted at birth, and a missing artery is not a vessel that has closed early. Changing where the cord is clamped neither treats nor evaluates the finding.",
+          "Wharton's jelly protects the vessels from compression, but it does not make them impossible to count at birth. Delaying the report postpones the evaluation for anomalies."
+        ]
+      },
+      {
+        "stem": "A pregnant client at 33 weeks' gestation has an ultrasound showing an amniotic fluid index (AFI) of 4 cm. Which question should the nurse ask first?",
+        "options": [
+          "\"Have you noticed your underwear staying damp or a leak of fluid from your vagina?\"",
+          "\"Has your provider ever told you that you have high blood sugar during this pregnancy?\"",
+          "\"Have you noticed your abdomen growing faster than expected over the past few weeks?\"",
+          "\"Have you had any headaches, vision changes, or swelling in your face or hands?\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: an AFI under 5 cm is oligohydramnios. Analyze cues: oligohydramnios is associated with fetal renal agenesis, uteroplacental insufficiency, and premature rupture of membranes. Of these, ruptured membranes is the one the nurse can screen for right away with a question. Prioritize hypotheses: preterm ROM at 33 weeks needs prompt evaluation and raises the risk of cord compression. Take action: ask about leaking fluid and report the answer. Evaluate outcomes: the cause is identified, and monitoring for cord compression is planned.",
+          "Maternal diabetes is associated with polyhydramnios (excess fluid), not oligohydramnios. This option reverses the cue.",
+          "Rapid abdominal growth fits excess fluid (polyhydramnios). A low AFI would more likely show up as a fundal height that is small for dates.",
+          "Headache and edema screen for hypertensive disease. Uteroplacental insufficiency can contribute to low fluid, but leaking fluid is the more direct, time-sensitive cause to rule out first at 33 weeks. This is the right concern, but not the first question."
+        ]
+      },
+      {
+        "stem": "A pregnant client at 30 weeks' gestation has an amniotic fluid index (AFI) of 28 cm. Which recent result should the nurse review first to identify a likely maternal cause?",
+        "options": [
+          "The urine protein-to-creatinine ratio",
+          "The hemoglobin and hematocrit",
+          "The glucose tolerance test",
+          "The Rh type and antibody screen"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Proteinuria screens for preeclampsia, which is not one of the conditions linked to polyhydramnios.",
+          "Hemoglobin screens for anemia. Anemia does not explain excess amniotic fluid.",
+          "CJMM — Recognize cues: an AFI over 24 cm is polyhydramnios. Analyze cues: the associated causes are fetal GI obstruction, neural tube defects, and maternal diabetes. Only diabetes is a maternal condition that a lab result can identify. Generate solutions: review the glucose tolerance test. Take action: report an abnormal result so glucose control can be addressed, and expect a detailed ultrasound to look for fetal causes. Evaluate outcomes: managing the identified cause.",
+          "The Rh screen is important prenatal data, but it does not address the maternal cause of polyhydramnios named in the outline, which is diabetes."
+        ]
+      },
+      {
+        "stem": "Parents of a newborn ask the nurse why their baby's lungs \"didn't have to work\" before birth. Which statements by the nurse about fetal circulation are accurate? Select all that apply.",
+        "options": [
+          "\"Before birth, your baby got oxygen through the placenta instead of the lungs.\"",
+          "\"An opening between the upper heart chambers, the foramen ovale, let oxygen-rich blood bypass the lungs.\"",
+          "\"A vessel called the ductus arteriosus sent blood from the pulmonary artery to the aorta, away from the lungs.\"",
+          "\"The ductus venosus carried blood from the lungs directly into the liver.\"",
+          "\"The umbilical arteries brought oxygen-rich blood from the placenta to your baby.\""
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—the placenta handles gas exchange before birth, so fetal circulation bypasses the lungs.",
+          "Correct—the foramen ovale shunts blood from the right atrium to the left atrium, bypassing the right ventricle and the lungs.",
+          "Correct—the ductus arteriosus moves blood from the pulmonary artery into the aorta, bypassing the high-resistance fetal lungs.",
+          "Incorrect—the ductus venosus connects the umbilical vein to the inferior vena cava so that blood bypasses the liver. It does not carry blood from the lungs into the liver.",
+          "Incorrect—the umbilical arteries carry deoxygenated blood and wastes back to the placenta. The umbilical vein carries oxygen-rich blood to the fetus."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A pregnant client receives a screening result showing an increased chance of a chromosomal condition. The client asks the nurse, \"If you were me, would you have the diagnostic test?\" Which response by the nurse is most appropriate?",
+        "options": [
+          "\"Most people in your situation choose the diagnostic test, so that would be my recommendation.\"",
+          "\"I'd skip the test, since a screening result isn't a diagnosis and the test could add worry.\"",
+          "\"I can't make that decision for you, so you should talk it over with your partner and decide.\"",
+          "\"This is your decision. I can explain what each option involves and connect you with a genetic counselor.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Telling the client what most people choose and giving a recommendation is directive counseling. It steers the client's choice and undermines autonomy.",
+          "Advising against the test is just as directive as recommending it, and it brings the nurse's own judgment into the client's decision.",
+          "This respects autonomy, but it closes the conversation without offering education or a referral, so the client has no support for making an informed decision.",
+          "CJMM — Recognize cues: the client is asking the nurse to make a personal decision about genetic testing. Analyze cues: the nurse's role in genetics is non-directive counseling, which means unbiased education about the options, emotional support, referral to certified genetic counselors, and respect for the client's autonomy. Take action: affirm that the choice belongs to the client, offer balanced information, and refer to a genetic counselor. Evaluate outcomes: the client makes an informed decision that fits their own values."
+        ]
+      }
+    ],
+    "mat-prenatal": [
+      {
+        "stem": "A client calls the prenatal clinic 5 days after a missed period. They report nausea and breast tenderness, but a home urine pregnancy test taken at 8 p.m., after drinking several bottles of water, was negative. Which response by the nurse is best?",
+        "options": [
+          "\"A negative home test means you are not pregnant, so your symptoms are most likely hormonal.\"",
+          "\"Repeat the home test tonight after emptying your bladder twice so the result is more accurate.\"",
+          "\"Repeat the test with your first-morning urine, or we can draw a blood hCG level, which detects lower amounts.\"",
+          "\"Your nausea and breast tenderness confirm the pregnancy, so let's schedule your first prenatal visit.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This accepts a result from a dilute specimen as final. It skips Analyze cues: the timing and the extra fluid make a false negative likely, so pregnancy has not been ruled out.",
+          "Voiding repeatedly does not concentrate urine. The evening specimen is still dilute. First-morning urine is the best specimen for a qualitative test.",
+          "CJMM — Recognize cues: an evening test taken after heavy fluid intake, early in pregnancy, alongside nausea and breast tenderness. Analyze cues: a urine test is qualitative and depends on hCG concentration, so dilute evening urine can give a false negative. A serum test is quantitative and detects low hCG as early as 7–8 days after fertilization. Generate solutions: retest with concentrated first-morning urine, or use the more sensitive serum test. Take action: offer both options.",
+          "Nausea and breast tenderness are presumptive signs. They are subjective, least reliable, and can have other causes, so they cannot confirm pregnancy."
+        ]
+      },
+      {
+        "stem": "At a first prenatal visit, a client says, \"My last period started on June 10, 2026, and ended on June 15. My cycles are regular.\" Using Naegele's rule, which estimated date of delivery (EDD) should the nurse document?",
+        "options": [
+          "March 17, 2027",
+          "March 22, 2027",
+          "March 17, 2026",
+          "March 10, 2027"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the client gives both the first and the last day of the period. Analyze cues: Naegele's rule uses the FIRST day of the LMP (June 10, 2026). Take action: subtract 3 months (March 10, 2026), add 7 days (March 17, 2026), and add 1 year, which gives March 17, 2027.",
+          "This uses the last day of the period (June 15). Naegele's rule always starts from the first day of the LMP, so this EDD is 5 days late.",
+          "This subtracts 3 months and adds 7 days but forgets to add 1 year, so the date falls before the LMP.",
+          "This subtracts 3 months and adds 1 year but leaves out the 7 days, so the EDD is a week early."
+        ]
+      },
+      {
+        "stem": "A client at a prenatal intake reports that the first day of their last menstrual period was January 25, 2026. Their cycles are regular, 28 days. Which EDD should the nurse record?",
+        "options": [
+          "November 1, 2025",
+          "October 25, 2026",
+          "October 18, 2026",
+          "November 1, 2026"
+        ],
+        "answer": 3,
+        "explanations": [
+          "The arithmetic is right through the 7 days, but the year was not added. An EDD before the LMP is impossible.",
+          "This subtracts 3 months and adds 1 year but leaves out the 7 days.",
+          "This SUBTRACTS 7 days instead of adding them, which puts the EDD two weeks early.",
+          "CJMM — Recognize cues: LMP January 25, 2026, with regular cycles, so Naegele's rule applies. Analyze cues: adding 7 days crosses a month boundary, which is the step most often done wrong. Take action: subtract 3 months (October 25, 2025), add 7 days (November 1, 2025, because October has 31 days), then add 1 year, which gives November 1, 2026."
+        ]
+      },
+      {
+        "stem": "A client's first day of the last menstrual period was March 28, 2026. A student nurse calculates the EDD and asks the nurse to check it. Which EDD is correct?",
+        "options": [
+          "January 4, 2026",
+          "January 4, 2027",
+          "December 28, 2026",
+          "December 21, 2026"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This adds the 7 days correctly but does not add the year. Subtracting 3 months already moved the date back into 2025, and the year still has to be added.",
+          "CJMM — Analyze cues: subtracting 3 months from March 28, 2026 moves back into the previous year (December 28, 2025). Take action: add 7 days, which crosses into January (January 4, 2026), then add 1 year, which gives January 4, 2027. Evaluate outcomes: an EDD about 9 months and 1 week after the LMP confirms the math.",
+          "This subtracts 3 months and adds a year but leaves out the 7 days, so the EDD is a week early.",
+          "This subtracts 7 days instead of adding them, which is a common sign error and puts the EDD two weeks early."
+        ]
+      },
+      {
+        "stem": "A client at 10 weeks' gestation gives this history: a son born at 40 weeks who is living; twins born at 32 weeks, one of whom died in the NICU at 3 days old; a spontaneous miscarriage at 7 weeks; and an elective termination at 9 weeks. Which GTPAL should the nurse document?",
+        "options": [
+          "G5 T1 P2 A2 L2",
+          "G4 T1 P1 A2 L3",
+          "G5 T1 P1 A2 L2",
+          "G5 T1 P1 A2 L3"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This counts each twin as a separate preterm birth. A multiple birth is a single delivery event, so P = 1.",
+          "This leaves out the current pregnancy from gravida and counts the twin who died as living. L means children who are alive now.",
+          "CJMM — Recognize cues: a current pregnancy, one term birth, one twin birth at 32 weeks, two losses before 20 weeks, and one twin death. Analyze cues: G counts every pregnancy including this one (current, term, twins, miscarriage, termination = 5). T = 1 (40 weeks). P = 1, because twins are ONE birth event. A = 2, because both losses happened before 20 weeks, whether spontaneous or elective. L counts children living now: the son and the surviving twin = 2. Take action: document G5 T1 P1 A2 L2.",
+          "Every number is right except L. The twin who died in the NICU is not a living child, so L = 2, not 3."
+        ]
+      },
+      {
+        "stem": "A nonpregnant client comes for preconception counseling. History: a daughter born at 37 weeks 0 days, a son born at 36 weeks 6 days, a spontaneous loss at 19 weeks, and a stillbirth at 22 weeks. Both children are living. Which GTPAL is accurate?",
+        "options": [
+          "G4 T2 P1 A1 L2",
+          "G4 T1 P2 A1 L2",
+          "G4 T1 P1 A2 L2",
+          "G5 T1 P2 A1 L2"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This rounds 36 weeks 6 days up to term. Term starts at exactly 37 weeks 0 days, so the son is preterm.",
+          "CJMM — Recognize cues: three of the gestational ages sit exactly on GTPAL boundaries. Analyze cues: term means 37 weeks 0 days or later (the daughter, T = 1). Preterm means 20 weeks 0 days to 36 weeks 6 days, which includes the son AND the 22-week stillbirth (P = 2). Abortion means a loss before 20 weeks 0 days, which is the 19-week loss (A = 1). The client is not pregnant now, so G = 4. L = 2. Take action: document G4 T1 P2 A1 L2.",
+          "This counts the 22-week stillbirth as an abortion. A loss at 20 weeks or later is a preterm birth, even if the baby is stillborn.",
+          "This adds a current pregnancy. The client is not pregnant, so G counts only the 4 past pregnancies."
+        ]
+      },
+      {
+        "stem": "A client at 14 weeks' gestation asks, \"Is this pregnancy 100% certain now?\" Which finding in the chart lets the nurse answer that the pregnancy is confirmed?",
+        "options": [
+          "Softening and compressibility of the lower uterine segment",
+          "Ballottement felt during the bimanual examination",
+          "A positive quantitative serum hCG level",
+          "Fetal heart tones of 152/min heard by Doppler"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is Hegar's sign, a probable sign. It is objective but can have other causes, so it is not proof.",
+          "Ballottement is a probable sign. A uterine or pelvic mass can produce a similar rebound.",
+          "Even a quantitative serum hCG is a probable sign. hCG can be raised in conditions other than a viable pregnancy.",
+          "CJMM — Recognize cues: the client is asking for certainty. Analyze cues: only POSITIVE signs are direct anatomic proof that can come only from a fetus: fetal heart tones by Doppler or fetoscope, a fetus seen on ultrasound, or fetal movement felt by an examiner. Take action: point to the Doppler fetal heart tones as confirmation."
+        ]
+      },
+      {
+        "stem": "A nurse is documenting the findings of a client at 8 weeks' gestation. Which findings should the nurse classify as PROBABLE signs of pregnancy? Select all that apply.",
+        "options": [
+          "Bluish-violet discoloration of the cervix and vagina",
+          "Positive urine hCG test done in the clinic",
+          "Client-reported breast tenderness and urinary frequency",
+          "Softening of the lower uterine segment on bimanual exam",
+          "Amenorrhea for the past 2 months",
+          "Fetus with cardiac activity seen on transvaginal ultrasound"
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—Chadwick's sign (from hypervascularity, about 6–8 weeks) is an objective probable sign.",
+          "Correct—a positive hCG test is probable even when the examiner runs it, because other conditions can raise hCG.",
+          "Incorrect—breast tenderness and urinary frequency are subjective symptoms the client reports, so they are presumptive.",
+          "Correct—Hegar's sign (about 6 weeks) is a probable sign found on exam.",
+          "Incorrect—amenorrhea is a presumptive symptom. Stress, weight changes, and other conditions can also stop menses.",
+          "Incorrect—seeing a fetus on ultrasound is a POSITIVE sign, which is proof and not just probable."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client at 32 weeks' gestation has been lying flat on the exam table while the nurse measures fundal height. The client says, \"I feel dizzy and sick.\" The client is pale and diaphoretic. BP is 86/50 mm Hg; it was 114/72 mm Hg on arrival. What is the nurse's first action?",
+        "options": [
+          "Turn the client onto the left side",
+          "Raise the client's legs 30 degrees while keeping them supine",
+          "Notify the provider and prepare an IV fluid bolus",
+          "Recheck the BP in the opposite arm in 5 minutes"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: third trimester, lying supine, sudden dizziness, pallor, diaphoresis, and a BP drop from 114/72 to 86/50. Analyze cues: the gravid uterus is compressing the inferior vena cava, which cuts venous return and cardiac output. This is supine hypotensive syndrome. Take action: turn the client to the left lateral position to take the uterus off the vena cava. Evaluate outcomes: BP and symptoms should recover within minutes.",
+          "This keeps the client supine, and the supine position is the cause. Leg elevation does not relieve vena cava compression and may push the uterus back harder.",
+          "This treats it as true hypovolemia. The cause is positional, so repositioning comes first. Escalate only if the BP does not recover after the client is turned.",
+          "Rechecking the BP delays the fix while placental perfusion is falling. This is reassessment before action."
+        ]
+      },
+      {
+        "stem": "A client at 28 weeks' gestation reviews their lab results. At the first visit: Hgb 12.8 g/dL, Hct 38%. Today: Hgb 11.2 g/dL, Hct 34%. The client has no symptoms, takes a prenatal vitamin daily, and asks, \"Am I bleeding somewhere?\" Which conclusion by the nurse is most accurate?",
+        "options": [
+          "The drop suggests concealed bleeding, so the nurse should assess for vaginal bleeding and notify the provider now",
+          "The drop is consistent with physiologic anemia, because plasma volume expands more than red blood cell mass",
+          "The drop shows iron-deficiency anemia that will need IV iron before the client can safely give birth",
+          "The drop reflects dehydration, so the client should increase daily fluid intake"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Bleeding would come with symptoms or a sharper drop. Escalating a mild, expected dilutional change is a Prioritize hypotheses error.",
+          "CJMM — Recognize cues: a mild, gradual drop in Hgb and Hct by the third trimester, with no symptoms, and the client taking a prenatal vitamin. Analyze cues: blood volume rises 40–50% in pregnancy, but plasma expands more than RBC mass, so the blood is diluted. Prioritize hypotheses: physiologic anemia explains the trend better than blood loss. Take action: explain hemodilution to the client and reinforce the daily prenatal vitamin. Evaluate outcomes: the repeat CBC at 24–28 weeks is used to track the trend.",
+          "This mistakes dilution for iron deficiency. A mild expected drop does not call for IV iron, and there are no red-cell indices to suggest a true deficiency.",
+          "This misreads the cue. Dehydration CONCENTRATES the blood and would raise Hct, not lower it."
+        ]
+      },
+      {
+        "stem": "A nurse teaches a client at 10 weeks' gestation about managing urinary frequency. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll keep drinking plenty of fluids during the daytime.\"",
+          "\"I'll stop drinking fluids about 2 hours before bedtime.\"",
+          "\"I'll drink less all day so I don't have to go as often.\"",
+          "\"I'll call if I have burning or pain when I urinate.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Correct teaching. Daytime hydration flushes the urinary tract, which counters stasis and lowers UTI risk.",
+          "Correct teaching. Limiting fluids only before bedtime cuts nighttime voiding without reducing total intake.",
+          "CJMM — Analyze cues: in the first trimester, frequency comes from the growing uterus pressing on the bladder. Pregnancy also brings ureteral dilation and urinary stasis, which raise the risk of UTI. Generate solutions: keep up hydration during the day and limit fluids only in the 2 hours before bed. Evaluate outcomes: restricting fluids all day increases urinary stasis, UTI risk, and dehydration, so this statement needs correction.",
+          "Correct teaching. Dysuria can signal a UTI, and the risk is higher in pregnancy, so it should be reported."
+        ]
+      },
+      {
+        "stem": "A client at 30 weeks' gestation has frequent heartburn. After teaching, which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll eat five or six small meals instead of three large ones.\"",
+          "\"I'll stay upright for at least an hour after I eat.\"",
+          "\"I'll cut back on fried and spicy foods.\"",
+          "\"I'll take baking soda in water because it works fast.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Correct teaching. Small meals reduce gastric distention and reflux.",
+          "Correct teaching. Not lying down for 1 hour after eating lets gravity keep stomach contents down.",
+          "Correct teaching. Fatty and spicy foods worsen reflux through a relaxed sphincter.",
+          "CJMM — Analyze cues: progesterone relaxes the lower esophageal sphincter, and the growing uterus raises gastric pressure. Generate solutions: small frequent meals, staying upright after meals, avoiding fatty or spicy foods, and NON-sodium antacids. Evaluate outcomes: baking soda (sodium bicarbonate) is a high-sodium antacid, so this plan is unsafe and needs correction. This is the medication-safety trap in the item."
+        ]
+      },
+      {
+        "stem": "A client at 34 weeks' gestation reports aching low back pain at the end of the day. The nurse notes an exaggerated lumbar curve. There is no fever, dysuria, or contraction pattern. Which instruction is most appropriate?",
+        "options": [
+          "\"Do pelvic tilt or rocking exercises daily and switch to low-heeled shoes.\"",
+          "\"Lie flat on your back on a firm surface for 20 minutes several times a day.\"",
+          "\"Wear a padded 2-inch heel to support your arches and shift your weight forward.\"",
+          "\"Limit walking and stay off your feet to rest your pelvic joints until delivery.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: low back pain at the end of the day with lordosis, and no signs of infection or labor. Analyze cues: the shift in the center of gravity and relaxin-mediated loosening of the pelvic joints strain the lumbar spine. Generate solutions: pelvic tilt and rocking exercises, low-heeled shoes, good posture, and lifting with the knees. Take action: teach exercises and footwear that reduce lordosis.",
+          "Lying supine at 34 weeks risks supine hypotensive syndrome. This option is unsafe because of a second cue, the gestational age.",
+          "Heels tilt the pelvis forward and worsen lordosis, which increases back strain.",
+          "Daily physical activity is encouraged in pregnancy. Restricting movement weakens supporting muscles and does not address posture."
+        ]
+      },
+      {
+        "stem": "A client at 24 weeks' gestation is upset about blotchy brown patches on the forehead and cheeks, a dark line running from the umbilicus to the pubis, and reddened palms. They ask, \"Is something wrong with my liver?\" Which response by the nurse is best?",
+        "options": [
+          "\"Red palms can signal liver disease, so I'll ask the provider to order liver function tests.\"",
+          "\"These are early stretch marks; using lotion every day will keep them from spreading.\"",
+          "\"These are expected changes from pregnancy hormones that stimulate pigment cells; the facial patches usually fade after birth.\"",
+          "\"These changes are expected, but darkening this early can signal a hormone disorder, so I'll report it.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Outside pregnancy, palmar erythema can point to liver disease. Here it appears with other expected pigment changes, so ordering tests anchors on the wrong hypothesis.",
+          "This misreads the cues. Striae gravidarum are stretch marks on the abdomen and breasts, not facial pigment or a midline line.",
+          "CJMM — Recognize cues: facial patches, a midline abdominal line, and palmar erythema in the second trimester. Analyze cues: these are chloasma (melasma), linea nigra, and palmar erythema. They are integumentary adaptations caused by melanocyte-stimulating hormone, not signs of disease. Take action: reassure the client with an accurate explanation.",
+          "This starts correctly but then treats a normal second-trimester finding as abnormal. Hyperpigmentation at 24 weeks is expected and does not need to be reported."
+        ]
+      },
+      {
+        "stem": "A nurse reviews notes on several expectant families. Which findings are expected psychological adaptations for the stage of pregnancy? Select all that apply.",
+        "options": [
+          "At 9 weeks, the client says, \"Part of me is excited and part of me wishes this had happened next year.\"",
+          "At 10 weeks, the client spends most visits planning the nursery and birth and shows little interest in their own symptoms.",
+          "At 22 weeks, shortly after first feeling movement, the client calls the fetus by a nickname and worries about their changing body.",
+          "At 37 weeks, the client is reorganizing the house and says they feel anxious and vulnerable about labor.",
+          "The client's partner reports nausea and an 8-lb weight gain since the pregnancy began.",
+          "At 38 weeks, the client says, \"I still don't really believe I'm pregnant,\" and has made no preparations."
+        ],
+        "answer": [
+          0,
+          2,
+          3,
+          4
+        ],
+        "explanations": [
+          "Correct—ambivalence is the expected first-trimester response, even in a planned pregnancy.",
+          "Incorrect—the first trimester centers on the self. Planning focused on the baby and the birth fits the third trimester, so this misreads the stage.",
+          "Correct—after quickening the fetus becomes real to the client and body-image concerns appear. Both are expected in the second trimester.",
+          "Correct—nesting, anxiety, and vulnerability are the expected third-trimester tasks.",
+          "Correct—couvade syndrome: the partner has pregnancy-like symptoms such as nausea or weight gain.",
+          "Incorrect—disbelief belongs to the first trimester. At 38 weeks, with no preparation, it suggests the client has not accepted the pregnancy and needs further assessment."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A primigravida at 16 weeks' gestation says, \"My sister felt her baby move at 15 weeks with her third pregnancy, and I haven't felt anything. Is something wrong?\" Fetal heart tones are 148/min. Which response by the nurse is best?",
+        "options": [
+          "\"Not feeling movement by 16 weeks needs a same-day ultrasound to check on the baby.\"",
+          "\"In a first pregnancy, movement is usually first felt around 18 to 20 weeks, so not feeling it yet is expected.\"",
+          "\"You should have felt movement by now, so start counting kicks every evening and call if you feel none.\"",
+          "\"Movement is first felt around 14 to 16 weeks in everyone, so let's schedule an ultrasound to check growth.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This applies a multigravida timeline to a primigravida and orders an urgent test for an expected finding. Normal fetal heart tones are already reassuring.",
+          "CJMM — Recognize cues: a first pregnancy at 16 weeks, a comparison with a multigravida sister, and normal fetal heart tones. Analyze cues: quickening is usually first felt at about 18–20 weeks by a primigravida and at about 14–16 weeks by a multigravida, who recognizes the sensation sooner. Take action: reassure the client with accurate timing. Evaluate outcomes: the heart rate of 148 already confirms fetal well-being today.",
+          "Kick counting is a later-pregnancy tool. Telling the client to call for no movement at 16 weeks will cause worry over a normal finding.",
+          "14–16 weeks is the multigravida range. Applying it to everyone misreads the cue that this is a first pregnancy."
+        ]
+      },
+      {
+        "stem": "A client is 16 weeks pregnant by an LMP-based EDD and reports regular 28-day cycles. On exam the nurse palpates the fundus at the level of the umbilicus. Which action is most appropriate?",
+        "options": [
+          "Document an expected finding for 16 weeks and remeasure at the next routine visit",
+          "Reassure the client that fundal height varies widely until the third trimester",
+          "Recheck the LMP and recalculate the EDD; no further follow-up is needed if the dates are confirmed",
+          "Report that uterine size is greater than dates and anticipate an ultrasound to check dating and for multiple gestation"
+        ],
+        "answer": 3,
+        "explanations": [
+          "The umbilicus marks about 20 weeks, not 16. Calling this expected misreads the landmark, and waiting 4 weeks delays evaluation.",
+          "Landmark checks are used to find exactly this kind of discrepancy. Reassurance without evaluation is premature closure.",
+          "Checking the LMP is reasonable, but confirmed dates make the discrepancy MORE significant. Stopping there skips the follow-up the finding needs.",
+          "CJMM — Recognize cues: the fundus is at the umbilicus at 16 weeks. Analyze cues: the umbilicus is the landmark for about 20 weeks; at 12 weeks the fundus is just above the symphysis. So the uterus is about 4 weeks larger than dates. Prioritize hypotheses: a dating error, multiple gestation, or another cause of excess uterine size. Take action: report the size–dates discrepancy and anticipate an ultrasound."
+        ]
+      },
+      {
+        "stem": "At 36 weeks, a primigravida's fundus was palpated at the xiphoid process. At 39 weeks the fundus is lower, and the client says, \"I can breathe so much easier, but now I'm running to the bathroom constantly.\" Fetal heart tones are 140/min. Which conclusion is most accurate?",
+        "options": [
+          "Lightening has occurred as the fetal head engages in the pelvis, which is an expected finding",
+          "The lower fundal height suggests fetal growth restriction and should be reported today",
+          "The lower fundus suggests decreased amniotic fluid, and an ultrasound is needed",
+          "Frequency together with a descending fundus suggests a UTI, so a urine culture is needed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the fundus was highest at the xiphoid at 36 weeks and is now lower at 39 weeks, breathing is easier, urinary frequency is back, and fetal heart tones are normal. Analyze cues: near term the fetal head descends and engages in the pelvis. This is lightening. It takes pressure off the diaphragm and puts it on the bladder, which matches the third-trimester frequency described in the outline. Take action: reassure the client and continue routine weekly visits.",
+          "A drop in fundal height near term together with easier breathing is the pattern of lightening. Calling it growth restriction ignores the timing.",
+          "Low amniotic fluid is not suggested by sudden relief of dyspnea and new bladder pressure. Those cues point to fetal descent.",
+          "Frequency in the third trimester is expected from fetal descent. Without dysuria, a culture is not the first conclusion. The client should still be taught to report burning."
+        ]
+      },
+      {
+        "stem": "A nurse reviews return appointments booked for clients with uncomplicated pregnancies. Which appointment should the nurse change?",
+        "options": [
+          "A client at 16 weeks scheduled to return at 20 weeks",
+          "A client at 33 weeks scheduled to return at 35 weeks",
+          "A client at 31 weeks scheduled to return at 35 weeks",
+          "A client at 37 weeks scheduled to return at 38 weeks"
+        ],
+        "answer": 2,
+        "explanations": [
+          "A 4-week interval at 16 weeks is correct for weeks 4–28.",
+          "A 2-week interval at 33 weeks is correct for weeks 28–36.",
+          "CJMM — Recognize cues: each client's gestational age and the interval booked. Analyze cues: the routine schedule is every 4 weeks from weeks 4 to 28, every 2 weeks from 28 to 36, and weekly from 36 weeks until birth. Take action: a client at 31 weeks should return at 33 weeks, not 35. A 4-week gap at that stage misses checks of BP, fundal height, and fetal status.",
+          "A weekly visit at 37 weeks is correct for 36 weeks until birth."
+        ]
+      },
+      {
+        "stem": "A prenatal clinic nurse returns four phone messages. Which client should the nurse call first?",
+        "options": [
+          "A client at 9 weeks with nausea every morning who keeps down crackers and fluids and asks about ginger",
+          "A client at 11 weeks who has vomited several times a day for a week, has lost 4 kg from a pre-pregnancy weight of 62 kg, and reports dizziness and dark urine",
+          "A client at 33 weeks who gets short of breath climbing stairs but breathes comfortably at rest",
+          "A client at 28 weeks with a stuffy nose who asks whether they can use an over-the-counter decongestant spray"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Morning nausea with adequate intake is an expected discomfort caused by hCG and estrogen. Diet and ginger teaching is appropriate but not urgent.",
+          "CJMM — Recognize cues: vomiting that persists, a 4-kg loss (about 6.5% of 62 kg), dizziness, and dark urine. Analyze cues: weight loss above 5% of pre-pregnancy weight with signs of dehydration meets the outline's definition of hyperemesis gravidarum. It brings a risk of hypokalemia and ketonuria. Prioritize hypotheses: this is the only unstable client. Take action: arrange same-day evaluation for IV hydration, electrolyte replacement, and antiemetics.",
+          "Dyspnea on exertion is expected: the uterus raises the diaphragm and oxygen consumption rises about 20%. Comfortable breathing at rest is reassuring.",
+          "The client needs teaching (saline spray and a humidifier; avoid decongestant sprays because of rebound), but nasal congestion is a stable, expected discomfort."
+        ]
+      }
+    ],
+    "mat-testing-nutrition": [
+      {
+        "stem": "A pregnant client at 10 weeks has initial prenatal lab results: blood type O positive, antibody screen negative, rubella titer non-immune, hepatitis B surface antigen negative, and HIV negative. The client asks how the baby can be protected from rubella. Which plan should the nurse anticipate?",
+        "options": [
+          "Give the MMR vaccine today so immunity develops before the second trimester",
+          "Give the MMR vaccine between 27 and 36 weeks along with the Tdap",
+          "Give the MMR vaccine postpartum and teach the client to avoid rubella exposure now",
+          "Repeat the rubella titer at 24–28 weeks and give the MMR vaccine then if still non-immune"
+        ],
+        "answer": 2,
+        "explanations": [
+          "MMR is live attenuated, so it is contraindicated at any point in pregnancy, including the first trimester. This option recognizes the cue but skips the safety check in Generate solutions.",
+          "27–36 weeks is the window for Tdap, an inactivated vaccine. Pairing a live vaccine with it confuses the two rules; MMR stays contraindicated through the third trimester.",
+          "CJMM — Recognize cues: the initial-visit panel shows a non-immune rubella titer in a client who is already pregnant. Analyze cues: the protection the client needs comes from the MMR vaccine, which is a live attenuated vaccine and is contraindicated during pregnancy because of teratogenic risk to the fetus. Generate solutions: the safe plan is to avoid exposure now and vaccinate after delivery. Take action: plan MMR postpartum and teach the client to avoid people with rash illnesses. Evaluate outcomes: the client can state why the vaccine is delayed and when it will be given.",
+          "A titer does not change without vaccination or infection, and MMR would still be contraindicated at 24–28 weeks. Repeating the test delays the correct plan without changing it."
+        ]
+      },
+      {
+        "stem": "A pregnant client at 26 weeks has a 1-hour oral glucose tolerance test result of 148 mg/dL. The client says, \"Does this mean I have diabetes now?\" Which action should the nurse anticipate next?",
+        "options": [
+          "Schedule the client for a 3-hour oral glucose tolerance test",
+          "Begin teaching the client how to self-inject insulin for gestational diabetes",
+          "Repeat the 1-hour glucose screen at the next visit in 4 weeks",
+          "Reassure the client that the value is normal and recheck at 36 weeks"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a 1-hour OGTT of 148 mg/dL at the 24–28 week screening window. Analyze cues: the 1-hour test is a screen, and a value above the 130–140 mg/dL threshold is a positive screen, not a diagnosis. Generate solutions: a positive screen is followed by the 3-hour OGTT. Take action: schedule the 3-hour OGTT and explain to the client that the first test only shows the need for more testing.",
+          "Insulin teaching assumes gestational diabetes has been diagnosed. A positive 1-hour screen has not confirmed it, so this jumps from Analyze cues straight to treatment.",
+          "The result is already above the threshold, so repeating the same screening test adds nothing. It also delays the diagnostic step within the 24–28 week window.",
+          "148 mg/dL is above the 130–140 mg/dL cutoff, so it is not normal. This misreads the cue and drops the follow-up test entirely."
+        ]
+      },
+      {
+        "stem": "A clinic nurse reviews four prenatal records. Which client requires follow-up first?",
+        "options": [
+          "A client at 19 weeks whose structural anatomy ultrasound is scheduled for next week",
+          "An Rh-negative client at 29 weeks with a negative repeat antibody screen and no RhoGAM documented",
+          "A client at 36 weeks whose group B streptococcus vaginal-rectal swab was collected today",
+          "A client at 26 weeks who is scheduled for a 1-hour oral glucose tolerance test tomorrow"
+        ],
+        "answer": 1,
+        "explanations": [
+          "An anatomy ultrasound at 18–20 weeks is on schedule for a client at 19 weeks. Nothing here is missing or late.",
+          "CJMM — Recognize cues: an Rh-negative client is past 28 weeks, has a negative antibody screen, and has no record of RhoGAM. Analyze cues: RhoGAM is due at 28 weeks for Rh-negative clients, and a negative screen means the client has not yet been sensitized, so the dose can still protect this and future pregnancies. Prioritize hypotheses: this is the only care gap, and it is already overdue. Take action: verify the record and arrange RhoGAM administration.",
+          "A GBS swab at 36 weeks falls in the 36–37 week window. The test is done, so no gap needs follow-up.",
+          "The 1-hour OGTT belongs at 24–28 weeks, and this client is booked inside that window. This is routine care, not a gap."
+        ]
+      },
+      {
+        "stem": "A client at 36 weeks 3 days comes for a routine prenatal visit. The client is Rh-positive. At 26 weeks, the 1-hour OGTT was 118 mg/dL and the repeat CBC was within expected limits. The structural anatomy ultrasound at 19 weeks was normal. Which action is due at this visit?",
+        "options": [
+          "Repeat the 1-hour OGTT to confirm the earlier normal result",
+          "Administer RhoGAM to complete the third-trimester lab schedule",
+          "Schedule a repeat structural anatomy ultrasound before delivery",
+          "Collect a vaginal-rectal swab culture for group B streptococcus"
+        ],
+        "answer": 3,
+        "explanations": [
+          "118 mg/dL is below the 130–140 mg/dL threshold, so the screen was negative. Repeating a normal screen is not part of the schedule.",
+          "RhoGAM is given to Rh-negative clients. This client is Rh-positive, so giving it would be wrong for this client given that cue.",
+          "The anatomy scan is a one-time 18–20 week study, and it was normal. A repeat is not on the routine schedule.",
+          "CJMM — Recognize cues: the client is at 36 weeks 3 days and has completed the earlier tests with normal results. Analyze cues: the remaining routine screen is the group B streptococcus vaginal-rectal swab culture, done at 36–37 weeks. Take action: collect the GBS swab today so the result is available before labor. Evaluate outcomes: the record shows every routine screen completed on schedule."
+        ]
+      },
+      {
+        "stem": "A client at 11 weeks receives a cell-free DNA (NIPT) result reported as high risk for trisomy 21. The client says, \"So the baby definitely has Down syndrome. I need to start planning.\" Which response by the nurse is best?",
+        "options": [
+          "\"This test is highly sensitive, so the result is considered confirmed.\"",
+          "\"We will repeat the cell-free DNA test in 2 weeks to confirm the result.\"",
+          "\"This is a screening result. A diagnostic test such as CVS or amniocentesis can confirm it.\"",
+          "\"The nuchal translucency ultrasound next week will tell us for certain.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "High sensitivity does not make a screen diagnostic. This reinforces the client's misconception instead of correcting it.",
+          "Repeating the same screening test cannot turn it into a diagnosis. The next step is a diagnostic procedure, not another screen.",
+          "CJMM — Recognize cues: a high-risk cfDNA result and a client who believes the diagnosis is confirmed. Analyze cues: cfDNA is highly sensitive but non-diagnostic; it screens fetal DNA in maternal blood. Generate solutions: only a diagnostic procedure such as CVS (10–13 weeks) or amniocentesis (15–20 weeks) gives a definitive answer. Take action: correct the misconception and explain the option of diagnostic testing. Evaluate outcomes: the client can describe the result as a screen and knows how to get a definite answer.",
+          "The NT scan is also a screening ultrasound. Increased thickness only suggests trisomy 21 or a cardiac defect, so it cannot confirm anything."
+        ]
+      },
+      {
+        "stem": "A client at 11 weeks with a history of a previous pregnancy affected by spina bifida is scheduled for chorionic villus sampling (CVS). Which client statement indicates a need for further teaching?",
+        "options": [
+          "\"The sample will be taken from tissue of the placenta.\"",
+          "\"This test will also tell me whether this baby has spina bifida.\"",
+          "\"There is a small risk of losing the pregnancy, about 0.5 to 1 percent.\"",
+          "\"The result is a diagnosis, not just a screening estimate.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "Accurate statement: CVS obtains a sample of placental tissue. No teaching is needed.",
+          "CJMM — Recognize cues: the client's main concern is a neural tube defect, and the planned test is CVS. Analyze cues: CVS gives an early definitive diagnosis from placental tissue, but it does not assess neural tube defects. Prioritize hypotheses: the client expects an answer this test cannot give, which is the statement that needs correcting. Take action: clarify that CVS does not evaluate neural tube defects and that other evaluation will be needed for that concern.",
+          "Accurate statement: the pregnancy-loss risk of about 0.5–1% matches what the client should be told.",
+          "Accurate statement: CVS is a diagnostic procedure that provides an early definitive diagnosis, unlike cfDNA or NT screening."
+        ]
+      },
+      {
+        "stem": "A client at 12 weeks has a nuchal translucency (NT) ultrasound that shows increased fluid thickness at the back of the fetal neck. The client asks what this means. Which response by the nurse is most accurate?",
+        "options": [
+          "\"It can suggest trisomy 21 or a heart defect, so further testing will be offered.\"",
+          "\"It points to an open neural tube defect, so a spine ultrasound is the next step.\"",
+          "\"It is a normal fluid shift at this age and will be rechecked at the 20-week scan.\"",
+          "\"It confirms trisomy 21, so genetic counseling for delivery planning comes next.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: increased nuchal translucency on an 11–13 week ultrasound. Analyze cues: NT is a screening ultrasound; increased thickness suggests trisomy 21 or cardiac defects but does not diagnose them. Generate solutions: further evaluation, such as diagnostic testing, is offered. Take action: explain the finding as a screening flag and describe the follow-up options without overstating certainty.",
+          "NT measures fluid at the back of the neck. Its abnormal findings are linked to trisomy 21 and cardiac defects, not neural tube defects, so this misreads the cue.",
+          "Increased thickness is the abnormal finding the test looks for. Calling it normal and waiting 8 weeks dismisses a positive screen.",
+          "NT is a screen, not a diagnosis. Saying it confirms trisomy 21 overstates the result and skips diagnostic testing."
+        ]
+      },
+      {
+        "stem": "A client at 16 weeks is being discharged after a transabdominal amniocentesis. Which findings should the nurse teach the client to report right away? Select all that apply.",
+        "options": [
+          "Leaking of clear fluid from the vagina",
+          "Temperature of 100.6°F (38.1°C) with chills",
+          "Uterine cramping with vaginal bleeding",
+          "Mild tenderness at the needle site on the day of the procedure",
+          "Feeling tired on the evening of the procedure"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—leaking clear fluid suggests an amniotic fluid leak, a listed complication of the procedure.",
+          "Correct—fever with chills suggests infection, a listed risk after the needle passes into the uterus.",
+          "Correct—cramping with bleeding can signal pregnancy loss, the most serious risk.",
+          "Incorrect—mild tenderness at the puncture site the same day is an expected local effect, not a complication.",
+          "Incorrect—fatigue after a stressful procedure is expected and is not a sign of leak, infection, or loss."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A couple planning their first pregnancy tells the nurse that one partner's sibling has cystic fibrosis. They ask whether they can learn their risk before trying to conceive. Which test should the nurse explain?",
+        "options": [
+          "Cell-free DNA testing once the pregnancy reaches 10 weeks",
+          "Chorionic villus sampling between 10 and 13 weeks of pregnancy",
+          "A nuchal translucency ultrasound between 11 and 13 weeks",
+          "Carrier screening of both partners by blood or saliva sample"
+        ],
+        "answer": 3,
+        "explanations": [
+          "cfDNA requires an existing pregnancy of at least 10 weeks and screens for trisomies 21, 18, and 13 and sex chromosome abnormalities. It does not answer a question asked before conception.",
+          "CVS can diagnose the fetus, but only after conception and with a pregnancy-loss risk. It is not how the couple learns their risk before trying.",
+          "NT screens for trisomy 21 and cardiac defects during pregnancy. It does not detect carrier status for a recessive trait.",
+          "CJMM — Recognize cues: a family history of cystic fibrosis and a request for information before conception. Analyze cues: CF is autosomal recessive, so the risk depends on whether both partners carry the trait. Generate solutions: carrier screening is a voluntary blood or saliva test done before conception or early in pregnancy to detect autosomal recessive traits such as CF, sickle cell, and spinal muscular atrophy. Take action: explain carrier screening for both partners."
+        ]
+      },
+      {
+        "stem": "A client at 30 weeks in a second pregnancy receives vaccine teaching. The client received Tdap during the first pregnancy 2 years ago. Which client statement indicates a need for further teaching?",
+        "options": [
+          "\"Getting Tdap now passes antibodies to my baby against whooping cough.\"",
+          "\"I can get the flu shot during flu season, but not the nasal spray.\"",
+          "\"I already had Tdap in my last pregnancy, so I can skip it this time.\"",
+          "\"The RSV vaccine is given later, between 32 and 36 weeks, in RSV season.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Accurate statement: Tdap is timed to maximize passive transfer of pertussis antibodies to the newborn.",
+          "Accurate statement: only the inactivated injectable flu vaccine is used; the live attenuated nasal spray is contraindicated.",
+          "CJMM — Recognize cues: a client in a repeat pregnancy who believes a prior Tdap dose is enough. Analyze cues: Tdap is given between 27 and 36 weeks during every pregnancy, because maternal antibodies fall over time and the goal is maximum passive antibody transfer to this newborn. Take action: correct the misconception and offer Tdap now, since the client is at 30 weeks. Evaluate outcomes: the client states that Tdap is repeated with each pregnancy.",
+          "Accurate statement: RSV (Abrysvo) is given at 32–36 weeks during RSV season, so it is not yet due at 30 weeks."
+        ]
+      },
+      {
+        "stem": "The nurse reviews vaccine prescriptions for four pregnant clients during flu season. Which prescription should the nurse question?",
+        "options": [
+          "Inactivated influenza vaccine IM for a client at 14 weeks",
+          "Live attenuated influenza vaccine intranasal for a client at 22 weeks who fears needles",
+          "Tdap IM for a client at 28 weeks who received Tdap in a prior pregnancy",
+          "COVID-19 vaccine for a client at 18 weeks who has had no prior doses"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The inactivated injectable flu vaccine is recommended for all pregnant clients during flu season, in any trimester.",
+          "CJMM — Recognize cues: one prescription is the intranasal live attenuated influenza vaccine (LAIV), justified by the client's fear of needles. Analyze cues: live attenuated vaccines are contraindicated in pregnancy because of teratogenic risk, and LAIV is specifically excluded; only the inactivated injectable flu vaccine is used. Take action: hold the vaccine, contact the prescriber to change to the inactivated injection, and address the needle fear with comfort measures.",
+          "Tdap is repeated with every pregnancy at 27–36 weeks. A prior dose is not a reason to question it, and 28 weeks is in the window.",
+          "COVID-19 vaccination is recommended for all pregnant individuals. Nothing about this prescription is unsafe."
+        ]
+      },
+      {
+        "stem": "A client at 33 weeks comes to the clinic in October during flu and RSV season. The client has received no vaccines this pregnancy. Prenatal labs show the client is non-immune to rubella and varicella. Which vaccines are appropriate to give during the pregnancy at this visit? Select all that apply.",
+        "options": [
+          "Tdap",
+          "Inactivated influenza vaccine",
+          "RSV vaccine (Abrysvo)",
+          "Measles-mumps-rubella (MMR)",
+          "Varicella vaccine",
+          "COVID-19 vaccine"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—33 weeks falls within the 27–36 week Tdap window, and it is given every pregnancy.",
+          "Correct—the inactivated injectable flu vaccine is recommended for all pregnant clients in flu season.",
+          "Correct—Abrysvo is given at 32–36 weeks during RSV season, and the client is at 33 weeks in October.",
+          "Incorrect—MMR is live attenuated and contraindicated in pregnancy; rubella non-immunity is addressed with MMR postpartum.",
+          "Incorrect—varicella vaccine is live attenuated and contraindicated in pregnancy; give it after delivery.",
+          "Correct—COVID-19 vaccination is recommended for all pregnant individuals."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client who is planning a pregnancy had a previous infant born with anencephaly. The client currently takes an over-the-counter prenatal vitamin with 400 mcg of folic acid. Which folic acid plan should the nurse anticipate?",
+        "options": [
+          "Continue the 400 mcg in the prenatal vitamin, which meets the daily need",
+          "Increase to 800 mcg daily, the upper end of the usual recommended range",
+          "Wait to increase folic acid until the pregnancy is confirmed by ultrasound",
+          "Take 4 mg (4,000 mcg) daily, beginning before conception"
+        ],
+        "answer": 3,
+        "explanations": [
+          "400 mcg is the standard dose for a client without risk factors. This misses the key cue, the prior NTD.",
+          "800 mcg is still within the standard range. It is not the higher dose recommended after a previous NTD.",
+          "Neural tube defects form in the first 28 days, usually before an ultrasound confirms the pregnancy. Waiting misses the window when folic acid protects the fetus.",
+          "CJMM — Recognize cues: a prior pregnancy affected by a neural tube defect (anencephaly) in a client planning to conceive. Analyze cues: 400–800 mcg is the dose for people of childbearing age without this history, but a prior NTD calls for up to 4,000 mcg (4 mg) daily. Generate solutions: the neural tube closes within the first 28 days, often before a pregnancy is known, so the higher dose must start before conception. Take action: anticipate a 4 mg daily prescription starting now."
+        ]
+      },
+      {
+        "stem": "A client at 26 weeks whose repeat CBC shows a hemoglobin of 10.2 g/dL is prescribed ferrous sulfate. Which client statement indicates a need for further teaching?",
+        "options": [
+          "\"I'll take my iron with my morning glass of milk so it won't upset my stomach.\"",
+          "\"I'll take my iron with orange juice to help my body absorb it.\"",
+          "\"I'll take my calcium supplement at a different time of day than my iron.\"",
+          "\"I'll avoid drinking tea at the same time I take my iron.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the client plans to take iron with milk. Analyze cues: milk, tea, and calcium reduce iron absorption, and vitamin C (citrus) increases it. Iron supports hemoglobin production for the expanded maternal blood volume and fetal stores. Take action: teach the client to separate iron from milk and to take it with a vitamin C source. Evaluate outcomes: a rising hemoglobin on the next CBC shows the plan is working.",
+          "Accurate statement: vitamin C in citrus juice increases iron absorption.",
+          "Accurate statement: calcium blocks iron absorption, so separating the doses is appropriate.",
+          "Accurate statement: tea reduces iron absorption, so avoiding it at dosing time is appropriate."
+        ]
+      },
+      {
+        "stem": "A client at 20 weeks who needed 2,000 calories/day before pregnancy says, \"I'm eating for two now, so I've doubled my portions.\" What daily calorie intake should the nurse recommend for this trimester?",
+        "options": [
+          "2,000 calories/day",
+          "2,452 calories/day",
+          "2,340 calories/day",
+          "4,000 calories/day"
+        ],
+        "answer": 2,
+        "explanations": [
+          "2,000 calories/day is the first-trimester plan, which adds nothing. At 20 weeks this is too low.",
+          "+452 calories applies in the third trimester. Using it now gives the wrong trimester's increase.",
+          "CJMM — Recognize cues: 20 weeks is the second trimester, the baseline need is 2,000 calories, and the client has doubled their intake. Analyze cues: the outline's increase is 0 extra calories in the first trimester, +340/day in the second, and +452/day in the third. Generate solutions: 2,000 + 340 = 2,340 calories/day. Take action: correct the \"eating for two\" idea and give the specific target. Evaluate outcomes: weight gain tracks within the range for the client's pre-pregnancy BMI.",
+          "Doubling intake is the \"eating for two\" misconception. It far exceeds the +340 increase and drives excess weight gain."
+        ]
+      },
+      {
+        "stem": "At the first prenatal visit, a client is 1.63 m (5 ft 4 in) tall and weighed 80 kg (176 lb) before pregnancy. Which total weight gain should the nurse recommend for this pregnancy?",
+        "options": [
+          "25–35 lb (11.5–16 kg)",
+          "11–20 lb (5–9 kg)",
+          "15–25 lb (7–11.5 kg)",
+          "28–40 lb (12.5–18 kg)"
+        ],
+        "answer": 1,
+        "explanations": [
+          "25–35 lb is the range for a normal BMI (18.5–24.9). It overestimates the goal for a BMI of 30.1.",
+          "CJMM — Recognize cues: pre-pregnancy height 1.63 m and weight 80 kg. Analyze cues: BMI = 80 ÷ (1.63 × 1.63) = 80 ÷ 2.66 ≈ 30.1, which falls in the obese category (≥ 30.0). Generate solutions: the recommended total gain for obese BMI is 11–20 lb (5–9 kg). Take action: set this goal with the client and pair it with nutrition counseling. Evaluate outcomes: weight gain is tracked against this range at each visit.",
+          "15–25 lb is the range for an overweight BMI (25.0–29.9). A BMI of 30.1 crosses into obese, so this misclassifies the client.",
+          "28–40 lb is the range for an underweight BMI (< 18.5). It is the opposite end of the table."
+        ]
+      },
+      {
+        "stem": "A client is 1.68 m (5 ft 6 in) tall and weighed 50 kg (110 lb) before pregnancy. At the first prenatal visit the client says, \"I don't want to gain more than 20 pounds.\" Which response by the nurse is most appropriate?",
+        "options": [
+          "\"Your BMI is in the normal range, so a gain of 25 to 35 pounds is recommended.\"",
+          "\"Your BMI is in the overweight range, so a gain of 15 to 25 pounds is recommended.\"",
+          "\"Your BMI is in the obese range, so a gain of 11 to 20 pounds is recommended.\"",
+          "\"Your BMI is in the underweight range, so a gain of 28 to 40 pounds is recommended.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "A BMI of 17.7 is below 18.5, so the client is not in the normal range. Using that range underestimates the gain needed.",
+          "The overweight range (25.0–29.9) does not fit a BMI of 17.7. This misreads the calculation.",
+          "The obese range would agree with the client's 20-lb cap, but a BMI of 17.7 is underweight. Agreeing would reinforce a harmful goal.",
+          "CJMM — Recognize cues: height 1.68 m, pre-pregnancy weight 50 kg, and a client who wants to limit gain to 20 lb. Analyze cues: BMI = 50 ÷ (1.68 × 1.68) = 50 ÷ 2.82 ≈ 17.7, which is underweight (< 18.5). Prioritize hypotheses: a 20-lb cap would leave this client well below the recommended gain. Take action: explain that the recommended total gain is 28–40 lb (12.5–18 kg) and explore the client's concerns about weight."
+        ]
+      },
+      {
+        "stem": "A client at 32 weeks asks for help choosing a lunch. Which choice should the nurse identify as safest during pregnancy?",
+        "options": [
+          "A turkey deli sandwich with the meat heated until steaming hot",
+          "Grilled swordfish with a side salad of washed greens",
+          "A quesadilla made with farm-stand queso fresco not labeled pasteurized",
+          "A hamburger cooked medium-rare with lettuce and tomato"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: each meal carries a possible pregnancy food hazard. Analyze cues: deli meat is a listeria risk unless it is heated until steaming hot, which this option does. Generate solutions: compare each option with the mercury, listeria, and toxoplasmosis rules. Take action: endorse the heated deli sandwich and teach why the other choices are unsafe.",
+          "Swordfish is a high-mercury fish that should be avoided in pregnancy. Washing the greens does not make the meal safe.",
+          "Unpasteurized soft cheese such as queso fresco is a listeriosis risk. It is safe only if labeled pasteurized.",
+          "Raw or undercooked meat is a toxoplasmosis risk. A medium-rare burger is not fully cooked."
+        ]
+      },
+      {
+        "stem": "A pregnant client who has two indoor cats and enjoys cooking receives teaching on toxoplasmosis prevention. Which client statement indicates a need for further teaching?",
+        "options": [
+          "\"My partner will clean the litter box until after the baby is born.\"",
+          "\"I'll wash all fruits and vegetables well before eating them.\"",
+          "\"I'll keep cleaning the litter box myself but wash my hands right after.\"",
+          "\"I'll cook my steaks all the way through instead of rare.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Accurate statement: having someone else handle the litter box is the recommended way to avoid exposure.",
+          "Accurate statement: washing all produce is part of toxoplasmosis prevention.",
+          "CJMM — Recognize cues: a pregnant client with cats who plans to keep cleaning the litter box. Analyze cues: toxoplasmosis prevention includes avoiding handling the cat litter box, avoiding raw or undercooked meat, and washing all produce. Handwashing afterward does not replace avoiding exposure. Take action: teach the client to have someone else handle the litter box. Evaluate outcomes: the client identifies who will take over litter care.",
+          "Accurate statement: avoiding raw or undercooked meat prevents toxoplasmosis."
+        ]
+      },
+      {
+        "stem": "A client at 14 weeks reports drinking two 16-oz coffees daily. Each coffee contains about 150 mg of caffeine. The client does not drink alcohol or use tobacco. Which recommendation by the nurse is most appropriate?",
+        "options": [
+          "Advise the client to stop all caffeine for the rest of the pregnancy",
+          "Advise the client to cut back to one of these coffees daily",
+          "Tell the client that this amount is within the safe limit for pregnancy",
+          "Advise the client to switch to two energy drinks containing 120 mg each"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The guideline is to limit caffeine to less than 200 mg/day, not to stop it completely. Total abstinence applies to alcohol, tobacco, and recreational drugs.",
+          "CJMM — Recognize cues: two coffees at about 150 mg each = 300 mg caffeine/day. Analyze cues: the pregnancy limit is less than 200 mg/day, so the current intake is over the limit. Generate solutions: one coffee (about 150 mg) brings intake under 200 mg. Take action: recommend cutting back to one coffee daily. Evaluate outcomes: the client's reported daily caffeine stays below 200 mg.",
+          "300 mg/day is above the 200 mg limit. This misreads the calculation.",
+          "Two 120-mg energy drinks equal 240 mg/day, which is still over 200 mg. The switch lowers intake but not enough."
+        ]
+      }
+    ],
+    "mat-labor": [
+      {
+        "stem": "A client at 38 weeks' gestation calls the labor and delivery unit with several concerns. Which reported findings does the nurse identify as expected premonitory signs of approaching labor? Select all that apply.",
+        "options": [
+          "\"I can breathe more easily now, but I feel a lot more pressure down in my pelvis.\"",
+          "\"I passed a thick glob of mucus this morning that was streaked with a little pink blood.\"",
+          "\"I suddenly had a burst of energy yesterday and reorganized the entire nursery.\"",
+          "\"I weighed myself and I've lost about 2 pounds this week without trying.\"",
+          "\"My face and hands are puffy, and I've gained 4 pounds since last week.\"",
+          "\"I'm having bright red bleeding that soaked a pad in the last hour.\""
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—this is lightening. The fetal head drops into the pelvic inlet, which eases maternal breathing and increases pelvic pressure.",
+          "Correct—this is bloody show. The mucus plug (operculum) is expelled with a minor blood streak as the cervix softens and begins to dilate.",
+          "Correct—this is the nesting energy spurt, a sudden burst of energy 24–48 hours before labor begins.",
+          "Correct—a small loss of 1–3 lb from fluid shifts is an expected premonitory sign.",
+          "Incorrect—labor signs involve weight loss, not gain. Rapid gain with facial and hand edema suggests fluid retention from a hypertensive disorder, so the nurse misreads the cue if they file it as normal.",
+          "Incorrect—bloody show is a small pink or blood-streaked amount of mucus. Bright red bleeding that soaks a pad is abnormal and needs immediate evaluation."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client at 39 weeks' gestation arrives at triage reporting 4 hours of contractions every 6–8 minutes. The client says the pain started in the lower back and now wraps around to the front, and that the contractions continued after a 1-hour walk. Which finding most reliably confirms that the client is in true labor?",
+        "options": [
+          "The contractions continued even after the client walked for an hour",
+          "The discomfort began in the lower back and radiates to the abdomen",
+          "The cervix has dilated from 2 cm to 4 cm between two exams 2 hours apart",
+          "The client passed the mucus plug with a small streak of blood today"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Persistence despite walking supports true labor, but it is a supporting feature, not the definitive one. Some Braxton Hicks contractions also continue for a while.",
+          "Back-to-front pain is typical of true labor, but it is a subjective description. This conclusion skips the objective finding that actually confirms labor.",
+          "CJMM — Recognize cues: several findings in the stem fit true labor. Analyze cues: contraction behavior, pain location, and response to activity help separate true labor from false labor, but they are indirect and can overlap. Prioritize hypotheses: progressive cervical dilation and effacement is the definitive sign of true labor, because false labor causes no significant cervical change. Take action: base the decision to admit on documented cervical change between serial exams.",
+          "Bloody show is a premonitory sign that labor is approaching. It can occur days before true labor starts, so it does not confirm active labor."
+        ]
+      },
+      {
+        "stem": "The nurse times a laboring client's contractions with the following results. Contraction 1 begins at 1400:00 and ends at 1401:00. Contraction 2 begins at 1403:30 and ends at 1404:30. Contraction 3 begins at 1407:00 and ends at 1408:00. Which documentation is accurate?",
+        "options": [
+          "Frequency every 2½ minutes, duration 60 seconds",
+          "Frequency every 3½ minutes, duration 60 seconds",
+          "Frequency every 4½ minutes, duration 60 seconds",
+          "Frequency every 3½ minutes, duration 90 seconds"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Two and a half minutes is the resting interval, measured from the END of one contraction to the START of the next (1401:00 to 1403:30). It is not the frequency.",
+          "CJMM — Recognize cues: three contractions with start and end times. Analyze cues: frequency is measured from the START of one contraction to the START of the next (1400:00 to 1403:30, and 1403:30 to 1407:00, which is 3½ minutes each time). Duration is measured from the start to the end of the same contraction (1400:00 to 1401:00, which is 60 seconds). Take action: document contractions every 3½ minutes lasting 60 seconds. Evaluate outcomes: a correct baseline lets the nurse detect whether contractions are becoming closer, longer, and stronger.",
+          "Four and a half minutes runs from the start of one contraction to the END of the next (1400:00 to 1404:30). That mixes the start and end points.",
+          "The frequency is correct, but each contraction lasts 60 seconds (start to end of the same contraction), not 90."
+        ]
+      },
+      {
+        "stem": "A nulliparous client's cervix is 7 cm dilated. The client keeps their eyes closed, does not talk between contractions, and asks about pain relief. The nurse records contractions starting at 0910:00, 0912:30, and 0915:00, each ending 70 seconds after it begins, moderate to strong by palpation. Which interpretation is accurate?",
+        "options": [
+          "Contractions every 1 minute 20 seconds lasting 70 seconds, which is too frequent, so the provider should be notified",
+          "Contractions every 2½ minutes lasting 3 minutes 40 seconds, which are prolonged and need further evaluation",
+          "Contractions every 2½ minutes lasting 70 seconds, a latent-phase pattern, so ambulation should be encouraged",
+          "Contractions every 2½ minutes lasting 70 seconds, an expected active-phase pattern for this client"
+        ],
+        "answer": 3,
+        "explanations": [
+          "One minute 20 seconds is the resting interval (end of one contraction to the start of the next, 0911:10 to 0912:30). Misreading frequency this way would trigger an unnecessary call.",
+          "Three minutes 40 seconds runs from the start of one contraction to the end of the next. Duration is measured within a single contraction, so this is a measurement error.",
+          "The numbers are right, but the latent phase is 0–5 cm with contractions every 5–30 minutes and a talkative client. This client is at 7 cm and inward-focused, so the phase is misclassified.",
+          "CJMM — Recognize cues: 7 cm dilation, inward-focused behavior, a request for pain relief, and timed contractions. Analyze cues: frequency runs start to start (0910:00 to 0912:30 to 0915:00, so every 2½ minutes). Duration runs start to end of one contraction (70 seconds). Prioritize hypotheses: the active phase (6–10 cm) has moderate to strong, regular contractions every 2–5 minutes lasting 45–90 seconds, with a serious, inward-focused client who wants pain management. Every finding fits. Take action: document an expected active-phase pattern and address the client's request for pain relief."
+        ]
+      },
+      {
+        "stem": "At 1000, a laboring client's presenting part is palpated 2 cm above the level of the ischial spines. At 1300, it is palpated 1 cm below the ischial spines. How should the nurse interpret these findings?",
+        "options": [
+          "Station has progressed from −2 to +1, so the fetus has engaged and is descending",
+          "Station has changed from +2 to −1, so the fetus has moved upward and the provider should be notified",
+          "Station has progressed from −2 to +1, but the fetus is still floating and not yet engaged",
+          "Station has changed from +2 to −1, which shows normal descent toward crowning"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: two exams referenced to the ischial spines. Analyze cues: above the spines is a negative station and below is positive, so 2 cm above is −2 and 1 cm below is +1. Prioritize hypotheses: 0 station means engaged, so a presenting part below the spines has passed engagement and is descending, which is progressive descent consistent with true labor. Evaluate outcomes: the trend shows labor is progressing.",
+          "This reverses the signs. Above the spines is negative, not positive, so the conclusion that the fetus moved upward misreads the cue.",
+          "The stations are correct, but a fetus is floating only above the spines (−1 to −5). At +1 the presenting part has passed 0 station and is engaged.",
+          "The signs are reversed. Even with the reversed numbers, going from +2 to −1 would mean the fetus moved upward, not toward crowning (+5)."
+        ]
+      },
+      {
+        "stem": "A client at 5 cm reports severe, constant low back pain that persists between contractions. The vaginal exam finds the fetal occiput directed toward the maternal right, posterior portion of the pelvis. The prenatal record notes an anthropoid pelvis. Which documentation and nursing action are correct?",
+        "options": [
+          "LOP; assist the client into a hands-and-knees position",
+          "ROA; reassure the client this is the most favorable position and keep the current position",
+          "ROP; assist the client into a hands-and-knees position",
+          "ROP; assist the client to squat on a birth stool to enlarge the pelvic outlet"
+        ],
+        "answer": 2,
+        "explanations": [
+          "The posterior position and the action are correct, but the occiput is toward the maternal RIGHT, so this is ROP, not LOP. Laterality errors make the documentation wrong.",
+          "LOA is the most common and favorable position. An occiput toward the posterior pelvis is OP, which causes this client's back labor, so reassurance alone misreads the cue.",
+          "CJMM — Recognize cues: persistent back labor, an occiput toward the maternal right posterior, and an anthropoid pelvis. Analyze cues: the position abbreviation is the maternal side (R), then the presenting part (O, occiput), then the direction faced (P, posterior), giving ROP. An anthropoid pelvis, with its long anteroposterior diameter, is common with occiput posterior positions. Generate solutions: hands-and-knees relieves OP back pain and helps the fetus rotate to occiput anterior. Take action: assist the client onto hands and knees. Evaluate outcomes: back pain eases and later exams show rotation toward OA.",
+          "The documentation is right, but squatting enlarges the pelvic outlet to promote descent during Stage 2. At 5 cm the goal is rotation from OP, which hands-and-knees promotes, so the action comes too early and targets the wrong problem."
+        ]
+      },
+      {
+        "stem": "A client at 39 weeks' gestation is admitted in early labor. Leopold maneuvers find the fetal head in the maternal left flank and the buttocks in the right flank, with no presenting part over the pelvic inlet. Ultrasound confirms that the fetal spine is perpendicular to the maternal spine. Which plan of care does the nurse anticipate?",
+        "options": [
+          "Assisting the client into hands-and-knees to rotate the fetus to vertex",
+          "Encouraging ambulation and upright positions to promote engagement",
+          "Coaching open-glottis pushing once the cervix is fully dilated",
+          "Preparing the client for a cesarean birth"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Hands-and-knees helps a vertex fetus rotate from OP to OA. It does not convert a transverse lie to a longitudinal one.",
+          "Upright positions use gravity to encourage engagement of a presenting part that is already over the inlet. With a transverse lie there is no presenting part in line to engage.",
+          "Pushing is a Stage 2 strategy for a fetus that can deliver vaginally. Planning vaginal birth here ignores the lie, which is the cue that decides the route.",
+          "CJMM — Recognize cues: head and buttocks in opposite maternal flanks, nothing over the inlet, and spines perpendicular. Analyze cues: this is a transverse lie, with a shoulder presentation. Prioritize hypotheses: a fetus lying crosswise cannot pass through the pelvis vaginally. Generate solutions: positioning and pushing strategies only help a longitudinal lie. Take action: prepare the client for a cesarean birth."
+        ]
+      },
+      {
+        "stem": "A primigravida at 4 cm had contractions every 3–4 minutes. The client is now crying and breathing rapidly and says, \"I'm terrified something will go wrong. My last pregnancy ended in a stillbirth.\" Over the past hour, contractions have spaced to every 6–7 minutes and the cervix is unchanged. Vital signs and fetal heart rate are reassuring. Which nursing action best addresses the most likely cause of the slowed progress?",
+        "options": [
+          "Request a prescription to augment the contractions with oxytocin",
+          "Stay at the bedside, acknowledge the client's fears, and coach slow paced breathing",
+          "Encourage the client to walk in the hallway to restore the contraction pattern",
+          "Increase the IV fluid rate to improve uterine perfusion"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Augmentation treats the contraction pattern but not its cause. It is an escalation that comes before simpler steps have addressed the catecholamine-driven slowdown.",
+          "CJMM — Recognize cues: intense fear, prior trauma (stillbirth), hyperventilation, and contractions slowing with no cervical change while mother and fetus are stable. Analyze cues: anxiety and fear release maternal catecholamines, and high catecholamine levels slow uterine perfusion and contractility. Prioritize hypotheses: the psychological P is the most likely cause of the stall. Take action: give supportive presence, validate the client's fears, and coach slow breathing to lower the stress response. Evaluate outcomes: the client calms and the contraction pattern returns.",
+          "Walking can make contractions more efficient, but it does not address the fear that is suppressing them. This skips Analyze cues.",
+          "Fluids support hydration, but this client is stable. The perfusion problem comes from catecholamines, not volume, so extra fluid misses the cause."
+        ]
+      },
+      {
+        "stem": "A client at 6 cm has been lying flat on their back for a cervical exam. The client now reports dizziness and nausea. BP is 88/50 mm Hg, down from 118/72 mm Hg. What should the nurse do first?",
+        "options": [
+          "Turn the client onto their left side",
+          "Raise the head of the bed to a semi-Fowler position",
+          "Increase the rate of the maintenance IV fluids",
+          "Assist the client into a hands-and-knees position"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: supine position, then dizziness, nausea, and a sharp BP drop. Analyze cues: the gravid uterus is compressing the vena cava, which reduces venous return, cardiac output, and uteroplacental blood flow. Generate solutions: lateral (side-lying) positioning relieves vena cava compression and restores perfusion. Take action: turn the client to the side first. Evaluate outcomes: recheck BP and fetal heart rate and confirm the dizziness has resolved.",
+          "Raising the head of the bed leaves the client on their back, so the uterus still compresses the vena cava. It does not remove the cause.",
+          "Fluids can support BP, but the cause is mechanical compression. Turning the client is faster and fixes the cause, so fluids are right in principle but wrong in priority.",
+          "Hands-and-knees is used to relieve OP back labor and promote rotation. Moving a dizzy, hypotensive client onto all fours is unsafe and does not target vena cava compression."
+        ]
+      },
+      {
+        "stem": "A client at 6 cm has had contractions every 3 minutes for 3 hours, but the station has stayed at 0. The client last voided 4 hours ago, and the nurse palpates a soft, rounded bulge above the symphysis pubis. Which action should the nurse take first?",
+        "options": [
+          "Assist the client to empty their bladder",
+          "Notify the provider that fetal descent has stopped",
+          "Reposition the client to hands-and-knees to promote rotation",
+          "Encourage oral fluids to strengthen the contractions"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: adequate contractions, no descent for 3 hours, no voiding for 4 hours, and a bulge above the symphysis. Analyze cues: a distended bladder takes up pelvic space and can block fetal descent. That is why Stage 1 care includes voiding every 2 hours. Prioritize hypotheses: bladder distention is a simple, reversible cause that should be ruled out first. Take action: assist the client to void. Evaluate outcomes: the bulge resolves and the next exam shows descent.",
+          "Arrest of descent may eventually need provider input, but reporting it before fixing an obvious bladder cause comes too early, and the report would be incomplete.",
+          "Hands-and-knees is used for OP back labor. Nothing in the stem suggests OP, and a full bladder still blocks descent in any position.",
+          "The contractions are already adequate, and more fluid adds to bladder filling. This misreads the cause of the stalled descent."
+        ]
+      },
+      {
+        "stem": "A nulliparous client was 8 cm dilated 45 minutes ago. The client is now trembling, has vomited, snaps at their partner, and cries out, \"I have to push right now!\" Which action should the nurse take first?",
+        "options": [
+          "Tell the client the urge means Stage 2 has started and prepare for birth",
+          "Coach the client in open-glottis pushing with the next contraction",
+          "Notify the provider that the client is showing signs of a labor complication",
+          "Perform or request a cervical exam to check for full dilation before pushing"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This assumes Stage 2 has started without objective evidence. Stage 2 is defined by full (10 cm) dilation, not by the urge to push.",
+          "Open-glottis pushing is the correct technique once the cervix is fully dilated. Coaching it now, without confirming dilation, is right in method but premature.",
+          "Trembling, vomiting, and irritability at 8–10 cm are expected transition behaviors. Calling them a complication misreads the cues.",
+          "CJMM — Recognize cues: 8 cm, trembling, nausea and vomiting, irritability, and an intense urge to push. Analyze cues: these are the classic features of the transition phase (8–10 cm), which are expected, not a complication. Prioritize hypotheses: the urge to push can come before full dilation, and Stage 2 begins only at 10 cm. Take action: confirm full dilation with a cervical exam before directing pushing. Pushing against an incompletely dilated cervix can cause cervical swelling and tearing. Evaluate outcomes: if the cervix is 10 cm, begin Stage 2 care. If not, coach the client to breathe through the urge."
+        ]
+      },
+      {
+        "stem": "A client is fully dilated with the fetus in an LOA position. After 1 hour of effective pushing in a semi-reclined position, the station has stayed at +1. The fetal heart rate is reassuring, and the client asks to change position. Which position should the nurse suggest to best promote fetal descent?",
+        "options": [
+          "Left side-lying with the upper leg supported",
+          "Squatting, or sitting upright on a birth stool",
+          "Hands-and-knees on the bed",
+          "Semi-Fowler position with the legs in stirrups"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Side-lying prevents vena cava compression and improves uteroplacental flow, but this client has no perfusion problem. It does little to enlarge the outlet or add gravity.",
+          "CJMM — Recognize cues: Stage 2, a favorable LOA position, effective pushing, slow descent, and a reassuring fetal heart rate. Analyze cues: the problem is descent, not rotation or perfusion. Generate solutions: squatting or a birth stool enlarges the pelvic outlet and uses gravity to promote descent during Stage 2. Take action: help the client into a supported squat or onto a birth stool. Evaluate outcomes: the station advances with the next pushing efforts.",
+          "Hands-and-knees helps rotate an OP fetus to OA. This fetus is already LOA, so it targets the wrong problem.",
+          "This is close to the semi-reclined position in which descent has already stalled. It does not add gravity or outlet space."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching a client about pushing during the second stage of labor. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll wait until I feel a strong urge to bear down before I start pushing.\"",
+          "\"I'll take a deep breath and hold it tight while you count to 10 as I push.\"",
+          "\"I'll let air out slowly or grunt through my mouth while I'm pushing.\"",
+          "\"I'll push with each contraction and rest completely in between them.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. Pushing in response to the Ferguson reflex, the strong urge to bear down, is appropriate Stage 2 technique.",
+          "CJMM — Recognize cues: the client is restating pushing instructions. Analyze cues: the recommended technique is open-glottis pushing, where the client exhales or grunts while bearing down. Prolonged breath-holding (closed-glottis, Valsalva) is the statement that conflicts with this teaching. Take action: re-teach open-glottis pushing. Evaluate outcomes: during the next contraction the client pushes while exhaling instead of holding their breath.",
+          "This is correct. Exhaling or grunting while bearing down is open-glottis pushing.",
+          "This is correct. Pushing with contractions and resting between them conserves energy and lets the uterus and fetus recover."
+        ]
+      },
+      {
+        "stem": "Five minutes after the birth of a newborn, the nurse is watching for placental separation. Which findings indicate that the placenta has separated? Select all that apply.",
+        "options": [
+          "A sudden gush of dark blood from the vagina",
+          "The umbilical cord retracts back toward the vaginal opening",
+          "The umbilical cord visibly lengthens outside the vagina",
+          "The uterus feels soft, broad, and flattened on palpation",
+          "The uterus becomes firm and globular",
+          "A steady trickle of bright red blood despite a firm uterus"
+        ],
+        "answer": [
+          0,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—a gush of dark blood is released as the placenta detaches from the uterine wall.",
+          "Incorrect—a detached placenta descends, so the cord lengthens. Retraction is the opposite of the expected cue.",
+          "Correct—visible lengthening of the cord shows the placenta has descended.",
+          "Incorrect—a soft, flat uterus is the opposite of the expected change. After separation the uterus becomes globular and firm.",
+          "Correct—a globular, firm uterus is a classic sign of separation.",
+          "Incorrect—continuous bright red bleeding with a firm uterus suggests a laceration, not separation. Separation produces a gush of dark blood."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "After the birth of a newborn, the placenta delivers with the dull, rough, red maternal surface presenting first. Which nursing action is correct?",
+        "options": [
+          "Document a Duncan mechanism and inspect the placenta for completeness",
+          "Document a Schultze mechanism and inspect the placenta for completeness",
+          "Document a Duncan mechanism and notify the provider of an abnormal delivery",
+          "Document a Schultze mechanism; no further placental inspection is needed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the maternal side, dull, rough, and red, delivered first. Analyze cues: 'Dirty Duncan' is the maternal side first. 'Shiny Schultze' is the shiny fetal side first and is the more common mechanism. Generate solutions: whatever the mechanism, Stage 3 care includes inspecting the delivered placenta for completeness, because retained fragments can cause postpartum hemorrhage. Take action: document Duncan and inspect the placenta. Evaluate outcomes: the placenta is intact and the fundus stays firm.",
+          "The inspection is correct, but Schultze describes the shiny fetal side presenting first. This misclassifies the cue.",
+          "The classification is correct, but Duncan is a recognized variation of normal delivery, not an emergency. Notifying the provider of an abnormality without an intact-placenta check skips the needed action.",
+          "This is wrong twice: the mechanism is misclassified, and every placenta is inspected for completeness regardless of how it delivers."
+        ]
+      },
+      {
+        "stem": "A client received prophylactic oxytocin IM immediately after the birth of the newborn. Fifteen minutes after the placenta delivers, which assessment finding best indicates the medication is achieving its intended effect?",
+        "options": [
+          "The client reports strong cramping, and the fundus is soft 2 cm above the umbilicus",
+          "BP is 126/80 mm Hg and HR 82/min, and the pad is saturated in 15 minutes",
+          "The fundus is firm and midline at the umbilicus, with a small to moderate lochia flow",
+          "The fundus is firm and deviated to the right, with a moderate lochia flow"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Cramping alone does not show effectiveness. A soft (boggy) fundus above the umbilicus means the uterus is not contracting well, which is a sign of treatment failure.",
+          "Normal vital signs can lag behind blood loss. Saturating a pad in 15 minutes is heavy bleeding, so the drug is not working. This evaluates the wrong cue.",
+          "CJMM — Generate solutions: oxytocin is given right after fetal delivery to make the uterus contract and prevent postpartum hemorrhage. Evaluate outcomes: the effect shows in the uterus and the bleeding. A firm, midline fundus at the umbilicus with only a small to moderate lochia flow shows the uterus is contracting well and bleeding is controlled.",
+          "Firmness is reassuring, but deviation to one side points to a distended bladder, which can stop the uterus from contracting fully. This is not the best evidence of a full effect."
+        ]
+      },
+      {
+        "stem": "Forty minutes after a vaginal birth, the nurse finds the client's fundus soft and boggy, 2 cm above the umbilicus and midline. Lochia is heavy with small clots. BP 118/74 mm Hg, HR 88/min. Which action should the nurse take first?",
+        "options": [
+          "Assist the client to the bathroom to empty their bladder",
+          "Massage the fundus until firm while supporting the lower uterine segment",
+          "Notify the provider that the client is hemorrhaging",
+          "Reassess the fundus, lochia, and vital signs in 15 minutes"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Emptying the bladder helps when a full bladder pushes the uterus to one side. This fundus is midline, and getting the client to the bathroom delays treatment of active atony.",
+          "CJMM — Recognize cues: a boggy fundus above the umbilicus with heavy lochia and clots during Stage 4, the period of highest risk for postpartum hemorrhage. Analyze cues: uterine atony is the likely cause of the bleeding. Generate solutions: fundal massage is the immediate nursing intervention for a boggy fundus. Take action: massage until firm while supporting the lower segment with the other hand. Evaluate outcomes: the fundus firms, bleeding slows, and assessments continue every 15 minutes in the first hour.",
+          "Notification may follow if massage fails, but the nurse can act on atony at once. Calling first delays the intervention that stops the bleeding.",
+          "Assessments every 15 minutes are the routine Stage 4 plan, but waiting 15 minutes with an atonic uterus and heavy bleeding is unsafe. This skips Take action."
+        ]
+      },
+      {
+        "stem": "A nurse is orienting a new graduate who is caring for a client in the first hour after a vaginal birth. Which statement by the new graduate indicates a need for further teaching?",
+        "options": [
+          "\"I'll apply an ice pack to the perineum to reduce swelling.\"",
+          "\"I'll keep the baby skin-to-skin and help with the first breastfeeding.\"",
+          "\"I'll check the bladder along with the fundus and lochia, because a full bladder can cause bleeding.\"",
+          "\"Since the fundus was firm at delivery, I'll check the fundus and vital signs every 30 minutes this hour.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is appropriate. An ice pack to the perineum is a listed Stage 4 comfort intervention.",
+          "This is appropriate. Skin-to-skin contact and early breastfeeding are promoted in Stage 4.",
+          "This is appropriate. Bladder distention is part of the every-15-minute assessment because a full bladder interferes with uterine contraction.",
+          "CJMM — Recognize cues: the new graduate is describing Stage 4 care. Analyze cues: Stage 4 (the first 1–4 hours after birth) carries a high risk of postpartum hemorrhage. Fundus, lochia, vital signs, and bladder distention are assessed every 15 minutes for the first hour, whatever the fundus was like at delivery. Take action: correct the 30-minute plan. Evaluate outcomes: the new graduate documents assessments every 15 minutes."
+        ]
+      },
+      {
+        "stem": "The nurse is reviewing intrapartum antibiotic prophylaxis prescriptions for four clients whose 36-week vaginal-rectal swabs were positive for group B streptococcus (GBS). Which prescription should the nurse clarify with the provider?",
+        "options": [
+          "Penicillin G 5 million units IV, then 2.5 million units IV every 4 hours until delivery",
+          "Penicillin G 5 million units IV, then 3 million units IV every 4 hours until delivery",
+          "Penicillin G 5 million units IV, then 2.5 million units IV every 8 hours until delivery",
+          "Ampicillin IV per the GBS protocol, as an acceptable alternative to penicillin G"
+        ],
+        "answer": 2,
+        "explanations": [
+          "The loading dose, maintenance dose, and 4-hour interval all match the protocol, so this prescription needs no clarification.",
+          "Three million units is within the 2.5–3 million unit maintenance range, and the interval is every 4 hours, so this prescription is appropriate.",
+          "CJMM — Recognize cues: four GBS prophylaxis regimens. Analyze cues: the first-line regimen is penicillin G 5 million units IV as a loading dose, then 2.5–3 million units every 4 hours until delivery. Prioritize hypotheses: an 8-hour interval doubles the gap between doses and risks inadequate protection against early-onset neonatal GBS sepsis. Take action: clarify the interval before giving the maintenance doses.",
+          "Ampicillin is an acceptable alternative for GBS prophylaxis, so this prescription is appropriate."
+        ]
+      },
+      {
+        "stem": "A GBS-positive multiparous client arrives at 7 cm with contractions every 2–3 minutes. The client's previous labor lasted 3 hours. Penicillin G IV is prescribed per protocol. Which action should the nurse take first?",
+        "options": [
+          "Start an IV and give the penicillin G loading dose right away",
+          "Complete the admission history, then start the antibiotic",
+          "Collect a new vaginal-rectal swab to confirm GBS status before antibiotics",
+          "Hold the antibiotic, because birth will likely occur within 4 hours"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a positive GBS screen, rapid labor (7 cm, a multipara with a 3-hour previous labor). Analyze cues: prophylaxis is adequate only when antibiotic coverage starts at least 4 hours before birth. Prioritize hypotheses: with birth likely soon, every minute of delay reduces protection against early-onset neonatal GBS sepsis. Take action: start the IV and give the 5 million unit loading dose immediately. Evaluate outcomes: record the time of the first dose so the newborn team knows whether the 4-hour window was met.",
+          "The admission history matters, but it can be finished after the dose. Doing it first lets time pass from a 4-hour window that is already tight.",
+          "The client already has a positive 36-week screen, which is the basis for prophylaxis. Retesting delays treatment and adds no useful information.",
+          "Even if birth comes in under 4 hours, giving the antibiotic still provides some coverage. Withholding it misapplies the 4-hour rule, which sets the target for adequate prophylaxis, not a reason to skip the dose."
+        ]
+      }
+    ],
+    "mat-efm-pain": [
+      {
+        "stem": "A client at 39 weeks, dilated 5 cm with membranes ruptured 2 hours ago, is receiving oxytocin. External monitoring (ultrasound transducer and tocodynamometer) shows contractions every 2–3 minutes lasting 60–70 seconds, and the toco tracing peaks at about 80 on the paper scale. The provider asks the nurse whether the contractions are strong enough. Which response by the nurse is most accurate?",
+        "options": [
+          "The contractions are strong, because peaks near 80 on the toco tracing show adequate intensity",
+          "The toco shows frequency and duration reliably, but intensity has to be judged by palpating the fundus or measured with an IUPC",
+          "The contractions are probably mild, because the toco always reads lower than true intrauterine pressure",
+          "Intensity can be measured accurately by replacing the ultrasound transducer with a fetal scalp electrode"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This misreads the cue. The toco is an external pressure sensor and its peak height is not a true measure of intrauterine pressure, so 80 on the tracing cannot be reported as contraction strength.",
+          "CJMM — Recognize cues: the numbers come from an external tocodynamometer, and the membranes are ruptured with the cervix at 5 cm. Analyze cues: the toco is a pressure sensor on the abdomen. It records contraction frequency and duration but does not accurately measure contraction intensity, so the height of the tracing depends on belt tightness and maternal tissue, not uterine pressure. Generate solutions: intensity can be estimated by fundal palpation or measured exactly in Montevideo units with an intrauterine pressure catheter. Take action: report frequency and duration, palpate the fundus, and tell the provider an IUPC is an option because this client meets its requirements (ruptured membranes and adequate dilation).",
+          "This also treats the toco as a measure of intensity, just with a correction applied. The toco gives no reliable intensity information in either direction, so the nurse cannot conclude the contractions are mild.",
+          "The FSE is the internal device for the fetal heart rate. It gives precise beat-to-beat FHR but does not measure contractions at all. The IUPC is the internal device that measures contraction pressure."
+        ]
+      },
+      {
+        "stem": "The nurse reviews four prescriptions for internal fetal monitoring on the labor unit. Which prescription should the nurse question before carrying it out?",
+        "options": [
+          "Place an IUPC for a client dilated 6 cm whose membranes ruptured 3 hours ago, to measure Montevideo units during oxytocin augmentation",
+          "Apply a fetal scalp electrode for a client dilated 4 cm after amniotomy because the external tracing keeps losing the FHR",
+          "Apply a fetal scalp electrode for a client dilated 3 cm with intact, bulging membranes whose ultrasound signal is poor because of maternal obesity",
+          "Place an IUPC for a client dilated 7 cm with ruptured membranes whose contractions are difficult to palpate"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This client meets both requirements (ruptured membranes, adequate dilation), and measuring Montevideo units during augmentation is exactly what the IUPC is for. Nothing here needs to be questioned.",
+          "The amniotomy has ruptured the membranes and the cervix is dilated, so the FSE can be applied. A tracing that keeps dropping out is a valid reason to switch to precise beat-to-beat monitoring.",
+          "CJMM — Recognize cues: every client has a reason for internal monitoring, but only one still has intact membranes. Analyze cues: internal EFM (both the FSE and the IUPC) requires ruptured membranes and enough cervical dilation (at least 1–2 cm) to reach the presenting part or the uterine cavity. Dilation of 3 cm is enough, but the electrode cannot be attached through intact membranes. Take action: question the prescription and clarify with the provider (for example, whether amniotomy is planned), and keep troubleshooting the external transducer in the meantime.",
+          "Ruptured membranes and 7 cm meet the requirements, and contractions that are hard to palpate are a good reason to measure intensity directly. This prescription is appropriate."
+        ]
+      },
+      {
+        "stem": "A client at 40 weeks has had ruptured membranes for 22 hours. Over the past 20 minutes the strip shows a baseline FHR of 170 bpm, moderate variability, and no decelerations. Maternal temperature is 38.4 °C (101.1 °F), HR 112/min, and the uterus is tender between contractions. No tocolytics have been given. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "The fetal tachycardia is most likely a response to maternal fever from possible chorioamnionitis, so the nurse reports the maternal and fetal findings to the provider",
+          "The fetal tachycardia is most likely a sympathomimetic drug effect, so the nurse checks the medication record for terbutaline",
+          "The baseline is at the upper end of normal for a term fetus, so the nurse continues routine monitoring",
+          "The tachycardia reflects acute umbilical cord compression, so the nurse repositions the client and checks for cord prolapse"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: baseline 170 bpm for more than 10 minutes, a maternal temperature of 38.4 °C with maternal tachycardia, a tender uterus, and membranes ruptured 22 hours. Analyze cues: a baseline above 160 bpm for 10 minutes or longer is fetal tachycardia, and maternal fever or infection (chorioamnionitis) is a leading cause. Prioritize hypotheses: with no terbutaline given and moderate variability, intrauterine infection is the explanation that fits every cue. Take action: notify the provider so the infection can be treated, and keep monitoring. Evaluate outcomes: the FHR baseline should fall back toward 110–160 as maternal fever is treated.",
+          "Terbutaline does cause fetal tachycardia, but the stem says no tocolytics were given. This hypothesis ignores the fever, maternal tachycardia, and uterine tenderness that point to infection.",
+          "This misreads the number. Normal baseline is 110–160 bpm, and 170 bpm for 20 minutes meets the definition of fetal tachycardia. Routine monitoring would miss a likely infection.",
+          "Cord compression shows up as abrupt variable decelerations, and severe or prolonged compression lowers the heart rate. It does not raise the baseline, and the strip has no decelerations."
+        ]
+      },
+      {
+        "stem": "A client dilated 7 cm received butorphanol 1 mg IV 30 minutes ago and is now drowsy. An hour ago the strip showed moderate variability with accelerations. The current strip shows a baseline FHR of 140 bpm, variability of 3–5 bpm, no accelerations, and no decelerations. Which action by the nurse is most appropriate?",
+        "options": [
+          "Begin intrauterine resuscitation and notify the provider to prepare for emergency cesarean birth",
+          "Classify the strip as Category I and reduce the frequency of strip evaluation",
+          "Administer naloxone to the client to reverse the opioid and restore fetal heart rate variability",
+          "Interpret the minimal variability as a likely opioid or fetal sleep effect, continue close monitoring, and reassess for the return of moderate variability"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This jumps past Analyze cues. Minimal variability alone, right after an opioid and with no decelerations, is Category II and not an emergency. Absent variability with recurrent decelerations is the Category III pattern that calls for this response.",
+          "Category I requires moderate variability. A variability of 3–5 bpm is minimal, which makes this Category II, so it needs closer evaluation, not less.",
+          "Naloxone is for opioid-induced respiratory depression in the mother or newborn. A drowsy client with an expected drug effect on the strip does not need reversal, and reversal would also remove her pain relief.",
+          "CJMM — Recognize cues: variability of 3–5 bpm (minimal), a normal baseline, no decelerations, a reassuring strip an hour ago, and an opioid given 30 minutes ago. Analyze cues: minimal variability can mean a fetal sleep cycle, maternal sedation, or early hypoxia, and decreased FHR variability is an expected side effect of systemic opioids. Prioritize hypotheses: with no decelerations and a normal baseline right after butorphanol, a drug or sleep effect is most likely, but this is Category II and needs ongoing evaluation. Take action: keep monitoring continuously and reassess. Evaluate outcomes: moderate variability (6–25 bpm) should return as the drug wears off. If minimal variability persists or decelerations appear, escalate."
+        ]
+      },
+      {
+        "stem": "A client at 30 weeks is placed on the monitor in triage for decreased fetal movement. Over 20 minutes the strip shows a baseline FHR of 145 bpm, moderate variability, no decelerations, and two accelerations that each rise 12 bpm above baseline and last 14 seconds. Which conclusion is correct?",
+        "options": [
+          "The accelerations fall short of the 15 × 15 criteria, so the tracing should be treated as Category II",
+          "The rises are too small to be accelerations, so the nurse should begin intrauterine resuscitation",
+          "The accelerations suggest developing fetal tachycardia, so the nurse should check the client's temperature",
+          "The accelerations meet the criteria for this gestational age and are reassuring of fetal oxygenation"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This applies the term criteria to a preterm fetus. At 30 weeks the 10 × 10 rule is used, so these rises count as accelerations. With a normal baseline, moderate variability, and no decelerations, the strip is Category I.",
+          "This misreads the cue and then overreacts. The rises meet the preterm criteria, and nothing on the strip (no decelerations, moderate variability) calls for resuscitation.",
+          "An acceleration is a brief, abrupt rise that returns to baseline. Tachycardia is a baseline above 160 bpm for at least 10 minutes. A baseline of 145 is normal.",
+          "CJMM — Recognize cues: gestational age of 30 weeks, and accelerations of 12 bpm lasting 14 seconds. Analyze cues: before 32 weeks an acceleration only has to rise at least 10 bpm for at least 10 seconds (the 10 × 10 rule). The 15 × 15 rule applies from 32 weeks on. Prioritize hypotheses: these accelerations qualify, and with a normal baseline and moderate variability the strip is reassuring and points away from metabolic acidemia. Take action: report the reassuring findings and continue the triage evaluation."
+        ]
+      },
+      {
+        "stem": "A client dilated 8 cm has a strip showing a baseline FHR of 130 bpm with moderate variability and occasional accelerations. With each contraction the FHR gradually falls to 115 bpm, reaches its lowest point at the peak of the contraction, and returns to baseline as the contraction ends. Which action should the nurse take?",
+        "options": [
+          "Turn the client to a lateral position and increase the IV infusion rate",
+          "Continue monitoring and document early decelerations caused by fetal head compression",
+          "Perform a sterile vaginal examination to check for umbilical cord prolapse",
+          "Turn off the oxytocin and apply oxygen at 10 L/min by non-rebreather mask"
+        ],
+        "answer": 1,
+        "explanations": [
+          "These are intrauterine resuscitation steps for late or severe variable decelerations. Early decelerations are benign head-compression changes and need no intervention.",
+          "CJMM — Recognize cues: gradual, symmetrical decelerations whose lowest point matches the peak of each contraction (a mirror image), with a normal baseline and moderate variability, at 8 cm. Analyze cues: in VEAL CHOP, early decelerations come from head compression as the fetus descends. They are benign. Prioritize hypotheses: timing is the key discrimination. The nadir is at the contraction peak, not after it, so this is not a late deceleration. Take action: no intervention is needed. Continue monitoring and document. The strip is Category I, because early decelerations may be present in Category I.",
+          "Checking for prolapse is the action for variable decelerations, which are abrupt and V-, W-, or U-shaped. These decelerations are gradual and mirror the contraction, which points to head compression, not cord compression.",
+          "This treats the strip as placental insufficiency. That would be correct if the nadir came after the contraction peak, but here it matches the peak. Stopping oxytocin for a benign pattern could stall a labor that is progressing."
+        ]
+      },
+      {
+        "stem": "A client in active labor is receiving oxytocin. Over the last 5 contractions, the FHR has gradually decreased from a baseline of 150 bpm to 135 bpm. The lowest point occurs about 30 seconds after each contraction peaks, and the FHR returns to baseline about 40 seconds after each contraction ends. Variability is 4 bpm. Which interpretation should guide the nurse's response?",
+        "options": [
+          "Early decelerations from head compression, requiring continued monitoring only",
+          "Variable decelerations from cord compression, requiring repositioning and a check for cord prolapse",
+          "Late decelerations from placental insufficiency, requiring intrauterine resuscitation",
+          "Early decelerations with reduced variability from a fetal sleep cycle, requiring reassessment in 30 minutes"
+        ],
+        "answer": 2,
+        "explanations": [
+          "The gradual shape fits both patterns, but early decelerations reach their nadir at the contraction peak and recover as the contraction ends. Here the nadir is 30 seconds after the peak, so treating it as benign misses placental insufficiency.",
+          "Variable decelerations are abrupt (less than 30 seconds to the nadir) and irregular in shape and timing. These are gradual and repeat in the same place with every contraction.",
+          "CJMM — Recognize cues: gradual decelerations, a nadir about 30 seconds after the contraction peak, slow recovery after the contraction ends, recurrence with every contraction, minimal variability, and oxytocin running. Analyze cues: a gradual shape alone does not separate early from late decelerations. Timing does. A nadir after the peak with slow recovery defines a late deceleration, which VEAL CHOP links to placental insufficiency. Prioritize hypotheses: recurrent lates mean the fetus is not tolerating contractions. Take action: begin intrauterine resuscitation now (lateral position, LR bolus, stop oxytocin, oxygen if indicated, notify the provider). Evaluate outcomes: watch for the decelerations to resolve and for moderate variability to return.",
+          "This misreads both the timing and the variability. Minimal variability combined with recurrent late decelerations is not a sleep pattern, and waiting 30 minutes delays resuscitation."
+        ]
+      },
+      {
+        "stem": "Ten minutes after spontaneous rupture of membranes, a client dilated 6 cm has a strip with a baseline FHR of 140 bpm and moderate variability. The FHR now drops abruptly to 95 bpm, reaching the lowest point within 10 seconds. Each drop lasts 40–60 seconds, has a V or W shape, and occurs at varying times, some during contractions and some between them. Which action should the nurse take first?",
+        "options": [
+          "Document early decelerations and continue to monitor the tracing",
+          "Apply oxygen and prepare to insert an IUPC to quantify contraction strength",
+          "Increase the rate of the maintenance D5LR infusion to improve placental perfusion",
+          "Reposition the client side to side and perform a sterile vaginal examination to assess for cord prolapse"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Early decelerations are gradual and mirror each contraction. These are abrupt, irregular, and V- or W-shaped, so labeling them benign misses possible cord compression or prolapse.",
+          "The problem is cord compression, not contraction strength. An IUPC does not relieve pressure on the cord, and it delays the position change and prolapse check.",
+          "Improving placental perfusion targets late decelerations, not cord compression. Also, any fluid bolus during intrauterine resuscitation must be non-dextrose isotonic crystalloid such as plain LR, so D5LR is the wrong fluid.",
+          "CJMM — Recognize cues: abrupt drops (less than 30 seconds to the nadir) of 45 bpm lasting 40–60 seconds, V and W shapes, irregular timing, right after membranes ruptured. Analyze cues: these are variable decelerations, which VEAL CHOP links to cord compression. Rupture of membranes raises concern that the cord has prolapsed. Generate solutions: repositioning takes pressure off the cord, and a vaginal exam rules prolapse in or out. Take action: reposition and examine, and ask about amnioinfusion if it is ordered and the pattern persists. Evaluate outcomes: the decelerations should become less deep or resolve after the position change."
+        ]
+      },
+      {
+        "stem": "A client at 38 weeks in early labor has received no medications. For the past 40 minutes the strip shows a baseline FHR of 150 bpm, variability of 3–4 bpm, no decelerations, and no accelerations, including after fetal scalp stimulation. How should the nurse classify this tracing?",
+        "options": [
+          "Category I, because the baseline is normal and there are no decelerations",
+          "Category II, because minimal variability with no accelerations, even after stimulation, needs ongoing evaluation",
+          "Category III, because the absence of accelerations predicts fetal acidemia",
+          "Category I, because minimal variability is expected during a fetal sleep cycle"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This misses the variability criterion. A normal baseline and no decelerations are not enough for Category I. Variability must be moderate (6–25 bpm), and 3–4 bpm is minimal.",
+          "CJMM — Recognize cues: normal baseline, variability of 3–4 bpm (minimal) for 40 minutes, no medication to explain it, and no accelerations even when the scalp is stimulated. Analyze cues: Category I requires moderate variability. Category III requires absent variability with recurrent decelerations or bradycardia, or a sinusoidal pattern. Minimal variability and no induced accelerations both fall into Category II. Prioritize hypotheses: a sleep cycle is possible, but with no sedation and no response to stimulation, early hypoxia must be considered. Take action: notify the provider, continue evaluation, and use intrauterine resuscitation measures as indicated.",
+          "This overcalls the strip. Missing accelerations do not make a tracing Category III. Category III requires absent (not minimal) variability with recurrent decelerations or bradycardia, or a sinusoidal pattern.",
+          "A sleep cycle is one possible cause of minimal variability, but it does not change the classification. Minimal variability is Category II, and the lack of response to stimulation makes it harder to dismiss."
+        ]
+      },
+      {
+        "stem": "A labor nurse receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "Dilated 6 cm: baseline FHR 145 bpm, absent variability, recurrent late decelerations with most contractions",
+          "Dilated 5 cm: baseline FHR 135 bpm, moderate variability, early decelerations with each contraction",
+          "Dilated 7 cm: baseline FHR 155 bpm, minimal variability 20 minutes after IV fentanyl, no decelerations",
+          "Dilated 8 cm: baseline FHR 140 bpm, moderate variability, intermittent variable decelerations that resolve with a position change"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: absent variability plus recurrent late decelerations. Analyze cues: under the NICHD system this is Category III, which predicts abnormal fetal acid-base status (hypoxia or acidemia). Prioritize hypotheses: this is the only fetus showing evidence of current compromise, and every other strip is Category I or Category II. Take action: start intrauterine resuscitation immediately and prepare for prompt delivery if the pattern does not correct.",
+          "Moderate variability with early decelerations is Category I. Head compression is benign and needs only routine monitoring.",
+          "Minimal variability is Category II and needs evaluation, but it is explained by the recent opioid and there are no decelerations. It is lower priority than Category III.",
+          "Intermittent variable decelerations with moderate variability that respond to repositioning show a fetus that is tolerating labor. This client needs follow-up, but not before the Category III strip."
+        ]
+      },
+      {
+        "stem": "A client dilated 6 cm is receiving oxytocin. The strip now shows recurrent late decelerations with minimal variability. Maternal BP is 112/70 mm Hg and HR is 88/min. Which actions should the nurse take? Select all that apply.",
+        "options": [
+          "Turn the client to the left lateral position",
+          "Increase the rate of the lactated Ringer's infusion as a bolus",
+          "Discontinue the oxytocin infusion",
+          "Apply oxygen at 2 L/min by nasal cannula",
+          "Infuse a bolus of D5W to provide energy for the fetus",
+          "Administer ephedrine 10 mg IV"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—lateral positioning relieves vena cava compression and improves uteroplacental blood flow.",
+          "Correct—a non-dextrose isotonic bolus expands intravascular volume and improves placental perfusion.",
+          "Correct—stopping the uterine stimulant reduces contraction frequency and gives the placenta more time to perfuse between contractions.",
+          "Incorrect—when supplemental oxygen is indicated during intrauterine resuscitation, it is given at 10 L/min by non-rebreather mask. A low-flow cannula is the wrong dose.",
+          "Incorrect—the resuscitation bolus must be non-dextrose isotonic crystalloid. D5W is not the fluid for volume expansion.",
+          "Incorrect—ephedrine corrects maternal hypotension, especially after an epidural. This client's BP is 112/70, so the indication is not present. Giving it anyway shows the medication was chosen without checking the second cue."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "Fifteen minutes after an epidural is placed, a client lying supine reports nausea and lightheadedness. BP is 84/46 mm Hg (baseline 122/76). For the past 10 minutes the FHR baseline has been 100 bpm, down from 140 bpm, with minimal variability. Which action should the nurse take first?",
+        "options": [
+          "Administer ephedrine 5–10 mg IV as prescribed",
+          "Ask the anesthesia provider to stop the epidural infusion",
+          "Prepare the client for emergency cesarean birth because of fetal bradycardia",
+          "Turn the client to a lateral position with a wedge under one hip"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Ephedrine is the right drug for epidural-related hypotension, but it is not the first step. Taking the client off her back takes seconds and relieves vena cava compression while the medication is prepared.",
+          "Stopping the infusion does not reverse the existing sympathetic block or raise the BP quickly. Correcting perfusion through position, fluids, and a vasopressor is what helps the fetus now.",
+          "Preparing for delivery is the last resuscitation step, used if the pattern fails to resolve. The cause here, maternal hypotension, is quickly reversible, so correct it first.",
+          "CJMM — Recognize cues: a sharp BP drop after epidural placement, the client lying supine, and a new FHR baseline of 100 bpm (bradycardia) with minimal variability. Analyze cues: hypotension is the most common epidural complication, caused by sympathetic blockade and vasodilation. Lying supine adds vena cava compression, and maternal hypotension and spinal anesthesia are causes of fetal bradycardia. Prioritize hypotheses: low uteroplacental perfusion from maternal hypotension is causing the fetal change. Take action: repositioning is the fastest step and needs no prescription. Follow it at once with the LR bolus, ephedrine as ordered, and notifying the provider. Evaluate outcomes: BP and FHR baseline should return toward normal."
+        ]
+      },
+      {
+        "stem": "A client with hypotension after an epidural is turned to a lateral position, given an LR bolus, and given ephedrine 10 mg IV. Which finding 10 minutes later best shows that the interventions were effective?",
+        "options": [
+          "The client rates contraction pain 0/10 and says her legs feel heavy",
+          "BP 100/62 mm Hg and FHR baseline 105 bpm with minimal variability",
+          "BP 116/70 mm Hg and FHR baseline 135 bpm with moderate variability",
+          "Maternal HR 126/min and the client reports a pounding heartbeat"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This shows the epidural is working as an anesthetic. It says nothing about whether the hypotension, or its effect on the fetus, has been corrected.",
+          "The BP has improved, but the FHR is still below 110 with minimal variability, so the fetal goal has not been met. The nurse should continue resuscitation and notify the provider instead of documenting success.",
+          "CJMM — Evaluate outcomes: the treatment had two goals, to correct maternal hypotension and to restore uteroplacental perfusion. A BP back near baseline shows that ephedrine and fluid reversed the vasodilation. An FHR baseline back within 110–160 with moderate variability (6–25 bpm) shows the fetus is well oxygenated again. Only this option shows both the maternal and the fetal goal were met.",
+          "These are expected sympathomimetic side effects of ephedrine. They show the drug was absorbed but not that BP or fetal status improved."
+        ]
+      },
+      {
+        "stem": "A client with an IUPC has 4 contractions in a 10-minute window, with peak pressures of 70, 75, 65, and 80 mm Hg. Resting tone between contractions is 15 mm Hg. How many Montevideo units (MVUs) should the nurse document for this window?",
+        "options": [
+          "290 MVUs",
+          "275 MVUs",
+          "230 MVUs",
+          "57.5 MVUs"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This adds the peak pressures (70 + 75 + 65 + 80) without subtracting resting tone, so it overstates the contractions' work.",
+          "This subtracts resting tone only once from the total instead of from each contraction. Each contraction's intensity is measured above the resting tone.",
+          "CJMM — Recognize cues: four peak pressures in 10 minutes and a resting tone of 15 mm Hg from the IUPC. Analyze cues: MVUs add up the intensity of each contraction above resting tone over 10 minutes, so the resting tone is subtracted from every peak. Take action (calculate): (70 − 15) + (75 − 15) + (65 − 15) + (80 − 15) = 55 + 60 + 50 + 65 = 230 MVUs. Only an IUPC can give this value, because the external toco does not measure intensity.",
+          "This is the average intensity of one contraction (230 ÷ 4). MVUs are the sum over the 10-minute window, not the average."
+        ]
+      },
+      {
+        "stem": "The nurse reviews four PRN opioid requests on the labor unit. Which request should the nurse question before giving the medication?",
+        "options": [
+          "Nalbuphine 10 mg IV for a client dilated 6 cm with contractions every 3 minutes who rates pain 8/10",
+          "Butorphanol 1 mg IV for a client dilated 10 cm at +2 station who has a strong urge to push",
+          "Fentanyl 50 mcg IV for a client dilated 5 cm who wants relief while waiting for an epidural",
+          "Meperidine 25 mg IV for a client dilated 7 cm who is coping poorly despite comfort measures"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Six centimeters with regular contractions is active-phase stage 1, which is the best time for a systemic opioid. This request is appropriate.",
+          "CJMM — Recognize cues: complete dilation, +2 station, and an urge to push, meaning birth is near. Analyze cues: systemic opioids cross the placenta. They are best given in the active phase of stage 1, and given close to delivery or in stage 2 they can cause neonatal respiratory depression at birth. Prioritize hypotheses: the newborn is at risk because peak drug effect would come right around delivery. Take action: hold the dose and clarify with the provider, offer non-pharmacologic support for pushing, and make sure naloxone and neonatal resuscitation equipment are ready.",
+          "Five centimeters is active labor, and a short-acting opioid while the client waits for an epidural is reasonable. Nothing here suggests delivery is near.",
+          "Seven centimeters is still stage 1 active labor, and non-pharmacologic measures have already been tried. The timing is acceptable, so this request does not need to be questioned."
+        ]
+      },
+      {
+        "stem": "A client on methadone maintenance for opioid use disorder received IV fentanyl 45 minutes before an unexpectedly rapid birth. The newborn has poor tone and shallow, irregular respirations. The provider prescribes naloxone for the newborn. Which action should the nurse take?",
+        "options": [
+          "Hold the naloxone, clarify the prescription with the provider, and support the newborn's ventilation",
+          "Give the naloxone IM as prescribed to reverse the fentanyl effect",
+          "Give the naloxone IV through the umbilical vein for a faster onset",
+          "Give half the prescribed dose of naloxone to lower the risk of withdrawal"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: neonatal respiratory depression after a maternal opioid given close to birth, in a newborn exposed to methadone throughout pregnancy. Analyze cues: naloxone is the usual reversal for opioid-induced respiratory depression in mother or newborn, but it must not be given to opioid-dependent individuals because it causes immediate withdrawal. A newborn exposed to chronic methadone in utero is opioid-dependent. Prioritize hypotheses: abrupt withdrawal, which can include seizures, is a greater danger than supporting breathing. Take action: support ventilation according to neonatal resuscitation and question the naloxone prescription. Evaluate outcomes: watch for effective breathing, improving tone, and a stable heart rate.",
+          "This would be the right action for a newborn without chronic opioid exposure. The second cue, maternal methadone maintenance, makes the newborn opioid-dependent, so naloxone would cause sudden withdrawal.",
+          "Changing the route makes the drug act faster but does not remove the contraindication. A faster onset would only bring on withdrawal more quickly.",
+          "A smaller dose is still an opioid antagonist in an opioid-dependent newborn and can still cause withdrawal. The nurse also cannot change a prescribed dose on their own. The safe action is to support ventilation and clarify the order."
+        ]
+      },
+      {
+        "stem": "A client dilated 5 cm requests an epidural. The nurse reviews the pre-procedure data. Which finding should the nurse report to the anesthesia provider before placement?",
+        "options": [
+          "A 1,000 mL lactated Ringer's bolus completed 10 minutes ago",
+          "Platelet count of 82,000/mm³",
+          "BP 128/78 mm Hg and FHR baseline 140 bpm with moderate variability",
+          "Contractions every 3 minutes with pain rated 9/10"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is the expected pre-procedure step. A 500–1,000 mL bolus is given before placement to offset the hypotension caused by sympathetic blockade. It is done, not a problem.",
+          "CJMM — Recognize cues: a platelet count of 82,000/mm³. Analyze cues: the pre-epidural workflow requires a platelet count above 100,000/mm³, because a low count raises the risk of bleeding into the epidural space during needle placement. Prioritize hypotheses: this is the only finding that could make the procedure unsafe. Take action: report it before placement so the provider can decide whether to proceed and the client can be offered other pain relief if needed.",
+          "These normal baseline maternal vital signs and a Category I FHR are what should be documented before placement. Nothing here needs to be reported.",
+          "Strong active-labor contractions and severe pain are the reason for the epidural, not a contraindication to it."
+        ]
+      },
+      {
+        "stem": "An epidural has just been placed for a client in active labor. Which actions should the nurse include in the client's care? Select all that apply.",
+        "options": [
+          "Monitor blood pressure every 2–5 minutes for the first 30 minutes",
+          "Position the client supine and flat so the medication spreads evenly",
+          "Position the client laterally with a wedge under one hip",
+          "Assess for bladder distention and catheterize as needed",
+          "Discontinue continuous EFM once the client is comfortable",
+          "Assist the client to walk to the bathroom to void every 2 hours"
+        ],
+        "answer": [
+          0,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—hypotension is the most common complication and usually appears soon after placement, so frequent BP checks catch it early.",
+          "Incorrect—the supine position compresses the vena cava and worsens epidural hypotension. The client should be positioned laterally with a wedge.",
+          "Correct—lateral positioning prevents vena cava compression and supports uteroplacental blood flow.",
+          "Correct—the epidural reduces the sensation of a full bladder and can cause urinary retention, and a distended bladder can block fetal descent.",
+          "Incorrect—continuous EFM is part of post-epidural care, because maternal hypotension can quickly reduce fetal oxygenation.",
+          "Incorrect—voiding should be checked, but sensory and motor block make walking unsafe. Bladder emptying is managed with a catheter as needed."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The nurse teaches a client about the epidural she has requested. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"If the medicine in my epidural makes my skin itch, that's a side effect I should tell you about.\"",
+          "\"I may need a catheter, because I might not feel when my bladder is full.\"",
+          "\"The pushing stage should go faster with the epidural, since I won't be tensing up from the pain.\"",
+          "\"If I get a bad headache after delivery that's worse when I sit up, I should let the nurse know.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. Pruritus is a common side effect of the opioid (such as fentanyl) in the epidural solution.",
+          "This is correct. The epidural dulls bladder sensation and can cause urinary retention, so the bladder is checked and catheterized as needed.",
+          "CJMM — Evaluate outcomes (of teaching): a prolonged second stage of labor is a known epidural side effect, because the client feels less of the urge and sensation to push. Expecting a faster second stage is the misunderstanding to correct. The client should know she may need coaching on when and how to push. The other statements correctly describe epidural risks: pruritus, urinary retention, and post-dural puncture headache.",
+          "This is correct. A post-dural puncture headache can happen if the dura is accidentally punctured, and the client should report it."
+        ]
+      },
+      {
+        "stem": "A client dilated 2 cm in early labor with mild contractions has back pain from an occiput posterior fetal position. The nurse teaches the client and partner about comfort measures. Which statement by the partner indicates a need for further teaching?",
+        "options": [
+          "\"She should ask for IV pain medicine now, while she's at 2 cm, so she relaxes and labor goes faster.\"",
+          "\"Pressing firmly on her lower back during contractions should help, because the baby is facing up.\"",
+          "\"Standing in a warm shower is something she can try when the contractions get stronger.\"",
+          "\"Changing positions often and rocking on the birthing ball can help her cope.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes (of teaching): systemic opioids are best given in the active phase of stage 1. Given too early (before about 4 cm), they can slow or stop labor progress, which is the opposite of what the partner expects. In early labor, the plan is non-pharmacologic comfort measures, with opioids saved for active labor. The other statements describe correct cutaneous, hydrotherapy, and positioning strategies.",
+          "This is correct. Counterpressure is the recommended cutaneous strategy for back labor from an occiput posterior position.",
+          "This is correct. Hydrotherapy (shower or tub) is a cutaneous comfort strategy.",
+          "This is correct. Frequent position changes and the birthing ball are positioning strategies that support comfort and descent."
         ]
       }
     ]

@@ -1,0 +1,387 @@
+{
+  "topic": "mat-labor",
+  "label": "Maternity: Labor Process & Intrapartum Care",
+  "questions": [
+    {
+      "stem": "A client at 38 weeks' gestation calls the labor and delivery unit with several concerns. Which reported findings does the nurse identify as expected premonitory signs of approaching labor? Select all that apply.",
+      "options": [
+        "\"I can breathe more easily now, but I feel a lot more pressure down in my pelvis.\"",
+        "\"I passed a thick glob of mucus this morning that was streaked with a little pink blood.\"",
+        "\"I suddenly had a burst of energy yesterday and reorganized the entire nursery.\"",
+        "\"I weighed myself and I've lost about 2 pounds this week without trying.\"",
+        "\"My face and hands are puffy, and I've gained 4 pounds since last week.\"",
+        "\"I'm having bright red bleeding that soaked a pad in the last hour.\""
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: each statement describes a late-pregnancy change. Analyze cues: lightening (easier breathing, more pelvic pressure), bloody show (a mucus plug with a minor blood streak), a nesting energy spurt 24–48 hours before labor, and a 1–3 lb weight loss from fluid shifts are all premonitory signs. Prioritize hypotheses: sudden weight gain with facial and hand edema, and bright red bleeding that soaks a pad, are not labor signs. They point to complications that need same-day evaluation. Take action: reassure the client about the expected signs, and direct the client with either of the last two findings to come in for evaluation.",
+        "incorrect": [
+          "Correct—this is lightening. The fetal head drops into the pelvic inlet, which eases maternal breathing and increases pelvic pressure.",
+          "Correct—this is bloody show. The mucus plug (operculum) is expelled with a minor blood streak as the cervix softens and begins to dilate.",
+          "Correct—this is the nesting energy spurt, a sudden burst of energy 24–48 hours before labor begins.",
+          "Correct—a small loss of 1–3 lb from fluid shifts is an expected premonitory sign.",
+          "Incorrect—labor signs involve weight loss, not gain. Rapid gain with facial and hand edema suggests fluid retention from a hypertensive disorder, so the nurse misreads the cue if they file it as normal.",
+          "Incorrect—bloody show is a small pink or blood-streaked amount of mucus. Bright red bleeding that soaks a pad is abnormal and needs immediate evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 39 weeks' gestation arrives at triage reporting 4 hours of contractions every 6–8 minutes. The client says the pain started in the lower back and now wraps around to the front, and that the contractions continued after a 1-hour walk. Which finding most reliably confirms that the client is in true labor?",
+      "options": [
+        "The contractions continued even after the client walked for an hour",
+        "The discomfort began in the lower back and radiates to the abdomen",
+        "The cervix has dilated from 2 cm to 4 cm between two exams 2 hours apart",
+        "The client passed the mucus plug with a small streak of blood today"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: several findings in the stem fit true labor. Analyze cues: contraction behavior, pain location, and response to activity help separate true labor from false labor, but they are indirect and can overlap. Prioritize hypotheses: progressive cervical dilation and effacement is the definitive sign of true labor, because false labor causes no significant cervical change. Take action: base the decision to admit on documented cervical change between serial exams.",
+        "incorrect": [
+          "Persistence despite walking supports true labor, but it is a supporting feature, not the definitive one. Some Braxton Hicks contractions also continue for a while.",
+          "Back-to-front pain is typical of true labor, but it is a subjective description. This conclusion skips the objective finding that actually confirms labor.",
+          "Bloody show is a premonitory sign that labor is approaching. It can occur days before true labor starts, so it does not confirm active labor."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse times a laboring client's contractions with the following results. Contraction 1 begins at 1400:00 and ends at 1401:00. Contraction 2 begins at 1403:30 and ends at 1404:30. Contraction 3 begins at 1407:00 and ends at 1408:00. Which documentation is accurate?",
+      "options": [
+        "Frequency every 2½ minutes, duration 60 seconds",
+        "Frequency every 3½ minutes, duration 60 seconds",
+        "Frequency every 4½ minutes, duration 60 seconds",
+        "Frequency every 3½ minutes, duration 90 seconds"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: three contractions with start and end times. Analyze cues: frequency is measured from the START of one contraction to the START of the next (1400:00 to 1403:30, and 1403:30 to 1407:00, which is 3½ minutes each time). Duration is measured from the start to the end of the same contraction (1400:00 to 1401:00, which is 60 seconds). Take action: document contractions every 3½ minutes lasting 60 seconds. Evaluate outcomes: a correct baseline lets the nurse detect whether contractions are becoming closer, longer, and stronger.",
+        "incorrect": [
+          "Two and a half minutes is the resting interval, measured from the END of one contraction to the START of the next (1401:00 to 1403:30). It is not the frequency.",
+          "Four and a half minutes runs from the start of one contraction to the END of the next (1400:00 to 1404:30). That mixes the start and end points.",
+          "The frequency is correct, but each contraction lasts 60 seconds (start to end of the same contraction), not 90."
+        ]
+      }
+    },
+    {
+      "stem": "A nulliparous client's cervix is 7 cm dilated. The client keeps their eyes closed, does not talk between contractions, and asks about pain relief. The nurse records contractions starting at 0910:00, 0912:30, and 0915:00, each ending 70 seconds after it begins, moderate to strong by palpation. Which interpretation is accurate?",
+      "options": [
+        "Contractions every 1 minute 20 seconds lasting 70 seconds, which is too frequent, so the provider should be notified",
+        "Contractions every 2½ minutes lasting 3 minutes 40 seconds, which are prolonged and need further evaluation",
+        "Contractions every 2½ minutes lasting 70 seconds, a latent-phase pattern, so ambulation should be encouraged",
+        "Contractions every 2½ minutes lasting 70 seconds, an expected active-phase pattern for this client"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 7 cm dilation, inward-focused behavior, a request for pain relief, and timed contractions. Analyze cues: frequency runs start to start (0910:00 to 0912:30 to 0915:00, so every 2½ minutes). Duration runs start to end of one contraction (70 seconds). Prioritize hypotheses: the active phase (6–10 cm) has moderate to strong, regular contractions every 2–5 minutes lasting 45–90 seconds, with a serious, inward-focused client who wants pain management. Every finding fits. Take action: document an expected active-phase pattern and address the client's request for pain relief.",
+        "incorrect": [
+          "One minute 20 seconds is the resting interval (end of one contraction to the start of the next, 0911:10 to 0912:30). Misreading frequency this way would trigger an unnecessary call.",
+          "Three minutes 40 seconds runs from the start of one contraction to the end of the next. Duration is measured within a single contraction, so this is a measurement error.",
+          "The numbers are right, but the latent phase is 0–5 cm with contractions every 5–30 minutes and a talkative client. This client is at 7 cm and inward-focused, so the phase is misclassified."
+        ]
+      }
+    },
+    {
+      "stem": "At 1000, a laboring client's presenting part is palpated 2 cm above the level of the ischial spines. At 1300, it is palpated 1 cm below the ischial spines. How should the nurse interpret these findings?",
+      "options": [
+        "Station has progressed from −2 to +1, so the fetus has engaged and is descending",
+        "Station has changed from +2 to −1, so the fetus has moved upward and the provider should be notified",
+        "Station has progressed from −2 to +1, but the fetus is still floating and not yet engaged",
+        "Station has changed from +2 to −1, which shows normal descent toward crowning"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: two exams referenced to the ischial spines. Analyze cues: above the spines is a negative station and below is positive, so 2 cm above is −2 and 1 cm below is +1. Prioritize hypotheses: 0 station means engaged, so a presenting part below the spines has passed engagement and is descending, which is progressive descent consistent with true labor. Evaluate outcomes: the trend shows labor is progressing.",
+        "incorrect": [
+          "This reverses the signs. Above the spines is negative, not positive, so the conclusion that the fetus moved upward misreads the cue.",
+          "The stations are correct, but a fetus is floating only above the spines (−1 to −5). At +1 the presenting part has passed 0 station and is engaged.",
+          "The signs are reversed. Even with the reversed numbers, going from +2 to −1 would mean the fetus moved upward, not toward crowning (+5)."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 5 cm reports severe, constant low back pain that persists between contractions. The vaginal exam finds the fetal occiput directed toward the maternal right, posterior portion of the pelvis. The prenatal record notes an anthropoid pelvis. Which documentation and nursing action are correct?",
+      "options": [
+        "LOP; assist the client into a hands-and-knees position",
+        "ROA; reassure the client this is the most favorable position and keep the current position",
+        "ROP; assist the client into a hands-and-knees position",
+        "ROP; assist the client to squat on a birth stool to enlarge the pelvic outlet"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: persistent back labor, an occiput toward the maternal right posterior, and an anthropoid pelvis. Analyze cues: the position abbreviation is the maternal side (R), then the presenting part (O, occiput), then the direction faced (P, posterior), giving ROP. An anthropoid pelvis, with its long anteroposterior diameter, is common with occiput posterior positions. Generate solutions: hands-and-knees relieves OP back pain and helps the fetus rotate to occiput anterior. Take action: assist the client onto hands and knees. Evaluate outcomes: back pain eases and later exams show rotation toward OA.",
+        "incorrect": [
+          "The posterior position and the action are correct, but the occiput is toward the maternal RIGHT, so this is ROP, not LOP. Laterality errors make the documentation wrong.",
+          "LOA is the most common and favorable position. An occiput toward the posterior pelvis is OP, which causes this client's back labor, so reassurance alone misreads the cue.",
+          "The documentation is right, but squatting enlarges the pelvic outlet to promote descent during Stage 2. At 5 cm the goal is rotation from OP, which hands-and-knees promotes, so the action comes too early and targets the wrong problem."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 39 weeks' gestation is admitted in early labor. Leopold maneuvers find the fetal head in the maternal left flank and the buttocks in the right flank, with no presenting part over the pelvic inlet. Ultrasound confirms that the fetal spine is perpendicular to the maternal spine. Which plan of care does the nurse anticipate?",
+      "options": [
+        "Assisting the client into hands-and-knees to rotate the fetus to vertex",
+        "Encouraging ambulation and upright positions to promote engagement",
+        "Coaching open-glottis pushing once the cervix is fully dilated",
+        "Preparing the client for a cesarean birth"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: head and buttocks in opposite maternal flanks, nothing over the inlet, and spines perpendicular. Analyze cues: this is a transverse lie, with a shoulder presentation. Prioritize hypotheses: a fetus lying crosswise cannot pass through the pelvis vaginally. Generate solutions: positioning and pushing strategies only help a longitudinal lie. Take action: prepare the client for a cesarean birth.",
+        "incorrect": [
+          "Hands-and-knees helps a vertex fetus rotate from OP to OA. It does not convert a transverse lie to a longitudinal one.",
+          "Upright positions use gravity to encourage engagement of a presenting part that is already over the inlet. With a transverse lie there is no presenting part in line to engage.",
+          "Pushing is a Stage 2 strategy for a fetus that can deliver vaginally. Planning vaginal birth here ignores the lie, which is the cue that decides the route."
+        ]
+      }
+    },
+    {
+      "stem": "A primigravida at 4 cm had contractions every 3–4 minutes. The client is now crying and breathing rapidly and says, \"I'm terrified something will go wrong. My last pregnancy ended in a stillbirth.\" Over the past hour, contractions have spaced to every 6–7 minutes and the cervix is unchanged. Vital signs and fetal heart rate are reassuring. Which nursing action best addresses the most likely cause of the slowed progress?",
+      "options": [
+        "Request a prescription to augment the contractions with oxytocin",
+        "Stay at the bedside, acknowledge the client's fears, and coach slow paced breathing",
+        "Encourage the client to walk in the hallway to restore the contraction pattern",
+        "Increase the IV fluid rate to improve uterine perfusion"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: intense fear, prior trauma (stillbirth), hyperventilation, and contractions slowing with no cervical change while mother and fetus are stable. Analyze cues: anxiety and fear release maternal catecholamines, and high catecholamine levels slow uterine perfusion and contractility. Prioritize hypotheses: the psychological P is the most likely cause of the stall. Take action: give supportive presence, validate the client's fears, and coach slow breathing to lower the stress response. Evaluate outcomes: the client calms and the contraction pattern returns.",
+        "incorrect": [
+          "Augmentation treats the contraction pattern but not its cause. It is an escalation that comes before simpler steps have addressed the catecholamine-driven slowdown.",
+          "Walking can make contractions more efficient, but it does not address the fear that is suppressing them. This skips Analyze cues.",
+          "Fluids support hydration, but this client is stable. The perfusion problem comes from catecholamines, not volume, so extra fluid misses the cause."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 6 cm has been lying flat on their back for a cervical exam. The client now reports dizziness and nausea. BP is 88/50 mm Hg, down from 118/72 mm Hg. What should the nurse do first?",
+      "options": [
+        "Turn the client onto their left side",
+        "Raise the head of the bed to a semi-Fowler position",
+        "Increase the rate of the maintenance IV fluids",
+        "Assist the client into a hands-and-knees position"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: supine position, then dizziness, nausea, and a sharp BP drop. Analyze cues: the gravid uterus is compressing the vena cava, which reduces venous return, cardiac output, and uteroplacental blood flow. Generate solutions: lateral (side-lying) positioning relieves vena cava compression and restores perfusion. Take action: turn the client to the side first. Evaluate outcomes: recheck BP and fetal heart rate and confirm the dizziness has resolved.",
+        "incorrect": [
+          "Raising the head of the bed leaves the client on their back, so the uterus still compresses the vena cava. It does not remove the cause.",
+          "Fluids can support BP, but the cause is mechanical compression. Turning the client is faster and fixes the cause, so fluids are right in principle but wrong in priority.",
+          "Hands-and-knees is used to relieve OP back labor and promote rotation. Moving a dizzy, hypotensive client onto all fours is unsafe and does not target vena cava compression."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 6 cm has had contractions every 3 minutes for 3 hours, but the station has stayed at 0. The client last voided 4 hours ago, and the nurse palpates a soft, rounded bulge above the symphysis pubis. Which action should the nurse take first?",
+      "options": [
+        "Assist the client to empty their bladder",
+        "Notify the provider that fetal descent has stopped",
+        "Reposition the client to hands-and-knees to promote rotation",
+        "Encourage oral fluids to strengthen the contractions"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: adequate contractions, no descent for 3 hours, no voiding for 4 hours, and a bulge above the symphysis. Analyze cues: a distended bladder takes up pelvic space and can block fetal descent. That is why Stage 1 care includes voiding every 2 hours. Prioritize hypotheses: bladder distention is a simple, reversible cause that should be ruled out first. Take action: assist the client to void. Evaluate outcomes: the bulge resolves and the next exam shows descent.",
+        "incorrect": [
+          "Arrest of descent may eventually need provider input, but reporting it before fixing an obvious bladder cause comes too early, and the report would be incomplete.",
+          "Hands-and-knees is used for OP back labor. Nothing in the stem suggests OP, and a full bladder still blocks descent in any position.",
+          "The contractions are already adequate, and more fluid adds to bladder filling. This misreads the cause of the stalled descent."
+        ]
+      }
+    },
+    {
+      "stem": "A nulliparous client was 8 cm dilated 45 minutes ago. The client is now trembling, has vomited, snaps at their partner, and cries out, \"I have to push right now!\" Which action should the nurse take first?",
+      "options": [
+        "Tell the client the urge means Stage 2 has started and prepare for birth",
+        "Coach the client in open-glottis pushing with the next contraction",
+        "Notify the provider that the client is showing signs of a labor complication",
+        "Perform or request a cervical exam to check for full dilation before pushing"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 8 cm, trembling, nausea and vomiting, irritability, and an intense urge to push. Analyze cues: these are the classic features of the transition phase (8–10 cm), which are expected, not a complication. Prioritize hypotheses: the urge to push can come before full dilation, and Stage 2 begins only at 10 cm. Take action: confirm full dilation with a cervical exam before directing pushing. Pushing against an incompletely dilated cervix can cause cervical swelling and tearing. Evaluate outcomes: if the cervix is 10 cm, begin Stage 2 care. If not, coach the client to breathe through the urge.",
+        "incorrect": [
+          "This assumes Stage 2 has started without objective evidence. Stage 2 is defined by full (10 cm) dilation, not by the urge to push.",
+          "Open-glottis pushing is the correct technique once the cervix is fully dilated. Coaching it now, without confirming dilation, is right in method but premature.",
+          "Trembling, vomiting, and irritability at 8–10 cm are expected transition behaviors. Calling them a complication misreads the cues."
+        ]
+      }
+    },
+    {
+      "stem": "A client is fully dilated with the fetus in an LOA position. After 1 hour of effective pushing in a semi-reclined position, the station has stayed at +1. The fetal heart rate is reassuring, and the client asks to change position. Which position should the nurse suggest to best promote fetal descent?",
+      "options": [
+        "Left side-lying with the upper leg supported",
+        "Squatting, or sitting upright on a birth stool",
+        "Hands-and-knees on the bed",
+        "Semi-Fowler position with the legs in stirrups"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: Stage 2, a favorable LOA position, effective pushing, slow descent, and a reassuring fetal heart rate. Analyze cues: the problem is descent, not rotation or perfusion. Generate solutions: squatting or a birth stool enlarges the pelvic outlet and uses gravity to promote descent during Stage 2. Take action: help the client into a supported squat or onto a birth stool. Evaluate outcomes: the station advances with the next pushing efforts.",
+        "incorrect": [
+          "Side-lying prevents vena cava compression and improves uteroplacental flow, but this client has no perfusion problem. It does little to enlarge the outlet or add gravity.",
+          "Hands-and-knees helps rotate an OP fetus to OA. This fetus is already LOA, so it targets the wrong problem.",
+          "This is close to the semi-reclined position in which descent has already stalled. It does not add gravity or outlet space."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching a client about pushing during the second stage of labor. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll wait until I feel a strong urge to bear down before I start pushing.\"",
+        "\"I'll take a deep breath and hold it tight while you count to 10 as I push.\"",
+        "\"I'll let air out slowly or grunt through my mouth while I'm pushing.\"",
+        "\"I'll push with each contraction and rest completely in between them.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client is restating pushing instructions. Analyze cues: the recommended technique is open-glottis pushing, where the client exhales or grunts while bearing down. Prolonged breath-holding (closed-glottis, Valsalva) is the statement that conflicts with this teaching. Take action: re-teach open-glottis pushing. Evaluate outcomes: during the next contraction the client pushes while exhaling instead of holding their breath.",
+        "incorrect": [
+          "This is correct. Pushing in response to the Ferguson reflex, the strong urge to bear down, is appropriate Stage 2 technique.",
+          "This is correct. Exhaling or grunting while bearing down is open-glottis pushing.",
+          "This is correct. Pushing with contractions and resting between them conserves energy and lets the uterus and fetus recover."
+        ]
+      }
+    },
+    {
+      "stem": "Five minutes after the birth of a newborn, the nurse is watching for placental separation. Which findings indicate that the placenta has separated? Select all that apply.",
+      "options": [
+        "A sudden gush of dark blood from the vagina",
+        "The umbilical cord retracts back toward the vaginal opening",
+        "The umbilical cord visibly lengthens outside the vagina",
+        "The uterus feels soft, broad, and flattened on palpation",
+        "The uterus becomes firm and globular",
+        "A steady trickle of bright red blood despite a firm uterus"
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: Stage 3 begins at the birth of the infant and usually ends within 5–30 minutes. Analyze cues: the signs of separation are a gush of dark blood, the cord lengthening outside the vagina, and the uterus becoming globular and firm. Take action: report the signs so the placenta can be delivered, then give the prescribed oxytocin and inspect the placenta for completeness.",
+        "incorrect": [
+          "Correct—a gush of dark blood is released as the placenta detaches from the uterine wall.",
+          "Incorrect—a detached placenta descends, so the cord lengthens. Retraction is the opposite of the expected cue.",
+          "Correct—visible lengthening of the cord shows the placenta has descended.",
+          "Incorrect—a soft, flat uterus is the opposite of the expected change. After separation the uterus becomes globular and firm.",
+          "Correct—a globular, firm uterus is a classic sign of separation.",
+          "Incorrect—continuous bright red bleeding with a firm uterus suggests a laceration, not separation. Separation produces a gush of dark blood."
+        ]
+      }
+    },
+    {
+      "stem": "After the birth of a newborn, the placenta delivers with the dull, rough, red maternal surface presenting first. Which nursing action is correct?",
+      "options": [
+        "Document a Duncan mechanism and inspect the placenta for completeness",
+        "Document a Schultze mechanism and inspect the placenta for completeness",
+        "Document a Duncan mechanism and notify the provider of an abnormal delivery",
+        "Document a Schultze mechanism; no further placental inspection is needed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the maternal side, dull, rough, and red, delivered first. Analyze cues: 'Dirty Duncan' is the maternal side first. 'Shiny Schultze' is the shiny fetal side first and is the more common mechanism. Generate solutions: whatever the mechanism, Stage 3 care includes inspecting the delivered placenta for completeness, because retained fragments can cause postpartum hemorrhage. Take action: document Duncan and inspect the placenta. Evaluate outcomes: the placenta is intact and the fundus stays firm.",
+        "incorrect": [
+          "The inspection is correct, but Schultze describes the shiny fetal side presenting first. This misclassifies the cue.",
+          "The classification is correct, but Duncan is a recognized variation of normal delivery, not an emergency. Notifying the provider of an abnormality without an intact-placenta check skips the needed action.",
+          "This is wrong twice: the mechanism is misclassified, and every placenta is inspected for completeness regardless of how it delivers."
+        ]
+      }
+    },
+    {
+      "stem": "A client received prophylactic oxytocin IM immediately after the birth of the newborn. Fifteen minutes after the placenta delivers, which assessment finding best indicates the medication is achieving its intended effect?",
+      "options": [
+        "The client reports strong cramping, and the fundus is soft 2 cm above the umbilicus",
+        "BP is 126/80 mm Hg and HR 82/min, and the pad is saturated in 15 minutes",
+        "The fundus is firm and midline at the umbilicus, with a small to moderate lochia flow",
+        "The fundus is firm and deviated to the right, with a moderate lochia flow"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: oxytocin is given right after fetal delivery to make the uterus contract and prevent postpartum hemorrhage. Evaluate outcomes: the effect shows in the uterus and the bleeding. A firm, midline fundus at the umbilicus with only a small to moderate lochia flow shows the uterus is contracting well and bleeding is controlled.",
+        "incorrect": [
+          "Cramping alone does not show effectiveness. A soft (boggy) fundus above the umbilicus means the uterus is not contracting well, which is a sign of treatment failure.",
+          "Normal vital signs can lag behind blood loss. Saturating a pad in 15 minutes is heavy bleeding, so the drug is not working. This evaluates the wrong cue.",
+          "Firmness is reassuring, but deviation to one side points to a distended bladder, which can stop the uterus from contracting fully. This is not the best evidence of a full effect."
+        ]
+      }
+    },
+    {
+      "stem": "Forty minutes after a vaginal birth, the nurse finds the client's fundus soft and boggy, 2 cm above the umbilicus and midline. Lochia is heavy with small clots. BP 118/74 mm Hg, HR 88/min. Which action should the nurse take first?",
+      "options": [
+        "Assist the client to the bathroom to empty their bladder",
+        "Massage the fundus until firm while supporting the lower uterine segment",
+        "Notify the provider that the client is hemorrhaging",
+        "Reassess the fundus, lochia, and vital signs in 15 minutes"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a boggy fundus above the umbilicus with heavy lochia and clots during Stage 4, the period of highest risk for postpartum hemorrhage. Analyze cues: uterine atony is the likely cause of the bleeding. Generate solutions: fundal massage is the immediate nursing intervention for a boggy fundus. Take action: massage until firm while supporting the lower segment with the other hand. Evaluate outcomes: the fundus firms, bleeding slows, and assessments continue every 15 minutes in the first hour.",
+        "incorrect": [
+          "Emptying the bladder helps when a full bladder pushes the uterus to one side. This fundus is midline, and getting the client to the bathroom delays treatment of active atony.",
+          "Notification may follow if massage fails, but the nurse can act on atony at once. Calling first delays the intervention that stops the bleeding.",
+          "Assessments every 15 minutes are the routine Stage 4 plan, but waiting 15 minutes with an atonic uterus and heavy bleeding is unsafe. This skips Take action."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is orienting a new graduate who is caring for a client in the first hour after a vaginal birth. Which statement by the new graduate indicates a need for further teaching?",
+      "options": [
+        "\"I'll apply an ice pack to the perineum to reduce swelling.\"",
+        "\"I'll keep the baby skin-to-skin and help with the first breastfeeding.\"",
+        "\"I'll check the bladder along with the fundus and lochia, because a full bladder can cause bleeding.\"",
+        "\"Since the fundus was firm at delivery, I'll check the fundus and vital signs every 30 minutes this hour.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the new graduate is describing Stage 4 care. Analyze cues: Stage 4 (the first 1–4 hours after birth) carries a high risk of postpartum hemorrhage. Fundus, lochia, vital signs, and bladder distention are assessed every 15 minutes for the first hour, whatever the fundus was like at delivery. Take action: correct the 30-minute plan. Evaluate outcomes: the new graduate documents assessments every 15 minutes.",
+        "incorrect": [
+          "This is appropriate. An ice pack to the perineum is a listed Stage 4 comfort intervention.",
+          "This is appropriate. Skin-to-skin contact and early breastfeeding are promoted in Stage 4.",
+          "This is appropriate. Bladder distention is part of the every-15-minute assessment because a full bladder interferes with uterine contraction."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is reviewing intrapartum antibiotic prophylaxis prescriptions for four clients whose 36-week vaginal-rectal swabs were positive for group B streptococcus (GBS). Which prescription should the nurse clarify with the provider?",
+      "options": [
+        "Penicillin G 5 million units IV, then 2.5 million units IV every 4 hours until delivery",
+        "Penicillin G 5 million units IV, then 3 million units IV every 4 hours until delivery",
+        "Penicillin G 5 million units IV, then 2.5 million units IV every 8 hours until delivery",
+        "Ampicillin IV per the GBS protocol, as an acceptable alternative to penicillin G"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: four GBS prophylaxis regimens. Analyze cues: the first-line regimen is penicillin G 5 million units IV as a loading dose, then 2.5–3 million units every 4 hours until delivery. Prioritize hypotheses: an 8-hour interval doubles the gap between doses and risks inadequate protection against early-onset neonatal GBS sepsis. Take action: clarify the interval before giving the maintenance doses.",
+        "incorrect": [
+          "The loading dose, maintenance dose, and 4-hour interval all match the protocol, so this prescription needs no clarification.",
+          "Three million units is within the 2.5–3 million unit maintenance range, and the interval is every 4 hours, so this prescription is appropriate.",
+          "Ampicillin is an acceptable alternative for GBS prophylaxis, so this prescription is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "A GBS-positive multiparous client arrives at 7 cm with contractions every 2–3 minutes. The client's previous labor lasted 3 hours. Penicillin G IV is prescribed per protocol. Which action should the nurse take first?",
+      "options": [
+        "Start an IV and give the penicillin G loading dose right away",
+        "Complete the admission history, then start the antibiotic",
+        "Collect a new vaginal-rectal swab to confirm GBS status before antibiotics",
+        "Hold the antibiotic, because birth will likely occur within 4 hours"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a positive GBS screen, rapid labor (7 cm, a multipara with a 3-hour previous labor). Analyze cues: prophylaxis is adequate only when antibiotic coverage starts at least 4 hours before birth. Prioritize hypotheses: with birth likely soon, every minute of delay reduces protection against early-onset neonatal GBS sepsis. Take action: start the IV and give the 5 million unit loading dose immediately. Evaluate outcomes: record the time of the first dose so the newborn team knows whether the 4-hour window was met.",
+        "incorrect": [
+          "The admission history matters, but it can be finished after the dose. Doing it first lets time pass from a 4-hour window that is already tight.",
+          "The client already has a positive 36-week screen, which is the basis for prophylaxis. Retesting delays treatment and adds no useful information.",
+          "Even if birth comes in under 4 hours, giving the antibiotic still provides some coverage. Withholding it misapplies the 4-hour rule, which sets the target for adequate prophylaxis, not a reason to skip the dose."
+        ]
+      }
+    }
+  ]
+}

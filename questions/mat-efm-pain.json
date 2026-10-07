@@ -1,0 +1,386 @@
+{
+  "topic": "mat-efm-pain",
+  "label": "Maternity: Fetal Monitoring & Labor Pain Management",
+  "questions": [
+    {
+      "stem": "A client at 39 weeks, dilated 5 cm with membranes ruptured 2 hours ago, is receiving oxytocin. External monitoring (ultrasound transducer and tocodynamometer) shows contractions every 2–3 minutes lasting 60–70 seconds, and the toco tracing peaks at about 80 on the paper scale. The provider asks the nurse whether the contractions are strong enough. Which response by the nurse is most accurate?",
+      "options": [
+        "The contractions are strong, because peaks near 80 on the toco tracing show adequate intensity",
+        "The toco shows frequency and duration reliably, but intensity has to be judged by palpating the fundus or measured with an IUPC",
+        "The contractions are probably mild, because the toco always reads lower than true intrauterine pressure",
+        "Intensity can be measured accurately by replacing the ultrasound transducer with a fetal scalp electrode"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the numbers come from an external tocodynamometer, and the membranes are ruptured with the cervix at 5 cm. Analyze cues: the toco is a pressure sensor on the abdomen. It records contraction frequency and duration but does not accurately measure contraction intensity, so the height of the tracing depends on belt tightness and maternal tissue, not uterine pressure. Generate solutions: intensity can be estimated by fundal palpation or measured exactly in Montevideo units with an intrauterine pressure catheter. Take action: report frequency and duration, palpate the fundus, and tell the provider an IUPC is an option because this client meets its requirements (ruptured membranes and adequate dilation).",
+        "incorrect": [
+          "This misreads the cue. The toco is an external pressure sensor and its peak height is not a true measure of intrauterine pressure, so 80 on the tracing cannot be reported as contraction strength.",
+          "This also treats the toco as a measure of intensity, just with a correction applied. The toco gives no reliable intensity information in either direction, so the nurse cannot conclude the contractions are mild.",
+          "The FSE is the internal device for the fetal heart rate. It gives precise beat-to-beat FHR but does not measure contractions at all. The IUPC is the internal device that measures contraction pressure."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews four prescriptions for internal fetal monitoring on the labor unit. Which prescription should the nurse question before carrying it out?",
+      "options": [
+        "Place an IUPC for a client dilated 6 cm whose membranes ruptured 3 hours ago, to measure Montevideo units during oxytocin augmentation",
+        "Apply a fetal scalp electrode for a client dilated 4 cm after amniotomy because the external tracing keeps losing the FHR",
+        "Apply a fetal scalp electrode for a client dilated 3 cm with intact, bulging membranes whose ultrasound signal is poor because of maternal obesity",
+        "Place an IUPC for a client dilated 7 cm with ruptured membranes whose contractions are difficult to palpate"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: every client has a reason for internal monitoring, but only one still has intact membranes. Analyze cues: internal EFM (both the FSE and the IUPC) requires ruptured membranes and enough cervical dilation (at least 1–2 cm) to reach the presenting part or the uterine cavity. Dilation of 3 cm is enough, but the electrode cannot be attached through intact membranes. Take action: question the prescription and clarify with the provider (for example, whether amniotomy is planned), and keep troubleshooting the external transducer in the meantime.",
+        "incorrect": [
+          "This client meets both requirements (ruptured membranes, adequate dilation), and measuring Montevideo units during augmentation is exactly what the IUPC is for. Nothing here needs to be questioned.",
+          "The amniotomy has ruptured the membranes and the cervix is dilated, so the FSE can be applied. A tracing that keeps dropping out is a valid reason to switch to precise beat-to-beat monitoring.",
+          "Ruptured membranes and 7 cm meet the requirements, and contractions that are hard to palpate are a good reason to measure intensity directly. This prescription is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 40 weeks has had ruptured membranes for 22 hours. Over the past 20 minutes the strip shows a baseline FHR of 170 bpm, moderate variability, and no decelerations. Maternal temperature is 38.4 °C (101.1 °F), HR 112/min, and the uterus is tender between contractions. No tocolytics have been given. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "The fetal tachycardia is most likely a response to maternal fever from possible chorioamnionitis, so the nurse reports the maternal and fetal findings to the provider",
+        "The fetal tachycardia is most likely a sympathomimetic drug effect, so the nurse checks the medication record for terbutaline",
+        "The baseline is at the upper end of normal for a term fetus, so the nurse continues routine monitoring",
+        "The tachycardia reflects acute umbilical cord compression, so the nurse repositions the client and checks for cord prolapse"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: baseline 170 bpm for more than 10 minutes, a maternal temperature of 38.4 °C with maternal tachycardia, a tender uterus, and membranes ruptured 22 hours. Analyze cues: a baseline above 160 bpm for 10 minutes or longer is fetal tachycardia, and maternal fever or infection (chorioamnionitis) is a leading cause. Prioritize hypotheses: with no terbutaline given and moderate variability, intrauterine infection is the explanation that fits every cue. Take action: notify the provider so the infection can be treated, and keep monitoring. Evaluate outcomes: the FHR baseline should fall back toward 110–160 as maternal fever is treated.",
+        "incorrect": [
+          "Terbutaline does cause fetal tachycardia, but the stem says no tocolytics were given. This hypothesis ignores the fever, maternal tachycardia, and uterine tenderness that point to infection.",
+          "This misreads the number. Normal baseline is 110–160 bpm, and 170 bpm for 20 minutes meets the definition of fetal tachycardia. Routine monitoring would miss a likely infection.",
+          "Cord compression shows up as abrupt variable decelerations, and severe or prolonged compression lowers the heart rate. It does not raise the baseline, and the strip has no decelerations."
+        ]
+      }
+    },
+    {
+      "stem": "A client dilated 7 cm received butorphanol 1 mg IV 30 minutes ago and is now drowsy. An hour ago the strip showed moderate variability with accelerations. The current strip shows a baseline FHR of 140 bpm, variability of 3–5 bpm, no accelerations, and no decelerations. Which action by the nurse is most appropriate?",
+      "options": [
+        "Begin intrauterine resuscitation and notify the provider to prepare for emergency cesarean birth",
+        "Classify the strip as Category I and reduce the frequency of strip evaluation",
+        "Administer naloxone to the client to reverse the opioid and restore fetal heart rate variability",
+        "Interpret the minimal variability as a likely opioid or fetal sleep effect, continue close monitoring, and reassess for the return of moderate variability"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: variability of 3–5 bpm (minimal), a normal baseline, no decelerations, a reassuring strip an hour ago, and an opioid given 30 minutes ago. Analyze cues: minimal variability can mean a fetal sleep cycle, maternal sedation, or early hypoxia, and decreased FHR variability is an expected side effect of systemic opioids. Prioritize hypotheses: with no decelerations and a normal baseline right after butorphanol, a drug or sleep effect is most likely, but this is Category II and needs ongoing evaluation. Take action: keep monitoring continuously and reassess. Evaluate outcomes: moderate variability (6–25 bpm) should return as the drug wears off. If minimal variability persists or decelerations appear, escalate.",
+        "incorrect": [
+          "This jumps past Analyze cues. Minimal variability alone, right after an opioid and with no decelerations, is Category II and not an emergency. Absent variability with recurrent decelerations is the Category III pattern that calls for this response.",
+          "Category I requires moderate variability. A variability of 3–5 bpm is minimal, which makes this Category II, so it needs closer evaluation, not less.",
+          "Naloxone is for opioid-induced respiratory depression in the mother or newborn. A drowsy client with an expected drug effect on the strip does not need reversal, and reversal would also remove her pain relief."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 30 weeks is placed on the monitor in triage for decreased fetal movement. Over 20 minutes the strip shows a baseline FHR of 145 bpm, moderate variability, no decelerations, and two accelerations that each rise 12 bpm above baseline and last 14 seconds. Which conclusion is correct?",
+      "options": [
+        "The accelerations fall short of the 15 × 15 criteria, so the tracing should be treated as Category II",
+        "The rises are too small to be accelerations, so the nurse should begin intrauterine resuscitation",
+        "The accelerations suggest developing fetal tachycardia, so the nurse should check the client's temperature",
+        "The accelerations meet the criteria for this gestational age and are reassuring of fetal oxygenation"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: gestational age of 30 weeks, and accelerations of 12 bpm lasting 14 seconds. Analyze cues: before 32 weeks an acceleration only has to rise at least 10 bpm for at least 10 seconds (the 10 × 10 rule). The 15 × 15 rule applies from 32 weeks on. Prioritize hypotheses: these accelerations qualify, and with a normal baseline and moderate variability the strip is reassuring and points away from metabolic acidemia. Take action: report the reassuring findings and continue the triage evaluation.",
+        "incorrect": [
+          "This applies the term criteria to a preterm fetus. At 30 weeks the 10 × 10 rule is used, so these rises count as accelerations. With a normal baseline, moderate variability, and no decelerations, the strip is Category I.",
+          "This misreads the cue and then overreacts. The rises meet the preterm criteria, and nothing on the strip (no decelerations, moderate variability) calls for resuscitation.",
+          "An acceleration is a brief, abrupt rise that returns to baseline. Tachycardia is a baseline above 160 bpm for at least 10 minutes. A baseline of 145 is normal."
+        ]
+      }
+    },
+    {
+      "stem": "A client dilated 8 cm has a strip showing a baseline FHR of 130 bpm with moderate variability and occasional accelerations. With each contraction the FHR gradually falls to 115 bpm, reaches its lowest point at the peak of the contraction, and returns to baseline as the contraction ends. Which action should the nurse take?",
+      "options": [
+        "Turn the client to a lateral position and increase the IV infusion rate",
+        "Continue monitoring and document early decelerations caused by fetal head compression",
+        "Perform a sterile vaginal examination to check for umbilical cord prolapse",
+        "Turn off the oxytocin and apply oxygen at 10 L/min by non-rebreather mask"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: gradual, symmetrical decelerations whose lowest point matches the peak of each contraction (a mirror image), with a normal baseline and moderate variability, at 8 cm. Analyze cues: in VEAL CHOP, early decelerations come from head compression as the fetus descends. They are benign. Prioritize hypotheses: timing is the key discrimination. The nadir is at the contraction peak, not after it, so this is not a late deceleration. Take action: no intervention is needed. Continue monitoring and document. The strip is Category I, because early decelerations may be present in Category I.",
+        "incorrect": [
+          "These are intrauterine resuscitation steps for late or severe variable decelerations. Early decelerations are benign head-compression changes and need no intervention.",
+          "Checking for prolapse is the action for variable decelerations, which are abrupt and V-, W-, or U-shaped. These decelerations are gradual and mirror the contraction, which points to head compression, not cord compression.",
+          "This treats the strip as placental insufficiency. That would be correct if the nadir came after the contraction peak, but here it matches the peak. Stopping oxytocin for a benign pattern could stall a labor that is progressing."
+        ]
+      }
+    },
+    {
+      "stem": "A client in active labor is receiving oxytocin. Over the last 5 contractions, the FHR has gradually decreased from a baseline of 150 bpm to 135 bpm. The lowest point occurs about 30 seconds after each contraction peaks, and the FHR returns to baseline about 40 seconds after each contraction ends. Variability is 4 bpm. Which interpretation should guide the nurse's response?",
+      "options": [
+        "Early decelerations from head compression, requiring continued monitoring only",
+        "Variable decelerations from cord compression, requiring repositioning and a check for cord prolapse",
+        "Late decelerations from placental insufficiency, requiring intrauterine resuscitation",
+        "Early decelerations with reduced variability from a fetal sleep cycle, requiring reassessment in 30 minutes"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: gradual decelerations, a nadir about 30 seconds after the contraction peak, slow recovery after the contraction ends, recurrence with every contraction, minimal variability, and oxytocin running. Analyze cues: a gradual shape alone does not separate early from late decelerations. Timing does. A nadir after the peak with slow recovery defines a late deceleration, which VEAL CHOP links to placental insufficiency. Prioritize hypotheses: recurrent lates mean the fetus is not tolerating contractions. Take action: begin intrauterine resuscitation now (lateral position, LR bolus, stop oxytocin, oxygen if indicated, notify the provider). Evaluate outcomes: watch for the decelerations to resolve and for moderate variability to return.",
+        "incorrect": [
+          "The gradual shape fits both patterns, but early decelerations reach their nadir at the contraction peak and recover as the contraction ends. Here the nadir is 30 seconds after the peak, so treating it as benign misses placental insufficiency.",
+          "Variable decelerations are abrupt (less than 30 seconds to the nadir) and irregular in shape and timing. These are gradual and repeat in the same place with every contraction.",
+          "This misreads both the timing and the variability. Minimal variability combined with recurrent late decelerations is not a sleep pattern, and waiting 30 minutes delays resuscitation."
+        ]
+      }
+    },
+    {
+      "stem": "Ten minutes after spontaneous rupture of membranes, a client dilated 6 cm has a strip with a baseline FHR of 140 bpm and moderate variability. The FHR now drops abruptly to 95 bpm, reaching the lowest point within 10 seconds. Each drop lasts 40–60 seconds, has a V or W shape, and occurs at varying times, some during contractions and some between them. Which action should the nurse take first?",
+      "options": [
+        "Document early decelerations and continue to monitor the tracing",
+        "Apply oxygen and prepare to insert an IUPC to quantify contraction strength",
+        "Increase the rate of the maintenance D5LR infusion to improve placental perfusion",
+        "Reposition the client side to side and perform a sterile vaginal examination to assess for cord prolapse"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: abrupt drops (less than 30 seconds to the nadir) of 45 bpm lasting 40–60 seconds, V and W shapes, irregular timing, right after membranes ruptured. Analyze cues: these are variable decelerations, which VEAL CHOP links to cord compression. Rupture of membranes raises concern that the cord has prolapsed. Generate solutions: repositioning takes pressure off the cord, and a vaginal exam rules prolapse in or out. Take action: reposition and examine, and ask about amnioinfusion if it is ordered and the pattern persists. Evaluate outcomes: the decelerations should become less deep or resolve after the position change.",
+        "incorrect": [
+          "Early decelerations are gradual and mirror each contraction. These are abrupt, irregular, and V- or W-shaped, so labeling them benign misses possible cord compression or prolapse.",
+          "The problem is cord compression, not contraction strength. An IUPC does not relieve pressure on the cord, and it delays the position change and prolapse check.",
+          "Improving placental perfusion targets late decelerations, not cord compression. Also, any fluid bolus during intrauterine resuscitation must be non-dextrose isotonic crystalloid such as plain LR, so D5LR is the wrong fluid."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 38 weeks in early labor has received no medications. For the past 40 minutes the strip shows a baseline FHR of 150 bpm, variability of 3–4 bpm, no decelerations, and no accelerations, including after fetal scalp stimulation. How should the nurse classify this tracing?",
+      "options": [
+        "Category I, because the baseline is normal and there are no decelerations",
+        "Category II, because minimal variability with no accelerations, even after stimulation, needs ongoing evaluation",
+        "Category III, because the absence of accelerations predicts fetal acidemia",
+        "Category I, because minimal variability is expected during a fetal sleep cycle"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: normal baseline, variability of 3–4 bpm (minimal) for 40 minutes, no medication to explain it, and no accelerations even when the scalp is stimulated. Analyze cues: Category I requires moderate variability. Category III requires absent variability with recurrent decelerations or bradycardia, or a sinusoidal pattern. Minimal variability and no induced accelerations both fall into Category II. Prioritize hypotheses: a sleep cycle is possible, but with no sedation and no response to stimulation, early hypoxia must be considered. Take action: notify the provider, continue evaluation, and use intrauterine resuscitation measures as indicated.",
+        "incorrect": [
+          "This misses the variability criterion. A normal baseline and no decelerations are not enough for Category I. Variability must be moderate (6–25 bpm), and 3–4 bpm is minimal.",
+          "This overcalls the strip. Missing accelerations do not make a tracing Category III. Category III requires absent (not minimal) variability with recurrent decelerations or bradycardia, or a sinusoidal pattern.",
+          "A sleep cycle is one possible cause of minimal variability, but it does not change the classification. Minimal variability is Category II, and the lack of response to stimulation makes it harder to dismiss."
+        ]
+      }
+    },
+    {
+      "stem": "A labor nurse receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "Dilated 6 cm: baseline FHR 145 bpm, absent variability, recurrent late decelerations with most contractions",
+        "Dilated 5 cm: baseline FHR 135 bpm, moderate variability, early decelerations with each contraction",
+        "Dilated 7 cm: baseline FHR 155 bpm, minimal variability 20 minutes after IV fentanyl, no decelerations",
+        "Dilated 8 cm: baseline FHR 140 bpm, moderate variability, intermittent variable decelerations that resolve with a position change"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: absent variability plus recurrent late decelerations. Analyze cues: under the NICHD system this is Category III, which predicts abnormal fetal acid-base status (hypoxia or acidemia). Prioritize hypotheses: this is the only fetus showing evidence of current compromise, and every other strip is Category I or Category II. Take action: start intrauterine resuscitation immediately and prepare for prompt delivery if the pattern does not correct.",
+        "incorrect": [
+          "Moderate variability with early decelerations is Category I. Head compression is benign and needs only routine monitoring.",
+          "Minimal variability is Category II and needs evaluation, but it is explained by the recent opioid and there are no decelerations. It is lower priority than Category III.",
+          "Intermittent variable decelerations with moderate variability that respond to repositioning show a fetus that is tolerating labor. This client needs follow-up, but not before the Category III strip."
+        ]
+      }
+    },
+    {
+      "stem": "A client dilated 6 cm is receiving oxytocin. The strip now shows recurrent late decelerations with minimal variability. Maternal BP is 112/70 mm Hg and HR is 88/min. Which actions should the nurse take? Select all that apply.",
+      "options": [
+        "Turn the client to the left lateral position",
+        "Increase the rate of the lactated Ringer's infusion as a bolus",
+        "Discontinue the oxytocin infusion",
+        "Apply oxygen at 2 L/min by nasal cannula",
+        "Infuse a bolus of D5W to provide energy for the fetus",
+        "Administer ephedrine 10 mg IV"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: recurrent late decelerations with minimal variability during an oxytocin infusion. Analyze cues: late decelerations mean placental insufficiency. Generate solutions and Take action: perform the intrauterine resuscitation steps that apply at the same time: lateral position, LR (non-dextrose) bolus, stop oxytocin, oxygen at 10 L/min by non-rebreather if indicated, and notify the provider. Ephedrine is reserved for maternal hypotension, which this client does not have. Evaluate outcomes: watch for the late decelerations to resolve and for moderate variability to return.",
+        "incorrect": [
+          "Correct—lateral positioning relieves vena cava compression and improves uteroplacental blood flow.",
+          "Correct—a non-dextrose isotonic bolus expands intravascular volume and improves placental perfusion.",
+          "Correct—stopping the uterine stimulant reduces contraction frequency and gives the placenta more time to perfuse between contractions.",
+          "Incorrect—when supplemental oxygen is indicated during intrauterine resuscitation, it is given at 10 L/min by non-rebreather mask. A low-flow cannula is the wrong dose.",
+          "Incorrect—the resuscitation bolus must be non-dextrose isotonic crystalloid. D5W is not the fluid for volume expansion.",
+          "Incorrect—ephedrine corrects maternal hypotension, especially after an epidural. This client's BP is 112/70, so the indication is not present. Giving it anyway shows the medication was chosen without checking the second cue."
+        ]
+      }
+    },
+    {
+      "stem": "Fifteen minutes after an epidural is placed, a client lying supine reports nausea and lightheadedness. BP is 84/46 mm Hg (baseline 122/76). For the past 10 minutes the FHR baseline has been 100 bpm, down from 140 bpm, with minimal variability. Which action should the nurse take first?",
+      "options": [
+        "Administer ephedrine 5–10 mg IV as prescribed",
+        "Ask the anesthesia provider to stop the epidural infusion",
+        "Prepare the client for emergency cesarean birth because of fetal bradycardia",
+        "Turn the client to a lateral position with a wedge under one hip"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a sharp BP drop after epidural placement, the client lying supine, and a new FHR baseline of 100 bpm (bradycardia) with minimal variability. Analyze cues: hypotension is the most common epidural complication, caused by sympathetic blockade and vasodilation. Lying supine adds vena cava compression, and maternal hypotension and spinal anesthesia are causes of fetal bradycardia. Prioritize hypotheses: low uteroplacental perfusion from maternal hypotension is causing the fetal change. Take action: repositioning is the fastest step and needs no prescription. Follow it at once with the LR bolus, ephedrine as ordered, and notifying the provider. Evaluate outcomes: BP and FHR baseline should return toward normal.",
+        "incorrect": [
+          "Ephedrine is the right drug for epidural-related hypotension, but it is not the first step. Taking the client off her back takes seconds and relieves vena cava compression while the medication is prepared.",
+          "Stopping the infusion does not reverse the existing sympathetic block or raise the BP quickly. Correcting perfusion through position, fluids, and a vasopressor is what helps the fetus now.",
+          "Preparing for delivery is the last resuscitation step, used if the pattern fails to resolve. The cause here, maternal hypotension, is quickly reversible, so correct it first."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hypotension after an epidural is turned to a lateral position, given an LR bolus, and given ephedrine 10 mg IV. Which finding 10 minutes later best shows that the interventions were effective?",
+      "options": [
+        "The client rates contraction pain 0/10 and says her legs feel heavy",
+        "BP 100/62 mm Hg and FHR baseline 105 bpm with minimal variability",
+        "BP 116/70 mm Hg and FHR baseline 135 bpm with moderate variability",
+        "Maternal HR 126/min and the client reports a pounding heartbeat"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the treatment had two goals, to correct maternal hypotension and to restore uteroplacental perfusion. A BP back near baseline shows that ephedrine and fluid reversed the vasodilation. An FHR baseline back within 110–160 with moderate variability (6–25 bpm) shows the fetus is well oxygenated again. Only this option shows both the maternal and the fetal goal were met.",
+        "incorrect": [
+          "This shows the epidural is working as an anesthetic. It says nothing about whether the hypotension, or its effect on the fetus, has been corrected.",
+          "The BP has improved, but the FHR is still below 110 with minimal variability, so the fetal goal has not been met. The nurse should continue resuscitation and notify the provider instead of documenting success.",
+          "These are expected sympathomimetic side effects of ephedrine. They show the drug was absorbed but not that BP or fetal status improved."
+        ]
+      }
+    },
+    {
+      "stem": "A client with an IUPC has 4 contractions in a 10-minute window, with peak pressures of 70, 75, 65, and 80 mm Hg. Resting tone between contractions is 15 mm Hg. How many Montevideo units (MVUs) should the nurse document for this window?",
+      "options": [
+        "290 MVUs",
+        "275 MVUs",
+        "230 MVUs",
+        "57.5 MVUs"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: four peak pressures in 10 minutes and a resting tone of 15 mm Hg from the IUPC. Analyze cues: MVUs add up the intensity of each contraction above resting tone over 10 minutes, so the resting tone is subtracted from every peak. Take action (calculate): (70 − 15) + (75 − 15) + (65 − 15) + (80 − 15) = 55 + 60 + 50 + 65 = 230 MVUs. Only an IUPC can give this value, because the external toco does not measure intensity.",
+        "incorrect": [
+          "This adds the peak pressures (70 + 75 + 65 + 80) without subtracting resting tone, so it overstates the contractions' work.",
+          "This subtracts resting tone only once from the total instead of from each contraction. Each contraction's intensity is measured above the resting tone.",
+          "This is the average intensity of one contraction (230 ÷ 4). MVUs are the sum over the 10-minute window, not the average."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews four PRN opioid requests on the labor unit. Which request should the nurse question before giving the medication?",
+      "options": [
+        "Nalbuphine 10 mg IV for a client dilated 6 cm with contractions every 3 minutes who rates pain 8/10",
+        "Butorphanol 1 mg IV for a client dilated 10 cm at +2 station who has a strong urge to push",
+        "Fentanyl 50 mcg IV for a client dilated 5 cm who wants relief while waiting for an epidural",
+        "Meperidine 25 mg IV for a client dilated 7 cm who is coping poorly despite comfort measures"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: complete dilation, +2 station, and an urge to push, meaning birth is near. Analyze cues: systemic opioids cross the placenta. They are best given in the active phase of stage 1, and given close to delivery or in stage 2 they can cause neonatal respiratory depression at birth. Prioritize hypotheses: the newborn is at risk because peak drug effect would come right around delivery. Take action: hold the dose and clarify with the provider, offer non-pharmacologic support for pushing, and make sure naloxone and neonatal resuscitation equipment are ready.",
+        "incorrect": [
+          "Six centimeters with regular contractions is active-phase stage 1, which is the best time for a systemic opioid. This request is appropriate.",
+          "Five centimeters is active labor, and a short-acting opioid while the client waits for an epidural is reasonable. Nothing here suggests delivery is near.",
+          "Seven centimeters is still stage 1 active labor, and non-pharmacologic measures have already been tried. The timing is acceptable, so this request does not need to be questioned."
+        ]
+      }
+    },
+    {
+      "stem": "A client on methadone maintenance for opioid use disorder received IV fentanyl 45 minutes before an unexpectedly rapid birth. The newborn has poor tone and shallow, irregular respirations. The provider prescribes naloxone for the newborn. Which action should the nurse take?",
+      "options": [
+        "Hold the naloxone, clarify the prescription with the provider, and support the newborn's ventilation",
+        "Give the naloxone IM as prescribed to reverse the fentanyl effect",
+        "Give the naloxone IV through the umbilical vein for a faster onset",
+        "Give half the prescribed dose of naloxone to lower the risk of withdrawal"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: neonatal respiratory depression after a maternal opioid given close to birth, in a newborn exposed to methadone throughout pregnancy. Analyze cues: naloxone is the usual reversal for opioid-induced respiratory depression in mother or newborn, but it must not be given to opioid-dependent individuals because it causes immediate withdrawal. A newborn exposed to chronic methadone in utero is opioid-dependent. Prioritize hypotheses: abrupt withdrawal, which can include seizures, is a greater danger than supporting breathing. Take action: support ventilation according to neonatal resuscitation and question the naloxone prescription. Evaluate outcomes: watch for effective breathing, improving tone, and a stable heart rate.",
+        "incorrect": [
+          "This would be the right action for a newborn without chronic opioid exposure. The second cue, maternal methadone maintenance, makes the newborn opioid-dependent, so naloxone would cause sudden withdrawal.",
+          "Changing the route makes the drug act faster but does not remove the contraindication. A faster onset would only bring on withdrawal more quickly.",
+          "A smaller dose is still an opioid antagonist in an opioid-dependent newborn and can still cause withdrawal. The nurse also cannot change a prescribed dose on their own. The safe action is to support ventilation and clarify the order."
+        ]
+      }
+    },
+    {
+      "stem": "A client dilated 5 cm requests an epidural. The nurse reviews the pre-procedure data. Which finding should the nurse report to the anesthesia provider before placement?",
+      "options": [
+        "A 1,000 mL lactated Ringer's bolus completed 10 minutes ago",
+        "Platelet count of 82,000/mm³",
+        "BP 128/78 mm Hg and FHR baseline 140 bpm with moderate variability",
+        "Contractions every 3 minutes with pain rated 9/10"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a platelet count of 82,000/mm³. Analyze cues: the pre-epidural workflow requires a platelet count above 100,000/mm³, because a low count raises the risk of bleeding into the epidural space during needle placement. Prioritize hypotheses: this is the only finding that could make the procedure unsafe. Take action: report it before placement so the provider can decide whether to proceed and the client can be offered other pain relief if needed.",
+        "incorrect": [
+          "This is the expected pre-procedure step. A 500–1,000 mL bolus is given before placement to offset the hypotension caused by sympathetic blockade. It is done, not a problem.",
+          "These normal baseline maternal vital signs and a Category I FHR are what should be documented before placement. Nothing here needs to be reported.",
+          "Strong active-labor contractions and severe pain are the reason for the epidural, not a contraindication to it."
+        ]
+      }
+    },
+    {
+      "stem": "An epidural has just been placed for a client in active labor. Which actions should the nurse include in the client's care? Select all that apply.",
+      "options": [
+        "Monitor blood pressure every 2–5 minutes for the first 30 minutes",
+        "Position the client supine and flat so the medication spreads evenly",
+        "Position the client laterally with a wedge under one hip",
+        "Assess for bladder distention and catheterize as needed",
+        "Discontinue continuous EFM once the client is comfortable",
+        "Assist the client to walk to the bathroom to void every 2 hours"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions and Take action: post-epidural care targets the expected risks. Frequent BP checks (every 2–5 minutes for 30 minutes) and lateral positioning with a wedge address hypotension. Bladder assessment and catheterization address urinary retention. Continuous EFM watches the fetal response. Evaluate outcomes: stable BP, a reassuring FHR, and an empty bladder.",
+        "incorrect": [
+          "Correct—hypotension is the most common complication and usually appears soon after placement, so frequent BP checks catch it early.",
+          "Incorrect—the supine position compresses the vena cava and worsens epidural hypotension. The client should be positioned laterally with a wedge.",
+          "Correct—lateral positioning prevents vena cava compression and supports uteroplacental blood flow.",
+          "Correct—the epidural reduces the sensation of a full bladder and can cause urinary retention, and a distended bladder can block fetal descent.",
+          "Incorrect—continuous EFM is part of post-epidural care, because maternal hypotension can quickly reduce fetal oxygenation.",
+          "Incorrect—voiding should be checked, but sensory and motor block make walking unsafe. Bladder emptying is managed with a catheter as needed."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches a client about the epidural she has requested. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"If the medicine in my epidural makes my skin itch, that's a side effect I should tell you about.\"",
+        "\"I may need a catheter, because I might not feel when my bladder is full.\"",
+        "\"The pushing stage should go faster with the epidural, since I won't be tensing up from the pain.\"",
+        "\"If I get a bad headache after delivery that's worse when I sit up, I should let the nurse know.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes (of teaching): a prolonged second stage of labor is a known epidural side effect, because the client feels less of the urge and sensation to push. Expecting a faster second stage is the misunderstanding to correct. The client should know she may need coaching on when and how to push. The other statements correctly describe epidural risks: pruritus, urinary retention, and post-dural puncture headache.",
+        "incorrect": [
+          "This is correct. Pruritus is a common side effect of the opioid (such as fentanyl) in the epidural solution.",
+          "This is correct. The epidural dulls bladder sensation and can cause urinary retention, so the bladder is checked and catheterized as needed.",
+          "This is correct. A post-dural puncture headache can happen if the dura is accidentally punctured, and the client should report it."
+        ]
+      }
+    },
+    {
+      "stem": "A client dilated 2 cm in early labor with mild contractions has back pain from an occiput posterior fetal position. The nurse teaches the client and partner about comfort measures. Which statement by the partner indicates a need for further teaching?",
+      "options": [
+        "\"She should ask for IV pain medicine now, while she's at 2 cm, so she relaxes and labor goes faster.\"",
+        "\"Pressing firmly on her lower back during contractions should help, because the baby is facing up.\"",
+        "\"Standing in a warm shower is something she can try when the contractions get stronger.\"",
+        "\"Changing positions often and rocking on the birthing ball can help her cope.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes (of teaching): systemic opioids are best given in the active phase of stage 1. Given too early (before about 4 cm), they can slow or stop labor progress, which is the opposite of what the partner expects. In early labor, the plan is non-pharmacologic comfort measures, with opioids saved for active labor. The other statements describe correct cutaneous, hydrotherapy, and positioning strategies.",
+        "incorrect": [
+          "This is correct. Counterpressure is the recommended cutaneous strategy for back labor from an occiput posterior position.",
+          "This is correct. Hydrotherapy (shower or tub) is a cutaneous comfort strategy.",
+          "This is correct. Frequent position changes and the birthing ball are positioning strategies that support comfort and descent."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "topic": "mat-foundations",
+  "label": "Maternity: Maternal Health, Roles & Fetal Development",
+  "questions": [
+    {
+      "stem": "A perinatal nurse on a hospital maternal mortality review committee is screening four recent deaths. Which death meets the definition of maternal mortality?",
+      "options": [
+        "A client who died in a motor vehicle crash 2 weeks after a vaginal birth",
+        "A client who died of peripartum cardiomyopathy 10 weeks after a cesarean birth",
+        "A client who was fatally assaulted by a partner at 30 weeks' gestation",
+        "A client who died of a pulmonary embolism 3 weeks after a cesarean birth"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: for each death, note the timing relative to the end of pregnancy and whether the cause was related to the pregnancy. Analyze cues: maternal mortality requires both conditions. The death must occur during pregnancy or within 42 days of its end, and the cause must be related to or aggravated by the pregnancy or its management. Accidental and incidental causes are excluded. Prioritize hypotheses: a postpartum PE at 3 weeks is inside the 42-day window and comes from a pregnancy-related chain of events (pregnancy and cesarean birth raise clotting risk). Take action: classify this death as maternal mortality. It is also pregnancy-related and pregnancy-associated.",
+        "incorrect": [
+          "The timing fits (2 weeks), but a motor vehicle crash is an accidental cause, and the maternal mortality definition excludes accidental causes. This death is pregnancy-associated only.",
+          "Peripartum cardiomyopathy is a pregnancy complication, so this death is pregnancy-related. It occurred after 42 days, however, so it falls outside the maternal mortality window. This answer analyzes the cause correctly but misses the time limit.",
+          "Homicide during pregnancy is counted as pregnancy-associated, because that category includes any cause. It is not maternal mortality, because the cause is incidental to the pregnancy."
+        ]
+      }
+    },
+    {
+      "stem": "A client dies of peripartum cardiomyopathy 8 weeks after giving birth. A nursing student preparing a case presentation asks how the death will be classified. Which response by the nurse is accurate?",
+      "options": [
+        "It is pregnancy-associated and pregnancy-related, but it falls outside the definition of maternal mortality",
+        "It is pregnancy-associated only, because the death happened after the 6-week postpartum period ended",
+        "It is maternal mortality, because the cardiomyopathy was caused by the physiologic effects of pregnancy",
+        "It is not counted in pregnancy surveillance, because the client was no longer pregnant at the time of death"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the death occurred 8 weeks (56 days) postpartum, and the cause was a cardiovascular complication of pregnancy. Analyze cues: pregnancy-associated covers any death within 1 year, and pregnancy-related covers a death within 1 year caused by a pregnancy complication or a chain of events started by pregnancy. Maternal mortality also requires a pregnancy-related cause, but only within 42 days. Prioritize hypotheses: the cause meets the pregnancy-related definition, and the timing is past 42 days but within 1 year. Take action: teach that the death is pregnancy-associated and pregnancy-related but is not maternal mortality. This is also why cardiovascular conditions appear among the leading causes of pregnancy-related death.",
+        "incorrect": [
+          "Passing 42 days removes the death from maternal mortality, not from pregnancy-related. The pregnancy-related window is 1 year, and a cardiomyopathy caused by pregnancy meets the cause criterion.",
+          "The cause is pregnancy-related, but maternal mortality is limited to 42 days after the end of pregnancy. At 56 days this death falls outside that window.",
+          "Both pregnancy-associated and pregnancy-related surveillance extend 1 year after the end of pregnancy, so a death at 8 weeks is counted."
+        ]
+      }
+    },
+    {
+      "stem": "A labor and delivery nurse is completing a quality-improvement audit of severe maternal morbidity (SMM). Which client outcome should the nurse flag as SMM?",
+      "options": [
+        "A client with a postpartum hemorrhage that resolved with fundal massage and IV oxytocin",
+        "A client who needed an unplanned cesarean birth for a nonreassuring fetal heart rate",
+        "A client with a postpartum hemorrhage who received 4 units of packed RBCs and was admitted to the ICU",
+        "A client with severe perineal pain who needed IV opioids for the first 24 hours after birth"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: transfusion of several units and an ICU admission after birth. Analyze cues: SMM means unexpected outcomes of labor and delivery that cause significant short- or long-term consequences, and the outline's examples are blood transfusion, hysterectomy, and ICU admission. Prioritize hypotheses: this is the only outcome that includes those markers. Take action: flag it as SMM for review, because tracking SMM helps identify preventable harm before it progresses to death.",
+        "incorrect": [
+          "This is maternal morbidity, a pregnancy-related condition with an adverse effect. It resolved with first-line measures, though, and needed no transfusion, hysterectomy, or ICU care, so it does not meet the SMM threshold.",
+          "An unplanned cesarean is a surgical intervention for a fetal indication. It does not by itself produce the significant maternal consequences that define SMM.",
+          "Significant pain is a morbidity that needs good management. Short-term IV analgesia is not the life-threatening, consequence-producing kind of outcome counted as SMM."
+        ]
+      }
+    },
+    {
+      "stem": "An infant born at 36 weeks' gestation is discharged home and dies at 40 days of age. The clinic nurse is completing the county's vital statistics review. How should the nurse classify this death?",
+      "options": [
+        "As neonatal mortality, because the infant was born preterm",
+        "As both neonatal and infant mortality, because the death occurred within the first 2 months",
+        "As fetal death, because the infant was born before 37 weeks' gestation",
+        "As infant mortality, but not neonatal mortality"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a live-born infant who died at day 40. Analyze cues: neonatal mortality covers deaths in the first 28 days of life, and infant mortality covers deaths in the first 365 days. Gestational age at birth does not change either definition. Take action: count the death as infant mortality only, because day 40 is past the 28-day neonatal window but within the first year.",
+        "incorrect": [
+          "Being born preterm does not make a death neonatal. Neonatal mortality is defined only by age at death (within 28 days), and this infant lived to day 40. This answer misreads the cue.",
+          "Every neonatal death is also an infant death, but not the reverse. Day 40 is past the 28-day neonatal cutoff, so the death is counted as infant mortality only.",
+          "This infant was born alive and lived 40 days, so it cannot be a fetal death. Preterm describes gestational age at birth, not whether the birth was live."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn is born at 38 weeks 4 days' gestation and weighs 5 lb 5 oz (2,410 g). How should the nurse document the newborn's classification?",
+      "options": [
+        "Preterm and low birth weight",
+        "Early term and low birth weight",
+        "Full term and low birth weight",
+        "Early term and normal birth weight"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: gestational age 38+4 and weight 2,410 g. Analyze cues: early term is 37+0 through 38+6, and full term starts at 39+0. Low birth weight is under 2,500 g (5 lb 8 oz) regardless of gestational age. Take action: document the newborn as early term and LBW. Evaluate outcomes: the LBW label should prompt closer monitoring (for example, of temperature and glucose) even though the infant is not preterm.",
+        "incorrect": [
+          "Preterm is birth before 37+0. At 38+4 this infant is past that cutoff. Mixing up the two labels misreads the gestational age cue.",
+          "Full term starts at 39 weeks 0 days. At 38+4 the infant is still early term.",
+          "2,410 g (5 lb 5 oz) is under the 2,500 g (5 lb 8 oz) cutoff, so it is low birth weight. LBW is defined by weight alone, whatever the gestational age."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a prenatal class about gestational age classifications. Which statement by a pregnant client indicates a need for further teaching?",
+      "options": [
+        "\"If my baby is born at 37 weeks and 0 days, my baby will not be considered preterm.\"",
+        "\"Full term doesn't begin until 39 weeks, so a scheduled birth before then should have a medical reason.\"",
+        "\"If I'm still pregnant at 41 weeks and 3 days, my pregnancy will be called postterm.\"",
+        "\"My baby could be born at full term and still be classified as low birth weight.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client calls 41+3 'postterm.' Analyze cues: 41+0 through 41+6 is late term, and postterm starts at 42+0. Take action: correct the misunderstanding, because the label affects what the client should expect about monitoring and possible induction. Evaluate outcomes: the teaching has worked when the client can say that 41 weeks is late term and 42 weeks or later is postterm.",
+        "incorrect": [
+          "This statement is accurate. Preterm is birth before 37+0, so a birth at 37+0 is early term.",
+          "This statement is accurate. Full term is 39+0 through 40+6, and births before 39 weeks are early term. Knowing this helps the client understand why an elective birth is not scheduled earlier without a reason.",
+          "This statement is accurate. LBW (under 2,500 g) is defined regardless of gestational age, so a full-term newborn can still be LBW."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is preparing discharge teaching for a postpartum client. Most pregnancy-related deaths in the U.S. are preventable. Which findings should the nurse teach the client to report right away? Select all that apply.",
+      "options": [
+        "Chest pain or shortness of breath that is new or getting worse",
+        "Soaking a pad in an hour or less, or passing large clots",
+        "A temperature of 100.4°F (38°C) or higher with a foul-smelling discharge",
+        "Thoughts of harming yourself or feeling unable to care for yourself",
+        "Breasts that feel full and firm on day 3 after birth",
+        "Mild afterpains during breastfeeding in the first few days"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the leading causes of pregnancy-related death are cardiovascular conditions, infection/sepsis, hemorrhage, embolism, and mental health conditions. Over 80% of these deaths are preventable, so discharge teaching should target an early warning sign for each cause. Evaluate outcomes: the client can name which symptoms need immediate care and which are expected postpartum changes.",
+        "incorrect": [
+          "Correct—chest pain or dyspnea can signal a cardiovascular condition or an embolism, which are both leading causes of pregnancy-related death.",
+          "Correct—heavy bleeding signals hemorrhage, a leading and highly preventable cause of death.",
+          "Correct—fever with foul-smelling discharge suggests infection that can progress to sepsis.",
+          "Correct—mental health conditions, including suicide, are a leading cause of pregnancy-related death. Self-harm thoughts need immediate care.",
+          "Incorrect—breast fullness around day 3 is expected as milk comes in. It is a breastfeeding teaching point, not an emergency.",
+          "Incorrect—afterpains with breastfeeding are expected uterine contractions in the early postpartum days. Teaching them as an emergency adds alarm without improving safety."
+        ]
+      }
+    },
+    {
+      "stem": "A Black client who is 5 days postpartum calls the clinic. They report a headache that has not improved with acetaminophen and say they \"feel like something is wrong.\" They add that staff told them at their last visit that their worries were \"normal new-mom stress.\" Which action should the nurse take first?",
+      "options": [
+        "Reassure the client that headaches are common after birth from fatigue and fluid shifts, and suggest rest",
+        "Ask the client to come in today and take their blood pressure and symptoms seriously, escalating to the provider",
+        "Schedule the client for the routine postpartum visit and give them a list of warning signs to watch for",
+        "Refer the client to a doula for emotional support during the postpartum adjustment period"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a persistent headache that does not respond to analgesia, a sense that something is wrong, and a report of earlier concerns being dismissed, in a client from a group with a 2- to 3-fold higher risk of pregnancy-related death. Analyze cues: a postpartum headache can signal a cardiovascular or hypertensive complication, and cardiovascular conditions are a leading cause of death. Dismissing a client's concerns contributes to the preventable deaths behind U.S. disparities. Prioritize hypotheses: a serious complication must be ruled out before the symptoms are called benign. Take action: see the client today, assess BP and symptoms, and escalate. Evaluate outcomes: the client is evaluated before the condition progresses, and the client's concerns are validated.",
+        "incorrect": [
+          "Fatigue can cause headaches, but calling this one benign without an assessment repeats the dismissal the client described. It skips the Analyze cues step and risks missing a preventable complication.",
+          "A list of warning signs is useful, but the client already has a warning sign now. Waiting for the routine visit delays an assessment that is needed today.",
+          "A doula gives valuable emotional support, but a doula is non-clinical and cannot evaluate a possible medical complication. This option treats a physical cue as only an emotional need."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is triaging phone calls at a freestanding birth center that provides low-risk care. Which client should the nurse direct to a hospital labor and delivery unit rather than the birth center?",
+      "options": [
+        "A client at 39 weeks 2 days with regular contractions every 5 minutes and intact membranes",
+        "A client at 40 weeks 1 day with an uncomplicated pregnancy who reports clear fluid leaking",
+        "A client at 34 weeks 3 days with regular contractions every 4 minutes for the past 2 hours",
+        "A client at 38 weeks 0 days with a normal prenatal course who reports loss of the mucus plug"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: regular contractions at 34+3 weeks. Analyze cues: this is preterm labor (before 37+0), and the infant may need resuscitation and NICU care from a neonatologist. Community settings such as birth centers focus on low-risk care, while acute care settings are equipped for resuscitation, cesarean birth, and critical care. Prioritize hypotheses: this client has a high-risk condition that is outside the birth center's scope. Take action: direct the client to the hospital L&D unit now.",
+        "incorrect": [
+          "A term client in early, uncomplicated labor is the low-risk client a birth center is designed to serve.",
+          "Clear fluid at term in an uncomplicated pregnancy suggests rupture of membranes and should be evaluated, but it is within low-risk term care. It does not by itself require an acute care setting.",
+          "Losing the mucus plug at term is an expected sign that labor is approaching, not a high-risk finding."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse on a postpartum unit is planning care with an unlicensed assistive personnel (UAP). Which task is appropriate to delegate to the UAP?",
+      "options": [
+        "Checking fundal height and lochia on a client who gave birth 2 hours ago",
+        "Teaching a first-time parent how to recognize newborn feeding cues",
+        "Obtaining routine vital signs on a stable client who is 1 day postpartum",
+        "Evaluating whether a client's pain improved after an oral analgesic"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: match each task to the scope of the role. UAP assist with non-invasive tasks such as vital signs, hygiene, room preparation, and mobility. Assessment, teaching, and evaluation stay with the RN. Take action: delegate routine vital signs on a stable client, and tell the UAP which values to report right away. Evaluate outcomes: the RN reviews the vital signs the UAP reports and acts on any abnormal value.",
+        "incorrect": [
+          "Assessing the fundus and lochia soon after birth is a nursing assessment used to detect hemorrhage. It needs RN judgment and cannot be delegated to a UAP.",
+          "Client and family teaching is an RN responsibility. A UAP can reinforce what the RN taught, but the UAP cannot provide the initial teaching.",
+          "Evaluating a client's response to a medication is the Evaluate outcomes step of the nursing process, so it belongs to the RN."
+        ]
+      }
+    },
+    {
+      "stem": "A client who is 2 days postpartum is breastfeeding. They report nipple pain with every feeding and say the newborn \"slides off.\" The nurse has already helped with positioning twice, and the problem continues. Which referral is most appropriate?",
+      "options": [
+        "Request a consult with the pediatrician to evaluate the newborn's feeding",
+        "Arrange support from the client's doula for the remaining feedings",
+        "Ask the certified nurse-midwife to reassess the client's postpartum recovery",
+        "Request a consult with the lactation consultant (IBCLC)"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: ongoing nipple pain and a poor latch even after the RN helped twice. Analyze cues: this is a complex feeding challenge that first-line nursing support did not resolve. Generate solutions: the IBCLC is the certified specialist in breastfeeding initiation, positioning, latch correction, and complex feeding problems. Take action: request the IBCLC consult. Evaluate outcomes: a deep latch, less nipple pain, and adequate newborn output.",
+        "incorrect": [
+          "The pediatrician manages the infant's overall health. Nothing here suggests a medical problem with the newborn, and the problem is latch mechanics, which is the IBCLC's specialty.",
+          "A doula gives emotional, physical, and informational support, but a doula is not a certified lactation specialist for correcting a persistent latch problem.",
+          "The CNM manages low-risk postpartum care for the client, but this problem is specific to breastfeeding and needs a specialist in latch correction."
+        ]
+      }
+    },
+    {
+      "stem": "A pregnant client at 20 weeks' gestation receives prenatal care from a certified nurse-midwife (CNM) at a community clinic. The client has repaired congenital heart disease, and today's anatomy ultrasound shows a suspected fetal cardiac anomaly. Which plan of care should the nurse anticipate?",
+      "options": [
+        "Refer the client to a maternal-fetal medicine (MFM) specialist for collaborative high-risk care",
+        "Continue routine prenatal care with the CNM and repeat the ultrasound at the next visit",
+        "Arrange a neonatology consult after birth to evaluate the newborn's heart",
+        "Refer the client to a doula to plan continuous support for a natural birth"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a pre-existing maternal cardiac condition plus a suspected complex fetal anomaly. Analyze cues: the CNM's scope focuses on low-risk care. The MFM specialist (perinatologist) focuses on high-risk pregnancies, maternal pre-existing conditions, complex fetal anomalies, and advanced diagnostic testing. Take action: anticipate an MFM referral now. Cardiovascular conditions are also a leading cause of pregnancy-related death, which raises the stakes for this client. Evaluate outcomes: the client receives coordinated high-risk care, and birth is planned at a setting equipped for critical care.",
+        "incorrect": [
+          "Waiting for the next routine visit delays care. Both the maternal heart disease and the fetal finding are outside the low-risk scope of the CNM's practice.",
+          "Neonatology will likely be needed at birth, but waiting until after birth skips advanced prenatal testing and planning. This option is correct but not yet.",
+          "A doula can add emotional support, but a doula does not address the high-risk medical needs, and a 'natural birth' plan may not be safe for this client."
+        ]
+      }
+    },
+    {
+      "stem": "A pregnant client has hired a doula for labor. The nurse reviews the doula's role with the client. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"My doula can massage my back and help me change positions during labor.\"",
+        "\"My doula can explain what is happening so I feel informed during labor.\"",
+        "\"My doula can stay with me continuously, even when my nurse leaves the room.\"",
+        "\"My doula can check my cervix and tell me if the baby's heart rate looks okay.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client expects the doula to do cervical exams and interpret fetal monitoring. Analyze cues: a doula is a non-clinical professional who provides continuous emotional, physical, and informational support. Cervical exams and fetal monitoring assessment are clinical tasks done by the RN and the provider. Take action: clarify the roles so the client still reports concerns to the nurse. Evaluate outcomes: the client can explain the difference between the doula's support role and the nurse's clinical role.",
+        "incorrect": [
+          "This statement is accurate. Massage and position changes are physical comfort measures, which are part of a doula's role.",
+          "This statement is accurate. Informational support is part of a doula's role, as long as the doula does not interpret clinical data.",
+          "This statement is accurate. The doula's support is continuous, and that is one of the doula's main benefits."
+        ]
+      }
+    },
+    {
+      "stem": "A client at the first prenatal visit is tearful. They report taking a prescribed medication that is a known teratogen, and they stopped it when the pregnancy test was positive. By dating, the last dose was taken 10 days after conception. Which response by the nurse is most accurate?",
+      "options": [
+        "\"Exposure this early usually has an all-or-none effect, so a pregnancy that continues usually develops normally. I'll let your provider know so they can review it with you.\"",
+        "\"This was during the period when major organs form, so your baby is at the highest risk for structural defects.\"",
+        "\"Medications this early can't reach the embryo because the placenta hasn't formed yet, so there is no risk.\"",
+        "\"Exposure at this point mainly causes growth restriction later in pregnancy, so you'll need extra ultrasounds.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: teratogen exposure at day 10 after conception. Analyze cues: day 10 falls in the preembryonic stage (conception to day 14), which is the all-or-none period. Exposure then either ends in embryonic death or resorption, or is followed by complete recovery. Prioritize hypotheses: if the pregnancy continues, the risk of a major structural defect from this exposure is low. Take action: give accurate information without false reassurance, and inform the provider. Evaluate outcomes: the client's anxiety decreases, and the client understands the plan.",
+        "incorrect": [
+          "Weeks 3–8 (the embryonic stage) are the period of peak sensitivity to structural defects. Day 10 comes before that period, so this answer misplaces the timing.",
+          "This gives an inaccurate reason and false reassurance. The all-or-none principle does not mean exposure has no effect, because exposure can cause embryonic loss. Saying 'no risk' oversimplifies it.",
+          "Growth restriction and functional defects are typical of exposure in the fetal stage (weeks 9–40), not the preembryonic stage."
+        ]
+      }
+    },
+    {
+      "stem": "A prenatal clinic nurse receives four phone messages from pregnant clients who were exposed to the same known teratogenic medication. Gestation is counted from conception. Which client should the nurse prioritize for a same-day provider review?",
+      "options": [
+        "A client exposed on day 12 after conception",
+        "A client exposed during week 5 after conception",
+        "A client exposed during week 14 after conception",
+        "A client exposed during week 30 after conception"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the same teratogen, with each exposure at a different time after conception. Analyze cues: weeks 3–8 (the embryonic stage) are the period of organogenesis and peak sensitivity to major structural malformations such as neural tube and cardiac defects. Prioritize hypotheses: exposure in week 5 carries the greatest risk of a major structural defect. Take action: prioritize this client for a same-day provider review and counseling.",
+        "incorrect": [
+          "Day 12 is in the all-or-none preembryonic period, so the risk of a major structural malformation is lower than during organogenesis. This client still needs follow-up, but not first.",
+          "By week 14 the fetal stage has begun. Exposure in the fetal stage tends to cause functional defects or growth restriction, not the major structural defects of weeks 3–8.",
+          "Exposure in late pregnancy still matters for functional effects and growth, but the period of greatest structural vulnerability passed weeks ago."
+        ]
+      }
+    },
+    {
+      "stem": "While performing the newborn's initial assessment, the nurse inspects the umbilical cord. It has one large, thin-walled vessel and one smaller, thick-walled vessel. Which action should the nurse take?",
+      "options": [
+        "Report the finding to the provider, because the cord should contain two arteries and one vein",
+        "Document a normal cord, because the vein and an artery are both present",
+        "Clamp the cord closer to the abdomen, because one of the arteries has already closed",
+        "Reassess the cord in 24 hours, because the vessels are hard to identify through Wharton's jelly"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: only two vessels, one vein (large and thin-walled) and one artery. Analyze cues: a normal cord is AVA, two arteries and one vein encased in Wharton's jelly. A single umbilical artery is an abnormal finding that can be associated with other congenital anomalies, such as renal or cardiac defects. Take action: report the finding so the provider can decide whether further evaluation is needed. Evaluate outcomes: the newborn has a complete assessment for any associated anomalies.",
+        "incorrect": [
+          "This misreads the cue. A normal cord has three vessels (AVA), so a cord with only one artery is abnormal and must be reported, not documented as normal.",
+          "The cord vessels are counted at birth, and a missing artery is not a vessel that has closed early. Changing where the cord is clamped neither treats nor evaluates the finding.",
+          "Wharton's jelly protects the vessels from compression, but it does not make them impossible to count at birth. Delaying the report postpones the evaluation for anomalies."
+        ]
+      }
+    },
+    {
+      "stem": "A pregnant client at 33 weeks' gestation has an ultrasound showing an amniotic fluid index (AFI) of 4 cm. Which question should the nurse ask first?",
+      "options": [
+        "\"Have you noticed your underwear staying damp or a leak of fluid from your vagina?\"",
+        "\"Has your provider ever told you that you have high blood sugar during this pregnancy?\"",
+        "\"Have you noticed your abdomen growing faster than expected over the past few weeks?\"",
+        "\"Have you had any headaches, vision changes, or swelling in your face or hands?\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an AFI under 5 cm is oligohydramnios. Analyze cues: oligohydramnios is associated with fetal renal agenesis, uteroplacental insufficiency, and premature rupture of membranes. Of these, ruptured membranes is the one the nurse can screen for right away with a question. Prioritize hypotheses: preterm ROM at 33 weeks needs prompt evaluation and raises the risk of cord compression. Take action: ask about leaking fluid and report the answer. Evaluate outcomes: the cause is identified, and monitoring for cord compression is planned.",
+        "incorrect": [
+          "Maternal diabetes is associated with polyhydramnios (excess fluid), not oligohydramnios. This option reverses the cue.",
+          "Rapid abdominal growth fits excess fluid (polyhydramnios). A low AFI would more likely show up as a fundal height that is small for dates.",
+          "Headache and edema screen for hypertensive disease. Uteroplacental insufficiency can contribute to low fluid, but leaking fluid is the more direct, time-sensitive cause to rule out first at 33 weeks. This is the right concern, but not the first question."
+        ]
+      }
+    },
+    {
+      "stem": "A pregnant client at 30 weeks' gestation has an amniotic fluid index (AFI) of 28 cm. Which recent result should the nurse review first to identify a likely maternal cause?",
+      "options": [
+        "The urine protein-to-creatinine ratio",
+        "The hemoglobin and hematocrit",
+        "The glucose tolerance test",
+        "The Rh type and antibody screen"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an AFI over 24 cm is polyhydramnios. Analyze cues: the associated causes are fetal GI obstruction, neural tube defects, and maternal diabetes. Only diabetes is a maternal condition that a lab result can identify. Generate solutions: review the glucose tolerance test. Take action: report an abnormal result so glucose control can be addressed, and expect a detailed ultrasound to look for fetal causes. Evaluate outcomes: managing the identified cause.",
+        "incorrect": [
+          "Proteinuria screens for preeclampsia, which is not one of the conditions linked to polyhydramnios.",
+          "Hemoglobin screens for anemia. Anemia does not explain excess amniotic fluid.",
+          "The Rh screen is important prenatal data, but it does not address the maternal cause of polyhydramnios named in the outline, which is diabetes."
+        ]
+      }
+    },
+    {
+      "stem": "Parents of a newborn ask the nurse why their baby's lungs \"didn't have to work\" before birth. Which statements by the nurse about fetal circulation are accurate? Select all that apply.",
+      "options": [
+        "\"Before birth, your baby got oxygen through the placenta instead of the lungs.\"",
+        "\"An opening between the upper heart chambers, the foramen ovale, let oxygen-rich blood bypass the lungs.\"",
+        "\"A vessel called the ductus arteriosus sent blood from the pulmonary artery to the aorta, away from the lungs.\"",
+        "\"The ductus venosus carried blood from the lungs directly into the liver.\"",
+        "\"The umbilical arteries brought oxygen-rich blood from the placenta to your baby.\""
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Analyze cues: fetal circulation bypasses the lungs and liver because the placenta oxygenates the blood. The ductus venosus connects the umbilical vein to the IVC and bypasses the liver. The foramen ovale connects the right atrium to the left atrium. The ductus arteriosus connects the pulmonary artery to the aorta. The umbilical vein carries oxygenated blood to the fetus, and the umbilical arteries return deoxygenated blood to the placenta. Evaluate outcomes: the parents can explain why breathing at birth changes the baby's circulation.",
+        "incorrect": [
+          "Correct—the placenta handles gas exchange before birth, so fetal circulation bypasses the lungs.",
+          "Correct—the foramen ovale shunts blood from the right atrium to the left atrium, bypassing the right ventricle and the lungs.",
+          "Correct—the ductus arteriosus moves blood from the pulmonary artery into the aorta, bypassing the high-resistance fetal lungs.",
+          "Incorrect—the ductus venosus connects the umbilical vein to the inferior vena cava so that blood bypasses the liver. It does not carry blood from the lungs into the liver.",
+          "Incorrect—the umbilical arteries carry deoxygenated blood and wastes back to the placenta. The umbilical vein carries oxygen-rich blood to the fetus."
+        ]
+      }
+    },
+    {
+      "stem": "A pregnant client receives a screening result showing an increased chance of a chromosomal condition. The client asks the nurse, \"If you were me, would you have the diagnostic test?\" Which response by the nurse is most appropriate?",
+      "options": [
+        "\"Most people in your situation choose the diagnostic test, so that would be my recommendation.\"",
+        "\"I'd skip the test, since a screening result isn't a diagnosis and the test could add worry.\"",
+        "\"I can't make that decision for you, so you should talk it over with your partner and decide.\"",
+        "\"This is your decision. I can explain what each option involves and connect you with a genetic counselor.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client is asking the nurse to make a personal decision about genetic testing. Analyze cues: the nurse's role in genetics is non-directive counseling, which means unbiased education about the options, emotional support, referral to certified genetic counselors, and respect for the client's autonomy. Take action: affirm that the choice belongs to the client, offer balanced information, and refer to a genetic counselor. Evaluate outcomes: the client makes an informed decision that fits their own values.",
+        "incorrect": [
+          "Telling the client what most people choose and giving a recommendation is directive counseling. It steers the client's choice and undermines autonomy.",
+          "Advising against the test is just as directive as recommending it, and it brings the nurse's own judgment into the client's decision.",
+          "This respects autonomy, but it closes the conversation without offering education or a referral, so the client has no support for making an informed decision."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "topic": "mat-testing-nutrition",
+  "label": "Maternity: Prenatal Testing, Vaccines & Nutrition",
+  "questions": [
+    {
+      "stem": "A pregnant client at 10 weeks has initial prenatal lab results: blood type O positive, antibody screen negative, rubella titer non-immune, hepatitis B surface antigen negative, and HIV negative. The client asks how the baby can be protected from rubella. Which plan should the nurse anticipate?",
+      "options": [
+        "Give the MMR vaccine today so immunity develops before the second trimester",
+        "Give the MMR vaccine between 27 and 36 weeks along with the Tdap",
+        "Give the MMR vaccine postpartum and teach the client to avoid rubella exposure now",
+        "Repeat the rubella titer at 24–28 weeks and give the MMR vaccine then if still non-immune"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the initial-visit panel shows a non-immune rubella titer in a client who is already pregnant. Analyze cues: the protection the client needs comes from the MMR vaccine, which is a live attenuated vaccine and is contraindicated during pregnancy because of teratogenic risk to the fetus. Generate solutions: the safe plan is to avoid exposure now and vaccinate after delivery. Take action: plan MMR postpartum and teach the client to avoid people with rash illnesses. Evaluate outcomes: the client can state why the vaccine is delayed and when it will be given.",
+        "incorrect": [
+          "MMR is live attenuated, so it is contraindicated at any point in pregnancy, including the first trimester. This option recognizes the cue but skips the safety check in Generate solutions.",
+          "27–36 weeks is the window for Tdap, an inactivated vaccine. Pairing a live vaccine with it confuses the two rules; MMR stays contraindicated through the third trimester.",
+          "A titer does not change without vaccination or infection, and MMR would still be contraindicated at 24–28 weeks. Repeating the test delays the correct plan without changing it."
+        ]
+      }
+    },
+    {
+      "stem": "A pregnant client at 26 weeks has a 1-hour oral glucose tolerance test result of 148 mg/dL. The client says, \"Does this mean I have diabetes now?\" Which action should the nurse anticipate next?",
+      "options": [
+        "Schedule the client for a 3-hour oral glucose tolerance test",
+        "Begin teaching the client how to self-inject insulin for gestational diabetes",
+        "Repeat the 1-hour glucose screen at the next visit in 4 weeks",
+        "Reassure the client that the value is normal and recheck at 36 weeks"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 1-hour OGTT of 148 mg/dL at the 24–28 week screening window. Analyze cues: the 1-hour test is a screen, and a value above the 130–140 mg/dL threshold is a positive screen, not a diagnosis. Generate solutions: a positive screen is followed by the 3-hour OGTT. Take action: schedule the 3-hour OGTT and explain to the client that the first test only shows the need for more testing.",
+        "incorrect": [
+          "Insulin teaching assumes gestational diabetes has been diagnosed. A positive 1-hour screen has not confirmed it, so this jumps from Analyze cues straight to treatment.",
+          "The result is already above the threshold, so repeating the same screening test adds nothing. It also delays the diagnostic step within the 24–28 week window.",
+          "148 mg/dL is above the 130–140 mg/dL cutoff, so it is not normal. This misreads the cue and drops the follow-up test entirely."
+        ]
+      }
+    },
+    {
+      "stem": "A clinic nurse reviews four prenatal records. Which client requires follow-up first?",
+      "options": [
+        "A client at 19 weeks whose structural anatomy ultrasound is scheduled for next week",
+        "An Rh-negative client at 29 weeks with a negative repeat antibody screen and no RhoGAM documented",
+        "A client at 36 weeks whose group B streptococcus vaginal-rectal swab was collected today",
+        "A client at 26 weeks who is scheduled for a 1-hour oral glucose tolerance test tomorrow"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an Rh-negative client is past 28 weeks, has a negative antibody screen, and has no record of RhoGAM. Analyze cues: RhoGAM is due at 28 weeks for Rh-negative clients, and a negative screen means the client has not yet been sensitized, so the dose can still protect this and future pregnancies. Prioritize hypotheses: this is the only care gap, and it is already overdue. Take action: verify the record and arrange RhoGAM administration.",
+        "incorrect": [
+          "An anatomy ultrasound at 18–20 weeks is on schedule for a client at 19 weeks. Nothing here is missing or late.",
+          "A GBS swab at 36 weeks falls in the 36–37 week window. The test is done, so no gap needs follow-up.",
+          "The 1-hour OGTT belongs at 24–28 weeks, and this client is booked inside that window. This is routine care, not a gap."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 36 weeks 3 days comes for a routine prenatal visit. The client is Rh-positive. At 26 weeks, the 1-hour OGTT was 118 mg/dL and the repeat CBC was within expected limits. The structural anatomy ultrasound at 19 weeks was normal. Which action is due at this visit?",
+      "options": [
+        "Repeat the 1-hour OGTT to confirm the earlier normal result",
+        "Administer RhoGAM to complete the third-trimester lab schedule",
+        "Schedule a repeat structural anatomy ultrasound before delivery",
+        "Collect a vaginal-rectal swab culture for group B streptococcus"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client is at 36 weeks 3 days and has completed the earlier tests with normal results. Analyze cues: the remaining routine screen is the group B streptococcus vaginal-rectal swab culture, done at 36–37 weeks. Take action: collect the GBS swab today so the result is available before labor. Evaluate outcomes: the record shows every routine screen completed on schedule.",
+        "incorrect": [
+          "118 mg/dL is below the 130–140 mg/dL threshold, so the screen was negative. Repeating a normal screen is not part of the schedule.",
+          "RhoGAM is given to Rh-negative clients. This client is Rh-positive, so giving it would be wrong for this client given that cue.",
+          "The anatomy scan is a one-time 18–20 week study, and it was normal. A repeat is not on the routine schedule."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 11 weeks receives a cell-free DNA (NIPT) result reported as high risk for trisomy 21. The client says, \"So the baby definitely has Down syndrome. I need to start planning.\" Which response by the nurse is best?",
+      "options": [
+        "\"This test is highly sensitive, so the result is considered confirmed.\"",
+        "\"We will repeat the cell-free DNA test in 2 weeks to confirm the result.\"",
+        "\"This is a screening result. A diagnostic test such as CVS or amniocentesis can confirm it.\"",
+        "\"The nuchal translucency ultrasound next week will tell us for certain.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a high-risk cfDNA result and a client who believes the diagnosis is confirmed. Analyze cues: cfDNA is highly sensitive but non-diagnostic; it screens fetal DNA in maternal blood. Generate solutions: only a diagnostic procedure such as CVS (10–13 weeks) or amniocentesis (15–20 weeks) gives a definitive answer. Take action: correct the misconception and explain the option of diagnostic testing. Evaluate outcomes: the client can describe the result as a screen and knows how to get a definite answer.",
+        "incorrect": [
+          "High sensitivity does not make a screen diagnostic. This reinforces the client's misconception instead of correcting it.",
+          "Repeating the same screening test cannot turn it into a diagnosis. The next step is a diagnostic procedure, not another screen.",
+          "The NT scan is also a screening ultrasound. Increased thickness only suggests trisomy 21 or a cardiac defect, so it cannot confirm anything."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 11 weeks with a history of a previous pregnancy affected by spina bifida is scheduled for chorionic villus sampling (CVS). Which client statement indicates a need for further teaching?",
+      "options": [
+        "\"The sample will be taken from tissue of the placenta.\"",
+        "\"This test will also tell me whether this baby has spina bifida.\"",
+        "\"There is a small risk of losing the pregnancy, about 0.5 to 1 percent.\"",
+        "\"The result is a diagnosis, not just a screening estimate.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client's main concern is a neural tube defect, and the planned test is CVS. Analyze cues: CVS gives an early definitive diagnosis from placental tissue, but it does not assess neural tube defects. Prioritize hypotheses: the client expects an answer this test cannot give, which is the statement that needs correcting. Take action: clarify that CVS does not evaluate neural tube defects and that other evaluation will be needed for that concern.",
+        "incorrect": [
+          "Accurate statement: CVS obtains a sample of placental tissue. No teaching is needed.",
+          "Accurate statement: the pregnancy-loss risk of about 0.5–1% matches what the client should be told.",
+          "Accurate statement: CVS is a diagnostic procedure that provides an early definitive diagnosis, unlike cfDNA or NT screening."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 12 weeks has a nuchal translucency (NT) ultrasound that shows increased fluid thickness at the back of the fetal neck. The client asks what this means. Which response by the nurse is most accurate?",
+      "options": [
+        "\"It can suggest trisomy 21 or a heart defect, so further testing will be offered.\"",
+        "\"It points to an open neural tube defect, so a spine ultrasound is the next step.\"",
+        "\"It is a normal fluid shift at this age and will be rechecked at the 20-week scan.\"",
+        "\"It confirms trisomy 21, so genetic counseling for delivery planning comes next.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: increased nuchal translucency on an 11–13 week ultrasound. Analyze cues: NT is a screening ultrasound; increased thickness suggests trisomy 21 or cardiac defects but does not diagnose them. Generate solutions: further evaluation, such as diagnostic testing, is offered. Take action: explain the finding as a screening flag and describe the follow-up options without overstating certainty.",
+        "incorrect": [
+          "NT measures fluid at the back of the neck. Its abnormal findings are linked to trisomy 21 and cardiac defects, not neural tube defects, so this misreads the cue.",
+          "Increased thickness is the abnormal finding the test looks for. Calling it normal and waiting 8 weeks dismisses a positive screen.",
+          "NT is a screen, not a diagnosis. Saying it confirms trisomy 21 overstates the result and skips diagnostic testing."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 16 weeks is being discharged after a transabdominal amniocentesis. Which findings should the nurse teach the client to report right away? Select all that apply.",
+      "options": [
+        "Leaking of clear fluid from the vagina",
+        "Temperature of 100.6°F (38.1°C) with chills",
+        "Uterine cramping with vaginal bleeding",
+        "Mild tenderness at the needle site on the day of the procedure",
+        "Feeling tired on the evening of the procedure"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The risks of amniocentesis are fluid leak, infection, and pregnancy loss. Teaching focuses on the signs of each (Recognize cues), so the client can report them early (Take action). Mild site soreness and fatigue are expected after the procedure.",
+        "incorrect": [
+          "Correct—leaking clear fluid suggests an amniotic fluid leak, a listed complication of the procedure.",
+          "Correct—fever with chills suggests infection, a listed risk after the needle passes into the uterus.",
+          "Correct—cramping with bleeding can signal pregnancy loss, the most serious risk.",
+          "Incorrect—mild tenderness at the puncture site the same day is an expected local effect, not a complication.",
+          "Incorrect—fatigue after a stressful procedure is expected and is not a sign of leak, infection, or loss."
+        ]
+      }
+    },
+    {
+      "stem": "A couple planning their first pregnancy tells the nurse that one partner's sibling has cystic fibrosis. They ask whether they can learn their risk before trying to conceive. Which test should the nurse explain?",
+      "options": [
+        "Cell-free DNA testing once the pregnancy reaches 10 weeks",
+        "Chorionic villus sampling between 10 and 13 weeks of pregnancy",
+        "A nuchal translucency ultrasound between 11 and 13 weeks",
+        "Carrier screening of both partners by blood or saliva sample"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a family history of cystic fibrosis and a request for information before conception. Analyze cues: CF is autosomal recessive, so the risk depends on whether both partners carry the trait. Generate solutions: carrier screening is a voluntary blood or saliva test done before conception or early in pregnancy to detect autosomal recessive traits such as CF, sickle cell, and spinal muscular atrophy. Take action: explain carrier screening for both partners.",
+        "incorrect": [
+          "cfDNA requires an existing pregnancy of at least 10 weeks and screens for trisomies 21, 18, and 13 and sex chromosome abnormalities. It does not answer a question asked before conception.",
+          "CVS can diagnose the fetus, but only after conception and with a pregnancy-loss risk. It is not how the couple learns their risk before trying.",
+          "NT screens for trisomy 21 and cardiac defects during pregnancy. It does not detect carrier status for a recessive trait."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 30 weeks in a second pregnancy receives vaccine teaching. The client received Tdap during the first pregnancy 2 years ago. Which client statement indicates a need for further teaching?",
+      "options": [
+        "\"Getting Tdap now passes antibodies to my baby against whooping cough.\"",
+        "\"I can get the flu shot during flu season, but not the nasal spray.\"",
+        "\"I already had Tdap in my last pregnancy, so I can skip it this time.\"",
+        "\"The RSV vaccine is given later, between 32 and 36 weeks, in RSV season.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a client in a repeat pregnancy who believes a prior Tdap dose is enough. Analyze cues: Tdap is given between 27 and 36 weeks during every pregnancy, because maternal antibodies fall over time and the goal is maximum passive antibody transfer to this newborn. Take action: correct the misconception and offer Tdap now, since the client is at 30 weeks. Evaluate outcomes: the client states that Tdap is repeated with each pregnancy.",
+        "incorrect": [
+          "Accurate statement: Tdap is timed to maximize passive transfer of pertussis antibodies to the newborn.",
+          "Accurate statement: only the inactivated injectable flu vaccine is used; the live attenuated nasal spray is contraindicated.",
+          "Accurate statement: RSV (Abrysvo) is given at 32–36 weeks during RSV season, so it is not yet due at 30 weeks."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews vaccine prescriptions for four pregnant clients during flu season. Which prescription should the nurse question?",
+      "options": [
+        "Inactivated influenza vaccine IM for a client at 14 weeks",
+        "Live attenuated influenza vaccine intranasal for a client at 22 weeks who fears needles",
+        "Tdap IM for a client at 28 weeks who received Tdap in a prior pregnancy",
+        "COVID-19 vaccine for a client at 18 weeks who has had no prior doses"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: one prescription is the intranasal live attenuated influenza vaccine (LAIV), justified by the client's fear of needles. Analyze cues: live attenuated vaccines are contraindicated in pregnancy because of teratogenic risk, and LAIV is specifically excluded; only the inactivated injectable flu vaccine is used. Take action: hold the vaccine, contact the prescriber to change to the inactivated injection, and address the needle fear with comfort measures.",
+        "incorrect": [
+          "The inactivated injectable flu vaccine is recommended for all pregnant clients during flu season, in any trimester.",
+          "Tdap is repeated with every pregnancy at 27–36 weeks. A prior dose is not a reason to question it, and 28 weeks is in the window.",
+          "COVID-19 vaccination is recommended for all pregnant individuals. Nothing about this prescription is unsafe."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 33 weeks comes to the clinic in October during flu and RSV season. The client has received no vaccines this pregnancy. Prenatal labs show the client is non-immune to rubella and varicella. Which vaccines are appropriate to give during the pregnancy at this visit? Select all that apply.",
+      "options": [
+        "Tdap",
+        "Inactivated influenza vaccine",
+        "RSV vaccine (Abrysvo)",
+        "Measles-mumps-rubella (MMR)",
+        "Varicella vaccine",
+        "COVID-19 vaccine"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "At 33 weeks in flu and RSV season, the client is in the window for Tdap (27–36 weeks) and RSV (32–36 weeks) and is eligible for inactivated flu and COVID-19 vaccines. MMR and varicella are live attenuated vaccines; non-immunity is a cue to vaccinate postpartum, not during pregnancy.",
+        "incorrect": [
+          "Correct—33 weeks falls within the 27–36 week Tdap window, and it is given every pregnancy.",
+          "Correct—the inactivated injectable flu vaccine is recommended for all pregnant clients in flu season.",
+          "Correct—Abrysvo is given at 32–36 weeks during RSV season, and the client is at 33 weeks in October.",
+          "Incorrect—MMR is live attenuated and contraindicated in pregnancy; rubella non-immunity is addressed with MMR postpartum.",
+          "Incorrect—varicella vaccine is live attenuated and contraindicated in pregnancy; give it after delivery.",
+          "Correct—COVID-19 vaccination is recommended for all pregnant individuals."
+        ]
+      }
+    },
+    {
+      "stem": "A client who is planning a pregnancy had a previous infant born with anencephaly. The client currently takes an over-the-counter prenatal vitamin with 400 mcg of folic acid. Which folic acid plan should the nurse anticipate?",
+      "options": [
+        "Continue the 400 mcg in the prenatal vitamin, which meets the daily need",
+        "Increase to 800 mcg daily, the upper end of the usual recommended range",
+        "Wait to increase folic acid until the pregnancy is confirmed by ultrasound",
+        "Take 4 mg (4,000 mcg) daily, beginning before conception"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a prior pregnancy affected by a neural tube defect (anencephaly) in a client planning to conceive. Analyze cues: 400–800 mcg is the dose for people of childbearing age without this history, but a prior NTD calls for up to 4,000 mcg (4 mg) daily. Generate solutions: the neural tube closes within the first 28 days, often before a pregnancy is known, so the higher dose must start before conception. Take action: anticipate a 4 mg daily prescription starting now.",
+        "incorrect": [
+          "400 mcg is the standard dose for a client without risk factors. This misses the key cue, the prior NTD.",
+          "800 mcg is still within the standard range. It is not the higher dose recommended after a previous NTD.",
+          "Neural tube defects form in the first 28 days, usually before an ultrasound confirms the pregnancy. Waiting misses the window when folic acid protects the fetus."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 26 weeks whose repeat CBC shows a hemoglobin of 10.2 g/dL is prescribed ferrous sulfate. Which client statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll take my iron with my morning glass of milk so it won't upset my stomach.\"",
+        "\"I'll take my iron with orange juice to help my body absorb it.\"",
+        "\"I'll take my calcium supplement at a different time of day than my iron.\"",
+        "\"I'll avoid drinking tea at the same time I take my iron.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to take iron with milk. Analyze cues: milk, tea, and calcium reduce iron absorption, and vitamin C (citrus) increases it. Iron supports hemoglobin production for the expanded maternal blood volume and fetal stores. Take action: teach the client to separate iron from milk and to take it with a vitamin C source. Evaluate outcomes: a rising hemoglobin on the next CBC shows the plan is working.",
+        "incorrect": [
+          "Accurate statement: vitamin C in citrus juice increases iron absorption.",
+          "Accurate statement: calcium blocks iron absorption, so separating the doses is appropriate.",
+          "Accurate statement: tea reduces iron absorption, so avoiding it at dosing time is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 20 weeks who needed 2,000 calories/day before pregnancy says, \"I'm eating for two now, so I've doubled my portions.\" What daily calorie intake should the nurse recommend for this trimester?",
+      "options": [
+        "2,000 calories/day",
+        "2,452 calories/day",
+        "2,340 calories/day",
+        "4,000 calories/day"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 20 weeks is the second trimester, the baseline need is 2,000 calories, and the client has doubled their intake. Analyze cues: the outline's increase is 0 extra calories in the first trimester, +340/day in the second, and +452/day in the third. Generate solutions: 2,000 + 340 = 2,340 calories/day. Take action: correct the \"eating for two\" idea and give the specific target. Evaluate outcomes: weight gain tracks within the range for the client's pre-pregnancy BMI.",
+        "incorrect": [
+          "2,000 calories/day is the first-trimester plan, which adds nothing. At 20 weeks this is too low.",
+          "+452 calories applies in the third trimester. Using it now gives the wrong trimester's increase.",
+          "Doubling intake is the \"eating for two\" misconception. It far exceeds the +340 increase and drives excess weight gain."
+        ]
+      }
+    },
+    {
+      "stem": "At the first prenatal visit, a client is 1.63 m (5 ft 4 in) tall and weighed 80 kg (176 lb) before pregnancy. Which total weight gain should the nurse recommend for this pregnancy?",
+      "options": [
+        "25–35 lb (11.5–16 kg)",
+        "11–20 lb (5–9 kg)",
+        "15–25 lb (7–11.5 kg)",
+        "28–40 lb (12.5–18 kg)"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pre-pregnancy height 1.63 m and weight 80 kg. Analyze cues: BMI = 80 ÷ (1.63 × 1.63) = 80 ÷ 2.66 ≈ 30.1, which falls in the obese category (≥ 30.0). Generate solutions: the recommended total gain for obese BMI is 11–20 lb (5–9 kg). Take action: set this goal with the client and pair it with nutrition counseling. Evaluate outcomes: weight gain is tracked against this range at each visit.",
+        "incorrect": [
+          "25–35 lb is the range for a normal BMI (18.5–24.9). It overestimates the goal for a BMI of 30.1.",
+          "15–25 lb is the range for an overweight BMI (25.0–29.9). A BMI of 30.1 crosses into obese, so this misclassifies the client.",
+          "28–40 lb is the range for an underweight BMI (< 18.5). It is the opposite end of the table."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 1.68 m (5 ft 6 in) tall and weighed 50 kg (110 lb) before pregnancy. At the first prenatal visit the client says, \"I don't want to gain more than 20 pounds.\" Which response by the nurse is most appropriate?",
+      "options": [
+        "\"Your BMI is in the normal range, so a gain of 25 to 35 pounds is recommended.\"",
+        "\"Your BMI is in the overweight range, so a gain of 15 to 25 pounds is recommended.\"",
+        "\"Your BMI is in the obese range, so a gain of 11 to 20 pounds is recommended.\"",
+        "\"Your BMI is in the underweight range, so a gain of 28 to 40 pounds is recommended.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: height 1.68 m, pre-pregnancy weight 50 kg, and a client who wants to limit gain to 20 lb. Analyze cues: BMI = 50 ÷ (1.68 × 1.68) = 50 ÷ 2.82 ≈ 17.7, which is underweight (< 18.5). Prioritize hypotheses: a 20-lb cap would leave this client well below the recommended gain. Take action: explain that the recommended total gain is 28–40 lb (12.5–18 kg) and explore the client's concerns about weight.",
+        "incorrect": [
+          "A BMI of 17.7 is below 18.5, so the client is not in the normal range. Using that range underestimates the gain needed.",
+          "The overweight range (25.0–29.9) does not fit a BMI of 17.7. This misreads the calculation.",
+          "The obese range would agree with the client's 20-lb cap, but a BMI of 17.7 is underweight. Agreeing would reinforce a harmful goal."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 32 weeks asks for help choosing a lunch. Which choice should the nurse identify as safest during pregnancy?",
+      "options": [
+        "A turkey deli sandwich with the meat heated until steaming hot",
+        "Grilled swordfish with a side salad of washed greens",
+        "A quesadilla made with farm-stand queso fresco not labeled pasteurized",
+        "A hamburger cooked medium-rare with lettuce and tomato"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: each meal carries a possible pregnancy food hazard. Analyze cues: deli meat is a listeria risk unless it is heated until steaming hot, which this option does. Generate solutions: compare each option with the mercury, listeria, and toxoplasmosis rules. Take action: endorse the heated deli sandwich and teach why the other choices are unsafe.",
+        "incorrect": [
+          "Swordfish is a high-mercury fish that should be avoided in pregnancy. Washing the greens does not make the meal safe.",
+          "Unpasteurized soft cheese such as queso fresco is a listeriosis risk. It is safe only if labeled pasteurized.",
+          "Raw or undercooked meat is a toxoplasmosis risk. A medium-rare burger is not fully cooked."
+        ]
+      }
+    },
+    {
+      "stem": "A pregnant client who has two indoor cats and enjoys cooking receives teaching on toxoplasmosis prevention. Which client statement indicates a need for further teaching?",
+      "options": [
+        "\"My partner will clean the litter box until after the baby is born.\"",
+        "\"I'll wash all fruits and vegetables well before eating them.\"",
+        "\"I'll keep cleaning the litter box myself but wash my hands right after.\"",
+        "\"I'll cook my steaks all the way through instead of rare.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a pregnant client with cats who plans to keep cleaning the litter box. Analyze cues: toxoplasmosis prevention includes avoiding handling the cat litter box, avoiding raw or undercooked meat, and washing all produce. Handwashing afterward does not replace avoiding exposure. Take action: teach the client to have someone else handle the litter box. Evaluate outcomes: the client identifies who will take over litter care.",
+        "incorrect": [
+          "Accurate statement: having someone else handle the litter box is the recommended way to avoid exposure.",
+          "Accurate statement: washing all produce is part of toxoplasmosis prevention.",
+          "Accurate statement: avoiding raw or undercooked meat prevents toxoplasmosis."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 14 weeks reports drinking two 16-oz coffees daily. Each coffee contains about 150 mg of caffeine. The client does not drink alcohol or use tobacco. Which recommendation by the nurse is most appropriate?",
+      "options": [
+        "Advise the client to stop all caffeine for the rest of the pregnancy",
+        "Advise the client to cut back to one of these coffees daily",
+        "Tell the client that this amount is within the safe limit for pregnancy",
+        "Advise the client to switch to two energy drinks containing 120 mg each"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: two coffees at about 150 mg each = 300 mg caffeine/day. Analyze cues: the pregnancy limit is less than 200 mg/day, so the current intake is over the limit. Generate solutions: one coffee (about 150 mg) brings intake under 200 mg. Take action: recommend cutting back to one coffee daily. Evaluate outcomes: the client's reported daily caffeine stays below 200 mg.",
+        "incorrect": [
+          "The guideline is to limit caffeine to less than 200 mg/day, not to stop it completely. Total abstinence applies to alcohol, tobacco, and recreational drugs.",
+          "300 mg/day is above the 200 mg limit. This misreads the calculation.",
+          "Two 120-mg energy drinks equal 240 mg/day, which is still over 200 mg. The switch lowers intake but not enough."
+        ]
+      }
+    }
+  ]
+}
