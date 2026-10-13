@@ -1,0 +1,763 @@
+{
+  "topic": "peds-wk5-infectious-respiratory",
+  "label": "Peds: Week 5 — Infectious & Respiratory Disorders",
+  "questions": [
+    {
+      "stem": "A 10-month-old is carried into the emergency department by a caregiver who reports 2 days of runny nose and cough. From the doorway, before touching the infant, the nurse sees that the infant lies limp against the caregiver, does not look toward the nurse's voice, has subcostal retractions with nasal flaring, and has mottled skin on the legs. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "The infant is probably exhausted from a poor night's sleep, so the nurse should complete the history and a full set of vital signs before deciding on urgency",
+        "All three sides of the Pediatric Assessment Triangle are abnormal, so the infant needs immediate escalation and intervention before the detailed exam",
+        "The retractions suggest lower-airway disease, so the nurse should auscultate first to tell bronchiolitis from pneumonia before escalating",
+        "Stranger anxiety at this age can make an infant withdrawn, so the nurse should let the caregiver soothe the infant and reassess appearance in 15 minutes"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: from the doorway the infant is limp and unresponsive to voice (Appearance), has retractions and nasal flaring (Work of Breathing), and has mottled skin (Circulation to Skin). Analyze cues: the PAT gives a rapid visual impression before a stethoscope touches the child, and here every side is abnormal. Prioritize hypotheses: this is a critically ill infant with respiratory compromise and poor perfusion, whatever the diagnosis turns out to be. Take action: escalate immediately and begin airway, breathing, and circulation support. History and detailed assessment come after.",
+        "incorrect": [
+          "This explains away an abnormal Appearance cue. A limp infant who does not respond to voice is showing altered mental status, a red flag, and waiting for a full history delays escalation.",
+          "Auscultation belongs to the hands-on assessment that follows the PAT. Identifying the exact disease is not needed to recognize that this infant is critically ill, so this skips Prioritize hypotheses.",
+          "Stranger anxiety at 10 months produces crying and clinging, not limpness and lack of response. Waiting 15 minutes with retractions and mottling misreads the cue and is unsafe."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse in a pediatric urgent care clinic has four children waiting. Which child should the nurse see first?",
+      "options": [
+        "A 3-year-old with croup who has stridor while sitting quietly on a parent's lap and has suprasternal retractions",
+        "A 2-year-old with croup who has a barking cough and stridor that is heard only when crying",
+        "A 7-year-old with asthma who has mild expiratory wheezes and is speaking in full sentences",
+        "A 5-month-old with clear rhinorrhea and a loose cough who is feeding normally"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: stridor while the child is calm, plus suprasternal retractions. Analyze cues: stridor signals upper-airway obstruction, and stridor at rest with severe retractions is a listed red flag, unlike stridor that appears only with agitation. Prioritize hypotheses: progressive upper-airway obstruction is the most immediate threat on this list. Take action: see this child first and anticipate treatment such as nebulized epinephrine for severe distress.",
+        "incorrect": [
+          "Stridor only with crying is mild croup. It needs treatment, but it is not stridor at rest, which is the red flag.",
+          "Mild wheezing with full sentences means air is moving well. This child is yellow-zone and can wait briefly while the higher-acuity child is seen.",
+          "Cough and runny nose without increased work of breathing are less concerning than retractions. A normal feeding pattern is reassuring."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old whose immunizations are not up to date became ill over a few hours. Temperature is 39.9°C (103.8°F). The child sits leaning forward on outstretched arms, is drooling, refuses to swallow, and speaks in a muffled voice. There is no barking cough. Which condition best fits this presentation?",
+      "options": [
+        "Streptococcal pharyngitis with tonsillar exudates",
+        "Croup (laryngotracheitis)",
+        "Epiglottitis",
+        "Foreign-body aspiration"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden onset, high fever, tripod posture, and the 4 Ds (drooling, dysphagia, dysphonia or muffled voice, distress), with no barking cough, in a child who is not fully immunized. Analyze cues: this cluster matches epiglottitis, which lecture links to Haemophilus influenzae, and not croup, which is gradual with barking cough and low-grade fever. Prioritize hypotheses: epiglottitis is an airway emergency with risk of sudden complete obstruction. Take action: keep the child calm and upright and prepare for airway management.",
+        "incorrect": [
+          "Strep causes sudden sore throat, fever, exudates, and tender anterior nodes, but children with strep can swallow their saliva and do not adopt a tripod position from airway compromise.",
+          "Croup has a gradual onset, low-grade fever, and a barking cough. Absent barking cough with sudden high fever and drooling points away from croup.",
+          "Aspiration starts with sudden choking or coughing while eating or playing and usually has unilateral wheeze or decreased breath sounds, not high fever and drooling."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old with suspected epiglottitis is drooling, febrile, and sitting in a tripod position on the caregiver's lap. A newly hired nurse is gathering a tongue depressor to get a throat culture and plans to lay the child flat on the stretcher to start an IV. What should the charge nurse do?",
+      "options": [
+        "Help hold the child for a quick throat swab so antibiotics can start sooner, then sit the child back up",
+        "Lay the child supine just long enough to place the IV and hold an oxygen mask firmly over the face",
+        "Delay the swab but offer cool sips of water to ease the painful swallowing while waiting for the provider",
+        "Stop the throat exam, keep the child upright and calm with the caregiver, and prepare for emergency airway management"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: drooling, fever, and tripod position point to epiglottitis. Analyze cues: inspecting the throat or upsetting the child can turn partial obstruction into complete obstruction. Generate solutions: the safe options protect the airway — no throat manipulation, no forced positioning, minimal agitation. Take action: stop the planned exam, keep the child upright with the caregiver, and have airway equipment and skilled staff ready. Evaluate outcomes: the child stays calm with no change in work of breathing until the airway is secured.",
+        "incorrect": [
+          "A faster swab is still a throat exam. A tongue depressor can trigger complete airway obstruction in epiglottitis, so speed does not make it safe.",
+          "Lying flat and forcing a mask on an upset child can worsen the obstruction. This ignores the protective upright posture the child chose.",
+          "The child cannot swallow their own saliva, so oral fluids add aspiration risk. Comfort measures come after the airway is secured."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old woke at midnight with a barking cough and inspiratory stridor that is heard only when crying after 2 days of a runny nose. Temperature is 38.0°C (100.4°F). The provider prescribes oral dexamethasone. The caregiver asks why a steroid is needed for \"just a virus.\" Which explanation by the nurse is most accurate?",
+      "options": [
+        "It decreases swelling in the larynx and trachea, so the airway narrows less and the barking and stridor ease",
+        "It acts against the parainfluenza virus so the infection clears sooner and the child is less contagious",
+        "It relaxes the small airways the same way albuterol does, which stops the noisy breathing",
+        "It prevents a bacterial infection from setting in while the airway is swollen"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: barking cough, inspiratory stridor, low-grade fever, and nighttime worsening after a cold in a 2-year-old. Analyze cues: this is croup, usually parainfluenza, with inflammation of the larynx and trachea. Generate solutions: lecture management is a corticosteroid such as dexamethasone, nebulized epinephrine for severe distress, and humidified air for comfort. Take action: explain that the steroid reduces upper-airway swelling. Evaluate outcomes: less stridor and barking and easier breathing over the following hours.",
+        "incorrect": [
+          "Corticosteroids do not kill viruses. This confuses the cause of croup with what the drug actually targets.",
+          "Albuterol is a bronchodilator for lower-airway wheezing. Croup is an upper-airway problem treated with a steroid for inflammation.",
+          "Steroids do not prevent bacterial infection. Croup is usually viral, so this gives the caregiver a false reason for the drug."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-year-old with croup has inspiratory stridor at rest, intercostal retractions, and restlessness. The nurse gives nebulized epinephrine as prescribed. Which finding 20 minutes later best shows the medication had its intended effect?",
+      "options": [
+        "The barking cough is now heard only once or twice an hour",
+        "Stridor is no longer heard at rest and the retractions have lessened",
+        "The child has fallen asleep and is much quieter",
+        "The heart rate has increased from 128/min to 144/min"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: stridor at rest, retractions, and restlessness are red flags for severe upper-airway obstruction. Take action: nebulized epinephrine is the lecture treatment for severe croup distress. Evaluate outcomes: success is measured with the same cues that prompted treatment — stridor at rest resolves and work of breathing decreases. A quieter child or a change in heart rate does not show better airflow.",
+        "incorrect": [
+          "The cough reflects airway irritation, not how much air is moving. Fewer coughs can happen even when obstruction persists, so this is not the best outcome measure.",
+          "A quieter, sleepy child may be tiring or getting less air. Sleep is reassuring only once stridor at rest and retractions have resolved.",
+          "Tachycardia is a side effect of epinephrine, not evidence that the airway opened."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-month-old with RSV bronchiolitis has thick nasal secretions, respiratory rate 58/min, mild subcostal retractions, and SpO2 94% on room air. The infant has been taking only half of each bottle before tiring. Which action should the nurse take before the next feeding?",
+      "options": [
+        "Request an albuterol nebulizer treatment to open the airways before the feeding",
+        "Hold oral feedings until the respiratory rate falls below 40/min",
+        "Lay the infant flat and supine during the feeding to reduce the work of feeding",
+        "Gently suction the nares with saline and a bulb syringe"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: thick nasal secretions, tachypnea, mild retractions, and poor feeding from fatigue in a young infant. Analyze cues: infants breathe mainly through the nose, so blocked nares increase work of breathing and make sucking and breathing at once exhausting. Generate solutions: supportive care is central in bronchiolitis. Take action: suction the nares before the feeding. Evaluate outcomes: the infant takes more of the bottle with less effort, and oxygenation and comfort improve.",
+        "incorrect": [
+          "Lecture states albuterol is not routinely recommended for bronchiolitis. It does not address the blocked nasal passages that are interfering with feeding.",
+          "Withholding feeds without fixing the cause increases dehydration risk in an infant who is already feeding poorly. This misses the correctable problem.",
+          "A flat position makes breathing and swallowing harder and raises aspiration risk in an infant with increased work of breathing."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-month-old is admitted with RSV bronchiolitis, mild retractions, and SpO2 93% on room air. Which prescription should the nurse clarify with the provider?",
+      "options": [
+        "Contact precautions for the duration of the admission",
+        "Nasal suctioning before feedings and as needed",
+        "Oral prednisolone daily for 5 days",
+        "Strict intake and output with daily weights"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an infant with uncomplicated RSV bronchiolitis and an order set that includes a systemic steroid. Analyze cues: lecture states that antibiotics, corticosteroids, and albuterol are not routinely recommended for bronchiolitis, which is managed with supportive care. Generate solutions: suctioning, hydration monitoring, isolation, and oxygen assessment are all supportive measures. Take action: clarify the prednisolone order with the provider before giving it.",
+        "incorrect": [
+          "Course keypoints list RSV as requiring contact precautions, so this order is appropriate.",
+          "Nasal suctioning is a core supportive measure that improves feeding, comfort, and oxygenation.",
+          "Feeding fatigue raises dehydration risk in bronchiolitis, so tracking intake, output, and weight is appropriate monitoring."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a 2-month-old with bronchiolitis. Which finding requires immediate follow-up?",
+      "options": [
+        "Head bobbing with expiratory grunting and an SpO2 of 88%",
+        "Copious clear nasal secretions that return 1 hour after suctioning",
+        "Scattered expiratory wheezes and fine crackles throughout both lung fields",
+        "A temperature of 38.3°C (100.9°F) with the infant still waking to feed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: head bobbing, grunting, and SpO2 88% in a 2-month-old. Analyze cues: head bobbing and grunting are signs of increased work of breathing, and low saturation shows that compensation is failing. Young infants have small airways and little respiratory reserve. Prioritize hypotheses: worsening respiratory distress that could progress to failure. Take action: escalate now, support oxygenation, and reassess work of breathing.",
+        "incorrect": [
+          "Recurrent secretions are expected in RSV and are managed with repeated suctioning. They are not a red flag on their own.",
+          "Diffuse wheezes and crackles are expected with small-airway inflammation in bronchiolitis. They need monitoring but do not show deterioration by themselves.",
+          "Fever is a protective response. An infant who still wakes to feed has a reassuring appearance, so the number alone is not the priority."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is supervising a nursing student caring for a 9-month-old with RSV. Which action by the student requires the nurse to intervene?",
+      "options": [
+        "Puts on a gown and gloves before lifting the infant out of the crib",
+        "Removes the gloves after care and goes directly into the next patient's room, saying gloves protected the hands",
+        "Uses the stethoscope kept in the infant's room for the assessment",
+        "Wipes down the shared bladder scanner with disinfectant before taking it out of the room"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the student skips hand hygiene after glove removal. Analyze cues: RSV spreads by direct contact and contaminated surfaces, and hands can be contaminated during glove removal. Hand hygiene is the single most effective way to prevent transmission, and gloves do not replace it. Take action: stop the student and have them perform hand hygiene before entering another room. Evaluate outcomes: the student performs hand hygiene every time they remove gloves and leave the room.",
+        "incorrect": [
+          "Gown and gloves are correct contact-precaution PPE for RSV.",
+          "Dedicated equipment limits spread through contaminated surfaces, which is how contact organisms such as RSV move between patients.",
+          "Cleaning shared equipment before removing it is the correct infection-prevention step."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-year-old in the emergency department for an asthma exacerbation had loud wheezes 30 minutes ago. Now the nurse hears almost no breath sounds. The child is slumped over, hard to keep awake, and speaking one word at a time. SpO2 is 89%. A student says, \"The wheezing is gone, so the albuterol worked.\" How should the nurse interpret these findings?",
+      "options": [
+        "Very little air is moving and the child is tiring, so impending respiratory failure requires emergency escalation",
+        "Bronchospasm is resolving, so the child can rest and be reassessed in an hour",
+        "The child is sedated from albuterol, so the next scheduled dose should be held",
+        "The wheezing has moved to the upper airway, which suggests an aspirated foreign body"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: breath sounds have nearly disappeared, along with lethargy, one-word speech, and SpO2 89%. Analyze cues: wheezing requires airflow, so a silent chest means critically little air movement, and altered mental status shows the child is tiring. Prioritize hypotheses: impending respiratory failure. Take action: activate emergency help and support airway and breathing immediately. Evaluate outcomes: improvement means returning air movement (wheezes may briefly get louder), better alertness, and rising SpO2.",
+        "incorrect": [
+          "This is the trap the review warns about. A quieter chest in a tiring child is not improvement, and an hour's delay could be fatal.",
+          "Albuterol causes tremor and tachycardia, not sedation. Drowsiness here reflects worsening gas exchange, and holding the bronchodilator would be harmful.",
+          "The loss of sound is generalized and comes with exhaustion. That reflects poor airflow from severe asthma, not a new unilateral obstruction."
+        ]
+      }
+    },
+    {
+      "stem": "A 12-year-old with persistent asthma is prescribed an albuterol inhaler as needed and an inhaled fluticasone (corticosteroid) inhaler twice daily. Which statement by the adolescent indicates a need for further teaching?",
+      "options": [
+        "\"I'll use my albuterol when I start coughing and wheezing during soccer practice.\"",
+        "\"I'll keep taking the fluticasone every day, even when I feel totally fine.\"",
+        "\"If I'm struggling to breathe, I'll take a few extra puffs of fluticasone since it's the stronger medicine.\"",
+        "\"I'll rinse my mouth and spit after each fluticasone dose.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the adolescent plans to use the controller for acute symptoms. Analyze cues: inhaled corticosteroids reduce inflammation over time and do not provide immediate rescue, while albuterol opens airways quickly. Generate solutions: reteach the difference between rescue and controller medications using the asthma action plan. Take action: clarify that albuterol is used for symptoms and the yellow zone, and emergency care for the red zone. Evaluate outcomes: the adolescent correctly names which inhaler to use in each zone.",
+        "incorrect": [
+          "This is correct. Albuterol is the rescue drug for acute symptoms.",
+          "This is correct. Controllers must be taken regularly to prevent airway inflammation.",
+          "This is correct. Rinsing after an inhaled steroid reduces the risk of oral thrush and irritation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches the caregiver of a 5-year-old about using an albuterol metered-dose inhaler with a spacer. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"I'll shake the inhaler, attach it to the spacer, and have my child breathe in slowly through the mouthpiece.\"",
+        "\"If my child gets shaky and their heart races after a dose, that is an expected effect.\"",
+        "\"If the inhaler isn't helping and my child is very short of breath, we will go for emergency care.\"",
+        "\"We can skip the spacer when we're in a hurry because it mostly just makes the inhaler easier for small hands.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver thinks the spacer is a convenience. Analyze cues: a 5-year-old cannot reliably coordinate pressing the canister with a slow, deep breath. The spacer holds the medication so more of it reaches the lungs instead of the mouth and throat, which matters most for young children. Take action: reteach that the spacer is part of every dose. Evaluate outcomes: the caregiver demonstrates spacer use and states it is needed every time.",
+        "incorrect": [
+          "This is correct technique, and slow breaths through the spacer help deliver the medication to the lungs.",
+          "Tremor and tachycardia are known side effects of albuterol, so this shows understanding.",
+          "This matches the red zone of the action plan, so it shows understanding."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-year-old who started an inhaled corticosteroid 3 weeks ago comes to the clinic with white patches on the tongue and inner cheeks and says the mouth is sore. Which question should the nurse ask first?",
+      "options": [
+        "\"What do you do with your mouth right after you take your steroid inhaler?\"",
+        "\"How many times this week have you needed your albuterol inhaler?\"",
+        "\"Have you been sharing cups or water bottles with friends at school?\"",
+        "\"Have you had a fever or a sore throat in the past few days?\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new white oral patches and soreness 3 weeks after starting an inhaled corticosteroid. Analyze cues: medication left in the mouth can cause oral thrush and irritation, and rinsing after each dose reduces that risk. Prioritize hypotheses: a medication-technique problem is the most likely cause. Take action: ask an open-ended question about technique, then teach rinse-and-spit (and spacer use). Evaluate outcomes: the child shows the routine correctly and the patches do not come back.",
+        "incorrect": [
+          "Rescue-inhaler use is important for judging asthma control, but it does not explain the new oral finding.",
+          "This assumes a contagious cause and skips the medication cue that is the most likely explanation.",
+          "Screening for strep or a viral illness is reasonable later, but the cues point first to an adverse effect of the drug."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old receives an albuterol nebulizer for wheezing. Fifteen minutes later the heart rate is 134/min (was 118/min), the hands are trembling, and the child says they \"feel jittery.\" Wheezes are softer with good air movement, the respiratory rate dropped from 38 to 26/min, and SpO2 is 97%. What should the nurse conclude?",
+      "options": [
+        "The child is having an adverse reaction, so the provider should be notified and further doses held",
+        "The albuterol is working, and the tremor and tachycardia are expected effects to monitor",
+        "The higher heart rate means hypoxia is worsening, so supplemental oxygen should be started",
+        "The child is anxious about the hospital, so a distraction activity should be the priority"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: softer wheezes with good air movement, a lower respiratory rate, and SpO2 97%, along with tremor, jitteriness, and a heart rate of 134. Analyze cues: the respiratory cues show bronchodilation, and the cardiovascular and neuromuscular effects are known albuterol side effects. Evaluate outcomes: the drug worked, as shown by better airflow and less work of breathing, not by the heart rate. Take action: reassure the child and caregiver, continue monitoring, and keep the plan.",
+        "incorrect": [
+          "Tremor and tachycardia are listed side effects of albuterol, not a reaction. Holding the medication when it is working would put the child at risk of relapse.",
+          "SpO2 is 97% and breathing is improving. The heart rate is explained by the drug, so this misreads the cue.",
+          "Anxiety may add to the feeling, but the tremor comes from the drug. Missing the expected effect skips Analyze cues."
+        ]
+      }
+    },
+    {
+      "stem": "A 11-year-old's personal-best peak expiratory flow is 320 L/min. Tonight the child is coughing and short of breath. Twenty minutes after 2 puffs of albuterol, the peak flow is 150 L/min and the child says the inhaler \"isn't doing anything.\" Using the asthma action plan, what should the caregiver do?",
+      "options": [
+        "Keep taking the daily controller and recheck the peak flow in the morning",
+        "Give 2 more puffs of albuterol and call the provider's office when it opens in the morning",
+        "Double the inhaled corticosteroid dose tonight to calm the inflammation",
+        "Seek emergency care now because the child is in the red zone"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: symptoms despite albuterol and a peak flow of 150 L/min. Analyze cues: 150 ÷ 320 = about 47% of personal best, which is below 50% and in the red zone. The review also defines red zone as very short of breath or medication not helping. Prioritize hypotheses: a severe exacerbation that is not responding to rescue therapy. Take action: seek emergency care now. Evaluate outcomes: in the emergency setting, the peak flow should climb back toward personal best as air movement improves.",
+        "incorrect": [
+          "That is green-zone guidance. This child has symptoms and a failed rescue dose.",
+          "That is yellow-zone guidance. Waiting overnight when rescue medication is not working is unsafe.",
+          "Controllers work over time and are not a rescue strategy. This delays emergency care."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews asthma triggers with the caregiver of a 6-year-old newly diagnosed with asthma. Which statements by the caregiver indicate correct understanding? Select all that apply.",
+      "options": [
+        "\"A cold or other viral infection can set off an attack, so we will be careful about handwashing.\"",
+        "\"We will ask relatives not to smoke in the house or car.\"",
+        "\"Since running triggers wheezing, my child should sit out recess and gym class.\"",
+        "\"Sudden weather changes can bring on symptoms, so we will watch closely on those days.\"",
+        "\"Dust and pet dander bother adults with allergies, but they rarely trigger asthma in children.\"",
+        "\"Keeping the dog out of the bedroom and washing bedding often can cut down on triggers.\""
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues and Generate solutions: lecture triggers are viral infections, exercise, allergens (pollen, pets, dust), smoke exposure, and sudden weather changes. Take action: teach avoidance and control rather than restricting normal childhood activity. Evaluate outcomes: the caregiver names triggers and practical ways to reduce them, and does not overcorrect by banning play.",
+        "incorrect": [
+          "Correct—viral infections are a lecture trigger, and hand hygiene reduces exposure.",
+          "Correct—smoke exposure is a lecture trigger.",
+          "Incorrect—exercise is a trigger, but the green-zone goal is usual activity with good control. Restricting all activity is not the plan and is developmentally harmful for a school-age child.",
+          "Correct—sudden weather changes are a lecture trigger.",
+          "Incorrect—allergens such as pollen, pets, and dust are lecture triggers in children.",
+          "Correct—these steps reduce pet-dander and dust exposure, which are allergen triggers."
+        ]
+      }
+    },
+    {
+      "stem": "A 20-month-old was playing on the floor near an open bag of an older sibling's small candies when they suddenly started coughing and gagging. One hour later the toddler is breathing faster, with wheezing heard only over the right chest and diminished breath sounds on the right. There is no fever and no history of wheezing. Which condition best fits this presentation?",
+      "options": [
+        "A first asthma exacerbation triggered by the coughing episode",
+        "Bronchiolitis from a viral infection",
+        "Foreign-body aspiration",
+        "Right lower lobe pneumonia"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden coughing and gagging during play near small objects, followed by unilateral wheezing and decreased breath sounds, with no fever and no prior wheezing. Analyze cues: toddlers explore by putting objects in their mouths, and the review's classic pattern for aspiration is sudden choking with unilateral wheeze or decreased breath sounds. Prioritize hypotheses: foreign-body aspiration ranks above infectious or reactive causes. Take action: notify the provider promptly for airway evaluation and keep the child NPO and calm.",
+        "incorrect": [
+          "Asthma causes diffuse, usually bilateral wheezing tied to triggers. A sudden onset during play with one-sided findings points elsewhere.",
+          "Bronchiolitis follows days of cold symptoms and produces diffuse findings, not an abrupt start during play with no prior illness.",
+          "Pneumonia presents with fever, cough, tachypnea, and crackles over hours to days. This child is afebrile with an abrupt onset."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old with suspected foreign-body aspiration is waiting for evaluation. The toddler has decreased breath sounds and a wheeze on the left, a respiratory rate of 36/min, and SpO2 93%. Which new finding requires the nurse's immediate action?",
+      "options": [
+        "The toddler suddenly cannot cough, cry, or make sound and looks panicked",
+        "The wheeze on the left is now louder than it was on arrival",
+        "The caregiver is tearful and asks to hold the toddler on their lap",
+        "The toddler refuses the pulse oximeter probe and keeps pulling it off"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a sudden inability to cough, cry, or vocalize with panic in a child with a known aspirated object. Analyze cues: losing the ability to move air past the vocal cords means the object has shifted into a complete airway obstruction. Prioritize hypotheses: complete obstruction is immediately life-threatening, unlike persistent partial obstruction. Take action: call for emergency help and begin the facility's age-appropriate obstructed-airway rescue.",
+        "incorrect": [
+          "A change in wheeze needs reassessment, but the child is still moving air. It is less urgent than signs of complete obstruction.",
+          "Holding the toddler can calm them and reduce oxygen demand. This is a family-centered request, not an emergency.",
+          "Resisting equipment is developmentally expected at age 2 and is managed with distraction. It is not a sign of deterioration."
+        ]
+      }
+    },
+    {
+      "stem": "While auscultating an 18-month-old, the nurse hears a harsh, high-pitched sound during inspiration that is loudest over the neck. Which conclusion is most accurate?",
+      "options": [
+        "The bronchioles are narrowed, which suggests a lower-airway obstruction",
+        "The narrowing is in the upper airway, such as the larynx or trachea",
+        "Fluid is collecting in the alveoli, which suggests early pneumonia",
+        "Nasal congestion is causing the sound, so bulb suctioning should clear it"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a harsh, high-pitched inspiratory sound that is loudest over the neck. Analyze cues: this is stridor, which signals upper-airway obstruction (nose, pharynx, larynx, trachea). Wheezing is lower-airway and usually expiratory. Prioritize hypotheses: causes such as croup, epiglottitis, or a foreign body move to the top of the list. Take action: next, check whether the stridor is present at rest, which would be a red flag.",
+        "incorrect": [
+          "Bronchiolar narrowing produces wheezing, a musical sound that is usually expiratory, not a harsh inspiratory sound over the neck.",
+          "Alveolar fluid produces crackles over the lung fields, not an inspiratory sound loudest over the neck.",
+          "Nasal congestion causes snorting or transmitted upper-airway noise that clears with suctioning. A harsh inspiratory sound loudest at the neck points to the larynx or trachea, and assuming congestion could delay recognizing obstruction."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old has had 3 days of fever up to 39.4°C (102.9°F) and a wet cough. The respiratory rate is 40/min with mild subcostal retractions, and the nurse hears crackles over the right lower lobe. There is no stridor or barking cough. Which condition best fits this presentation?",
+      "options": [
+        "Pneumonia",
+        "Croup",
+        "Asthma exacerbation",
+        "Bronchiolitis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever, cough, tachypnea, crackles localized to one lobe, and increased work of breathing. Analyze cues: crackles mean fluid or inflammation in the alveoli, and the review gives fever, cough, tachypnea, and crackles as the pneumonia pattern. Prioritize hypotheses: pneumonia ranks above upper-airway or bronchospastic causes. Take action: assess oxygenation and work of breathing and escalate if the child deteriorates.",
+        "incorrect": [
+          "Croup is an upper-airway illness with barking cough and inspiratory stridor, neither of which is present.",
+          "Asthma presents with wheezing from bronchoconstriction, not with localized crackles and several days of high fever.",
+          "Bronchiolitis mainly affects infants and causes diffuse findings with copious nasal secretions, not localized lobar crackles in a 4-year-old."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a 6-year-old admitted with pneumonia. Which finding requires immediate follow-up?",
+      "options": [
+        "Temperature of 38.9°C (102°F) one hour after an antipyretic dose",
+        "Coughing up thick yellow sputum",
+        "New confusion and difficulty waking, with SpO2 falling from 94% to 89%",
+        "Crackles over the left base that are unchanged from admission"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new altered mental status and falling oxygen saturation. Analyze cues: altered mental status is a respiratory red flag, and together with declining saturation it shows that gas exchange is failing. Prioritize hypotheses: respiratory deterioration outranks expected pneumonia findings. Take action: escalate immediately and support oxygenation. Evaluate outcomes: improvement means better alertness and SpO2 back at baseline.",
+        "incorrect": [
+          "Persistent fever needs reassessment, but fever is a protective response and the number alone does not show deterioration.",
+          "Productive cough is expected with pneumonia and helps clear the airway.",
+          "Unchanged crackles show no improvement yet, but they are not a new change."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 3-year-old with a viral illness calls the clinic. The child's temperature is 39.0°C (102.2°F), and the child is playing with blocks, drinking juice, and urinating normally. The caregiver plans to wake the child every 2 hours overnight to give medicine \"so the fever never comes back.\" Which response by the nurse is best?",
+      "options": [
+        "\"Waking your child for doses is the best way to keep the fever from damaging the brain, so keep the schedule.\"",
+        "\"Give a cool bath along with the medicine every time the temperature goes above 38°C (100.4°F).\"",
+        "\"Bring your child to the emergency department any time the temperature goes above 39°C (102.2°F).\"",
+        "\"Fever helps the body fight the infection. Watch how your child acts and drinks, and use acetaminophen or ibuprofen as directed for comfort.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a temperature of 39.0°C in a 3-year-old who is playing, drinking, and urinating normally. Analyze cues: fever is a protective response that boosts immune function and slows pathogen growth, and this child's overall status is reassuring. Generate solutions: encourage fluids, give antipyretics for comfort when appropriate, and monitor clinical status. Take action: teach the caregiver to watch behavior and hydration rather than the number. Evaluate outcomes: the caregiver describes warning signs such as lethargy, poor intake, or breathing difficulty.",
+        "incorrect": [
+          "This reinforces fear of the number. The review emphasizes treating the child, not chasing the temperature.",
+          "Still treats the number instead of the child, and adds a measure the review does not list.",
+          "A playful, drinking child does not need emergency care based on a number alone. Escalation should be based on clinical status."
+        ]
+      }
+    },
+    {
+      "stem": "An 18-month-old is brought to the clinic with 2 days of fever. Which finding requires immediate follow-up?",
+      "options": [
+        "Hard to wake and not responding to the caregiver's voice",
+        "A temperature of 40.0°C (104°F) taken just before arrival",
+        "Flushed cheeks and skin that is warm to the touch",
+        "Eating less than usual but drinking fluids and having wet diapers"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a febrile toddler who is hard to arouse and does not respond to a familiar voice. Analyze cues: Appearance is the first side of the PAT, and altered mental status is a red flag regardless of the temperature. Prioritize hypotheses: serious infection with poor perfusion or neurologic compromise. Take action: escalate immediately for evaluation rather than giving an antipyretic and reassessing later.",
+        "incorrect": [
+          "A high number alone does not define severity. The child's overall status matters more.",
+          "Flushing and warmth are expected with fever and do not by themselves show poor perfusion.",
+          "Reduced appetite is common with illness. Adequate fluids and wet diapers show the child is hydrated."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old whose family declined vaccines returned from international travel 10 days ago. The child has 3 days of fever, cough, runny nose, and red watery eyes, and the nurse sees tiny white spots on the buccal mucosa. Which action should the nurse take first?",
+      "options": [
+        "Place the child in a private room with droplet precautions and wear a surgical mask",
+        "Move the child to a negative-pressure room and wear an N95 respirator for care",
+        "Put on a gown and gloves and finish the head-to-toe assessment in the exam room",
+        "Mask the child and have them sit in the general waiting area until the provider confirms the diagnosis"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: cough, coryza, and conjunctivitis (the 3 C's) with Koplik spots in an unvaccinated child who recently traveled. Analyze cues: Koplik spots are pathognomonic for measles, which spreads by the airborne route. Generate solutions: airborne precautions require a negative-pressure room and an N95 respirator. Take action: isolate first, then complete the assessment. Evaluate outcomes: no other children or unprotected staff are exposed.",
+        "incorrect": [
+          "Droplet precautions are used for pertussis and influenza. Measles stays suspended in the air, so a surgical mask and a standard room do not protect staff or other patients.",
+          "Contact precautions fit RSV, not measles. Continuing the exam in a standard room exposes others before isolation is in place.",
+          "Waiting for confirmation in a shared space exposes other, often unvaccinated or immunocompromised, children. Precautions start as soon as the illness is suspected."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old has a low-grade fever and an intensely itchy rash that started on the trunk. On inspection the nurse sees flat red spots, raised bumps, fluid-filled blisters, and crusted lesions all present at the same time. Which conclusion and precaution are correct?",
+      "options": [
+        "Hand, foot, and mouth disease; contact precautions",
+        "Measles; airborne precautions",
+        "Scarlet fever; droplet precautions",
+        "Varicella; airborne precautions"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: intense itching and lesions in several stages at once (macules, papules, vesicles, crusts). Analyze cues: lesions in different stages of healing are the hallmark of varicella. Prioritize hypotheses: varicella over the other rash illnesses. Take action: use airborne precautions as listed in the course keypoints, and manage itching to reduce scratching.",
+        "incorrect": [
+          "Hand, foot, and mouth disease causes vesicles on the hands and feet with painful oral ulcers, not a trunk-first rash in several stages at once.",
+          "The precaution fits, but measles presents with the 3 C's and Koplik spots, not itchy vesicles in different stages.",
+          "Scarlet fever has a sandpaper rash with strawberry tongue and sore throat. It is not vesicular or intensely itchy in this way."
+        ]
+      }
+    },
+    {
+      "stem": "A 12-month-old had fevers up to 40°C (104°F) for 3 days. The fever stopped yesterday. Today the infant is playful and eating well, and a pink, flat rash has appeared on the trunk. The caregiver is frightened by the rash. What should the nurse conclude?",
+      "options": [
+        "A rash after high fever points to measles, so the infant needs airborne isolation",
+        "The rash is likely an allergy to the fever medicine, so the antipyretic should be stopped and reported",
+        "This sequence fits roseola, in which the rash appears after the high fever resolves",
+        "High fever followed by a rash suggests scarlet fever, so a strep test is needed"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 3 days of high fever, then the fever resolves, then a rash appears in an infant who now looks well. Analyze cues: the review stresses timing, and high fever followed by defervescence and then rash is roseola. Prioritize hypotheses: roseola over measles, scarlet fever, or drug reaction. Take action: reassure the caregiver, explain the expected course, and teach hydration and warning signs. Evaluate outcomes: the caregiver can describe the pattern and when to call.",
+        "incorrect": [
+          "Measles has the 3 C's and Koplik spots, and the rash appears while the child is still ill. A well-appearing infant whose rash came after the fever broke does not fit.",
+          "This blames a drug when the timing matches a classic viral pattern. It misreads the key cue, which is the rash appearing after the fever resolved.",
+          "Scarlet fever comes with sore throat, exudates, a sandpaper rash, and strawberry tongue while the child is febrile."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old's caregiver reports that last week the child's cheeks turned bright red \"like they'd been slapped.\" Now there is a lacy, pink rash on the arms and thighs. The child is afebrile, eating well, and playing normally. Which condition best fits?",
+      "options": [
+        "Fifth disease",
+        "Scarlet fever",
+        "Roseola",
+        "Measles"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: slapped-cheek redness followed a week later by a lacy rash on the limbs in a well, afebrile child. Analyze cues: slapped cheek followed by a lacy rash is the recognition-table hallmark of fifth disease. Prioritize hypotheses: fifth disease over illnesses that make children look sick. Take action: provide supportive care and reassure the family.",
+        "incorrect": [
+          "Scarlet fever brings sore throat, fever, exudates, a sandpaper rash, and strawberry tongue in an ill-appearing child.",
+          "Roseola follows a period of high fever and is not preceded by bright red cheeks.",
+          "Measles comes with fever, the 3 C's, and Koplik spots in a sick child, not a well child with slapped cheeks."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old whose immunizations are incomplete has had 2 weeks of coughing spells: a long run of rapid coughs, then a high-pitched \"whoop\" on inhalation, and sometimes vomiting afterward. Between spells the child looks well and has no fever. Which conclusion and precaution are correct?",
+      "options": [
+        "Croup; contact precautions",
+        "Pertussis; droplet precautions",
+        "Pertussis; airborne precautions",
+        "Asthma; standard precautions only"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: paroxysmal coughing, an inspiratory whoop, and post-tussive vomiting in an under-immunized child who is afebrile and looks well between spells. Analyze cues: the review says to think prolonged coughing spells rather than fever, which matches pertussis. Generate solutions: pertussis spreads by respiratory droplets. Take action: use droplet precautions.",
+        "incorrect": [
+          "Croup has a barking cough with stridor and is worse at night, without paroxysms that end in vomiting.",
+          "The disease is right, but the course keypoints list pertussis under droplet precautions. Airborne is for measles and varicella.",
+          "Asthma causes wheezing and does not produce an inspiratory whoop with vomiting after the cough. Missing the infectious cause would expose others."
+        ]
+      }
+    },
+    {
+      "stem": "A 15-year-old male with mumps has bilateral parotid swelling, a temperature of 38.5°C (101.3°F), headache, and malaise. Which new finding requires the nurse's follow-up?",
+      "options": [
+        "A painful, swollen testicle",
+        "Jaw pain that worsens when chewing",
+        "Ongoing headache and fatigue",
+        "Temperature of 38.5°C (101.3°F)"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a post-pubertal male with mumps who develops testicular pain and swelling. Analyze cues: the review names orchitis in post-pubertal males as a key complication. Expected findings — parotid pain, fever, headache, malaise — are not the concern. Prioritize hypotheses: orchitis. Take action: report the finding to the provider for evaluation and comfort management.",
+        "incorrect": [
+          "Pain with chewing is expected with inflamed parotid glands and is managed with soft foods and analgesics.",
+          "Headache and malaise are listed hallmark findings of mumps and are expected.",
+          "Fever is an expected part of mumps and a protective response. The number alone is not the new concern."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old has a sudden sore throat, a temperature of 39.2°C (102.6°F), white exudate on the tonsils, and tender anterior cervical lymph nodes. Today a fine, red rash that feels like sandpaper has appeared on the trunk, and the tongue is bright red and bumpy. Which condition best fits?",
+      "options": [
+        "Kawasaki disease",
+        "Mononucleosis",
+        "Scarlet fever",
+        "Measles"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden sore throat, fever, tonsillar exudate, and tender anterior nodes, plus a sandpaper rash and strawberry tongue. Analyze cues: the first group is group A strep pharyngitis, and the sandpaper rash with strawberry tongue marks progression to scarlet fever. Prioritize hypotheses: scarlet fever over Kawasaki, which needs prolonged fever with conjunctivitis and extremity changes. Take action: anticipate strep testing and treatment as prescribed.",
+        "incorrect": [
+          "Kawasaki also causes strawberry tongue, but it requires more than 5 days of fever with conjunctivitis and changes in the hands and feet, and it does not cause exudative tonsillitis.",
+          "Mono causes exudative pharyngitis with posterior cervical nodes, fatigue, and splenomegaly, not a sandpaper rash with strawberry tongue.",
+          "Measles presents with the 3 C's and Koplik spots, not exudative tonsillitis with a sandpaper rash."
+        ]
+      }
+    },
+    {
+      "stem": "A 16-year-old varsity soccer player has mononucleosis with posterior cervical lymphadenopathy, severe fatigue, and an enlarged spleen. Which statement by the adolescent indicates a need for further teaching?",
+      "options": [
+        "\"I'm going to rest a lot, because feeling this wiped out is part of the illness.\"",
+        "\"I won't share water bottles with teammates while I'm sick.\"",
+        "\"If I suddenly get sharp pain in my upper-left belly, I'll get help right away.\"",
+        "\"As soon as I have my energy back I'll return to soccer, even if my spleen is still a little big.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an athlete in a contact sport with splenomegaly who plans to return when the fatigue goes away. Analyze cues: the review's major teaching point is to avoid contact sports until the spleen returns to normal size, because of the risk of rupture. Feeling better does not mean the spleen has shrunk. Take action: reteach that return to play depends on the spleen resolving, as confirmed by the provider, not on energy level. Evaluate outcomes: the adolescent states they will not play until cleared.",
+        "incorrect": [
+          "This is correct. Significant fatigue is expected with mono, and rest is appropriate.",
+          "This is appropriate infection-prevention behavior for a virus spread through saliva.",
+          "This is correct. Sudden left-upper abdominal pain can signal splenic rupture and needs emergency care."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old has painful ulcers on the tongue and gums, vesicles on the palms and soles, and a temperature of 38.4°C (101.1°F). Which finding requires the nurse's immediate follow-up?",
+      "options": [
+        "No wet diaper in 10 hours, dry lips, and listlessness",
+        "A few vesicles on the buttocks as well as the hands and feet",
+        "Refusing crackers and toast but taking frozen ice pops",
+        "Temperature of 38.4°C (101.1°F) with fussiness when the mouth is examined"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: no urine output for 10 hours, dry mucous membranes, and listlessness in a toddler with painful oral lesions. Analyze cues: in hand, foot, and mouth disease, hydration is often the biggest concern because mouth pain limits intake, and these cues show dehydration with an altered appearance. Prioritize hypotheses: dehydration outranks the expected rash and fever. Take action: escalate for hydration assessment and treatment, give pain relief so the child can drink, and offer cool fluids. Evaluate outcomes: wet diapers return and the child becomes more alert.",
+        "incorrect": [
+          "Buttock lesions are part of the classic hand, foot, and mouth pattern, so they are expected.",
+          "Avoiding solids and accepting cool, soft items is expected with painful mouth ulcers. Cool fluids are exactly what is recommended.",
+          "Fever and oral pain are expected and treated with acetaminophen or ibuprofen. They are not the most concerning cue here."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-year-old has had a fever for 6 days despite antipyretics. The nurse notes red eyes without discharge in both eyes, cracked red lips with a strawberry tongue, a single swollen cervical lymph node, and red, swollen hands and feet. The caregiver says, \"Daycare had hand, foot, and mouth going around.\" Which conclusion should the nurse act on?",
+      "options": [
+        "This fits hand, foot, and mouth disease, so supportive care with fluids at home is appropriate",
+        "This pattern fits Kawasaki disease, a serious illness that needs prompt provider evaluation",
+        "This fits scarlet fever, so a rapid strep test should be obtained",
+        "This fits measles, so the child should be placed on airborne precautions"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever longer than 5 days, conjunctivitis, strawberry tongue and red lips, lymphadenopathy, and changes in the hands and feet. Analyze cues: the review gives this as the Kawasaki pattern and contrasts it with common, self-limited hand, foot, and mouth disease. Prioritize hypotheses: Kawasaki disease is serious, and a misleading exposure history must not anchor the conclusion. Take action: arrange prompt provider evaluation instead of home supportive care.",
+        "incorrect": [
+          "This anchors on the daycare exposure. Hand, foot, and mouth disease causes oral ulcers and vesicles, not prolonged fever with conjunctivitis and swollen, red extremities.",
+          "Strawberry tongue overlaps, but scarlet fever has exudative pharyngitis and a sandpaper rash, not 6 days of fever with conjunctivitis and extremity changes.",
+          "Measles conjunctivitis comes with cough, coryza, and Koplik spots. Changes in the hands and feet and a single large node are not measles cues."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old has a temperature of 39.1°C (102.4°F), refuses to walk, holds the right hip flexed, and screams when the nurse gently moves the hip through passive range of motion. Which action should the nurse take?",
+      "options": [
+        "Apply a warm compress, give ibuprofen, and recheck the child's gait in 4 hours",
+        "Help the child walk a few steps to prevent stiffness while waiting for the provider",
+        "Arrange an outpatient MRI to check for osteomyelitis",
+        "Notify the provider now and prepare for urgent joint aspiration and IV antibiotics"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever, refusal to bear weight, a guarded flexed hip, and severe pain with passive range of motion. Analyze cues: pain with passive motion localizes the problem to the joint space, matching septic arthritis, which is usually caused by Staphylococcus aureus. Prioritize hypotheses: septic arthritis is an orthopedic emergency. Take action: notify the provider now and prepare for urgent aspiration and IV antibiotics. Evaluate outcomes: fever and pain decrease and the child begins to bear weight.",
+        "incorrect": [
+          "Comfort measures alone delay treatment of an orthopedic emergency, and ibuprofen may mask the fever and pain cues.",
+          "Weight-bearing on an infected joint is painful and does not help. Refusal to bear weight is itself a red flag.",
+          "MRI is the gold standard for osteomyelitis, but these cues point to septic arthritis, which cannot wait for outpatient imaging."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-year-old with osteomyelitis is being discharged with a PICC line for several weeks of IV antibiotics. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"We'll keep the PICC dressing clean and dry and call if the site gets red or swollen.\"",
+        "\"The follow-up blood tests for inflammation will help show whether the treatment is working.\"",
+        "\"Once the fever is gone and the leg stops hurting, we can ask to stop the IV antibiotics early.\"",
+        "\"The MRI is what showed the infection was in the bone and not just the skin.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver plans to stop IV antibiotics when symptoms improve. Analyze cues: osteomyelitis needs long-term IV antibiotics, often through a PICC, and feeling better comes before the bone infection is eradicated. Take action: reteach completing the full prescribed course. Evaluate outcomes: the caregiver says the antibiotics will continue until the provider stops them, guided by inflammatory markers and clinical response.",
+        "incorrect": [
+          "Correct line care and knowing when to report infection signs show understanding.",
+          "Elevated inflammatory markers are part of osteomyelitis, and watching them fall is a valid way to judge response.",
+          "MRI is the diagnostic gold standard for osteomyelitis, so this is accurate."
+        ]
+      }
+    },
+    {
+      "stem": "It is Thursday at 1000. Four children with confirmed influenza are seen in the clinic. Based on the lecture's guidance on oseltamivir timing, which child is most likely to benefit from starting it today?",
+      "options": [
+        "A 4-year-old whose symptoms began Tuesday at 2000",
+        "A 6-year-old whose symptoms began Monday at 0800",
+        "A 9-year-old whose symptoms began Tuesday at 0600",
+        "A 7-year-old whose symptoms began Sunday at 1800"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: four children with different times of symptom onset. Analyze cues: lecture notes that oseltamivir is most useful when started within 2 days (48 hours) of symptom onset. From Tuesday 2000 to Thursday 1000 is 38 hours, the only onset inside the window. Generate solutions and Take action: prioritize this child for the prescription, and give all four supportive care with rest, hydration, and antipyretics. Evaluate outcomes: symptoms resolve sooner.",
+        "incorrect": [
+          "Symptoms started 74 hours ago, which is beyond the 2-day window when oseltamivir is most useful.",
+          "Symptoms started 52 hours ago. That is just past 48 hours, a close but incorrect calculation.",
+          "Symptoms started more than 3.5 days ago, well outside the window when oseltamivir is most useful."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing a 3-year-old with an acute respiratory illness. Which findings require immediate escalation? Select all that apply.",
+      "options": [
+        "Inspiratory stridor while sitting quietly",
+        "Clear rhinorrhea and an occasional loose cough",
+        "Deep intercostal and suprasternal retractions",
+        "Becoming drowsy and harder to engage in play",
+        "Temperature of 38.0°C (100.4°F)",
+        "A chest that is now quiet with poor air movement after earlier loud wheezing"
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues and Analyze cues: the review's red flags are stridor at rest, severe retractions, cyanosis, altered mental status, poor air movement or silent chest, decreasing effort, and severe exhaustion. Prioritize hypotheses: these signal airway obstruction or impending respiratory failure. Take action: airway, breathing, and rapid escalation come before routine comfort measures. Cough, rhinorrhea, and low-grade fever are monitored but do not trigger emergency escalation.",
+        "incorrect": [
+          "Correct—stridor at rest is a red flag for significant upper-airway obstruction.",
+          "Incorrect—a simple cough or runny nose is less concerning than signs of increased work of breathing.",
+          "Correct—severe retractions show markedly increased work of breathing.",
+          "Correct—altered mental status or lethargy suggests hypoxia or tiring and possible impending failure.",
+          "Incorrect—low-grade fever is a protective response and is not a respiratory red flag by itself.",
+          "Correct—a silent chest is not improvement. It can mean critically little airflow."
+        ]
+      }
+    },
+    {
+      "stem": "A charge nurse is assigning rooms on a pediatric unit. Which children require a negative-pressure room with N95 respirator use (airborne precautions)? Select all that apply.",
+      "options": [
+        "A 4-month-old with RSV bronchiolitis",
+        "A 3-year-old with cough, coryza, conjunctivitis, and Koplik spots",
+        "A 6-year-old with confirmed influenza",
+        "A 5-year-old with itchy vesicles in multiple stages of healing",
+        "A 7-year-old with paroxysmal cough, whoop, and post-tussive vomiting"
+      ],
+      "answer": [
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: identify each disease from its hallmark findings. Analyze cues: match each disease to its route — airborne for measles and varicella, droplet for pertussis and influenza, contact for RSV. Take action: put the measles and varicella patients in negative-pressure rooms with N95 use, and use hand hygiene for every patient. Evaluate outcomes: no cross-transmission on the unit.",
+        "incorrect": [
+          "Incorrect—RSV requires contact precautions (gown and gloves), not airborne.",
+          "Correct—this is measles, which requires airborne precautions.",
+          "Incorrect—influenza is listed under droplet precautions.",
+          "Correct—this is varicella, which requires airborne precautions.",
+          "Incorrect—pertussis is listed under droplet precautions."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews home care with the caregiver of a 4-year-old with cystic fibrosis. Which statements by the caregiver indicate correct understanding? Select all that apply.",
+      "options": [
+        "\"We'll give the enzyme capsules right before every meal and every snack.\"",
+        "\"We'll keep doing airway clearance every day, even on days my child seems well.\"",
+        "\"We'll do chest physiotherapy right after meals, when my child has the most energy.\"",
+        "\"We'll pick high-calorie, high-protein foods and won't cut back on fat.\"",
+        "\"We'll limit salt because sweat tests showed my child already has too much.\""
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues and Analyze cues: CF (autosomal recessive CFTR mutation) causes thick airway secretions, pancreatic insufficiency with poor absorption and failure to thrive, and salt loss in sweat. Generate solutions: daily airway clearance timed away from meals, enzymes with all food, a high-calorie, high-protein, high-fat diet, and sodium replacement. Evaluate outcomes: the caregiver's plan matches each principle, and the child shows weight gain and fewer frothy, foul-smelling stools.",
+        "incorrect": [
+          "Correct—prescribed pancreatic enzymes are given immediately before all meals and snacks.",
+          "Correct—daily airway clearance continues even when the child is well.",
+          "Incorrect—airway clearance is scheduled before meals or 1–2 hours after eating, not immediately after.",
+          "Correct—children with CF need a high-calorie, high-protein, high-fat diet.",
+          "Incorrect—high sweat chloride means salt is lost in sweat, so sodium replacement is encouraged as directed."
+        ]
+      }
+    }
+  ]
+}

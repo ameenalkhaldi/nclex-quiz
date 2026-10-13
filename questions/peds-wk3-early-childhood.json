@@ -1,0 +1,769 @@
+{
+  "topic": "peds-wk3-early-childhood",
+  "label": "Peds: Week 3 — Toddler & Preschool Development",
+  "questions": [
+    {
+      "stem": "A caregiver of a 26-month-old says, \"Every morning is a battle. They scream 'No!' and 'Me do it!' when I try to dress them, and we end up late. I think something is wrong with their behavior.\" The child's development is otherwise on track. Which response by the nurse is best?",
+      "options": [
+        "\"This is a sign of oppositional behavior, so a referral to a behavioral specialist would help.\"",
+        "\"Lay out two outfits the night before and let your child pick one and help put it on.\"",
+        "\"Dress your child quickly before they are fully awake so the struggle does not start.\"",
+        "\"Explain to your child why being late is a problem before you start getting dressed.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 2-year-old who says \"no,\" insists on doing it alone, and is otherwise developing normally. Analyze cues: this is Erikson's Autonomy vs. Shame and Doubt; wanting control over dressing is healthy, not oppositional. Generate solutions: support autonomy safely with limited, acceptable choices and time for self-help. Take action: offer two acceptable outfits and let the child participate. Evaluate outcomes: fewer power struggles and more cooperation in the routine.",
+        "incorrect": [
+          "Labeling a typical toddler's \"no\" as oppositional misreads the cue (an Analyze cues error). The review's exam favorite states this is normal autonomy, so an automatic referral is not indicated.",
+          "Dressing the child before they can resist removes the autonomy the toddler is working to develop. It avoids one battle but does not support the developmental task and may increase frustration later.",
+          "Toddlers have limited logic and language, so a reasoned explanation about time does not match their cognitive stage. Short, concrete directions and choices work better than lengthy explanations."
+        ]
+      }
+    },
+    {
+      "stem": "A clinic nurse reviews messages from caregivers of four children. Which child should the nurse prioritize for a developmental screening appointment?",
+      "options": [
+        "A 30-month-old who has no two-word phrases, rarely makes eye contact, lines up toys repeatedly, and does not pretend play",
+        "A 2-year-old who has three or four tantrums a week when told it is time to leave the playground",
+        "A 4-year-old who has an imaginary friend named \"Zoom\" who must have a seat at dinner",
+        "A 2-year-old who plays beside other children at daycare but rarely shares toys with them"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: absent two-word phrases at 2.5 years, limited eye contact, repetitive behavior, and no pretend play. Analyze cues: these are red flags across three domains: language, social reciprocity, and play. Prioritize hypotheses: a pattern of red flags across domains suggests a developmental disorder that needs evaluation, while the other children show expected behavior. Take action: arrange developmental screening and evaluation promptly rather than waiting.",
+        "incorrect": [
+          "Tantrums during transitions are common in toddlers because of strong emotions and limited self-regulation. Without injury, extreme duration, or other red flags, coaching is appropriate, not urgent screening.",
+          "An imaginary friend is a normal part of preschool imagination and initiative. Treating it as abnormal is specifically listed as something to avoid.",
+          "Playing beside peers without sharing is parallel play, which is expected to begin by age 2. Difficulty sharing at this age is not a red flag."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is completing well-child visits for four 3-year-olds. Which finding requires follow-up?",
+      "options": [
+        "The child talks to a stuffed bear and says the bear is \"scared of the doctor\"",
+        "The child is afraid of the dark and needs a night-light to fall asleep",
+        "The caregiver and the nurse can understand very few of the child's words",
+        "The child takes turns in a simple game but gets upset when losing"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 3-year-old whose speech is mostly not understandable, even to the caregiver. Analyze cues: by age 3 children should use short sentences; limited understandable speech at 3 is a red flag named in the professor's recap. Prioritize hypotheses: a language delay (or hearing or other developmental problem) must be ruled out. Take action: perform developmental screening and refer for further evaluation.",
+        "incorrect": [
+          "Giving feelings to a toy is symbolic, pretend play typical of the preoperational stage. It shows healthy imagination, not a problem.",
+          "Fear of the dark is one of the common preschool fears listed in the review. A night-light is a reasonable comfort measure, and no follow-up is needed.",
+          "Turn-taking is an expected preschool social skill, and frustration at losing reflects immature emotional regulation. This is normal variation."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 22-month-old reports, \"At 15 months they said 'mama,' 'ball,' and 'dog' and waved bye-bye. Now they don't say any words and don't wave anymore.\" The child is walking and climbing well. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "The child's motor skills are developing quickly, so language is temporarily on hold and should catch up",
+        "Loss of words and gestures the child once had is developmental regression that needs prompt evaluation",
+        "Many toddlers go quiet when a younger sibling arrives, so the nurse should ask about recent family changes first",
+        "Toddlers often refuse to talk as part of saying \"no,\" so this reflects normal autonomy"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: words and gestures that were present at 15 months are now gone. Analyze cues: losing previously acquired skills is regression, which the review lists first among red flags. Prioritize hypotheses: regression in language and social gestures suggests a possible developmental disorder and outranks benign explanations. Take action: arrange developmental screening and referral now. Good motor skills do not offset a loss in another domain.",
+        "incorrect": [
+          "Development is assessed across all five domains. Strong motor progress does not explain the loss of language, and waiting for it to catch up delays evaluation of a red flag.",
+          "Family stressors are worth asking about, but loss of established language and gestures is a red flag that warrants evaluation regardless. Assuming a benign cause first skips Prioritize hypotheses.",
+          "Autonomy shows up as refusal and saying \"no,\" not as losing words. A child who says \"no\" is still using language, so this misreads the cue."
+        ]
+      }
+    },
+    {
+      "stem": "At a 24-month well-child visit, the nurse gathers the following information. Which finding requires follow-up?",
+      "options": [
+        "The child walks up the stairs while holding the caregiver's hand",
+        "The child stacks five blocks before knocking the tower over",
+        "The child plays next to a cousin with separate toys and rarely interacts",
+        "The child uses about 20 single words but no word combinations"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 2-year-old with single words only. Analyze cues: the course milestone for age 2 is two-word phrases; the other findings all meet the age-2 list (stairs with assistance, tower of 4+ blocks, parallel play). Prioritize hypotheses: a possible expressive language delay. Take action: complete a developmental screen and evaluate hearing and language, considering the whole pattern rather than a single milestone alone.",
+        "incorrect": [
+          "Walking up and down stairs with assistance is an expected milestone by age 2. Needing a hand is normal at this age.",
+          "A tower of 4 or more blocks is the age-2 fine motor milestone, so 5 blocks is on track.",
+          "Playing beside a peer with limited interaction is parallel play, which begins by age 2. It is expected, not a social red flag."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver of a 3-year-old asks the nurse, \"Is my child where they should be?\" Which caregiver report best indicates that the child is meeting the expected milestones for this age?",
+      "options": [
+        "\"They walk well, scribble with a crayon, and point to what they want.\"",
+        "\"They run and climb, stack four blocks, and say things like 'more juice.'\"",
+        "\"They jump with both feet, eat with a spoon and fork, and talk in short sentences.\"",
+        "\"They walk up the stairs while holding my hand and play beside their cousin.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver's descriptions of motor, fine motor, language, and play skills. Analyze cues: by age 3 the course expects jumping with both feet, throwing a ball overhand, feeding self with utensils, short sentences, and more interactive play. Prioritize hypotheses: only this report matches the age-3 list; the others describe younger milestones. Evaluate outcomes: the nurse can reassure the caregiver while continuing routine surveillance.",
+        "incorrect": [
+          "Walking, scribbling, and single-word or gestural communication are around-1-year skills. At age 3 this pattern would suggest delay, not readiness.",
+          "Running, climbing, a 4-block tower, and two-word phrases are age-2 milestones. They are met but do not show that age-3 skills have emerged.",
+          "Stairs with assistance and parallel play are age-2 milestones. By 3 the child should be moving toward more interactive play."
+        ]
+      }
+    },
+    {
+      "stem": "In the waiting room, a 2-year-old throws themself to the floor screaming after being told they cannot have a sibling's tablet. The child is kicking and repeatedly hitting their head against the corner of a metal chair leg. The caregiver turns away to ignore the behavior. What is the nurse's priority action?",
+      "options": [
+        "Praise the caregiver for not giving in and remind them to stay calm",
+        "Offer the child a sticker if they stop screaming and sit up",
+        "Explain to the child in a calm voice why they cannot have the tablet",
+        "Move the child away from the chair to a clear area while staying calm"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a tantrum in which the child is striking their head against a hard object. Analyze cues: ignoring a tantrum is appropriate only if it is safe; this one is not. Prioritize hypotheses: risk of injury outranks the behavioral goal. Take action: move the child to a safe space with few words, holding the limit about the tablet. Then coach the caregiver. Evaluate outcomes: the child calms without injury and without being rewarded.",
+        "incorrect": [
+          "Not giving in is correct, but planned ignoring is only safe when the child cannot be hurt. Praising the caregiver while the child hits their head on metal puts the behavioral goal ahead of safety.",
+          "Offering a reward to stop the tantrum reinforces it, making repeat tantrums more likely. It also does nothing about the immediate injury risk.",
+          "Lengthy explanations during a tantrum are listed as something to avoid; a dysregulated toddler cannot process them. It also leaves the child at risk of injury."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse has taught the caregiver of a 2-year-old about managing temper tantrums. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll give them a snack before we go shopping, since they melt down more when they're hungry.\"",
+        "\"I'll give a five-minute warning before it's time to leave the park so the change isn't a surprise.\"",
+        "\"When they scream for a cookie in the checkout line, I'll give one so the whole store isn't staring.\"",
+        "\"I'll keep my voice calm and use just a few words, and I won't change the rule.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver plans to hand over the demanded item to end a public tantrum. Analyze cues: giving in solely to stop the behavior reinforces it, turning frustration tantrums into attention-seeking tantrums that recur because they work. Generate solutions: hold the boundary calmly and ensure safety even in public. Take action: reteach and help the caregiver plan for public settings. Evaluate outcomes: understanding is shown when the caregiver can describe holding the limit without yelling or shaming.",
+        "incorrect": [
+          "Hunger is a known tantrum trigger. Anticipating it is a correct \"before\" strategy.",
+          "Transitions trigger tantrums, so a warning before leaving builds predictability. This statement is correct.",
+          "Staying calm, using few words, and holding the boundary are the recommended \"during\" strategies. This statement is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver of a 4-year-old asks how to use time-out after the child hits a sibling. Using the course guideline, which plan should the nurse recommend?",
+      "options": [
+        "Time-out right after the hitting for about 4 minutes, then return to normal play and interaction",
+        "Time-out right after the hitting for about 10 minutes, then talk through what the child did wrong",
+        "Time-out at bedtime for about 4 minutes, so the child connects it with the day's behavior",
+        "Time-out right after the hitting until the child apologizes, however long that takes"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 4-year-old with a specific behavior needing a consequence. Analyze cues: the course rule is about 1 minute per year of age, used immediately after the behavior, followed by a return to normal interaction. Generate solutions: 4 years × 1 minute = about 4 minutes, given right away. Take action: teach that plan. Evaluate outcomes: the child links the consequence to the behavior, and the relationship resumes without lingering punishment.",
+        "incorrect": [
+          "Ten minutes is over twice the guideline for a 4-year-old. Following it with a lecture replaces the recommended return to normal interaction with a lengthy explanation.",
+          "The duration is right, but delaying until bedtime breaks the link between behavior and consequence. Preoperational children need it to happen immediately.",
+          "An open-ended time-out tied to an apology is neither brief nor predictable, and it can become a power struggle. The guideline is brief, immediate, and age-based."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews discipline strategies with the caregiver of a 3-year-old. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"Time-out should last about 3 minutes for my child right now.\"",
+        "\"When time-out is over, I'll go back to playing with them as usual.\"",
+        "\"I'll use the same rules for time-out every time so they know what to expect.\"",
+        "\"If they throw food at lunch, I'll save the time-out for when their dad gets home.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver plans to delay the time-out by hours. Analyze cues: time-outs must be immediate; a preschooler with limited logic cannot connect a delayed consequence to the behavior, and waiting for another parent also brings in anticipatory fear. Take action: teach that time-out is used immediately after the behavior, is brief, and is followed by normal interaction. Evaluate outcomes: the caregiver restates the plan as immediate, about 3 minutes, and consistent.",
+        "incorrect": [
+          "About 1 minute per year of age gives 3 minutes for a 3-year-old. This is correct.",
+          "A return to normal interaction afterward is part of the guideline. This is correct.",
+          "Consistency is a key counseling point. This is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver brings a 19-month-old to the clinic and reports, \"When I took a toy away, they cried hard, then stopped breathing, turned blue, and went limp for a few seconds. Then they took a big breath and were back to normal.\" The child now plays happily and has a normal examination. Which conclusion best fits this presentation?",
+      "options": [
+        "A breath-holding spell, a usually benign reflex event triggered by frustration",
+        "A seizure, because loss of tone and color change indicate seizure activity",
+        "An airway obstruction from the toy, because cyanosis suggests aspiration",
+        "A frustration tantrum that ended in fainting from hyperventilation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a clear emotional trigger (a toy taken away), vigorous crying, then brief apnea, cyanosis, and limpness with spontaneous, rapid recovery and a normal examination. Analyze cues: the review describes breath-holding spells exactly this way, as typically benign reflex events triggered by crying, frustration, fear, or anger. Prioritize hypotheses: the trigger-cry-apnea sequence with full recovery fits breath-holding better than the alternatives. Generate solutions: reassure and teach safety measures during spells. A first, prolonged, or atypical event would still need full assessment.",
+        "incorrect": [
+          "A seizure does not typically follow a provoking cry, and recovery is usually not instant. The emotional trigger and brief cry-then-apnea sequence point away from seizure, though an atypical or prolonged event would warrant evaluation.",
+          "Aspiration would cause coughing, choking, or ongoing distress, and the episode began with crying, which requires an open airway. The child is now normal on examination.",
+          "Hyperventilation involves rapid breathing, but this child stopped breathing and turned blue. Apnea with cyanosis after a hard cry is the hallmark of a breath-holding spell, so this misreads the key cue."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse receives four phone calls from caregivers of toddlers with known breath-holding spells. Which report requires immediate follow-up?",
+      "options": [
+        "\"After crying, she turned pale, went limp for about 5 seconds, then woke up and cried again.\"",
+        "\"He had a spell, turned blue for a few seconds, and has been playing normally since then.\"",
+        "\"She passed out during a spell 3 minutes ago and is still hard to wake up.\"",
+        "\"He has had two spells this week, both when his older brother took his toy.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a child who lost consciousness during a spell and is still difficult to rouse minutes later. Analyze cues: breath-holding spells resolve spontaneously and quickly; the review states that failure to recover promptly needs urgent assessment. Prioritize hypotheses: prolonged altered consciousness suggests a different or more serious process such as a seizure or hypoxic injury. Take action: direct the caregiver to activate emergency services and keep the child safe.",
+        "incorrect": [
+          "Brief pallor and limpness with prompt recovery and renewed crying fit a typical benign spell. It needs education, not emergency care.",
+          "A short cyanotic episode followed by normal play is the expected course of a breath-holding spell.",
+          "Repeated spells with the same frustration trigger are a typical pattern. It warrants teaching and routine follow-up, not immediate intervention."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches the caregiver of an 18-month-old about breath-holding spells. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"If they go limp, I'll lay them on the floor away from furniture.\"",
+        "\"I'll put my finger in their mouth to keep their airway open during a spell.\"",
+        "\"I'll call for help if a spell lasts longer than usual or they don't recover quickly.\"",
+        "\"I'll stay calm during a spell because they usually start breathing again on their own.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver plans to put a finger in the child's mouth. Analyze cues: the review says not to put anything in the mouth or shake the child; doing so risks injury to the child and the caregiver and does not end the spell. Take action: reteach that the response is keeping the child safe from injury and allowing spontaneous recovery. Evaluate outcomes: the caregiver describes positioning the child safely and knows when to seek urgent help.",
+        "incorrect": [
+          "Protecting the child from injury by moving them to a safe surface is correct.",
+          "A prolonged or atypical event, or failure to recover promptly, needs urgent assessment. This is correct.",
+          "Staying calm is appropriate because spells are usually benign and resolve spontaneously. This is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver reports that their 4-year-old sits up about an hour after falling asleep, screaming and thrashing, with eyes open and a terrified look. The child pushes the caregiver away and cannot be comforted, then falls back asleep. In the morning the child does not remember it. Which action should the nurse teach the caregiver?",
+      "options": [
+        "Wake the child fully and talk about the bad dream so they can let go of the fear",
+        "Hold the child firmly in your arms until the screaming stops",
+        "Keep the child safe from falls or injury, stay nearby, and let the episode end on its own",
+        "Turn on the lights and ask the child to describe what frightened them"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: onset about an hour after falling asleep, screaming, thrashing, inconsolable, not aware of the caregiver, and no recall. Analyze cues: this matches night terrors, partial arousals from deep sleep, rather than nightmares. Generate solutions: during a night terror the focus is safety, not forced waking or restraint, which can worsen agitation. Take action: teach the caregiver to keep the area safe and let the child return to sleep.",
+        "incorrect": [
+          "Forcefully waking the child is advised against; the child is not fully aware and has no dream to recall. This applies nightmare care to a night terror.",
+          "Restraint can worsen agitation during a night terror. The child is not aware of the caregiver, so holding them firmly does not comfort them.",
+          "Asking for a description assumes a remembered dream, which fits nightmares (REM sleep). Night terror episodes are usually not recalled."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver of a 3-year-old says the child wakes up crying around 4 a.m., runs to the caregiver's room, says \"A monster was chasing me!\" and wants to be held. Which nurse response is most appropriate?",
+      "options": [
+        "\"This sounds like a nightmare. Comfort and reassure them, then help them settle back into their own bed.\"",
+        "\"This sounds like a night terror. Don't wake or touch them; just keep the area safe until it passes.\"",
+        "\"Tell them firmly that monsters aren't real, then walk them straight back to bed without picking them up.\"",
+        "\"Check the closet together and spray 'monster spray' every night so they believe the monsters are gone.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: waking in the second half of the night, crying, recalling a specific dream, and seeking comfort. Analyze cues: nightmares occur in REM sleep, often late in the night; the child is awake, remembers the dream, and seeks reassurance. Prioritize hypotheses: this is a nightmare, not a night terror. Take action: comfort and reassure, then return to the usual routine. Evaluate outcomes: the child calms and returns to sleep.",
+        "incorrect": [
+          "Night terrors happen in deep sleep, often an hour after falling asleep, with no awareness or recall. This child is awake, remembers, and is seeking comfort, so this misreads the cues.",
+          "Returning the child to bed is reasonable, but skipping comfort ignores the cue that the child is awake and seeking reassurance. Fear of monsters is a normal preschool fear that needs calm comfort first, not a firm dismissal.",
+          "Ritually checking for monsters every night can reinforce the idea that monsters might be there. Simple comfort and reassurance are the recommended response."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver of a 2½-year-old is upset: \"As a baby they ate everything. Now they take a few bites and want down from the table. Some days they hardly eat.\" The child's weight and height are following the same growth curve as at prior visits, and the child is active. Which response is best?",
+      "options": [
+        "\"Appetite naturally drops after infancy because growth slows. Offer regular meals and snacks, and let them stop when full.\"",
+        "\"Keep them at the table until they eat a set number of bites so they get enough calories.\"",
+        "\"Give them a nutrition shake after meals when they don't finish, so they don't fall behind.\"",
+        "\"A drop in appetite at this age can signal illness, so a full blood work-up is needed.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: decreased, inconsistent intake in an active toddler who is following their growth curve. Analyze cues: this fits physiologic anorexia; growth slows after infancy, caloric needs drop, and appetite follows. Prioritize hypotheses: normal toddler eating, not illness or undernutrition, because growth is steady. Take action: reassure the caregiver and teach routines without pressure. Evaluate outcomes: continued normal growth at future visits and fewer mealtime battles.",
+        "incorrect": [
+          "Requiring a number of bites is a form of force-feeding and creates mealtime power struggles, which the review says to avoid.",
+          "Supplement shakes are not indicated for a child growing normally. They can replace appetite for family foods and reinforce refusing meals.",
+          "Steady growth and normal activity argue against illness. Ordering a work-up skips Analyze cues and makes the caregiver more anxious about expected behavior."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver says their 3-year-old has asked for plain buttered noodles at every lunch and dinner for 10 days and refuses anything else. The child drinks about 16 oz of milk daily and is growing well. Which nursing action is most appropriate?",
+      "options": [
+        "Explain that this is a food jag; keep offering small portions of other foods alongside the noodles without pressure",
+        "Stop serving noodles entirely so the child will become hungry enough to try other foods",
+        "Refer the child to a feeding specialist because restricting to one food indicates a feeding disorder",
+        "Allow only noodles for now, and reintroduce other foods once the child asks for them"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a temporary preference for one food in a child who is growing well and drinking an appropriate amount of milk. Analyze cues: food jags are common in toddlers and preschoolers, are usually temporary, and do not mean poor parenting or nutritional failure. Generate solutions: keep variety and repeated exposure without pressure. Take action: serve the preferred food with small amounts of other foods. Evaluate outcomes: the child gradually accepts other foods and continues to grow.",
+        "incorrect": [
+          "Removing the food turns meals into a power struggle and uses hunger as pressure. The review advises against forcing and mealtime battles.",
+          "A short, typical food jag with normal growth is not a red flag. Extreme rigidity or poor growth would change this, but neither is present.",
+          "Withholding other foods until the child asks removes the repeated exposure the review recommends. Without exposure, acceptance of new foods is less likely."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews diet histories for four toddlers at a clinic. Which child is at greatest risk for iron-deficiency anemia?",
+      "options": [
+        "An 18-month-old who eats well at breakfast but picks at dinner most nights",
+        "A 2-year-old who eats mostly pasta and crackers and drinks about 36 oz of cow's milk daily",
+        "A 30-month-old who prefers chicken and beans and drinks about 16 oz of milk daily",
+        "A 3-year-old who has refused vegetables for two weeks but eats meat and fortified cereal"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: low-iron foods (pasta, crackers) plus 36 oz of milk a day. Analyze cues: the course limit is about 16–24 oz/day; excess cow's milk displaces iron-rich foods, and the diet itself is low in iron. Prioritize hypotheses: this child combines both risk factors, excessive milk and poor iron intake. Take action: assess further (growth, pallor, fatigue, pica), teach about reducing milk, and follow the provider's screening plan.",
+        "incorrect": [
+          "Eating inconsistent amounts across meals is typical physiologic anorexia. It does not by itself increase iron risk.",
+          "Chicken and beans are iron-rich, and 16 oz of milk is within the recommended range. This child is low risk.",
+          "Refusing vegetables is a typical food jag. Meat and fortified cereal provide iron, so the risk is lower."
+        ]
+      }
+    },
+    {
+      "stem": "A 22-month-old drinks five 8-oz cups of cow's milk each day. Using the course recommendation, what is the minimum amount by which the caregiver should reduce daily milk intake?",
+      "options": [
+        "8 oz",
+        "16 oz",
+        "24 oz",
+        "32 oz"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 5 × 8 oz = 40 oz/day. Analyze cues: the slides suggest limiting milk to about 16–24 oz/day, so the upper limit is 24 oz. Generate solutions: 40 − 24 = 16 oz is the minimum reduction to reach the recommended range. Take action: teach the caregiver to cut back by at least two cups and offer iron-rich foods instead. Evaluate outcomes: intake of 24 oz or less with better acceptance of iron-rich solids.",
+        "incorrect": [
+          "Cutting 8 oz leaves 32 oz a day, still above the 24-oz upper limit, so the displacement of iron-rich food continues.",
+          "Cutting 24 oz brings intake to 16 oz, which is within range but more than the minimum needed. The question asks for the minimum reduction.",
+          "Cutting 32 oz leaves only 8 oz a day, below the recommended range, and may reduce calcium and fat intake unnecessarily."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old is brought in for being \"tired and cranky all the time.\" The caregiver says the child still drinks from a bottle at night and has been seen eating dirt from houseplants. The nurse notes pale skin and conjunctivae. Which condition best fits this presentation?",
+      "options": [
+        "Physiologic anorexia of toddlerhood",
+        "Lead poisoning from soil exposure",
+        "Pica as an isolated habit that will stop with closer supervision",
+        "Iron-deficiency anemia"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fatigue, irritability, pallor, eating dirt (pica), and continued bottle use that suggests heavy milk intake. Analyze cues: the review lists pallor, fatigue, irritability, poor concentration, and pica as signs of iron-deficiency anemia, with excess milk as the leading risk factor. Prioritize hypotheses: this cluster fits iron-deficiency anemia best. Take action: obtain a detailed diet history including milk volume, assess growth, and follow the provider's plan for screening and treatment.",
+        "incorrect": [
+          "Physiologic anorexia means eating less with normal growth and energy. It does not cause pallor, fatigue, or pica.",
+          "Pica can raise concern about lead exposure, and the provider may screen for it, but the pallor, fatigue, and night bottle (likely excess milk) cluster points most directly to iron deficiency. Lead would not explain the milk history.",
+          "Supervision is needed, but treating pica as an isolated habit ignores its link to iron deficiency and misses the pallor, fatigue, and milk-history cues (an Analyze cues error)."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 2-year-old with picky eating asks how to get the child to eat more vegetables. The child is growing normally. Which strategies should the nurse recommend? Select all that apply.",
+      "options": [
+        "Serve a small portion of a refused vegetable again on another day, next to a food the child likes",
+        "Let the child help wash or stir the vegetables while the meal is being prepared",
+        "Eat together as a family and let the child see caregivers eating the same vegetables",
+        "Promise dessert once the child finishes the vegetables on the plate",
+        "Keep the child at the table until at least half the vegetables are eaten",
+        "Offer a cup of milk between meals so the child has calories if they refuse vegetables"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: picky eating in a toddler who is growing normally. Analyze cues: this is typical, usually temporary toddler eating behavior. Generate solutions: the review recommends repeated exposure without pressure, letting the child touch, smell, or help prepare foods, shared family meals, and modeling, while avoiding force-feeding and power struggles. Evaluate outcomes: gradual acceptance of new foods without mealtime battles.",
+        "incorrect": [
+          "Correct—repeated exposure without pressure, paired with a familiar food, increases acceptance over time.",
+          "Correct—helping prepare food lets the child touch and smell it, which the review recommends, and supports toddler autonomy.",
+          "Correct—shared family meals and modeling healthy eating are named strategies.",
+          "Incorrect—using dessert as a reward is a form of pressure that makes the vegetable seem like a chore and turns meals into negotiation.",
+          "Incorrect—a required amount is force-feeding and creates the mealtime power struggle the review says to avoid.",
+          "Incorrect—filling up on milk between meals displaces appetite for solids, including iron-rich foods, and raises iron-deficiency risk."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver is planning snacks for a 2-year-old's birthday party. Which planned items should the nurse advise the caregiver to change or remove? Select all that apply.",
+      "options": [
+        "Bowls of whole seedless grapes",
+        "Mini hot dogs sliced into round coins",
+        "Small bags of popcorn for each child",
+        "Thin slices of soft banana",
+        "Hard candy in the party favor bags",
+        "Shredded mild cheese on the side"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 2-year-old party with several foods of a shape and texture that block a small airway. Analyze cues: toddlers have immature chewing and often move around while eating; the course lists whole grapes, hot dogs, nuts, popcorn, and hard candy as hazards. Generate solutions: prepare foods in safe shapes and sizes and remove high-risk items. Take action: advise changes and close supervision with children seated while eating.",
+        "incorrect": [
+          "Correct—whole grapes are a listed choking hazard; their round shape can block a toddler's airway.",
+          "Correct—slicing hot dogs into rounds creates airway-sized plugs; round pieces are specifically called out.",
+          "Correct—popcorn is a listed hazard because toddlers cannot chew it well and can inhale pieces.",
+          "Incorrect—thin, soft banana slices dissolve easily and are an appropriate toddler food with supervision.",
+          "Correct—hard candy is a listed choking hazard and should not be in favor bags for toddlers.",
+          "Incorrect—soft, shredded cheese is a safe size and texture for a toddler."
+        ]
+      }
+    },
+    {
+      "stem": "During a home visit, the nurse sees a 20-month-old walking around the living room eating a cracker while the caregiver prepares lunch. Which action should the nurse take first?",
+      "options": [
+        "Teach the caregiver which foods are choking hazards for toddlers",
+        "Suggest that the caregiver switch to softer snacks such as yogurt melts",
+        "Explain that toddlers have immature chewing skills that increase choking risk",
+        "Ask the caregiver to have the child sit down to finish the cracker"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a toddler walking around while eating. Analyze cues: moving while eating, combined with immature chewing, increases choking risk; the review teaches that children should sit while eating. Prioritize hypotheses: there is a present, correctable hazard. Take action: have the child sit now, then teach. Applying the course prioritization framework, immediate safety comes before education.",
+        "incorrect": [
+          "Teaching about hazard foods is important but does not stop the current risk. The cracker itself is not on the hazard list; the walking is the problem.",
+          "Changing the type of snack does not address the main cue, eating while moving, which raises choking risk even with soft foods.",
+          "This explanation is accurate and useful teaching, but it is not the first step while the child is still walking and eating."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse makes a home visit to an 18-month-old. The caregiver mentions four concerns. Which should the nurse address first?",
+      "options": [
+        "The child eats only crackers and pasta and drinks about 30 oz of milk a day",
+        "The child was found chewing on the cap of a prescription bottle left on the nightstand this morning",
+        "The child has several tantrums a day when told \"no\"",
+        "The child wakes once a night and needs to be rocked back to sleep"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a toddler had access to a prescription bottle today. Analyze cues: toddlers mouth objects and have no danger awareness; a chewed cap means possible ingestion and ongoing poisoning risk. Prioritize hypotheses: the review's prioritization framework puts immediate safety first. Take action: assess for possible ingestion (contact poison control or the provider per protocol if any was swallowed), then teach locking all medications away. Address diet, tantrums, and sleep afterward.",
+        "incorrect": [
+          "Excess milk with a low-iron diet raises iron-deficiency risk and needs teaching, but it is a chronic risk, not an immediate safety threat.",
+          "Frequent tantrums at this age are often developmental and need coaching, but not before a possible poisoning.",
+          "Night waking is a common sleep concern that can wait until immediate hazards are managed."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews poisoning prevention with the caregiver of a 3-year-old. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"I keep my blood pressure pills in a locked box on a high shelf.\"",
+        "\"I'll put the laundry pods in a locked cabinet instead of on top of the washer.\"",
+        "\"I tell them the chewable vitamins are candy, so they take them without a fight.\"",
+        "\"I'll keep the poison control number saved in my phone and posted on the fridge.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver refers to vitamins as candy. Analyze cues: preschoolers think concretely; if medicine is candy, they may seek it out and eat large amounts, leading to poisoning. The course states never to call medicine candy. Take action: reteach and suggest using accurate words such as \"medicine that helps your body.\" Evaluate outcomes: the caregiver names the vitamins correctly and stores them locked.",
+        "incorrect": [
+          "Locked storage of medications is the core poisoning prevention teaching. This is correct.",
+          "Laundry pods are specifically listed among hazards to lock away. This is correct.",
+          "Having poison control readily available is standard, uncontroversial safety teaching. This is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews car seat safety with the caregiver of a 23-month-old who rides in a rear-facing convertible seat. The child is well below the seat's rear-facing height and weight limits. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll check the seat's label to see the rear-facing height and weight limits.\"",
+        "\"Next month, when they turn 2, I'll turn the seat to face forward.\"",
+        "\"I'll install and adjust the harness following the manual that came with the seat.\"",
+        "\"I'll check the expiration date printed on the seat before using it for the new baby later.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver plans to turn the seat forward at age 2 although the child is well below the seat's limits. Analyze cues: the review states children stay rear-facing until reaching the seat's height or weight limit, not simply until age 2; automatically turning at age 2 is listed as unsafe. Take action: reteach that the seat's limits, not the birthday, decide the switch. Evaluate outcomes: the caregiver keeps the child rear-facing and states the seat's limits.",
+        "incorrect": [
+          "Checking the seat's limits is exactly how the switch should be decided. This is correct.",
+          "Harness installation and fit should follow the manufacturer's instructions. This is correct.",
+          "Seats should be replaced before expiration. This is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse observes a caregiver preparing to leave the clinic in winter with a 2-year-old. Which action requires the nurse to intervene?",
+      "options": [
+        "Buckling the child into the rear-facing seat over a thick, puffy snowsuit",
+        "Placing a blanket over the child after the harness is snug and buckled",
+        "Dressing the child in a thin fleece jacket before buckling the harness",
+        "Pinching the harness strap at the shoulder to check that no slack remains"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a bulky snowsuit under the harness. Analyze cues: puffy coats compress in a crash, leaving the harness loose and the child at risk of injury or ejection. The review says to avoid bulky coats and add warmth over the secured harness. Take action: remove the snowsuit, buckle the child in thin layers, and place the coat or a blanket over the harness. Evaluate outcomes: the harness is snug with the child warm.",
+        "incorrect": [
+          "A blanket over a snug harness is the recommended way to add warmth. This is correct.",
+          "Thin layers under the harness are recommended. This is correct.",
+          "Checking that no slack can be pinched at the shoulder is a standard way to confirm a snug harness. This is correct."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver of a 14-month-old says, \"Bath time is the only time I can answer messages. They sit up really well in the tub and the water is only a few inches deep.\" Which response by the nurse is most important?",
+      "options": [
+        "\"Use a bath seat so they're held upright while you step away.\"",
+        "\"Keep the water level below their waist and the door open so you can hear them.\"",
+        "\"Stay within arm's reach the whole time, and take them out of the tub if you need to leave.\"",
+        "\"Check the water temperature with your wrist before they get in.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a toddler left alone in the bath, with the caregiver relying on sitting ability and shallow water. Analyze cues: toddlers can drown silently in very little water; the review states constant close supervision and never leaving a child alone in a bath. Prioritize hypotheses: drowning is the most immediate life-threatening risk. Take action: teach arm's-reach supervision and taking the child out if the caregiver must leave.",
+        "incorrect": [
+          "A bath seat can tip or the child can slip out; it is not a substitute for supervision and gives false security.",
+          "Shallow water and an open door do not prevent drowning, which is fast and often silent. Hearing is not supervision.",
+          "Checking water temperature prevents scald burns and is good teaching, but it does not address the drowning risk this caregiver described."
+        ]
+      }
+    },
+    {
+      "stem": "At a 12-month visit, the caregiver says the infant pulls up on furniture and cruises along the couch toward a low second-floor window. Which anticipatory guidance is the priority?",
+      "options": [
+        "Install window guards and anchor tall furniture to the wall before the child starts climbing",
+        "Move the couch away from the window once the child begins to climb on it",
+        "Place a soft rug under the window in case of a fall",
+        "Teach the child to say \"no\" and point to the window as a warning"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 12-month-old who pulls up and cruises near a window. Analyze cues: anticipatory guidance means preparing for the next developmental step before it happens; climbing is coming, and toddlers have mobility before judgment. Generate solutions: the review lists securing furniture and guarding windows. Take action: install guards and anchor furniture now. Evaluate outcomes: the environment is safe before the child can climb.",
+        "incorrect": [
+          "Waiting until the child is climbing is reactive; anticipatory guidance acts before the skill appears. A fall can happen with the first climb.",
+          "A rug does not protect against a fall from a second-floor window and gives false reassurance.",
+          "A 12-month-old has limited language and no danger awareness or impulse control, so verbal warnings cannot replace environmental safety."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 4-year-old says, \"They are so grown up now. They know to look both ways, so I let them ride their scooter on the sidewalk to the corner store by themselves.\" Which conclusion should guide the nurse's teaching?",
+      "options": [
+        "The child is showing healthy initiative, so the caregiver should praise the independence and add a helmet",
+        "Preschoolers are more independent but their judgment is immature, so they need adult supervision near streets and a helmet",
+        "The child should stop riding the scooter until school age, when concrete thinking allows safer judgment",
+        "The child can ride alone if the caregiver first practices street crossing with them several times"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 4-year-old riding to a store alone near streets. Analyze cues: the review notes that preschoolers are more active and independent but their judgment is immature, putting them at risk for pedestrian, bike, and scooter injuries. Prioritize hypotheses: the main risk is pedestrian injury without supervision. Take action: teach close adult supervision near streets and a helmet for scooters. Evaluate outcomes: the caregiver accompanies the child and the child wears a helmet.",
+        "incorrect": [
+          "A helmet is correct and initiative is healthy, but this accepts unsupervised street exposure. Initiative must be supported within safe limits.",
+          "Removing the scooter entirely is unnecessary; supervised riding with a helmet supports initiative and motor development while managing risk.",
+          "Practice helps, but a preschooler's judgment and impulse control are not reliable enough for independent street safety no matter how much they rehearse."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching the caregiver of a 15-month-old who has just started walking and climbing. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Install gates at the top and bottom of the stairs",
+        "Empty buckets and wading pools right after use",
+        "Turn pot handles toward the back of the stove and keep hot drinks away from table edges",
+        "Store cleaning products under the sink, since the child cannot open cabinet doors yet",
+        "Hold the child's hand in parking lots and driveways",
+        "Keep the child rear-facing in the car seat until age 2, then switch to forward-facing"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a newly mobile, climbing toddler. Analyze cues: toddlers explore constantly, mouth objects, and have mobility before judgment, so falls, drowning, burns, poisoning, and pedestrian injuries are the major risks. Generate solutions: the review lists stair gates, emptying buckets, keeping hot items away, locking chemicals, and holding hands near streets. Take action: teach each measure. Evaluate outcomes: the caregiver can name a protective measure for each hazard.",
+        "incorrect": [
+          "Correct—stair gates prevent falls, a leading toddler injury.",
+          "Correct—toddlers can drown in small amounts of water; buckets and pools should be emptied.",
+          "Correct—keeping hot liquids and foods out of reach prevents scald burns.",
+          "Incorrect—toddlers quickly learn to open cabinets; chemicals must be locked, not merely stored low.",
+          "Correct—toddlers run impulsively; holding hands near streets, driveways, and parking lots is listed teaching.",
+          "Incorrect—the switch depends on the seat's rear-facing height and weight limits, not simply age 2."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old admitted with pneumonia tells the nurse, \"I got sick because I was mean to my baby brother.\" Which response by the nurse is best?",
+      "options": [
+        "\"Being mean to your brother wasn't nice, but you can say sorry and that will help you feel better.\"",
+        "\"Germs got into your lungs and made you sick. Being mean to your brother did not cause it.\"",
+        "\"Let's not worry about that now. Let's pick out a movie to watch.\"",
+        "\"Your lungs have an infection called pneumonia that the medicine will fight.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a preschooler blames the illness on their own behavior. Analyze cues: this is magical thinking in the preoperational stage; preschoolers may believe illness is a punishment, which links to guilt in Erikson's Initiative vs. Guilt. Generate solutions: give a simple, concrete, truthful explanation and directly reassure that they did not cause it. Take action: say so in simple words. Evaluate outcomes: the child's guilt and fear lessen.",
+        "incorrect": [
+          "This response reinforces the belief that the behavior is connected to the illness and to getting better, increasing guilt.",
+          "Distraction avoids the concern, leaving the child believing they caused the illness.",
+          "This is accurate, but it uses an abstract medical term and does not address the child's belief that they caused the illness."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse needs to start a peripheral IV on a 4-year-old. Which approach is most developmentally appropriate?",
+      "options": [
+        "Explain the procedure in detail the evening before so the child has time to get used to the idea",
+        "Tell the child, \"You'll just feel a little bee sting, and it will be over before you know it\"",
+        "Tell the child it won't hurt so they stay calm and still during the procedure",
+        "Just before the procedure, show the steps on a stuffed animal and say honestly that it may hurt for a moment"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a preschooler facing a painful procedure. Analyze cues: preoperational thinking is concrete and magical with limited logic and time sense, and the review lists demonstrating with toys (letting a toy \"go first\") and honest answers as the approach. Generate solutions: brief preparation close to the event, play demonstration, and truthful language. Take action: demonstrate on the toy and give an honest, simple statement. Evaluate outcomes: the child cooperates and trusts the nurse.",
+        "incorrect": [
+          "Preschoolers have a limited sense of time; a long lead time gives room for fantasy and fear to grow. Preparation should be brief and close to the procedure.",
+          "Comparing to a \"bee sting\" is a figure of speech that a concrete thinker may take literally, possibly creating fear of a real bee. Simple, literal words are better.",
+          "Promising that a procedure will not hurt when it might is false reassurance, which the review lists as something to avoid. It damages trust for future care."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 4-year-old says, \"They have an imaginary friend named Pip who they talk to all day.\" Which additional finding requires follow-up?",
+      "options": [
+        "The child asks the nurse to listen to Pip's heart before their own exam",
+        "The child blames Pip when a glass of juice gets spilled",
+        "Unfamiliar adults, including daycare staff, cannot understand most of what the child says",
+        "The child is afraid of the vacuum cleaner and covers their ears when it runs"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an imaginary friend (normal) plus speech that unfamiliar adults cannot understand. Analyze cues: imaginary friends are expected in preschool, but unintelligible speech to strangers and persistent language delay are red flags. Prioritize hypotheses: the speech pattern, not the imaginary friend, suggests possible language delay. Take action: perform developmental screening and refer for speech-language evaluation.",
+        "incorrect": [
+          "Including an imaginary friend in care is normal pretend play and can be used therapeutically to help cooperation.",
+          "Blaming an imaginary friend is common preschool behavior that reflects developing understanding of rules and guilt, not a red flag.",
+          "Fear of loud noises is one of the common preschool fears listed in the review. It is expected."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is planning activities in a pediatric playroom. Which plan best matches the expected play of a group of 2-year-olds?",
+      "options": [
+        "Have each child build with their own set of blocks while sitting near the others",
+        "Organize a pretend restaurant game in which each child takes a role",
+        "Teach the children a simple board game with turn-taking and rules",
+        "Have the children work together on one large shared puzzle"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a group of 2-year-olds. Analyze cues: by age 2 children begin parallel play, playing beside peers with limited coordination; associative and cooperative play come in the preschool years. Generate solutions: give each child their own materials near the others. Take action: set up parallel play. Evaluate outcomes: the children engage without conflict over shared materials.",
+        "incorrect": [
+          "Role-based pretend restaurants are cooperative play, which the review uses as its preschool example. Two-year-olds are not yet ready for shared roles.",
+          "Rule-based, turn-taking games are preschool skills; 2-year-olds lack the self-regulation for them, and the activity would likely lead to frustration.",
+          "A shared goal requires cooperative play. Two-year-olds will likely struggle over pieces rather than work together."
+        ]
+      }
+    },
+    {
+      "stem": "In the clinic waiting room, a caregiver notices their 4-year-old touching their own genitals while watching a video and asks the nurse what to do. Which response is best?",
+      "options": [
+        "\"I'll let the provider know so they can screen for exposure to sexual content or abuse.\"",
+        "\"Tell them firmly that it's bad and they should stop, so the habit doesn't continue.\"",
+        "\"Calmly redirect them, and teach that touching private parts is something done in private.\"",
+        "\"Ignore it completely, since any reaction at all will make them do it more.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a preschooler touching their own genitals in public, with no other concerning cues. Analyze cues: body curiosity and self-touch can be developmentally normal at this age. Generate solutions: respond calmly and teach privacy and boundaries in age-appropriate language. Take action: give the caregiver that script. Evaluate outcomes: the behavior moves to private settings without shame. A single behavior does not diagnose a problem; other red flags would change the plan.",
+        "incorrect": [
+          "Self-touch alone is often developmentally normal, and screening for abuse is not supported by any other cue. A single behavior does not diagnose a problem; the whole pattern should be assessed.",
+          "Calling it \"bad\" shames the child; in Initiative vs. Guilt, excessive criticism contributes to guilt.",
+          "Ignoring it entirely misses the chance to teach privacy and boundaries, which the review recommends."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 2-year-old reports that daycare staff say the child has bitten another child twice this month when a toy was taken away. Which response by the nurse is most appropriate?",
+      "options": [
+        "\"This is concerning for an aggressive disorder, so the child should be evaluated now.\"",
+        "\"Ask the daycare to call you to pick them up each time they bite, so the consequence is consistent.\"",
+        "\"Biting can happen at this age when toddlers are frustrated. Separate them, say 'No biting,' and teach words such as 'Mine!'\"",
+        "\"Since biting is normal at this age, the daycare doesn't need to do anything differently.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: occasional biting with a clear frustration trigger in a 2-year-old. Analyze cues: occasional hitting or biting can occur in toddlerhood because of frustration and limited language. Generate solutions: protect others, set a clear limit, and teach alternatives, while assessing frequency and severity. Take action: give the caregiver this plan to share with daycare. Evaluate outcomes: fewer episodes as language replaces biting.",
+        "incorrect": [
+          "Two triggered episodes in a month do not meet the red flag of severe aggression. Assessment of frequency is appropriate, but immediate evaluation is not.",
+          "Consistency matters, but a pickup is delayed rather than immediate and brief, and it may reward a child who wants to go home. Protecting others and teaching alternatives in the moment works better.",
+          "Although biting can be developmental, it still requires protecting others, setting limits, and teaching alternatives."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 2-year-old asks whether the child is ready to begin toilet training. Which findings indicate readiness? Select all that apply.",
+      "options": [
+        "The child often wakes from naps with a dry diaper",
+        "The child goes behind the couch to have a bowel movement",
+        "The child can walk to the bathroom and climb onto a small potty",
+        "The child follows simple directions such as \"Bring me your shoes\"",
+        "The caregiver wants the child trained before a new baby arrives next month",
+        "The child turns 2 this week, which is when training should begin"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: physical, cognitive, and behavioral signs in the child. Analyze cues: the review lists prolonged dryness, showing awareness of the need to void or defecate (including hiding), walking independently and getting onto the potty, and following simple directions. Generate solutions: begin with a calm, positive approach that follows the child's cues and avoids force, punishment, or shame. Evaluate outcomes: progress follows the child's readiness rather than a deadline.",
+        "incorrect": [
+          "Correct—prolonged periods of dryness suggest bladder control is developing.",
+          "Correct—hiding to defecate shows awareness of the need to go, a listed readiness sign.",
+          "Correct—walking independently and getting onto the potty are listed physical readiness signs.",
+          "Correct—following simple directions shows the cognitive readiness needed to learn the steps.",
+          "Incorrect—a caregiver's deadline is not a sign of the child's readiness; a new sibling may also cause temporary regression.",
+          "Incorrect—age alone does not indicate readiness; training follows the child's cues."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse must give an oral antibiotic to a hospitalized 2-year-old who pushes the cup away and yells \"No!\" Which approach is most appropriate?",
+      "options": [
+        "\"Do you want to take your medicine now?\"",
+        "\"Would you like your medicine in the blue cup or with the spoon?\"",
+        "\"I'll mix your medicine into a big cup of juice so you won't even taste it.\"",
+        "\"We'll wait until you're ready to take your medicine on your own.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a hospitalized toddler resisting with \"No!\" Analyze cues: this is the autonomy drive of Autonomy vs. Shame and Doubt; the toddler wants control, and hospitalization removes most of it. Generate solutions: offer two acceptable choices so the child has control over how, but not whether, the medicine is taken. Take action: present the choice of cup or spoon. Evaluate outcomes: the child takes the full dose with less resistance.",
+        "incorrect": [
+          "An open yes/no question invites the toddler's expected \"No\" and offers a choice the nurse cannot honor.",
+          "Mixing into a large volume risks an incomplete dose if the toddler does not finish, and hiding the medicine removes the sense of control the child is seeking.",
+          "Waiting indefinitely may delay a needed dose, and a toddler may not choose it on their own. The limit should be held while offering safe choices."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old in the hospital asks to help the nurse by holding the bandage and \"being the doctor.\" The caregiver says, \"Stop it, you'll just get in the way.\" Which nursing action best supports this child's development?",
+      "options": [
+        "Agree with the caregiver and ask the child to sit quietly so the dressing change goes faster",
+        "Let the child watch, but explain that only nurses can touch the supplies",
+        "Give the child a toy stethoscope so they can be the doctor in a separate play area",
+        "Let the child hold the clean bandage and hand it over when asked, and praise their help"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a preschooler asking to help and being criticized for it. Analyze cues: in Initiative vs. Guilt, preschoolers develop purpose through helping with simple tasks, and excessive criticism can lead to guilt. Generate solutions: give a safe, concrete role in care and praise the effort. Take action: let the child hold the bandage. Evaluate outcomes: the child participates cooperatively and shows confidence.",
+        "incorrect": [
+          "Agreeing with the criticism discourages initiative and can contribute to guilt, the outcome this stage is trying to prevent.",
+          "Watching allows some involvement, but refusing the helper role the child asked for still discourages initiative when a safe task is available.",
+          "Pretend play is valuable, but sending the child elsewhere denies a real, safe way to help in their own care, which better supports initiative."
+        ]
+      }
+    }
+  ]
+}

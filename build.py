@@ -23,7 +23,10 @@ ORDER = ["upper-gi", "lower-gi", "neoplasms-cancer", "neuro",
          "acute-dysrhythmias-vascular", "acute-cardiac", "acute-stroke",
          "acute-neuro",
          "mat-foundations", "mat-prenatal", "mat-testing-nutrition",
-         "mat-labor", "mat-efm-pain"]
+         "mat-labor", "mat-efm-pain",
+         "peds-wk1-foundations", "peds-wk2-infant-newborn",
+         "peds-wk3-early-childhood", "peds-wk4-school-adolescent",
+         "peds-wk5-infectious-respiratory"]
 
 
 def normalize(q, topic, idx):

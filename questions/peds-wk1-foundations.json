@@ -1,0 +1,770 @@
+{
+  "topic": "peds-wk1-foundations",
+  "label": "Peds: Week 1 — Atraumatic Care & Health Assessment",
+  "questions": [
+    {
+      "stem": "A nurse on a pediatric unit receives report on four children. Which child should the nurse assess first?",
+      "options": [
+        "A 3-year-old who screams and pushes the nurse away during a temperature check but calms on the caregiver's lap",
+        "A 20-month-old who is usually busy and talkative and is now lying still in the crib, not reaching for a favorite toy",
+        "A 10-month-old who cries when the nurse enters and clings tightly to the caregiver",
+        "A 4-year-old who refuses to sit on the bed and keeps asking what the blood pressure cuff will do"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a toddler who is normally active is now quiet, motionless, and ignoring a favorite toy. Analyze cues: crying, resisting, clinging, and questioning are developmentally expected fear responses, but unusual stillness and poor interaction are a change from baseline. Prioritize hypotheses: lethargy from deterioration (respiratory failure, sepsis, dehydration) is the most dangerous explanation. Take action: rapidly assess responsiveness, airway, breathing, circulation, and vital signs, and escalate if the child is poorly responsive. A quiet child is not necessarily a well child.",
+        "incorrect": [
+          "Screaming and resisting with prompt consolation on the caregiver's lap shows an alert child with intact interaction and consolability. That is reassuring behavior, so this child can wait.",
+          "Stranger fear and clinging are expected at 10 months. The infant is alert and seeking comfort, which shows good interaction rather than deterioration.",
+          "Refusing and asking questions is typical preschool fear of unfamiliar equipment. The child is alert and engaged, so this calls for medical play and explanation, not first assessment."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 9-month-old admitted with vomiting tells the nurse, \"She just isn't acting like herself. She's not babbling at me like she usually does.\" Vital signs taken 2 hours ago were within the expected range for age. What is the nurse's priority action?",
+      "options": [
+        "Reassure the caregiver that the vital signs were normal and recheck them at the next scheduled time",
+        "Offer an oral rehydration trial and reassess the infant's behavior after she has taken fluids",
+        "Ask what is different from her baseline and immediately assess responsiveness, airway, breathing, circulation, and vital signs",
+        "Document the caregiver's concern and notify the provider during morning rounds"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver, who knows the infant's usual behavior, reports a change from baseline (no babbling, \"not herself\") in an infant losing fluid through vomiting. Analyze cues: in family-centered care, caregiver observations are essential data, especially when a child cannot describe symptoms. Behavior often changes before vital signs do because children compensate. Prioritize hypotheses: early lethargy from dehydration or other deterioration. Take action: clarify exactly what has changed and perform a rapid ABC and responsiveness assessment now. Evaluate outcomes: escalate promptly if the infant is poorly responsive or perfusion is poor.",
+        "incorrect": [
+          "Vital signs from 2 hours ago do not describe the infant's condition now, and children can compensate while vital signs still look normal. Dismissing the caregiver's report skips Analyze cues.",
+          "Oral rehydration may eventually be part of the plan, but it is a solution generated before the cue is analyzed. A behavior change may be lethargy, and a lethargic infant may not protect the airway while drinking. Assess first.",
+          "Documenting is appropriate but delays assessment. A change in behavior in a vomiting infant needs evaluation now, not at rounds."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old needs a peripheral IV. The caregiver is at the bedside. Which statement by the nurse best applies atraumatic care?",
+      "options": [
+        "\"This won't hurt at all. You'll be so brave and it will be over before you know it.\"",
+        "\"You'll feel a quick pinch, then it will feel better. Do you want the bandage with stars or with dinosaurs?\"",
+        "\"Do you want your IV now, or should we wait until you feel ready?\"",
+        "\"I'm going to put a tiny straw in your arm for medicine. Your mom will wait outside, but I'll hold your hand.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a preschooler facing a painful procedure with a caregiver present. Analyze cues: preoperational children think concretely and literally, and fear of the unknown, loss of control, and pain are sources of trauma. Generate solutions: honest, simple words reduce fear and build trust, and a choice between two clinically acceptable options restores some control. Take action: describe the sensation honestly and offer a real but limited choice. Pairing this with demonstration on a doll, distraction, pain-reduction measures, and caregiver presence completes atraumatic care.",
+        "incorrect": [
+          "Promising that it won't hurt is dishonest. When it does hurt, the child loses trust in the nurse, which makes every later procedure harder.",
+          "This asks the child to decide whether necessary care happens. If the child says \"wait,\" the nurse must override the choice, which increases loss of control. Offer choices only between acceptable options.",
+          "The words are concrete, but sending the caregiver out adds separation, a major source of trauma. Caregiver presence when possible and safe is a core atraumatic strategy, so this misses Generate solutions."
+        ]
+      }
+    },
+    {
+      "stem": "A preceptor observes a new graduate nurse preparing to start an IV on a 2-year-old. Which action by the new nurse requires the preceptor to intervene?",
+      "options": [
+        "Letting the toddler sit on the caregiver's lap in a comfort hold for the procedure",
+        "Telling the toddler, \"Quick poke, then all done,\" right before touching the arm",
+        "Asking the toddler, \"Is it okay if we do your IV now?\"",
+        "Blowing bubbles with the caregiver's help to distract the toddler during the insertion"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the new nurse frames a necessary procedure as a yes/no question. Analyze cues: toddlers seek autonomy and will often answer \"no\"; the nurse would then have to proceed anyway, which teaches the child that choices are not real and increases distress. Take action: the preceptor should redirect the nurse to offer two acceptable choices instead (\"Do you want to sit on Mommy's lap or hold your bear?\"). Atraumatic care reduces avoidable distress while still delivering necessary care.",
+        "incorrect": [
+          "Sitting on the caregiver's lap when safe is a recommended strategy. It reduces separation anxiety and supports family-centered care.",
+          "A short, concrete, honest explanation given just before touching fits a toddler's level and avoids startling the child.",
+          "Distraction with bubbles is an age-appropriate, play-based way to reduce procedural distress, and it involves the caregiver."
+        ]
+      }
+    },
+    {
+      "stem": "At a 3-year-old's well visit, the caregiver looks upset: \"She's only at the 15th percentile for weight. Is she unhealthy?\" Her weight has tracked along the 15th percentile since birth, her height is at the 20th percentile, and development is on track. What is the nurse's best response?",
+      "options": [
+        "\"She has followed her own curve steadily since birth, which is a healthy pattern. Percentiles are not grades.\"",
+        "\"She is below average, so let's add a high-calorie supplement to help her catch up to the 50th percentile.\"",
+        "\"Being under the 25th percentile means she is underweight, so the provider will order lab work.\"",
+        "\"Her weight is a little low, so let's recheck it in a month to make sure she isn't falling behind.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a stable weight percentile since birth, proportional height, and normal development. Analyze cues: percentiles compare a child with a reference population of the same age and sex; the trend over time is what matters, and a consistent trajectory may be a normal individual pattern. Prioritize hypotheses: a constitutionally small, healthy child, not malnutrition. Take action: explain the meaning of the stable curve and that percentiles are not grades. Evaluate outcomes: the caregiver can explain that consistency, not the number, is the reassuring sign.",
+        "incorrect": [
+          "This treats the 50th percentile as a target. Pushing calories without an abnormal trend could cause excess weight gain and treats a number rather than the child.",
+          "No single percentile establishes a diagnosis. A low but stable percentile with normal development does not define underweight or require labs.",
+          "An early recheck sounds cautious, but it signals a problem that the stable trend does not show. This misreads the cue (Analyze cues), treating one low number as a red flag instead of a consistent trajectory."
+        ]
+      }
+    },
+    {
+      "stem": "A 12-month-old's weight was at the 50th percentile at 6 and 9 months and is now at the 10th percentile. Length remains at the 50th percentile. The infant is alert and interactive. Which action should the nurse take first?",
+      "options": [
+        "Reassure the caregiver that the 10th percentile is still within the normal range",
+        "Plot the new weight and schedule a routine recheck at the 15-month visit",
+        "Teach the caregiver to switch the infant to whole milk to increase calories",
+        "Reweigh the infant on a properly calibrated scale and obtain a detailed intake, illness, and feeding history"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: weight has fallen across two major percentile lines while length is unchanged. Analyze cues: a sudden change or unexpected crossing of growth curves is a red flag, even if the new percentile alone would be acceptable. Generate solutions: first confirm the measurement is accurate, then look for causes such as intake, nutrition, illness, or psychosocial factors. Take action: reweigh accurately and take a focused history so the provider can evaluate the cause.",
+        "incorrect": [
+          "The 10th percentile alone might be normal, but this child's trend has dropped sharply. Reassurance based on the single number ignores the most important rule: the trend matters most.",
+          "Plotting is correct, but waiting 3 months to act on a significant drop is a delay. A red flag in the trend warrants assessment at this visit.",
+          "Changing the diet is a solution generated before the cause is known. This skips Analyze cues; the nurse first needs an accurate measurement and an intake and illness history."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews growth data at four well visits. Which finding requires the most immediate follow-up?",
+      "options": [
+        "A 2-year-old whose height has stayed at the 5th percentile, matching both short-statured parents",
+        "A 6-month-old whose head circumference has risen from the 50th to above the 95th percentile since the 4-month visit",
+        "A 5-year-old whose BMI has stayed at the 60th percentile for 3 years",
+        "A 9-month-old whose weight moved from the 40th to the 45th percentile"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a rapid jump in head circumference across several percentile lines in 2 months. Analyze cues: an unexpected head-circumference change is a red flag that must be verified and assessed further, because it can signal a problem with fluid or pressure inside the skull. Prioritize hypotheses: measurement error versus a true pathologic increase. Take action: remeasure correctly (nonstretchable tape above the eyebrows and around the most prominent part of the occiput), plot it, and report the change for further assessment.",
+        "incorrect": [
+          "A low but stable height percentile that is consistent with family pattern fits a normal individual trajectory.",
+          "A stable BMI percentile across years is a consistent trajectory and is reassuring.",
+          "A small change within the same channel is ordinary variation, not a sudden crossing of curves."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old is brought in for abdominal pain. The child is alert, lying on the caregiver's lap, and guarding the abdomen. After inspecting the abdomen, which action should the nurse take next?",
+      "options": [
+        "Lightly palpate all four quadrants, starting away from the painful area",
+        "Percuss the abdomen to check for gas or fluid",
+        "Auscultate bowel sounds in all four quadrants",
+        "Ask the child to point to where it hurts most, then press gently there"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an abdominal exam in a stable but guarded preschooler. Analyze cues: for the abdomen, auscultation comes before percussion and palpation, because manipulation may alter bowel sounds. The general pediatric sequence is also observe, auscultate, then proceed as tolerated, and the least invasive steps come first. Take action: auscultate next, then palpate gently with the painful area last. Evaluate outcomes: saving the uncomfortable steps for last keeps the child's cooperation for the parts of the exam that need a calm child.",
+        "incorrect": [
+          "Starting palpation away from the painful area is good technique, but palpating before auscultating may alter bowel sounds and upset the child. It is the right technique at the wrong point in the sequence.",
+          "Percussion also manipulates the abdomen and should come after auscultation.",
+          "Asking the child to point is useful history, but pressing on the painful area is the most invasive step and belongs last, not next."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse enters the room for a routine assessment of a 7-month-old who is sleeping quietly in the caregiver's arms. The nurse has observed the infant's color, breathing pattern, and position. Which action should the nurse perform next?",
+      "options": [
+        "Count the respiratory rate and auscultate heart and lung sounds while the infant is still calm",
+        "Wake the infant to check muscle tone and responsiveness before anything else",
+        "Measure a rectal temperature and blood pressure first, since vital signs come before the exam",
+        "Check the anterior fontanel and capillary refill, then auscultate heart and lungs"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a stable, quiet, sleeping infant held by the caregiver. Analyze cues: crying changes heart rate, respiratory rate, and breath sounds, so the most accurate data come while the infant is calm. Generate solutions: observe, then auscultate, then proceed with more disruptive steps as tolerated, using the least invasive approach first. Take action: count respirations and listen to heart and lungs now, leaving temperature, blood pressure, and hands-on exam for later.",
+        "incorrect": [
+          "Tone and responsiveness matter, but waking a stable infant first makes the respiratory and cardiac assessment inaccurate. Waking would come first only if the nurse suspected the infant was hard to arouse.",
+          "Temperature and blood pressure are intrusive and likely to make the infant cry. Blood pressure is measured later when feasible in a stable child.",
+          "Fontanel and capillary refill are useful, but they require touching and may wake the infant. Doing them before auscultation reverses the observe-auscultate-then-touch sequence and risks crying that distorts heart and lung sounds."
+        ]
+      }
+    },
+    {
+      "stem": "A 15-year-old comes to the clinic with a caregiver for a sports physical. Which approach by the nurse is most appropriate?",
+      "options": [
+        "Direct the health history questions to the caregiver, who can give the most accurate information",
+        "Interview the adolescent and caregiver together for the entire visit so no information is missed",
+        "Ask the caregiver to step out for the whole visit, because adolescents should make their own health decisions",
+        "Speak directly to the adolescent, explain confidentiality and its limits, and offer time to talk privately"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an adolescent at a routine visit with a caregiver present. Analyze cues: adolescents need direct communication, privacy, dignity, and an appropriate role in decisions; they are in Piaget's formal operational stage and can reason about risks and outcomes. Generate solutions: address the teen directly, explain what stays confidential and what the nurse must share (risk of harm), and include private time. Take action: this builds trust and makes honest disclosure of risk behaviors more likely, while the caregiver still takes part in the rest of the visit.",
+        "incorrect": [
+          "Directing questions to the caregiver ignores the adolescent's growing independence and makes it less likely the teen will reveal sensitive information.",
+          "Interviewing together the whole time removes privacy, so the teen is unlikely to disclose sensitive concerns.",
+          "Excluding the caregiver from the entire visit goes too far. Family-centered care keeps caregivers as partners; the teen gets private time, not total exclusion."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is orienting to an adolescent clinic. Which statement by the nurse to a 16-year-old indicates a need for further teaching?",
+      "options": [
+        "\"I'm going to ask your mom to step out for a few minutes so we can talk privately.\"",
+        "\"Anything you tell me stays just between us, no matter what it is.\"",
+        "\"You can decide with us how to manage this. What questions do you have?\"",
+        "\"I'll cover you with this gown and only uncover the area I'm examining.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the nurse promises unconditional confidentiality. Analyze cues: adolescents should hear about confidentiality AND its limits. If the teen discloses a risk of harm to self or others, or abuse, the nurse must share it. Take action: the orientee needs teaching to say, \"What you tell me is private unless I'm worried about your safety or someone else's.\" Evaluate outcomes: an honest explanation up front protects trust if the nurse later has to act on a disclosure.",
+        "incorrect": [
+          "Private time with the adolescent is correct practice. It respects privacy and supports honest disclosure.",
+          "Inviting the adolescent into decisions and questions fits the formal operational stage and respects their autonomy.",
+          "Draping and exposing only the area being examined preserves dignity, which matters a great deal to body-conscious adolescents."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-year-old needs a blood draw and asks, \"Why do you need my blood?\" Which response by the nurse is most appropriate for this child's stage of development?",
+      "options": [
+        "\"It's just a quick test to make sure everything is okay, so try not to think about it.\"",
+        "\"Let's pretend your teddy bear is getting a blood test first, and then it will be your turn.\"",
+        "\"We'll check whether your blood has enough of the cells that carry oxygen. It takes about a minute. Want to watch or look away?\"",
+        "\"There are several possible results, and each one could change your treatment plan in different ways.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a school-age child asking a direct \"why\" question. Analyze cues: Piaget's concrete operational stage (6–12 years) brings logical thinking about concrete, real situations. School-age children need to be told what will happen and why, and they want to participate. Generate solutions: a concrete purpose, a time frame, and a meaningful choice. Take action: this answers the question honestly and supports the child's growing independence.",
+        "incorrect": [
+          "This is kind but vague. It does not answer the \"why\" an 8-year-old can understand, and it offers no participation. A concrete-operational child needs what and why (Generate solutions).",
+          "Pretend play with a toy fits a preschooler (preoperational stage). It underestimates an 8-year-old who is asking for a real reason.",
+          "Discussing multiple hypothetical outcomes requires abstract reasoning (formal operational stage, about 12 years onward) and may confuse or frighten a school-age child."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old is scheduled for a dressing change on a forearm burn. The nurse is planning how to prepare the child. Which approach best matches this child's cognitive stage?",
+      "options": [
+        "Give a detailed verbal explanation of how burns heal and why dressings prevent infection",
+        "Show the supplies, change a bandage on a stuffed animal together, and use short, simple words just before starting",
+        "Tell the child about the dressing change the evening before so there is plenty of time to prepare",
+        "Wait to explain until the old dressing is being removed so the child has less time to worry"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a preschooler facing an unfamiliar, painful procedure. Analyze cues: in Piaget's preoperational stage (2–6 years) children use symbols and pretend play but think literally and egocentrically, so abstract explanations do not work. Generate solutions: concrete demonstration, medical play with a doll or toy, and short honest explanations. Take action: let the child see and handle safe supplies and rehearse on a stuffed animal. Evaluate outcomes: a child who knows what to expect cooperates better and is less distressed.",
+        "incorrect": [
+          "Detailed explanations of healing and infection are abstract reasoning beyond a preschooler. The child will not understand and may become more anxious.",
+          "Preschoolers have a limited sense of time. Preparing them far in advance gives a long stretch for fear and fantasy to grow; preparation should come close to the procedure.",
+          "Preparation should be close in time, but waiting until hands are on the burn means the child is startled and never sees the supplies or rehearses. That skips the demonstration preschoolers need."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-year-old with newly diagnosed type 1 diabetes must choose between insulin injections and an insulin pump. Which nursing approach best fits this client's cognitive development?",
+      "options": [
+        "Discuss the risks, benefits, and likely day-to-day effects of each option with the teen and include them in the decision",
+        "Let the caregiver choose the method, then teach the teen how to use it",
+        "Use a doll to demonstrate both methods and let the teen pick the one that looks easiest",
+        "Give the teen a simple list of steps for each method without discussing the reasons"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an adolescent facing a long-term treatment choice. Analyze cues: by about 12 years, the formal operational stage allows abstract and hypothetical reasoning, such as \"What would happen if...?\" The nursing application is to discuss risks, benefits, possible outcomes, and shared decisions. Take action: involve the teen directly, with caregivers as partners. Evaluate outcomes: a teen who helped choose a regimen is more likely to stick with it.",
+        "incorrect": [
+          "Leaving the choice to the caregiver excludes the adolescent from a decision about their own body and daily life, which undermines autonomy and later adherence.",
+          "Doll demonstration is a preschool strategy. An adolescent may find it demeaning, and it does not use their ability to reason abstractly.",
+          "Steps without reasons fit an earlier stage. Adolescents need the \"why\" and the trade-offs to make informed decisions."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-month-old is crying vigorously during triage. Heart rate is 170/min, temperature 38.6°C (101.5°F), respirations unlabored, and the infant reaches for the caregiver. What should the nurse do next?",
+      "options": [
+        "Notify the provider immediately of tachycardia that requires urgent intervention",
+        "Document the heart rate as abnormal and place the infant on a continuous cardiac monitor",
+        "Give the prescribed antipyretic and recheck the heart rate in 4 hours",
+        "Have the caregiver soothe the infant, then recount the heart rate while calm and assess hydration and perfusion"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: HR 170 in a crying, febrile infant who is alert, breathing without effort, and seeking the caregiver. Analyze cues: heart rate must be interpreted with age, activity, crying, fever, pain, and hydration; crying and fever both raise heart rate. Prioritize hypotheses: a physiologic response versus true persistent tachycardia from dehydration or sepsis. Take action: let the caregiver calm the infant, recount, and check hydration and perfusion. Evaluate outcomes: persistent tachycardia when calm, or an ill appearance, warrants further assessment and escalation.",
+        "incorrect": [
+          "Escalating based on one value taken during crying, without context, skips Analyze cues. The heart rate needs to be reassessed when the infant is calm first.",
+          "A single reading during vigorous crying cannot be labeled abnormal. Interpret it in context and reassess before starting monitoring.",
+          "Treating the fever is reasonable, but waiting 4 hours to recheck leaves possible dehydration or sepsis unevaluated. The heart rate needs a calm recheck now."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old has a respiratory rate of 38/min after running in the hallway with an older sibling. Which additional finding requires immediate follow-up?",
+      "options": [
+        "Flushed cheeks and a sweaty forehead",
+        "Laughing and wanting to keep playing",
+        "Subcostal retractions with an expiratory grunt",
+        "A respiratory rate of 30/min after 5 minutes of rest"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an elevated respiratory rate after vigorous activity. Analyze cues: rate alone is not enough; work of breathing tells whether the child is in distress. Retractions and grunting are signs of increased work of breathing and possible respiratory emergency. Prioritize hypotheses: real respiratory distress rather than exercise effect. Take action: assess color, nasal flaring, and SpO2 right away and escalate. Respiratory rate and work of breathing are critical pediatric assessments.",
+        "incorrect": [
+          "Flushing and sweating are expected after vigorous play and do not show respiratory distress.",
+          "Laughing and wanting to play show an alert, interactive child with enough breath to vocalize. This is reassuring behavior.",
+          "A rate that falls with rest supports activity as the cause. It is a reassuring trend, not a red flag."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-year-old who plays competitive soccer has a resting heart rate of 58/min during a well visit. Which finding would require the nurse to escalate this heart rate?",
+      "options": [
+        "The child reports dizziness when standing and appears pale, with capillary refill of 4 seconds",
+        "The heart rate rises to 96/min after the child walks around the room",
+        "The child is alert, chatting about a recent game, and denies symptoms",
+        "The heart rate is 60/min on recheck 10 minutes later"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a heart rate lower than many references for age in an athletic child. Analyze cues: the review says to assess alertness, perfusion, symptoms, activity, persistence, and other vital signs, and to escalate for symptoms or instability. Prioritize hypotheses: dizziness, pallor, and delayed capillary refill suggest the slow rate is reducing perfusion, not a benign athletic heart. Take action: report promptly and assess other vital signs and the rhythm.",
+        "incorrect": [
+          "An appropriate rise with activity shows a heart that responds normally, which is reassuring.",
+          "An alert, symptom-free, engaged child supports a benign explanation such as athletic conditioning.",
+          "A consistent recheck shows persistence but no symptoms or instability. Persistence alone, in an active, well child, is not the escalation trigger."
+        ]
+      }
+    },
+    {
+      "stem": "A nursing student is assessing a stable, wary 3-year-old with a mild cough. Which action by the student requires the instructor to intervene?",
+      "options": [
+        "Counting respirations by watching the chest while the toddler sits on the caregiver's lap",
+        "Letting the toddler squeeze the blood pressure bulb before using the cuff",
+        "Selecting a cuff whose bladder fits the toddler's arm instead of using the adult cuff",
+        "Measuring blood pressure first, before counting respirations, so the vital signs are done in order"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a stable but wary toddler and a student who starts with the most upsetting vital sign. Analyze cues: the cuff squeezes and often makes toddlers cry, which raises respiratory and heart rates and makes auscultation difficult. The review says to measure blood pressure later when feasible if the child is stable. Take action: redirect the student to observe and count respirations first, auscultate, and save blood pressure for later. Never use this sequence to delay urgent assessment in an unstable child.",
+        "incorrect": [
+          "Counting respirations by observation on the caregiver's lap is least invasive, accurate, and atraumatic. It is correct practice.",
+          "Letting a toddler handle safe equipment reduces fear and is recommended for this age group.",
+          "An appropriately sized cuff is required for accurate pediatric blood pressure. An adult cuff would give a falsely low reading."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver of a 3-year-old with a fever says, \"He's sleeping a lot more than usual, but I figured that's because he's sick.\" When the nurse enters, the child opens his eyes only after his name is called loudly and his shoulder is shaken, then drifts back to sleep. What is the nurse's priority?",
+      "options": [
+        "Assess airway, breathing, circulation, and level of consciousness, and escalate to the provider or rapid response team now",
+        "Give the prescribed antipyretic, then reassess responsiveness once the fever comes down",
+        "Return in 30 minutes, when the child may be more awake, to complete the full assessment",
+        "Obtain a full set of vital signs and plan a neurologic recheck in 1 hour"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a caregiver report of increased sleep, and a child who can be roused only by loud voice and touch before drifting off again. Analyze cues: being difficult to awaken is an urgent red flag that needs immediate assessment; it is not normal sick-day tiredness. Prioritize hypotheses: altered mental status from sepsis, CNS infection, dehydration, or hypoxia. Take action: rapid ABC and neurologic assessment with prompt escalation. Family-centered care also means thanking the caregiver; their observation identified the change.",
+        "incorrect": [
+          "Fever can make children drowsy, but a child who rouses only to a loud voice and shaking is past ordinary drowsiness. Waiting for the antipyretic to work delays recognizing altered mental status; this skips Prioritize hypotheses.",
+          "Delaying assessment of a child who is hard to awaken could allow rapid deterioration. Urgent assessment comes before the routine exam.",
+          "Vital signs are part of the assessment, but planning the next neuro check for an hour from now treats an urgent red flag as routine. Being difficult to awaken requires immediate ABC assessment and escalation, not monitoring alone."
+        ]
+      }
+    },
+    {
+      "stem": "A charge nurse is reviewing family-centered care with a new nurse on the pediatric unit. Which statement by the new nurse indicates a need for further teaching?",
+      "options": [
+        "\"I'll ask the parents what their child's usual routines and comfort items are when I do the admission.\"",
+        "\"Parents should wait in the hallway during exams so the child cooperates better with me.\"",
+        "\"If a parent tells me their child is acting differently, I'll treat that as important assessment data.\"",
+        "\"I'll let the parents help with care like bathing and feeding if they want to and it's safe.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the new nurse plans to routinely separate caregivers from the child. Analyze cues: separation from caregivers is a key source of trauma in care. Caregiver presence reduces separation anxiety and supports both atraumatic and family-centered care. Take action: teach that caregivers are essential partners; when possible and safe, they stay and help comfort and position the child. Evaluate outcomes: the new nurse should be able to explain how caregiver presence improves cooperation instead of hindering it.",
+        "incorrect": [
+          "Asking about routines and comfort items respects the caregiver's knowledge of the child and is core family-centered care.",
+          "Treating caregiver reports of change from baseline as key data is correct, especially for children who cannot describe symptoms.",
+          "Including caregivers in care activities according to their preferences and safety is a direct application of family-centered care."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is planning a 12-month well-child visit for a healthy infant. Which activities belong in this visit as part of pediatric health supervision? Select all that apply.",
+      "options": [
+        "Measure weight, length, and head circumference and plot them against prior measurements",
+        "Ask the caregiver about new skills and observe how the infant moves, plays, and interacts",
+        "Review immunization history, give vaccines that are due, and explain expected responses",
+        "Discuss safety for the coming months, such as climbing, poisoning, and water hazards",
+        "Hold developmental questions unless the caregiver raises a concern",
+        "Defer growth plotting until the 2-year visit, when BMI can be calculated"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a healthy infant at a routine visit, entering a mobile stage. Generate solutions: health supervision is ongoing preventive care: growth monitoring with trend review, developmental surveillance at every visit (observation plus caregiver report), immunizations, screening, and anticipatory guidance before problems happen.",
+        "incorrect": [
+          "Correct—growth monitoring includes weight, length, and head circumference in infancy, and the trend against prior points is what matters (Recognize and Analyze cues).",
+          "Correct—developmental surveillance combines caregiver report with the nurse's own observation at every visit.",
+          "Correct—the immunization component is to review history, identify vaccines due, give them safely, explain expected responses, and document.",
+          "Correct—anticipatory guidance teaches families about the next developmental stage before injuries happen; a newly mobile 1-year-old faces climbing, poisoning, and water risks.",
+          "Incorrect—surveillance happens at every visit, not only when a caregiver is worried. Waiting for a complaint can miss early delays.",
+          "Incorrect—growth is plotted and trended at every visit in infancy; waiting removes the early-warning value of the trend."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 9-month-old who has just started pulling to stand says, \"She's into everything now.\" Which anticipatory guidance is the priority for the nurse to give at this visit?",
+      "options": [
+        "Start daily tooth brushing with a smear of fluoride toothpaste as soon as teeth appear",
+        "Move the car seat to forward-facing now that she can sit and stand with support",
+        "Introduce a cup at meals so she is ready to wean from the bottle at 12 months",
+        "Anchor heavy furniture and TVs, gate stairs, and store medicines and cleaners locked and up high"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a newly mobile infant who is pulling to stand and exploring. Analyze cues: new motor skills create new injury risks (tip-overs, falls, poisoning), and anticipatory guidance teaches prevention before problems happen. Prioritize hypotheses: injury is the most immediate threat to this child's safety. Take action: teach home-safety measures that match the coming skill (cruising and climbing). Evaluate outcomes: the caregiver names specific changes to make at home before the next visit.",
+        "incorrect": [
+          "Oral care is part of anticipatory guidance, but it addresses a long-term risk. The new mobility cue makes injury prevention the more urgent teaching point today.",
+          "Car safety is a key topic, but standing with support is not a reason to change seat orientation. Seats follow the manufacturer's height and weight limits, and moving her early would reduce protection.",
+          "Cup introduction is reasonable nutrition guidance, but it does not respond to the cue the caregiver gave. This is a correct topic with the wrong priority."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse provides anticipatory guidance to the caregiver of an 18-month-old. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll cut grapes and hot dogs into small pieces, and keep coins and button batteries out of reach.\"",
+        "\"I'll put latches on the cabinets once I see him trying to open them.\"",
+        "\"I'll stay within arm's reach whenever he's in the bath or near the wading pool.\"",
+        "\"I'll keep him in his rear-facing car seat as long as he fits its height and weight limits.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver plans to add cabinet latches only after the child starts opening cabinets. Analyze cues: anticipatory guidance means preventing injury before it happens. Toddlers explore impulsively, and the first time he opens a cabinet could be a poisoning. Take action: reteach that latches and locked storage go in now, matched to the skills he is about to develop. Evaluate outcomes: the caregiver describes securing dangerous items this week.",
+        "incorrect": [
+          "Cutting round foods and keeping small objects away addresses choking hazards for this age. This is correct.",
+          "Close supervision within reach around water is correct water-safety teaching.",
+          "Following the car seat's installation instructions and limits is correct car safety teaching."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews notes from four pediatric visits. Which finding requires the most immediate follow-up?",
+      "options": [
+        "A 2-year-old who has frequent tantrums when told \"no\"",
+        "A 9-month-old who cries and turns away when the nurse approaches",
+        "A 4-year-old who says the dark closet has monsters in it",
+        "A 30-month-old who used two-word phrases at 24 months and now uses no words"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a toddler has lost a language skill he previously had. Analyze cues: loss of previously acquired skills is developmental regression and warrants evaluation, unlike behaviors expected for age. Prioritize hypotheses: neurologic, developmental, hearing, or other causes need evaluation, so this cannot be called a variation. Take action: obtain a detailed history from the caregiver, screen, and refer promptly.",
+        "incorrect": [
+          "Tantrums when limits are set fit toddler autonomy and are developmentally expected.",
+          "Stranger fear is expected in later infancy and shows normal attachment.",
+          "Magical thinking and imaginary fears are typical of the preoperational preschooler."
+        ]
+      }
+    },
+    {
+      "stem": "At a 15-month well visit the caregiver says, \"You checked her development at 12 months and she was fine. Do we have to go through it again?\" What is the nurse's best response?",
+      "options": [
+        "\"No, once a screen is normal we only repeat it if you notice a problem.\"",
+        "\"We only need your report today, so I won't need to watch her play.\"",
+        "\"Yes. We check at every visit, using what you've noticed and what I see, because new skills appear quickly and early concerns are easier to address.\"",
+        "\"Yes, but only because she is a little behind on her growth curve.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a caregiver questioning repeat developmental checks. Analyze cues: developmental surveillance is ongoing observation plus caregiver report at every visit to identify early concerns; one normal check does not cover the months of rapid change that follow. Generate solutions: explain the purpose and invite the caregiver as a partner. Take action: combine their report with the nurse's direct observation. Evaluate outcomes: the caregiver understands why surveillance is repeated and shares observations freely.",
+        "incorrect": [
+          "Surveillance is not triggered only by caregiver concern. Waiting for a problem defeats the purpose of early identification.",
+          "Caregiver report is essential but is half of surveillance. The nurse's direct observation of play and interaction is the other half.",
+          "This invents a growth concern and links surveillance to it. Surveillance is routine for every child, so this misinforms and may alarm the caregiver."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse gives scheduled vaccines to a 4-month-old and teaches the caregiver about expected responses. Which caregiver statement shows the teaching was effective?",
+      "options": [
+        "\"If he is fussy tonight, that means he's having a reaction and I should bring him back.\"",
+        "\"Any redness at the shot site means it's infected and he needs antibiotics.\"",
+        "\"If he gets a mild fever tonight, I'll take him straight to the emergency department.\"",
+        "\"Some fussiness and soreness where he got the shot can be expected, but if he is very hard to wake or won't feed, I'll call right away.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver needs to tell expected vaccine responses from warning signs. Analyze cues: health supervision includes explaining expected responses so families are not alarmed and also know which signs need attention. Take action: teach expected effects alongside red flags. Evaluate outcomes: the caregiver correctly separates mild expected effects (fussiness, local soreness) from concerning signs (difficult to awaken, poor feeding), and that shows the teaching worked.",
+        "incorrect": [
+          "Mild fussiness is an expected response. Labeling it an emergency shows the caregiver cannot yet tell expected effects from warning signs.",
+          "Mild local redness and soreness are expected and do not mean infection. Assuming they do could lead to unnecessary visits or antibiotic requests.",
+          "A mild fever can be an expected response. Treating it as an emergency shows the caregiver has not learned to tell expected effects from true warning signs such as being difficult to awaken or refusing feeds."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-month-old screams and buries his face in the caregiver's shoulder when the nurse approaches. He quiets within a minute when the caregiver rocks him, and he peeks at the nurse. What should the nurse conclude and do?",
+      "options": [
+        "This shows poor consolability; take the infant to the exam table to assess more closely",
+        "This is expected stranger fear; continue the assessment with the infant on the caregiver's lap",
+        "This suggests pain; ask the provider for an analgesic before continuing",
+        "This shows the infant is overstimulated; postpone the assessment until the next shift"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: crying at a stranger, then settling quickly with the caregiver and peeking back. Analyze cues: stranger fear is developmentally expected late in the first year, and settling with the caregiver and responding to soothing is reassuring. Generate solutions: keep the caregiver as the comfort base and approach slowly. Take action: continue the assessment on the caregiver's lap, observing and auscultating first.",
+        "incorrect": [
+          "The infant settles within a minute, so consolability is intact. Separating him from the caregiver would increase distress and goes against atraumatic care.",
+          "Nothing points to pain: the infant calms with comfort and is curious. Medicating without evidence skips Analyze cues.",
+          "Delaying a needed assessment for expected behavior is unnecessary and leaves the infant unassessed. Atraumatic strategies let the nurse proceed now."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a 6-month-old in the emergency department. Which observation is most concerning?",
+      "options": [
+        "Cries loudly during the exam and kicks both legs vigorously",
+        "Stops crying and smiles when the caregiver sings a familiar song",
+        "Reaches for the stethoscope and tries to put it in their mouth",
+        "Lies limp in the caregiver's arms with a weak cry and does not follow the caregiver's face"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: limp tone, a weak cry, and no visual engagement with the caregiver. Analyze cues: the general-appearance assessment looks at tone, interaction, consolability, and work of breathing. Poor tone and absent interaction suggest lethargy or decreased responsiveness. Prioritize hypotheses: serious illness such as sepsis, dehydration, or neurologic compromise. Take action: rapid ABC assessment and escalation.",
+        "incorrect": [
+          "A strong cry and vigorous movement show good tone and energy, which is reassuring even though the infant is upset.",
+          "Responding to a familiar voice shows intact consolability and interaction.",
+          "Reaching and mouthing objects is expected at 6 months and shows alertness and normal sensorimotor exploration."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse needs to assess the heart and lungs of a 22-month-old who is clinging to the caregiver and crying at the sight of the stethoscope. The child is breathing comfortably. Which strategies are appropriate? Select all that apply.",
+      "options": [
+        "Let the child touch the stethoscope and listen first to the caregiver's chest or a stuffed animal",
+        "Perform the assessment while the child sits on the caregiver's lap",
+        "Offer two acceptable choices, such as \"Should I listen to your tummy or your back first?\"",
+        "Ask the caregiver to leave so the toddler focuses on the nurse",
+        "Explain the purpose of each heart sound the nurse will be listening for",
+        "Use simple, playful words like \"I'm listening for your heartbeat going boom-boom\""
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a stable but frightened, clinging toddler. Analyze cues: toddlers have limited cooperation and stranger fear. Generate solutions: safe equipment exploration, caregiver comfort, two acceptable choices, and simple, playful language reduce distress without delaying necessary assessment of a stable child.",
+        "incorrect": [
+          "Correct—exploring safe equipment and demonstrating on a familiar person or toy reduces fear of the unknown (Generate solutions).",
+          "Correct—the caregiver's lap provides comfort and reduces separation anxiety while allowing auscultation.",
+          "Correct—a choice between two acceptable options gives the toddler a sense of control without letting them refuse necessary care.",
+          "Incorrect—separation from the caregiver is a source of trauma and will make a toddler with stranger fear more upset.",
+          "Incorrect—detailed explanations of purpose suit school-age children. A toddler needs brief, concrete words.",
+          "Correct—simple, concrete, playful communication matches toddler development."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-year-old is brought to the emergency department. The child is pale with dusky lips, has deep subcostal retractions and grunting, and responds only weakly when the caregiver speaks. The caregiver is crying. What is the nurse's priority action?",
+      "options": [
+        "Show the child the oxygen mask on a stuffed animal before applying it, to reduce fear",
+        "Begin airway and breathing support, apply oxygen, and call for immediate help",
+        "Start a head-to-toe assessment using the usual observe, auscultate, then palpate order",
+        "Ask the caregiver about the child's baseline behavior and recent illnesses"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: cyanosis, retractions, grunting, and decreasing responsiveness. Analyze cues: this combination is a potential respiratory emergency. Prioritize hypotheses: impending respiratory failure. Take action: when a child is unstable, airway, breathing, circulation, and rapid escalation come before routine exams and preparation strategies. Never delay life-saving intervention to complete a routine sequence. Evaluate outcomes: watch for improved color, work of breathing, and responsiveness, and keep the caregiver informed.",
+        "incorrect": [
+          "Medical play is a good atraumatic strategy for a stable child, but here it delays oxygen for a child in respiratory failure. It is the right tool at the wrong time.",
+          "The routine sequence is adapted when the child is unstable. A full head-to-toe exam now delays life-saving intervention.",
+          "Caregiver history is valuable, and a second team member can gather it, but it is not the first action when the child cannot oxygenate."
+        ]
+      }
+    },
+    {
+      "stem": "A triage nurse observes four children from the doorway of the waiting room. Which child should be brought back first?",
+      "options": [
+        "A 7-year-old with a sore throat who is reading a book and answers questions clearly",
+        "A 3-year-old with an ear infection who is crying loudly and pulling at one ear",
+        "A 15-month-old sitting still on a caregiver's lap with nasal flaring, head bobbing, and no interest in the toys nearby",
+        "A 5-year-old with a rash who is restless and repeatedly asking to go home"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: nasal flaring and head bobbing (increased work of breathing) together with unusual stillness and no interest in surroundings. Analyze cues: general appearance (tone, interaction, consolability, work of breathing) can be judged before touching; poor interaction plus respiratory effort suggests deterioration. Prioritize hypotheses: respiratory distress progressing toward fatigue. Take action: bring this child back immediately for ABC assessment.",
+        "incorrect": [
+          "Reading and answering clearly show normal interaction and no distress; this child is stable.",
+          "Loud crying and ear pulling are expected with ear pain. The child is alert with good energy, which is reassuring.",
+          "Restlessness and wanting to go home are typical of a frightened preschooler; the child is alert and interactive."
+        ]
+      }
+    },
+    {
+      "stem": "A nursing student is measuring a 4-month-old's head circumference. Which action by the student requires correction?",
+      "options": [
+        "Using a cloth tape measure that has softened and stretched with repeated use",
+        "Placing the tape across the forehead just above the eyebrows",
+        "Wrapping the tape around the most prominent part of the back of the head",
+        "Plotting the result and comparing it with the 2-month measurement"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the student is using a stretched cloth tape. Analyze cues: head circumference must be measured with a flexible, nonstretchable tape around the largest circumference; a stretched tape gives a falsely small reading that could hide abnormal head growth or create a false trend change. Take action: replace it with a nonstretchable tape and remeasure. Evaluate outcomes: an accurate value plotted against prior points shows the true trend.",
+        "incorrect": [
+          "Just above the eyebrows across the forehead is the correct front landmark.",
+          "The most prominent part of the occiput is the correct back landmark for the largest circumference.",
+          "Plotting and comparing with prior values is correct, because trend matters more than one measurement."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse needs an accurate length for a 14-month-old who walks a few steps but will not stand still against the wall. Which method should the nurse use?",
+      "options": [
+        "Measure standing height with the caregiver holding the child upright against the stadiometer",
+        "Estimate length from the caregiver's report of the last measurement",
+        "Mark the exam-table paper at the head and heel while the child lies down, then measure between the marks",
+        "Measure recumbent length on a length board with the head against the headboard and legs extended"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a young toddler who cannot stand still and straight. Analyze cues: length/height is measured by recumbent length or standing height according to age and ability; an unreliable standing position gives an inaccurate value that could create a false trend. Take action: measure recumbent length on a length board with the legs gently extended. Evaluate outcomes: plot it on the age-appropriate chart and compare with prior lengths.",
+        "incorrect": [
+          "Holding a child who cannot stand still upright produces slumped, inaccurate heights. Standing height is used when the child can stand reliably.",
+          "Caregiver recall is not a measurement. Growth monitoring requires an accurate current value to assess the trend.",
+          "The child is lying down, but paper marks shift as a toddler wiggles and the legs are not held extended. That gives an unreliable value. A length board with a fixed headboard is accurate."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-year-old's height has stayed at the 50th percentile, but weight has drifted from the 50th to the 25th percentile over the last 9 months. The child is active and meeting milestones. Which action should the nurse take next?",
+      "options": [
+        "Teach the caregiver that toddlers normally eat less, so no further evaluation is needed",
+        "Take a diet and intake history, ask about recent illnesses, and review the health history with the caregiver",
+        "Recommend a daily high-calorie supplement drink until weight returns to the 50th percentile",
+        "Recommend restricting juice and snacks, since the child may be eating too much"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: weight gain slowing while height continues along its curve. Analyze cues: the review pairs this pattern with reviewing nutrition, intake, health history, and clinical context; normal development is reassuring but does not explain the drift. Generate solutions: gather data before choosing any intervention. Take action: a thorough intake, illness, and health history with the caregiver as partner. Evaluate outcomes: the findings guide whether reassurance, diet change, or referral is needed.",
+        "incorrect": [
+          "Appetite often decreases after infancy, but a two-channel weight drift is a trend that deserves assessment. Dismissing it skips Analyze cues.",
+          "Supplementing before knowing the cause is premature, and aiming for the 50th percentile treats a number rather than the child.",
+          "Restricting snacks addresses excess weight, which is the opposite problem. This misreads the direction of the trend."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old has had vomiting and diarrhea for 2 days. BP is within the normal range for age, HR is elevated, capillary refill is 4 seconds, and the child is listless and does not respond to a favorite video. The caregiver asks, \"His blood pressure is fine, so he's okay, right?\" Which conclusion should guide the nurse's response?",
+      "options": [
+        "The normal blood pressure shows circulation is adequate, so oral fluids at home are appropriate",
+        "The listlessness is most likely boredom from the long wait and does not need follow-up",
+        "The child may be compensating for fluid loss; listlessness and delayed capillary refill need urgent assessment despite the normal BP",
+        "The elevated heart rate is most likely anxiety, so the nurse should recheck it when the child is calm"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fluid losses, tachycardia, delayed capillary refill, and listlessness with a normal BP. Analyze cues: children can compensate for illness for a time, keeping BP normal while perfusion and behavior worsen. The nurse should look at hydration, interaction, behavior, and trends rather than a single vital sign. Prioritize hypotheses: dehydration with compensated poor perfusion. Take action: report promptly and prepare for rehydration. Evaluate outcomes: improving capillary refill, heart rate, and alertness show the response.",
+        "incorrect": [
+          "Relying on a single vital sign is the trap. Normal BP in a child does not rule out significant fluid loss.",
+          "Not responding to a favorite video is a behavior change that suggests lethargy. Attributing it to boredom misreads the cue.",
+          "Anxiety can raise heart rate, but this child is listless, not anxious, and capillary refill is delayed. Waiting to recheck ignores the perfusion cues."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a 2-year-old with a respiratory infection. Which findings require urgent assessment and escalation? Select all that apply.",
+      "options": [
+        "Intercostal retractions and expiratory grunting",
+        "Crying and pushing the nurse's hands away during auscultation",
+        "Increasing difficulty waking the child for vital signs",
+        "Circumoral cyanosis when the child is calm",
+        "Refusing to sit on the exam table without the caregiver",
+        "Appearing exhausted, with respirations becoming slower and shallower"
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues and Analyze cues: retractions, grunting, cyanosis, exhaustion, and decreasing responsiveness signal a possible respiratory emergency. Crying, resisting, and clinging are expected toddler fear responses in an alert child. Take action: urgent assessment and escalation for the red flags.",
+        "incorrect": [
+          "Correct—retractions and grunting show increased work of breathing (Recognize cues).",
+          "Incorrect—crying and resisting a stranger's touch are developmentally expected and show an alert child with energy.",
+          "Correct—difficulty awakening is an urgent red flag for altered mental status or CO2 retention.",
+          "Correct—cyanosis at rest signals inadequate oxygenation.",
+          "Incorrect—wanting the caregiver is expected toddler stranger fear, not deterioration.",
+          "Correct—exhaustion with slowing respirations may look like improvement but signals impending respiratory failure. This is a classic misreading of cues."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old needs a venipuncture for lab work. Which nursing actions apply atraumatic care? Select all that apply.",
+      "options": [
+        "Apply a prescribed topical anesthetic before the procedure",
+        "Let the child choose which arm or which bandage to use",
+        "Tell the child, \"You won't feel a thing if you hold still.\"",
+        "Keep the caregiver present to comfort and help hold the child in a comfort position",
+        "Ask the child whether they want the blood test today or another day",
+        "Demonstrate the procedure on a doll with real tourniquet and bandage"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Analyze cues: a preoperational child faces pain, fear of the unknown, loss of control, and possible separation. Generate solutions: atraumatic care minimizes physical and psychological distress with pain control, limited clinically acceptable choices, caregiver presence, honest explanations, and medical play.",
+        "incorrect": [
+          "Correct—pain control minimizes physical distress (Generate solutions).",
+          "Correct—a limited choice between acceptable options gives the preschooler a sense of control.",
+          "Incorrect—promising no pain is dishonest; when it hurts, trust is lost. Explanations must be honest.",
+          "Correct—caregiver presence reduces separation anxiety and supports family-centered care.",
+          "Incorrect—the child should not decide whether necessary care happens. Offering a choice the nurse cannot honor increases loss of control.",
+          "Correct—medical play and demonstration make unfamiliar equipment less frightening for a preoperational child."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-year-old hospitalized with a leg fracture asks to help with care. Which nursing action best supports this child's development?",
+      "options": [
+        "Explain what each step of the pin care does and why, and let the child hold supplies and keep a care checklist",
+        "Have the caregiver do all the care so the child can rest",
+        "Use a puppet show to explain the care, then complete it while the child watches a video",
+        "Teach the child the steps and let them perform the entire pin care independently while the nurse watches"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a school-age child wanting to participate. Analyze cues: in the concrete operational stage, children reason logically about real situations and value growing independence; they need to know what will happen and why and should be encouraged to participate. Take action: involve the child in safe, concrete tasks with clear explanations. Evaluate outcomes: a child who participates usually cooperates better and copes better with the procedure.",
+        "incorrect": [
+          "Involving the caregiver is family-centered, but excluding the child when they want to help undermines independence and control.",
+          "Puppet shows are preschool-level, and distraction removes the participation this child asked for.",
+          "Participation is right, but a 9-year-old doing a sterile procedure alone is unsafe. Respecting independence means safe, guided tasks, not handing over care. The solution goes too far (Generate solutions)."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old must take a prescribed oral antibiotic and refuses, turning away from the cup. Which statement by the nurse is most appropriate?",
+      "options": [
+        "\"Do you want to take your medicine now or after your nap?\"",
+        "\"If you take your medicine, you're being a big kid. Will you take it for me?\"",
+        "\"Your medicine helps the germs go away, and it will make you all better by tomorrow.\"",
+        "\"It's medicine time. Do you want the cup or the syringe?\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a toddler asserting autonomy by refusing. Analyze cues: toddlers have limited cooperation and need simple, concrete words and two acceptable choices. Choices must not include whether, or when, necessary care happens. Take action: state calmly that it is time, then offer two clinically acceptable choices. Evaluate outcomes: the toddler takes the dose and keeps some control.",
+        "incorrect": [
+          "\"After your nap\" may delay a timed dose and lets the toddler control whether care happens on schedule. Choices should be about how, not when, when timing matters.",
+          "A yes/no request invites \"no,\" which the nurse cannot accept. It is an unacceptable choice disguised as encouragement.",
+          "A simple explanation is fine, but promising \"all better by tomorrow\" is not honest. It also gives the toddler no sense of control."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches caregivers about growth charts. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"At the 25th percentile, my daughter is bigger than about 25 out of 100 girls her age.\"",
+        "\"A sudden drop across the lines is something the nurse would want to look into.\"",
+        "\"Since my son is below the 50th percentile, he is below average and probably not healthy.\"",
+        "\"Staying on about the same line over time can be normal for my child.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver treats the 50th percentile as a passing grade. Analyze cues: percentiles are not grades. They compare a child with a reference population of the same age and sex, and no single percentile establishes a diagnosis. Take action: reteach that the trend and the whole clinical picture matter. Evaluate outcomes: the caregiver can explain why a stable trajectory below the 50th percentile may be normal.",
+        "incorrect": [
+          "This is correct: a child at the 25th percentile is larger than about 25% and smaller than about 75% of the reference population.",
+          "This is correct: sudden changes or unexpected crossing of curves are red flags that warrant assessment.",
+          "This is correct: a stable percentile over time may be the child's normal trajectory."
+        ]
+      }
+    }
+  ]
+}

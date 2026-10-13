@@ -1,0 +1,765 @@
+{
+  "topic": "peds-wk2-infant-newborn",
+  "label": "Peds: Week 2 — Infant Development & Newborns at Risk",
+  "questions": [
+    {
+      "stem": "The nurse on a mother-baby unit receives report on four newborns. Which newborn should the nurse assess first?",
+      "options": [
+        "A 39-week newborn, 6 hours old, with acrocyanosis of the hands and feet, crying vigorously, RR 52/min",
+        "A 3-day-old, 40-week newborn with yellow skin on the face and chest who is breastfeeding every 2–3 hours with 6 wet diapers",
+        "A 37-week newborn, 30 hours old, whose parent says, \"She just isn't acting like herself,\" with axillary temperature 36.2°C and two missed feedings",
+        "A 38-week newborn, 12 hours old, sleeping after a good feeding who rouses easily during the assessment"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a low temperature (36.2°C), two missed feedings, and a caregiver report that the baby is \"not acting like herself.\" Analyze cues: the lecture stresses that neonatal sepsis is subtle and that temperature instability, poor feeding, and caregiver concern are the most important early warning signs; a 37-week infant is also borderline preterm. Prioritize hypotheses: early sepsis (or hypoglycemia from poor intake and cold stress) is the life-threatening explanation. Take action: assess this newborn first, check glucose and vital signs, warm the infant, and escalate promptly to the provider.",
+        "incorrect": [
+          "Acrocyanosis in a vigorous, crying newborn with a normal respiratory rate is an expected transitional finding, not a sign of deterioration.",
+          "Jaundice appearing after 24 hours in a well-feeding infant with good output fits a physiologic pattern. It still needs a bilirubin check per protocol, but it is not the most unstable newborn.",
+          "Sleeping after a good feeding with easy arousal is reassuring behavior. Normal sleep is easily confused with lethargy, but this infant wakes appropriately."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-hour-old, 39-week newborn is breastfeeding well, has had 2 wet diapers and a meconium stool, and is calm and pink except for yellow color visible on the face and sclera. The parent says, \"My first baby was yellow too and it went away on its own.\" What should the nurse do?",
+      "options": [
+        "Reassure the parent that newborn jaundice is common and recheck the skin color at the next assessment",
+        "Encourage feeding every 2–3 hours to help the infant pass bilirubin in the stool, and reassess in 24 hours",
+        "Plan a transcutaneous bilirubin check with the routine 24-hour newborn screen and report it if it is elevated",
+        "Report the finding to the provider promptly and anticipate a bilirubin level and evaluation for a pathologic cause"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: visible jaundice at 14 hours of life. Analyze cues: the lecture teaches that jaundice within the first 24 hours is pathologic until evaluated and is linked with blood-group incompatibility or sepsis. A well appearance and a sibling's history do not change that. Prioritize hypotheses: hemolysis from incompatibility or infection is the concern, and either can raise bilirubin quickly toward encephalopathy (kernicterus). Take action: notify the provider promptly and anticipate a bilirubin level and workup. Evaluate outcomes: follow bilirubin results against age-in-hours treatment thresholds.",
+        "incorrect": [
+          "This labels the jaundice as physiologic only because the baby looks well. That is the exact trap the lecture warns about: jaundice in the first 24 hours is pathologic until evaluated.",
+          "Frequent feeding supports bilirubin excretion and is part of jaundice care, but waiting 24 hours delays evaluation of jaundice that is already abnormal for the infant's age.",
+          "A bilirubin level is needed, but tying it to the 24-hour screen treats this as routine. Jaundice before 24 hours needs prompt provider notification now, not at the next scheduled check."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-day-old is receiving phototherapy for hyperbilirubinemia. The nurse reviews care with the parents. Which statement by a parent indicates a need for further teaching?",
+      "options": [
+        "\"We'll keep her in a light onesie under the lights so she doesn't get cold.\"",
+        "\"We'll keep the eye shields on the whole time the lights are on.\"",
+        "\"We'll keep feeding her every 2 to 3 hours and count her wet and dirty diapers.\"",
+        "\"Her stools may get looser, so we'll tell you if she has a lot of them.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the parent plans to keep a onesie on during phototherapy. Analyze cues: phototherapy works only on exposed skin, and the lecture states plainly \"no onesies\": expose the maximum skin surface while shielding the eyes and protecting the genitals. Generate solutions: explain that the infant stays in a diaper only, and that the nurse will monitor temperature closely rather than covering the skin. Evaluate outcomes: the parent describes maximum skin exposure with eyes shielded, and the bilirubin trends down.",
+        "incorrect": [
+          "This is correct. The eyes must be shielded strictly during phototherapy to protect the retina.",
+          "This is correct. Frequent feeding helps excrete bilirubin, and tracking intake and output checks for the dehydration that phototherapy can cause.",
+          "This is correct. Loose stools are an expected effect as bilirubin is excreted, but they raise the risk of dehydration, so reporting them is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "A 50-minute-old, 39-week newborn of a parent with gestational diabetes has a heel-stick glucose of 36 mg/dL. The infant is pink, alert, has normal tone, and is rooting. What is the nurse's priority action?",
+      "options": [
+        "Help the parent breastfeed now (or give formula per protocol), then recheck the glucose as ordered",
+        "Notify the provider and prepare to start IV 10% dextrose (D10W)",
+        "Place the infant under the radiant warmer and recheck the glucose in 1 hour",
+        "Document the result as normal transitional glucose and continue routine care"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: glucose 36 mg/dL at 50 minutes in an infant of a diabetic mother, with no jitteriness, lethargy, high-pitched cry, apnea, or poor feeding. Analyze cues: the glucose is below the lecture threshold of 40 mg/dL, but the infant is asymptomatic. Generate solutions: the lecture says immediate oral feeding with breast milk or formula is the first step for asymptomatic infants. Take action: feed now. Evaluate outcomes: recheck the glucose as ordered; if it is still below threshold or symptoms develop, escalate to the provider for IV D10W.",
+        "incorrect": [
+          "IV D10W is the lecture's treatment for symptomatic hypoglycemia. This infant has no symptoms, so the first step is oral feeding; escalate to IV if the glucose stays low or symptoms appear.",
+          "Preventing cold stress is helpful, but it does not raise the glucose. Waiting an hour without feeding leaves a low glucose untreated.",
+          "The lecture threshold is below 40 mg/dL, so 36 mg/dL is low in an at-risk infant of a diabetic parent. Calling it normal transition misreads the cue."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-hour-old, 36-week SGA newborn is lethargic, has a high-pitched cry, and has had a 15-second apneic pause. The heel-stick glucose is 28 mg/dL. Which action should the nurse take first?",
+      "options": [
+        "Bottle-feed 15 mL of formula and recheck the glucose in 30 minutes",
+        "Insert a gavage tube and give expressed breast milk, then recheck the glucose",
+        "Stimulate the infant, support breathing, and notify the provider urgently to start IV 10% dextrose (D10W)",
+        "Wrap the infant in warm blankets and place them skin-to-skin with the parent"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: lethargy, high-pitched cry, apnea, and glucose 28 mg/dL in an SGA preterm newborn. Analyze cues: these are the lecture's signs of hypoglycemia. Because the infant is symptomatic, they are not just risk factors. Prioritize hypotheses: symptomatic neonatal hypoglycemia, with airway and breathing at risk from the apnea. Take action: support breathing first (ABCs), then escalate urgently for IV D10W. The lecture is clear that you do not rely on feeding alone when lethargy, apnea, or poor responsiveness are present. Evaluate outcomes: repeat glucose checks rising above threshold, with resolving lethargy and no further apnea.",
+        "incorrect": [
+          "Oral feeding is the first step only for asymptomatic infants. A lethargic infant with apnea also has an unsafe suck and swallow and may aspirate.",
+          "Gavage avoids the weak suck, but enteral feeding is still not enough for symptomatic hypoglycemia. The lecture calls for IV dextrose, and gavage delays it.",
+          "Warmth and skin-to-skin contact help prevent cold stress, but they do not treat a glucose of 28 mg/dL with neurologic signs and apnea."
+        ]
+      }
+    },
+    {
+      "stem": "A term newborn's weight plots at the 6th percentile for gestational age. The infant has thin, loose skin over the thighs and a sunken abdomen. Which complications should the nurse plan to monitor for, based on this classification? Select all that apply.",
+      "options": [
+        "Hypoglycemia",
+        "Hypothermia",
+        "Polycythemia",
+        "Clavicle fracture or other birth trauma",
+        "Hyperthermia from excess brown fat"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: weight below the 10th percentile with wasted tissue and a sunken abdomen, which means SGA. Analyze cues: the lecture's SGA triad is hypoglycemia, hypothermia, and polycythemia. Birth trauma and respiratory distress belong to the LGA column. Generate solutions: early glucose screening, thermoregulation, and observation for plethora.",
+        "incorrect": [
+          "Correct—SGA infants have small glycogen and fat stores and are at risk for low glucose. Screen per protocol.",
+          "Correct—little subcutaneous fat (the wasted look) means SGA infants lose heat easily, and cold stress also uses up glucose.",
+          "Correct—the lecture lists polycythemia as an SGA risk. It is linked to chronic intrauterine hypoxia.",
+          "Incorrect—birth trauma is the lecture's LGA risk (>90th percentile), associated with a large body size during delivery.",
+          "Incorrect—SGA infants have reduced fat stores. They tend toward heat loss, not heat retention."
+        ]
+      }
+    },
+    {
+      "stem": "A 4.5-kg, 40-week newborn of a parent with type 1 diabetes is 2 hours old. Which assessment finding is most concerning?",
+      "options": [
+        "Bluish hands and feet with a pink trunk",
+        "Head molding and a soft scalp swelling that crosses the suture lines",
+        "Small white papules across the nose and chin",
+        "Fine tremors of the arms and a weak, disorganized suck"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an LGA infant of a diabetic mother with tremors and a weak suck. Analyze cues: LGA and IDM are both hypoglycemia risk categories, and jitteriness plus a weak suck is the lecture's classic hypoglycemia picture. Do not assume a big baby has good glucose reserves. Prioritize hypotheses: hypoglycemia is the threat to the brain and requires action now. Take action: check the glucose promptly and treat per protocol.",
+        "incorrect": [
+          "Acrocyanosis with a pink trunk is a normal transitional finding in the first day of life.",
+          "Molding and caput from a vaginal birth of a large infant are common and resolve on their own. They are not a hypoglycemia or airway threat.",
+          "Milia are a benign newborn skin finding that need no treatment."
+        ]
+      }
+    },
+    {
+      "stem": "A 41-week newborn whose weight plots at the 95th percentile had a difficult shoulder delivery. During the Moro reflex, the right arm extends and abducts but the left arm stays limp at the side. How should the nurse interpret this finding?",
+      "options": [
+        "A possible birth injury such as a clavicle fracture or brachial plexus injury, which needs further assessment and reporting",
+        "An expected variation, because the Moro reflex is often incomplete in post-term infants",
+        "An early sign of hypoglycemia, which needs a glucose check before anything else",
+        "Evidence of a neural tube defect, which needs a sterile moist dressing over the spine"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: LGA (>90th percentile), a difficult shoulder delivery, and a unilateral absent Moro response. Analyze cues: birth trauma is a key LGA risk, and the lecture says asymmetric reflex responses need further assessment. Prioritize hypotheses: clavicle fracture or brachial plexus injury on the left. Take action: assess the clavicle and arm movement, handle the arm gently, report to the provider, and still complete LGA glucose screening.",
+        "incorrect": [
+          "The infant is 41 weeks, which is term by the lecture's definition (post-term is more than 42 weeks). An asymmetric reflex is not an expected variation at any gestational age.",
+          "LGA infants are at risk for hypoglycemia, and the glucose should be screened. But hypoglycemia causes generalized jitteriness or lethargy, not a one-sided limp arm.",
+          "Nothing points to an open spinal lesion. A sterile moist dressing is for an exposed myelomeningocele, not for a unilateral arm finding."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn is born at 36 weeks 5 days, and the weight plots at the 8th percentile for gestational age. Which plan of care best reflects this infant's classification?",
+      "options": [
+        "Term, SGA: glucose screening and thermoregulation, with routine feeding and respiratory care",
+        "Late preterm, LGA: monitor for birth trauma and respiratory distress",
+        "Preterm, SGA: early glucose screening, thermoregulation, and close monitoring of feeding and breathing",
+        "Late preterm, AGA: routine late-preterm care, with glucose screening only if jitteriness develops"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 36 5/7 weeks and the 8th percentile. Analyze cues: preterm means born before 37 completed weeks, and SGA means below the 10th percentile. Generate solutions: combine the risks. Preterm brings immature lungs, feeding, and temperature control; SGA brings hypoglycemia, hypothermia, and polycythemia. Take action: heel-stick glucose within 30–60 minutes, a warmer or skin-to-skin contact, and close feeding and respiratory assessment.",
+        "incorrect": [
+          "The SGA part is right, but 36 5/7 weeks is not 37 completed weeks, so the infant is preterm. Missing that drops the closer feeding and respiratory monitoring that immature systems need.",
+          "The gestational age is correct, but the 8th percentile is below the 10th, which makes the infant SGA, not LGA. Birth trauma is an LGA concern.",
+          "The gestational age is correct, but the 8th percentile is below the 10th, so the infant is SGA. Waiting for symptoms gives up the early heel-stick screening that SGA status calls for."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn is born at 42 weeks 4 days. The skin is dry and peeling, the nails are long, and the infant looks thin. Which nursing action is the priority in the first hour?",
+      "options": [
+        "Give the first bath now to remove the peeling skin and lower the infection risk",
+        "Apply moisturizing lotion and teach the parent about expected dry skin",
+        "Start skin-to-skin contact and breastfeeding, and check the glucose only if the infant becomes jittery",
+        "Keep the infant warm and obtain a heel-stick glucose per the at-risk screening protocol"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: more than 42 weeks, with peeling skin, long nails, and a wasted appearance. Analyze cues: the lecture defines post-term as more than 42 weeks, with placental insufficiency as the main risk. Poor late-pregnancy nutrient delivery leaves low glycogen and fat stores, much like SGA. Prioritize hypotheses: hypoglycemia and cold stress. Take action: thermoregulation and early glucose screening. Evaluate outcomes: stable temperature and glucose at or above threshold on repeat checks.",
+        "incorrect": [
+          "An early bath causes heat loss in an infant with little fat reserve, and cold stress worsens hypoglycemia. Peeling skin is cosmetic.",
+          "Skin care and teaching are reasonable later, but they do not address the physiologic risk of placental insufficiency.",
+          "Skin-to-skin contact and early feeding are good supports, but waiting for symptoms misses the at-risk screening this post-term infant needs. Post-term status calls for a heel-stick within 30–60 minutes."
+        ]
+      }
+    },
+    {
+      "stem": "A 30-week preterm infant in an isolette is due for a diaper change, an axillary temperature, and a gavage feeding at 0900. A heel-stick for labs is also prescribed for that morning. Which plan by the nurse is best?",
+      "options": [
+        "Do each task at a separate time so the infant is never handled for long",
+        "Group the temperature, diaper change, heel-stick, and feeding at 0900, then leave the infant to rest undisturbed",
+        "Group the tasks at 0900, then open the isolette every 30 minutes to recheck the axillary temperature and color",
+        "Do the heel-stick first while the infant is asleep, then return for the other tasks after the feeding"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: preterm infants have little energy and are stressed by handling, and frequent disturbance raises oxygen and calorie demands. Take action: the lecture's key intervention is cluster care, which means combining appropriate care activities and keeping unnecessary handling to a minimum, while the isolette keeps the infant warm. Evaluate outcomes: stable temperature, stable SpO2 and heart rate during care, and longer undisturbed rest periods.",
+        "incorrect": [
+          "Spreading tasks across the morning wakes and stresses the infant repeatedly. The lecture's cluster-care principle groups care so the infant gets longer periods of rest.",
+          "Grouping the tasks is right, but opening the isolette every 30 minutes undoes it. It disturbs the infant repeatedly and lets warm air escape, while continuous monitors already track the infant's status.",
+          "This splits the care into two disturbances and puts a painful procedure on its own instead of grouping care to save the infant's energy."
+        ]
+      }
+    },
+    {
+      "stem": "A 27-week preterm infant receiving supplemental oxygen has these prescriptions. Which prescription should the nurse question?",
+      "options": [
+        "Titrate oxygen to keep the SpO2 at 100% at all times",
+        "Monitor continuous pulse oximetry and heart rate",
+        "Keep the infant in a servo-controlled isolette",
+        "Give gavage feedings of breast milk and offer a pacifier for non-nutritive sucking during feeds"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a prescription to keep the SpO2 at 100% in a 27-week infant. Analyze cues: the slides flag retinopathy of prematurity (ROP) as a caution with oxygen therapy. The goal is the prescribed SpO2 target range, not maximal saturation, because too much oxygen damages the immature retina. Take action: clarify the order with the provider to get a defined target range. Evaluate outcomes: the SpO2 stays within the target range without hyperoxia.",
+        "incorrect": [
+          "Continuous monitoring is appropriate for a 27-week infant at risk for RDS and apnea.",
+          "An isolette supports thermoregulation, which is a core preterm priority.",
+          "Gavage feeding plus non-nutritive sucking matches the lecture's nutrition plan for an infant whose suck and swallow are immature."
+        ]
+      }
+    },
+    {
+      "stem": "A 29-week preterm infant, 10 days old, receives gavage feedings every 3 hours. Today the abdomen is distended and shiny, the pre-feeding residual is larger than before, and the stool is streaked with blood. Which condition best fits this presentation?",
+      "options": [
+        "Normal feeding intolerance from a small stomach capacity",
+        "Hyperbilirubinemia from slow passage of stool",
+        "Necrotizing enterocolitis",
+        "Gastroesophageal reflux from gavage feeding"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: abdominal distention, increasing residuals, and bloody stool in a gavage-fed preterm infant. Analyze cues: the lecture names necrotizing enterocolitis (NEC) as the key GI complication of prematurity. Prioritize hypotheses: NEC, in which the intestinal wall is injured and can perforate. Take action: hold the feeding, report to the provider immediately, and expect bowel rest with TPN. Evaluate outcomes: a soft abdomen, no further blood in the stool, and stable vital signs.",
+        "incorrect": [
+          "Preterm infants do have small stomachs, but a distended abdomen with bloody stool is not ordinary intolerance. Calling it normal delays care for a GI emergency.",
+          "Slow stooling can raise bilirubin, but bilirubin does not cause abdominal distention or bloody stools.",
+          "Reflux causes spitting up, not a distended, shiny abdomen with blood in the stool."
+        ]
+      }
+    },
+    {
+      "stem": "A 26-week preterm infant, 2 days old, suddenly has more apneic episodes, decreased muscle tone, and a full, tense anterior fontanel while quiet. Which complication should the nurse suspect?",
+      "options": [
+        "Hypoglycemia from limited glycogen stores",
+        "Intraventricular (intracranial) hemorrhage from fragile cerebral blood vessels",
+        "Respiratory distress syndrome from surfactant deficiency",
+        "Dehydration from immature kidneys that cannot concentrate urine"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden apnea, low tone, and a full, tense fontanel in a 26-week infant. Analyze cues: the lecture lists fragile cerebral blood vessels and hemorrhage risk as a preterm neurologic hazard, and a bulging fontanel in a calm infant is concerning. Prioritize hypotheses: intracranial hemorrhage. Take action: support airway and breathing, notify the provider urgently, and handle the infant gently with minimal stimulation.",
+        "incorrect": [
+          "Hypoglycemia can cause apnea and low tone, but it does not explain a tense, bulging fontanel. Check the glucose, but this is not the best-fitting diagnosis.",
+          "RDS causes increased work of breathing such as grunting, retractions, and tachypnea, not a bulging fontanel with low tone.",
+          "Immature kidneys raise the risk of fluid imbalance, but dehydration causes a sunken fontanel, not a full one."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a 31-week preterm infant asks, \"Why does everyone keep scrubbing in and watching her so closely for infection? I'm healthy.\" Which response by the nurse is best?",
+      "options": [
+        "\"Most of the protective antibodies a baby gets from the parent cross the placenta in the last trimester, so she was born with fewer of them.\"",
+        "\"Her immune cells are fine, but her immature lungs make any infection more dangerous for her breathing.\"",
+        "\"Because she is fed by tube, she isn't getting the antibodies in your breast milk yet.\"",
+        "\"Her infection risk is from the NICU equipment, so it will go away once she goes home.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the lecture explains that preterm infants have less IgG because much of the maternal IgG transfer happens during the third trimester. Generate solutions: give an accurate, family-centered explanation that links the risk to the infant's birth timing. Take action: reinforce hand hygiene and teach the subtle signs of infection, because sepsis in newborns often shows only as temperature instability, poor feeding, or the baby \"not acting right.\"",
+        "incorrect": [
+          "Immature lungs do make infection more serious, but this wrongly says her immunity is normal. It skips the actual reason she is more likely to get infections.",
+          "Expressed breast milk given by gavage still carries its protective factors. The main issue the lecture names is reduced transplacental IgG.",
+          "Equipment and procedures add to the risk, but the main reason is low maternal IgG. That does not go away at discharge, so infection prevention teaching continues at home."
+        ]
+      }
+    },
+    {
+      "stem": "A 20-hour-old, 36-week newborn has a temperature of 36.0°C despite skin-to-skin care, grunting with RR 68/min, and poor feeding. The provider suspects neonatal sepsis. Which interventions should the nurse anticipate? Select all that apply.",
+      "options": [
+        "CBC with differential",
+        "Blood cultures before antibiotics are started",
+        "Lumbar puncture",
+        "IV antibiotics",
+        "Rewarming and a repeat temperature in 1 hour before any laboratory testing",
+        "Withholding antibiotics until the blood cultures confirm infection"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: temperature instability, respiratory distress, and poor feeding are the lecture's subtle signs of sepsis. Take action: the workup listed in the lecture is CBC with differential, blood cultures, and possibly a lumbar puncture, followed by IV antibiotics. Evaluate outcomes: temperature stabilizes, breathing becomes easier, and feeding improves.",
+        "incorrect": [
+          "Correct—the lecture lists a CBC with differential as part of the diagnostic workup.",
+          "Correct—blood cultures are part of the workup and are drawn before the first antibiotic dose so the result is not falsely negative.",
+          "Correct—the lecture notes that a lumbar puncture may be ordered to evaluate for meningitis.",
+          "Correct—IV antibiotics are started when the clinical team suspects sepsis. Treatment is not delayed until the cultures come back.",
+          "Incorrect—rewarming is appropriate, but the infant is symptomatic now, with grunting and poor feeding. Delaying the workup for a repeat temperature is the \"wait and observe\" error the lecture warns against.",
+          "Incorrect—cultures take 24–48 hours. In a symptomatic newborn, IV antibiotics start once the cultures are drawn, not after the results."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse in a pediatric clinic returns calls from caregivers of newborns. Which report requires immediate follow-up?",
+      "options": [
+        "\"My 5-day-old has hiccups after almost every feeding.\"",
+        "\"My 4-day-old feels cool, has only had one wet diaper today, and is too sleepy to latch.\"",
+        "\"My 6-day-old's umbilical cord stump is dry and dark and hasn't fallen off yet.\"",
+        "\"My 1-week-old sneezes several times a day but is feeding well.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: feeling cool, a single wet diaper, and being too sleepy to feed. Analyze cues: temperature instability, lethargy, and poor feeding together are the lecture's early warning signs of sepsis, and the low output suggests dehydration. Prioritize hypotheses: sepsis or hypoglycemia with dehydration, which is a newborn who may look only quietly sick. Take action: have the infant seen immediately (emergency evaluation) rather than giving home advice.",
+        "incorrect": [
+          "Hiccups after feeding are common and harmless in newborns.",
+          "A dry, darkening cord at 6 days is expected. Concerning cord signs would be redness, drainage, or a foul odor.",
+          "Occasional sneezing clears the newborn's nasal passages. With good feeding and nothing else wrong, this needs reassurance, not escalation."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-day-old newborn whose parent used opioids during pregnancy is irritable with a high-pitched cry, tremors, frequent sneezing, and frantic sucking on the fists, yet takes only small amounts at each feeding. Which nursing intervention is most appropriate?",
+      "options": [
+        "Keep the room brightly lit and check vital signs every 30 minutes so changes are noticed quickly",
+        "Give larger feedings every 4 hours so the infant can rest longer between feeds",
+        "Swaddle the infant snugly, dim the lights and noise, and offer small, frequent feedings",
+        "Leave the infant unswaddled so the tremors can be observed, and feed full volumes on demand"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: irritability, tremors, sneezing, and frantic sucking with poor intake after prenatal opioid exposure. Analyze cues: these match the lecture's signs of neonatal abstinence syndrome (NAS/NOWS). Generate solutions: the lecture lists a low-stimulation environment, swaddling, and small frequent feeds. Evaluate outcomes: calmer periods, sleep between feedings, adequate intake, and weight gain.",
+        "incorrect": [
+          "Bright light and frequent handling are stimulation, which worsens the withdrawal signs. Monitoring should be clustered and done with minimal stimulation.",
+          "Infants with NAS have disorganized, frantic sucking and tolerate large volumes poorly. The lecture recommends small, frequent feeds.",
+          "Observing the tremors matters, but unswaddling increases startle and irritability, and full-volume feeds are poorly tolerated with a frantic, disorganized suck."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching the caregiver of a 5-day-old being treated for neonatal opioid withdrawal. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll wrap him snugly in a blanket when he gets fussy.\"",
+        "\"I'll feed him smaller amounts more often instead of big bottles.\"",
+        "\"I'll keep the TV and lights low in his room when he's resting.\"",
+        "\"I'll bounce him and play music to distract him when he's shaking and crying.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the lecture's NAS care centers on low stimulation, swaddling, and small, frequent feeds. Recognize cues: bouncing and music add sensory input to an infant who is already overstimulated, which can increase tremors and crying. Generate solutions: teach slow, calm handling, a quiet environment, and swaddling. Evaluate outcomes: the caregiver describes calming strategies that reduce stimulation.",
+        "incorrect": [
+          "This is correct. Swaddling is a lecture-recommended comfort measure that reduces startle and irritability.",
+          "This is correct. Small, frequent feeds match the infant's disorganized suck and help him take enough.",
+          "This is correct. A low-stimulation environment is central to NAS care."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn is born with an open, fluid-filled sac over the lower lumbar spine. Which nursing action is the priority?",
+      "options": [
+        "Cover the sac with a dry, sterile nonadherent dressing and position the infant prone",
+        "Cover the sac with a sterile, moist dressing, position the infant prone, and avoid any pressure on the lesion",
+        "Cover the sac with a sterile, moist dressing and position the infant supine on a padded ring to cushion the lesion",
+        "Cover the sac with a sterile, moist dressing, position the infant prone, and swaddle snugly for warmth"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an exposed lumbar sac, which is a myelomeningocele. Analyze cues: the risks are rupture, infection (meningitis), and drying of the neural tissue. Take action: the lecture specifies a sterile moist dressing and protecting the lesion. Prone positioning keeps pressure off it, and the neonatal team is notified. Evaluate outcomes: the sac stays intact, moist, and free of contamination until surgery.",
+        "incorrect": [
+          "Prone positioning is correct, but the lecture specifies a moist sterile dressing. A dry dressing lets the exposed neural tissue dry out and can stick to the sac.",
+          "The dressing is correct, but lying supine on a ring still puts pressure on the sac's edges and can rupture it. Prone positioning keeps weight off the lesion.",
+          "The dressing and position are correct, but a snug swaddle presses on and can contaminate the lesion. Use a warmer for thermoregulation instead."
+        ]
+      }
+    },
+    {
+      "stem": "A 1-day-old with an isolated cleft palate is feeding with a specialty bottle. Which finding requires immediate follow-up by the nurse?",
+      "options": [
+        "Coughing and choking with milk coming from the nose, followed by circumoral cyanosis and SpO2 86%",
+        "Swallowing a lot of air during feeds, with frequent burping needed",
+        "A small amount of milk leaking from the nose during the feeding, without coughing or color change",
+        "Feedings take about 30 minutes, and the infant takes most of the prescribed volume"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: choking with cyanosis and SpO2 86% during a feeding. Analyze cues: the lecture says cleft lip and palate carry both nutrition and airway risks. Nasal regurgitation alone is a nutrition issue, but desaturation is an airway problem. Prioritize hypotheses: aspiration, compromising breathing. Take action: stop the feeding, position the infant upright, suction, support oxygenation, and notify the provider. Evaluate outcomes: SpO2 returns to baseline and the feeding plan is revised.",
+        "incorrect": [
+          "Swallowing air is expected with a cleft palate and is managed by burping often. It is a feeding-plan issue, not an emergency.",
+          "Some nasal leaking is common because the palate does not seal. Without respiratory signs, it calls for adjusting the feeding technique rather than urgent action.",
+          "Longer feeding times are expected with a cleft palate. Taking most of the volume is evidence that the feeding plan is working."
+        ]
+      }
+    },
+    {
+      "stem": "A 26-hour-old newborn's congenital heart disease (CHD) pulse-oximetry screen shows SpO2 98% on the right hand and 89% on the right foot. The infant is feeding well and appears pink. What should the nurse do?",
+      "options": [
+        "Repeat the screen with both sensors on the feet to confirm the reading",
+        "Document a passed screen, because the right-hand reading is above 95%",
+        "Report a failed screen to the provider promptly for further cardiac evaluation",
+        "Rescreen in 24 hours, because the infant is feeding well and looks pink"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a foot SpO2 of 89% and a 9-point difference between the right hand and the foot. Analyze cues: the lecture's CHD screen compares the right hand with a foot. A low lower-extremity reading suggests that blood bypassing the lungs (ductal shunting) is reaching the lower body, as in critical CHD. Prioritize hypotheses: critical congenital heart disease in a baby who looks well. Take action: report the failed screen promptly for further cardiac evaluation (echocardiogram).",
+        "incorrect": [
+          "Moving both sensors to the feet removes the right-hand (preductal) comparison that the screen depends on. The lecture specifies one sensor on the right hand and one on a foot.",
+          "A normal right-hand value alone does not pass the screen. The foot value and the hand–foot difference also have to be evaluated.",
+          "A pink, well-feeding appearance is exactly why the screen exists: critical CHD can be missed by looking at the infant. Waiting a day delays evaluation of an abnormal result."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is reviewing the newborns admitted to the nursery in the last hour. Which newborns should the nurse plan to screen with a heel-stick glucose within 30–60 minutes of birth? Select all that apply.",
+      "options": [
+        "A 39-week newborn of a parent with insulin-treated gestational diabetes",
+        "A 40-week newborn whose weight is at the 93rd percentile",
+        "A 38-week newborn whose weight is at the 7th percentile",
+        "A 39-week newborn whose axillary temperature was 36.0°C after a delayed transfer to the warmer",
+        "A 39-week newborn at the 50th percentile, breastfeeding well, with a normal temperature"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: identify which risk category each infant belongs to. Analyze cues: the lecture's risk factors are IDM, SGA, LGA, and cold stress. Take action: screen at-risk infants within 30–60 minutes of birth. Feed promptly if the glucose is low and the infant is asymptomatic; escalate for IV D10W if the infant is symptomatic.",
+        "incorrect": [
+          "Correct—an infant of a diabetic mother (IDM) is a lecture risk factor. The infant's insulin keeps running high after the maternal glucose supply stops.",
+          "Correct—LGA (>90th percentile) is a hypoglycemia risk category in the lecture. A large size does not mean adequate glucose reserves.",
+          "Correct—SGA infants (<10th percentile) have limited glycogen and fat stores.",
+          "Correct—a cold-stressed infant burns glucose to make heat, and the lecture lists cold stress as a risk factor.",
+          "Incorrect—a term, AGA, warm, well-feeding infant has no lecture risk factor. Routine screening is not indicated unless signs appear."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-hour-old, 38-week newborn has an axillary temperature of 36.1°C after a bath and is now jittery. What should the nurse do first?",
+      "options": [
+        "Re-bathe the infant quickly in warmer water to raise the temperature",
+        "Swaddle the infant in two blankets with a hat and recheck the temperature in 1 hour",
+        "Feed formula immediately to provide calories for heat production, then recheck the temperature",
+        "Place the infant skin-to-skin or under a radiant warmer and check a heel-stick glucose"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: temperature 36.1°C after a bath, plus jitteriness. Analyze cues: the lecture lists cold stress as a hypoglycemia risk factor, and jitteriness is a hypoglycemia sign. Prioritize hypotheses: cold stress leading to hypoglycemia. Take action: rewarm (skin-to-skin contact or a radiant warmer) and check the glucose now, feeding or escalating based on the result. Evaluate outcomes: normal temperature and glucose, with the jitteriness resolved.",
+        "incorrect": [
+          "Wet skin loses heat through evaporation, so another bath worsens the cold stress. It also delays checking the glucose.",
+          "Warming is appropriate, but this misses the jitteriness. Cold stress uses up glucose, and checking it in an hour is too late.",
+          "Feeding may be the right next step if the glucose is low and the infant is asymptomatic, but treating before checking skips Analyze cues. The infant also needs active rewarming."
+        ]
+      }
+    },
+    {
+      "stem": "At birth, an infant weighed 3.3 kg and was 50 cm long. At the 12-month well visit the infant weighs 8.1 kg and is 74 cm long. Which conclusion by the nurse is most accurate?",
+      "options": [
+        "Weight and length both match expected first-year growth, so no follow-up is needed",
+        "Weight is below the expected tripling (about 9.9 kg) while length is near the expected 50% increase, so the nurse should review the growth trend and feeding history",
+        "Length is below the expected doubling by 12 months, so the nurse should refer the infant for short stature",
+        "Weight has more than doubled, which is the 12-month target, so growth is on track"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: birth weight 3.3 kg, now 8.1 kg; birth length 50 cm, now 74 cm. Analyze cues: by the lecture's rules, the weight should triple (3.3 × 3 ≈ 9.9 kg) and the length should rise about 50% (≈75 cm). Length is on track, weight is not. Generate solutions: one value does not make a diagnosis, because trends matter most. Take action: review the plotted trend and get a detailed feeding history.",
+        "incorrect": [
+          "The length is close to the expected 50% increase (about 75 cm), but the weight falls short of tripling, which would be about 9.9 kg.",
+          "Length increases by about 50% in the first year, not 100%. At 74 cm the length is on track, so this misapplies the rule.",
+          "Doubling is the 4–5 month target. By 12 months, the weight should have tripled."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a 5-month-old says, \"My niece is the same age and so much bigger. Is my baby growing enough?\" The infant's birth weight was 6 lb 10 oz, and today's weight is 13 lb 4 oz, consistently along the 25th percentile. Which response by the nurse is best?",
+      "options": [
+        "\"Your baby has doubled the birth weight, which is what we expect by 4 to 5 months, and is following a steady curve.\"",
+        "\"Your baby is at the 25th percentile, which is below average, so let's add formula after each feeding.\"",
+        "\"Your baby should have tripled the birth weight by now, so I'll ask the provider about a feeding evaluation.\"",
+        "\"Babies should gain the same amount each month, so let's recheck the weight in 2 weeks to be sure.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 6 lb 10 oz × 2 = 13 lb 4 oz, and the infant is tracking along one percentile line. Analyze cues: the lecture says weight doubles by 4–5 months, trends matter more than single points, and percentiles are not grades. Comparing with another child is not meaningful. Take action: reassure the parent with the data and reinforce what normal growth looks like. Evaluate outcomes: the parent can state that a steady curve is the goal.",
+        "incorrect": [
+          "This treats the percentile as a grade. The lecture says percentiles track an individual trajectory, and a steady 25th percentile with weight doubled is normal growth.",
+          "Tripling is the 12-month expectation. Applying it at 5 months creates a false alarm.",
+          "Growth is not constant month to month; it is fastest early on. With weight already doubled, an extra early weight check is not needed."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews the growth charts of four 9-month-old infants. Which infant's growth requires the most urgent follow-up?",
+      "options": [
+        "Weight has stayed on the 5th percentile since birth, and length is on the 10th percentile",
+        "Weight moved from the 75th to the 50th percentile between 6 and 9 months, while length stayed at the 50th",
+        "Weight has stayed on the 95th percentile, and length is on the 90th",
+        "Weight fell from the 50th to below the 5th percentile over the past 3 months, while length stayed at the 50th"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: weight crossed several major percentile lines in 3 months while length held steady. Analyze cues: the lecture's golden rules are that sudden changes in growth patterns are major red flags and that percentiles are not grades. A low but stable curve is less worrying than a falling one. Prioritize hypotheses: inadequate intake or an underlying illness causing faltering growth. Take action: a thorough feeding history and assessment, with prompt provider follow-up.",
+        "incorrect": [
+          "A consistently low percentile with proportional length is a steady personal trajectory. The lecture says the trend matters more than the percentile number.",
+          "A one-line shift deserves monitoring and a feeding review. It is smaller and less abrupt than a fall across several lines.",
+          "A high but proportional and stable curve fits a steady trajectory. It needs routine anticipatory guidance, not urgent follow-up."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses four infants in a pediatric clinic. Which finding requires immediate follow-up?",
+      "options": [
+        "A 3-month-old whose posterior fontanel can no longer be felt",
+        "A 14-month-old with a small, soft, flat anterior fontanel still palpable",
+        "An 8-month-old, calm and held upright, with a tense, bulging anterior fontanel and two episodes of vomiting",
+        "A 2-month-old whose anterior fontanel bulges slightly while crying vigorously, then flattens when calm"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a tense, bulging anterior fontanel while the infant is calm and upright, with vomiting. Analyze cues: the lecture flags a bulging fontanel in a calm, upright infant as concerning. With vomiting, it suggests increased intracranial pressure (for example, meningitis or hemorrhage). Prioritize hypotheses: raised intracranial pressure takes priority over the expected closure findings. Take action: urgent provider evaluation with neurologic assessment and vital signs.",
+        "incorrect": [
+          "The posterior fontanel closes by about 2 months, so this is expected.",
+          "The anterior fontanel closes between about 9 and 18 months. A soft, flat fontanel at 14 months is within range.",
+          "A fontanel can bulge briefly with crying and is reassuring when it flattens at rest. The lecture's concern is bulging while calm and upright."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-month-old has had diarrhea for 2 days. The parent reports 2 wet diapers in the past 24 hours. The infant is sleepy but arousable, the anterior fontanel is sunken, and the mucous membranes are dry. Which conclusion should guide the nurse's priority action?",
+      "options": [
+        "The sunken fontanel is a normal finding because the anterior fontanel is starting to close",
+        "The findings suggest dehydration, so the nurse should notify the provider and anticipate fluid replacement",
+        "The sleepiness most likely reflects normal sleep consolidation at 4–6 months",
+        "The findings suggest increased intracranial pressure, so the nurse should keep the infant upright and quiet"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: diarrhea, 2 wet diapers in 24 hours, sunken anterior fontanel, dry mucous membranes, and sleepiness. Analyze cues: the lecture links a sunken fontanel with dehydration, and infants lose fluid quickly. Prioritize hypotheses: dehydration with early changes in mental status. Take action: notify the provider and anticipate fluid replacement. Evaluate outcomes: more wet diapers, moist membranes, a flat fontanel, and better alertness.",
+        "incorrect": [
+          "The anterior fontanel closes at about 9–18 months, and closing does not make it sunken. This misreads the cue.",
+          "Sleep does consolidate around 4–6 months, but lethargy with low output and a sunken fontanel are dehydration cues. They are not a sleep pattern.",
+          "Increased intracranial pressure causes a bulging fontanel. A sunken fontanel points to fluid loss."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews developmental histories during well-infant visits. Which infant should the nurse refer for further developmental evaluation?",
+      "options": [
+        "A 5-month-old who sits with support but cannot yet sit independently",
+        "A 9-month-old who sits independently and transfers objects but is not yet crawling",
+        "A 7-month-old who rolled both ways at 5 months but no longer rolls and now moves the left arm much less than the right",
+        "A 9-month-old who rakes small objects but has not yet developed a pincer grasp"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a lost skill (rolling) and new asymmetric arm movement. Analyze cues: the lecture's developmental red flags include regression and marked asymmetry or abnormal tone and movement. The other infants are within the approximate milestone ranges. Prioritize hypotheses: a neurologic or neuromuscular process. Take action: document the findings and refer for prompt evaluation; do not simply monitor.",
+        "incorrect": [
+          "Independent sitting is expected around 6–8 months in the lecture, so this is not a delay.",
+          "Crawling is expected around 8–10 months, and the lecture case calls this within normal variation to be monitored.",
+          "Pincer grasp develops at about 9–12 months, so its absence at 9 months alone does not show a delay."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews anticipatory guidance with the caregiver of a 3-month-old. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"It's normal that she still wakes up during the night to eat.\"",
+        "\"I'll stay right next to her during tummy time.\"",
+        "\"I'll keep one hand on her and never step away while she's in the bath.\"",
+        "\"She can't roll yet, so it's okay to leave her on the changing table while I grab a diaper.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver plans to leave the infant on a high surface. Analyze cues: the lecture expects rolling to begin around 4 months, and infants can roll without warning, so \"can't roll yet\" gives a false sense of safety at 3 months. Fall prevention means never leaving an infant unattended on a bed, changing table, or couch. Take action: teach the caregiver to keep one hand on the infant, gather supplies first, or place the infant in the crib. Evaluate outcomes: the caregiver describes a plan that never leaves the infant alone on a raised surface.",
+        "incorrect": [
+          "This is correct. Night waking is normal in infancy, and sleep consolidates around 4–6 months.",
+          "This is correct. Tummy time should be supervised.",
+          "This is correct. The lecture says never to leave an infant unattended in the bath, even briefly."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 7-month-old who sits independently asks what to prepare for next. Which anticipatory guidance is the priority?",
+      "options": [
+        "\"Install gates at the stairs and lock away medications and cleaning products now, because crawling usually starts around 8 to 10 months.\"",
+        "\"Since she sits well now, you can switch her car seat to forward-facing.\"",
+        "\"Since she can sit up, it's safe to leave her on your bed propped with pillows for a few minutes.\"",
+        "\"Watch for her to start rolling over soon, so move her off the couch during diaper changes.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: a 7-month-old who sits independently will next crawl (8–10 months) and pull to stand (9–11 months), which gives access to stairs and stored poisons. Generate solutions: anticipatory guidance should prepare for the next milestone before it arrives. Take action: teach about stair gates and securing medications and chemicals (poison prevention). Evaluate outcomes: the caregiver describes the home safety changes before the infant becomes mobile.",
+        "incorrect": [
+          "Car seats stay rear-facing until at least age 2 according to the key points. Sitting ability does not change that.",
+          "Infants can tip over or roll off beds, and pillows add a suffocation risk. The lecture says never to leave an infant unattended on a raised surface.",
+          "Rolling begins around 4 months, so this guidance is out of date for a 7-month-old. It plans for the last milestone instead of the next one."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-month-old born at term sits independently, transfers toys hand to hand, is not crawling, and has no pincer grasp yet. The infant babbles, smiles at the caregiver, and cries when the nurse approaches. The weight has dropped from the 50th to the 25th percentile while the length stays on the 50th. The caregiver says the infant \"eats a few bites and gets distracted.\" Which finding should the nurse follow up on first?",
+      "options": [
+        "The absence of crawling",
+        "The absence of a pincer grasp",
+        "Crying when the nurse approaches",
+        "The weight-percentile drop with small, distracted feedings"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the weight fell from the 50th to the 25th percentile with low, distracted intake, while length is stable. Analyze cues: the motor and social findings fit the lecture's ranges (not crawling, no pincer grasp yet, stranger anxiety). The change in the growth trend is the cue that stands out. Prioritize hypotheses: inadequate intake. Take action: get a detailed history of a typical day's feeding, give guidance on feeding routines, and plan a weight recheck. Evaluate outcomes: the weight trend stabilizes or improves at follow-up.",
+        "incorrect": [
+          "Crawling is expected around 8–10 months, so its absence at 9 months is within normal variation to monitor.",
+          "The pincer grasp is expected around 9–12 months, so it may still be developing.",
+          "Stranger anxiety usually emerges around 6–9 months and is an expected sign of attachment, not a problem."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse needs to assess a 10-month-old with a fever. The infant clings to the parent and screams when the parent briefly steps away, then searches for the parent at the door. Which approach is best?",
+      "options": [
+        "Ask the parent to wait outside so the infant settles faster and the exam goes quickly",
+        "Do the ear and throat exam first while the infant is calm, then listen to the heart and lungs",
+        "Examine the infant on the parent's lap, listen to the heart and lungs first, and save the ear and throat exam for last",
+        "Show the infant the stethoscope and explain each step in simple sentences before starting"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: clinging, screaming when the parent steps away, and searching at the door. Analyze cues: stranger anxiety (6–9 months onward) and object permanence (8–12 months) are expected at this age, as the infant knows the parent exists when out of sight. Generate solutions: atraumatic, family-centered care keeps the parent close and orders the exam from least to most invasive. Take action: examine on the parent's lap and do the ears and throat last. Evaluate outcomes: a complete exam with clear heart and lung sounds and less distress.",
+        "incorrect": [
+          "Separation increases distress. At 10 months, object permanence means the infant knows the parent still exists and actively searches and cries.",
+          "Invasive steps first make the infant cry, and then the heart and lung sounds cannot be heard. The order should go from least to most invasive.",
+          "Explaining is useful for preschoolers. A 10-month-old learns through the senses and cannot follow verbal explanations, so this does not reduce stranger anxiety."
+        ]
+      }
+    },
+    {
+      "stem": "Which finding during infant well visits requires follow-up by the nurse?",
+      "options": [
+        "A 2-month-old who coos and smiles in response to the parent's voice",
+        "A 7-month-old who does not babble and does not turn toward loud sounds, and whose caregiver wonders whether the infant can hear",
+        "A 10-month-old who babbles and uses gestures such as waving but does not yet say words",
+        "An 8-month-old who cries and turns away when the grandparent visiting from overseas tries to hold them"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: no babbling at 7 months, no turning toward sound, and caregiver concern about hearing. Analyze cues: babbling is expected at 4–6 months, and the lecture's red flags include caregiver concern about hearing or interaction. A missed language milestone together with no response to sound points to hearing loss. Take action: document the findings and refer for hearing screening and developmental evaluation.",
+        "incorrect": [
+          "Cooing is expected around 6–8 weeks, and the social smile is an early sign of attachment.",
+          "Gestures develop between 6 and 12 months, and a few words may appear around 12 months, with individual variation.",
+          "Stranger anxiety around 6–9 months is a typical developmental response."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching the parent of a 4-month-old who is exclusively breastfed. Which parent statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll start adding rice cereal to her bottle at night so she sleeps longer.\"",
+        "\"I'll keep breastfeeding only until about 6 months, then add other foods.\"",
+        "\"Her first foods should include iron-fortified cereal or pureed meat.\"",
+        "\"I'll wait until she can sit with support and opens her mouth for the spoon.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a plan to put cereal in a 4-month-old's bottle to help with sleep. Analyze cues: solids are introduced around 6 months, when developmental readiness appears, and are given by spoon. Cereal in a bottle skips readiness, adds a choking and aspiration risk, and night waking is normal in infancy anyway. Take action: teach about readiness signs and normal infant sleep patterns. Evaluate outcomes: the parent plans spoon feeding around 6 months, after readiness signs appear.",
+        "incorrect": [
+          "This is correct. The slides recommend exclusive breastfeeding for about 6 months.",
+          "This is correct. The lecture names iron-rich first foods.",
+          "This is correct. These are the readiness signs listed in the lecture."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a 5½-month-old asks whether the infant is ready to start solid foods. Which observation best supports readiness?",
+      "options": [
+        "The infant has doubled the birth weight and is breastfeeding every 3 hours",
+        "The infant has begun waking more often at night and seems hungrier",
+        "The infant sits with support, watches the family eat, and opens their mouth when a spoon comes near",
+        "The infant has two lower teeth and chews on toys"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: supported sitting, interest in food, and opening the mouth for a spoon. Analyze cues: these are exactly the readiness signs in the lecture, and solids begin around 6 months when the infant is ready. Generate solutions: the other cues describe growth, sleep, or teething, not readiness to feed. Take action: support gradual introduction of iron-rich foods.",
+        "incorrect": [
+          "Doubling the birth weight shows growth is on track, but it is not one of the lecture's developmental readiness signs.",
+          "Night waking is normal in infancy and is not a readiness sign. Starting solids for this reason is a common misconception.",
+          "Teething and mouthing toys are common, but teeth are not needed for spoon feeding and are not a lecture readiness sign."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching the caregiver of a 9-month-old who has started self-feeding. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll stay at the table with her for every meal and snack.\"",
+        "\"Whole grapes are a good finger food because they're soft and easy for her to pick up.\"",
+        "\"I'll offer soft pieces of cooked vegetables cut small for her to pick up.\"",
+        "\"I'll keep the nuts and hard snacks for the older kids out of her reach.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver plans to give whole grapes. Analyze cues: the recap names grapes and nuts as choking hazards. A whole grape is the right size and shape to block an infant's airway, even though it is soft. Generate solutions: teach age-appropriate preparation, such as cutting grapes into small pieces. Evaluate outcomes: the caregiver can explain how to prepare round foods safely.",
+        "incorrect": [
+          "This is correct. Every feeding should be supervised, and the lecture says never to leave an infant unattended while eating.",
+          "This is correct. Soft foods cut to an age-appropriate size support self-feeding around 8–9 months.",
+          "This is correct. Nuts and small hard objects are choking hazards named in the recap."
+        ]
+      }
+    },
+    {
+      "stem": "During a home visit to a 2-month-old, the nurse observes the sleep environment. Which findings require intervention? Select all that apply.",
+      "options": [
+        "The infant sleeps in a bassinet beside the parents' bed",
+        "The infant is placed on the side, propped with a rolled blanket, \"so she won't choke if she spits up\"",
+        "A quilt and a stuffed animal are in the crib \"to keep her company\"",
+        "The parent says the infant sleeps in the adult bed on nights when she is fussy",
+        "The infant sleeps on a firm crib mattress with a fitted sheet",
+        "The infant is dressed in a fleece sleeper and hat with the heat turned up"
+      ],
+      "answer": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: compare each finding with the ABCs: Alone, on the Back, in a Crib. Analyze cues: side positioning, soft bedding, bed-sharing, and overheating each violate safe-sleep guidance. Room-sharing and a firm mattress meet it. Take action: correct the unsafe practices without judgment. Evaluate outcomes: the caregiver demonstrates the ABCs.",
+        "incorrect": [
+          "Incorrect—room-sharing without bed-sharing is recommended in the lecture.",
+          "Correct—the infant goes on the back for every sleep. Side positioning and a blanket roll both raise the risk of suffocation.",
+          "Correct—soft bedding and loose objects must be kept off the firm sleep surface. Alone means nothing else in the crib.",
+          "Correct—bed-sharing is not recommended, even occasionally.",
+          "Incorrect—a firm, flat surface with a fitted sheet meets the safe-sleep guidance.",
+          "Correct—overheating is to be avoided."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a 15-month-old says, \"His legs are bent against the back seat now, so I'm going to turn his car seat to face forward.\" Which response by the nurse is best?",
+      "options": [
+        "\"That makes sense once he's walking and over 20 pounds. Just keep the harness snug.\"",
+        "\"Bent legs are fine. Keep him rear-facing until at least age 2, as long as he is within the seat's height and weight limits.\"",
+        "\"You can turn it forward if you move the seat to the middle of the back row.\"",
+        "\"Bent legs can lead to leg injuries, so a forward-facing booster seat would be safer.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 15-month-old, and a parent who thinks bent legs mean the child has outgrown rear-facing. Analyze cues: the lecture's injury-prevention key point is rear-facing until at least age 2, following the manufacturer's height and weight limits. Bent legs are not a reason to switch. Take action: correct the misconception and reinforce the rear-facing guidance. Evaluate outcomes: the parent keeps the seat rear-facing.",
+        "incorrect": [
+          "This uses outdated criteria. The lecture key point is rear-facing until at least age 2, within the seat's height and weight limits.",
+          "The middle position is a good placement, but it does not make forward-facing safe for a 15-month-old.",
+          "A booster seat is meant for much older children. Bent legs are not a reason to turn the seat; rear-facing protects the head and neck better."
+        ]
+      }
+    }
+  ]
+}

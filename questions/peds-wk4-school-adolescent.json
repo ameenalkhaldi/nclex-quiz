@@ -1,0 +1,767 @@
+{
+  "topic": "peds-wk4-school-adolescent",
+  "label": "Peds: Week 4 — School-Age & Adolescent",
+  "questions": [
+    {
+      "stem": "A 9-year-old hospitalized with a leg wound has started crying and pulling away during daily dressing changes. The child says, \"You always just do it to me.\" Which nursing action best supports this child's developmental stage?",
+      "options": [
+        "Give the child a choice of distraction, such as a video or music, to watch during the dressing change",
+        "Have the child help with steps such as gathering supplies and peeling back the tape, then praise the effort",
+        "Ask the caregiver to hold the child's hand and stay at the head of the bed during the dressing change",
+        "Give the prescribed PRN analgesic and complete the dressing change quickly to keep it short"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 9-year-old who resists and says the procedure is always \"done to\" them. Analyze cues: school-age children are in Erikson's industry vs. inferiority stage, and confidence grows when they take part in their own care, complete tasks, and are praised for effort. Feeling passive and helpless feeds inferiority. Generate solutions: give the child real, age-appropriate jobs in the procedure. Take action: let the child gather supplies and remove tape, then recognize the effort. Evaluate outcomes: the child cooperates more and talks about the task they did.",
+        "incorrect": [
+          "Distraction is a reasonable atraumatic-care tool, but it keeps the child a passive recipient. The cue is about lack of control and competence, which distraction does not address.",
+          "Caregiver presence is supportive and more central for younger children. It does not give this school-age child the sense of mastery the stage requires.",
+          "Pain control is appropriate if pain is present, but speed alone does not address the child's complaint that the care is done to them. This misreads the cue as purely physical."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old needs a peripheral IV before surgery. Which explanation by the nurse is most appropriate for the child's cognitive stage?",
+      "options": [
+        "\"The IV lets us give you medicine quickly through your bloodstream so your body can heal after surgery.\"",
+        "\"Think about how your body will feel better after surgery once the medicine starts working through the IV.\"",
+        "\"Here is the soft little tube. You can touch it. It goes in your hand, gets taped down like this, and then you can still move your fingers.\"",
+        "\"The IV is a tiny tube that will be quick. Most kids your age say it is not so bad once it is in.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 7-year-old facing an unfamiliar procedure. Analyze cues: school-age children are in Piaget's concrete operational stage. They reason logically about real, observable things, but abstract explanations remain hard to grasp. Generate solutions: explain with real equipment, simple cause and effect, and what the child will see and feel. Take action: show and let the child handle the tubing and describe exactly what happens. Evaluate outcomes: the child can repeat back what will happen in their own words.",
+        "incorrect": [
+          "This is accurate but abstract (\"bloodstream,\" \"heal\"). It explains the purpose without letting the child see or touch anything, which is how a concrete thinker learns best.",
+          "Asking the child to imagine future feelings relies on hypothetical thinking, which belongs to formal operational adolescents.",
+          "Reassurance that compares the child with peers does not explain the procedure and may feel dismissive if it does hurt. It gives no concrete information to reduce fear."
+        ]
+      }
+    },
+    {
+      "stem": "A 15-year-old with type 1 diabetes has been skipping lunchtime insulin at school. The teen says, \"I don't want to be the kid with the needle in front of everyone.\" Which nursing approach best fits this client's developmental stage?",
+      "options": [
+        "Talk privately with the teen about long-term consequences and invite them to choose a discreet plan for lunchtime dosing",
+        "Ask the parent to call the school nurse daily to confirm that the lunchtime dose was given",
+        "Explain the rule clearly: the insulin must be given at lunch, and missed doses will be reported to the provider",
+        "Show the teen a chart of their recent glucose readings and praise the days when the readings were in range"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a teen skipping doses because of how peers will see them. Analyze cues: adolescents are in identity vs. role confusion, where body image and belonging matter, and in formal operational thinking, so they can weigh future consequences. Peer sensitivity is strong while long-term decision-making is still maturing. Generate solutions: respect privacy and autonomy and invite the teen to help set goals. Take action: discuss consequences directly and without shaming, and problem-solve a discreet routine the teen chooses. Evaluate outcomes: the teen identifies a plan they will use and the glucose log improves.",
+        "incorrect": [
+          "Parental monitoring may be needed later, but starting with surveillance undercuts the teen's growing independence and ignores the real cue, which is peer image.",
+          "A rule-based explanation fits a school-age child who values rules. For a teen, a rigid rule and threat of reporting tend to provoke resistance rather than engagement.",
+          "Concrete charts and praise for results fit a school-age child better. This also skips the peer-image reason behind the missed doses."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a 14-year-old tells the nurse, \"She closes her bedroom door all the time, would rather be with friends than us, and argues about curfew. Grades are still good and she's on the swim team. Is something wrong?\" Which response by the nurse is best?",
+      "options": [
+        "\"These changes can be early signs of depression in teens. I'd like to arrange a mental health referral.\"",
+        "\"It's a good idea to set firm rules now, such as keeping her door open, so she knows you are still in charge.\"",
+        "\"Wanting more privacy and time with friends is expected at her age. Let's talk about what changes would be worth watching for.\"",
+        "\"This is normal for teenagers, so there is no need to worry unless her grades start to slip.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: privacy, preference for peers, and curfew conflict, with stable grades and continued activities. Analyze cues: adolescents naturally seek more independence, privacy, and autonomy, and some family conflict is expected. Function is intact. Prioritize hypotheses: normal identity development is more likely than a mood disorder. Generate solutions: reassure and teach the difference between normal and concerning. Take action: name the behavior as expected and teach the warning signs to watch for, such as sudden isolation, school avoidance, and persistent decline.",
+        "incorrect": [
+          "Labeling expected behavior as a problem leads to over-referral. Nothing here suggests depression: she is functioning in school and sports.",
+          "Rigid control conflicts with the teen's developmental need for privacy and autonomy and is likely to increase conflict.",
+          "Reassuring is right, but this answer narrows concern to grades and leaves out sudden isolation, mood changes, self-harm, and loss of friends. The caregiver leaves without the full list of red flags."
+        ]
+      }
+    },
+    {
+      "stem": "A school nurse reviews notes on four students. Which finding requires further assessment first?",
+      "options": [
+        "A 12-year-old who quit soccer last month, now eats lunch alone, and has gone from B's to failing grades",
+        "A 13-year-old who argues that a new class rule is unfair because only some students were punished",
+        "A 10-year-old who gets upset after losing at board games and insists everyone follow the official rules",
+        "A 15-year-old who has started wearing a different style of clothes and joined a new music club"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a sudden change from baseline. The child stopped an activity, is socially isolated, and is failing academically. Analyze cues: the review lists persistent academic decline, lack of friendships, and significant change in functioning as concerning findings. The combination raises concern for bullying, anxiety, or depression. Prioritize hypotheses: this is the one student whose functioning is declining. Take action: assess privately for bullying, mood, sleep, and safety.",
+        "incorrect": [
+          "Strong concerns about fairness are listed as normal findings in this age group. This reflects moral and rule-focused development, not risk.",
+          "Competitive behavior and valuing rules are expected in school-age children in the concrete operational stage.",
+          "Trying new styles and peer groups is typical identity exploration in adolescence. Nothing suggests a decline in functioning."
+        ]
+      }
+    },
+    {
+      "stem": "An 11-year-old is seen for stomachaches that occur on school mornings and resolve on weekends. The physical exam is normal. The caregiver reports that the child's grades have dropped this term. Which action should the nurse take next?",
+      "options": [
+        "Teach the caregiver to give an antacid on school mornings and keep a symptom diary for two weeks",
+        "Reassure the caregiver that stress stomachaches are common at this age and usually pass on their own",
+        "Recommend that the caregiver keep the child home on days the pain occurs until the pattern improves",
+        "Speak with the child privately about school, friendships, sleep, worries, and whether anyone is bothering them"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: recurrent somatic complaints tied to school days, a normal exam, and falling grades. Analyze cues: recurrent headaches or stomachaches, school avoidance, and declining grades are warning signs of bullying, anxiety, or other stressors. Children often do not volunteer that they are being bullied. Prioritize hypotheses: a psychosocial cause, such as bullying, must be assessed. Take action: ask the child privately and directly using concrete, non-leading questions about school, friends, sleep, and safety.",
+        "incorrect": [
+          "This treats the symptom and delays the psychosocial assessment, skipping Analyze cues. The pattern points to a school-related stressor, not acid.",
+          "Reassurance without assessment dismisses a recognized red-flag cluster. Children may not disclose bullying unless asked directly.",
+          "Allowing the child to stay home reinforces school avoidance and leaves the cause unexplored."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 10-year-old asks which changes might mean the child is being bullied. Which findings should the nurse include? Select all that apply.",
+      "options": [
+        "Asking to stay home from school more often",
+        "Frequent headaches or stomachaches without a clear cause",
+        "Wanting to pick their own clothes and hobbies",
+        "Becoming reluctant or anxious about using their phone or tablet",
+        "Trouble falling asleep or new nightmares",
+        "Getting upset when a sibling breaks the rules of a game"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Bullying and cyberbullying warning signs include school refusal, recurrent headaches or stomachaches, sleep changes, anxiety, declining grades, loss of friends, withdrawal, and reluctance to use devices. Growing independence and a strong sense of fairness are expected in school-age children.",
+        "incorrect": [
+          "Correct—school refusal is a classic warning sign of bullying.",
+          "Correct—recurrent unexplained headaches or stomachaches are common somatic signs of bullying-related stress.",
+          "Incorrect—choosing clothes and hobbies reflects normal independence and interest-based development.",
+          "Correct—reluctance to use devices can signal cyberbullying, which can follow the child home.",
+          "Correct—sleep disturbance is a listed warning sign.",
+          "Incorrect—concern about rules and fairness is expected in the concrete operational, school-age child."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches the caregiver of a 12-year-old who is being cyberbullied. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"I'll save screenshots of the messages and talk with the school counselor about what is happening.\"",
+        "\"I'll tell my child they can come to me any time, even at night, if a message feels scary.\"",
+        "\"I'll watch for changes in sleep, mood, and whether my child starts avoiding school.\"",
+        "\"Since it only happens online, it should stop bothering my child once they get home from school.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: cyberbullying differs from in-person bullying because it can happen 24 hours a day, often comes from anonymous accounts, can reach a large audience, and may feel impossible to escape. Generate solutions: teach caregivers to stay available, watch for warning signs, and involve school supports. Evaluate outcomes: the caregiver's belief that home is a safe escape is wrong and shows the teaching did not take hold.",
+        "incorrect": [
+          "Documenting messages and involving school supports matches the guidance to involve caregivers and school per safety needs and policy.",
+          "Being available at any hour reflects an understanding that cyberbullying is not limited to school hours.",
+          "Watching sleep, mood, and school avoidance means the caregiver recognizes the warning signs."
+        ]
+      }
+    },
+    {
+      "stem": "A 16-year-old is at a well visit with a parent. The nurse is about to begin a HEADSSS assessment. What should the nurse do first?",
+      "options": [
+        "Ask the parent to step out right away so the teen can answer the questions alone",
+        "Explain to the teen and parent how confidentiality works and its limits, then offer the teen private time",
+        "Begin with the Home questions while the parent is present, since they are the least sensitive",
+        "Give the teen a written questionnaire to complete in the waiting room with the parent"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an adolescent with a parent present and sensitive questions about to be asked. Analyze cues: teens disclose more when they understand privacy and its exceptions and are given time alone, consistent with law and policy. Generate solutions: build rapport and set expectations before sensitive questions. Take action: explain confidentiality and its limits (imminent danger, abuse, mandated reporting) to both, then offer private time. This follows the prioritization framework: rapport and confidentiality come before screening.",
+        "incorrect": [
+          "Private time is right, but sending the parent out without explanation can create mistrust. Explaining confidentiality first sets up a transparent process for both.",
+          "Even home questions (\"Do you feel safe?\") can be sensitive. Starting with the parent present before confidentiality is explained limits honest disclosure.",
+          "A questionnaire completed next to the parent removes privacy and skips the explanation of confidentiality limits."
+        ]
+      }
+    },
+    {
+      "stem": "During private time, a 15-year-old says, \"Before I tell you anything, promise you won't tell my mom.\" Which response by the nurse is best?",
+      "options": [
+        "\"I promise. Anything you tell me stays between us, so you can be completely honest.\"",
+        "\"I can't keep secrets from your parents because you are under 18, so it's best to tell her yourself.\"",
+        "\"What we talk about is private. The exception is if I'm worried about your safety or someone hurting you. Then I'd need to involve others to get you help.\"",
+        "\"Let's not worry about that right now. Just tell me what's going on and we'll figure it out together.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the teen is asking for a guarantee of secrecy before disclosing. Analyze cues: confidentiality is not absolute. It has exceptions for imminent danger, abuse, and mandated reporting, and nurses must not promise secrecy. Generate solutions: be honest about both privacy and its limits so trust is preserved even if information must be shared. Take action: explain private care plus the safety exceptions. Evaluate outcomes: the teen understands the rules and decides what to share.",
+        "incorrect": [
+          "Promising complete secrecy is unsafe. If the teen discloses abuse or suicidal intent, the nurse would have to break the promise and lose the teen's trust.",
+          "This overstates the limits. Adolescents are entitled to confidential care within law and policy, and this statement would likely shut down disclosure.",
+          "Avoiding the question is not transparent. The teen cannot make an informed choice about what to share."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is asking a 15-year-old about the Sexuality domain of HEADSSS. Which question is most appropriate?",
+      "options": [
+        "\"Do you have a boyfriend or girlfriend right now?\"",
+        "\"Are you currently having sex with anyone?\"",
+        "\"Are you being safe and using condoms with your partner?\"",
+        "\"Some people your age are dating or in relationships. Tell me about any relationships you're in or interested in.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: adolescent assessment needs open-ended, neutral, inclusive language that does not assume relationships, identity, or behavior. Normalizing the topic (\"some people your age...\") lowers defensiveness. Generate solutions: ask in a way that lets the teen describe their situation in their own words. Take action: use a normalizing, open-ended question with no assumptions, then follow up on consent, contraception, and STI prevention.",
+        "incorrect": [
+          "This assumes a binary relationship and can be answered yes or no. A teen who does not fit those labels may stop disclosing.",
+          "This is neutral about the partner, but it is a blunt, closed-ended question asked without first normalizing the topic. Teens often answer \"no\" to end the question, so the nurse misses the cues (consent, relationship safety) needed to Analyze cues.",
+          "This assumes the teen is sexually active, assumes a single partner, and is closed-ended. Condom use is worth asking about only after the teen has described their situation."
+        ]
+      }
+    },
+    {
+      "stem": "During the Drugs portion of HEADSSS, a 16-year-old says, \"I vape sometimes and drink at parties, but everyone does.\" Which nursing action is most appropriate next?",
+      "options": [
+        "Tell the teen that vaping and underage drinking are illegal and must stop before the next visit",
+        "Use the CRAFFT screen and ask about frequency, context, consequences, and readiness to change",
+        "Document \"occasional substance use, peer-related\" and move on to the Sexuality questions",
+        "Ask the parent to rejoin the visit so they can help set limits on the teen's substance use"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: disclosure of vaping and party drinking, normalized by peers. Analyze cues: substance use is a common adolescent risk. CRAFFT is the lecture's tool for alcohol and substance-use screening. Generate solutions: quantify the risk without shaming, so the plan fits the teen. Take action: screen with CRAFFT and explore frequency, context (driving, riding with impaired drivers), consequences, and readiness to change. Evaluate outcomes: the screen guides brief counseling, refusal-skill planning, or referral.",
+        "incorrect": [
+          "A lecture shames the teen and shuts down communication before the risk has been measured. The review emphasizes teaching safer choices without shaming.",
+          "Documenting without exploring misses the risk level (for example, riding with impaired drivers). This is acting before Analyze cues.",
+          "Bringing the parent in breaks the confidentiality just offered when no imminent danger has been identified, which damages trust."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-year-old reports worrying \"about everything\" for months, trouble concentrating, and avoiding class presentations. The teen has stayed home on presentation days. The teen denies sadness or thoughts of self-harm. Which screening tool should the nurse use?",
+      "options": [
+        "GAD-7, then explore the worry, avoidance, and how much it interferes with school",
+        "PHQ-A, because school avoidance in teens most often reflects depression",
+        "ASQ, because any teen missing school must be screened for suicide first",
+        "CRAFFT, because teens with anxiety often self-medicate with substances"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: persistent, generalized worry, poor concentration, and avoidance that impairs school attendance. Low mood and self-harm are denied. Analyze cues: this pattern fits anxiety. The GAD-7 is the lecture's anxiety screen. Prioritize hypotheses: anxiety with functional impairment. Take action: screen with the GAD-7 and assess worry, avoidance, and impairment, while staying alert to other risks.",
+        "incorrect": [
+          "Depression can cause school avoidance, but this teen's cues are worry and avoidance, not low mood. Choosing PHQ-A misreads the main cue.",
+          "Suicide screening matters when there are cues for it. The teen denies self-harm and the presenting problem is anxiety. ASQ alone would not assess the anxiety.",
+          "Substance use can coexist, but there is no cue for it. CRAFFT would not measure the presenting anxiety."
+        ]
+      }
+    },
+    {
+      "stem": "A 16-year-old has stopped playing guitar, sleeps 12 hours on weekends, is irritable, and says, \"Nothing is fun anymore.\" Grades have dropped from A's to C's. Which action should the nurse take?",
+      "options": [
+        "Reassure the teen that mood swings and extra sleep are part of normal puberty",
+        "Screen with the GAD-7 and teach relaxation breathing for school stress",
+        "Screen with the PHQ-A and assess functional impact, then ask directly about thoughts of self-harm",
+        "Suggest the teen limit weekend sleep and join a new club to rebuild interest"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: loss of interest (anhedonia), sleep change, irritability, and academic decline, which is a change from baseline. Analyze cues: this goes beyond normal adolescent moodiness. It suggests depression with functional impact. Prioritize hypotheses: depression, with possible suicide risk. Take action: use the PHQ-A or modified PHQ-9, assess functional impact, and ask directly about self-harm, because depression and suicide risk are linked.",
+        "incorrect": [
+          "Normal puberty does not cause loss of pleasure and a sharp drop in function. This misreads the cues and delays assessment.",
+          "The leading cues are anhedonia and low mood, not worry. The GAD-7 is the wrong primary screen.",
+          "Behavioral suggestions come too early and skip assessment of mood and safety."
+        ]
+      }
+    },
+    {
+      "stem": "An ASQ screen on a 15-year-old in the ED for an ankle sprain is positive. The teen answered yes to \"In the past few weeks, have you wished you were dead?\" and no to current thoughts of killing themself. Which action should the nurse take?",
+      "options": [
+        "Document the result and give the teen a crisis hotline card at discharge",
+        "Place the teen on one-to-one observation and request an emergency psychiatric hold",
+        "Ask the parent whether they have noticed any changes in mood at home before deciding next steps",
+        "Notify the provider per protocol so a follow-up suicide risk assessment is done before discharge"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a positive ASQ with no current suicidal thoughts reported. Analyze cues: a positive screen requires follow-up assessment and safety procedures, not routine documentation. Prioritize hypotheses: suicide risk is present but its level is not yet known. Take action: follow protocol and involve the clinician or mental-health team for a brief suicide safety assessment before discharge. Evaluate outcomes: risk level is determined and a safety and follow-up plan is in place.",
+        "incorrect": [
+          "This treats a positive screen as routine. The review explicitly warns that it needs follow-up and safety assessment.",
+          "These are measures for imminent danger (a current plan or intent). The teen denies current thoughts, so the next step is assessment to set the risk level.",
+          "Caregiver input may be part of the plan, but the teen has just disclosed and it is not yet clear what to share. Protocol calls for the clinician's assessment first."
+        ]
+      }
+    },
+    {
+      "stem": "During private time, a 16-year-old tells the nurse, \"I'm going to take my dad's pills tonight. I already counted them.\" The parent is in the waiting room. Which action should the nurse take first?",
+      "options": [
+        "Stay with the teen and activate the facility's emergency suicide procedure",
+        "Ask the teen how many pills they have counted and what kind they are",
+        "Bring the parent back to the room so the family can talk about it together",
+        "Complete the ASQ so the provider has a standardized score"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a stated plan, a time frame (tonight), and access to means. Analyze cues: this is imminent danger. Prioritize hypotheses: immediate risk to life comes before all other assessment. Take action: per the review, for a current plan or intent, keep the teen safe, do not leave them alone, and activate emergency procedures. Evaluate outcomes: the teen is under continuous observation and the mental-health team responds.",
+        "incorrect": [
+          "Details about the means matter and will be gathered, but the stated plan and timing already establish imminent risk. Safety comes first.",
+          "Caregivers will be involved, but leaving to get the parent leaves the teen alone and delays the emergency response.",
+          "Screening is for finding risk that has not been stated. Risk has been disclosed, so screening now delays action."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse precepting a new graduate reviews how to respond when an adolescent discloses suicidal thoughts. Which statement by the new graduate indicates a need for further teaching?",
+      "options": [
+        "\"I'll ask directly whether they have a plan and whether they can get to the means.\"",
+        "\"I'll ask about people and reasons that help them stay safe, like friends or a coach.\"",
+        "\"I'll promise to keep it between us so they keep trusting me and talking.\"",
+        "\"I'll document what they said in their own words and notify the provider per protocol.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the review says not to dismiss, shame, or promise secrecy. Safety concerns may require sharing information to get help. Evaluate outcomes: a promise of secrecy shows the new graduate does not yet understand the limits of confidentiality and could delay life-saving care.",
+        "incorrect": [
+          "Asking directly about plan and access to means is part of the required follow-up questions.",
+          "Assessing protective factors and supports is part of responding to a positive screen.",
+          "Objective documentation and prompt clinician involvement follow the protocol."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse in an adolescent clinic has four messages to return. Which teen should the nurse call first?",
+      "options": [
+        "A 15-year-old asking whether a vaping habit started last month will hurt sports performance",
+        "A 17-year-old who texted, \"I can't do this anymore, I'm done,\" after a breakup this morning",
+        "A 16-year-old asking for a confidential appointment for STI testing this week",
+        "A 14-year-old who feels unhappy with their body and wants to start a diet"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hopeless language (\"I can't do this anymore, I'm done\") after an acute loss. Analyze cues: this may signal suicidal thinking. Prioritize hypotheses: the review's prioritization framework puts immediate danger, especially suicide risk, first. Take action: call this teen now, ask directly about suicidal thoughts and current safety, and follow the suicide safety protocol.",
+        "incorrect": [
+          "Vaping is a real health risk that needs counseling, but it is not an immediate threat to life.",
+          "Confidential STI testing matters and should be arranged this week, but it is not time-critical compared with a possible suicide risk.",
+          "Body dissatisfaction and dieting need assessment for restrictive eating, but nothing here signals immediate danger."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-year-old says, \"I started vaping because everyone in my friend group does. I'd look weird if I didn't.\" Which nursing response best addresses what is driving this behavior?",
+      "options": [
+        "Show the teen images of lung damage from vaping so they understand how dangerous it is",
+        "Ask the teen to agree to a quit date and sign a plan to stop vaping before the next visit",
+        "Let the teen know you will need to share this with their parents because it is a health risk",
+        "Assess how much and when the teen vapes, then help them practice a refusal line and an exit plan for when friends vape"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the teen vapes to fit group expectations. Analyze cues: this is normative conformity, changing behavior to fit what the group expects, which is powerful in adolescence. Generate solutions: assess use and context, discuss nicotine, and build refusal and exit strategies so the teen can keep belonging without vaping. Take action: practice specific refusal language and a plan. Evaluate outcomes: the teen can state one safer next step they will use.",
+        "incorrect": [
+          "Fear-based images do not address the social pressure behind the behavior and can feel shaming. Peer sensitivity often outweighs abstract future risk for teens.",
+          "A quit plan may come later, but it skips Analyze cues: use has not been assessed, and a plan that ignores the peer pressure behind the vaping is unlikely to work.",
+          "Vaping does not meet the confidentiality exception for imminent danger or abuse. Breaking confidentiality here damages trust and future disclosure."
+        ]
+      }
+    },
+    {
+      "stem": "A 15-year-old tells the nurse, \"A girl in my grade posted that she wants to die. A lot of people saw it, so I'm sure somebody already told a teacher.\" Which response by the nurse is best?",
+      "options": [
+        "\"When lots of people see something, everyone tends to think someone else will act. Let's tell a trusted adult or the school counselor about it today.\"",
+        "\"It's kind of you to worry. If a lot of people saw it, the school has most likely already been told.\"",
+        "\"Try messaging her to ask whether she is okay, and let me know if she says anything worrying.\"",
+        "\"Has she posted anything like that before? That can help us figure out how serious it is.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a peer's post about wanting to die, plus the teen's assumption that someone else has acted. Analyze cues: this is the bystander effect, or diffusion of responsibility, where people assume someone else will step in. Generate solutions: the review says to teach teens how to get help for a friend through a trusted adult. Take action: name the bias and make a concrete plan to report today. Evaluate outcomes: the teen agrees to tell an adult or does so with the nurse.",
+        "incorrect": [
+          "This reinforces the diffusion of responsibility instead of correcting it. A peer at risk could be missed.",
+          "Reaching out to the peer is caring, but it puts a teenager in charge of a possible suicide crisis without adult help.",
+          "History helps assess risk, but the teen cannot judge how serious it is. Gathering more information first delays reporting a stated wish to die to an adult who can act."
+        ]
+      }
+    },
+    {
+      "stem": "A 16-year-old at a clinic visit mentions, \"Saturday my friend is driving us to a party. He usually drinks there, but it's only a couple of miles home.\" Which response by the nurse is most appropriate?",
+      "options": [
+        "\"Plan now how you'll get home if he drinks, such as calling a parent with no questions asked or getting a ride with a sober friend, and don't get in his car.\"",
+        "\"Make sure you sit in the back seat with your seat belt on and keep him focused on the road.\"",
+        "\"Remind him not to drink much, and offer to hold his keys until he's had water and some food.\"",
+        "\"Short trips home on back roads at night are when most crashes happen, so think carefully before you decide.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a likely plan to ride with a driver who will have been drinking. Analyze cues: impaired driving is an immediate danger on the review's prioritization framework, and the teen is minimizing the risk (\"only a couple of miles\"). Generate solutions: make the teaching practical by helping the teen pick one safer next step. Take action: build a concrete safe-ride plan before the party and tell the teen not to get in the car. Evaluate outcomes: the teen names who they will call and how.",
+        "incorrect": [
+          "Seat belts are part of safety teaching on every trip, but they do not make riding with an impaired driver safe. This reduces harm instead of preventing it.",
+          "Moderating the friend's drinking still leaves the teen riding with someone who has been drinking. Water and food do not undo impairment.",
+          "This raises the risk but leaves the decision open-ended, with no concrete plan. Teens act on specific plans more than on abstract warnings."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse provides anticipatory guidance to a 16-year-old who just got a driver's license. Which statements should the nurse include? Select all that apply.",
+      "options": [
+        "\"Wear your seat belt on every trip, including short ones around town.\"",
+        "\"Put your phone where you can't reach it while the car is moving.\"",
+        "\"If you're running late, a quick text at a red light is safer than speeding.\"",
+        "\"Never ride with a driver who has been drinking or using drugs, even for a short trip.\"",
+        "\"Decide ahead of time who you'll call for a ride if you can't drive safely.\"",
+        "\"After one drink, waiting about an hour before you drive is usually enough.\""
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Teen driving guidance from the review: wear a seat belt on every trip, no impaired or distracted driving, never ride with an impaired driver, and plan a safe ride ahead of time. Texting at a light and driving after alcohol are both distracted or impaired driving.",
+        "incorrect": [
+          "Correct—seat belt use on every trip is core anticipatory guidance.",
+          "Correct—removing the phone prevents distracted driving.",
+          "Incorrect—texting at a light is still distracted driving and often carries over into motion.",
+          "Correct—riding with an impaired driver is a priority safety risk.",
+          "Correct—a planned safe ride is the practical safety step the review emphasizes.",
+          "Incorrect—no amount of alcohol is safe before driving. This teaches a false threshold."
+        ]
+      }
+    },
+    {
+      "stem": "A 15-year-old on the cross-country team is seen for a sports physical. Which finding requires immediate follow-up?",
+      "options": [
+        "The teen asks for advice on eating more protein to build endurance",
+        "The teen says they want to lose a few pounds before the season starts",
+        "The teen has lost 12 lb since the last visit 3 months ago, skips lunch, and says, \"I feel fat even when I run every day\"",
+        "The teen reports being self-conscious about acne and spending a long time getting ready"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: rapid weight loss, skipped meals, and a distorted body image despite heavy exercise. Analyze cues: the review lists restrictive eating, body dissatisfaction, and rapid weight change as findings to assess. Together they point to a possible eating disorder, which the review names among adolescent mental health concerns. Prioritize hypotheses: an eating disorder is the most dangerous explanation. Take action: assess eating, purging, and exercise patterns privately and refer for further evaluation.",
+        "incorrect": [
+          "Interest in sports nutrition is health-seeking behavior and fits guidance on balanced meals.",
+          "A wish to lose a little weight deserves gentle exploration, but on its own, with no restriction or weight change, it is less urgent than an established pattern.",
+          "Body-image awareness with puberty is expected. Self-consciousness about acne does not impair function."
+        ]
+      }
+    },
+    {
+      "stem": "A 16-year-old requests STI testing and asks, \"Will my parents find out?\" Which response is best?",
+      "options": [
+        "\"Because you're a minor, I'll need your parent's permission before we can test you.\"",
+        "\"Confidential STI testing is available to you as our state's law allows. Can we also talk about consent and how you protect yourself?\"",
+        "\"Your results are completely private, so nobody will ever know about anything we discuss today.\"",
+        "\"We can test you, but I'd encourage you to tell your parents first so they can support you.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a teen seeking sexual health care who is worried about privacy. Analyze cues: confidential sexual health services are offered as legally appropriate, and sexual health guidance covers consent, healthy relationships, contraception, and STI prevention. Generate solutions: reassure within legal limits and widen the conversation to safety. Take action: confirm confidential testing and assess consent and protection. Evaluate outcomes: the teen completes testing and leaves with a prevention plan.",
+        "incorrect": [
+          "Requiring parental consent may block care the teen is legally allowed to get on their own, and it discourages future help-seeking.",
+          "Promising that \"nobody will ever know about anything\" overstates confidentiality. It leaves out the exceptions for abuse or danger.",
+          "Encouraging family communication can help, but making it the first response to a privacy question may come across as a condition and stop disclosure."
+        ]
+      }
+    },
+    {
+      "stem": "During the Safety and Sexuality questions, a 14-year-old says an 18-year-old they met online \"checks my phone, gets mad if I hang out with friends, and keeps asking for pictures.\" Which action should the nurse take first?",
+      "options": [
+        "Teach the teen how to set their social media accounts to private and block unknown users",
+        "Ask more about the relationship, including whether any images have been shared and whether the teen feels safe",
+        "Explain that healthy relationships involve trust and respect, and give the teen a handout on dating violence",
+        "Suggest the teen end the relationship and tell a friend so they have support"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: controlling behavior, isolation from friends, and an adult asking a 14-year-old for pictures. Analyze cues: these suggest online exploitation and an unhealthy, possibly abusive relationship, which are adolescent safety priorities. Prioritize hypotheses: exploitation or abuse may trigger mandated reporting. Take action: gather specific facts about images and current safety first, then follow reporting policy and explain the limits of confidentiality. Teaching and planning come after immediate risk is clear.",
+        "incorrect": [
+          "Privacy settings are good online-safety guidance, but they do not address possible exploitation by a known adult. This is a correct intervention given too early.",
+          "Teaching about healthy relationships comes later. A handout skips the safety assessment and a possible mandated report.",
+          "Leaving the relationship may be the goal, but advising it before assessing safety can increase danger. A friend is not the same as a trusted adult or the protective system."
+        ]
+      }
+    },
+    {
+      "stem": "A 13-year-old with bruises on the upper arms tells the nurse, \"My stepdad grabs me when he's mad. Please don't tell anyone or it will get worse.\" Which response by the nurse is best?",
+      "options": [
+        "\"I understand you're scared. I won't say anything yet, and we can talk about it again at your next visit.\"",
+        "\"Thank you for telling me. Can you tell me more about what happens when he gets mad, so I understand?\"",
+        "\"Thank you for telling me. Because you're being hurt, I have to share this with people whose job is to keep you safe, and I'll stay with you through it.\"",
+        "\"Let's ask your mom to come in so we can all talk about how to keep you safe at home.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a disclosure of physical harm by a caregiver, plus bruising. Analyze cues: abuse is an exception to confidentiality, and nurses are mandated reporters. Secrecy cannot be promised. Take action: acknowledge the disclosure, say honestly that it must be shared to get help, and follow mandated reporting and policy. Evaluate outcomes: a report is made, and the teen is not sent home without a safety plan.",
+        "incorrect": [
+          "Delaying to keep the teen's trust leaves the child in danger and breaks mandated-reporting duty.",
+          "Gentle clarification is appropriate, but the nurse must not interview at length or seem to promise secrecy. The teen asked directly about telling and needs an honest answer now.",
+          "The caregiver's role in the household is not yet clear, and bringing her in may increase danger or lead the teen to take back the disclosure. Report through proper channels."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews safety teaching with the caregiver of an 8-year-old. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"He'll wear the same mouth guard and pads for football that the coach requires at practice.\"",
+        "\"We're practicing looking both ways and crossing only at corners on his walk to school.\"",
+        "\"I've told him to tell me or his teacher if kids are picking on him at school.\"",
+        "\"He can skip his helmet when he rides his bike on our quiet street, since he's an experienced rider.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: school-age safety teaching includes helmets, bicycle and pedestrian safety, sports protection, and adult support for bullying. Evaluate outcomes: the caregiver's belief that a helmet is optional on short or familiar rides shows the teaching was not understood. Skill and a quiet street do not prevent head injury in a fall.",
+        "incorrect": [
+          "Wearing protective equipment for sports is correct guidance.",
+          "Practicing pedestrian safety is correct guidance for a school-age child.",
+          "Making sure the child knows to tell an adult about bullying is correct."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches a 12-year-old about online safety. Which statement by the child indicates a need for further teaching?",
+      "options": [
+        "\"If someone I don't know online asks for pictures, I'll just block them and not tell anyone so I don't lose my phone.\"",
+        "\"I'll keep my accounts private and only accept people I know in real life.\"",
+        "\"If a group chat starts being mean to someone, I'll screenshot it and show a grown-up.\"",
+        "\"I won't share my school name or address in my profile.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: exploitation often depends on secrecy, and fear of losing a device keeps children from telling. Generate solutions: online-safety teaching covers privacy settings, cyberbullying, exploitation, and what to do when contact feels unsafe, which is to tell a trusted adult. Evaluate outcomes: blocking is reasonable, but keeping it secret shows the child has not learned to report unsafe contact.",
+        "incorrect": [
+          "Private accounts and known contacts reflect correct privacy-setting guidance.",
+          "Documenting and telling an adult about cyberbullying is the correct response, and it avoids the bystander effect.",
+          "Not sharing identifying information is correct online-safety practice."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-year-old has been on the phone until 2 a.m. most nights, is falling asleep in class, and has become irritable at home, according to the caregiver. Which nursing action should come first?",
+      "options": [
+        "Recommend that the family charge all phones outside bedrooms at night",
+        "Teach the teen a consistent bedtime routine with no screens for 1 hour before sleep",
+        "Suggest the caregiver set parental controls to turn off the phone's internet at 10 p.m.",
+        "Talk privately with the teen about what keeps them online at night, their mood, and any online conflict"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: late-night phone use, daytime sleepiness, and new irritability. Analyze cues: screens disrupt sleep, which affects mood, learning, and safety, but late-night use can also be a sign of cyberbullying, anxiety, or low mood. Prioritize hypotheses: rule out a psychosocial driver before treating this as a habit. Take action: assess privately first. Sleep-hygiene guidance then follows, aimed at the cause.",
+        "incorrect": [
+          "Phones out of bedrooms is sound sleep guidance, but recommending it before assessment skips Analyze cues and may cut the teen off without finding out why.",
+          "A bedtime routine is correct anticipatory guidance, but it is the second step. The irritability needs assessment first.",
+          "Imposed controls ignore the teen's autonomy and the possible cause behind the behavior. This is an intervention without assessment."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-year-old admitted for 2 weeks of IV antibiotics is tearful and says, \"I'm going to fall behind and everyone will think I'm dumb.\" Which nursing intervention best addresses this concern?",
+      "options": [
+        "Reassure the child that teachers understand illness and will let them catch up later",
+        "Arrange daily screen time and video calls with friends to reduce loneliness",
+        "Work with the child and family to get schoolwork or the hospital teacher, and set small daily learning goals",
+        "Encourage the child to rest and focus on getting better, since school can wait"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fear of falling behind and of looking incompetent in front of peers. Analyze cues: in industry vs. inferiority, self-esteem depends on academic achievement and peer standing, and failure or unfavorable comparison feeds inferiority. Generate solutions: keep the child productive with achievable, step-by-step tasks. Take action: arrange schoolwork, set small goals, and praise progress. Evaluate outcomes: the child completes the goals and expresses less worry.",
+        "incorrect": [
+          "Reassurance is kind but passive. It does not give the child a way to stay competent, which is the core developmental need.",
+          "Peer contact supports belonging and is a good addition, but it does not address the main fear of academic failure.",
+          "Rest matters, but putting off school confirms the child's fear and removes a key source of competence."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches the caregiver of an 8-year-old newly diagnosed with type 1 diabetes how to support the child's involvement in care. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll let him pick which finger to use and press the button on the meter himself.\"",
+        "\"I'll break learning his shots into small steps, starting with getting the supplies ready.\"",
+        "\"I'll tell him he did a great job only on the days his numbers are in range.\"",
+        "\"I'll let him explain to his teacher how his glucose checks work.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: support industry by involving the child in care, breaking tasks into achievable steps, and praising effort and progress, not only results. Evaluate outcomes: praise tied to glucose numbers, which the child cannot fully control, makes success depend on results and can build a sense of inferiority. This statement needs correction.",
+        "incorrect": [
+          "Offering choices and hands-on participation supports competence. This shows correct understanding.",
+          "Breaking a skill into achievable steps is the recommended approach for school-age learners.",
+          "Letting the child teach others builds mastery and confidence, which is consistent with industry."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a 16-year-old says, \"He's dyed his hair, quit band for a debate club, and now questions everything our church teaches. His grades and friendships are fine. What did we do wrong?\" Which response by the nurse is most appropriate?",
+      "options": [
+        "\"Exploring new interests and questioning beliefs is part of how teens figure out who they are. Staying curious and respectful with him tends to keep communication open.\"",
+        "\"Sudden changes in interests and appearance can signal that something is going on. Let's screen him for depression today.\"",
+        "\"It's common at this age, but setting firm expectations about church will help him keep the family's values.\"",
+        "\"Questioning beliefs shows he's thinking abstractly, so it's best to debate him so he learns to defend his views.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new interests, a new look, and questioning family beliefs, with grades and friendships intact. Analyze cues: this is Erikson's identity vs. role confusion (\"Who am I?\") together with formal operational thinking, which lets teens question authority and explore moral and philosophical questions. Function is preserved. Prioritize hypotheses: normal identity development. Take action: reassure and coach the parent to support exploration without judgment.",
+        "incorrect": [
+          "Not every change is a problem. With function intact and no mood cues, screening for depression misreads normal development.",
+          "Rigid control conflicts with identity exploration and tends to increase conflict. The review advises respecting growing independence within safety limits.",
+          "This correctly links the questioning to abstract thinking, but turning conversations into debates is not the nonjudgmental support the review recommends."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews statements made by four adolescents during HEADSSS interviews. Which statement requires immediate follow-up?",
+      "options": [
+        "\"I get so stressed before exams that I can't sleep the night before.\"",
+        "\"My parents and I fight about curfew pretty much every weekend.\"",
+        "\"I quit volleyball because I'd rather spend time on art now.\"",
+        "\"Honestly, everyone would be better off if I just wasn't around anymore.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hopelessness and a statement that others would be better off without them. Analyze cues: this suggests suicidal thinking. Prioritize hypotheses: suicide risk is the immediate danger and comes first. Take action: ask directly about suicidal thoughts, plan, intent, and access to means, and follow the suicide safety protocol.",
+        "incorrect": [
+          "Exam stress with sleep loss is worth exploring and may lead to GAD-7 screening, but it is not an immediate threat.",
+          "Conflict over independence is expected in families with adolescents.",
+          "Changing interests in a planned way is typical identity exploration and shows no withdrawal."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is conducting a HEADSSS assessment with a 15-year-old during private time. Which questions are appropriate? Select all that apply.",
+      "options": [
+        "\"Who lives with you, and do you feel safe at home?\"",
+        "\"You don't use any drugs or vape, do you?\"",
+        "\"Some teens your age vape or drink. Have you or your friends tried anything like that?\"",
+        "\"Has anyone ever pressured you into sexual activity you didn't want?\"",
+        "\"In the past few weeks, have you felt down, hopeless, or had thoughts of hurting yourself?\"",
+        "\"Your parents said you've been moody. Why are you acting out at home?\""
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "HEADSSS uses open-ended, neutral, normalizing questions that make no assumptions about Home, Education, Activities, Drugs, Sexuality, Suicide/depression, and Safety. Leading questions and blaming language discourage disclosure.",
+        "incorrect": [
+          "Correct—Home domain: living situation and feeling safe.",
+          "Incorrect—a leading question signals the expected answer and discourages honest disclosure.",
+          "Correct—normalizing the topic (\"some teens your age\") and asking neutrally fits the Drugs domain.",
+          "Correct—asking about consent belongs in the Sexuality and Safety domains.",
+          "Correct—asking directly about mood, hopelessness, and self-harm fits the Suicide/Depression domain.",
+          "Incorrect—repeating the parent's view and calling it \"acting out\" is judgmental and undermines the private time."
+        ]
+      }
+    },
+    {
+      "stem": "A 17-year-old's ASQ screen is positive, and the teen says they have thought about overdosing \"sometimes this month.\" Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Ask whether the teen has a plan, intends to act, and has access to medications",
+        "Ask about past self-harm and about people or reasons that help them stay safe",
+        "Assure the teen that what they share will stay between the two of you",
+        "Notify the provider or mental-health team per facility protocol",
+        "Schedule a follow-up visit in 2 weeks and discharge the teen with a hotline number"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "A positive screen requires follow-up questions about immediacy, intent, plan, access to means, past behavior, protective factors, and supports, plus prompt involvement of the appropriate clinician per protocol. Do not promise secrecy and do not treat the screen as routine.",
+        "incorrect": [
+          "Correct—plan, intent, and access to means determine how immediate the risk is.",
+          "Correct—past behavior and protective factors are part of the follow-up assessment.",
+          "Incorrect—promising secrecy is unsafe because suicide risk is an exception to confidentiality.",
+          "Correct—follow protocol and promptly involve the appropriate clinician.",
+          "Incorrect—discharging before a safety assessment treats a positive screen as routine documentation."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old's caregiver says the child came home from school crying twice this week. Which question should the nurse ask the child?",
+      "options": [
+        "\"Is someone at school being mean to you?\"",
+        "\"Tell me about what you do at recess and who you play with.\"",
+        "\"How do you feel about yourself when you are at school?\"",
+        "\"Did something bad happen at school that made you cry?\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: repeated distress linked to school in a 7-year-old. Analyze cues: school-age assessment uses concrete, non-leading questions. Young children may agree with a suggestion or struggle with abstract feelings questions. Generate solutions: ask about specific, observable parts of the day where peer problems show up. Take action: ask an open, concrete question about recess and playmates, then follow the child's answers. Evaluate outcomes: the child describes events in their own words.",
+        "incorrect": [
+          "This is leading. It suggests bullying and invites a yes or no answer that may not be accurate.",
+          "This is abstract. A concrete operational child may find it hard to put self-perception into words.",
+          "This is leading and assumes that something bad happened. It also invites a one-word answer."
+        ]
+      }
+    },
+    {
+      "stem": "A 15-year-old discloses during HEADSSS that they vape daily, are sexually active without contraception, and made superficial cuts on their forearm two days ago \"to feel something.\" Which concern should the nurse address first?",
+      "options": [
+        "Contraception and STI prevention, because pregnancy risk is time-sensitive",
+        "The self-harm, including current suicidal thoughts and wound assessment",
+        "Nicotine dependence, using the CRAFFT screen and a cessation plan",
+        "Body image and peer influence as the likely root of all three behaviors"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: three risk behaviors, including recent self-harm. Analyze cues: self-harm is linked to depression and suicide risk. Prioritize hypotheses: the review's framework identifies immediate danger first, and suicide or self-harm is at the top of the safety priorities. Take action: assess current suicidal thinking, intent, plan, and means, assess the wounds, and follow protocol. Then address sexual health and vaping.",
+        "incorrect": [
+          "Sexual health is important and should be addressed at this visit, but it ranks below possible suicide risk.",
+          "Vaping needs CRAFFT-guided counseling, but nicotine use is not an immediate threat to life.",
+          "Looking for a root cause is reasonable later, but it is a hypothesis that delays assessing the most dangerous cue."
+        ]
+      }
+    },
+    {
+      "stem": "A 12-year-old with scoliosis is not wearing the prescribed brace at school and says, \"Everyone can see it under my shirt and they stare.\" Which nursing response is most appropriate?",
+      "options": [
+        "Explain that the curve could get worse and need surgery if the brace is not worn as prescribed",
+        "Acknowledge the concern about appearance and work with the client to find clothing and a schedule they are willing to try",
+        "Ask the caregiver to check each morning that the brace is on before the client leaves for school",
+        "Arrange for the school nurse to talk with the class about scoliosis so peers understand"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: nonadherence driven by visible difference and peer reaction. Analyze cues: in early adolescence, body image, belonging, and peer opinion strongly shape self-esteem and health choices. Generate solutions: respect autonomy and invite the client to help set goals. Take action: validate the concern and problem-solve together (looser layers, the client's input on timing). Evaluate outcomes: brace wear time increases and the client reports feeling less exposed.",
+        "incorrect": [
+          "The consequences are accurate, but fear-based facts do not address the peer-image barrier that is driving nonadherence.",
+          "Caregiver checks may help, but they bypass the client's autonomy and the underlying concern. The client may take the brace off at school anyway.",
+          "Talking to the class without consent breaks privacy and may increase the attention the client is trying to avoid."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-year-old on a pediatric unit becomes angry when another child gets extra playroom time, saying, \"That's not fair, the rule is 30 minutes each!\" The caregiver is embarrassed. Which response by the nurse is best?",
+      "options": [
+        "Explain to the caregiver that this concern for rules and fairness is expected at this age, and explain the rule change to the child in concrete terms",
+        "Give the 9-year-old the same extra time so the rule feels fair",
+        "Tell the caregiver this level of anger over small things may need a behavioral evaluation",
+        "Redirect the child to a quiet activity and ignore the outburst so the behavior is not reinforced"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: strong reaction to a perceived rule violation in a 9-year-old. Analyze cues: school-age children value rules, fairness, structure, and predictability, and strong concerns about fairness are listed as a normal finding. Prioritize hypotheses: expected development, not a behavior problem. Take action: reassure the caregiver and give the child a concrete, logical reason (for example, the other child's treatment schedule) that respects their reasoning.",
+        "incorrect": [
+          "Changing the rule to match avoids the conversation and teaches the child that rules bend under protest. It does not give the explanation a concrete thinker needs.",
+          "Labeling expected behavior as a problem leads to over-referral. Nothing here shows impaired function.",
+          "Ignoring dismisses a legitimate developmental concern. Giving a concrete explanation works better than extinguishing the behavior."
+        ]
+      }
+    },
+    {
+      "stem": "After teaching about normal versus concerning adolescent behavior, the nurse asks the parent of a 13-year-old to summarize. Which statement indicates a need for further teaching?",
+      "options": [
+        "\"Wanting to spend more time alone in her room is normal for her age.\"",
+        "\"If she suddenly drops all her friends and refuses to go to school, that's a phase we should wait out.\"",
+        "\"Arguing with us about rules and wanting more say in decisions is expected.\"",
+        "\"If her grades keep falling for several weeks, I should call so she can be assessed.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: normal privacy is different from sudden isolation. Abrupt loss of friends with school refusal is a red flag for bullying, anxiety, depression, or another concern and needs assessment. Evaluate outcomes: the parent's plan to wait it out shows the distinction between normal and concerning was not understood.",
+        "incorrect": [
+          "An increased desire for privacy is a normal adolescent finding.",
+          "Conflict over independence and autonomy is an expected part of healthy adolescent development.",
+          "Persistent academic decline is a concerning finding that warrants evaluation. This statement is correct."
+        ]
+      }
+    }
+  ]
+}
