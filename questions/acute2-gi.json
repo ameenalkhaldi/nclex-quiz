@@ -1,0 +1,961 @@
+{
+  "topic": "acute2-gi",
+  "label": "Acute 2: Week 8 — Acute GI",
+  "questions": [
+    {
+      "stem": "The nurse on a surgical unit receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A client with suspected appendicitis who reports RLQ pain of 6/10 and nausea; T 37.9°C (100.2°F), HR 96/min",
+        "A client with diverticulitis whose abdomen has become rigid and distended; HR 124/min, RR 28/min and shallow, and the client is newly restless",
+        "A client with cholelithiasis who reports RUQ pain radiating to the right scapula 4 hours after dinner; HR 92/min, BP 134/80 mm Hg",
+        "A client with a small bowel obstruction whose NG tube has drained 250 mL of green fluid over 4 hours; HR 90/min, abdomen mildly distended"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a rigid, distended abdomen with tachycardia, shallow rapid respirations, and new restlessness. Analyze cues: these are the guide's acute-abdomen red flags, and together they signal peritonitis progressing toward sepsis, with altered mentation suggesting poor perfusion. Prioritize hypotheses: perforation with peritonitis/early septic shock is the most immediately life-threatening problem on the list. Take action: assess this client first, keep NPO, check perfusion and vital signs, and escalate for urgent surgical evaluation.",
+        "incorrect": [
+          "Periumbilical-to-RLQ pain, nausea, and a low-grade fever are the expected picture of uncomplicated appendicitis. The client needs monitoring, but the vital signs are stable and there are no peritoneal or sepsis cues yet.",
+          "RUQ pain referred to the scapula after a meal is classic biliary colic. It is uncomfortable, but the vital signs are stable and there are no signs of rupture or sepsis.",
+          "Steady NG drainage with mild distention means the decompression is working as intended. This is expected and less urgent than a client showing signs of sepsis."
+        ]
+      }
+    },
+    {
+      "stem": "A 24-year-old client is admitted with periumbilical pain that has shifted to the RLQ, anorexia, and a positive Rovsing's sign. A surgical consult is pending. Which prescription should the nurse question?",
+      "options": [
+        "Lactated Ringer's at 125 mL/hr IV",
+        "Ondansetron 4 mg IV every 6 hours PRN nausea",
+        "Clear liquid diet, advance as tolerated",
+        "Ceftriaxone and metronidazole IV now"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: classic migratory pain to the RLQ with Rovsing's sign, and a surgical evaluation that has not happened yet. Analyze cues: suspected appendicitis may need surgery soon, and the guide states the client stays NPO pending surgical evaluation. Generate solutions: IV fluids, antiemetics, and IV antibiotics all match the lecture's medical management. Take action: hold the diet order and clarify it with the provider; NPO status protects against aspiration if the client goes to the OR.",
+        "incorrect": [
+          "IV fluids are part of medical management because the client is NPO and may be dehydrated from anorexia and nausea. This order is appropriate.",
+          "Antiemetics are listed in the lecture's medical management for appendicitis. Treating nausea is appropriate and does not interfere with surgical evaluation.",
+          "IV antibiotics are part of the lecture's management, and some uncomplicated cases receive antibiotics before a surgical decision is made. This order is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "An 82-year-old client from a long-term care facility is brought in for new confusion and reduced appetite. The client reports \"my belly hurts all over\" but cannot localize it. T 37.0°C (98.6°F), HR 104/min, BP 112/70 mm Hg, WBC 9,200/mm³. Which conclusion by the nurse is most appropriate?",
+      "options": [
+        "The normal temperature and WBC make an acute abdominal process unlikely, so the confusion should be worked up as a urinary tract infection first",
+        "Generalized pain is not typical of appendicitis, so the nurse should wait until the pain localizes to the RLQ before notifying the surgical team",
+        "The confusion is most likely baseline dementia, so the nurse should obtain the facility's records before taking further action",
+        "Appendicitis and other acute abdominal causes remain possible despite the normal temperature and WBC, so the nurse should report the findings and anticipate abdominal imaging"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new confusion, poor appetite, vague generalized abdominal pain, and tachycardia, with a normal temperature and WBC. Analyze cues: the guide stresses that older adults with appendicitis may have vague or generalized pain, appetite loss, absent fever or leukocytosis, and altered mental status. Prioritize hypotheses: an acute abdominal process cannot be excluded on the basis of normal labs and temperature. Take action: report the cluster and anticipate a CBC, imaging (CT), and surgical evaluation rather than waiting for a classic picture.",
+        "incorrect": [
+          "This misreads the cues. In older adults, the absence of fever and leukocytosis does not rule out appendicitis, so anchoring on a UTI risks a missed perforation.",
+          "Waiting for pain to localize is unsafe in an older adult, whose presentation may never become classic. Delay increases the risk of gangrene and perforation.",
+          "\"New\" confusion is a change from baseline, and the guide lists altered mental status as a presenting sign of appendicitis in older adults. Attributing it to dementia skips Analyze cues."
+        ]
+      }
+    },
+    {
+      "stem": "A client with appendicitis who is awaiting surgery says, \"The sharp pain suddenly got better about an hour ago.\" Thirty minutes later, the client has diffuse abdominal pain that worsens when the bed is bumped, a rigid abdomen, T 39.1°C (102.4°F), and HR 122/min. What is the nurse's priority action?",
+      "options": [
+        "Notify the surgeon immediately of suspected perforation with peritonitis and prepare for urgent surgery",
+        "Administer the PRN IV morphine and reassess the abdomen in 30 minutes",
+        "Obtain a set of blood cultures and wait for the results before calling the surgeon",
+        "Reposition the client in high-Fowler's and apply a cold pack to the RLQ"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden relief of pain followed by diffuse pain worse with movement, rigidity, high fever, and tachycardia. Analyze cues: relief can mean the distended appendix ruptured; the new findings are the guide's classic peritonitis signs. Prioritize hypotheses: perforation with peritonitis that can progress to sepsis and septic shock. Take action: notify the surgeon now and prepare for urgent surgery while maintaining NPO, IV access, fluids, and antibiotics. Evaluate outcomes: track HR, BP, urine output, and mentation for progression to shock.",
+        "incorrect": [
+          "Analgesia is appropriate, but giving it and waiting 30 minutes delays escalation of a surgical emergency. This is the right action at the wrong priority.",
+          "Cultures support the sepsis work-up, but waiting for results before notifying the surgeon wastes time. Perforation needs immediate surgical escalation.",
+          "Positioning and comfort measures do not address the underlying perforation. They may make the client feel better while the peritonitis progresses."
+        ]
+      }
+    },
+    {
+      "stem": "A 27-year-old client with RLQ pain, nausea, and a low-grade fever is scheduled for a CT of the abdomen/pelvis with IV contrast. The CBC and urinalysis have been sent. Which result should the nurse confirm is available before the client goes to CT?",
+      "options": [
+        "Serum lipase",
+        "Serum pregnancy test",
+        "Liver function panel",
+        "Stool guaiac"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a client of childbearing age with RLQ pain who is about to receive CT with contrast. Analyze cues: the guide's appendicitis work-up includes a pregnancy test to rule out ectopic pregnancy, which can mimic appendicitis and is a life-threatening alternative diagnosis. Prioritize hypotheses: ectopic pregnancy must be excluded and pregnancy status known before imaging. Take action: confirm the pregnancy test result before the client leaves for CT.",
+        "incorrect": [
+          "Lipase evaluates pancreatitis, which presents with epigastric pain radiating to the back. It does not change the imaging plan for RLQ pain.",
+          "Liver function tests are not part of the lecture's appendicitis work-up and do not rule out the dangerous mimic in this client.",
+          "A stool guaiac screens for occult GI bleeding. It does not address ectopic pregnancy, which is the alternative diagnosis the work-up must exclude."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 4 hours post laparoscopic appendectomy for uncomplicated appendicitis and is expected to go home today. Which finding best indicates the client is progressing as expected toward discharge?",
+      "options": [
+        "The client is lying flat with eyes closed and states pain is 3/10, but has not yet attempted to get out of bed",
+        "The client tolerated a regular meal of a cheeseburger and fries without nausea",
+        "The client has walked in the hallway twice, is tolerating sips of oral fluids, and reports pain of 3/10 with oral analgesia",
+        "The client's abdomen is soft with three small dressings, and the client is asking for IV morphine every 2 hours"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: ambulation, tolerance of oral fluids, and pain controlled with oral analgesia. Analyze cues: the guide's post-op plan is high-Fowler's position, early ambulation, then oral fluids advanced to a bland/soft diet as tolerated, with laparoscopic cases often discharged the same day. Evaluate outcomes: early ambulation, fluid tolerance, and pain controlled by oral medication are the outcomes that show readiness for same-day discharge.",
+        "incorrect": [
+          "Controlled pain is good, but lying flat and not ambulating misses two post-op goals (high-Fowler's and early ambulation). This client is not yet showing readiness.",
+          "Diet advances from oral fluids to a bland/soft diet as tolerated. A high-fat regular meal skips the progression and does not show the expected step-by-step tolerance.",
+          "A soft abdomen is reassuring, but needing IV opioids every 2 hours means pain is not controlled on an oral regimen. That is a barrier to same-day discharge."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 1 day post open appendectomy for a perforated appendix. The client is splinting the abdomen, refusing the incentive spirometer because \"it hurts too much,\" and has diminished breath sounds at both bases. SpO2 is 92% on room air. Which action should the nurse take first?",
+      "options": [
+        "Document the refusal and encourage the client to try the incentive spirometer again at the next scheduled time",
+        "Apply oxygen at 4 L/min and notify the provider of possible pneumonia",
+        "Ask the provider to discontinue the incentive spirometer until the incision has healed",
+        "Administer the prescribed analgesic, then coach incentive spirometry with a pillow splinted over the incision"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: incisional pain limiting deep breathing, diminished bases, and SpO2 of 92% after an open procedure. Analyze cues: open abdominal surgery makes pain a barrier to lung expansion, causing atelectasis. Generate solutions: the guide's open-procedure care is adequate analgesia to permit deep breathing, incentive spirometry, pillow splinting, and early ambulation. Take action: treat the pain, then coach splinted spirometry. Evaluate outcomes: improved breath sounds and SpO2 after effective deep breathing.",
+        "incorrect": [
+          "Documenting and deferring accepts the hypoventilation and allows atelectasis to worsen. It does not remove the barrier (pain) that is causing the refusal.",
+          "SpO2 92% with diminished bases most likely reflects atelectasis from shallow breathing, not established pneumonia. Oxygen alone does not re-expand the alveoli; pain control and lung expansion address the cause first.",
+          "Stopping pulmonary hygiene after open surgery raises the risk of atelectasis and pneumonia. The goal is to make deep breathing possible, not to remove it."
+        ]
+      }
+    },
+    {
+      "stem": "A client with secondary peritonitis from a perforated diverticulum is receiving IV antibiotics while awaiting surgery. Over 2 hours, BP falls from 118/72 to 84/50 mm Hg, HR rises from 104 to 132/min, urine output is 15 mL/hr, and the client is newly confused. Which action should the nurse take first?",
+      "options": [
+        "Increase the IV fluid rate per protocol, notify the provider/rapid response team, and anticipate ICU-level care",
+        "Insert an indwelling urinary catheter to measure hourly urine output more accurately",
+        "Administer the PRN opioid because pain can cause tachycardia and confusion",
+        "Draw a repeat CBC and metabolic panel and report the results when they return"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: falling BP, rising HR, oliguria, and new confusion in a client with peritonitis. Analyze cues: the guide warns that peritonitis can progress to sepsis and septic shock, and these cues show failing perfusion. Prioritize hypotheses: septic shock. Take action: support circulation with IV fluids, escalate immediately, and anticipate ICU care, as the guide directs for an unstable client. Evaluate outcomes: rising BP, falling HR, urine output improving, and clearing mentation.",
+        "incorrect": [
+          "Accurate urine measurement is useful, but the client is already clearly oliguric. Measuring it more precisely does not treat the shock and delays escalation.",
+          "Pain can raise HR, but hypotension, oliguria, and confusion point to poor perfusion. An opioid could lower BP further and mask deterioration.",
+          "Labs help guide care, but waiting for results before escalating a hypotensive, confused client delays treatment of shock."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis and tense ascites develops a temperature of 38.4°C (101.1°F), diffuse abdominal tenderness, and new lethargy. There is no history of recent surgery or trauma. Which diagnostic test should the nurse anticipate as most specific for the likely problem?",
+      "options": [
+        "Abdominal X-ray to look for free air under the diaphragm",
+        "Serum amylase and lipase",
+        "Paracentesis with culture and sensitivity of the peritoneal fluid",
+        "Colonoscopy to identify a perforated diverticulum"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever, diffuse tenderness, and lethargy in a client with liver failure and ascites, without surgery or trauma. Analyze cues: the guide defines primary (spontaneous bacterial) peritonitis as usually associated with liver failure and ascites. Prioritize hypotheses: SBP rather than secondary peritonitis from a perforated organ. Generate solutions: the guide lists culture and sensitivity of peritoneal fluid as a key diagnostic, obtained by sampling the ascites. Take action: prepare for paracentesis and anticipate broad-spectrum IV antibiotics.",
+        "incorrect": [
+          "Free air suggests a perforated organ, which is secondary peritonitis. Nothing in this history points to perforation, and the X-ray does not identify the organism.",
+          "Amylase and lipase evaluate pancreatitis. They do not confirm infection of the ascitic fluid.",
+          "Colonoscopy localizes lower GI bleeding and is not used to diagnose peritonitis. It is also risky when perforation or peritonitis is suspected."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 36 hours post exploratory laparotomy for secondary peritonitis and is receiving broad-spectrum IV antibiotics. Which set of findings best indicates that treatment is effective?",
+      "options": [
+        "T 38.6°C (101.5°F), HR 112/min, urine output 25 mL/hr, abdomen soft",
+        "T 37.6°C (99.7°F), HR 88/min, BP 122/74 mm Hg, urine output 50 mL/hr, abdominal tenderness decreasing",
+        "BP 128/80 mm Hg, pain 2/10 after IV morphine, abdomen rigid and distended",
+        "HR 96/min, WBC rising from 14,000 to 17,000/mm³, client sleeping comfortably"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the guide defines response to peritonitis treatment as improving vital signs and perfusion, decreasing pain and tenderness, adequate urine output, improving abdominal findings, and no progression to sepsis or organ dysfunction. Recognize cues: a falling temperature, normal HR and BP, urine output of 50 mL/hr, and less tenderness. Analyze cues: every marker is moving in the right direction at once, which is the strongest evidence the infection is being controlled.",
+        "incorrect": [
+          "A soft abdomen is good, but persistent fever, tachycardia, and low urine output suggest ongoing infection with poor perfusion. Treatment is not yet effective.",
+          "Pain relief after an opioid does not show disease improvement, and a rigid, distended abdomen means peritoneal inflammation persists. The analgesic may be masking the findings.",
+          "A rising WBC points to worsening infection. Comfortable sleep does not outweigh an objective trend in the wrong direction."
+        ]
+      }
+    },
+    {
+      "stem": "On admission, a client with peritonitis had hyperactive bowel sounds. On the second day, bowel sounds are absent in all four quadrants, the abdomen is more distended, and the client has vomited twice. How should the nurse interpret these findings?",
+      "options": [
+        "The return to quiet bowel sounds shows the inflammation is resolving and the client can begin clear liquids",
+        "The client has developed a mechanical obstruction from adhesions, which requires an urgent colonoscopy",
+        "The opioid analgesic has slowed motility, and the findings will resolve once a laxative is given",
+        "The early hypermotility has progressed to a paralytic ileus, so the nurse should maintain NPO and anticipate NG decompression"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hyperactive sounds early, now absent sounds with increasing distention and vomiting. Analyze cues: the guide explains that the GI tract may first respond to peritonitis with hypermotility, followed by paralytic ileus, which is a functional obstruction. Prioritize hypotheses: paralytic ileus causing accumulation and distention. Generate solutions and take action: keep NPO/bowel rest, anticipate NG decompression and IV fluids/electrolytes, and report the change. Evaluate outcomes: decreasing distention and return of bowel sounds and flatus.",
+        "incorrect": [
+          "Absent bowel sounds with more distention and vomiting are a worsening sign, not resolution. Starting oral intake would raise the risk of vomiting and aspiration.",
+          "Adhesions cause mechanical obstruction, but in active peritonitis the expected course is hypermotility then paralytic ileus. Colonoscopy is not the treatment and is risky with peritonitis.",
+          "Opioids can slow motility, but this pattern is the expected progression of peritonitis. A laxative is unsafe in a client with absent bowel sounds and vomiting."
+        ]
+      }
+    },
+    {
+      "stem": "A client presents to the ED with sudden abdominal pain that began 6 hours ago without trauma. Which findings should the nurse recognize as red flags that require urgent escalation? Select all that apply.",
+      "options": [
+        "Abdomen rigid to palpation with rebound tenderness",
+        "HR 118/min and BP 92/58 mm Hg",
+        "Pain rated 5/10 that is unchanged since arrival",
+        "Shallow respirations at 26/min",
+        "New difficulty following conversation and answering questions",
+        "One episode of nausea without vomiting"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The guide's acute-abdomen red flags include a rigid/distended abdomen, rebound tenderness, severe or worsening pain, fever, tachycardia, hypotension, altered mental status, shallow respirations, and signs of sepsis. These suggest peritonitis, sepsis, or shock and need urgent escalation; stable moderate pain and a single episode of nausea do not on their own.",
+        "incorrect": [
+          "Correct—rigidity and rebound tenderness are peritoneal signs that suggest peritonitis and a possible surgical emergency.",
+          "Correct—tachycardia with hypotension signals hemodynamic instability from sepsis, bleeding, or fluid loss.",
+          "Incorrect—the red flag is severe or worsening pain. Moderate pain that is stable still needs reassessment but is not, by itself, a cue for urgent escalation.",
+          "Correct—shallow respirations are a listed red flag; pain splinting and sepsis can impair ventilation.",
+          "Correct—altered mental status suggests poor cerebral perfusion or sepsis and is a listed red flag.",
+          "Incorrect—a single episode of nausea is common with many abdominal conditions and is not on its own a sign of instability."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is completing discharge teaching for a client going home the same day after a laparoscopic appendectomy. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll start with fluids and then move to soft, bland foods as I can tolerate them.\"",
+        "\"I'll walk around the house several times a day even though it's a little sore.\"",
+        "\"I'll call the surgeon if I get a fever or my belly pain gets worse instead of better.\"",
+        "\"If I feel bloated and my belly gets hard, I'll lie down and wait a couple of days for it to pass.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to wait out a hard, bloated abdomen. Analyze cues: increasing distention and rigidity after appendectomy can mean peritonitis, abscess, or paralytic ileus, all of which the guide lists as complications. Generate solutions: discharge teaching must include red flags that need prompt reporting. Take action: reteach that worsening pain, a rigid or distended abdomen, fever, or vomiting must be reported promptly. Evaluate outcomes: the client correctly names warning signs and when to call.",
+        "incorrect": [
+          "This is correct. The guide's post-op progression is oral fluids, then a bland/soft diet as tolerated.",
+          "This is correct. Early, frequent ambulation is part of post-op care and helps return bowel function and prevent complications.",
+          "This is correct. Fever and worsening pain are warning signs of infection or peritonitis that should be reported."
+        ]
+      }
+    },
+    {
+      "stem": "A 71-year-old client with long-standing diabetes and Parkinson's disease has 2 days of abdominal distention, nausea, and no flatus. CT shows diffusely dilated loops of bowel with no mass, hernia, or transition point. Which conclusion and plan by the nurse are most accurate?",
+      "options": [
+        "A functional obstruction in which contents are not being propelled forward; anticipate NPO, NG decompression, IV fluids/electrolytes, and treatment of contributing factors",
+        "A mechanical obstruction from adhesions; prepare the client for emergency surgery to release the blockage",
+        "A large bowel obstruction from a tumor; prepare the client for a colonoscopy and possible colostomy",
+        "Severe constipation from Parkinson's medications; give a large-volume enema and encourage oral fluids"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: distention, nausea, and no flatus, with dilated bowel but no physical blockage on CT, in a client with diabetes and Parkinson's disease. Analyze cues: the guide defines functional obstruction as contents that cannot be propelled forward despite no physical blockage, and it names Parkinson's disease, diabetes, and ileus as examples. Generate solutions: bowel rest, NG decompression, IV fluids/electrolytes, and strict I&O. Evaluate outcomes: decreasing distention and return of flatus and bowel sounds.",
+        "incorrect": [
+          "Adhesions are a mechanical cause, but the CT shows no physical blockage or transition point. Preparing for surgery misreads the imaging cue.",
+          "LBO is usually caused by tumors, diverticular disease, or volvulus, and the CT would show a mass or a point of blockage. Nothing here points to a tumor.",
+          "Constipation is common in Parkinson's disease, but a large-volume enema and oral fluids are unsafe with dilated bowel, nausea, and no flatus. The client needs bowel rest and decompression."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a small bowel obstruction has vomited repeatedly for 2 days. Results: pH 7.51, PaCO2 46 mm Hg, HCO3- 33 mEq/L, K+ 3.0 mEq/L. Which interpretation and nursing action are correct?",
+      "options": [
+        "Respiratory alkalosis from pain-related hyperventilation; coach slow breathing and give analgesia",
+        "Metabolic alkalosis with hypokalemia from loss of gastric contents; anticipate IV fluids with potassium replacement and monitor cardiac rhythm",
+        "Metabolic acidosis from bowel ischemia; anticipate IV sodium bicarbonate and emergency surgery",
+        "Compensated respiratory acidosis from abdominal distention; elevate the head of the bed and encourage incentive spirometry"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pH 7.51 (alkalemia) with HCO3- 33 (high) and PaCO2 46 (mildly high, compensating), plus K+ 3.0 after repeated vomiting. Analyze cues: the guide states that repeated vomiting with SBO may cause hypokalemia and metabolic alkalosis through loss of hydrogen and potassium ions. Prioritize hypotheses: metabolic alkalosis with hypokalemia, which raises the risk of dysrhythmias. Take action: replace fluids and electrolytes as ordered, monitor the rhythm, and maintain NG/strict I&O. Evaluate outcomes: K+ and HCO3- returning toward normal.",
+        "incorrect": [
+          "Respiratory alkalosis would show a low PaCO2. Here the PaCO2 is elevated and the HCO3- is high, so the primary problem is metabolic.",
+          "Ischemia raises lactate and causes metabolic acidosis, but the pH is 7.51, which is alkalemia. Giving bicarbonate would worsen the alkalosis.",
+          "Respiratory acidosis needs a pH below 7.35. A mildly elevated PaCO2 here is respiratory compensation for metabolic alkalosis, not the primary problem."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a small bowel obstruction is on NPO status with an NG tube to suction. On day 2 the client's pain changes from intermittent cramping to constant, severe pain. HR 118/min, T 38.3°C (100.9°F), and serum lactate has risen from 1.4 to 4.6 mmol/L. What should the nurse do first?",
+      "options": [
+        "Increase the NG suction setting to improve decompression and reassess in 1 hour",
+        "Administer the PRN IV opioid and recheck the lactate with the next morning labs",
+        "Notify the surgeon urgently of suspected bowel ischemia and prepare the client for possible surgery",
+        "Irrigate the NG tube with 30 mL of normal saline to confirm it is patent"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: crampy pain becoming constant and severe, new fever and tachycardia, and lactate more than tripling. Analyze cues: the guide says lactate is monitored in obstruction because elevation may indicate tissue hypoperfusion/ischemia, and progressive distention can impair perfusion and lead to necrosis or perforation. Prioritize hypotheses: strangulated, ischemic bowel. Take action: notify the surgeon now; the guide states surgery is indicated if there are signs of necrosis. Evaluate outcomes: perfusion and lactate after definitive treatment.",
+        "incorrect": [
+          "Changing suction does not address compromised blood flow to the bowel. Waiting an hour delays treatment of ischemia.",
+          "Pain control is appropriate, but delaying the lactate recheck until morning ignores a strong ischemia cue. An opioid may also mask worsening peritoneal signs.",
+          "Checking patency is reasonable when output drops, but nothing suggests a blocked tube here. The cue cluster points to ischemia, which needs surgical escalation first."
+        ]
+      }
+    },
+    {
+      "stem": "A client with sudden crampy abdominal pain, vomiting, and distention is being evaluated for a small bowel obstruction. The client says, \"It can't be a blockage. I passed gas and had a small stool an hour ago.\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"You're right that passing gas makes a blockage unlikely, so we can try some clear liquids.\"",
+        "\"Passing stool means the blockage must be in your large intestine, not the small intestine.\"",
+        "\"That means the blockage is only partial, so you won't need the NG tube that was ordered.\"",
+        "\"Early in a blockage, the bowel below it can still empty, so we still need to keep you NPO and finish the tests.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden crampy pain, vomiting, and distention, with recent flatus and stool. Analyze cues: the guide states that in SBO the client may still pass flatus/stool early because the bowel distal to the blockage keeps moving. Prioritize hypotheses: SBO remains likely despite the flatus. Take action: maintain NPO, continue the work-up (X-ray/CT, CBC, metabolic panel), and keep the decompression plan. Evaluate outcomes: the client understands why NPO and testing continue.",
+        "incorrect": [
+          "This misreads the cue. Distal bowel can empty early in SBO, so flatus does not rule out obstruction, and oral intake could worsen the vomiting.",
+          "Recent stool does not localize the blockage to the colon. Sudden onset with early vomiting fits SBO better than LBO.",
+          "Passing gas early does not prove the obstruction is partial. Vomiting and distention are indications for NG decompression."
+        ]
+      }
+    },
+    {
+      "stem": "A client with an SBO has an NG tube to low intermittent suction that drained about 150 mL/hr. For the last 3 hours there has been no drainage, and the client is now nauseated with a more distended abdomen. Which action should the nurse take first?",
+      "options": [
+        "Check the NG tube for kinks, confirm the suction is working, and verify placement and patency per protocol",
+        "Administer the PRN IV antiemetic for the new nausea",
+        "Notify the surgeon that the obstruction is worsening despite decompression",
+        "Lower the head of the bed to flat so the client is more comfortable"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: NG output dropped suddenly from steady to zero, and nausea and distention increased at the same time. Analyze cues: when decompression stops and symptoms worsen together, the most likely cause is a nonfunctioning tube (kinked, clogged, displaced, or suction off), not a sudden change in the disease. Generate solutions: the guide's SBO nursing includes maintaining the NG tube. Take action: assess the equipment and tube first. Evaluate outcomes: drainage resumes and nausea and distention decrease; if not, escalate.",
+        "incorrect": [
+          "An antiemetic treats the symptom while gastric contents keep building up. It does not restore decompression, and it leaves aspiration risk unaddressed.",
+          "Escalation may be needed, but the simplest and most likely explanation, a nonfunctioning tube, should be checked first. Notifying before checking skips Analyze cues.",
+          "Lying flat with a distended stomach and nausea raises aspiration risk. The head of the bed should stay elevated."
+        ]
+      }
+    },
+    {
+      "stem": "A client with an adhesive small bowel obstruction has been managed with NPO, NG decompression, and IV fluids for 48 hours. Which assessment best indicates that conservative management is working?",
+      "options": [
+        "NG output has increased from 800 to 1,600 mL/day, and the abdomen remains firm",
+        "Abdominal girth has decreased, the client is passing flatus, NG output is declining, and urine output is 45 mL/hr",
+        "Bowel sounds are high-pitched and frequent above the obstruction, and the client has cramping every 10 minutes",
+        "Pain is 2/10 after IV morphine, and the client is asking to have the NG tube removed"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the guide's effectiveness indicators for bowel status are improving distention and pain, return of bowel function, and no ischemia or perforation; for fluids they are improving hydration and adequate urine output. Recognize cues: smaller girth, passing flatus, falling NG output, and urine output of 45 mL/hr. Analyze cues: together these show the bowel is moving contents forward again and the client is perfused, so the obstruction is resolving without surgery.",
+        "incorrect": [
+          "Rising NG output with a persistently firm abdomen means fluid is still building up above the blockage. This shows the obstruction is not resolving.",
+          "High-pitched, hyperactive sounds and rhythmic cramping are the early findings of active obstruction near the blockage, not signs of resolution.",
+          "Pain relief after an opioid and a wish to remove the tube are not objective signs of bowel function. They could mask ongoing obstruction."
+        ]
+      }
+    },
+    {
+      "stem": "A 70-year-old client reports 3 weeks of worsening constipation and stools that have become \"thin like a pencil.\" Over the last 2 days they have developed gradual abdominal distention and crampy lower abdominal pain, with no vomiting. Which conclusion should guide the nurse's planning?",
+      "options": [
+        "A small bowel obstruction from adhesions; anticipate rapid dehydration and early surgery",
+        "A functional ileus from immobility; encourage ambulation and give a stimulant laxative",
+        "A large bowel obstruction, most likely from a tumor; anticipate imaging, colonoscopy, NG and/or rectal tube, and possible surgery",
+        "Irritable bowel syndrome with constipation; begin a high-fiber diet and increase oral fluids"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: slow onset, constipation as the first symptom, a change in stool caliber, and distention and cramping appearing later, without early vomiting. Analyze cues: the guide's LBO picture is slow onset, constipation as the initial symptom, change in stool size/shape, and later distention and crampy pain; tumors are a common cause. Prioritize hypotheses: LBO from a colorectal tumor. Generate solutions: X-ray/CT, colonoscopy, IV fluids, NG and/or rectal tube, NPO, and possible surgery with colostomy.",
+        "incorrect": [
+          "SBO is usually sudden, with early vomiting and faster dehydration. A gradual onset with changing stool caliber points to the colon.",
+          "Functional obstruction has no physical blockage, and a change in stool shape suggests a mass. A stimulant laxative is unsafe if there is a mechanical obstruction.",
+          "A change in stool caliber in an older adult with new distention is a warning sign of an obstructing lesion. Treating it as IBS with fiber delays diagnosis and could worsen the obstruction."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a large bowel obstruction from a sigmoid volvulus is waiting for colonoscopic decompression. Which finding requires the nurse's immediate action?",
+      "options": [
+        "Abdominal girth increased by 1 cm since the previous shift",
+        "No bowel movement for the past 4 days",
+        "A rectal tube draining small amounts of gas and liquid stool",
+        "Sudden severe generalized pain with a rigid abdomen and HR 126/min"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden severe generalized pain, rigidity, and tachycardia. Analyze cues: the guide warns that in LBO, compression can cause ischemia/necrosis, and perforation remains a risk; rigidity is a peritoneal sign. Prioritize hypotheses: perforation with peritonitis. Take action: notify the provider immediately, maintain NPO, and prepare for emergency surgery. Evaluate outcomes: monitor HR, BP, urine output, and mentation for progression to septic shock.",
+        "incorrect": [
+          "A small increase in girth is consistent with known obstruction and should be trended, but it is not an emergency compared with peritoneal signs.",
+          "Constipation is expected in LBO, which is why decompression is planned. It does not indicate a new complication.",
+          "Drainage of gas and liquid stool through a rectal tube shows the tube is working. This is a reassuring finding."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is totaling 8-hour I&O for a client with an SBO who is NPO. Intake: lactated Ringer's at 125 mL/hr and one 100-mL IV antibiotic piggyback. Output: NG drainage 850 mL, urine 200 mL, and one emesis of 150 mL around the NG tube. What is the client's net fluid balance for the shift?",
+      "options": [
+        "+50 mL",
+        "−100 mL",
+        "−200 mL",
+        "+750 mL"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: intake = 125 mL/hr × 8 hr = 1,000 mL + 100 mL piggyback = 1,100 mL. Output = 850 mL NG + 200 mL urine + 150 mL emesis = 1,200 mL. Analyze cues: 1,100 − 1,200 = −100 mL. Prioritize hypotheses: the client is in negative balance, and the urine output of 25 mL/hr suggests worsening dehydration from fluid shifting into the bowel and gastric losses. Take action: report the negative balance and low urine output and anticipate increased fluid/electrolyte replacement. Evaluate outcomes: strict I&O, urine output, and electrolytes over the next shift.",
+        "incorrect": [
+          "This leaves out the 150-mL emesis. Every output, including emesis around the tube, must be counted.",
+          "This leaves out the 100-mL piggyback from intake (1,000 − 1,200). IV medication volumes count as intake.",
+          "This leaves out the NG drainage. NG output is often the largest loss in SBO and must be counted."
+        ]
+      }
+    },
+    {
+      "stem": "A client admitted 24 hours ago with an SBO is being managed with NPO status and NG decompression. Which new findings suggest the obstruction is progressing to ischemia, necrosis, or perforation? Select all that apply.",
+      "options": [
+        "Serum lactate rising from 1.2 to 3.9 mmol/L",
+        "Pain changing from intermittent cramps to constant, severe pain",
+        "NG drainage of 600 mL of bilious fluid over 8 hours",
+        "T 38.6°C (101.5°F) with HR 124/min",
+        "Rebound tenderness with guarding on palpation",
+        "High-pitched bowel sounds heard near the area of obstruction"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The guide's obstruction danger sequence ends in impaired perfusion leading to ischemia/necrosis/perforation and then peritonitis/sepsis/shock. A rising lactate (hypoperfusion), constant severe pain, fever with tachycardia, and peritoneal signs are the cues of that progression. Bilious NG drainage and hyperactive sounds near the blockage are expected findings of an active SBO.",
+        "incorrect": [
+          "Correct—the guide says elevated lactate may indicate tissue hypoperfusion/ischemia.",
+          "Correct—a change from crampy to constant, severe pain suggests the bowel wall is losing blood supply.",
+          "Incorrect—substantial bilious NG output is expected with SBO and shows that decompression is working. Track it for I&O and electrolytes, but it is not a sign of ischemia.",
+          "Correct—fever and tachycardia suggest necrosis, perforation, or developing sepsis.",
+          "Correct—rebound tenderness and guarding are peritoneal signs that point to perforation and peritonitis.",
+          "Incorrect—the guide says bowel sounds are hyperactive near the obstruction early. This is the expected early finding; the concern is when they become hypoactive along with other warning signs."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is caring for four clients with GI bleeding. Which client should the nurse see first?",
+      "options": [
+        "A client with a duodenal ulcer who had one small episode of coffee-ground emesis; HR 92/min, BP 126/78 mm Hg",
+        "A client with diverticulosis with streaks of bright red blood on the toilet paper; HR 84/min, BP 132/80 mm Hg",
+        "A client with cirrhosis who just vomited about 300 mL of bright red blood; HR 118/min, BP 96/58 mm Hg",
+        "A client with gastritis from NSAIDs who reports a black, tarry stool this morning; HR 88/min, BP 118/72 mm Hg"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a large volume of bright red hematemesis with tachycardia and soft BP in a client with cirrhosis. Analyze cues: the guide says bright red emesis suggests active bleeding and needs an urgent response, and cirrhosis points to esophageal varices. Prioritize hypotheses: active variceal hemorrhage with early hypovolemic shock. Take action: see this client first, ensure two large-bore IVs and isotonic fluids, keep NPO, and anticipate transfusion, octreotide, and emergency endoscopy.",
+        "incorrect": [
+          "Coffee-ground emesis is blood that has been in contact with gastric acid, which suggests a slower or older bleed. With stable vital signs this client is less urgent.",
+          "Small streaks of bright red blood with normal vital signs suggest minor lower GI bleeding. It needs follow-up, but the client is stable.",
+          "Melena means digested blood from an upper GI source. It needs evaluation, but the vital signs are stable, unlike the client who is actively vomiting blood."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with an upper GI bleed from a gastric ulcer. HR 112/min, BP 100/62 mm Hg. Which prescription should the nurse question?",
+      "options": [
+        "Pantoprazole IV infusion",
+        "0.9% sodium chloride 1,000 mL IV bolus through an 18-gauge catheter",
+        "Type and crossmatch for 2 units of packed red blood cells",
+        "Ketorolac 15 mg IV every 6 hours PRN epigastric pain"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an active ulcer bleed with tachycardia and borderline BP. Analyze cues: ketorolac is an NSAID; the guide lists medication-related gastritis and peptic ulcers as upper GI bleed causes and teaches avoidance of NSAIDs. An NSAID worsens mucosal injury and impairs platelet function. Generate solutions: IV PPI, isotonic crystalloid through large-bore access, and preparation for transfusion all match the guide's stabilization plan. Take action: hold the ketorolac and request a non-NSAID analgesic.",
+        "incorrect": [
+          "An IV PPI is part of the guide's stabilization and treatment for upper GI bleeding. This order is appropriate.",
+          "An isotonic crystalloid through large-bore IV access is exactly what the guide calls for in a significant GI bleed. This order is appropriate.",
+          "The guide says to anticipate transfusion, so a type and crossmatch is an appropriate preparation for a client with tachycardia and a falling BP."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a bleeding duodenal ulcer has HR 128/min, BP 86/50 mm Hg, cool pale skin, restlessness, and 20 mL of urine in 2 hours. One 20-gauge IV is infusing 0.9% saline at 75 mL/hr. Which action should the nurse take first?",
+      "options": [
+        "Insert a second large-bore IV and begin a rapid isotonic crystalloid bolus per protocol while calling the rapid response team",
+        "Raise the head of the bed to 45 degrees to reduce the risk of aspiration",
+        "Give the scheduled IV pantoprazole dose early",
+        "Draw a stat hemoglobin and hematocrit before changing the fluid rate"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: tachycardia, hypotension, cool pale skin, restlessness, and oliguria. Analyze cues: the guide says to prioritize circulation in a major GI bleed and lists these exact cues as signs of shock that need urgent escalation. Prioritize hypotheses: hypovolemic shock from hemorrhage. Take action: establish two large-bore IVs, run isotonic crystalloid rapidly, and escalate. Evaluate outcomes: HR falling, BP rising, urine output improving, and mentation clearing.",
+        "incorrect": [
+          "Aspiration precautions matter, but raising the head of the bed in a hypotensive client can worsen cerebral perfusion, and it does nothing for the volume loss that is threatening life.",
+          "A PPI supports treatment of the ulcer but does not restore circulating volume. It is the right drug at the wrong priority.",
+          "The Hgb and Hct will be needed, but they can be drawn while starting the IV. Waiting for labs before treating obvious shock delays resuscitation, and early values may not yet reflect the blood loss."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cirrhosis and bleeding esophageal varices is started on an IV octreotide infusion while awaiting emergency endoscopy. Which finding best indicates that the medication is having its intended effect?",
+      "options": [
+        "The client's epigastric burning has resolved",
+        "No further bright red hematemesis, with HR decreasing from 122 to 98/min and BP stabilizing",
+        "The serum ammonia level has decreased and the client is less confused",
+        "The client's abdominal girth and weight have decreased since admission"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the guide lists IV octreotide for upper GI bleeding as indicated; in variceal bleeding it reduces portal (splanchnic) blood flow to slow hemorrhage. Evaluate outcomes: the guide defines response to GI-bleed treatment as stable or improving BP and HR, reduced visible bleeding, and no recurrent hemorrhage. Recognize cues: hematemesis has stopped, HR is falling, and BP is stabilizing, which shows the bleeding is slowing.",
+        "incorrect": [
+          "Relief of epigastric burning is the expected effect of acid suppression (a PPI). It does not show that variceal bleeding has slowed.",
+          "A falling ammonia level reflects treatment of hepatic encephalopathy (e.g., lactulose), not control of variceal hemorrhage.",
+          "Smaller girth and weight reflect ascites management with diuretics or paracentesis. They do not measure bleeding control."
+        ]
+      }
+    },
+    {
+      "stem": "A client with massive variceal bleeding has a Sengstaken-Blakemore tube in place for balloon tamponade. The client suddenly develops inspiratory stridor, severe respiratory distress, and SpO2 of 82%. Which action should the nurse take first?",
+      "options": [
+        "Cut across the tube to deflate the balloons and remove it per protocol, then call for help",
+        "Increase the oxygen to a non-rebreather mask and call the provider",
+        "Suction the oropharynx and reposition the client to high-Fowler's",
+        "Add traction to the tube to pull the gastric balloon snug against the stomach"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden stridor, severe distress, and hypoxemia in a client with balloon tamponade. Analyze cues: the guide lists the Sengstaken-Blakemore tube for acute variceal bleeding; if the gastric balloon migrates upward, the esophageal balloon can block the airway. Prioritize hypotheses: airway obstruction from balloon migration, which is immediately fatal if not reversed. Take action: deflate the balloons by cutting the tube (scissors are kept at the bedside) and remove it, then call for emergency help. Evaluate outcomes: return of air movement and improving SpO2.",
+        "incorrect": [
+          "Oxygen cannot reach the lungs past a mechanical airway obstruction. Calling the provider first delays the one action that relieves it.",
+          "Suctioning clears secretions, but it does not relieve a balloon that is blocking the airway. This misreads the cue as a secretion problem.",
+          "Adding traction pulls the balloons further and can worsen the obstruction. This action is unsafe given the airway cue."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching a client with cirrhosis and esophageal varices how to reduce the risk of bleeding. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I need to stop drinking alcohol completely, not just cut back.\"",
+        "\"I'll call my provider if I have a cold with a lot of coughing or sneezing.\"",
+        "\"I'll switch from aspirin to ibuprofen for my knee pain since it's easier on my stomach.\"",
+        "\"I'll use the stool softener so I don't strain when I have a bowel movement.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to replace aspirin with ibuprofen. Analyze cues: the guide's variceal prevention teaching is to avoid alcohol, aspirin, and NSAIDs; ibuprofen is an NSAID and carries the same bleeding risk. Generate solutions: reteach that all NSAIDs must be avoided and that the client should ask the provider for a safe analgesic. Evaluate outcomes: the client correctly identifies ibuprofen and naproxen as drugs to avoid.",
+        "incorrect": [
+          "This is correct. The guide lists alcohol avoidance as prevention for variceal bleeding.",
+          "This is correct. Coughing and sneezing increase variceal bleeding risk, so a persistent cough should be reported and treated.",
+          "This is correct. Straining increases variceal bleeding risk, so preventing constipation is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "A 76-year-old client with diverticulosis has had two large maroon stools in the past hour. HR 114/min, BP 98/60 mm Hg, and the client reports dizziness when standing. A colonoscopy is planned. What should the nurse do first?",
+      "options": [
+        "Begin the prescribed bowel preparation so the colonoscopy can localize the source",
+        "Establish two large-bore IVs and start isotonic crystalloid as prescribed",
+        "Send a stool sample for occult blood testing",
+        "Assist the client to the bathroom and record the volume of the next stool"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hematochezia (maroon stools) with tachycardia, soft BP, and orthostatic dizziness. Analyze cues: the guide says the severity of lower GI bleeding varies, and these cues show significant volume loss. Prioritize hypotheses: hemorrhage threatening perfusion. Take action: stabilize circulation first with two large-bore IVs and isotonic fluids, keep NPO, and anticipate transfusion. Colonoscopy localizes the source, but only after the client is stable enough. Evaluate outcomes: HR, BP, urine output, and CBC trends.",
+        "incorrect": [
+          "Colonoscopy is the guide's primary method to localize the source, but the bowel prep is not the first action in a client showing signs of shock.",
+          "Visible maroon stool already confirms bleeding. An occult blood test adds nothing and delays stabilization.",
+          "Walking a dizzy, hypotensive client to the bathroom risks a fall and syncope. Use a bedside commode or bedpan and stabilize circulation first."
+        ]
+      }
+    },
+    {
+      "stem": "A client who takes naproxen daily for arthritis reports 3 days of black, sticky, foul-smelling stools and increasing fatigue. The client does not take iron supplements. HR 104/min. Which conclusion should guide the nurse's next actions?",
+      "options": [
+        "Bleeding from the stomach or duodenum, most likely medication-related; anticipate endoscopy and IV PPI therapy",
+        "Lower GI bleeding from diverticulosis; anticipate colonoscopy to localize the source",
+        "A harmless change in stool color from diet; recommend increasing fiber and fluids",
+        "Bleeding hemorrhoids from straining; anticipate a sitz bath and stool softener"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: black, tarry stools (melena), daily NSAID use, fatigue, and tachycardia, without iron supplements to explain dark stool. Analyze cues: the guide defines melena as black, tarry stool from digested blood, a sign of upper GI bleeding, and lists medication-related gastritis and peptic ulcers as stomach/duodenal causes. Prioritize hypotheses: an NSAID-related upper GI bleed with symptomatic blood loss. Take action: report, hold the NSAID, anticipate CBC, endoscopic therapy, and IV PPI, and monitor vital signs.",
+        "incorrect": [
+          "Lower GI bleeding usually causes hematochezia (bright red or maroon blood). Black, tarry stool means the blood was digested and points to an upper source.",
+          "Dismissing the finding as dietary ignores the NSAID history, fatigue, and tachycardia. This skips Analyze cues.",
+          "Hemorrhoids cause bright red blood on the stool or tissue, not black, tarry stool. This misreads the cue."
+        ]
+      }
+    },
+    {
+      "stem": "A client arrives with hematemesis and melena. HR 120/min, BP 94/56 mm Hg. Which actions should the nurse include in the initial plan of care? Select all that apply.",
+      "options": [
+        "Maintain NPO status",
+        "Insert two large-bore peripheral IVs",
+        "Infuse isotonic crystalloid fluids as prescribed",
+        "Offer ice chips and clear liquids to replace lost volume",
+        "Monitor vital signs, urine output, and CBC frequently",
+        "Insert a single 22-gauge IV in the hand to preserve larger veins"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The guide's stabilization plan for a significant upper GI bleed is frequent vital signs, NPO, two large-bore peripheral IVs, isotonic crystalloid fluids, anticipated transfusion, and evaluation of vital signs, urine output, and CBC. Oral intake and small-bore access do not fit an unstable bleed.",
+        "incorrect": [
+          "Correct—NPO prevents aspiration and keeps the client ready for urgent endoscopy.",
+          "Correct—two large-bore IVs allow rapid fluid and blood replacement.",
+          "Correct—isotonic crystalloid restores intravascular volume while blood is prepared.",
+          "Incorrect—the client should be NPO; oral intake does not replace intravascular volume and raises aspiration risk before endoscopy.",
+          "Correct—frequent VS, urine output, and CBC trending are how the nurse evaluates the response and catches ongoing bleeding.",
+          "Incorrect—a small-gauge IV cannot deliver fluids or blood rapidly enough; the guide calls for two large-bore lines."
+        ]
+      }
+    },
+    {
+      "stem": "A client with an upper GI bleed received 2 L of 0.9% saline after admission. Hemoglobin: 10.2 g/dL at 0800, 8.9 g/dL at 1200, and 7.4 g/dL at 1600. Over the same period HR rose from 98 to 116/min and the client had one maroon stool. Which conclusion is most accurate?",
+      "options": [
+        "The drop is mostly dilution from the saline, so the nurse should slow the IV rate and recheck in the morning",
+        "The hemoglobin is above 7 g/dL, so no action is needed beyond continued monitoring",
+        "The client has ongoing bleeding; the nurse should notify the provider and anticipate transfusion and urgent endoscopic therapy",
+        "The rising HR is from anxiety about the procedure, so the nurse should provide reassurance and reassess"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a steady Hgb fall of almost 3 g/dL over 8 hours, rising HR, and a new maroon stool. Analyze cues: some dilution is expected after crystalloids, but the guide's evaluation criteria are a stable CBC/hemoglobin trend, stable HR, and no recurrent hemorrhage; all three are moving the wrong way. Prioritize hypotheses: continued active bleeding. Take action: notify the provider and anticipate transfusion and endoscopic therapy. Evaluate outcomes: stabilizing Hgb and HR after intervention.",
+        "incorrect": [
+          "Dilution does not explain a rising HR and a new bloody stool. Slowing fluids in an actively bleeding client is unsafe.",
+          "A single number above a threshold ignores the trend. A steep, continuing fall with tachycardia is the cue that matters.",
+          "Anxiety can raise HR, but it does not lower hemoglobin or cause maroon stool. This misreads the cues."
+        ]
+      }
+    },
+    {
+      "stem": "A 52-year-old client with obesity and type 2 diabetes reports RUQ pain radiating to the right scapula that began 4 hours after a fried-food dinner and has not let up for 8 hours. T 38.5°C (101.3°F), HR 104/min, WBC 15,800/mm³. Bilirubin is normal and stools are brown. Which conclusion and plan are most appropriate?",
+      "options": [
+        "Uncomplicated biliary colic; give an antispasmodic and discharge the client with a low-fat diet",
+        "Acute pancreatitis; anticipate serum lipase and admission for NPO and IV fluids",
+        "Total biliary obstruction; anticipate urgent ERCP to remove a common bile duct stone",
+        "Acute cholecystitis; anticipate abdominal ultrasound, IV antibiotics, analgesia, and short-term NPO"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: RUQ pain referred to the scapula after a heavy fatty meal, lasting for hours, with fever and leukocytosis, in a client with risk factors (obesity, diabetes, age over 40). Analyze cues: the guide says fever and leukocytosis may indicate cholecystitis/infection, while the normal bilirubin and brown stools argue against total bile obstruction. Prioritize hypotheses: acute cholecystitis. Generate solutions: ultrasound, antibiotics, analgesics/antispasmodics, and short-term NPO/bowel rest. Evaluate outcomes: falling temperature and WBC, and decreasing pain.",
+        "incorrect": [
+          "Biliary colic fits the pain pattern, but fever and leukocytosis point to infection and inflammation. Discharging the client misses cholecystitis and risks abscess or rupture.",
+          "Pancreatitis causes epigastric pain radiating to the back, not RUQ pain referred to the scapula. Lipase may be checked, but it is not the leading hypothesis.",
+          "The guide lists jaundice, dark urine, clay-colored stool, pruritus, and steatorrhea as signs of total obstruction. A normal bilirubin and brown stools make that unlikely."
+        ]
+      }
+    },
+    {
+      "stem": "A client with known gallstones reports intense itching, dark amber urine, and pale, clay-colored stools. The sclera are yellow, and total bilirubin is 5.8 mg/dL. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "A stone is likely totally obstructing bile flow; anticipate ERCP to localize and relieve the obstruction",
+        "This is uncomplicated cholelithiasis; reinforce a low-fat diet and plan outpatient follow-up",
+        "The itching is an allergic reaction; anticipate an oral antihistamine and stop the most recent new medication",
+        "The dark urine indicates dehydration; encourage 2 to 3 L of oral fluids per day"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pruritus, dark amber urine, clay-colored stools, jaundice, and a high bilirubin. Analyze cues: the guide groups steatorrhea, pruritus, dark amber urine, jaundice, and clay-colored stool as signs of total obstruction of bile flow, and notes bilirubin rises with biliary obstruction. Prioritize hypotheses: a stone blocking the bile duct. Take action: report and anticipate ERCP to localize and treat the obstruction, while monitoring for cholangitis-type infection signs and secondary pancreatitis. Evaluate outcomes: falling bilirubin and return of brown stools.",
+        "incorrect": [
+          "Total obstruction is not uncomplicated cholelithiasis. Outpatient follow-up delays relief and risks infection and pancreatitis secondary to the blockage.",
+          "Itching here comes from bile salts in the skin, part of the obstruction cluster. Treating it as an allergy misreads the cue.",
+          "Dark amber urine with jaundice and clay stools reflects bilirubin spilling into the urine, not dehydration. Fluids alone do not relieve the blockage."
+        ]
+      }
+    },
+    {
+      "stem": "A client admitted with cholelithiasis develops severe mid-epigastric pain radiating to the back that is not relieved by antacids, along with vomiting. Serum lipase is 4 times the upper limit of normal. What should the nurse conclude?",
+      "options": [
+        "The gallbladder has ruptured, and the client needs emergency surgery",
+        "A stone has likely caused acute pancreatitis; maintain NPO, give IV fluids and analgesia, and anticipate a biliary procedure",
+        "The client has a perforated peptic ulcer from stress-related mucosal disease",
+        "The pain is referred biliary colic, and the elevated lipase is a nonspecific finding"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: epigastric pain radiating to the back, unrelieved by antacids, with vomiting and a markedly elevated lipase in a client with gallstones. Analyze cues: the guide says most acute pancreatitis is due to cholelithiasis or alcohol, and lists pancreatitis secondary to biliary blockage as a gallstone complication. Prioritize hypotheses: gallstone pancreatitis. Generate solutions: NPO, IV fluids/electrolytes, analgesia and antiemetics, and treating the cause (biliary procedure for obstruction). Evaluate outcomes: pain, vital signs, and perfusion.",
+        "incorrect": [
+          "Rupture causes sudden diffuse pain, rigidity, and shock signs. Back-radiating epigastric pain with a high lipase points to the pancreas.",
+          "A perforated ulcer causes sudden severe pain with a rigid abdomen; the high lipase and the gallstone history point to pancreatitis instead.",
+          "Biliary colic is RUQ pain referred to the shoulder or scapula. Dismissing a lipase 4 times normal with classic symptoms skips Analyze cues."
+        ]
+      }
+    },
+    {
+      "stem": "A client with acute cholecystitis who is receiving IV antibiotics suddenly reports severe pain spreading across the whole abdomen. The abdomen is rigid, HR is 128/min, BP 90/54 mm Hg, and T 39.0°C (102.2°F). What is the nurse's priority action?",
+      "options": [
+        "Administer the PRN antispasmodic and reassess the pain in 30 minutes",
+        "Obtain a STAT bilirubin and CBC and notify the provider when results return",
+        "Notify the surgeon immediately of suspected gallbladder rupture and prepare for emergency surgery",
+        "Place the client supine with legs elevated and continue the current antibiotic schedule"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden diffuse pain, rigidity, tachycardia, hypotension, and high fever in a client with cholecystitis. Analyze cues: the guide lists gallbladder rupture as a surgical emergency, and spill of bile and infected material causes peritonitis that can progress to septic shock. Prioritize hypotheses: rupture with peritonitis and early shock. Take action: notify the surgeon now and prepare for emergency surgery while supporting circulation with IV fluids. Evaluate outcomes: BP, HR, urine output, and mentation.",
+        "incorrect": [
+          "An antispasmodic treats biliary colic, not a perforation. Waiting 30 minutes delays treatment of a surgical emergency.",
+          "Labs support the work-up, but waiting for them before escalating a hypotensive, rigid abdomen delays definitive care.",
+          "Positioning may briefly support BP, but continuing the current plan ignores a complication that needs surgery. This is a comfort measure, not the priority."
+        ]
+      }
+    },
+    {
+      "stem": "Four hours after a laparoscopic cholecystectomy, a client reports right shoulder pain of 6/10. The abdomen is soft, incisions are dry, HR 84/min, BP 128/76 mm Hg, SpO2 97%. Which intervention should the nurse implement?",
+      "options": [
+        "Keep the client flat in bed and apply an ice pack to the shoulder",
+        "Obtain a 12-lead ECG and notify the provider of possible cardiac ischemia",
+        "Give IV morphine and keep the client on bed rest until the pain resolves",
+        "Help the client sit upright or lie on the left side, apply a heating pad for 15 minutes, and walk with the client"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: shoulder pain after a laparoscopic procedure, with a soft abdomen and normal vital signs. Analyze cues: the guide explains that CO2 used for insufflation can be retained and cause referred shoulder/upper-back pain. Prioritize hypotheses: retained CO2 is the expected explanation; nothing suggests a cardiac or abdominal emergency. Generate solutions and take action: upright or left side-lying position, a heating pad for 15 minutes at a time, and early, frequent ambulation. Evaluate outcomes: shoulder pain decreases as the gas is absorbed.",
+        "incorrect": [
+          "Lying flat traps the gas under the diaphragm, and the guide's intervention is heat, not ice. This option reverses both measures.",
+          "Shoulder pain can be cardiac, but this client has stable vital signs and an expected post-laparoscopy cause. The guide's interventions fit; an ECG is not the first step here.",
+          "Bed rest prevents the ambulation that helps clear the gas, and opioids do little for this type of referred pain. This works against the guide's plan."
+        ]
+      }
+    },
+    {
+      "stem": "A client returns from an open cholecystectomy with a T-tube in place. Which actions should the nurse include in the plan of care? Select all that apply.",
+      "options": [
+        "Connect the T-tube to a closed gravity drainage bag",
+        "Keep the client in a Semi-Fowler's position",
+        "Secure the tubing to the client's gown and check for kinks",
+        "Clamp the T-tube for the first 24 hours to promote bile flow into the duodenum",
+        "Teach the client to splint the incision with a pillow when coughing and deep breathing",
+        "Report T-tube drainage of 400 mL in the first 24 hours as excessive"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The guide's T-tube care is gravity drainage, Semi-Fowler's position, securing the tube to the gown, and preventing kinking or dislodgement. Expected drainage is about 300–500 mL in the first 24 hours, decreasing each day. After an open procedure, pulmonary hygiene (analgesia, incentive spirometry, pillow splinting, ambulation) is especially important because the large upper incision limits deep breathing.",
+        "incorrect": [
+          "Correct—the T-tube is connected to gravity drainage to keep the bile duct open while edema subsides.",
+          "Correct—the guide specifies Semi-Fowler's positioning, which also supports drainage and breathing.",
+          "Correct—securing the tube and preventing kinks protects against dislodgement and blocked drainage.",
+          "Incorrect—clamping early defeats the tube's purpose of keeping bile draining while the duct is edematous, and can cause bile to back up. Clamping is only done later per the surgeon's order.",
+          "Correct—pillow splinting allows effective coughing and deep breathing despite the large upper abdominal incision.",
+          "Incorrect—400 mL is within the guide's expected 300–500 mL for the first 24 hours. This misreads a normal finding."
+        ]
+      }
+    },
+    {
+      "stem": "A client has a T-tube after an open cholecystectomy. Drainage was 450 mL on day 1, 320 mL on day 2, and 190 mL on day 3. The skin and sclera are not jaundiced, the client is afebrile, and stools are brown. How should the nurse interpret these findings?",
+      "options": [
+        "This is an expected pattern showing that bile is increasingly flowing into the duodenum; continue current T-tube care",
+        "The falling drainage suggests the T-tube is becoming obstructed; irrigate the tube with saline",
+        "The day 1 volume was excessive and suggests a bile leak; notify the surgeon",
+        "The falling drainage shows the client is becoming dehydrated; increase the IV fluid rate"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the guide expects about 300–500 mL in the first 24 hours, decreasing each day, and defines effective T-tube care as unobstructed drainage trending downward with no kinking or dislodgement and no worsening jaundice, fever, or abdominal pain. Recognize cues: day 1 is within range, the volume falls daily, and there is no jaundice or fever, with brown stools. Analyze cues: as duct edema subsides, more bile reaches the intestine, so falling tube output is expected.",
+        "incorrect": [
+          "A blocked tube would cause a sudden stop in drainage with pain, fever, or jaundice. A gradual decline with brown stools is expected; irrigation needs a specific order and is not indicated.",
+          "450 mL is within the guide's expected 300–500 mL for the first 24 hours. This misreads a normal value.",
+          "Bile drainage reflects bile-duct patency, not the client's hydration. This misreads the cue."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a T-tube had 280 mL of drainage on post-op day 2. On day 3 there has been no drainage for 6 hours, and the client reports increasing RUQ pain and nausea. T is 38.2°C (100.8°F). What should the nurse do first?",
+      "options": [
+        "Clamp the T-tube and observe whether the pain improves",
+        "Inspect the tubing for kinks or twisting and confirm the bag is below the insertion site, then notify the surgeon",
+        "Irrigate the T-tube with 30 mL of sterile saline to restore flow",
+        "Raise the drainage bag to the level of the abdomen to reduce tension on the tube"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: drainage stopped abruptly with new RUQ pain, nausea, and fever. Analyze cues: the guide's evaluation criteria for a T-tube are unobstructed drainage with no kinking or dislodgement and no worsening jaundice, fever, or abdominal pain; a sudden stop with symptoms suggests obstruction or dislodgement. Take action: check for a mechanical cause first (kinks, twisting, bag position for gravity), then notify the surgeon because the client is symptomatic. Evaluate outcomes: drainage resumes and pain and fever settle.",
+        "incorrect": [
+          "Clamping would block bile drainage further and could worsen pain and back-up. It is the opposite of what is needed.",
+          "Irrigation is not part of routine T-tube care and needs a specific order. Forcing fluid could dislodge the tube or injure the duct.",
+          "Raising the bag removes the gravity gradient and can cause backflow. The bag stays below the insertion site."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is reviewing discharge instructions with a client going home after a laparoscopic cholecystectomy. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"For the next 4 to 6 weeks I'll eat low-fat meals with plenty of protein and carbohydrates.\"",
+        "\"I'll look at my incision sites every day for redness, warmth, or drainage.\"",
+        "\"If my shoulder aches from the gas, I'll lie flat in bed and avoid walking until it goes away.\"",
+        "\"I'll call if my skin turns yellow, my urine gets dark, or my stools look pale.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to lie flat and avoid walking for gas-related shoulder pain. Analyze cues: the guide's interventions for retained CO2 pain are an upright or left side-lying position, a heating pad for 15 minutes at a time, and early, frequent ambulation; lying flat and staying in bed also raise the risk of other post-op complications. Take action: reteach the positioning, heat, and walking plan. Evaluate outcomes: the client describes the correct comfort measures.",
+        "incorrect": [
+          "This is correct. The guide's discharge diet is low-fat, high-carbohydrate/high-protein for the first 4–6 weeks.",
+          "This is correct. The guide says to inspect incision sites daily for infection.",
+          "This is correct. Jaundice, dark urine, and pale stools suggest bile obstruction and should be reported."
+        ]
+      }
+    },
+    {
+      "stem": "A client presents with severe upper abdominal pain radiating to the back. Serum lipase is 5 times the upper limit of normal. CT has not yet been done. The client asks, \"Do I really have pancreatitis, or do they still need the scan to know?\" Which response reflects the diagnostic criteria?",
+      "options": [
+        "\"Your pain and your enzyme level already meet two of the three criteria, so treatment can begin now.\"",
+        "\"All three criteria—pain, enzymes, and a scan—must be present before it can be called pancreatitis.\"",
+        "\"The diagnosis can't be made until the scan shows swelling, because enzyme levels can be misleading.\"",
+        "\"Both amylase and lipase must be elevated, so we're waiting for the amylase before we can confirm it.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: typical upper abdominal pain radiating to the back and a lipase 5 times normal. Analyze cues: the guide states acute pancreatitis is diagnosed when 2 of 3 criteria are met: (1) upper abdominal pain, (2) elevated serum amylase/lipase, and (3) inflammation on ultrasound, CT, or MRI. Prioritize hypotheses: the diagnosis is established. Take action: begin acute-phase care (NPO, IV fluids/electrolytes, analgesia, antiemetics) without waiting for imaging, while monitoring for complications.",
+        "incorrect": [
+          "Only two of the three criteria are required. Requiring all three delays treatment.",
+          "Imaging is one criterion, not a requirement, when pain and enzyme elevation are both present.",
+          "The guide's criterion is elevated amylase or lipase. Waiting for a second enzyme is not required to confirm the diagnosis."
+        ]
+      }
+    },
+    {
+      "stem": "A client is on day 2 of treatment for acute pancreatitis. The client reports tingling around the mouth and in the fingertips. Serum calcium is 7.0 mg/dL, and a carpal spasm develops when the BP cuff is inflated. What should the nurse do?",
+      "options": [
+        "Encourage calcium-rich foods such as milk and yogurt once nausea improves",
+        "Notify the provider and anticipate IV calcium replacement with cardiac monitoring and seizure precautions",
+        "Give the PRN anxiolytic because perioral tingling often results from anxiety-induced hyperventilation",
+        "Recheck the serum calcium with the next morning's labs before acting"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: perioral and fingertip tingling, a positive Trousseau sign, and calcium of 7.0 mg/dL. Analyze cues: the guide lists hypocalcemia as an acute pancreatitis complication requiring monitoring; these findings show neuromuscular irritability (tetany). Prioritize hypotheses: symptomatic hypocalcemia, which can progress to laryngospasm, seizures, and dysrhythmias. Take action: notify the provider, anticipate IV calcium, and monitor rhythm and airway. Evaluate outcomes: resolution of tingling and spasm and a rising calcium.",
+        "incorrect": [
+          "The client is NPO in the acute phase, and dietary calcium is too slow for symptomatic tetany. This is correct-but-not-now.",
+          "Hyperventilation can cause tingling, but a calcium of 7.0 with a positive Trousseau sign explains the findings. This skips Analyze cues.",
+          "Waiting until morning with symptomatic hypocalcemia risks laryngospasm or seizures. The lab already confirms the problem."
+        ]
+      }
+    },
+    {
+      "stem": "A client on day 3 of severe acute pancreatitis has pain controlled at 3/10. The client is now anxious, with RR 30/min, SpO2 88% on room air, and new crackles in both lungs. Which action should the nurse take first?",
+      "options": [
+        "Administer the PRN IV opioid because the anxiety may be from undertreated pain",
+        "Increase the IV fluid rate to improve perfusion to the lungs",
+        "Coach the client to use the incentive spirometer and recheck SpO2 in 1 hour",
+        "Raise the head of the bed, apply oxygen, and call the rapid response team for respiratory distress"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: tachypnea, hypoxemia, bilateral crackles, and new anxiety despite controlled pain. Analyze cues: the guide warns that systemic inflammation in pancreatitis can impair respiratory function and directs immediate escalation for respiratory distress. Prioritize hypotheses: acute respiratory complication (such as ARDS), an airway/breathing problem that outranks other needs. Take action: position upright, give oxygen, and escalate now. Evaluate outcomes: SpO2, work of breathing, and lung sounds.",
+        "incorrect": [
+          "Pain is controlled at 3/10, so anxiety here is more likely from hypoxemia. An opioid could depress breathing further.",
+          "Pancreatitis does need fluids, but adding volume to a client with new crackles and hypoxemia may worsen lung fluid. It does not address the breathing problem first.",
+          "Incentive spirometry is preventive. A client with SpO2 88% and crackles needs immediate intervention, not a 1-hour recheck."
+        ]
+      }
+    },
+    {
+      "stem": "A client admitted 18 hours ago with acute pancreatitis now has bluish ecchymosis around the umbilicus and on both flanks. BP 84/52 mm Hg, HR 130/min, urine output 15 mL/hr, and creatinine has risen from 1.0 to 2.1 mg/dL. Which conclusion should guide the nurse's actions?",
+      "options": [
+        "The bruising is from subcutaneous heparin injections; hold the heparin and continue to monitor",
+        "The client has developed DIC; anticipate a platelet transfusion as the first intervention",
+        "Severe hemorrhagic pancreatitis with hypovolemic shock and acute kidney injury; escalate immediately and anticipate aggressive IV fluid resuscitation",
+        "The low urine output reflects NPO status; encourage the client to take sips of water"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: periumbilical and flank ecchymosis, hypotension, tachycardia, oliguria, and a doubled creatinine. Analyze cues: the guide says ecchymosis around the umbilicus or flank can indicate severe hemorrhagic pancreatitis, that severe fluid shifts cause hypovolemic shock, and that poor perfusion can cause AKI. Prioritize hypotheses: hypovolemic shock with AKI from severe pancreatitis. Take action: escalate now and anticipate rapid IV fluid resuscitation and ICU care. Evaluate outcomes: BP, HR, urine output, and creatinine trend.",
+        "incorrect": [
+          "Injection bruising is local to the sites, not periumbilical and flank. Holding heparin ignores the shock and renal cues.",
+          "DIC is a listed complication, but nothing here (no platelet count, no diffuse oozing) confirms it. The cues point to volume loss, and platelets do not treat hypovolemia.",
+          "The client is in shock and must remain NPO. Oral sips do not correct intravascular volume loss or kidney hypoperfusion."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted with acute pancreatitis related to alcohol use. Which actions should the nurse include in the acute-phase plan of care? Select all that apply.",
+      "options": [
+        "Maintain NPO status and provide meticulous oral care",
+        "Position in Semi-Fowler's and encourage incentive spirometry and deep breathing",
+        "Monitor serum calcium, glucose, and urine output closely",
+        "Provide small, frequent low-fat oral meals as soon as nausea is controlled",
+        "Assess pain continuously and give prescribed analgesics promptly",
+        "Withhold analgesics until the pain localizes so abdominal findings are not masked"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The guide's acute-phase nursing for pancreatitis is NPO with meticulous oral care, IV fluids/electrolytes, nutrition support as ordered (enteral later, parenteral if enteral fails), continuous pain assessment with timely analgesia, and frequent respiratory care with Semi-Fowler's positioning and incentive spirometry. The nurse monitors respiratory status, BP, urine output, calcium/electrolytes, and glucose for complications.",
+        "incorrect": [
+          "Correct—NPO decreases pancreatic activity, and oral care is needed for comfort and mucosal integrity while NPO.",
+          "Correct—Semi-Fowler's, incentive spirometry, and deep breathing address the risk of respiratory distress and hypoxia.",
+          "Correct—hypocalcemia, hyperglycemia, and AKI are listed complications to monitor.",
+          "Incorrect—the client stays NPO initially; nutrition is resumed later through enteral feeding as ordered, not oral meals as soon as nausea eases.",
+          "Correct—the guide calls for continuous pain assessment and timely analgesia.",
+          "Incorrect—withholding analgesia leaves severe pain untreated; the guide calls for timely analgesia with ongoing reassessment."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic pancreatitis, steatorrhea, and type 3c diabetes is being discharged with pancreatic enzyme replacement therapy (PERT). Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll take all my enzyme capsules at once each morning on an empty stomach so I don't forget them.\"",
+        "\"I'll check my blood sugar regularly, since the damage affects my insulin production too.\"",
+        "\"I'll call if my stools stay greasy or I keep losing weight.\"",
+        "\"I can't drink any alcohol at all, even on special occasions.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans a single morning dose on an empty stomach. Analyze cues: PERT works by supplying the digestive enzymes the pancreas can no longer make, so it must be present with food; the guide says to take enzymes as prescribed with meals and snacks. Take action: reteach timing with every meal and snack. Evaluate outcomes: the client describes taking enzymes with each meal and snack, and stools become less fatty.",
+        "incorrect": [
+          "This is correct. Type 3c diabetes results from impaired pancreatic endocrine function, and the guide calls for routine glucose monitoring.",
+          "This is correct. The guide says to report persistent steatorrhea, weight loss, or poor nutrition.",
+          "This is correct. The guide calls for absolute alcohol avoidance in chronic pancreatitis."
+        ]
+      }
+    },
+    {
+      "stem": "A client with chronic pancreatitis started pancreatic enzyme replacement therapy 4 weeks ago for steatorrhea and weight loss. Which finding best indicates the therapy is effective?",
+      "options": [
+        "Fasting blood glucose has decreased from 182 to 128 mg/dL",
+        "Upper abdominal and back pain has decreased from 6/10 to 3/10",
+        "Serum amylase and lipase have returned to normal",
+        "Stools are fewer, formed, and no longer greasy, and the client has gained 1.5 kg (3.3 lb)"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the guide says PERT supports digestion and nutrient absorption in exocrine insufficiency. Evaluate outcomes: the targeted problems were steatorrhea and weight loss, so improvement in stool fat and weight is the direct measure of effect. Recognize cues: formed, non-greasy stools and weight gain show that fat and nutrients are being absorbed.",
+        "incorrect": [
+          "Glucose reflects endocrine function (type 3c diabetes), which is managed with diet, exercise, oral agents, and/or insulin. PERT does not treat it.",
+          "Pain is managed with a tiered analgesic plan. Reduced pain does not show that digestion and absorption have improved.",
+          "Enzyme levels in chronic pancreatitis do not reflect the effect of oral enzyme replacement. This measures the wrong outcome."
+        ]
+      }
+    },
+    {
+      "stem": "A client recovering from acute pancreatitis caused by heavy alcohol use is preparing for discharge. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll start with small meals and avoid big, heavy or high-fat meals.\"",
+        "\"Once my pain is gone and my labs are normal, a drink or two on weekends should be fine.\"",
+        "\"I'll go to the alcohol cessation program the social worker set up for me.\"",
+        "\"I'll go back to eating gradually, the way my provider told me to.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to resume drinking after symptoms resolve. Analyze cues: the guide's post-acute teaching is to strictly avoid alcohol and to follow up based on cause, including an alcohol cessation program; normal labs do not mean the pancreas can tolerate alcohol. Prioritize hypotheses: this plan creates a high risk of recurrence and progression to chronic pancreatitis. Take action: reteach complete abstinence and reinforce the referral. Evaluate outcomes: the client states the plan to avoid all alcohol.",
+        "incorrect": [
+          "This is correct. The guide advises avoiding high-fat and heavy meals after pancreatitis.",
+          "This is correct. Following up on the cause, such as an alcohol cessation program, is part of the guide's teaching.",
+          "This is correct. The guide says to gradually resume oral intake as directed."
+        ]
+      }
+    }
+  ]
+}

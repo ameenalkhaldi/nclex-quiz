@@ -1,0 +1,961 @@
+{
+  "topic": "acute2-burns",
+  "label": "Acute 2: Week 6 — Burns",
+  "questions": [
+    {
+      "stem": "An 80-kg client has partial- and full-thickness flame burns to the entire right arm, the anterior trunk, and the anterior left leg. The burn occurred 20 minutes ago. Using the adult Rule of Nines and the lecture formula of 2 mL LR × kg × %TBSA, at what hourly rate should the nurse expect LR to infuse for the first 8 hours?",
+      "options": [
+        "240 mL/h",
+        "320 mL/h",
+        "360 mL/h",
+        "720 mL/h"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: entire right arm 9% + anterior trunk 18% + anterior left leg 9% = 36% TBSA; flame mechanism = thermal. Analyze cues: the lecture formula for thermal burns is 2 mL × kg × %TBSA = 2 × 80 × 36 = 5,760 mL. Generate solutions: half (2,880 mL) is due in the first 8 hours from injury. Take action: 2,880 ÷ 8 = 360 mL/h, then adjust to the client's response.",
+        "incorrect": [
+          "This divides the full 5,760 mL evenly over 24 hours. The formula front-loads half the volume into the first 8 hours, when the capillary leak is driving burn shock, so this rate would under-resuscitate the client.",
+          "This rate comes from a TBSA of 32%, which happens when the whole arm is counted as 4.5% and the anterior leg as 9%. Each whole arm is 9%, so the TBSA is 36%. This is a Recognize cues error in adding the regions.",
+          "This uses the electrical-burn multiplier of 4 mL. A flame burn is thermal, so the 2 mL multiplier applies. Doubling the volume risks fluid overload and edema-driven complications."
+        ]
+      }
+    },
+    {
+      "stem": "A 60-kg client with 40% TBSA thermal burns was injured at 1300 and arrives in the ED at 1600 with no IV fluids given en route. Using the lecture formula (2 mL LR × kg × %TBSA, half in the first 8 hours from injury), what LR rate should the nurse anticipate starting at 1600?",
+      "options": [
+        "300 mL/h",
+        "480 mL/h",
+        "400 mL/h",
+        "960 mL/h"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: injury at 1300, arrival at 1600, no fluids yet. Analyze cues: total = 2 × 60 × 40 = 4,800 mL. Half (2,400 mL) is due by 2100, which is 8 hours after the INJURY, not after arrival. Generate solutions: 5 hours remain. Take action: 2,400 ÷ 5 = 480 mL/h. Evaluate outcomes: titrate to hourly urine output and vital signs.",
+        "incorrect": [
+          "This spreads the first half (2,400 mL) over a full 8 hours starting at arrival. The 8-hour clock starts at the time of injury, and 3 hours have already passed, so this rate falls behind the target.",
+          "This divides 2,400 mL over 6 hours. It miscounts the time left: from 1600 to 2100 is 5 hours, so this rate also leaves the client under-resuscitated at the 8-hour mark.",
+          "This uses the electrical-burn multiplier of 4 mL. The burn is thermal, so the total is 4,800 mL, not 9,600 mL. This rate would cause fluid overload."
+        ]
+      }
+    },
+    {
+      "stem": "A 90-kg lineworker sustained high-voltage electrical burns over 20% TBSA 30 minutes ago. Using the lecture's resuscitation formulas, what total LR volume should the nurse expect in the first 8 hours after injury?",
+      "options": [
+        "1,800 mL",
+        "3,600 mL",
+        "7,200 mL",
+        "2,400 mL"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: electrical mechanism, 90 kg, 20% TBSA. Analyze cues: the lecture uses 4 mL × kg × %TBSA for electrical burns because visible skin injury underestimates deep muscle damage. Total = 4 × 90 × 20 = 7,200 mL. Take action: half, or 3,600 mL, is given in the first 8 hours from injury, which is 450 mL/h.",
+        "incorrect": [
+          "This is half of the thermal total (2 × 90 × 20 = 3,600 mL). Electrical burns use the 4 mL multiplier because hidden deep-tissue damage drives greater fluid needs, so this under-resuscitates the client.",
+          "This is the full 24-hour electrical total. Only half of it is given in the first 8 hours, and the rest is given over the next 16 hours.",
+          "This divides the 7,200 mL total evenly into three 8-hour blocks. The lecture gives half of the total in the first 8 hours, not one-third."
+        ]
+      }
+    },
+    {
+      "stem": "A 75-kg client with 32% TBSA thermal burns has completed the first 8 hours of resuscitation exactly on schedule using the lecture formula. Hourly urine output is at the prescribed target. Which LR rate should the nurse verify for the next 16 hours?",
+      "options": [
+        "300 mL/h",
+        "200 mL/h",
+        "100 mL/h",
+        "150 mL/h"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: total = 2 × 75 × 32 = 4,800 mL; the first half (2,400 mL) is done. Generate solutions: the second half (2,400 mL) runs over the next 16 hours. Take action: 2,400 ÷ 16 = 150 mL/h. Evaluate outcomes: urine output is on target, so no rate adjustment is needed yet. Keep monitoring hourly intake and output.",
+        "incorrect": [
+          "This is the rate for the first 8 hours (2,400 mL ÷ 8). Continuing it would give the second half in 8 hours instead of 16 and risk fluid overload as edema builds.",
+          "This divides the full 4,800 mL over 24 hours. The first half has already been given, so only 2,400 mL remains for the next 16 hours.",
+          "This divides the remaining 2,400 mL over 24 hours instead of 16. It would under-resuscitate the client while the capillary leak is still near its peak at 24–36 hours."
+        ]
+      }
+    },
+    {
+      "stem": "A client has burns to the entire head and neck, the anterior surface of both arms, the anterior trunk, and the perineum. Using the adult Rule of Nines, which TBSA should the nurse document?",
+      "options": [
+        "36%",
+        "37%",
+        "46%",
+        "28%"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: entire head/neck 9% + anterior right arm 4.5% + anterior left arm 4.5% + anterior trunk 18% + perineum 1%. Analyze cues: 9 + 9 + 18 + 1 = 37% TBSA. This drives the resuscitation formula. The face and perineum are also high-risk locations that raise severity.",
+        "incorrect": [
+          "This leaves out the 1% perineum. The perineum is a separate region and also a high-risk location, so it must be counted.",
+          "This counts both arms as whole arms (18%) when only the anterior surfaces (4.5% each = 9%) are burned. This is a Recognize cues error that would overestimate the fluid needed.",
+          "This leaves out the entire head and neck (9%). Facial and neck burns are both part of the TBSA and a high-risk location, so they cannot be skipped."
+        ]
+      }
+    },
+    {
+      "stem": "A client weighing 198 lb has scald burns over 25% TBSA. The resuscitation prescription reads \"LR per burn formula.\" Using the lecture formula, which 24-hour total should the nurse verify with the provider?",
+      "options": [
+        "9,900 mL",
+        "9,000 mL",
+        "2,250 mL",
+        "4,500 mL"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: scald = thermal; weight in pounds. Analyze cues: 198 lb ÷ 2.2 = 90 kg; 2 × 90 × 25 = 4,500 mL in 24 hours. Take action: verify 2,250 mL over the first 8 hours from injury and 2,250 mL over the next 16 hours. Unit conversion is a common source of medication-calculation error.",
+        "incorrect": [
+          "This uses 198 (the weight in pounds) in the formula. The formula requires kilograms (198 ÷ 2.2 = 90 kg), so this more than doubles the correct volume.",
+          "This applies the electrical multiplier of 4 mL. A scald is a thermal burn and uses 2 mL × kg × %TBSA.",
+          "This is only the volume for the first 8 hours, which is half of the total. Verifying it as the 24-hour total would under-resuscitate the client."
+        ]
+      }
+    },
+    {
+      "stem": "A 50-kg client has chemical burns over 30% TBSA after an industrial spill. Continuous irrigation is under way. Using the lecture formula, what is the LR rate for the first 8 hours from injury?",
+      "options": [
+        "375 mL/h",
+        "125 mL/h",
+        "187.5 mL/h",
+        "250 mL/h"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: chemical mechanism. Analyze cues: the lecture groups thermal and chemical burns under 2 mL × kg × %TBSA = 2 × 50 × 30 = 3,000 mL. Take action: 1,500 mL over the first 8 hours from injury = 187.5 mL/h, while irrigation continues to stop the burning process.",
+        "incorrect": [
+          "This uses 4 mL × kg × %TBSA. In the lecture, the 4 mL multiplier is only for electrical burns. Chemical burns share the thermal formula.",
+          "This divides the full 3,000 mL over 24 hours. Half of the total is front-loaded into the first 8 hours.",
+          "This divides 3,000 mL over 12 hours. That timing is not in the lecture, which uses 8 hours for the first half and 16 hours for the second half."
+        ]
+      }
+    },
+    {
+      "stem": "A 70-kg client with 40% TBSA thermal burns was injured at 0200. At 0600, the nurse finds that 1,200 mL of LR has been infused since the injury. Using the lecture formula, what rate is needed from 0600 to stay on schedule for the first 8-hour period?",
+      "options": [
+        "350 mL/h",
+        "400 mL/h",
+        "300 mL/h",
+        "700 mL/h"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: total = 2 × 70 × 40 = 5,600 mL; the first half (2,800 mL) is due by 1000 (injury + 8 hours). Generate solutions: 2,800 − 1,200 = 1,600 mL still owed, with 4 hours left. Take action: 1,600 ÷ 4 = 400 mL/h, then titrate to urine output and hemodynamics. Evaluate outcomes: recheck the totals hourly.",
+        "incorrect": [
+          "This spreads the full first half (2,800 mL) over 8 hours from now. It ignores both the 4 hours already elapsed and the 1,200 mL already given.",
+          "This divides the 1,200 mL already given by the 4 hours remaining. That reflects past intake, not the 1,600 mL still owed.",
+          "This divides the full 2,800 mL first half over the 4 hours remaining and ignores the 1,200 mL already infused. It risks fluid overload."
+        ]
+      }
+    },
+    {
+      "stem": "A 100-kg client escaped a house fire with burns to the posterior trunk and the entire left leg. EMS reports the burn occurred at 2300; it is now 2330. Which first-8-hour LR volume does the nurse expect to be prescribed using the lecture formula?",
+      "options": [
+        "3,600 mL",
+        "7,200 mL",
+        "2,700 mL",
+        "1,800 mL"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: posterior trunk 18% + entire left leg 18% = 36% TBSA; flame = thermal. Analyze cues: 2 × 100 × 36 = 7,200 mL in 24 hours. Take action: give half, 3,600 mL (450 mL/h), between 2300 and 0700, timed from the injury.",
+        "incorrect": [
+          "This is the full 24-hour total (2 × 100 × 36). Only half is given in the first 8 hours from injury.",
+          "This uses a TBSA of 27%, counting the left leg as 9%. The entire leg is 18% (anterior 9% + posterior 9%), so the TBSA is 36%.",
+          "This is half of the first-8-hour volume. It would leave the client under-resuscitated while the capillary leak is building."
+        ]
+      }
+    },
+    {
+      "stem": "A 70-kg client is 5 hours into burn resuscitation at the formula-calculated rate. Over the last 2 hours, urine output was 20 mL and then 18 mL. HR is 128/min, BP 92/58 mm Hg, and lungs are clear. The protocol directs titrating the rate to a urine output of at least 0.5 mL/kg/h. What should the nurse do?",
+      "options": [
+        "Keep the current rate because the formula volume is being delivered exactly as calculated",
+        "Request a furosemide prescription to increase urine output to the target range",
+        "Increase the LR rate per protocol and notify the provider of the low output",
+        "Irrigate the indwelling catheter and recheck the output at the end of the next hour"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: urine output below 35 mL/h (0.5 × 70), tachycardia, soft BP, clear lungs. Analyze cues: capillary leak is causing intravascular volume loss (burn shock) and threatening renal perfusion. Prioritize hypotheses: under-resuscitation. Take action: titrate LR up per protocol and notify the provider. Evaluate outcomes: urine output at or above target, HR falling, BP stabilizing.",
+        "incorrect": [
+          "The lecture says to adjust the rate based on the client's response. The formula is only a starting estimate. Holding the rate ignores clear evidence of under-resuscitation, which is an Evaluate outcomes failure.",
+          "The low output comes from hypovolemia (tachycardia, soft BP), not fluid overload. A diuretic would worsen intravascular depletion and renal hypoperfusion.",
+          "Checking catheter patency is reasonable, but the tachycardia and hypotension confirm true hypovolemia. Waiting another hour delays treatment of burn shock."
+        ]
+      }
+    },
+    {
+      "stem": "A 65-kg client with 35% TBSA thermal burns arrives 1 hour after injury. Which prescription should the nurse question?",
+      "options": [
+        "Insert an indwelling urinary catheter and measure output hourly",
+        "Infuse D5W at 284 mL/h for the first 8 hours from injury",
+        "Continuous cardiac monitoring",
+        "Elevate the burned extremities on pillows"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the rate matches the formula (2 × 65 × 35 = 4,550 mL; half ÷ 8 ≈ 284 mL/h), but the fluid is D5W. Analyze cues: the lecture specifies lactated Ringer's. A hypotonic dextrose solution leaves the vessels and does not restore intravascular volume in burn shock. Take action: question the order and clarify for LR. This is a disguised trap because the number looks correct.",
+        "incorrect": [
+          "This is an expected emergent-phase action. Hourly output is the main way to evaluate resuscitation.",
+          "The lecture lists continuous cardiac monitoring in emergent management. Fluid shifts and electrolyte changes can cause dysrhythmias.",
+          "Elevation reduces edema in burned limbs and is part of the emergent plan."
+        ]
+      }
+    },
+    {
+      "stem": "A charge nurse is reviewing burn resuscitation with a new graduate nurse. Which statement by the new nurse shows a need for further teaching?",
+      "options": [
+        "\"If the client arrives 2 hours after the burn, I have 6 hours to give the first half.\"",
+        "\"Electrical burns use 4 mL per kilogram per percent TBSA because of hidden tissue damage.\"",
+        "\"The formula gives me a starting rate, and I adjust it based on how the client responds.\"",
+        "\"I start the 8-hour clock when the client is admitted to the burn unit.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the lecture specifically warns that the first 8-hour period is measured from the time of the burn injury, not from ED arrival or unit admission. Starting the clock at admission delays the front-loaded fluid while the leak is building. Take action: re-teach that elapsed time is subtracted, so the first-half volume is given over the remaining hours.",
+        "incorrect": [
+          "This is correct. The 8-hour window is timed from the injury, so time already elapsed shortens it.",
+          "This is correct. It matches the lecture's electrical formula.",
+          "This is correct. The lecture says to adjust the rate based on response and to monitor daily weights and labs."
+        ]
+      }
+    },
+    {
+      "stem": "A client with 38% TBSA flame burns to the trunk and both legs is in the emergent phase. The airway is patent. Which actions should the nurse include in the plan of care? Select all that apply.",
+      "options": [
+        "Measure urine output and document fluid intake every hour",
+        "Position the burned legs dependent to promote venous filling",
+        "Use a Doppler to obtain BP or pulses in edematous burned extremities",
+        "Initiate continuous cardiac monitoring",
+        "Keep the room cool to reduce the hypermetabolic response",
+        "Apply a large-bore IV and give LR per the burn formula"
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions/Take action: the emergent phase centers on ABCs, LR via large-bore access, continuous cardiac monitoring, hourly intake and urine output, elevating burned limbs, Doppler assessment, and warmth. Cooling the room and dependent positioning work against thermoregulation and edema control.",
+        "incorrect": [
+          "Correct—the lecture specifies hourly intake documentation and hourly urine output to evaluate resuscitation.",
+          "Incorrect—burned limbs are elevated to reduce edema. Dependent positioning worsens edema and the tourniquet effect.",
+          "Correct—edema makes palpation and cuff readings unreliable, so the lecture lists Doppler for BP and pulses.",
+          "Correct—this is part of emergent management. Fluid and electrolyte shifts raise the risk of dysrhythmia.",
+          "Incorrect—loss of skin impairs temperature control, and early hypothermia is common. A warm environment and external heat sources are needed.",
+          "Correct—large-bore access and LR resuscitation treat burn shock."
+        ]
+      }
+    },
+    {
+      "stem": "A client was burned while lying supine on a hot surface and has burns to the posterior trunk, the posterior surfaces of both legs, and the posterior head and neck. Using the adult Rule of Nines, which TBSA should the nurse calculate?",
+      "options": [
+        "40.5%",
+        "54%",
+        "36%",
+        "45%"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: posterior trunk 18% + posterior right leg 9% + posterior left leg 9% + posterior head/neck 4.5%. Analyze cues: 18 + 18 + 4.5 = 40.5% TBSA. Burns over 20% TBSA involve extensive fluid shifts, so the nurse anticipates LR resuscitation and hourly monitoring.",
+        "incorrect": [
+          "This counts both legs as whole legs (36%). Only the posterior surfaces (9% each = 18%) are burned.",
+          "This leaves out the posterior head and neck (4.5%). The head and neck is a high-risk location for airway edema and must be counted.",
+          "This counts the entire head and neck as 9%. Only the posterior half (4.5%) is burned."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse in a mixed adult/pediatric ED is estimating burn size for a 3-year-old with scald burns to the head and chest and for the child's 30-year-old parent with burns to both arms. Which approach is most accurate?",
+      "options": [
+        "Use the adult Rule of Nines for both clients and adjust the child's fluid rate by weight",
+        "Use the Lund-Browder chart for the child and the Rule of Nines for the parent",
+        "Use the Lund-Browder chart for the parent and estimate the child by palm size",
+        "Estimate both using the Rule of Nines, then reassess depth after 72 hours"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: one client is a young child and one is an adult. Analyze cues: the lecture notes the Lund-Browder chart adjusts for age because body proportions change, which makes it especially useful in children. The adult Rule of Nines fits the parent. Take action: use the right tool for each client so fluid calculations are accurate.",
+        "incorrect": [
+          "Weight-based fluid dosing does not correct a wrong TBSA. A young child's head makes up a larger share of body surface, so adult percentages would underestimate the burn.",
+          "Lund-Browder is age-adjusted and is most useful for children. The lecture's tools are the Rule of Nines and Lund-Browder, so palm estimates are not the lecture's method for the child.",
+          "Reassessing depth is appropriate because burns evolve, but it does not fix the child's TBSA. Age-related body proportions call for the Lund-Browder chart."
+        ]
+      }
+    },
+    {
+      "stem": "Day 4 after a 45% TBSA burn, a client's resuscitation fluids are still running at the 24-hour rate. Urine output has risen to 180 mL/h, daily weight is up 3 kg, crackles are new in both bases, and RR is 28/min. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "Capillary leak is still at its peak, so the high fluid rate is still needed",
+        "The large urine output reflects early acute kidney injury from myoglobin",
+        "The client is mobilizing edema fluid and is at risk for fluid overload",
+        "New crackles indicate inhalation injury, so the nurse should request bronchoscopy"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: day 4 (acute phase begins at 48–72 hours), diuresis, weight gain, new crackles, tachypnea. Analyze cues: the lecture says to continue CAUTIOUS fluid and electrolyte administration as fluid shifts and diuresis occur. Fluid is returning to the vessels. Prioritize hypotheses: circulatory overload. Take action: notify the provider to reduce fluids and monitor respiratory status, weights, and labs.",
+        "incorrect": [
+          "The intravascular leak peaks at 24–36 hours. By day 4 the client is in the acute phase, where fluid is shifting back into the vessels.",
+          "Myoglobin-related AKI usually causes low output and dark urine. Rising output with crackles points to fluid remobilization, not renal failure.",
+          "Inhalation injury is assessed early after exposure. New crackles with weight gain during diuresis fit fluid overload better, so this misreads the cues."
+        ]
+      }
+    },
+    {
+      "stem": "Six hours after a 40% TBSA full-thickness flame burn, a client's telemetry shows new tall, peaked T waves. Serum potassium is 6.1 mEq/L, and urine output has been 15 mL/h for 2 hours. Which interpretation best explains these findings?",
+      "options": [
+        "Potassium released from destroyed cells, plus reduced renal excretion from low perfusion",
+        "Potassium shifting back into cells as fluid is remobilized during the diuretic phase",
+        "Hemolysis of the lab sample from drawing blood through a burned extremity",
+        "Excess potassium given in the lactated Ringer's resuscitation fluid"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: emergent phase, full-thickness burns, peaked T waves, K+ 6.1, oliguria. Analyze cues: damaged cells release potassium, and reduced blood volume lowers renal perfusion and excretion. Prioritize hypotheses: hyperkalemia with cardiac risk. Take action: continuous cardiac monitoring, notify the provider, and restore renal perfusion with fluids. Evaluate outcomes: K+ trending down and urine output rising.",
+        "incorrect": [
+          "Cells take potassium back up later, in the acute phase, and the risk then is hypokalemia. At 6 hours the client is in the emergent phase, so the timing does not fit.",
+          "A hemolyzed sample can falsely raise potassium. But the ECG changes and oliguria confirm true hyperkalemia, so dismissing it is unsafe.",
+          "LR contains only a small amount of potassium. It does not explain a level of 6.1 with ECG changes. Cell destruction and low renal perfusion do."
+        ]
+      }
+    },
+    {
+      "stem": "A client has a flame burn on the thigh. The center is waxy white and leathery with no blisters, and the client reports little pain there. The edges are red, blistered, and very painful. Which statement by a nursing student needs correction?",
+      "options": [
+        "\"The center probably has destroyed nerve endings, which is why it hurts less.\"",
+        "\"This one wound has areas of different depth, so its final depth may take days to know.\"",
+        "\"The painful red edges are the most serious part, so they need the most attention.\"",
+        "\"The waxy center will likely need grafting and carries a risk of contracture.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a waxy, leathery, nearly painless center inside a painful blistered border. Analyze cues: the lecture warns that a full-thickness burn may be relatively painless because nerve endings are destroyed, so less pain does not mean less severe. Prioritize hypotheses: the center is the deepest injury. Take action: correct the student and teach that pain does not indicate depth.",
+        "incorrect": [
+          "This is accurate. Full-thickness burns are usually anesthetic or hypoesthetic because the nerve endings are destroyed.",
+          "This is accurate. The lecture notes burn wounds are not uniform, and final depth may take several days to determine.",
+          "This is accurate. Full-thickness burns are candidates for grafting and are linked to severe scarring and contractures."
+        ]
+      }
+    },
+    {
+      "stem": "A client has a scald on the forearm that blistered within a few hours. The wound is red, wet, painful, and blanches with pressure. The client asks, \"Will I need surgery or end up with a bad scar?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"This depth often needs a skin graft to close, and scarring over the arm is expected.\"",
+        "\"Burns like this usually heal on their own in about 1 to 3 weeks, and scarring is unusual.\"",
+        "\"Because it hurts this much, the burn is deep, and we'll know about grafting in 2 days.\"",
+        "\"This burn only involves the outer layer of skin, so it will heal in a few days.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: blisters within 24 hours, red, wet, painful, blanching. Analyze cues: these match superficial partial-thickness burns, which the lecture says heal in 7–21 days with scarring unusual. Take action: give accurate teaching while continuing to reassess, because burn depth can progress.",
+        "incorrect": [
+          "This describes deep partial-thickness or full-thickness burns. A blistering, blanching, wet, painful wound fits superficial partial-thickness.",
+          "Severe pain is typical of superficial partial-thickness burns, which have intact nerve endings. Linking more pain with more depth misreads the cue.",
+          "A burn of the epidermis only is superficial: dry, red, and without blisters. Blistering means the dermis is involved."
+        ]
+      }
+    },
+    {
+      "stem": "A client's hand burn is mottled white-to-red and waxy, and the client feels pressure but not light touch over it. Which expectation should the nurse include in the plan of care?",
+      "options": [
+        "Heals within 7–21 days with minimal scarring, so the plan focuses on dressing changes alone",
+        "Insensate tissue that needs no analgesia during wound care",
+        "Candidate for grafting, with early positioning and therapy to limit hypertrophic scarring",
+        "Superficial injury that can be left open to air with no splinting"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: mottled white-to-red, waxy, painful to pressure only. Analyze cues: these fit a deep partial-thickness burn. Hair follicles and glands are damaged, and hypertrophic scarring is a risk. Generate solutions: deep partial-thickness burns are grafting candidates, and the hands need special attention for function. Take action: plan for grafting, positioning, and early mobility.",
+        "incorrect": [
+          "That course fits superficial partial-thickness burns. Damaged follicles and glands with pain to pressure only mean a deeper injury.",
+          "Deep partial-thickness burns are still painful to pressure. Procedures need planned analgesia. This misreads the cue.",
+          "Leaving a burn open to air is described for the face, not the hands. A deep hand burn needs function-preserving care, splinting, and contracture prevention."
+        ]
+      }
+    },
+    {
+      "stem": "A 78-year-old and a 30-year-old are both scalded by the same pot of boiling water over similar areas of the forearm. On arrival, both wounds look alike. Which action by the nurse best reflects the source's guidance?",
+      "options": [
+        "Document both as the same depth, because the mechanism and exposure time were identical",
+        "Anticipate a deeper injury in the older adult and reassess both wounds over the next several days",
+        "Classify both wounds today so the grafting decision can be made before discharge",
+        "Expect the younger adult's burn to be deeper because thicker skin holds more heat"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: age 78 versus 30, same scald. Analyze cues: adults over 55 have thinner skin and are prone to deeper burns. Increasing age is also a mortality predictor. Burn wounds evolve as mediators change blood flow and cause edema. Take action: anticipate greater depth in the older adult and reassess both wounds. Evaluate outcomes: track depth changes in the documentation.",
+        "incorrect": [
+          "Identical exposure does not mean identical injury. Older adults have thinner skin, and depth can evolve over time.",
+          "The lecture notes final depth may take several days to determine. Committing early skips reassessment.",
+          "This reverses the risk. Adults over 55 and children under 5 are more susceptible to deeper burns because of thinner skin."
+        ]
+      }
+    },
+    {
+      "stem": "A worker is brought to the occupational health office after a chemical splashed onto the chest and arms and soaked the shirt. The worker is alert, breathing without distress, and reporting burning pain. After ensuring staff are protected, what should the nurse do first?",
+      "options": [
+        "Cover the area with a clean, dry dressing and arrange transport to the ED",
+        "Insert a large-bore IV before any further skin care",
+        "Apply ice packs to the burned area to limit tissue injury",
+        "Remove the soaked clothing and begin continuous irrigation of the skin"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: ongoing chemical exposure through soaked clothing; airway and breathing intact. Analyze cues: the lecture's sequence is scene safety, then stop the burning process (remove restrictive or contaminated clothing), and continuous irrigation for chemical injuries. Take action: remove the clothing and irrigate. Then cover with a clean, dry dressing and transport.",
+        "incorrect": [
+          "Covering the wound is part of first aid, but the chemical keeps burning while it stays on the skin. Covering it first traps the agent.",
+          "IV access matters for major burns, but it does not stop the burning process. The airway is intact, so stopping the burn comes first.",
+          "Ice is not part of the lecture's first aid and adds to hypothermia risk. It also does not remove the chemical."
+        ]
+      }
+    },
+    {
+      "stem": "A camper's sleeve caught fire. Bystanders put out the flames, and the camper is now away from the fire. The camper is talking in full sentences, and the forearm is red and swelling quickly under a tight watch and a ring. What should the first responder nurse do next?",
+      "options": [
+        "Remove the watch and ring and any constricting clothing from the arm",
+        "Apply butter or ointment to soothe the burn before transport",
+        "Wrap the arm snugly in a damp towel to reduce swelling",
+        "Elevate the arm and wait for EMS to remove the jewelry"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the scene is safe, the airway is intact (full sentences), and there is rapid swelling under jewelry. Analyze cues: edema can act like a tourniquet. Generate solutions: the lecture says to stop the burning process and remove restrictive clothing. Take action: remove the jewelry and constricting items now, then cover with a clean, dry cloth and arrange emergency evaluation.",
+        "incorrect": [
+          "Ointments are not part of the lecture's first aid. They hold in heat and interfere with wound assessment. The wound is covered with a clean, dry cloth.",
+          "A snug wrap adds constriction as the arm swells, and wet coverings add to heat loss. The lecture calls for a clean, dry covering.",
+          "Elevation helps with edema, but waiting allows swelling to trap the jewelry and act as a tourniquet, causing ischemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client found in a smoke-filled bedroom has small burns on one hand. The client reports a headache and nausea and is confused. SpO2 is 98% on room air, and RR is 22/min. Which action should the nurse take first?",
+      "options": [
+        "Apply oxygen at 2 L/min by nasal cannula because the saturation is acceptable",
+        "Clean and dress the hand burns and reassess neurologic status in 1 hour",
+        "Apply 100% oxygen by non-rebreather mask and report suspected CO poisoning",
+        "Obtain a 12-lead ECG and continue monitoring on room air"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: enclosed-space smoke exposure, headache, nausea, confusion. Analyze cues: pulse oximetry can read normal in CO poisoning because the device cannot tell carboxyhemoglobin from oxyhemoglobin. Prioritize hypotheses: CO poisoning is causing neurologic signs. Take action: 100% oxygen. Evaluate outcomes: improving mentation and resolving headache.",
+        "incorrect": [
+          "Low-flow oxygen does not displace carbon monoxide. The lecture specifies 100% oxygen for suspected CO poisoning.",
+          "This focuses on the visible wound and delays treating the poisoning. The lecture warns that serious inhalation or poisoning injury can be present even when external burns look limited.",
+          "Monitoring is useful, but delaying high-concentration oxygen leaves the tissues hypoxic from CO."
+        ]
+      }
+    },
+    {
+      "stem": "Three hours after a flame burn to the face and neck in a closed garage, a client who was speaking normally on arrival now has a hoarse voice, faint inspiratory stridor, and drooling. SpO2 is 95% on a non-rebreather mask. Which action should the nurse take?",
+      "options": [
+        "Increase the head of the bed and recheck the airway in 30 minutes",
+        "Notify the provider immediately and prepare for emergent airway management",
+        "Encourage the client to cough and deep breathe to clear the secretions",
+        "Continue the non-rebreather because the saturation is within normal limits"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new hoarseness, stridor, drooling after a facial burn in an enclosed space. Analyze cues: thermal injury causes upper-airway edema that worsens over hours. Prioritize hypotheses: impending airway obstruction. Take action: escalate now and prepare for intubation before the airway closes. Evaluate outcomes: secured airway with stable oxygenation.",
+        "incorrect": [
+          "Raising the head of the bed is supportive, but stridor and drooling signal progressing upper-airway edema. Waiting risks complete obstruction.",
+          "Pulmonary toilet treats lower-airway secretions. It does not address obstructive edema in the upper airway.",
+          "A normal SpO2 is a late indicator of airway obstruction. The lecture warns not to wait for severe obstruction before escalating."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing four clients brought in after a warehouse fire. Which findings should the nurse recognize as indicators of smoke inhalation injury? Select all that apply.",
+      "options": [
+        "Singed eyebrows and nasal hair",
+        "Sputum flecked with black, sooty particles",
+        "Burns sustained while trapped in a closed storage room",
+        "Blanching red skin on the back of both hands",
+        "Pain rated 8/10 at a blistered shin wound",
+        "New hoarseness and noisy breathing"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the lecture lists enclosed-space flame injury, singed facial hair, and carbonaceous sputum, plus respiratory distress or evolving edema, as indicators of inhalation injury. Skin findings away from the airway do not point to inhalation injury, even when painful.",
+        "incorrect": [
+          "Correct—singed facial hair is a listed indicator.",
+          "Correct—carbonaceous sputum is a listed indicator.",
+          "Correct—flame injury in an enclosed space is a listed indicator.",
+          "Incorrect—this describes a superficial skin burn and does not suggest airway injury.",
+          "Incorrect—pain at a partial-thickness burn is expected and does not point to inhalation injury.",
+          "Correct—evolving airway edema or obstruction calls for urgent reassessment."
+        ]
+      }
+    },
+    {
+      "stem": "A client has confirmed lower-airway inhalation injury after bronchoscopy. The airway is patent, the client is on high-flow oxygen, and coarse rhonchi with thick, sooty secretions are present. Which intervention best addresses the client's current problem?",
+      "options": [
+        "Aggressive pulmonary toilet with coughing, deep breathing, and suctioning as needed",
+        "Keep the client flat and still to reduce oxygen demand",
+        "Repeat bronchoscopy every shift to evaluate healing",
+        "Limit suctioning to avoid irritating the injured airway"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: bronchoscopy-confirmed lower-airway injury, rhonchi, sooty secretions. Analyze cues: combustion products cause lower-airway injury with debris and secretions. Generate solutions: the lecture's treatment includes aggressive pulmonary toilet and close respiratory monitoring. Take action: coughing, deep breathing, and suctioning. Evaluate outcomes: clearer breath sounds and stable SpO2.",
+        "incorrect": [
+          "Immobility lets secretions pool and raises the risk of pneumonia. It works against the lecture's emphasis on pulmonary toilet.",
+          "Bronchoscopy is the definitive diagnostic test, not a routine treatment. Repeating it each shift does not clear secretions.",
+          "Thick combustion debris must be cleared. Holding back airway clearance risks obstruction and infection."
+        ]
+      }
+    },
+    {
+      "stem": "A burn-unit nurse receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A client 2 days after grafting who reports itching under the dressing",
+        "A client admitted 1 hour ago from a house fire with singed nasal hair whose voice is becoming hoarse",
+        "A client with a 20% TBSA scald whose urine output was 40 mL in the last hour",
+        "A client in the rehabilitation phase who is tearful about facial scarring"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a new enclosed-space fire victim with singed facial hair and a voice that is becoming hoarse. Analyze cues: these suggest progressing airway edema. Prioritize hypotheses: airway threat outranks circulation, wound, and psychosocial issues (ABCs). Take action: assess this client first and escalate airway concerns early.",
+        "incorrect": [
+          "Itching is common and not unstable. It still needs follow-up, but it is not the priority.",
+          "This output is reassuring for many adults. The client should be evaluated against the target, but it is not as urgent as a threatened airway.",
+          "Body-image distress needs therapeutic support, but it is not a threat to physiological stability."
+        ]
+      }
+    },
+    {
+      "stem": "A 35-year-old arrives after escaping an apartment fire through thick smoke. BP 104/68 mm Hg, HR 122/min, RR 32/min, SpO2 92% on a non-rebreather mask at 15 L/min, with burns to the chest and both arms. EMS placed an 18-gauge IV with LR infusing. Which nursing action is the priority?",
+      "options": [
+        "Calculate the TBSA with the Rule of Nines to set the LR rate",
+        "Insert an indwelling urinary catheter to begin hourly output measurement",
+        "Assess airway patency and breathing and prepare for possible CO poisoning",
+        "Give IV opioid analgesia for the burn pain and anxiety"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: smoke exposure in an enclosed space, RR 32, SpO2 92% on high-flow oxygen, tachycardia. Analyze cues: inhalation injury or CO poisoning may be developing. Prioritize hypotheses: airway and breathing threats come first in the primary survey (ABCDE). Take action: assess and protect the airway and continue high-concentration oxygen. Then confirm TBSA, LR rate, catheter, monitoring, analgesia, and warmth.",
+        "incorrect": [
+          "TBSA guides fluids and is needed soon. But it comes after the airway and breathing have been evaluated in a client with tachypnea and SpO2 of 92%.",
+          "This is part of the emergent plan but is a circulation-monitoring step. Airway and breathing come first.",
+          "Pain management matters, but opioids can depress breathing in a client whose airway and gas exchange have not been evaluated yet."
+        ]
+      }
+    },
+    {
+      "stem": "Eight hours after a circumferential full-thickness burn of the right forearm, the client's arm is tense. Capillary refill in the fingers is 5 seconds, the Doppler radial signal has weakened since the last check, and the client reports new numbness in the fingers. The arm is elevated. What should the nurse do?",
+      "options": [
+        "Loosen the dressing, lower the arm to heart level, and reassess in 1 hour",
+        "Notify the provider urgently of possible need for escharotomy",
+        "Apply warm compresses to the hand to improve circulation",
+        "Document the findings as expected edema and continue hourly checks"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: circumferential deep burn, delayed capillary refill, weakening Doppler signal, new paresthesia. Analyze cues: deep-burn edema can continue for up to 18 hours and act like a tourniquet, causing ischemia. Prioritize hypotheses: compartment compromise. Take action: notify the provider urgently; the lecture lists escharotomy or fasciotomy for severe cases. Evaluate outcomes: Doppler signal and capillary refill return after release.",
+        "incorrect": [
+          "Loosening the dressing is reasonable, but the problem is constricting eschar and edema. Waiting an hour while perfusion falls risks permanent ischemia.",
+          "Warmth does not relieve the mechanical compression. The burned tissue also cannot sense heat, which risks further injury.",
+          "Edema is expected, but falling pulses and new numbness mean the edema is acting like a tourniquet. This is an Analyze cues failure."
+        ]
+      }
+    },
+    {
+      "stem": "On day 2 of resuscitation for a 60% TBSA burn, a client on enteral feedings has gastric residuals that keep rising and a tense, distended abdomen. Bladder pressure has increased from the morning reading, serum lactate is 4.2 mmol/L, and urine output is falling. Which complication should the nurse suspect?",
+      "options": [
+        "Curling ulcer from physiologic stress",
+        "Expected paralytic ileus that will resolve with continued feedings",
+        "Fluid overload from remobilization of edema fluid",
+        "Abdominal compartment syndrome with GI and renal ischemia"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: massive resuscitation, feeding intolerance, rising bladder pressure, elevated lactate, oliguria. Analyze cues: the lecture names increased bladder pressure, increased serum lactate, and feeding intolerance as indicators of GI ischemia. Resuscitation and edema can cause abdominal compartment syndrome, and increased abdominal pressure can cause renal ischemia. Take action: hold the feeding and notify the provider urgently.",
+        "incorrect": [
+          "A Curling ulcer presents with GI bleeding, such as coffee-ground aspirate or a falling hemoglobin. It does not explain rising bladder pressure and lactate.",
+          "Ileus can cause feeding intolerance, but rising bladder pressure, lactate, and falling output point to organ ischemia. Continuing to feed is unsafe.",
+          "Remobilization occurs in the acute phase (48–72 hours or later) and usually brings diuresis, not falling output with rising abdominal pressure."
+        ]
+      }
+    },
+    {
+      "stem": "A client who touched a high-voltage line has a small entry wound on the hand and an exit wound on the foot. Two hours later, the urine in the catheter bag is dark reddish-brown, and output is 25 mL/h. Which action should the nurse anticipate?",
+      "options": [
+        "Reduce the LR rate because the small skin wounds suggest a minor injury",
+        "Send a urine culture and start an antibiotic for a suspected urinary tract infection",
+        "Increase fluids per protocol and notify the provider of possible myoglobinuria",
+        "Clamp the catheter for 1 hour to obtain a concentrated specimen"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: high-voltage injury with entry and exit wounds, dark reddish-brown urine, low output. Analyze cues: the lecture says muscle damage releases myoglobin, risking AKI, and RBC destruction causes hemoglobinuria. Generate solutions: replace fluid to restore renal blood flow. Take action: increase fluids per protocol and notify the provider. Evaluate outcomes: urine clearing in color and output rising.",
+        "incorrect": [
+          "Electrical burns damage deep tissue that the skin wounds do not show, which is why the lecture uses the 4 mL formula. Reducing fluids would worsen kidney injury.",
+          "Dark urine after muscle injury suggests myoglobin, not infection. Treating it as a UTI delays protecting the kidneys.",
+          "Clamping interrupts the hourly output monitoring that is central to evaluating resuscitation."
+        ]
+      }
+    },
+    {
+      "stem": "Five days after a 50% TBSA burn, a client's nasogastric aspirate turns coffee-ground in color. Hemoglobin has dropped from 10.8 to 9.1 g/dL, and HR has risen from 98 to 116/min. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "Anemia from surgical debridement blood loss, so the nurse should anticipate a transfusion",
+        "Paralytic ileus, so the nurse should increase NG suction and hold feedings",
+        "Curling ulcer from physiologic stress, which needs prompt provider notification",
+        "Swallowed blood from airway suctioning, so the nurse should document and keep monitoring"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: coffee-ground NG aspirate, falling hemoglobin, rising HR in a major burn. Analyze cues: the lecture defines Curling ulcer as gastric bleeding caused by massive physiologic stress. Prioritize hypotheses: upper GI bleed. Take action: notify the provider promptly and monitor hemodynamics. Evaluate outcomes: aspirate clears and HR and hemoglobin stabilize.",
+        "incorrect": [
+          "Debridement can cause anemia, but the coffee-ground aspirate places the bleeding in the stomach. Missing the source delays treatment.",
+          "Ileus means the gut is not moving and does not cause blood in the aspirate. This misreads the main cue.",
+          "Swallowed blood is possible, but a falling hemoglobin and rising HR mean active bleeding. Monitoring alone delays care."
+        ]
+      }
+    },
+    {
+      "stem": "After a 40-minute shower-cart dressing change, a client with 35% TBSA burns is shivering with a temperature of 35.6°C (96.1°F). The room thermostat is set at 22°C (72°F). Which change should the nurse make for future wound care?",
+      "options": [
+        "Shorten the session and keep the room at 22°C to reduce bacterial growth",
+        "Set the room to 26.6–29.4°C (80–85°F) and use water at 37.8°C (100°F)",
+        "Use cooler water to reduce pain and apply a warming blanket afterward",
+        "Give acetaminophen before wound care to blunt the shivering response"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: shivering and 35.6°C after prolonged wound exposure in a cool room. Analyze cues: loss of skin impairs temperature regulation, and early hypothermia is common. TBSA, IV fluids, and the environment all contribute. Take action: use the lecture's settings, a room at 26.6–29.4°C (80–85°F) and water at 37.8°C (100°F), plus external heat sources. Evaluate outcomes: normothermia after future dressing changes.",
+        "incorrect": [
+          "A shorter session helps, but a 22°C room ignores the cause. Burn clients lose heat through open wounds, and the lecture calls for a warmer room.",
+          "Cool water adds to heat loss during the procedure. The lecture specifies 37.8°C (100°F) water.",
+          "Acetaminophen does not treat heat loss. Shivering here is a sign of hypothermia, not fever."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is applying dressings to a client with partial- and full-thickness burns of both hands, the right arm circumferentially, and the face. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Wrap each finger individually",
+        "Wrap the circumferential arm dressing from the shoulder down toward the hand",
+        "Use lighter dressing layers over the elbow and wrist",
+        "Cover the facial burns with a bulky occlusive dressing",
+        "Keep the axilla and arm from resting against the trunk",
+        "Apply several layers of dry dressing over the forearm burns"
+      ],
+      "answer": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions/Take action: the lecture's dressing rules are several layers of dry dressing, lighter dressings over joints, circumferential wraps from distal to proximal, fingers and toes wrapped individually, the face left open to air, and burned surfaces kept from touching. Each rule protects the wound while preserving function.",
+        "incorrect": [
+          "Correct—individual wraps preserve finger mobility and keep burned surfaces from touching.",
+          "Incorrect—circumferential dressings go from distal to proximal. Wrapping downward pushes fluid into the hand and worsens distal edema.",
+          "Correct—lighter dressings over joints support mobility.",
+          "Incorrect—facial burns may be left open to air. Occlusive dressings are used for new skin grafts.",
+          "Correct—the lecture says to prevent body surfaces from touching, which reduces adhesion and maceration.",
+          "Correct—several layers of dry dressing are the lecture's standard covering."
+        ]
+      }
+    },
+    {
+      "stem": "A client with 40% TBSA full-thickness burns is 18 hours post-injury. BP is 84/50 mm Hg on vasopressor support, and urine output is below target. The surgeon's note reads \"Plan early excision and grafting.\" The OR schedules the case for this afternoon. Which action by the nurse is most appropriate?",
+      "options": [
+        "Prepare the client for surgery because early excision lowers the hypermetabolic response",
+        "Report the instability and clarify the timing of surgery with the surgeon",
+        "Increase the LR rate so the client is stable by the time of transport",
+        "Ask for chemical debridement to be started instead so surgery can be avoided"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypotension on vasopressors and oliguria at 18 hours. Analyze cues: early excision and closure are critical and reduce the inflammatory and hypermetabolic response. Surgery also carries extensive blood loss, a long operation, and anemia, and it is done once the client is hemodynamically stable. Take action: report the instability and clarify the timing with the surgeon.",
+        "incorrect": [
+          "Early excision is beneficial, but the lecture says surgical excision is done once the client is hemodynamically stable. Going now ignores the second cue.",
+          "Titrating fluids is reasonable, but the nurse cannot assume stability in time. The timing still needs to be clarified with the surgeon.",
+          "Choosing the debridement method is not a nursing decision, and the full-thickness burns will still need excision and grafting."
+        ]
+      }
+    },
+    {
+      "stem": "A client returns from surgery with a split-thickness autograft over the dorsum of the right hand and wrist. Which postoperative actions should the nurse include? Select all that apply.",
+      "options": [
+        "Keep the grafted hand elevated above heart level",
+        "Maintain the splint and occlusive, bulky dressing as applied",
+        "Begin active range-of-motion exercises of the wrist on postoperative day 1",
+        "Monitor the dressing for bleeding and signs of infection",
+        "Remove the dressing on day 1 to inspect graft adherence",
+        "Reposition the client so nothing rubs against or drags across the graft"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions/Take action: after grafting, the nurse protects the graft with occlusive, bulky dressings and splints, elevates it to limit edema, and monitors for bleeding, infection, and shearing. The first dressing change is at 3–5 days, and exercise of the grafted area begins at 5–7 days.",
+        "incorrect": [
+          "Correct—elevation limits edema that could lift the graft off the wound bed.",
+          "Correct—graft protection and joint immobilization prevent shearing.",
+          "Incorrect—the lecture starts exercise of the grafted area at 5–7 days. Early motion risks shearing the graft.",
+          "Correct—bleeding, infection, and shearing are the monitoring priorities.",
+          "Incorrect—the first dressing change occurs 3–5 days after surgery. Early removal can disrupt the graft.",
+          "Correct—avoiding friction and shearing forces protects graft adherence."
+        ]
+      }
+    },
+    {
+      "stem": "A client is on postoperative day 2 after a split-thickness autograft over the anterior knee. Which prescription should the nurse question?",
+      "options": [
+        "Physical therapy: active and passive knee range of motion twice daily starting today",
+        "Keep the knee immobilizer in place over the bulky dressing",
+        "Elevate the grafted leg on pillows",
+        "First dressing change on postoperative day 4"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: postoperative day 2, graft over a joint, exercise prescribed today. Analyze cues: the lecture starts exercise of the grafted area at 5–7 days after surgery. Moving the knee now creates shearing forces that can disrupt the graft. Take action: question the PT order and clarify the start date. Evaluate outcomes: graft adherence at the first dressing change.",
+        "incorrect": [
+          "Splinting joints protects the graft and is expected in the immediate postoperative period.",
+          "Elevation limits edema that could lift the graft off the bed, so it is appropriate.",
+          "This falls within the lecture's 3–5 day window for the first dressing change."
+        ]
+      }
+    },
+    {
+      "stem": "A client has porcine xenograft coverage over a large excised burn while awaiting autografting. On day 6, the nurse notes purulent drainage and a foul odor beneath the xenograft, and the client's temperature is 38.7°C (101.7°F). Which action should the nurse anticipate?",
+      "options": [
+        "Reinforce the dressing and recheck the site at the next scheduled change",
+        "Apply an occlusive dressing to lower evaporative loss until the autograft",
+        "Expect these signs as part of normal xenograft rejection and continue to monitor",
+        "Notify the provider and prepare for removal of the xenograft"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: purulent drainage, odor, fever under a temporary graft. Analyze cues: burns impair immune defenses, and the lecture says homografts and xenografts are removed if infection or rejection occurs. Take action: notify the provider and anticipate removal plus wound care and cultures per protocol. Evaluate outcomes: fever resolves and the wound bed is clean.",
+        "incorrect": [
+          "Reinforcing the dressing does not address the infection. Delaying risks spreading wound infection in an immunocompromised burn client.",
+          "Occluding an infected wound traps the bacteria. Reduced evaporative loss is a benefit of temporary grafts, not a treatment for infection.",
+          "Purulence, odor, and fever are signs of infection, not an expected finding. The lecture says to remove the graft when infection or rejection occurs."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a client about the split-thickness donor site on the thigh. Which client statement shows a need for further teaching?",
+      "options": [
+        "\"This spot may hurt as much as my burn, so I should ask for pain medicine before dressing care.\"",
+        "\"Since the donor site is a clean wound, I don't need to watch it for infection.\"",
+        "\"It should heal in about 1 to 2 weeks.\"",
+        "\"If more skin is needed later, this area may be harvested again once it heals.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: a donor site is a clean superficial wound created to obtain graft skin, but the lecture states donor sites are highly painful and susceptible to infection. Take action: re-teach the signs of infection and how to protect the dressing. Evaluate outcomes: the client correctly describes signs to report.",
+        "incorrect": [
+          "This is accurate. Donor sites are very painful.",
+          "This is accurate. Typical adult donor-site healing is 7–14 days.",
+          "This is accurate. The lecture notes reharvesting is possible when donor sites are limited."
+        ]
+      }
+    },
+    {
+      "stem": "A client with 30% TBSA burns receives a scheduled long-acting opioid and rates pain at 3/10 at rest. During yesterday's dressing change, pain rose to 9/10, and the client could not tolerate the procedure. Today's dressing change is in 30 minutes. Which action should the nurse take?",
+      "options": [
+        "Give a short-acting analgesic before the procedure, timed to peak during wound care",
+        "Give an extra dose of the long-acting opioid now",
+        "Postpone the dressing change until the pain at rest is 0/10",
+        "Use guided imagery during the procedure as the main pain strategy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: background pain controlled (3/10), procedural pain uncontrolled (9/10). Analyze cues: the lecture separates background pain (long-acting agents), breakthrough pain (short-acting agents), and procedural pain (planned analgesia). Take action: premedicate with a short-acting agent so it peaks during the procedure. Add distraction or imagery. Evaluate outcomes: the client tolerates the dressing change.",
+        "incorrect": [
+          "Long-acting agents provide steady background coverage. Their slow onset and long duration do not match brief, intense procedural pain and add to sedation risk.",
+          "Delaying wound care raises infection risk, and resting pain is already controlled. The problem is procedural pain.",
+          "Nonpharmacologic strategies are useful additions, but they are not enough alone for 9/10 procedural pain."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse revised a burn client's pain plan to include planned procedural analgesia and relaxation techniques. Which finding best shows the plan is effective?",
+      "options": [
+        "The client sleeps most of the day and requires frequent prompting to wake",
+        "The client completes the dressing change and performs the prescribed range of motion",
+        "The client stops asking for breakthrough medication after the first day",
+        "The client's heart rate during the dressing change is unchanged from yesterday"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the lecture tells the nurse to reassess pain after interventions and during procedures, and to evaluate whether the client can tolerate wound care, therapy, positioning, and mobility. Completing the dressing change and range of motion shows the analgesia supports the functional goals of care.",
+        "incorrect": [
+          "Sedation is not pain relief. Too much sedation is a safety concern and keeps the client from taking part in therapy.",
+          "Fewer requests can mean pain is relieved, but it can also mean fear of addiction or withdrawal. It is not a direct measure of function.",
+          "If HR was elevated yesterday, an unchanged HR means no improvement. Vital signs alone are not reliable measures of burn pain."
+        ]
+      }
+    },
+    {
+      "stem": "Ten days after a 45% TBSA burn, a client has lost 6 kg, the wounds are healing slowly, and the client eats less than half of each meal tray. HR is 112/min at rest, and temperature is 38.0°C (100.4°F) with negative cultures. Which plan should the nurse advocate for?",
+      "options": [
+        "A low-calorie, high-fiber diet to prevent ileus and constipation",
+        "A high-protein, high-calorie diet with supplemental enteral feeding",
+        "NPO status with IV fluids until appetite returns",
+        "Daily weights only, deferring diet changes until wounds are grafted"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: weight loss, slow healing, poor intake, resting tachycardia, and low-grade temperature with negative cultures. Analyze cues: the burn hypermetabolic response raises energy and protein needs, and the lecture lists modulating this response as an acute-phase priority. Generate solutions: high-protein, high-calorie intake with enteral supplementation, while watching feeding tolerance. Evaluate outcomes: weight stabilizes and wounds heal.",
+        "incorrect": [
+          "Calorie restriction worsens the catabolic, hypermetabolic state and slows healing.",
+          "Withholding nutrition deepens protein breakdown. The gut should be used unless there is ileus or ischemia, and nothing here suggests either.",
+          "Monitoring without action allows ongoing muscle wasting and further delays wound healing."
+        ]
+      }
+    },
+    {
+      "stem": "A client whose grafts have healed is being discharged with custom pressure garments. Which client statement shows a need for further teaching?",
+      "options": [
+        "\"I'll wear the garments about 23 hours a day and take them off to bathe.\"",
+        "\"The pressure helps my scars lie flatter by changing how the collagen lines up.\"",
+        "\"I'll wear them at night while I sleep, since that's when the scars form.\"",
+        "\"I'll gently massage my scars with moisturizer.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: wearing garments only at night gives about 8 hours of pressure, far short of the 23 hours a day the lecture recommends after grafts heal. Inconsistent pressure lets hypertrophic scarring progress. Take action: re-teach the wear schedule and the use of inserts for difficult areas. Evaluate outcomes: flatter, softer scars at follow-up.",
+        "incorrect": [
+          "This is correct. The lecture recommends a wear time of 23 hours a day.",
+          "This is correct. Pressure loosens collagen bundles and encourages parallel alignment.",
+          "This is correct. Gentle superficial scar massage with moisturizer is part of scar management."
+        ]
+      }
+    },
+    {
+      "stem": "At a 3-month follow-up, a client has a red, raised, firm scar over the elbow crease that stays within the borders of the original burn and limits full extension. Which conclusion and plan is most appropriate?",
+      "options": [
+        "Keloid scar; refer for excision because pressure therapy is ineffective",
+        "Normal scar maturation; no change in therapy is needed",
+        "Hypertrophic scar; reinforce pressure garments and stretching to prevent contracture",
+        "Graft rejection; notify the surgeon for urgent graft removal"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: red, raised, firm scar within the wound borders, over a joint, limiting extension. Analyze cues: these fit hypertrophic scarring, which is common over joints and in younger people, as opposed to a keloid, which extends beyond the margins. Take action: reinforce compression (23 hours a day), stretching and mobility to prevent contracture, and refer for reconstruction if function stays limited.",
+        "incorrect": [
+          "Keloids extend beyond the wound margins and are large, nodular, and rope-like. This scar stays within its borders.",
+          "The lecture states normal scars form within 7–10 days. A raised, firm scar that limits motion is not normal maturation.",
+          "Rejection applies to temporary homografts or xenografts during acute care. A healed scar 3 months later does not suggest it."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is planning rehabilitation-phase care for a client who had a 35% TBSA burn involving the neck, axillae, and hands. Which interventions are appropriate? Select all that apply.",
+      "options": [
+        "Encourage the client to take part in care and in decisions about the care plan",
+        "Plan for compression therapy to begin early after the grafts heal",
+        "Encourage the client to rest the hands until all wounds are fully mature",
+        "Refer the client and family to counseling and peer support programs",
+        "Delay body-image discussions until scarring is final, about 2 years from now",
+        "Teach self-care, home wound care, and follow-up needs"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions/Take action: rehabilitation begins immediately and aims for the highest possible function. Priorities are mobility and ADLs, prevention of contractures and hypertrophic scarring (early compression), adapting to body image, coping and family support with referrals, and teaching for self-care and follow-up.",
+        "incorrect": [
+          "Correct—this supports coping and adaptation, as the lecture recommends.",
+          "Correct—early compression helps prevent hypertrophic scarring.",
+          "Incorrect—prolonged immobility promotes contractures and muscle wasting. Mobility, activity tolerance, and ADLs are priorities.",
+          "Correct—the lecture recommends social services, psychological counseling, and structured peer support.",
+          "Incorrect—adaptation to altered body image is an active rehabilitation priority from the start. Delaying it misses grief, depression, and anger as they occur.",
+          "Correct—a lack of knowledge is a listed priority problem, and teaching prepares the client for discharge."
+        ]
+      }
+    },
+    {
+      "stem": "Three weeks after facial and hand burns, a client snaps at staff, refuses to look in a mirror, and says, \"Just leave me alone. What's the point? I'll never go back to work looking like this.\" Which response by the nurse is most therapeutic?",
+      "options": [
+        "\"You're very lucky to have survived. Try to focus on the positive.\"",
+        "\"Your scars will fade completely with the pressure garments, so try not to worry.\"",
+        "\"I'll come back later when you're feeling calmer.\"",
+        "\"It sounds like you're worried about how others will see you. Tell me more about what feels hardest.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: anger, refusing to look at the injury, hopeless statements about the future. Analyze cues: grief, depression, anger, and regression are common responses, and body-image disturbance is a priority problem. Take action: acknowledge the feelings, explore them with open-ended questions, set realistic expectations, and refer to counseling or peer support. Evaluate outcomes: the client begins to discuss concerns and takes part in care.",
+        "incorrect": [
+          "This dismisses the client's grief and blocks expression of feelings. It is a nontherapeutic response.",
+          "This is false reassurance. Scars can improve but may not fade completely, and the lecture stresses realistic expectations.",
+          "Respecting space can be appropriate, but leaving without exploring the hopeless statement misses a cue that may need assessment and referral."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching the spouse of a client in a burn center about infection prevention. Which statement by the spouse shows a need for further teaching?",
+      "options": [
+        "\"I'll wash my hands and put on the gown before I go into the room.\"",
+        "\"If I wake up with a sore throat and fever, I'll call instead of visiting.\"",
+        "\"Once the dressings are on, it's okay for me to bring in fresh flowers and a plant.\"",
+        "\"Burns weaken the body's defenses, so even small germs can cause problems.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: burn injury impairs immune defenses, and open wounds increase environmental exposure, which is why burn centers keep an infection-controlled environment. Fresh flowers and potted plants carry soil and water organisms, and dressings do not remove that risk. Take action: re-teach which items are allowed in the room. Evaluate outcomes: no visitor-introduced infection sources.",
+        "incorrect": [
+          "This is correct. Hand hygiene and barriers support the infection-controlled environment.",
+          "This is correct. Ill visitors pose an infection risk to a client with compromised immunity.",
+          "This is correct. Burns change immune defenses, and lost skin increases environmental exposure."
+        ]
+      }
+    },
+    {
+      "stem": "A client arrives after an electrical injury at work, with a small charred wound on the palm and another on the heel. The client is alert, says, \"It's just a little burn,\" and wants to go home. Which action is the priority?",
+      "options": [
+        "Clean and dress the two small wounds and arrange outpatient follow-up",
+        "Calculate fluids with the thermal formula because the TBSA is very small",
+        "Initiate continuous cardiac monitoring and assess the urine for dark discoloration",
+        "Apply cool compresses to the entry and exit sites to limit tissue damage"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: entry and exit wounds from electrical current, which seem minor. Analyze cues: current travels through deep tissue, so the visible burns understate the injury. This is why the lecture uses a higher fluid formula (4 mL) and warns about myoglobin-related AKI. Prioritize hypotheses: dysrhythmia and hidden muscle damage. Take action: continuous cardiac monitoring and urine assessment, and correct the client's misconception.",
+        "incorrect": [
+          "The skin wounds greatly underestimate the deep tissue damage along the current's path. Discharge ignores the cardiac and renal risks.",
+          "The lecture uses 4 mL × kg × %TBSA for electrical burns, not the thermal formula. Fluids are also adjusted based on response, including urine findings.",
+          "This is not part of the lecture's first aid and does nothing for the internal injury. It also adds to hypothermia risk."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing contracture prevention with a client who has healing burns on the anterior neck and both axillae. Which client statement shows a need for further teaching?",
+      "options": [
+        "\"I'll keep doing my arm exercises even though they hurt a bit.\"",
+        "\"I'll use my hands for eating and grooming as much as I can.\"",
+        "\"I'll keep the pressure garment on my neck except when bathing.\"",
+        "\"Two pillows under my head and my arms at my sides feel best, so I'll stay that way.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: anterior neck and axillary burns. Analyze cues: a comfortable position of flexion lets scars shorten across the joint, and the lecture names contractures and hypertrophic scarring as rehabilitation priorities that call for positioning and early mobility. Take action: teach neck extension with no pillow, or a minimal one, and arms abducted away from the trunk. Evaluate outcomes: full neck and shoulder range of motion is kept.",
+        "incorrect": [
+          "This is correct. Pain with exercise is expected, and mobility prevents contracture.",
+          "This is correct. Using the hands in ADLs promotes function and endurance.",
+          "This is correct. Continuous compression, about 23 hours a day, limits hypertrophic scarring."
+        ]
+      }
+    }
+  ]
+}

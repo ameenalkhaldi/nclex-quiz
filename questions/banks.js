@@ -35,7 +35,11 @@ window.NCLEX_DATA = {
     "peds-wk2-infant-newborn": "Peds: Week 2 — Infant Development & Newborns at Risk",
     "peds-wk3-early-childhood": "Peds: Week 3 — Toddler & Preschool Development",
     "peds-wk4-school-adolescent": "Peds: Week 4 — School-Age & Adolescent",
-    "peds-wk5-infectious-respiratory": "Peds: Week 5 — Infectious & Respiratory Disorders"
+    "peds-wk5-infectious-respiratory": "Peds: Week 5 — Infectious & Respiratory Disorders",
+    "acute2-shock": "Acute 2: Week 5 — Shock",
+    "acute2-burns": "Acute 2: Week 6 — Burns",
+    "acute2-respiratory": "Acute 2: Week 7 — Acute Respiratory",
+    "acute2-gi": "Acute 2: Week 8 — Acute GI"
   },
   "banks": {
     "upper-gi": [
@@ -21766,6 +21770,3405 @@ window.NCLEX_DATA = {
           "Incorrect—high sweat chloride means salt is lost in sweat, so sodium replacement is encouraged as directed."
         ],
         "type": "sata"
+      }
+    ],
+    "acute2-shock": [
+      {
+        "stem": "A 68-year-old client is 6 hours post hip arthroplasty. BP 124/78 mm Hg (baseline 128/80), HR 112/min (was 84), RR 24/min, and urine output has fallen from 60 mL/hr to 20 mL/hr over the past 2 hours. The client is restless and keeps asking, \"Is something wrong?\" Which conclusion should guide the nurse's next action?",
+        "options": [
+          "The client is anxious about postoperative pain, and the tachycardia and restlessness should settle once pain is controlled",
+          "The client has entered the progressive stage of shock because urine output has fallen and the HR is above 110",
+          "The client is likely in the compensatory stage of shock, with tachycardia and vasoconstriction holding the BP in the normal range",
+          "The client is mildly dehydrated from preoperative NPO status, so oral fluids and a recheck in 4 hours are appropriate"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Pain can raise the HR, but it does not explain a urine output that has dropped by two-thirds. This anchors on one cue and skips Analyze cues, which delays recognition of shock.",
+          "Falling urine output and tachycardia are compensatory-stage findings. The progressive stage is defined by SBP below 100 mm Hg or a 40 mm Hg drop from baseline, with declining mental status; the BP here is only 4 mm Hg below baseline.",
+          "CJMM — Recognize cues: rising HR, rising RR, falling urine output, and a new fight-or-flight restlessness. Analyze cues: in the compensatory stage, vasoconstriction and a faster HR keep cardiac output and BP within normal limits, so a normal BP does not rule out shock. Prioritize hypotheses: early hypovolemic shock from surgical blood loss is the dangerous explanation. Take action: report the trend, look for the cause, and increase the frequency of vital signs, mental status, and urine-output checks.",
+          "Encouraging oral fluids and waiting 4 hours treats the cues as a minor problem. The cluster of rising HR and RR with falling urine output after surgery needs prompt reporting and closer monitoring, not a delayed recheck."
+        ]
+      },
+      {
+        "stem": "The nurse is caring for four clients being treated for shock. Which client should the nurse recognize as having progressed to the progressive stage?",
+        "options": [
+          "A client with chronic hypertension (baseline 168/94 mm Hg) whose BP is now 124/70 mm Hg, HR 118/min, who is newly confused with rapid, shallow respirations",
+          "A client with a baseline BP of 112/70 mm Hg whose BP is now 104/66 mm Hg, HR 108/min, alert, with decreased urine output",
+          "A client with a baseline BP of 100/60 mm Hg whose BP is now 102/64 mm Hg, HR 96/min, anxious but oriented",
+          "A client with a baseline BP of 130/80 mm Hg whose BP is now 118/74 mm Hg, HR 110/min, RR 24/min, urine output 25 mL/hr, alert"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a 44 mm Hg fall in systolic pressure from baseline, new confusion, and rapid, shallow breathing. Analyze cues: the progressive stage is SBP below 100 mm Hg OR a 40 mm Hg decrease from baseline, along with declining mental status and rapid, shallow respirations. A reading of 124 looks normal but is a large drop for this client. Prioritize hypotheses: this client has moved past compensation and needs ICU-level care, airway support, and continuous ECG monitoring.",
+          "The SBP is still above 100 mm Hg and has dropped only 8 mm Hg. With an alert client, tachycardia and decreased urine output fit the compensatory stage.",
+          "This SBP sits at the client's own normal and has not fallen. Anxiety with a mildly raised HR is a fight-or-flight compensatory sign, not progressive shock.",
+          "Tachycardia, tachypnea, and low urine output with a 12 mm Hg drop and intact mentation are compensatory findings. They need close watching, but they do not meet the progressive-stage criteria."
+        ]
+      },
+      {
+        "stem": "A client in septic shock has these arterial blood gas results: pH 7.28, PaCO2 29 mm Hg, HCO3- 15 mEq/L. Serum lactate is 5.2 mmol/L and RR is 30/min. Which interpretation is most accurate?",
+        "options": [
+          "Metabolic acidosis from lactic acid buildup, with partial respiratory compensation through rapid breathing",
+          "Respiratory alkalosis from anxiety-driven hyperventilation, with metabolic compensation by the kidneys",
+          "Metabolic acidosis from lactic acid buildup that is fully compensated by the increased respiratory rate",
+          "Respiratory acidosis from respiratory muscle fatigue, showing that the client needs immediate intubation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: low pH, low HCO3-, low PaCO2, high lactate, and a fast respiratory rate. Analyze cues: inadequate oxygen delivery forces anaerobic metabolism, which makes less ATP and produces lactic acid, so the primary disorder is metabolic acidosis. The lungs blow off CO2 to compensate, but the pH is still acidotic, so compensation is only partial. Prioritize hypotheses: worsening tissue hypoperfusion. Evaluate outcomes: a falling lactate and a pH moving toward normal would show that perfusion is improving.",
+          "The pH of 7.28 is acidotic, not alkalotic. The low PaCO2 is the compensation, not the primary problem; this misreads which value drives the pH.",
+          "The primary disorder is correct, but full compensation would bring the pH back to 7.35–7.45. A pH of 7.28 means compensation is only partial and the acidosis is still uncorrected.",
+          "Respiratory acidosis requires a high PaCO2. A PaCO2 of 29 mm Hg is low, so the lungs are compensating. Fatigue is a later risk to watch for, but it is not what these values show."
+        ]
+      },
+      {
+        "stem": "A client is in the ICU on day 2 of progressive shock. The nurse notes new coffee-ground drainage in the nasogastric canister and oozing around the arterial line and two IV sites. Which conclusion and action are most appropriate?",
+        "options": [
+          "These are expected effects of the arterial line and NG suction; document them and continue routine monitoring",
+          "These show the client has entered the irreversible stage, so the nurse should request a palliative care consult",
+          "The NG tube is irritating the gastric mucosa; reposition the tube and irrigate it with saline",
+          "These suggest stress-ulcer bleeding and abnormal clotting from progressive shock; report them now"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Coffee-ground drainage is digested blood, and oozing from several sites is not expected. Treating these as routine skips Analyze cues and misses two progressive-stage complications.",
+          "The irreversible stage is defined by no response to treatment, worsening acidosis, and multiple organ failure. Bleeding complications in the progressive stage call for active treatment first; jumping to palliative care is premature.",
+          "This explains only the gastric finding and ignores the oozing from the line and IV sites. A local cause cannot account for bleeding in several places at once.",
+          "CJMM — Recognize cues: coffee-ground NG drainage plus new oozing from several puncture sites. Analyze cues: in the progressive stage, hypoperfusion of the GI mucosa causes stress ulcers and GI bleeding, and abnormal clotting can develop. Two systems bleeding at once points to a systemic process, not a local one. Prioritize hypotheses: a shock-related GI bleed and coagulopathy, both of which worsen perfusion. Take action: report now so the team can check clotting and blood counts and plan replacement."
+        ]
+      },
+      {
+        "stem": "An 82-year-old client with urosepsis is in the compensatory stage of shock on a medical unit. The client is intermittently confused and keeps trying to get out of bed. Which interventions should the nurse include in the plan of care? Select all that apply.",
+        "options": [
+          "Reorient the client and round frequently",
+          "Implement fall precautions",
+          "Clarify the client's advance directives with the client and family",
+          "Assess vital signs, GCS, lactate, and urine output frequently",
+          "Apply bilateral wrist restraints to keep the client in bed",
+          "Hold IV fluids until the systolic BP falls below 100 mm Hg"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—reorientation and frequent rounding are safety measures named for the compensatory stage, when mental status can fluctuate.",
+          "Correct—confusion with attempts to get up creates a fall risk; fall precautions are part of compensatory-stage management.",
+          "Correct—clarifying advance directives early, while the client may still take part, is a compensatory-stage action because shock can progress unpredictably.",
+          "Correct—frequent assessment of these is the core monitoring for catching progression to the progressive stage.",
+          "Incorrect—restraints do not treat the cause of confusion, can increase agitation, and are not a first-line measure. Reorientation, rounding, and fall precautions come first.",
+          "Incorrect—IV fluids may be needed in the compensatory stage, while BP is still normal. Waiting for hypotension lets shock progress; this misreads the normal BP as reassuring."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The family of a client in the irreversible stage of septic shock meets with the nurse. Which statement by a family member indicates a need for further teaching?",
+        "options": [
+          "\"The team is still supporting him, but the treatments may not be able to reverse what is happening.\"",
+          "\"The palliative care team can help keep him comfortable while we decide what comes next.\"",
+          "\"If the medicine brings his blood pressure up, that means his organs will start to recover.\"",
+          "\"We can ask whether he might qualify for any experimental treatments.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is accurate. Care at first looks like progressive-stage support, but the defining feature of the irreversible stage is that the client does not respond to treatment.",
+          "This is accurate. Engaging palliative care and providing comfort measures are part of irreversible-stage care.",
+          "CJMM — Recognize cues: the family links a better BP reading to organ recovery. Analyze cues: in the irreversible stage, the client does not respond to treatment, acidosis worsens, and multiple organs are failing. A single vital sign does not show that organs are recovering. Generate solutions: teach that the team judges response by the whole picture (mental status, urine output, lactate, organ function) and that comfort, palliative care, and family support are now central. Take action: correct the misunderstanding gently and involve palliative care.",
+          "This is accurate. The lecture notes that a client in the irreversible stage may qualify for experimental interventions."
+        ]
+      },
+      {
+        "stem": "A client with septic shock is on day 3 of treatment. MAP is 68 mm Hg on norepinephrine. Over 24 hours, creatinine has risen from 1.0 to 2.6 mg/dL, urine output is 15 mL/hr, platelets have fallen from 210,000 to 68,000/mm3, and the client is newly confused. Which conclusion should the nurse communicate to the provider?",
+        "options": [
+          "The MAP is at goal, so perfusion is adequate and the lab changes most likely reflect normal variation",
+          "The client has isolated acute kidney injury from the antibiotics and needs the doses adjusted",
+          "The client is developing multiple organ dysfunction syndrome even though the MAP target is being met",
+          "The client is showing expected side effects of norepinephrine, so the infusion should be weaned"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Changes of this size in three systems are not lab variation. This relies on one vital sign, which the guide warns against, and skips Evaluate outcomes.",
+          "Drug-related kidney injury is possible, but this explanation ignores the falling platelets and new confusion. Two or more failing organs point to MODS, not a single-organ drug effect.",
+          "CJMM — Recognize cues: kidney decline (rising creatinine, low urine output), a falling platelet count, and new confusion while the MAP is at goal. Analyze cues: MODS is dysfunction of two or more organs and is the end point of untreated or refractory shock. Prioritize hypotheses: organ perfusion is failing despite a BP at goal, so MAP alone is not showing the true picture. Take action: report the multi-system decline. Evaluate outcomes: the response to shock treatment must be judged by organ function, urine output, mental status, and lactate, not one number.",
+          "Weaning the vasopressor would drop the MAP below goal and worsen perfusion. These findings show organ failure, not an expected drug effect."
+        ]
+      },
+      {
+        "stem": "A client admitted with a GI bleed has BP 116/72 mm Hg and HR 104/min, unchanged from 4 hours ago. Serum lactate was 2.4 mmol/L on admission and is now 4.1 mmol/L. Which conclusion should guide the nurse's action?",
+        "options": [
+          "The stable BP shows perfusion is adequate, so the lactate should be redrawn with the morning labs",
+          "The rise most likely reflects the client's activity and shivering, so the nurse should warm the client and recheck in 4 hours",
+          "A rising lactate shows that aerobic metabolism is resuming as perfusion improves",
+          "Tissue hypoperfusion is worsening, with more anaerobic metabolism, even though the BP has not changed; report the trend now"
+        ],
+        "answer": 3,
+        "explanations": [
+          "A normal BP does not rule out shock. Waiting until morning ignores the most sensitive cue here and skips Analyze cues.",
+          "Muscle activity can raise lactate slightly, but in a client with an active bleed the safer hypothesis is hypoperfusion. This picks a benign explanation over the dangerous one.",
+          "This reverses the physiology. Lactate builds up during anaerobic metabolism, so a rising value means perfusion is worsening, not improving.",
+          "CJMM — Recognize cues: a rising lactate while BP and HR stay the same. Analyze cues: when cells lack oxygen they switch to anaerobic metabolism, which makes less ATP and produces lactic acid. A rising lactate shows that perfusion is getting worse, and compensation can hold the BP normal while this happens. Prioritize hypotheses: ongoing blood loss with worsening shock. Take action: report the lactate trend. Evaluate outcomes: a falling lactate, not a stable BP, is the sign that treatment is working."
+        ]
+      },
+      {
+        "stem": "A client from a motor vehicle crash has an open femur fracture with ongoing bleeding. BP 92/60 mm Hg, HR 128/min. EMS placed a 22-gauge IV in the hand. The provider prescribes rapid crystalloid and blood replacement. Which action should the nurse take?",
+        "options": [
+          "Insert two large-bore peripheral IVs (18-gauge or larger) and use them for the resuscitation",
+          "Start the crystalloid through the existing 22-gauge IV with the pump at its maximum rate",
+          "Insert one 20-gauge IV in the antecubital space for blood and run crystalloid through the 22-gauge",
+          "Insert one 18-gauge IV and save the 22-gauge for medications"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: active hemorrhage, tachycardia, and only a small-bore hand IV. Analyze cues: flow through a catheter depends heavily on its diameter, and hemorrhagic shock needs rapid volume and blood. Generate solutions: the lecture calls for two or more large-bore peripheral IVs (18-, 16-, or 14-gauge) and/or large-bore central access. Take action: place two large-bore lines before starting rapid replacement.",
+          "A pump cannot overcome the narrow lumen of a 22-gauge catheter, and blood products infuse poorly through it. This acts on the existing access instead of generating the right solution.",
+          "A 20-gauge is not large-bore by the lecture's definition. Both lines would be too small for rapid hemorrhage resuscitation.",
+          "An 18-gauge is large-bore, but the lecture specifies two or more. One large-bore line cannot run fluids and blood products quickly at the same time. The idea is right but the access is incomplete."
+        ]
+      },
+      {
+        "stem": "A client with a pelvic fracture is still bleeding after 1 L of lactated Ringer's. BP is 78/50 mm Hg, HR 136/min, and the client is becoming difficult to arouse. Which intervention should the nurse anticipate next?",
+        "options": [
+          "A second 1 L crystalloid bolus, with a third if the BP stays low",
+          "Activation of the massive transfusion protocol with plasma, platelets, and PRBCs in a 1:1:1 ratio",
+          "PRBCs alone until the hemoglobin is back above 10 g/dL",
+          "Plasma and PRBCs at 1:1, holding platelets until the count falls below 50,000/mm3"
+        ],
+        "answer": 1,
+        "explanations": [
+          "More crystalloid dilutes red cells and clotting factors without restoring oxygen delivery. The lecture moves to blood products after about 1 L in hemorrhage.",
+          "CJMM — Recognize cues: ongoing hemorrhage, worsening hypotension and tachycardia, and declining mental status after 1 L of crystalloid. Analyze cues: in hemorrhagic shock the lecture gives about 1 L of crystalloid, then moves to a massive transfusion protocol, because crystalloid does not replace oxygen-carrying capacity or clotting factors. Take action: prepare for massive transfusion at 1:1:1 plasma:platelets:PRBCs. Evaluate outcomes: watch for transfusion reactions and fluid overload.",
+          "PRBCs restore oxygen-carrying capacity but not clotting factors or platelets, so bleeding continues. Massive transfusion uses a balanced 1:1:1 ratio.",
+          "The lecture's ratio includes platelets from the start (1:1:1). Waiting for the platelet count to fall delays treatment of the coagulopathy that massive hemorrhage causes."
+        ]
+      },
+      {
+        "stem": "A client with 2 days of severe vomiting and diarrhea has BP 84/52 mm Hg, HR 126/min, and dry mucous membranes. The provider writes these prescriptions. Which one should the nurse question?",
+        "options": [
+          "Insert two 18-gauge peripheral IVs",
+          "Obtain a serum lactate level",
+          "Insert an indwelling urinary catheter to measure hourly urine output",
+          "Infuse 1,000 mL of dextrose 5% in water (D5W) as a rapid bolus"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is appropriate. Two or more large-bore IVs are the lecture's access for hypovolemic shock.",
+          "This is appropriate. Lactate shows the degree of hypoperfusion and provides a baseline for judging response.",
+          "This is appropriate. Urine output is a key indicator of perfusion that the nurse trends during resuscitation.",
+          "CJMM — Recognize cues: non-hemorrhagic hypovolemic shock from GI losses. Analyze cues: the lecture's fluids for non-hemorrhagic hypovolemia are 0.9% normal saline or lactated Ringer's. D5W acts as free water once the dextrose is metabolized and spreads into all body compartments, so very little stays in the vessels. Generate solutions: an isotonic crystalloid is needed. Take action: clarify the order and request NS or LR."
+        ]
+      },
+      {
+        "stem": "A client with suspected hypovolemic shock is semirecumbent. The nurse performs a passive leg raise, lifting the legs to about 45 degrees. Before: BP 86/54 mm Hg, HR 122/min. One minute into the raise: BP 102/62 mm Hg, HR 110/min. How should the nurse interpret this?",
+        "options": [
+          "The rise in BP with more preload shows that the shock is cardiogenic",
+          "The client should stay in the leg-raised position as the treatment for hypotension",
+          "Fluids are no longer needed because the BP is now above 100 mm Hg systolic",
+          "The client is likely fluid responsive, so additional volume replacement is indicated"
+        ],
+        "answer": 3,
+        "explanations": [
+          "A failing pump typically does not raise its output when preload increases. A positive response points toward volume depletion, not pump failure.",
+          "The passive leg raise is an assessment test, not a treatment. Its effect is brief, so the volume deficit still has to be replaced.",
+          "The higher BP depends on the legs being raised and reverses when they are lowered. It tells the nurse that more fluid will help, not that the deficit is fixed.",
+          "CJMM — Recognize cues: BP rises and HR falls when the legs are raised. Analyze cues: the passive leg raise briefly shifts blood from the legs back to the heart, like a small reversible fluid bolus. A rise in BP shows the heart can use more preload, so the client is fluid responsive. Take action: report the result and anticipate more crystalloid or blood. Evaluate outcomes: keep reassessing BP, urine output, and lactate."
+        ]
+      },
+      {
+        "stem": "A client in hemorrhagic shock has received 2 units of PRBCs and 1 L of crystalloid. Which set of findings best shows that tissue perfusion is improving?",
+        "options": [
+          "BP up from 88/50 to 104/64 mm Hg, while HR stays at 128/min and the client is newly confused",
+          "Hemoglobin up from 7.2 to 8.1 g/dL, and the client reports feeling thirsty",
+          "Urine output up from 15 to 45 mL/hr, the client now alert and oriented, and lactate down from 4.2 to 2.1 mmol/L",
+          "Skin warmer on the trunk, with lactate rising from 3.0 to 3.6 mmol/L"
+        ],
+        "answer": 2,
+        "explanations": [
+          "One improved number is offset by persistent tachycardia and declining mental status, which are worsening findings. This judges response from a single vital sign.",
+          "A rise in hemoglobin confirms the transfusion was received, but it does not measure perfusion. Thirst suggests continuing volume deficit.",
+          "CJMM — Evaluate outcomes: the guide warns against judging response from one vital sign and asks the nurse to reassess the whole client and compare trends. Better urine output (kidney perfusion), better mental status (brain perfusion), and a falling lactate (less anaerobic metabolism) together show that perfusion at the tissue level is improving.",
+          "A rising lactate means anaerobic metabolism is increasing and perfusion is worsening. That outweighs a small change in skin temperature."
+        ]
+      },
+      {
+        "stem": "A client with a history of heart failure is being resuscitated for hypovolemic shock and has received 3 L of normal saline. The client now has RR 30/min, bilateral crackles, SpO2 88%, and jugular venous distention. What should the nurse do first?",
+        "options": [
+          "Increase the infusion rate because tachypnea shows the client is still volume depleted",
+          "Request a chest X-ray and continue the current rate until the results return",
+          "Hang the next scheduled unit of PRBCs, then reassess lung sounds",
+          "Slow the infusion to a keep-vein-open rate, raise the head of the bed, and notify the provider"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Tachypnea here comes with crackles and JVD, which point to overload. More fluid would worsen pulmonary edema; this misreads the cue.",
+          "Imaging may be ordered, but continuing the fluid while waiting lets the overload worsen. The nurse acts on the clinical cues first.",
+          "Adding more volume before addressing overload is unsafe. Reassessment comes after the infusion is slowed and the provider is told.",
+          "CJMM — Recognize cues: new crackles, tachypnea, hypoxemia, and JVD after large-volume fluids in a client with heart failure. Analyze cues: the lecture names fluid overload as a complication to watch for during volume replacement. Prioritize hypotheses: pulmonary congestion from fluid overload is now the more immediate threat. Take action: stop adding volume, position the client to ease breathing, and report. Evaluate outcomes: watch the SpO2, work of breathing, and lung sounds."
+        ]
+      },
+      {
+        "stem": "Fifteen minutes into a PRBC transfusion for hemorrhagic shock, a client's temperature rises from 37.0 to 38.9 °C. The client reports chills and low back pain, and the BP drops from 104/66 to 88/54 mm Hg. What is the nurse's first action?",
+        "options": [
+          "Slow the transfusion, give acetaminophen, and recheck the temperature in 15 minutes",
+          "Notify the blood bank to send a new unit while the current unit finishes",
+          "Give diphenhydramine and continue the transfusion at a slower rate",
+          "Stop the transfusion and keep the IV open with 0.9% normal saline through new tubing"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Slowing it still delivers incompatible blood. Fever with back pain and hypotension is not a minor febrile reaction to manage at the bedside.",
+          "Notifying the blood bank is part of the response, but continuing the suspect unit is unsafe. Stopping the transfusion comes first.",
+          "An antihistamine treats mild allergic (itching, hives) reactions. It does not treat fever with hypotension and back pain.",
+          "CJMM — Recognize cues: fever, chills, back pain, and a falling BP early in a transfusion. Analyze cues: these suggest an acute transfusion reaction, which the lecture names as a complication to watch for during blood replacement. Prioritize hypotheses: a hemolytic reaction is life-threatening and worsens with every milliliter given. Take action: stop the blood first, keep IV access with NS, then notify the provider and blood bank. Evaluate outcomes: monitor vital signs and urine output."
+        ]
+      },
+      {
+        "stem": "A 70-kg client has an estimated blood volume of 70 mL/kg. After an intraoperative bleed, the client's estimated blood loss is 1,100 mL. Which conclusion is correct?",
+        "options": [
+          "About 11%, which is below the range associated with hypovolemic shock",
+          "About 22%, which is within the 15–30% range associated with hypovolemic shock",
+          "About 32%, which is above the 15–30% range",
+          "About 45%, which is consistent with the irreversible stage"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This answer would require a blood volume of about 10,000 mL, twice the real 4,900 mL. 1,100 ÷ 4,900 is about 22%, not 11%.",
+          "CJMM — Analyze cues: blood volume = 70 kg × 70 mL/kg = 4,900 mL. Loss = 1,100 ÷ 4,900 ≈ 22%. The lecture states that hypovolemic shock occurs when intravascular volume falls by 15–30%. Prioritize hypotheses: this client is within that range, so the nurse expects compensatory signs (tachycardia, tachypnea, falling urine output) even if the BP is normal. Take action: monitor closely and prepare for volume replacement.",
+          "This overestimates the loss. 32% of 4,900 mL would be about 1,570 mL.",
+          "This is a calculation error. Shock stage is also judged by clinical findings and response to treatment, not by percentage of loss alone."
+        ]
+      },
+      {
+        "stem": "The nurse is reviewing assigned clients. Which clients should the nurse monitor most closely for hypovolemic shock? Select all that apply.",
+        "options": [
+          "A client with diabetes insipidus whose urine output is 400 mL/hr",
+          "A client with necrotizing pancreatitis and abdominal distention",
+          "A client with burns over 40% of the body",
+          "A client with cirrhosis and rapidly worsening ascites",
+          "A client with an acute anterior MI and new crackles",
+          "A client with a new T2 spinal cord injury"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—diuresis from diabetes insipidus is an external fluid loss listed as a cause of hypovolemic shock.",
+          "Correct—necrotizing pancreatitis shifts fluid out of the vessels internally, causing hypovolemia without visible loss.",
+          "Correct—burns cause large internal fluid shifts out of the intravascular space.",
+          "Correct—ascites is an internal fluid shift listed as a cause of hypovolemic shock.",
+          "Incorrect—an MI with crackles points to pump failure, which is cardiogenic shock, not volume loss. Giving this client hypovolemic-style fluids could worsen pulmonary congestion.",
+          "Incorrect—a high spinal cord injury puts the client at risk for neurogenic (distributive) shock, which presents with hypotension and bradycardia, not hypovolemic shock."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is orienting a new graduate who is caring for a client in hemorrhagic shock. Which statement by the new graduate indicates a need for further teaching?",
+        "options": [
+          "\"I'll watch for crackles and shortness of breath as signs of fluid overload during resuscitation.\"",
+          "\"I'll keep giving liters of saline until the blood pressure is normal before we think about blood products.\"",
+          "\"Two or more large-bore IVs let us give fluids and blood quickly.\"",
+          "\"A falling lactate and rising urine output will tell me perfusion is getting better.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. The lecture lists fluid overload as a complication to monitor during volume replacement.",
+          "CJMM — Generate solutions: in hemorrhagic shock the lecture gives about 1 L of crystalloid, then moves to a massive transfusion protocol (1:1:1 plasma:platelets:PRBCs). Large volumes of saline dilute red cells and clotting factors and raise the risk of fluid overload without restoring oxygen-carrying capacity. Take action: correct the plan so blood replacement begins early. This statement is the one that needs teaching.",
+          "This is correct. The lecture specifies two or more large-bore (18-, 16-, or 14-gauge) peripheral IVs and/or central access.",
+          "This is correct. These are the trends the lecture emphasizes for evaluating treatment."
+        ]
+      },
+      {
+        "stem": "A client is 6 hours after an anterior STEMI. BP 82/56 mm Hg, HR 118/min, crackles halfway up both lung fields, SpO2 89%, cool clammy skin, and urine output 15 mL/hr. Which prescription should the nurse question?",
+        "options": [
+          "Dobutamine infusion titrated to the prescribed hemodynamic goals",
+          "Continuous ECG monitoring",
+          "0.9% normal saline 2,000 mL IV over 30 minutes",
+          "Prepare the client for percutaneous coronary intervention"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is appropriate. Dobutamine is an inotrope that strengthens contraction, which is the core drug therapy for cardiogenic shock in the lecture.",
+          "This is appropriate. Dysrhythmias and ischemia can both cause and worsen cardiogenic shock, so the rhythm is monitored continuously.",
+          "CJMM — Recognize cues: hypotension, cool clammy skin, and low urine output plus crackles and hypoxemia after a large MI. Analyze cues: this is cardiogenic shock. The pump cannot move blood forward, so it backs up into the lungs. Prioritize hypotheses: a rapid 2-L bolus would worsen pulmonary congestion. The lecture stresses that IV fluids are used cautiously in cardiogenic shock. Take action: clarify the bolus before giving it.",
+          "This is appropriate. PCI treats the underlying cause by restoring coronary blood flow."
+        ]
+      },
+      {
+        "stem": "A client in the ICU has these hemodynamic values: BP 84/60 mm Hg, HR 120/min, cardiac output 2.6 L/min, CVP 15 mm Hg, PAWP 26 mm Hg, SVR 1,800 dynes/sec/cm-5. Bilateral crackles are present. Which type of shock do these findings indicate?",
+        "options": [
+          "Cardiogenic shock",
+          "Hypovolemic shock",
+          "Septic (distributive) shock",
+          "Neurogenic (distributive) shock"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: low cardiac output with HIGH filling pressures (CVP and PAWP) and high SVR, plus crackles. Analyze cues: when contractility falls, stroke volume and cardiac output drop, and blood backs up behind the failing ventricle, raising PAWP and causing pulmonary congestion. SVR rises as the body vasoconstricts to compensate. Prioritize hypotheses: pump failure. Generate solutions: inotropes, treating the cause, and cautious fluids.",
+          "Hypovolemia also lowers cardiac output and raises SVR, but filling pressures are LOW because there is too little volume. A CVP of 15 and PAWP of 26 rule this out.",
+          "Septic shock is driven by vasodilation, so SVR is LOW, often with normal or high cardiac output. An SVR of 1,800 is the opposite pattern.",
+          "Neurogenic shock causes vasodilation (low SVR) with bradycardia. This client has a high SVR and tachycardia."
+        ]
+      },
+      {
+        "stem": "A client with pneumonia has T 39.2 °C, HR 124/min, BP 82/40 mm Hg, and warm, flushed skin. Hemodynamic values: cardiac output 8.2 L/min, CVP 3 mm Hg, SVR 520 dynes/sec/cm-5. Which conclusion and anticipated treatment are most appropriate?",
+        "options": [
+          "Cardiogenic shock from sepsis-related heart dysfunction; anticipate dobutamine to raise cardiac output",
+          "Distributive (septic) shock from widespread vasodilation; anticipate rapid crystalloids, then norepinephrine if hypotension persists",
+          "Hypovolemic shock from insensible losses with fever; anticipate the massive transfusion protocol",
+          "Neurogenic shock from loss of sympathetic tone; anticipate spinal stabilization and vasopressors"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Cardiac output here is high, not low, so the pump is not the problem. An inotrope does not correct the low vascular tone.",
+          "CJMM — Recognize cues: infection, fever, warm flushed skin, very low SVR, low CVP, and high cardiac output. Analyze cues: in distributive shock, blood pools in dilated peripheral vessels, so SVR falls and venous return drops even though the heart pumps hard. Prioritize hypotheses: septic shock. Generate solutions: the lecture's sequence is lactate, cultures, 30 mL/kg crystalloid, norepinephrine for hypotension during or after the bolus, and timely antibiotics.",
+          "The low CVP reflects pooling, but the very low SVR and high cardiac output show vasodilation, not volume loss. There is no hemorrhage to justify blood products.",
+          "Neurogenic shock also lowers SVR, but it presents with bradycardia after a spinal cord injury. This client is tachycardic with an infection."
+        ]
+      },
+      {
+        "stem": "A client with cardiogenic shock was started on a dobutamine infusion 2 hours ago. Which findings show the therapy is having the desired effect? Select all that apply.",
+        "options": [
+          "Urine output increased from 15 to 40 mL/hr",
+          "Crackles decreased and SpO2 rose from 89% to 95%",
+          "The client is more alert and follows commands",
+          "Cardiac output increased from 2.4 to 3.8 L/min",
+          "HR increased from 98 to 132/min with new frequent PVCs",
+          "Skin is cooler and capillary refill is 4 seconds"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—better kidney perfusion shows that cardiac output has improved.",
+          "Correct—a stronger contraction moves blood forward, which relieves pulmonary congestion.",
+          "Correct—improved mental status reflects better brain perfusion.",
+          "Correct—raising contractility and cardiac output is why an inotrope is given.",
+          "Incorrect—this is an adverse effect, not a therapeutic one. Tachycardia and ectopy raise myocardial oxygen demand and should be reported.",
+          "Incorrect—cooler skin and slow capillary refill mean peripheral perfusion is getting worse, not better."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client in cardiogenic shock is on dobutamine. The provider has also prescribed a nitroglycerin infusion to reduce cardiac workload. Before the nurse starts it, the BP is 78/48 mm Hg (MAP 58). What should the nurse do?",
+        "options": [
+          "Start the nitroglycerin at the lowest dose and recheck the BP in 15 minutes",
+          "Start the nitroglycerin because relieving pulmonary congestion will raise the BP",
+          "Give a 1-L normal saline bolus so the client can tolerate the nitroglycerin",
+          "Hold the nitroglycerin and notify the provider of the hypotension"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Even a low dose can drop an already low MAP. Starting a vasodilator during hypotension is unsafe; the second cue (BP) should stop the action.",
+          "Nitroglycerin lowers BP directly. Relieving congestion does not offset this when the client is already hypotensive.",
+          "A large bolus risks worsening pulmonary congestion in a failing pump. The lecture stresses cautious fluids in cardiogenic shock.",
+          "CJMM — Recognize cues: a MAP of 58 before a vasodilator is started. Analyze cues: nitroglycerin is the vasodilator named for cardiogenic shock and lowers preload and afterload, but it also lowers BP. Starting it now would cut coronary and organ perfusion further. Take action: the safe choice is to hold the drug and report, so the team can adjust inotropic support first. Evaluate outcomes: start nitroglycerin only once BP can tolerate vasodilation."
+        ]
+      },
+      {
+        "stem": "A client in cardiogenic shock has an intra-aortic balloon pump inserted through the left femoral artery. During hourly checks, the nurse finds the left foot cool and pale, with a faint dorsalis pedis pulse by Doppler. The pulse was easily felt an hour ago. What is the nurse's priority action?",
+        "options": [
+          "Elevate the left leg on pillows to reduce swelling and reassess in 30 minutes",
+          "Notify the provider at once while keeping the left leg straight",
+          "Flex the left hip to 45 degrees to reposition the catheter and improve flow",
+          "Apply warm blankets to the left leg and recheck the pulse in 1 hour"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Raising an ischemic limb further reduces arterial flow, and waiting 30 minutes delays treatment of a vascular emergency.",
+          "CJMM — Recognize cues: a new cool, pale foot and a pulse that went from palpable to faint distal to the IABP insertion site. Analyze cues: the catheter or a clot can block flow to the leg. The lecture requires neurovascular checks whenever an IABP is in place for exactly this reason. Prioritize hypotheses: acute limb ischemia. Take action: report immediately and keep the leg straight so the catheter does not move.",
+          "Hip flexion can kink or move the balloon catheter. The cannulated leg is kept straight.",
+          "Warming does not restore arterial flow, and an hour's delay risks limb loss. This treats the symptom instead of reporting the cause."
+        ]
+      },
+      {
+        "stem": "A client develops cardiogenic shock 3 hours after the onset of an acute MI. Dobutamine is infusing and cautious fluids have been given. Which intervention addresses the underlying cause of this client's shock?",
+        "options": [
+          "Percutaneous coronary intervention to reopen the blocked artery",
+          "Increasing the dobutamine to raise cardiac output",
+          "Starting nitroglycerin to reduce preload and afterload",
+          "Giving a further fluid bolus to increase stroke volume"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: in this client, cardiogenic shock comes from heart muscle damaged by a coronary occlusion. Prioritize hypotheses: the pump will keep failing while the artery stays blocked. Generate solutions: the lecture lists treating the cause (PCI, IABP, or correcting a dysrhythmia) as the first medical intervention. Take action: prepare for PCI, which reopens the artery. Inotropes and the other options only support the failing heart.",
+          "Dobutamine supports contractility but does not reopen the artery. It also raises oxygen demand in heart muscle that is already ischemic.",
+          "Nitroglycerin lowers cardiac workload, but it is supportive and limited by hypotension. It does not remove the coronary blockage.",
+          "Extra volume does not fix a damaged pump and can worsen pulmonary congestion. Fluids are used cautiously in cardiogenic shock."
+        ]
+      },
+      {
+        "stem": "A charge nurse is reviewing the plan of care with a nurse who has just floated to the cardiac ICU and is caring for a client in cardiogenic shock. Which statement by the float nurse indicates a need for further teaching?",
+        "options": [
+          "\"Dobutamine is given to help the heart contract more forcefully.\"",
+          "\"I'll listen for crackles, because a failing pump backs blood up into the lungs.\"",
+          "\"Because the BP is so low, I'll run a large fluid bolus wide open, just like for my hemorrhage patient.\"",
+          "\"With the balloon pump in, I need to do neurovascular checks on that leg.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. Dobutamine is an inotrope used in cardiogenic shock to raise contractility and cardiac output.",
+          "This is correct. Pulmonary congestion is part of the pathophysiology and is an assessment priority.",
+          "CJMM — Analyze cues: cardiogenic shock is a pump problem, not a volume problem. Generate solutions: unlike hypovolemic shock, the lecture says IV fluids must be used cautiously because a failing ventricle cannot handle extra volume, and it backs up into the lungs. Take action: correct the plan; the BP is supported with inotropes and by treating the cause. This statement is the one that needs teaching.",
+          "This is correct. The lecture specifies neurovascular checks when an IABP is in place."
+        ]
+      },
+      {
+        "stem": "The nurse reviews data on four clients. Which client meets the SIRS criteria described in the lecture?",
+        "options": [
+          "T 37.9 °C, HR 88/min, RR 22/min, WBC 11,500 cells/µL",
+          "T 38.4 °C, HR 96/min, RR 18/min, WBC 9,000 cells/µL",
+          "T 36.2 °C, HR 90/min, RR 20/min, PaCO2 34 mm Hg, WBC 4,200 cells/µL",
+          "T 37.2 °C, HR 102/min, RR 18/min, WBC 11,800 cells/µL"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Only the RR (>20) meets a criterion. The temperature, HR, and WBC all fall just short of the cutoffs, so the total is 1 of 4.",
+          "CJMM — Analyze cues: SIRS requires 2 of 4 criteria: temperature >38 °C or <36 °C; HR >90/min; RR >20/min or PaCO2 <32 mm Hg; WBC >12,000 or <4,000 cells/µL. This client meets two (temperature 38.4 and HR 96). Prioritize hypotheses: if infection is present or suspected, this is sepsis and starts the early-recognition pathway.",
+          "Every value is right at a cutoff without crossing it. The criteria are HR above 90, RR above 20 or PaCO2 below 32, temperature below 36, and WBC below 4,000, so this is 0 of 4.",
+          "Only the HR meets a criterion. A WBC of 11,800 is below the >12,000 cutoff, so the total is 1 of 4."
+        ]
+      },
+      {
+        "stem": "A client admitted with pneumonia has T 38.6 °C, HR 112/min, RR 26/min, and BP 118/72 mm Hg. Creatinine has risen from 0.9 to 2.1 mg/dL, and urine output is 20 mL/hr. Using the lecture's definitions, how should the nurse classify this client's condition?",
+        "options": [
+          "Severe sepsis, because sepsis is now accompanied by organ dysfunction",
+          "Sepsis, because the client has an infection and meets SIRS criteria without hypotension",
+          "Septic shock, because the client has organ dysfunction from the infection",
+          "SIRS without sepsis, because blood cultures have not yet confirmed an infection"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a known infection with three SIRS criteria (temperature, HR, RR) plus kidney dysfunction (rising creatinine, low urine output), while the BP is normal. Analyze cues: sepsis is SIRS with presumed or proven infection. Severe sepsis is sepsis with organ dysfunction. Septic shock is sepsis with hypotension despite adequate fluid resuscitation. Prioritize hypotheses: organ dysfunction without hypotension places this client in severe sepsis. Take action: escalate monitoring, because progression to shock is the next risk.",
+          "This misses the second cue. Rising creatinine and oliguria show organ dysfunction, which moves the classification up to severe sepsis.",
+          "Septic shock requires hypotension despite adequate fluid resuscitation. With a BP of 118/72 that criterion is not met.",
+          "Sepsis is SIRS with a presumed OR proven infection. Pneumonia is a presumed source, so cultures are not needed to call this sepsis."
+        ]
+      },
+      {
+        "stem": "In the ED, a client with suspected sepsis from a urinary source has BP 108/66 mm Hg, HR 112/min, and T 38.8 °C. IV access is in place. Prescriptions include blood cultures ×2, IV piperacillin-tazobactam, and a serum lactate. Pharmacy has just delivered the antibiotic. Which action should the nurse take next?",
+        "options": [
+          "Hang the antibiotic now because it has arrived, and draw cultures after the first dose",
+          "Draw the blood cultures, then hang the antibiotic without delay",
+          "Wait for the lactate result before drawing cultures so the severity is known",
+          "Hold the antibiotic until culture results identify the organism"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Getting the antibiotic in quickly is important, but giving it first can make the cultures falsely negative. The cultures take only minutes and should come first.",
+          "CJMM — Generate solutions: the lecture's septic-shock sequence obtains blood cultures BEFORE antibiotics, because even one dose can sterilize the cultures and hide the organism. Take action: draw cultures now (with the lactate), then hang the antibiotic right away, well within the 3-hour ED time frame. Evaluate outcomes: culture results later allow the antibiotic to be narrowed.",
+          "The lactate does not change whether cultures are needed. Waiting delays both cultures and antibiotics.",
+          "Cultures take days. Withholding antibiotics until then violates the lecture's time frame (3 hours in the ED) and allows sepsis to progress."
+        ]
+      },
+      {
+        "stem": "A client with septic shock weighs 176 lb. BP is 80/46 mm Hg and lactate is 4.8 mmol/L. The sepsis protocol calls for a crystalloid bolus according to the lecture's guideline. What total volume should the nurse prepare to give?",
+        "options": [
+          "1,600 mL",
+          "2,400 mL",
+          "3,000 mL",
+          "5,280 mL"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is 20 mL/kg (80 × 20). The lecture's septic-shock dose is 30 mL/kg.",
+          "CJMM — Recognize cues: hypotension and lactate >4 mmol/L, either of which triggers the bolus. Generate solutions: the lecture's dose is 30 mL/kg of LR or NSS given rapidly. Take action: 176 lb ÷ 2.2 = 80 kg; 80 kg × 30 mL/kg = 2,400 mL.",
+          "This rounds up to a convenient volume rather than calculating from weight. 80 kg × 30 mL/kg is 2,400 mL.",
+          "This uses the weight in pounds (176 × 30) without converting to kilograms, which more than doubles the dose and risks fluid overload."
+        ]
+      },
+      {
+        "stem": "A 68-kg client with septic shock is prescribed lactated Ringer's at 30 mL/kg, to be infused over 3 hours. At what rate should the nurse set the infusion pump?",
+        "options": [
+          "340 mL/hr",
+          "510 mL/hr",
+          "680 mL/hr",
+          "2,040 mL/hr"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This spreads the volume over 6 hours, so the client gets only half the prescribed bolus in the 3-hour window.",
+          "This divides 2,040 mL by 4 hours instead of the prescribed 3.",
+          "CJMM — Take action: total volume = 68 kg × 30 mL/kg = 2,040 mL. Rate = 2,040 mL ÷ 3 hr = 680 mL/hr. Evaluate outcomes: during the bolus, reassess BP/MAP, urine output, mental status, and lung sounds. Hypotension during or after the bolus is the trigger to start norepinephrine.",
+          "This is the total volume, not an hourly rate. Set at this rate, the whole bolus would run in 1 hour, faster than prescribed."
+        ]
+      },
+      {
+        "stem": "A client with suspected sepsis from cellulitis has T 38.5 °C, HR 104/min, BP 118/70 mm Hg (MAP 86), and an initial lactate of 3.0 mmol/L. Based on the lecture's septic-shock sequence, what should the nurse anticipate?",
+        "options": [
+          "A rapid 30 mL/kg crystalloid bolus because the lactate is above 2 mmol/L",
+          "Repeating the lactate, without a 30 mL/kg bolus at this time",
+          "Starting norepinephrine to keep the MAP above 65 mm Hg",
+          "No further lactate testing, because the value is below 4 mmol/L"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This mixes up the two thresholds. Above 2 means repeat the lactate. The bolus trigger is above 4 or hypotension.",
+          "CJMM — Recognize cues: lactate 3.0 with a normal BP. Analyze cues: the lecture has two separate lactate thresholds. Above 2 mmol/L means the lactate is repeated. Above 4 mmol/L, or hypotension, triggers 30 mL/kg of crystalloid. Generate solutions: this client meets only the first threshold. Take action: repeat the lactate and keep up cultures, antibiotics, and close monitoring. Evaluate outcomes: a rising repeat value or a falling BP would trigger the bolus.",
+          "Norepinephrine is for hypotension that persists during or after the fluid bolus. The MAP is already 86.",
+          "Any lactate above 2 mmol/L is repeated so the trend can be followed. Stopping here could miss worsening hypoperfusion."
+        ]
+      },
+      {
+        "stem": "A client with suspected sepsis has BP 122/74 mm Hg, HR 116/min, and RR 26/min. The initial lactate is 4.6 mmol/L. Which action should the nurse anticipate?",
+        "options": [
+          "Repeat the lactate in 2 hours, and give fluids only if the BP drops",
+          "Start norepinephrine, because a lactate above 4 mmol/L defines septic shock",
+          "Give a 500 mL bolus and reassess, because the client is normotensive",
+          "Begin a rapid 30 mL/kg crystalloid bolus now, even though the BP is normal"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Repeating the lactate is right, but waiting for hypotension ignores the lactate trigger, which already calls for the bolus.",
+          "Norepinephrine is for hypotension during or after the bolus. The client is not hypotensive, and fluids come first.",
+          "A small, cautious bolus fits cardiogenic shock. The lecture's dose for a lactate above 4 is 30 mL/kg.",
+          "CJMM — Recognize cues: a lactate of 4.6 in a client whose BP looks reassuring. Analyze cues: the lecture's bolus trigger is hypotension OR lactate above 4 mmol/L. A normal BP does not rule out severe hypoperfusion, because compensation can hold the BP up while cells switch to anaerobic metabolism. Take action: give 30 mL/kg LR or NSS and repeat the lactate. Evaluate outcomes: watch for the lactate to fall and urine output and mentation to improve."
+        ]
+      },
+      {
+        "stem": "A client with septic shock has just finished a 30 mL/kg crystalloid bolus. BP is now 84/44 mm Hg and HR is 122/min. Which conclusion and anticipated action are correct?",
+        "options": [
+          "The MAP is about 64 mm Hg; it is close to goal, so the nurse should continue to monitor",
+          "The MAP is about 57 mm Hg; anticipate a second 30 mL/kg bolus before any vasopressor is started",
+          "The MAP is about 57 mm Hg; anticipate starting norepinephrine and titrating it to a MAP above 65 mm Hg",
+          "The MAP is about 57 mm Hg; anticipate dobutamine to raise contractility"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This miscalculates the MAP (it averages SBP and DBP). The true MAP of about 57 is well below 65, so it needs treatment.",
+          "The MAP is right, but the lecture moves to norepinephrine when hypotension persists during or after the bolus. Repeating the full bolus delays the vasopressor and risks overload.",
+          "CJMM — Analyze cues: MAP = (SBP + 2 × DBP) ÷ 3 = (84 + 88) ÷ 3 ≈ 57 mm Hg, below the lecture's goal of >65 mm Hg. Prioritize hypotheses: hypotension persisting after an adequate bolus defines septic shock. Take action: the lecture's first vasopressor is norepinephrine, titrated to a MAP >65. Evaluate outcomes: track MAP, lactate, urine output, and mental status.",
+          "The MAP is right, but septic shock is a vascular-tone problem. Dobutamine is the inotrope for cardiogenic shock; norepinephrine is the septic-shock vasopressor."
+        ]
+      },
+      {
+        "stem": "A client with septic shock is on norepinephrine. The current BP is 98/50 mm Hg. Which conclusion is correct?",
+        "options": [
+          "The MAP is about 66 mm Hg, which meets the goal; continue the current therapy and keep trending lactate, urine output, and mental status",
+          "The MAP is about 74 mm Hg, above goal, so the norepinephrine can be decreased",
+          "The MAP is about 66 mm Hg, but the norepinephrine should be increased because the diastolic BP is below 60",
+          "The MAP is about 49 mm Hg, so the client needs an immediate fluid bolus"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: MAP = (98 + 2 × 50) ÷ 3 = 198 ÷ 3 = 66 mm Hg. Evaluate outcomes: the lecture's goal with vasopressor therapy is a MAP greater than 65, so the target is met. Because the guide warns against judging response by one number, the nurse keeps watching lactate, urine output, and mental status to confirm tissue perfusion.",
+          "This miscalculates the MAP by simple averaging ((98 + 50) ÷ 2). The correct MAP is 66, just above goal, so weaning now would risk dropping below target.",
+          "The MAP is right, but the target is MAP above 65, not a diastolic number. Raising the dose without reason increases vasoconstriction and its risks.",
+          "This counts the diastolic value only once in the calculation. The real MAP of 66 meets goal."
+        ]
+      },
+      {
+        "stem": "The nurse reviews antibiotic timing for four clients with sepsis. Which situation requires the nurse to escalate because the antibiotic was not given within the lecture's time frame?",
+        "options": [
+          "A medical-unit inpatient recognized as septic at 0900 whose first antibiotic was started at 1045",
+          "An ED client recognized as septic at 1300 whose first antibiotic was started at 1530",
+          "An ED client recognized as septic at 0200 whose first antibiotic was started at 0445",
+          "A surgical-unit inpatient recognized as septic at 1400 whose first antibiotic was started at 1450"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: the lecture's time frames are within 3 hours of recognition in the ED and within 1 hour for an inpatient. Recognize cues: this inpatient waited 1 hour 45 minutes, which is past the 1-hour target. Take action: escalate the delay and review why it happened. Every hour of delay raises the risk of progression to septic shock and MODS.",
+          "2 hours 30 minutes is within the 3-hour ED time frame.",
+          "2 hours 45 minutes is still within the 3-hour ED time frame, even though it is close.",
+          "50 minutes meets the 1-hour inpatient time frame."
+        ]
+      },
+      {
+        "stem": "A client with septic shock has received a 30 mL/kg crystalloid bolus and is on norepinephrine. Which findings indicate that treatment is effective? Select all that apply.",
+        "options": [
+          "MAP increased from 58 to 70 mm Hg",
+          "Lactate decreased from 5.1 to 2.6 mmol/L",
+          "Urine output increased from 10 to 35 mL/hr",
+          "Mottling over both knees with capillary refill of 5 seconds",
+          "HR rose from 120 to 136/min after the norepinephrine dose was increased twice",
+          "The client is now oriented and follows commands"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—a MAP above 65 mm Hg is the lecture's goal with vasopressor therapy.",
+          "Correct—a falling lactate means less anaerobic metabolism and better tissue perfusion.",
+          "Correct—improving urine output reflects better kidney perfusion.",
+          "Incorrect—mottling and slow capillary refill show persistent peripheral hypoperfusion.",
+          "Incorrect—worsening tachycardia together with rising vasopressor needs suggests the shock is not responding.",
+          "Correct—better mental status reflects improved brain perfusion."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client in septic shock is receiving norepinephrine through a peripheral IV in the forearm while central access is being arranged. The nurse finds the skin around the site blanched, cool, and swollen. What is the nurse's first action?",
+        "options": [
+          "Stop the infusion at that site and notify the provider",
+          "Apply an ice pack to the site and continue the infusion",
+          "Slow the infusion rate by half and elevate the arm",
+          "Flush the IV with normal saline to clear the line, then resume the infusion"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: blanching, coolness, and swelling at a vasopressor site. Analyze cues: norepinephrine is a potent vasoconstrictor, and when it leaks into tissue it can cause ischemia and necrosis. Take action: stop the infusion into the infiltrated site and notify the provider right away, so an antidote can be considered and the vasopressor restarted through another line without a long interruption. Evaluate outcomes: monitor the MAP closely while access is changed.",
+          "Cold causes more vasoconstriction and worsens tissue ischemia, and continuing the infusion adds more drug to the tissue.",
+          "Any further infusion into an infiltrated site continues the injury, and cutting the dose drops the MAP below goal.",
+          "Flushing pushes more vasoconstrictor into the tissue. The site must not be used."
+        ]
+      },
+      {
+        "stem": "A client with septic shock has been on norepinephrine for 6 hours. MAP is 67 mm Hg. Lactate has risen from 4.4 to 5.8 mmol/L, urine output is 10 mL/hr, and the client is less responsive. Which conclusion should the nurse report?",
+        "options": [
+          "Tissue perfusion is worsening despite the MAP meeting goal, so the treatment plan needs to be reassessed",
+          "Treatment is effective, because the MAP is above 65 mm Hg; continue the current plan",
+          "The lactate is rising as an expected effect of norepinephrine and should be rechecked in 24 hours",
+          "The low urine output is caused by the antibiotics, so renal dosing should be requested"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a MAP at goal, but a rising lactate, very low urine output, and declining mental status. Analyze cues: the guide says not to judge response from one vital sign. These trends show worsening hypoperfusion and anaerobic metabolism. Prioritize hypotheses: the shock is not responding, with risk of progression to MODS. Evaluate outcomes: persistent or worsening perfusion signals the need for reassessment and continued treatment.",
+          "A MAP at goal is only one marker. The lactate, urine output, and mental status all show the client is getting worse; this skips Evaluate outcomes.",
+          "This explains away the most important trend. A rising lactate together with oliguria and declining mentation points to hypoperfusion, and waiting 24 hours allows organ failure.",
+          "This explains one cue and ignores the rising lactate and changing mental status, which reflect the whole body, not a single drug effect."
+        ]
+      },
+      {
+        "stem": "A new nurse is preparing to care for a 75-kg client with septic shock. Which statement by the new nurse indicates a need for further teaching?",
+        "options": [
+          "\"Because the first lactate was 3.2, I'll make sure it gets repeated.\"",
+          "\"This client's 30 mL/kg bolus works out to 2,250 mL.\"",
+          "\"If the BP stays low after the bolus, I'll expect dobutamine to be started first.\"",
+          "\"Norepinephrine will be titrated to keep the MAP above 65.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. Any lactate above 2 mmol/L is repeated.",
+          "This is correct: 75 kg × 30 mL/kg = 2,250 mL.",
+          "CJMM — Generate solutions: the lecture's first vasopressor for hypotension that persists during or after the bolus is norepinephrine, titrated to a MAP above 65. Dobutamine is an inotrope for pump failure (cardiogenic shock) and does not correct the vasodilation of septic shock. Take action: correct the plan. This statement is the one that needs teaching.",
+          "This is correct. A MAP above 65 mm Hg is the lecture's goal."
+        ]
+      },
+      {
+        "stem": "A client is brought to the ED after a diving accident with a suspected T4 spinal cord injury. BP 80/44 mm Hg, HR 46/min, and the skin below the injury is warm and dry. There is no external bleeding, and a bedside abdominal ultrasound shows no free fluid. Which conclusion is most accurate?",
+        "options": [
+          "Hypovolemic shock from hidden internal bleeding; prepare for the massive transfusion protocol",
+          "Cardiogenic shock from a blunt cardiac injury; anticipate dobutamine",
+          "Neurogenic shock from loss of sympathetic tone, which leaves parasympathetic influence unopposed",
+          "An expected vagal response to pain; give analgesia and recheck the vital signs in 1 hour"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Hemorrhage causes compensatory tachycardia and cool, clammy skin. A HR of 46 with warm skin and a negative ultrasound does not fit volume loss.",
+          "Blunt cardiac injury is possible after trauma, but it usually causes tachycardia or dysrhythmia with signs of congestion. This picture fits sympathetic loss after a cord injury.",
+          "CJMM — Recognize cues: hypotension WITH bradycardia, warm dry skin, a high thoracic cord injury, and no signs of bleeding. Analyze cues: the lecture describes neurogenic shock as a loss of balance between the parasympathetic and sympathetic systems, and its defining findings are hypotension plus bradycardia. Without sympathetic tone, vessels dilate and the HR cannot rise. Prioritize hypotheses: neurogenic (distributive) shock. Generate solutions: stabilize the spine, give IV crystalloids, and add vasopressors.",
+          "Pain does not explain persistent hypotension with warm, vasodilated skin after a cord injury. Waiting an hour delays treatment of shock."
+        ]
+      },
+      {
+        "stem": "A client with a cervical spinal cord injury has BP 78/42 mm Hg and HR 50/min. The diagnosis is neurogenic shock. Which set of prescriptions should the nurse anticipate?",
+        "options": [
+          "Rapid 30 mL/kg crystalloid bolus and IV antibiotics within 1 hour",
+          "Spinal immobilization, an IV crystalloid bolus, and a vasopressor as needed",
+          "Cautious fluids and dobutamine to raise the HR and contractility",
+          "Fluid restriction and a vasopressor alone, to avoid spinal cord swelling"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is the septic-shock bundle. Nothing suggests infection, and antibiotics do not treat lost sympathetic tone.",
+          "CJMM — Generate solutions: the lecture's treatment for neurogenic shock is to treat the cause (stabilize the spinal cord injury) and give IV crystalloids and vasopressors. Take action: keep the spine immobilized, give crystalloid, and start a vasopressor to restore vascular tone. Evaluate outcomes: track BP and HR, looking specifically for resolution of the hypotension and bradycardia.",
+          "Cautious fluids with an inotrope is the cardiogenic plan. The heart is not failing here; the vessels are dilated, which calls for crystalloids and a vasopressor.",
+          "The lecture lists IV crystalloids as part of the treatment. Restricting fluid in a vasodilated client deepens the hypotension."
+        ]
+      },
+      {
+        "stem": "A client with a T6 spinal cord injury from a motorcycle crash has BP 82/50 mm Hg, HR 128/min, cool clammy skin, and a firm, distending abdomen. A resident says, \"This is the neurogenic shock we expected.\" What should the nurse conclude?",
+        "options": [
+          "These are classic neurogenic shock findings, so the nurse should anticipate a vasopressor",
+          "Tachycardia is the expected compensation in neurogenic shock, so continued monitoring is enough",
+          "The tachycardia and cool, clammy skin do not fit neurogenic shock; suspect hemorrhagic hypovolemic shock and report it now",
+          "Anxiety is causing tachycardia on top of neurogenic shock, so an anxiolytic should be given"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Neurogenic shock causes bradycardia, not a HR of 128. Treating this as neurogenic with a vasopressor alone would miss ongoing bleeding.",
+          "In neurogenic shock the sympathetic response is lost, so the HR cannot rise to compensate. Tachycardia here points to another cause.",
+          "CJMM — Recognize cues: a fast HR, cool clammy skin, and a distending abdomen after trauma. Analyze cues: neurogenic shock presents with hypotension plus BRADYCARDIA and warm skin. Tachycardia with vasoconstriction is the compensatory response to volume loss. Prioritize hypotheses: internal hemorrhage is the more dangerous and treatable explanation. Take action: report the findings and anticipate large-bore access and blood replacement.",
+          "Labeling the tachycardia as anxiety anchors on the first diagnosis. Combined with clammy skin and a distending abdomen, bleeding has to be ruled out first."
+        ]
+      },
+      {
+        "stem": "Ten minutes into an IV cefazolin infusion, a client develops a hoarse voice, wheezing, generalized hives, BP 82/50 mm Hg, and HR 128/min. The nurse has stopped the infusion. What is the nurse's next priority action?",
+        "options": [
+          "Give IV diphenhydramine to block histamine",
+          "Give IV methylprednisolone to reduce the inflammatory response",
+          "Give an albuterol nebulizer for the wheezing",
+          "Give epinephrine 1:1000 IM into the vastus lateralis"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Diphenhydramine is an adjunct to epinephrine. It does not reverse airway swelling or hypotension, and giving it first delays the lifesaving drug.",
+          "Corticosteroids are adjuncts and act too slowly to treat acute airway and circulatory compromise.",
+          "A bronchodilator may be added if needed, but it treats only the bronchospasm, not the hypotension or laryngeal swelling. Epinephrine treats all of them.",
+          "CJMM — Recognize cues: sudden onset after a medication, with airway signs (hoarseness, wheezing), skin signs, and hypotension. Analyze cues: two or more systems are involved, which meets the lecture's definition of anaphylaxis. Prioritize hypotheses: airway and cardiovascular collapse can follow quickly. Take action: the lecture names rapid IM epinephrine (1:1000) in the vastus lateralis as the key immediate intervention. Evaluate outcomes: reassess airway, breathing, and BP right after the dose."
+        ]
+      },
+      {
+        "stem": "A client in the ED has anaphylaxis after a bee sting. BP 86/52 mm Hg, wheezing, and facial swelling are present, and the client has a pulse. The provider prescribes all of the following. Which prescription should the nurse question before giving it?",
+        "options": [
+          "Diphenhydramine 50 mg IV",
+          "Epinephrine 1 mg (1:1000) IV push",
+          "Methylprednisolone 125 mg IV",
+          "0.9% normal saline 1,000 mL IV bolus"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is appropriate. An antihistamine is an adjunct to epinephrine in the lecture.",
+          "CJMM — Recognize cues: anaphylaxis in a client who has a pulse. Analyze cues: the lecture's priority is rapid IM epinephrine 1:1000 in the vastus lateralis. The concentrated 1:1000 form given as an IV push delivers a large dose straight into the circulation and can cause severe hypertension, dysrhythmias, and myocardial ischemia. Take action: clarify the route and concentration (IM). This is the hidden unsafe order.",
+          "This is appropriate. Corticosteroids are listed as adjunct therapy.",
+          "This is appropriate. IV crystalloids treat the vasodilation and capillary leak that cause hypotension."
+        ]
+      },
+      {
+        "stem": "Forty-five minutes after IM epinephrine for a peanut-related anaphylactic reaction in the ED, a client's symptoms have resolved. The client is talking with the nurse about leaving. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I need to stay a few hours, because the reaction can come back even after the epinephrine works.\"",
+          "\"The antihistamine and steroid are extras; the epinephrine was the main treatment.\"",
+          "\"I need to avoid peanuts and anything made with them from now on.\"",
+          "\"Since my breathing is back to normal, I can go home now and come back if it starts again.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct. It reflects the 4-hour observation for a rebound reaction.",
+          "This is correct. Diphenhydramine and corticosteroids are adjuncts to epinephrine.",
+          "This is correct. Avoiding the known trigger is basic safety after anaphylaxis to a food.",
+          "CJMM — Recognize cues: the client plans to leave 45 minutes after epinephrine. Analyze cues: epinephrine can wear off before the allergic process ends, and the lecture specifies 4 hours of ED observation after epinephrine because of the risk of a rebound reaction. Take action: teach why the client needs to stay. Evaluate outcomes: the nurse keeps monitoring airway, BP, and skin during the observation period."
+        ]
+      },
+      {
+        "stem": "A client develops anaphylactic shock after an IV contrast injection. Which interventions should the nurse anticipate? Select all that apply.",
+        "options": [
+          "Rapid IM epinephrine 1:1000 into the vastus lateralis",
+          "Ensure a patent airway and prepare for airway support",
+          "IV crystalloids for hypotension",
+          "Diphenhydramine as an adjunct after epinephrine",
+          "A corticosteroid as the primary drug to reverse the hypotension",
+          "Discharge from the ED once symptoms resolve after the first hour"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—this is the lecture's key immediate intervention.",
+          "Correct—airway compromise (stridor, swelling) can progress to respiratory arrest; the lecture lists ensuring a patent airway.",
+          "Correct—crystalloids treat the vasodilation and capillary leak.",
+          "Correct—an antihistamine is adjunct therapy to epinephrine.",
+          "Incorrect—corticosteroids are adjuncts with a slow onset and do not reverse acute hypotension; epinephrine does.",
+          "Incorrect—the lecture specifies 4 hours of ED observation after epinephrine because of rebound risk."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client on mechanical ventilation suddenly has SpO2 82%, high peak airway pressures, absent breath sounds on the right, tracheal deviation to the left, distended neck veins, and BP 74/40 mm Hg. What is the nurse's priority?",
+        "options": [
+          "Give a rapid 30 mL/kg crystalloid bolus",
+          "Prepare for immediate needle decompression and chest tube placement",
+          "Start norepinephrine and titrate to a MAP above 65 mm Hg",
+          "Obtain a STAT chest X-ray to confirm before intervening"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Fluids cannot overcome the mechanical block to venous return. This applies the septic-shock bundle to an obstructive problem.",
+          "CJMM — Recognize cues: one-sided absent breath sounds, tracheal shift away from that side, JVD, and abrupt hypotension in a ventilated client. Analyze cues: this is a tension pneumothorax, in which rising chest pressure blocks venous return. That is obstructive shock. Prioritize hypotheses: the problem is a physical blockage, so fluids and drugs will not fix it. Take action: the lecture's treatment priority is to quickly remove the obstruction.",
+          "A vasopressor does not relieve chest pressure. Without decompression the client can arrest even with vasopressor support.",
+          "The diagnosis is clinical, and waiting for imaging in an unstable client delays the lifesaving treatment."
+        ]
+      },
+      {
+        "stem": "Four hours after cardiac surgery, a client's mediastinal chest tube drainage suddenly stops after averaging 150 mL/hr. BP has fallen to 78/62 mm Hg, HR is 132/min, the neck veins are distended, and heart sounds are muffled. Which conclusion and action are most appropriate?",
+        "options": [
+          "Suspect cardiac tamponade; notify the surgeon now for emergency decompression",
+          "Suspect cardiogenic shock from the surgery; anticipate dobutamine",
+          "Conclude that the bleeding has stopped, so give fluids for the earlier volume loss",
+          "Suspect a clotted chest tube; milk the tube and recheck the vital signs in 1 hour"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: drainage that stopped abruptly, hypotension with a narrow pulse pressure, JVD, and muffled heart sounds. Analyze cues: blood collecting around the heart squeezes it and blocks filling, so the drainage stopping is a warning sign, not reassurance. Prioritize hypotheses: cardiac tamponade, a cause of obstructive shock in the lecture. Take action: quickly treat the cause by removing the fluid (pericardiocentesis or a return to surgery).",
+          "Contractility is not the main problem. An inotrope cannot help a heart that is compressed and cannot fill.",
+          "Drainage that stops suddenly, with JVD and muffled heart sounds, means blood is trapped around the heart, not that bleeding has ended.",
+          "A clotted tube may be the cause, but the client already shows tamponade physiology. Waiting an hour delays treatment of a life-threatening obstruction."
+        ]
+      },
+      {
+        "stem": "The nurse receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "A client with septic shock on norepinephrine whose MAP is 68 mm Hg and whose lactate fell from 3.1 to 2.2 mmol/L",
+          "A client on postoperative day 2 after hip surgery with sudden dyspnea, HR 128/min, BP 84/50 mm Hg, and SpO2 86%",
+          "A client with hypovolemia from vomiting who is receiving IV fluids, with urine output up from 20 to 28 mL/hr",
+          "A client who received IM epinephrine 2 hours ago for anaphylaxis, now symptom-free and asking to go home"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This client is critically ill but responding: the MAP is at goal and the lactate is falling. Stable-but-serious comes after acutely unstable.",
+          "CJMM — Recognize cues: a sudden change with hypoxemia, tachycardia, and hypotension in a client after orthopedic surgery. Analyze cues: this fits a pulmonary embolism, which can block blood flow and cause obstructive shock. Prioritize hypotheses: this is the only client who is acutely unstable and getting worse. Take action: assess now, support oxygenation, and escalate so the team can quickly treat the cause.",
+          "The urine output is improving with treatment, which shows a positive response. This client needs reassessment, but not before the unstable client.",
+          "This client needs teaching and continued observation until 4 hours have passed, but is currently stable."
+        ]
+      }
+    ],
+    "acute2-burns": [
+      {
+        "stem": "An 80-kg client has partial- and full-thickness flame burns to the entire right arm, the anterior trunk, and the anterior left leg. The burn occurred 20 minutes ago. Using the adult Rule of Nines and the lecture formula of 2 mL LR × kg × %TBSA, at what hourly rate should the nurse expect LR to infuse for the first 8 hours?",
+        "options": [
+          "240 mL/h",
+          "320 mL/h",
+          "360 mL/h",
+          "720 mL/h"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This divides the full 5,760 mL evenly over 24 hours. The formula front-loads half the volume into the first 8 hours, when the capillary leak is driving burn shock, so this rate would under-resuscitate the client.",
+          "This rate comes from a TBSA of 32%, which happens when the whole arm is counted as 4.5% and the anterior leg as 9%. Each whole arm is 9%, so the TBSA is 36%. This is a Recognize cues error in adding the regions.",
+          "CJMM — Recognize cues: entire right arm 9% + anterior trunk 18% + anterior left leg 9% = 36% TBSA; flame mechanism = thermal. Analyze cues: the lecture formula for thermal burns is 2 mL × kg × %TBSA = 2 × 80 × 36 = 5,760 mL. Generate solutions: half (2,880 mL) is due in the first 8 hours from injury. Take action: 2,880 ÷ 8 = 360 mL/h, then adjust to the client's response.",
+          "This uses the electrical-burn multiplier of 4 mL. A flame burn is thermal, so the 2 mL multiplier applies. Doubling the volume risks fluid overload and edema-driven complications."
+        ]
+      },
+      {
+        "stem": "A 60-kg client with 40% TBSA thermal burns was injured at 1300 and arrives in the ED at 1600 with no IV fluids given en route. Using the lecture formula (2 mL LR × kg × %TBSA, half in the first 8 hours from injury), what LR rate should the nurse anticipate starting at 1600?",
+        "options": [
+          "300 mL/h",
+          "480 mL/h",
+          "400 mL/h",
+          "960 mL/h"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This spreads the first half (2,400 mL) over a full 8 hours starting at arrival. The 8-hour clock starts at the time of injury, and 3 hours have already passed, so this rate falls behind the target.",
+          "CJMM — Recognize cues: injury at 1300, arrival at 1600, no fluids yet. Analyze cues: total = 2 × 60 × 40 = 4,800 mL. Half (2,400 mL) is due by 2100, which is 8 hours after the INJURY, not after arrival. Generate solutions: 5 hours remain. Take action: 2,400 ÷ 5 = 480 mL/h. Evaluate outcomes: titrate to hourly urine output and vital signs.",
+          "This divides 2,400 mL over 6 hours. It miscounts the time left: from 1600 to 2100 is 5 hours, so this rate also leaves the client under-resuscitated at the 8-hour mark.",
+          "This uses the electrical-burn multiplier of 4 mL. The burn is thermal, so the total is 4,800 mL, not 9,600 mL. This rate would cause fluid overload."
+        ]
+      },
+      {
+        "stem": "A 90-kg lineworker sustained high-voltage electrical burns over 20% TBSA 30 minutes ago. Using the lecture's resuscitation formulas, what total LR volume should the nurse expect in the first 8 hours after injury?",
+        "options": [
+          "1,800 mL",
+          "3,600 mL",
+          "7,200 mL",
+          "2,400 mL"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is half of the thermal total (2 × 90 × 20 = 3,600 mL). Electrical burns use the 4 mL multiplier because hidden deep-tissue damage drives greater fluid needs, so this under-resuscitates the client.",
+          "CJMM — Recognize cues: electrical mechanism, 90 kg, 20% TBSA. Analyze cues: the lecture uses 4 mL × kg × %TBSA for electrical burns because visible skin injury underestimates deep muscle damage. Total = 4 × 90 × 20 = 7,200 mL. Take action: half, or 3,600 mL, is given in the first 8 hours from injury, which is 450 mL/h.",
+          "This is the full 24-hour electrical total. Only half of it is given in the first 8 hours, and the rest is given over the next 16 hours.",
+          "This divides the 7,200 mL total evenly into three 8-hour blocks. The lecture gives half of the total in the first 8 hours, not one-third."
+        ]
+      },
+      {
+        "stem": "A 75-kg client with 32% TBSA thermal burns has completed the first 8 hours of resuscitation exactly on schedule using the lecture formula. Hourly urine output is at the prescribed target. Which LR rate should the nurse verify for the next 16 hours?",
+        "options": [
+          "300 mL/h",
+          "200 mL/h",
+          "100 mL/h",
+          "150 mL/h"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is the rate for the first 8 hours (2,400 mL ÷ 8). Continuing it would give the second half in 8 hours instead of 16 and risk fluid overload as edema builds.",
+          "This divides the full 4,800 mL over 24 hours. The first half has already been given, so only 2,400 mL remains for the next 16 hours.",
+          "This divides the remaining 2,400 mL over 24 hours instead of 16. It would under-resuscitate the client while the capillary leak is still near its peak at 24–36 hours.",
+          "CJMM — Analyze cues: total = 2 × 75 × 32 = 4,800 mL; the first half (2,400 mL) is done. Generate solutions: the second half (2,400 mL) runs over the next 16 hours. Take action: 2,400 ÷ 16 = 150 mL/h. Evaluate outcomes: urine output is on target, so no rate adjustment is needed yet. Keep monitoring hourly intake and output."
+        ]
+      },
+      {
+        "stem": "A client has burns to the entire head and neck, the anterior surface of both arms, the anterior trunk, and the perineum. Using the adult Rule of Nines, which TBSA should the nurse document?",
+        "options": [
+          "36%",
+          "37%",
+          "46%",
+          "28%"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This leaves out the 1% perineum. The perineum is a separate region and also a high-risk location, so it must be counted.",
+          "CJMM — Recognize cues: entire head/neck 9% + anterior right arm 4.5% + anterior left arm 4.5% + anterior trunk 18% + perineum 1%. Analyze cues: 9 + 9 + 18 + 1 = 37% TBSA. This drives the resuscitation formula. The face and perineum are also high-risk locations that raise severity.",
+          "This counts both arms as whole arms (18%) when only the anterior surfaces (4.5% each = 9%) are burned. This is a Recognize cues error that would overestimate the fluid needed.",
+          "This leaves out the entire head and neck (9%). Facial and neck burns are both part of the TBSA and a high-risk location, so they cannot be skipped."
+        ]
+      },
+      {
+        "stem": "A client weighing 198 lb has scald burns over 25% TBSA. The resuscitation prescription reads \"LR per burn formula.\" Using the lecture formula, which 24-hour total should the nurse verify with the provider?",
+        "options": [
+          "9,900 mL",
+          "9,000 mL",
+          "2,250 mL",
+          "4,500 mL"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This uses 198 (the weight in pounds) in the formula. The formula requires kilograms (198 ÷ 2.2 = 90 kg), so this more than doubles the correct volume.",
+          "This applies the electrical multiplier of 4 mL. A scald is a thermal burn and uses 2 mL × kg × %TBSA.",
+          "This is only the volume for the first 8 hours, which is half of the total. Verifying it as the 24-hour total would under-resuscitate the client.",
+          "CJMM — Recognize cues: scald = thermal; weight in pounds. Analyze cues: 198 lb ÷ 2.2 = 90 kg; 2 × 90 × 25 = 4,500 mL in 24 hours. Take action: verify 2,250 mL over the first 8 hours from injury and 2,250 mL over the next 16 hours. Unit conversion is a common source of medication-calculation error."
+        ]
+      },
+      {
+        "stem": "A 50-kg client has chemical burns over 30% TBSA after an industrial spill. Continuous irrigation is under way. Using the lecture formula, what is the LR rate for the first 8 hours from injury?",
+        "options": [
+          "375 mL/h",
+          "125 mL/h",
+          "187.5 mL/h",
+          "250 mL/h"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This uses 4 mL × kg × %TBSA. In the lecture, the 4 mL multiplier is only for electrical burns. Chemical burns share the thermal formula.",
+          "This divides the full 3,000 mL over 24 hours. Half of the total is front-loaded into the first 8 hours.",
+          "CJMM — Recognize cues: chemical mechanism. Analyze cues: the lecture groups thermal and chemical burns under 2 mL × kg × %TBSA = 2 × 50 × 30 = 3,000 mL. Take action: 1,500 mL over the first 8 hours from injury = 187.5 mL/h, while irrigation continues to stop the burning process.",
+          "This divides 3,000 mL over 12 hours. That timing is not in the lecture, which uses 8 hours for the first half and 16 hours for the second half."
+        ]
+      },
+      {
+        "stem": "A 70-kg client with 40% TBSA thermal burns was injured at 0200. At 0600, the nurse finds that 1,200 mL of LR has been infused since the injury. Using the lecture formula, what rate is needed from 0600 to stay on schedule for the first 8-hour period?",
+        "options": [
+          "350 mL/h",
+          "400 mL/h",
+          "300 mL/h",
+          "700 mL/h"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This spreads the full first half (2,800 mL) over 8 hours from now. It ignores both the 4 hours already elapsed and the 1,200 mL already given.",
+          "CJMM — Analyze cues: total = 2 × 70 × 40 = 5,600 mL; the first half (2,800 mL) is due by 1000 (injury + 8 hours). Generate solutions: 2,800 − 1,200 = 1,600 mL still owed, with 4 hours left. Take action: 1,600 ÷ 4 = 400 mL/h, then titrate to urine output and hemodynamics. Evaluate outcomes: recheck the totals hourly.",
+          "This divides the 1,200 mL already given by the 4 hours remaining. That reflects past intake, not the 1,600 mL still owed.",
+          "This divides the full 2,800 mL first half over the 4 hours remaining and ignores the 1,200 mL already infused. It risks fluid overload."
+        ]
+      },
+      {
+        "stem": "A 100-kg client escaped a house fire with burns to the posterior trunk and the entire left leg. EMS reports the burn occurred at 2300; it is now 2330. Which first-8-hour LR volume does the nurse expect to be prescribed using the lecture formula?",
+        "options": [
+          "3,600 mL",
+          "7,200 mL",
+          "2,700 mL",
+          "1,800 mL"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: posterior trunk 18% + entire left leg 18% = 36% TBSA; flame = thermal. Analyze cues: 2 × 100 × 36 = 7,200 mL in 24 hours. Take action: give half, 3,600 mL (450 mL/h), between 2300 and 0700, timed from the injury.",
+          "This is the full 24-hour total (2 × 100 × 36). Only half is given in the first 8 hours from injury.",
+          "This uses a TBSA of 27%, counting the left leg as 9%. The entire leg is 18% (anterior 9% + posterior 9%), so the TBSA is 36%.",
+          "This is half of the first-8-hour volume. It would leave the client under-resuscitated while the capillary leak is building."
+        ]
+      },
+      {
+        "stem": "A 70-kg client is 5 hours into burn resuscitation at the formula-calculated rate. Over the last 2 hours, urine output was 20 mL and then 18 mL. HR is 128/min, BP 92/58 mm Hg, and lungs are clear. The protocol directs titrating the rate to a urine output of at least 0.5 mL/kg/h. What should the nurse do?",
+        "options": [
+          "Keep the current rate because the formula volume is being delivered exactly as calculated",
+          "Request a furosemide prescription to increase urine output to the target range",
+          "Increase the LR rate per protocol and notify the provider of the low output",
+          "Irrigate the indwelling catheter and recheck the output at the end of the next hour"
+        ],
+        "answer": 2,
+        "explanations": [
+          "The lecture says to adjust the rate based on the client's response. The formula is only a starting estimate. Holding the rate ignores clear evidence of under-resuscitation, which is an Evaluate outcomes failure.",
+          "The low output comes from hypovolemia (tachycardia, soft BP), not fluid overload. A diuretic would worsen intravascular depletion and renal hypoperfusion.",
+          "CJMM — Recognize cues: urine output below 35 mL/h (0.5 × 70), tachycardia, soft BP, clear lungs. Analyze cues: capillary leak is causing intravascular volume loss (burn shock) and threatening renal perfusion. Prioritize hypotheses: under-resuscitation. Take action: titrate LR up per protocol and notify the provider. Evaluate outcomes: urine output at or above target, HR falling, BP stabilizing.",
+          "Checking catheter patency is reasonable, but the tachycardia and hypotension confirm true hypovolemia. Waiting another hour delays treatment of burn shock."
+        ]
+      },
+      {
+        "stem": "A 65-kg client with 35% TBSA thermal burns arrives 1 hour after injury. Which prescription should the nurse question?",
+        "options": [
+          "Insert an indwelling urinary catheter and measure output hourly",
+          "Infuse D5W at 284 mL/h for the first 8 hours from injury",
+          "Continuous cardiac monitoring",
+          "Elevate the burned extremities on pillows"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is an expected emergent-phase action. Hourly output is the main way to evaluate resuscitation.",
+          "CJMM — Recognize cues: the rate matches the formula (2 × 65 × 35 = 4,550 mL; half ÷ 8 ≈ 284 mL/h), but the fluid is D5W. Analyze cues: the lecture specifies lactated Ringer's. A hypotonic dextrose solution leaves the vessels and does not restore intravascular volume in burn shock. Take action: question the order and clarify for LR. This is a disguised trap because the number looks correct.",
+          "The lecture lists continuous cardiac monitoring in emergent management. Fluid shifts and electrolyte changes can cause dysrhythmias.",
+          "Elevation reduces edema in burned limbs and is part of the emergent plan."
+        ]
+      },
+      {
+        "stem": "A charge nurse is reviewing burn resuscitation with a new graduate nurse. Which statement by the new nurse shows a need for further teaching?",
+        "options": [
+          "\"If the client arrives 2 hours after the burn, I have 6 hours to give the first half.\"",
+          "\"Electrical burns use 4 mL per kilogram per percent TBSA because of hidden tissue damage.\"",
+          "\"The formula gives me a starting rate, and I adjust it based on how the client responds.\"",
+          "\"I start the 8-hour clock when the client is admitted to the burn unit.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct. The 8-hour window is timed from the injury, so time already elapsed shortens it.",
+          "This is correct. It matches the lecture's electrical formula.",
+          "This is correct. The lecture says to adjust the rate based on response and to monitor daily weights and labs.",
+          "CJMM — Analyze cues: the lecture specifically warns that the first 8-hour period is measured from the time of the burn injury, not from ED arrival or unit admission. Starting the clock at admission delays the front-loaded fluid while the leak is building. Take action: re-teach that elapsed time is subtracted, so the first-half volume is given over the remaining hours."
+        ]
+      },
+      {
+        "stem": "A client with 38% TBSA flame burns to the trunk and both legs is in the emergent phase. The airway is patent. Which actions should the nurse include in the plan of care? Select all that apply.",
+        "options": [
+          "Measure urine output and document fluid intake every hour",
+          "Position the burned legs dependent to promote venous filling",
+          "Use a Doppler to obtain BP or pulses in edematous burned extremities",
+          "Initiate continuous cardiac monitoring",
+          "Keep the room cool to reduce the hypermetabolic response",
+          "Apply a large-bore IV and give LR per the burn formula"
+        ],
+        "answer": [
+          0,
+          2,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—the lecture specifies hourly intake documentation and hourly urine output to evaluate resuscitation.",
+          "Incorrect—burned limbs are elevated to reduce edema. Dependent positioning worsens edema and the tourniquet effect.",
+          "Correct—edema makes palpation and cuff readings unreliable, so the lecture lists Doppler for BP and pulses.",
+          "Correct—this is part of emergent management. Fluid and electrolyte shifts raise the risk of dysrhythmia.",
+          "Incorrect—loss of skin impairs temperature control, and early hypothermia is common. A warm environment and external heat sources are needed.",
+          "Correct—large-bore access and LR resuscitation treat burn shock."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client was burned while lying supine on a hot surface and has burns to the posterior trunk, the posterior surfaces of both legs, and the posterior head and neck. Using the adult Rule of Nines, which TBSA should the nurse calculate?",
+        "options": [
+          "40.5%",
+          "54%",
+          "36%",
+          "45%"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: posterior trunk 18% + posterior right leg 9% + posterior left leg 9% + posterior head/neck 4.5%. Analyze cues: 18 + 18 + 4.5 = 40.5% TBSA. Burns over 20% TBSA involve extensive fluid shifts, so the nurse anticipates LR resuscitation and hourly monitoring.",
+          "This counts both legs as whole legs (36%). Only the posterior surfaces (9% each = 18%) are burned.",
+          "This leaves out the posterior head and neck (4.5%). The head and neck is a high-risk location for airway edema and must be counted.",
+          "This counts the entire head and neck as 9%. Only the posterior half (4.5%) is burned."
+        ]
+      },
+      {
+        "stem": "A nurse in a mixed adult/pediatric ED is estimating burn size for a 3-year-old with scald burns to the head and chest and for the child's 30-year-old parent with burns to both arms. Which approach is most accurate?",
+        "options": [
+          "Use the adult Rule of Nines for both clients and adjust the child's fluid rate by weight",
+          "Use the Lund-Browder chart for the child and the Rule of Nines for the parent",
+          "Use the Lund-Browder chart for the parent and estimate the child by palm size",
+          "Estimate both using the Rule of Nines, then reassess depth after 72 hours"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Weight-based fluid dosing does not correct a wrong TBSA. A young child's head makes up a larger share of body surface, so adult percentages would underestimate the burn.",
+          "CJMM — Recognize cues: one client is a young child and one is an adult. Analyze cues: the lecture notes the Lund-Browder chart adjusts for age because body proportions change, which makes it especially useful in children. The adult Rule of Nines fits the parent. Take action: use the right tool for each client so fluid calculations are accurate.",
+          "Lund-Browder is age-adjusted and is most useful for children. The lecture's tools are the Rule of Nines and Lund-Browder, so palm estimates are not the lecture's method for the child.",
+          "Reassessing depth is appropriate because burns evolve, but it does not fix the child's TBSA. Age-related body proportions call for the Lund-Browder chart."
+        ]
+      },
+      {
+        "stem": "Day 4 after a 45% TBSA burn, a client's resuscitation fluids are still running at the 24-hour rate. Urine output has risen to 180 mL/h, daily weight is up 3 kg, crackles are new in both bases, and RR is 28/min. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "Capillary leak is still at its peak, so the high fluid rate is still needed",
+          "The large urine output reflects early acute kidney injury from myoglobin",
+          "The client is mobilizing edema fluid and is at risk for fluid overload",
+          "New crackles indicate inhalation injury, so the nurse should request bronchoscopy"
+        ],
+        "answer": 2,
+        "explanations": [
+          "The intravascular leak peaks at 24–36 hours. By day 4 the client is in the acute phase, where fluid is shifting back into the vessels.",
+          "Myoglobin-related AKI usually causes low output and dark urine. Rising output with crackles points to fluid remobilization, not renal failure.",
+          "CJMM — Recognize cues: day 4 (acute phase begins at 48–72 hours), diuresis, weight gain, new crackles, tachypnea. Analyze cues: the lecture says to continue CAUTIOUS fluid and electrolyte administration as fluid shifts and diuresis occur. Fluid is returning to the vessels. Prioritize hypotheses: circulatory overload. Take action: notify the provider to reduce fluids and monitor respiratory status, weights, and labs.",
+          "Inhalation injury is assessed early after exposure. New crackles with weight gain during diuresis fit fluid overload better, so this misreads the cues."
+        ]
+      },
+      {
+        "stem": "Six hours after a 40% TBSA full-thickness flame burn, a client's telemetry shows new tall, peaked T waves. Serum potassium is 6.1 mEq/L, and urine output has been 15 mL/h for 2 hours. Which interpretation best explains these findings?",
+        "options": [
+          "Potassium released from destroyed cells, plus reduced renal excretion from low perfusion",
+          "Potassium shifting back into cells as fluid is remobilized during the diuretic phase",
+          "Hemolysis of the lab sample from drawing blood through a burned extremity",
+          "Excess potassium given in the lactated Ringer's resuscitation fluid"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: emergent phase, full-thickness burns, peaked T waves, K+ 6.1, oliguria. Analyze cues: damaged cells release potassium, and reduced blood volume lowers renal perfusion and excretion. Prioritize hypotheses: hyperkalemia with cardiac risk. Take action: continuous cardiac monitoring, notify the provider, and restore renal perfusion with fluids. Evaluate outcomes: K+ trending down and urine output rising.",
+          "Cells take potassium back up later, in the acute phase, and the risk then is hypokalemia. At 6 hours the client is in the emergent phase, so the timing does not fit.",
+          "A hemolyzed sample can falsely raise potassium. But the ECG changes and oliguria confirm true hyperkalemia, so dismissing it is unsafe.",
+          "LR contains only a small amount of potassium. It does not explain a level of 6.1 with ECG changes. Cell destruction and low renal perfusion do."
+        ]
+      },
+      {
+        "stem": "A client has a flame burn on the thigh. The center is waxy white and leathery with no blisters, and the client reports little pain there. The edges are red, blistered, and very painful. Which statement by a nursing student needs correction?",
+        "options": [
+          "\"The center probably has destroyed nerve endings, which is why it hurts less.\"",
+          "\"This one wound has areas of different depth, so its final depth may take days to know.\"",
+          "\"The painful red edges are the most serious part, so they need the most attention.\"",
+          "\"The waxy center will likely need grafting and carries a risk of contracture.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is accurate. Full-thickness burns are usually anesthetic or hypoesthetic because the nerve endings are destroyed.",
+          "This is accurate. The lecture notes burn wounds are not uniform, and final depth may take several days to determine.",
+          "CJMM — Recognize cues: a waxy, leathery, nearly painless center inside a painful blistered border. Analyze cues: the lecture warns that a full-thickness burn may be relatively painless because nerve endings are destroyed, so less pain does not mean less severe. Prioritize hypotheses: the center is the deepest injury. Take action: correct the student and teach that pain does not indicate depth.",
+          "This is accurate. Full-thickness burns are candidates for grafting and are linked to severe scarring and contractures."
+        ]
+      },
+      {
+        "stem": "A client has a scald on the forearm that blistered within a few hours. The wound is red, wet, painful, and blanches with pressure. The client asks, \"Will I need surgery or end up with a bad scar?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"This depth often needs a skin graft to close, and scarring over the arm is expected.\"",
+          "\"Burns like this usually heal on their own in about 1 to 3 weeks, and scarring is unusual.\"",
+          "\"Because it hurts this much, the burn is deep, and we'll know about grafting in 2 days.\"",
+          "\"This burn only involves the outer layer of skin, so it will heal in a few days.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This describes deep partial-thickness or full-thickness burns. A blistering, blanching, wet, painful wound fits superficial partial-thickness.",
+          "CJMM — Recognize cues: blisters within 24 hours, red, wet, painful, blanching. Analyze cues: these match superficial partial-thickness burns, which the lecture says heal in 7–21 days with scarring unusual. Take action: give accurate teaching while continuing to reassess, because burn depth can progress.",
+          "Severe pain is typical of superficial partial-thickness burns, which have intact nerve endings. Linking more pain with more depth misreads the cue.",
+          "A burn of the epidermis only is superficial: dry, red, and without blisters. Blistering means the dermis is involved."
+        ]
+      },
+      {
+        "stem": "A client's hand burn is mottled white-to-red and waxy, and the client feels pressure but not light touch over it. Which expectation should the nurse include in the plan of care?",
+        "options": [
+          "Heals within 7–21 days with minimal scarring, so the plan focuses on dressing changes alone",
+          "Insensate tissue that needs no analgesia during wound care",
+          "Candidate for grafting, with early positioning and therapy to limit hypertrophic scarring",
+          "Superficial injury that can be left open to air with no splinting"
+        ],
+        "answer": 2,
+        "explanations": [
+          "That course fits superficial partial-thickness burns. Damaged follicles and glands with pain to pressure only mean a deeper injury.",
+          "Deep partial-thickness burns are still painful to pressure. Procedures need planned analgesia. This misreads the cue.",
+          "CJMM — Recognize cues: mottled white-to-red, waxy, painful to pressure only. Analyze cues: these fit a deep partial-thickness burn. Hair follicles and glands are damaged, and hypertrophic scarring is a risk. Generate solutions: deep partial-thickness burns are grafting candidates, and the hands need special attention for function. Take action: plan for grafting, positioning, and early mobility.",
+          "Leaving a burn open to air is described for the face, not the hands. A deep hand burn needs function-preserving care, splinting, and contracture prevention."
+        ]
+      },
+      {
+        "stem": "A 78-year-old and a 30-year-old are both scalded by the same pot of boiling water over similar areas of the forearm. On arrival, both wounds look alike. Which action by the nurse best reflects the source's guidance?",
+        "options": [
+          "Document both as the same depth, because the mechanism and exposure time were identical",
+          "Anticipate a deeper injury in the older adult and reassess both wounds over the next several days",
+          "Classify both wounds today so the grafting decision can be made before discharge",
+          "Expect the younger adult's burn to be deeper because thicker skin holds more heat"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Identical exposure does not mean identical injury. Older adults have thinner skin, and depth can evolve over time.",
+          "CJMM — Recognize cues: age 78 versus 30, same scald. Analyze cues: adults over 55 have thinner skin and are prone to deeper burns. Increasing age is also a mortality predictor. Burn wounds evolve as mediators change blood flow and cause edema. Take action: anticipate greater depth in the older adult and reassess both wounds. Evaluate outcomes: track depth changes in the documentation.",
+          "The lecture notes final depth may take several days to determine. Committing early skips reassessment.",
+          "This reverses the risk. Adults over 55 and children under 5 are more susceptible to deeper burns because of thinner skin."
+        ]
+      },
+      {
+        "stem": "A worker is brought to the occupational health office after a chemical splashed onto the chest and arms and soaked the shirt. The worker is alert, breathing without distress, and reporting burning pain. After ensuring staff are protected, what should the nurse do first?",
+        "options": [
+          "Cover the area with a clean, dry dressing and arrange transport to the ED",
+          "Insert a large-bore IV before any further skin care",
+          "Apply ice packs to the burned area to limit tissue injury",
+          "Remove the soaked clothing and begin continuous irrigation of the skin"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Covering the wound is part of first aid, but the chemical keeps burning while it stays on the skin. Covering it first traps the agent.",
+          "IV access matters for major burns, but it does not stop the burning process. The airway is intact, so stopping the burn comes first.",
+          "Ice is not part of the lecture's first aid and adds to hypothermia risk. It also does not remove the chemical.",
+          "CJMM — Recognize cues: ongoing chemical exposure through soaked clothing; airway and breathing intact. Analyze cues: the lecture's sequence is scene safety, then stop the burning process (remove restrictive or contaminated clothing), and continuous irrigation for chemical injuries. Take action: remove the clothing and irrigate. Then cover with a clean, dry dressing and transport."
+        ]
+      },
+      {
+        "stem": "A camper's sleeve caught fire. Bystanders put out the flames, and the camper is now away from the fire. The camper is talking in full sentences, and the forearm is red and swelling quickly under a tight watch and a ring. What should the first responder nurse do next?",
+        "options": [
+          "Remove the watch and ring and any constricting clothing from the arm",
+          "Apply butter or ointment to soothe the burn before transport",
+          "Wrap the arm snugly in a damp towel to reduce swelling",
+          "Elevate the arm and wait for EMS to remove the jewelry"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the scene is safe, the airway is intact (full sentences), and there is rapid swelling under jewelry. Analyze cues: edema can act like a tourniquet. Generate solutions: the lecture says to stop the burning process and remove restrictive clothing. Take action: remove the jewelry and constricting items now, then cover with a clean, dry cloth and arrange emergency evaluation.",
+          "Ointments are not part of the lecture's first aid. They hold in heat and interfere with wound assessment. The wound is covered with a clean, dry cloth.",
+          "A snug wrap adds constriction as the arm swells, and wet coverings add to heat loss. The lecture calls for a clean, dry covering.",
+          "Elevation helps with edema, but waiting allows swelling to trap the jewelry and act as a tourniquet, causing ischemia."
+        ]
+      },
+      {
+        "stem": "A client found in a smoke-filled bedroom has small burns on one hand. The client reports a headache and nausea and is confused. SpO2 is 98% on room air, and RR is 22/min. Which action should the nurse take first?",
+        "options": [
+          "Apply oxygen at 2 L/min by nasal cannula because the saturation is acceptable",
+          "Clean and dress the hand burns and reassess neurologic status in 1 hour",
+          "Apply 100% oxygen by non-rebreather mask and report suspected CO poisoning",
+          "Obtain a 12-lead ECG and continue monitoring on room air"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Low-flow oxygen does not displace carbon monoxide. The lecture specifies 100% oxygen for suspected CO poisoning.",
+          "This focuses on the visible wound and delays treating the poisoning. The lecture warns that serious inhalation or poisoning injury can be present even when external burns look limited.",
+          "CJMM — Recognize cues: enclosed-space smoke exposure, headache, nausea, confusion. Analyze cues: pulse oximetry can read normal in CO poisoning because the device cannot tell carboxyhemoglobin from oxyhemoglobin. Prioritize hypotheses: CO poisoning is causing neurologic signs. Take action: 100% oxygen. Evaluate outcomes: improving mentation and resolving headache.",
+          "Monitoring is useful, but delaying high-concentration oxygen leaves the tissues hypoxic from CO."
+        ]
+      },
+      {
+        "stem": "Three hours after a flame burn to the face and neck in a closed garage, a client who was speaking normally on arrival now has a hoarse voice, faint inspiratory stridor, and drooling. SpO2 is 95% on a non-rebreather mask. Which action should the nurse take?",
+        "options": [
+          "Increase the head of the bed and recheck the airway in 30 minutes",
+          "Notify the provider immediately and prepare for emergent airway management",
+          "Encourage the client to cough and deep breathe to clear the secretions",
+          "Continue the non-rebreather because the saturation is within normal limits"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Raising the head of the bed is supportive, but stridor and drooling signal progressing upper-airway edema. Waiting risks complete obstruction.",
+          "CJMM — Recognize cues: new hoarseness, stridor, drooling after a facial burn in an enclosed space. Analyze cues: thermal injury causes upper-airway edema that worsens over hours. Prioritize hypotheses: impending airway obstruction. Take action: escalate now and prepare for intubation before the airway closes. Evaluate outcomes: secured airway with stable oxygenation.",
+          "Pulmonary toilet treats lower-airway secretions. It does not address obstructive edema in the upper airway.",
+          "A normal SpO2 is a late indicator of airway obstruction. The lecture warns not to wait for severe obstruction before escalating."
+        ]
+      },
+      {
+        "stem": "A nurse is assessing four clients brought in after a warehouse fire. Which findings should the nurse recognize as indicators of smoke inhalation injury? Select all that apply.",
+        "options": [
+          "Singed eyebrows and nasal hair",
+          "Sputum flecked with black, sooty particles",
+          "Burns sustained while trapped in a closed storage room",
+          "Blanching red skin on the back of both hands",
+          "Pain rated 8/10 at a blistered shin wound",
+          "New hoarseness and noisy breathing"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—singed facial hair is a listed indicator.",
+          "Correct—carbonaceous sputum is a listed indicator.",
+          "Correct—flame injury in an enclosed space is a listed indicator.",
+          "Incorrect—this describes a superficial skin burn and does not suggest airway injury.",
+          "Incorrect—pain at a partial-thickness burn is expected and does not point to inhalation injury.",
+          "Correct—evolving airway edema or obstruction calls for urgent reassessment."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client has confirmed lower-airway inhalation injury after bronchoscopy. The airway is patent, the client is on high-flow oxygen, and coarse rhonchi with thick, sooty secretions are present. Which intervention best addresses the client's current problem?",
+        "options": [
+          "Aggressive pulmonary toilet with coughing, deep breathing, and suctioning as needed",
+          "Keep the client flat and still to reduce oxygen demand",
+          "Repeat bronchoscopy every shift to evaluate healing",
+          "Limit suctioning to avoid irritating the injured airway"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: bronchoscopy-confirmed lower-airway injury, rhonchi, sooty secretions. Analyze cues: combustion products cause lower-airway injury with debris and secretions. Generate solutions: the lecture's treatment includes aggressive pulmonary toilet and close respiratory monitoring. Take action: coughing, deep breathing, and suctioning. Evaluate outcomes: clearer breath sounds and stable SpO2.",
+          "Immobility lets secretions pool and raises the risk of pneumonia. It works against the lecture's emphasis on pulmonary toilet.",
+          "Bronchoscopy is the definitive diagnostic test, not a routine treatment. Repeating it each shift does not clear secretions.",
+          "Thick combustion debris must be cleared. Holding back airway clearance risks obstruction and infection."
+        ]
+      },
+      {
+        "stem": "A burn-unit nurse receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "A client 2 days after grafting who reports itching under the dressing",
+          "A client admitted 1 hour ago from a house fire with singed nasal hair whose voice is becoming hoarse",
+          "A client with a 20% TBSA scald whose urine output was 40 mL in the last hour",
+          "A client in the rehabilitation phase who is tearful about facial scarring"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Itching is common and not unstable. It still needs follow-up, but it is not the priority.",
+          "CJMM — Recognize cues: a new enclosed-space fire victim with singed facial hair and a voice that is becoming hoarse. Analyze cues: these suggest progressing airway edema. Prioritize hypotheses: airway threat outranks circulation, wound, and psychosocial issues (ABCs). Take action: assess this client first and escalate airway concerns early.",
+          "This output is reassuring for many adults. The client should be evaluated against the target, but it is not as urgent as a threatened airway.",
+          "Body-image distress needs therapeutic support, but it is not a threat to physiological stability."
+        ]
+      },
+      {
+        "stem": "A 35-year-old arrives after escaping an apartment fire through thick smoke. BP 104/68 mm Hg, HR 122/min, RR 32/min, SpO2 92% on a non-rebreather mask at 15 L/min, with burns to the chest and both arms. EMS placed an 18-gauge IV with LR infusing. Which nursing action is the priority?",
+        "options": [
+          "Calculate the TBSA with the Rule of Nines to set the LR rate",
+          "Insert an indwelling urinary catheter to begin hourly output measurement",
+          "Assess airway patency and breathing and prepare for possible CO poisoning",
+          "Give IV opioid analgesia for the burn pain and anxiety"
+        ],
+        "answer": 2,
+        "explanations": [
+          "TBSA guides fluids and is needed soon. But it comes after the airway and breathing have been evaluated in a client with tachypnea and SpO2 of 92%.",
+          "This is part of the emergent plan but is a circulation-monitoring step. Airway and breathing come first.",
+          "CJMM — Recognize cues: smoke exposure in an enclosed space, RR 32, SpO2 92% on high-flow oxygen, tachycardia. Analyze cues: inhalation injury or CO poisoning may be developing. Prioritize hypotheses: airway and breathing threats come first in the primary survey (ABCDE). Take action: assess and protect the airway and continue high-concentration oxygen. Then confirm TBSA, LR rate, catheter, monitoring, analgesia, and warmth.",
+          "Pain management matters, but opioids can depress breathing in a client whose airway and gas exchange have not been evaluated yet."
+        ]
+      },
+      {
+        "stem": "Eight hours after a circumferential full-thickness burn of the right forearm, the client's arm is tense. Capillary refill in the fingers is 5 seconds, the Doppler radial signal has weakened since the last check, and the client reports new numbness in the fingers. The arm is elevated. What should the nurse do?",
+        "options": [
+          "Loosen the dressing, lower the arm to heart level, and reassess in 1 hour",
+          "Notify the provider urgently of possible need for escharotomy",
+          "Apply warm compresses to the hand to improve circulation",
+          "Document the findings as expected edema and continue hourly checks"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Loosening the dressing is reasonable, but the problem is constricting eschar and edema. Waiting an hour while perfusion falls risks permanent ischemia.",
+          "CJMM — Recognize cues: circumferential deep burn, delayed capillary refill, weakening Doppler signal, new paresthesia. Analyze cues: deep-burn edema can continue for up to 18 hours and act like a tourniquet, causing ischemia. Prioritize hypotheses: compartment compromise. Take action: notify the provider urgently; the lecture lists escharotomy or fasciotomy for severe cases. Evaluate outcomes: Doppler signal and capillary refill return after release.",
+          "Warmth does not relieve the mechanical compression. The burned tissue also cannot sense heat, which risks further injury.",
+          "Edema is expected, but falling pulses and new numbness mean the edema is acting like a tourniquet. This is an Analyze cues failure."
+        ]
+      },
+      {
+        "stem": "On day 2 of resuscitation for a 60% TBSA burn, a client on enteral feedings has gastric residuals that keep rising and a tense, distended abdomen. Bladder pressure has increased from the morning reading, serum lactate is 4.2 mmol/L, and urine output is falling. Which complication should the nurse suspect?",
+        "options": [
+          "Curling ulcer from physiologic stress",
+          "Expected paralytic ileus that will resolve with continued feedings",
+          "Fluid overload from remobilization of edema fluid",
+          "Abdominal compartment syndrome with GI and renal ischemia"
+        ],
+        "answer": 3,
+        "explanations": [
+          "A Curling ulcer presents with GI bleeding, such as coffee-ground aspirate or a falling hemoglobin. It does not explain rising bladder pressure and lactate.",
+          "Ileus can cause feeding intolerance, but rising bladder pressure, lactate, and falling output point to organ ischemia. Continuing to feed is unsafe.",
+          "Remobilization occurs in the acute phase (48–72 hours or later) and usually brings diuresis, not falling output with rising abdominal pressure.",
+          "CJMM — Recognize cues: massive resuscitation, feeding intolerance, rising bladder pressure, elevated lactate, oliguria. Analyze cues: the lecture names increased bladder pressure, increased serum lactate, and feeding intolerance as indicators of GI ischemia. Resuscitation and edema can cause abdominal compartment syndrome, and increased abdominal pressure can cause renal ischemia. Take action: hold the feeding and notify the provider urgently."
+        ]
+      },
+      {
+        "stem": "A client who touched a high-voltage line has a small entry wound on the hand and an exit wound on the foot. Two hours later, the urine in the catheter bag is dark reddish-brown, and output is 25 mL/h. Which action should the nurse anticipate?",
+        "options": [
+          "Reduce the LR rate because the small skin wounds suggest a minor injury",
+          "Send a urine culture and start an antibiotic for a suspected urinary tract infection",
+          "Increase fluids per protocol and notify the provider of possible myoglobinuria",
+          "Clamp the catheter for 1 hour to obtain a concentrated specimen"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Electrical burns damage deep tissue that the skin wounds do not show, which is why the lecture uses the 4 mL formula. Reducing fluids would worsen kidney injury.",
+          "Dark urine after muscle injury suggests myoglobin, not infection. Treating it as a UTI delays protecting the kidneys.",
+          "CJMM — Recognize cues: high-voltage injury with entry and exit wounds, dark reddish-brown urine, low output. Analyze cues: the lecture says muscle damage releases myoglobin, risking AKI, and RBC destruction causes hemoglobinuria. Generate solutions: replace fluid to restore renal blood flow. Take action: increase fluids per protocol and notify the provider. Evaluate outcomes: urine clearing in color and output rising.",
+          "Clamping interrupts the hourly output monitoring that is central to evaluating resuscitation."
+        ]
+      },
+      {
+        "stem": "Five days after a 50% TBSA burn, a client's nasogastric aspirate turns coffee-ground in color. Hemoglobin has dropped from 10.8 to 9.1 g/dL, and HR has risen from 98 to 116/min. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "Anemia from surgical debridement blood loss, so the nurse should anticipate a transfusion",
+          "Paralytic ileus, so the nurse should increase NG suction and hold feedings",
+          "Curling ulcer from physiologic stress, which needs prompt provider notification",
+          "Swallowed blood from airway suctioning, so the nurse should document and keep monitoring"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Debridement can cause anemia, but the coffee-ground aspirate places the bleeding in the stomach. Missing the source delays treatment.",
+          "Ileus means the gut is not moving and does not cause blood in the aspirate. This misreads the main cue.",
+          "CJMM — Recognize cues: coffee-ground NG aspirate, falling hemoglobin, rising HR in a major burn. Analyze cues: the lecture defines Curling ulcer as gastric bleeding caused by massive physiologic stress. Prioritize hypotheses: upper GI bleed. Take action: notify the provider promptly and monitor hemodynamics. Evaluate outcomes: aspirate clears and HR and hemoglobin stabilize.",
+          "Swallowed blood is possible, but a falling hemoglobin and rising HR mean active bleeding. Monitoring alone delays care."
+        ]
+      },
+      {
+        "stem": "After a 40-minute shower-cart dressing change, a client with 35% TBSA burns is shivering with a temperature of 35.6°C (96.1°F). The room thermostat is set at 22°C (72°F). Which change should the nurse make for future wound care?",
+        "options": [
+          "Shorten the session and keep the room at 22°C to reduce bacterial growth",
+          "Set the room to 26.6–29.4°C (80–85°F) and use water at 37.8°C (100°F)",
+          "Use cooler water to reduce pain and apply a warming blanket afterward",
+          "Give acetaminophen before wound care to blunt the shivering response"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A shorter session helps, but a 22°C room ignores the cause. Burn clients lose heat through open wounds, and the lecture calls for a warmer room.",
+          "CJMM — Recognize cues: shivering and 35.6°C after prolonged wound exposure in a cool room. Analyze cues: loss of skin impairs temperature regulation, and early hypothermia is common. TBSA, IV fluids, and the environment all contribute. Take action: use the lecture's settings, a room at 26.6–29.4°C (80–85°F) and water at 37.8°C (100°F), plus external heat sources. Evaluate outcomes: normothermia after future dressing changes.",
+          "Cool water adds to heat loss during the procedure. The lecture specifies 37.8°C (100°F) water.",
+          "Acetaminophen does not treat heat loss. Shivering here is a sign of hypothermia, not fever."
+        ]
+      },
+      {
+        "stem": "A nurse is applying dressings to a client with partial- and full-thickness burns of both hands, the right arm circumferentially, and the face. Which actions are appropriate? Select all that apply.",
+        "options": [
+          "Wrap each finger individually",
+          "Wrap the circumferential arm dressing from the shoulder down toward the hand",
+          "Use lighter dressing layers over the elbow and wrist",
+          "Cover the facial burns with a bulky occlusive dressing",
+          "Keep the axilla and arm from resting against the trunk",
+          "Apply several layers of dry dressing over the forearm burns"
+        ],
+        "answer": [
+          0,
+          2,
+          4,
+          5
+        ],
+        "explanations": [
+          "Correct—individual wraps preserve finger mobility and keep burned surfaces from touching.",
+          "Incorrect—circumferential dressings go from distal to proximal. Wrapping downward pushes fluid into the hand and worsens distal edema.",
+          "Correct—lighter dressings over joints support mobility.",
+          "Incorrect—facial burns may be left open to air. Occlusive dressings are used for new skin grafts.",
+          "Correct—the lecture says to prevent body surfaces from touching, which reduces adhesion and maceration.",
+          "Correct—several layers of dry dressing are the lecture's standard covering."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with 40% TBSA full-thickness burns is 18 hours post-injury. BP is 84/50 mm Hg on vasopressor support, and urine output is below target. The surgeon's note reads \"Plan early excision and grafting.\" The OR schedules the case for this afternoon. Which action by the nurse is most appropriate?",
+        "options": [
+          "Prepare the client for surgery because early excision lowers the hypermetabolic response",
+          "Report the instability and clarify the timing of surgery with the surgeon",
+          "Increase the LR rate so the client is stable by the time of transport",
+          "Ask for chemical debridement to be started instead so surgery can be avoided"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Early excision is beneficial, but the lecture says surgical excision is done once the client is hemodynamically stable. Going now ignores the second cue.",
+          "CJMM — Recognize cues: hypotension on vasopressors and oliguria at 18 hours. Analyze cues: early excision and closure are critical and reduce the inflammatory and hypermetabolic response. Surgery also carries extensive blood loss, a long operation, and anemia, and it is done once the client is hemodynamically stable. Take action: report the instability and clarify the timing with the surgeon.",
+          "Titrating fluids is reasonable, but the nurse cannot assume stability in time. The timing still needs to be clarified with the surgeon.",
+          "Choosing the debridement method is not a nursing decision, and the full-thickness burns will still need excision and grafting."
+        ]
+      },
+      {
+        "stem": "A client returns from surgery with a split-thickness autograft over the dorsum of the right hand and wrist. Which postoperative actions should the nurse include? Select all that apply.",
+        "options": [
+          "Keep the grafted hand elevated above heart level",
+          "Maintain the splint and occlusive, bulky dressing as applied",
+          "Begin active range-of-motion exercises of the wrist on postoperative day 1",
+          "Monitor the dressing for bleeding and signs of infection",
+          "Remove the dressing on day 1 to inspect graft adherence",
+          "Reposition the client so nothing rubs against or drags across the graft"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—elevation limits edema that could lift the graft off the wound bed.",
+          "Correct—graft protection and joint immobilization prevent shearing.",
+          "Incorrect—the lecture starts exercise of the grafted area at 5–7 days. Early motion risks shearing the graft.",
+          "Correct—bleeding, infection, and shearing are the monitoring priorities.",
+          "Incorrect—the first dressing change occurs 3–5 days after surgery. Early removal can disrupt the graft.",
+          "Correct—avoiding friction and shearing forces protects graft adherence."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client is on postoperative day 2 after a split-thickness autograft over the anterior knee. Which prescription should the nurse question?",
+        "options": [
+          "Physical therapy: active and passive knee range of motion twice daily starting today",
+          "Keep the knee immobilizer in place over the bulky dressing",
+          "Elevate the grafted leg on pillows",
+          "First dressing change on postoperative day 4"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: postoperative day 2, graft over a joint, exercise prescribed today. Analyze cues: the lecture starts exercise of the grafted area at 5–7 days after surgery. Moving the knee now creates shearing forces that can disrupt the graft. Take action: question the PT order and clarify the start date. Evaluate outcomes: graft adherence at the first dressing change.",
+          "Splinting joints protects the graft and is expected in the immediate postoperative period.",
+          "Elevation limits edema that could lift the graft off the bed, so it is appropriate.",
+          "This falls within the lecture's 3–5 day window for the first dressing change."
+        ]
+      },
+      {
+        "stem": "A client has porcine xenograft coverage over a large excised burn while awaiting autografting. On day 6, the nurse notes purulent drainage and a foul odor beneath the xenograft, and the client's temperature is 38.7°C (101.7°F). Which action should the nurse anticipate?",
+        "options": [
+          "Reinforce the dressing and recheck the site at the next scheduled change",
+          "Apply an occlusive dressing to lower evaporative loss until the autograft",
+          "Expect these signs as part of normal xenograft rejection and continue to monitor",
+          "Notify the provider and prepare for removal of the xenograft"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Reinforcing the dressing does not address the infection. Delaying risks spreading wound infection in an immunocompromised burn client.",
+          "Occluding an infected wound traps the bacteria. Reduced evaporative loss is a benefit of temporary grafts, not a treatment for infection.",
+          "Purulence, odor, and fever are signs of infection, not an expected finding. The lecture says to remove the graft when infection or rejection occurs.",
+          "CJMM — Recognize cues: purulent drainage, odor, fever under a temporary graft. Analyze cues: burns impair immune defenses, and the lecture says homografts and xenografts are removed if infection or rejection occurs. Take action: notify the provider and anticipate removal plus wound care and cultures per protocol. Evaluate outcomes: fever resolves and the wound bed is clean."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a client about the split-thickness donor site on the thigh. Which client statement shows a need for further teaching?",
+        "options": [
+          "\"This spot may hurt as much as my burn, so I should ask for pain medicine before dressing care.\"",
+          "\"Since the donor site is a clean wound, I don't need to watch it for infection.\"",
+          "\"It should heal in about 1 to 2 weeks.\"",
+          "\"If more skin is needed later, this area may be harvested again once it heals.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is accurate. Donor sites are very painful.",
+          "CJMM — Analyze cues: a donor site is a clean superficial wound created to obtain graft skin, but the lecture states donor sites are highly painful and susceptible to infection. Take action: re-teach the signs of infection and how to protect the dressing. Evaluate outcomes: the client correctly describes signs to report.",
+          "This is accurate. Typical adult donor-site healing is 7–14 days.",
+          "This is accurate. The lecture notes reharvesting is possible when donor sites are limited."
+        ]
+      },
+      {
+        "stem": "A client with 30% TBSA burns receives a scheduled long-acting opioid and rates pain at 3/10 at rest. During yesterday's dressing change, pain rose to 9/10, and the client could not tolerate the procedure. Today's dressing change is in 30 minutes. Which action should the nurse take?",
+        "options": [
+          "Give a short-acting analgesic before the procedure, timed to peak during wound care",
+          "Give an extra dose of the long-acting opioid now",
+          "Postpone the dressing change until the pain at rest is 0/10",
+          "Use guided imagery during the procedure as the main pain strategy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: background pain controlled (3/10), procedural pain uncontrolled (9/10). Analyze cues: the lecture separates background pain (long-acting agents), breakthrough pain (short-acting agents), and procedural pain (planned analgesia). Take action: premedicate with a short-acting agent so it peaks during the procedure. Add distraction or imagery. Evaluate outcomes: the client tolerates the dressing change.",
+          "Long-acting agents provide steady background coverage. Their slow onset and long duration do not match brief, intense procedural pain and add to sedation risk.",
+          "Delaying wound care raises infection risk, and resting pain is already controlled. The problem is procedural pain.",
+          "Nonpharmacologic strategies are useful additions, but they are not enough alone for 9/10 procedural pain."
+        ]
+      },
+      {
+        "stem": "A nurse revised a burn client's pain plan to include planned procedural analgesia and relaxation techniques. Which finding best shows the plan is effective?",
+        "options": [
+          "The client sleeps most of the day and requires frequent prompting to wake",
+          "The client completes the dressing change and performs the prescribed range of motion",
+          "The client stops asking for breakthrough medication after the first day",
+          "The client's heart rate during the dressing change is unchanged from yesterday"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Sedation is not pain relief. Too much sedation is a safety concern and keeps the client from taking part in therapy.",
+          "CJMM — Evaluate outcomes: the lecture tells the nurse to reassess pain after interventions and during procedures, and to evaluate whether the client can tolerate wound care, therapy, positioning, and mobility. Completing the dressing change and range of motion shows the analgesia supports the functional goals of care.",
+          "Fewer requests can mean pain is relieved, but it can also mean fear of addiction or withdrawal. It is not a direct measure of function.",
+          "If HR was elevated yesterday, an unchanged HR means no improvement. Vital signs alone are not reliable measures of burn pain."
+        ]
+      },
+      {
+        "stem": "Ten days after a 45% TBSA burn, a client has lost 6 kg, the wounds are healing slowly, and the client eats less than half of each meal tray. HR is 112/min at rest, and temperature is 38.0°C (100.4°F) with negative cultures. Which plan should the nurse advocate for?",
+        "options": [
+          "A low-calorie, high-fiber diet to prevent ileus and constipation",
+          "A high-protein, high-calorie diet with supplemental enteral feeding",
+          "NPO status with IV fluids until appetite returns",
+          "Daily weights only, deferring diet changes until wounds are grafted"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Calorie restriction worsens the catabolic, hypermetabolic state and slows healing.",
+          "CJMM — Recognize cues: weight loss, slow healing, poor intake, resting tachycardia, and low-grade temperature with negative cultures. Analyze cues: the burn hypermetabolic response raises energy and protein needs, and the lecture lists modulating this response as an acute-phase priority. Generate solutions: high-protein, high-calorie intake with enteral supplementation, while watching feeding tolerance. Evaluate outcomes: weight stabilizes and wounds heal.",
+          "Withholding nutrition deepens protein breakdown. The gut should be used unless there is ileus or ischemia, and nothing here suggests either.",
+          "Monitoring without action allows ongoing muscle wasting and further delays wound healing."
+        ]
+      },
+      {
+        "stem": "A client whose grafts have healed is being discharged with custom pressure garments. Which client statement shows a need for further teaching?",
+        "options": [
+          "\"I'll wear the garments about 23 hours a day and take them off to bathe.\"",
+          "\"The pressure helps my scars lie flatter by changing how the collagen lines up.\"",
+          "\"I'll wear them at night while I sleep, since that's when the scars form.\"",
+          "\"I'll gently massage my scars with moisturizer.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. The lecture recommends a wear time of 23 hours a day.",
+          "This is correct. Pressure loosens collagen bundles and encourages parallel alignment.",
+          "CJMM — Analyze cues: wearing garments only at night gives about 8 hours of pressure, far short of the 23 hours a day the lecture recommends after grafts heal. Inconsistent pressure lets hypertrophic scarring progress. Take action: re-teach the wear schedule and the use of inserts for difficult areas. Evaluate outcomes: flatter, softer scars at follow-up.",
+          "This is correct. Gentle superficial scar massage with moisturizer is part of scar management."
+        ]
+      },
+      {
+        "stem": "At a 3-month follow-up, a client has a red, raised, firm scar over the elbow crease that stays within the borders of the original burn and limits full extension. Which conclusion and plan is most appropriate?",
+        "options": [
+          "Keloid scar; refer for excision because pressure therapy is ineffective",
+          "Normal scar maturation; no change in therapy is needed",
+          "Hypertrophic scar; reinforce pressure garments and stretching to prevent contracture",
+          "Graft rejection; notify the surgeon for urgent graft removal"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Keloids extend beyond the wound margins and are large, nodular, and rope-like. This scar stays within its borders.",
+          "The lecture states normal scars form within 7–10 days. A raised, firm scar that limits motion is not normal maturation.",
+          "CJMM — Recognize cues: red, raised, firm scar within the wound borders, over a joint, limiting extension. Analyze cues: these fit hypertrophic scarring, which is common over joints and in younger people, as opposed to a keloid, which extends beyond the margins. Take action: reinforce compression (23 hours a day), stretching and mobility to prevent contracture, and refer for reconstruction if function stays limited.",
+          "Rejection applies to temporary homografts or xenografts during acute care. A healed scar 3 months later does not suggest it."
+        ]
+      },
+      {
+        "stem": "A nurse is planning rehabilitation-phase care for a client who had a 35% TBSA burn involving the neck, axillae, and hands. Which interventions are appropriate? Select all that apply.",
+        "options": [
+          "Encourage the client to take part in care and in decisions about the care plan",
+          "Plan for compression therapy to begin early after the grafts heal",
+          "Encourage the client to rest the hands until all wounds are fully mature",
+          "Refer the client and family to counseling and peer support programs",
+          "Delay body-image discussions until scarring is final, about 2 years from now",
+          "Teach self-care, home wound care, and follow-up needs"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—this supports coping and adaptation, as the lecture recommends.",
+          "Correct—early compression helps prevent hypertrophic scarring.",
+          "Incorrect—prolonged immobility promotes contractures and muscle wasting. Mobility, activity tolerance, and ADLs are priorities.",
+          "Correct—the lecture recommends social services, psychological counseling, and structured peer support.",
+          "Incorrect—adaptation to altered body image is an active rehabilitation priority from the start. Delaying it misses grief, depression, and anger as they occur.",
+          "Correct—a lack of knowledge is a listed priority problem, and teaching prepares the client for discharge."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "Three weeks after facial and hand burns, a client snaps at staff, refuses to look in a mirror, and says, \"Just leave me alone. What's the point? I'll never go back to work looking like this.\" Which response by the nurse is most therapeutic?",
+        "options": [
+          "\"You're very lucky to have survived. Try to focus on the positive.\"",
+          "\"Your scars will fade completely with the pressure garments, so try not to worry.\"",
+          "\"I'll come back later when you're feeling calmer.\"",
+          "\"It sounds like you're worried about how others will see you. Tell me more about what feels hardest.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This dismisses the client's grief and blocks expression of feelings. It is a nontherapeutic response.",
+          "This is false reassurance. Scars can improve but may not fade completely, and the lecture stresses realistic expectations.",
+          "Respecting space can be appropriate, but leaving without exploring the hopeless statement misses a cue that may need assessment and referral.",
+          "CJMM — Recognize cues: anger, refusing to look at the injury, hopeless statements about the future. Analyze cues: grief, depression, anger, and regression are common responses, and body-image disturbance is a priority problem. Take action: acknowledge the feelings, explore them with open-ended questions, set realistic expectations, and refer to counseling or peer support. Evaluate outcomes: the client begins to discuss concerns and takes part in care."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching the spouse of a client in a burn center about infection prevention. Which statement by the spouse shows a need for further teaching?",
+        "options": [
+          "\"I'll wash my hands and put on the gown before I go into the room.\"",
+          "\"If I wake up with a sore throat and fever, I'll call instead of visiting.\"",
+          "\"Once the dressings are on, it's okay for me to bring in fresh flowers and a plant.\"",
+          "\"Burns weaken the body's defenses, so even small germs can cause problems.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. Hand hygiene and barriers support the infection-controlled environment.",
+          "This is correct. Ill visitors pose an infection risk to a client with compromised immunity.",
+          "CJMM — Analyze cues: burn injury impairs immune defenses, and open wounds increase environmental exposure, which is why burn centers keep an infection-controlled environment. Fresh flowers and potted plants carry soil and water organisms, and dressings do not remove that risk. Take action: re-teach which items are allowed in the room. Evaluate outcomes: no visitor-introduced infection sources.",
+          "This is correct. Burns change immune defenses, and lost skin increases environmental exposure."
+        ]
+      },
+      {
+        "stem": "A client arrives after an electrical injury at work, with a small charred wound on the palm and another on the heel. The client is alert, says, \"It's just a little burn,\" and wants to go home. Which action is the priority?",
+        "options": [
+          "Clean and dress the two small wounds and arrange outpatient follow-up",
+          "Calculate fluids with the thermal formula because the TBSA is very small",
+          "Initiate continuous cardiac monitoring and assess the urine for dark discoloration",
+          "Apply cool compresses to the entry and exit sites to limit tissue damage"
+        ],
+        "answer": 2,
+        "explanations": [
+          "The skin wounds greatly underestimate the deep tissue damage along the current's path. Discharge ignores the cardiac and renal risks.",
+          "The lecture uses 4 mL × kg × %TBSA for electrical burns, not the thermal formula. Fluids are also adjusted based on response, including urine findings.",
+          "CJMM — Recognize cues: entry and exit wounds from electrical current, which seem minor. Analyze cues: current travels through deep tissue, so the visible burns understate the injury. This is why the lecture uses a higher fluid formula (4 mL) and warns about myoglobin-related AKI. Prioritize hypotheses: dysrhythmia and hidden muscle damage. Take action: continuous cardiac monitoring and urine assessment, and correct the client's misconception.",
+          "This is not part of the lecture's first aid and does nothing for the internal injury. It also adds to hypothermia risk."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing contracture prevention with a client who has healing burns on the anterior neck and both axillae. Which client statement shows a need for further teaching?",
+        "options": [
+          "\"I'll keep doing my arm exercises even though they hurt a bit.\"",
+          "\"I'll use my hands for eating and grooming as much as I can.\"",
+          "\"I'll keep the pressure garment on my neck except when bathing.\"",
+          "\"Two pillows under my head and my arms at my sides feel best, so I'll stay that way.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct. Pain with exercise is expected, and mobility prevents contracture.",
+          "This is correct. Using the hands in ADLs promotes function and endurance.",
+          "This is correct. Continuous compression, about 23 hours a day, limits hypertrophic scarring.",
+          "CJMM — Recognize cues: anterior neck and axillary burns. Analyze cues: a comfortable position of flexion lets scars shorten across the joint, and the lecture names contractures and hypertrophic scarring as rehabilitation priorities that call for positioning and early mobility. Take action: teach neck extension with no pillow, or a minimal one, and arms abducted away from the trunk. Evaluate outcomes: full neck and shoulder range of motion is kept."
+        ]
+      }
+    ],
+    "acute2-respiratory": [
+      {
+        "stem": "An 82-year-old client with kyphosis is 2 days post hip repair. Over the last hour the client has become restless and keeps trying to climb out of bed. Findings: HR 112/min (was 84), BP 152/90 mm Hg (was 128/74), RR 24/min, SpO2 92% on room air, weak cough, and diminished breath sounds at both bases. Which finding should the nurse act on first?",
+        "options": [
+          "The weak cough with diminished bases, by scheduling incentive spirometry every 2 hours",
+          "The new restlessness with rising HR and BP, by assessing oxygenation now",
+          "The SpO2 of 92%, by applying oxygen and rechecking the saturation in 1 hour",
+          "The kyphosis, by repositioning the client with pillows to improve chest expansion"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Pulmonary hygiene is right for an older adult with reduced mucociliary activity and weak recoil, but it is a prevention measure. It skips Prioritize hypotheses: the new behavior and vital-sign changes suggest hypoxemia is already developing.",
+          "CJMM — Recognize cues: new restlessness, tachycardia, and a rising BP in an older adult after surgery. Analyze cues: the brain is very sensitive to a drop in oxygen, so restlessness, confusion, tachycardia, and increased BP are EARLY warning signs of acute respiratory failure. Age-related changes (fewer alveoli, less mucociliary clearance, weaker elastic recoil, diffusion falling about 8% a year after 65, kyphosis) make this client high risk. Prioritize hypotheses: early hypoxemia must be ruled out before the behavior is labeled post-op delirium. Take action: assess oxygenation and breath sounds, raise the HOB, and notify the provider.",
+          "Oxygen may well be needed, but a 1-hour recheck is too slow for a client whose mental status just changed, and the SpO2 alone underestimates the problem. The cue cluster (behavior plus vitals) needs a full assessment and a provider call now.",
+          "Kyphosis and increased thoracic rigidity are expected, chronic age-related changes that raise risk. They are not new and do not explain an acute change in the last hour."
+        ]
+      },
+      {
+        "stem": "A client on postoperative day 3 after knee replacement suddenly reports shortness of breath and sharp chest pain. HR 118/min, RR 30/min, SpO2 88% on room air. Breath sounds are clear in all fields, and a portable chest x-ray shows no consolidation or edema. Which interpretation best explains the hypoxemia?",
+        "options": [
+          "Shunt (low V/Q): alveoli are perfused but not ventilated because of postoperative atelectasis",
+          "Hypoventilation: opioid analgesia has slowed breathing and caused carbon dioxide retention",
+          "Diffusion limitation: fluid has thickened the alveolar-capillary membrane",
+          "Dead space (high V/Q): alveoli are ventilated but not perfused, consistent with a pulmonary embolism"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Atelectasis is a classic shunt cause after surgery, but it usually gives diminished breath sounds or crackles and changes on the x-ray. Clear lungs and a clear film argue against it. This misreads the cues.",
+          "Opioid hypoventilation causes a slow RR and drowsiness. This client is tachypneic at 30/min, which is the opposite pattern.",
+          "A diffusion problem from fluid would show crackles and edema on the x-ray. Neither is present.",
+          "CJMM — Recognize cues: sudden dyspnea, chest pain, tachycardia, and hypoxemia in a postoperative orthopedic client, with clear lungs and a clear x-ray. Analyze cues: air is reaching the alveoli (clear breath sounds), but blood is not. Ventilation exceeding perfusion is dead space, or high V/Q, and the lecture's example of dead space is pulmonary emboli. Prioritize hypotheses: PE is a life-threatening cause of type I (hypoxemic) failure. Take action: apply oxygen, keep the client in bed with the HOB up, and notify the provider immediately for a PE work-up."
+        ]
+      },
+      {
+        "stem": "A client with right lower lobe pneumonia has an SpO2 of 87% on 4 L/min nasal cannula. ABG: pH 7.46, PaCO2 33 mm Hg, HCO3 24 mEq/L, PaO2 54 mm Hg. Which conclusion should guide the nurse's plan?",
+        "options": [
+          "Ventilatory failure: carbon dioxide retention is driving the hypoxemia, so the client needs help to blow off CO2",
+          "Combined oxygenation and ventilatory failure that needs immediate intubation",
+          "Oxygenation failure from an intrapulmonary shunt, with ventilation still adequate",
+          "Dead-space ventilation from a pulmonary embolism, because the PaCO2 is low"
+        ],
+        "answer": 2,
+        "explanations": [
+          "The PaCO2 is 33, which is low, not retained. Calling this ventilatory failure misreads the ABG; the client is blowing off CO2 well.",
+          "Only oxygenation is failing; the PaCO2 is low. The client is not described as unable to protect the airway or tiring, so jumping to intubation skips the less invasive steps.",
+          "CJMM — Recognize cues: PaO2 54 mm Hg and SpO2 87% on supplemental oxygen, with a PaCO2 of 33 and a slightly alkaline pH. Analyze cues: oxygenation is judged by PaO2/SaO2, and ventilation by PaCO2. Here oxygenation is failing while ventilation is intact; the mild respiratory alkalosis comes from tachypnea. Consolidated alveoli are perfused but not ventilated, which is a shunt (low V/Q). Prioritize hypotheses: this is the type I (hypoxemic) pattern, and pneumonia is a listed trigger. Generate solutions: maximize oxygen delivery and escalate the device as needed, keep the HOB above 30°, and treat the pneumonia.",
+          "A low PaCO2 occurs with many causes of tachypnea. Consolidated alveoli that are perfused but not ventilated is a shunt (low V/Q), and pneumonia is the lecture's example of shunt, not dead space."
+        ]
+      },
+      {
+        "stem": "The nurse reviews ABGs for four clients in the step-down unit. Which client's results meet the criteria for acute hypercapnic (type II) respiratory failure?",
+        "options": [
+          "pH 7.38, PaCO2 58 mm Hg, HCO3 34 mEq/L, PaO2 62 mm Hg on 2 L/min",
+          "pH 7.48, PaCO2 30 mm Hg, HCO3 23 mEq/L, PaO2 58 mm Hg on 60% FiO2",
+          "pH 7.31, PaCO2 56 mm Hg, HCO3 26 mEq/L, PaO2 72 mm Hg on 2 L/min",
+          "pH 7.34, PaCO2 47 mm Hg, HCO3 25 mEq/L, PaO2 88 mm Hg on room air"
+        ],
+        "answer": 2,
+        "explanations": [
+          "The PaCO2 is high, but the pH is normal because the kidneys have fully compensated. That is the chronic, compensated picture of a CO2 retainer, not ACUTE failure, which needs acidemia (pH below 7.35).",
+          "This client meets the 60/60 rule for HYPOXEMIC (type I) failure: PaO2 at or below 60 on 60% oxygen. The PaCO2 is low, so it is not hypercapnic.",
+          "CJMM — Recognize cues: compare each PaCO2 and pH against the lecture's \"50/50 rule\". Analyze cues: hypercapnic (type II) failure is a PaCO2 above 50 mm Hg WITH a pH below 7.35 (acidemia). Only pH 7.31 with PaCO2 56 meets both. Prioritize hypotheses: a high PaCO2 with a normal pH means chronic compensation, not acute failure, and a low PaO2 with a low PaCO2 is type I. Take action: this client needs prompt support for ventilation (for example, BiPAP if alert) and a search for the cause.",
+          "This is a mild respiratory acidosis, but the PaCO2 has not crossed 50 mm Hg, so the 50/50 criteria are not met. It still deserves monitoring."
+        ]
+      },
+      {
+        "stem": "A client using morphine PCA after abdominal surgery is difficult to arouse. RR 8/min and shallow, SpO2 95% on 3 L/min nasal cannula, HR 64/min. Which action should the nurse take first?",
+        "options": [
+          "Continue to monitor, because an SpO2 of 95% shows that gas exchange is adequate",
+          "Stop the PCA, stimulate the client, support the airway, and obtain an ABG",
+          "Increase the oxygen to 6 L/min so that the saturation stays above 92% overnight",
+          "Raise the head of the bed and have the client use the incentive spirometer every hour"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This mistakes good oxygenation for adequate ventilation. Supplemental oxygen can keep the SpO2 normal while CO2 builds up, and that build-up is what makes the client hard to arouse.",
+          "CJMM — Recognize cues: RR 8, shallow breathing, and somnolence with a reassuring SpO2 on oxygen, in a client receiving opioids. Analyze cues: oxygenation is measured by PaO2/SaO2 and ventilation by PaCO2. A client can be perfectly oxygenated but failing to ventilate. Opioid overdose is a listed trigger of hypercapnic failure, and lethargy is a sign of CO2 narcosis. Prioritize hypotheses: opioid-induced hypoventilation. Take action: stop the opioid, stimulate the client, maintain the airway (ready to bag), get an ABG, and notify the provider (an opioid reversal agent is usually anticipated). Evaluate outcomes: RR, level of consciousness, and PaCO2 improve.",
+          "More oxygen treats a saturation problem the client does not have and does nothing for CO2 retention. It also further masks the hypoventilation on the oximeter.",
+          "Positioning helps, but a client who is hard to arouse cannot use an incentive spirometer. This action does not stop the drug that is depressing respirations."
+        ]
+      },
+      {
+        "stem": "A client admitted with pneumonia becomes anxious and restless over 2 hours. HR has risen from 88 to 118/min, BP from 128/76 to 154/92 mm Hg, and RR from 22 to 30/min. The client can say only a few words between breaths. The family says, \"They always get nervous in hospitals.\" What is the nurse's best interpretation?",
+        "options": [
+          "Situational anxiety; give the PRN lorazepam and reassess the client in 30 minutes",
+          "Uncontrolled pain driving the vital signs up; give the PRN analgesic",
+          "Fever-related tachycardia from the pneumonia; give acetaminophen and push fluids",
+          "Early acute respiratory failure; assess oxygenation and notify the provider"
+        ],
+        "answer": 3,
+        "explanations": [
+          "A sedative can depress respiratory drive in a client who is already struggling. It treats the cue (anxiety) instead of the cause (hypoxemia). This is an unsafe action based on a wrong hypothesis.",
+          "Pain can raise HR and BP, but it does not explain worsening dyspnea and the inability to speak full sentences. This misses the respiratory pattern.",
+          "Treating fever will not address the respiratory deterioration, and no temperature is given. This anchors on a minor cue.",
+          "CJMM — Recognize cues: new restlessness and anxiety, tachycardia, rising BP, tachypnea, and the inability to speak in full sentences. Analyze cues: these are the EARLY warning signs of ARF. The brain is sensitive to falling oxygen, so mental-status changes often come first, along with tachycardia, increased BP, and dyspnea. Prioritize hypotheses: worsening hypoxemia from pneumonia outranks anxiety, pain, or fever. Take action: check SpO2 and breath sounds, raise the HOB, increase oxygen per protocol, obtain an ABG, and notify the provider."
+        ]
+      },
+      {
+        "stem": "A client with a severe asthma exacerbation was in the tripod position with RR 36/min and loud wheezing. One hour later the client is slumped in bed, drowsy, RR 12/min, SpO2 89%, with faint breath sounds and little wheezing. Which action is the priority?",
+        "options": [
+          "Call the rapid response team and prepare for ventilatory support, because the client is tiring",
+          "Document that the client is improving after the bronchodilator and reassess in 1 hour",
+          "Cluster care so the exhausted client can sleep, and recheck the SpO2 in 30 minutes",
+          "Lower the oxygen flow, because oxygen may be suppressing the client's drive to breathe"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: RR has dropped from 36 to 12, the client is now drowsy, breath sounds are faint (a \"quiet chest\"), and SpO2 is 89%. Analyze cues: the lecture's \"Watch the Trend\" warning says a sudden decrease in respiratory rate in a struggling client may signal fatigue and imminent respiratory arrest, not improvement. Lethargy suggests CO2 narcosis. Prioritize hypotheses: impending respiratory arrest. Take action: call for help, stay with the client, have a bag-valve-mask ready, and prepare for NIV or intubation.",
+          "This is the trap the lecture warns about. A falling RR in a client who was struggling is not improvement when it comes with drowsiness, faint breath sounds, and a low SpO2. Evaluate outcomes is misapplied here.",
+          "The client is exhausted, but sleep is not the issue. Respiratory muscle fatigue leads to arrest, and waiting 30 minutes delays the needed escalation.",
+          "The SpO2 is already 89%, and this client has asthma, not chronic CO2 retention. Reducing oxygen worsens hypoxemia and does nothing for muscle fatigue."
+        ]
+      },
+      {
+        "stem": "A client with acute respiratory failure has been on a non-rebreather mask for 3 hours. Which findings indicate LATE deterioration that requires immediate intervention? Select all that apply.",
+        "options": [
+          "Bluish discoloration of the lips and oral mucosa",
+          "HR has fallen from 124 to 50/min, with BP 80/44 mm Hg",
+          "New restlessness and anxiety",
+          "Responds only to loud voice and falls back asleep",
+          "BP has risen from 130/80 to 156/94 mm Hg",
+          "Unable to speak in full sentences"
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—central cyanosis of the lips and mucous membranes is a very late sign of hypoxemia.",
+          "Correct—bradycardia and hypotension after tachycardia signal impending cardiac arrest, not recovery.",
+          "Incorrect—restlessness and anxiety are EARLY signs (the brain reacts quickly to low oxygen). They need attention but are not late findings.",
+          "Correct—lethargy and somnolence progressing toward coma reflect CO2 narcosis, a late sign.",
+          "Incorrect—an increased BP is an early compensatory sign. Late failure brings hypotension.",
+          "Incorrect—dyspnea with the inability to speak full sentences is listed as an early warning sign. Two-word dyspnea signals extreme distress, but the late cluster is cyanosis, somnolence, bradycardia, and hypotension."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The nurse is assigned four clients. Which client is at greatest risk of developing hypercapnic (ventilatory) respiratory failure in the next few hours?",
+        "options": [
+          "A client with pneumonia whose SpO2 is 90% on 2 L/min and who is talking comfortably",
+          "A client with heart failure who has bibasilar crackles, orthopnea, and an SpO2 of 93% on 2 L/min",
+          "A client with myasthenia gravis whose cough is weakening and vital capacity is falling",
+          "A client 2 days after a pulmonary embolism whose RR is 24/min on heparin"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Pneumonia is a trigger of hypoxemic (type I) failure through shunting. This client's oxygenation is borderline but stable, and nothing suggests the client is failing to move air.",
+          "Pulmonary edema impairs oxygenation (type I) and needs monitoring, but this client is stable and has no signs of a failing respiratory pump.",
+          "CJMM — Recognize cues: a weakening cough, dysphagia, and a falling vital capacity in a client with a neuromuscular disease. Analyze cues: hypercapnic failure is a failure of the ventilatory pump, an imbalance between ventilatory supply and demand. Neuromuscular disease is a listed trigger, with myasthenia gravis at the neuromuscular junction. Weak respiratory muscles cannot move enough air, so CO2 builds up. Prioritize hypotheses: this client is at highest risk of a rising PaCO2. The other three are type I (oxygenation) problems. Take action: monitor respiratory effort and ABGs closely and anticipate ventilatory support.",
+          "A PE causes dead space and type I hypoxemia, usually with a low PaCO2 from tachypnea. This client is being treated and has no signs of a failing respiratory pump."
+        ]
+      },
+      {
+        "stem": "A client who received several doses of IV hydromorphone after surgery has the following ABG: pH 7.27, PaCO2 58 mm Hg, HCO3 25 mEq/L, PaO2 70 mm Hg. Which interpretation is correct and should guide the nurse's priority?",
+        "options": [
+          "Partially compensated respiratory acidosis; the kidneys are already retaining bicarbonate",
+          "Uncompensated metabolic acidosis; check lactate and assess perfusion",
+          "Uncompensated respiratory acidosis; improve ventilation by addressing the opioid effect",
+          "Fully compensated respiratory acidosis; no new intervention is needed"
+        ],
+        "answer": 2,
+        "explanations": [
+          "The HCO3 of 25 is normal, so no compensation has started. Kidney compensation is a slow process, which fits this acute picture.",
+          "The HCO3 is normal and the PaCO2 is high, so the cause is respiratory, not metabolic.",
+          "CJMM — Recognize cues: pH 7.27 (acid), PaCO2 58 (acid), HCO3 25 (normal). Analyze cues: the pH and PaCO2 move in the same acid direction, so the problem is respiratory acidosis from hypoventilation. HCO3 is still normal, so it is uncompensated, the same pattern as the lecture's worked example (7.25/55/24). Prioritize hypotheses: opioid-induced hypoventilation. Take action: stimulate the client, encourage deep breaths, hold further opioids, and notify the provider (a reversal agent may be needed). Evaluate outcomes: PaCO2 falls and pH returns toward normal.",
+          "Full compensation needs a pH back within 7.35–7.45. A pH of 7.27 is clearly acidemic."
+        ]
+      },
+      {
+        "stem": "A client with a COPD exacerbation is alert and follows commands but is using accessory muscles. ABG on 2 L/min nasal cannula: pH 7.32, PaCO2 64 mm Hg, HCO3 34 mEq/L, PaO2 52 mm Hg. Which interpretation and plan does the nurse anticipate?",
+        "options": [
+          "Partially compensated respiratory acidosis with hypoxemia; anticipate BiPAP",
+          "Fully compensated respiratory acidosis; continue the current oxygen and home regimen",
+          "Partially compensated metabolic alkalosis; anticipate IV fluids and an antiemetic",
+          "Uncompensated respiratory acidosis; prepare for immediate intubation"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: pH 7.32 (acid), PaCO2 64 (acid), HCO3 34 (base), PaO2 52, in an alert, cooperative client with COPD. Analyze cues: the PaCO2 matches the pH, so the problem is respiratory. The HCO3 is rising to compensate, but the pH is still abnormal, so it is partially compensated. A PaO2 below 60 is severe hypoxemia, and the PaCO2 above 50 with pH below 7.35 meets the 50/50 rule for hypercapnic failure. Generate solutions: BiPAP's IPAP augments ventilation to blow off CO2, and COPD exacerbation is its primary indication. Evaluate outcomes: falling PaCO2 and RR.",
+          "The pH of 7.32 is below 7.35, so compensation is incomplete. Calling it fully compensated would leave acute hypercapnic failure untreated.",
+          "The elevated HCO3 is the kidneys' compensation. The pH is acidic, so the primary problem cannot be alkalosis.",
+          "The HCO3 is elevated, so compensation has begun. The client is also alert and cooperative, which are inclusion criteria for NIV. Intubating before trying BiPAP skips the least invasive effective option."
+        ]
+      },
+      {
+        "stem": "A client in the ED says, \"I can't catch my breath and my fingers are tingling.\" The client is breathing deeply at 34/min. ABG: pH 7.51, PaCO2 27 mm Hg, HCO3 23 mEq/L, PaO2 98 mm Hg. A PE and other medical causes have been ruled out, and the client describes a panic attack. Which nursing action best addresses the ABG findings?",
+        "options": [
+          "Apply a non-rebreather mask at 15 L/min to correct the client's hypoxemia",
+          "Prepare to start BiPAP to reduce the client's work of breathing",
+          "Request potassium and calcium replacement to treat the tingling in the client's extremities",
+          "Stay with the client and coach slow, controlled breathing to reduce the rate"
+        ],
+        "answer": 3,
+        "explanations": [
+          "The PaO2 is 98 mm Hg, so the client is not hypoxemic. Applying a tight mask may increase panic without treating the problem.",
+          "BiPAP is for ventilatory failure, which means CO2 RETENTION. This client is blowing off too much CO2.",
+          "The tingling is a manifestation of respiratory alkalosis. Treating the symptom with electrolytes does not fix the hyperventilation that causes it.",
+          "CJMM — Recognize cues: pH 7.51 (base), PaCO2 27 (base), HCO3 23 (normal), PaO2 98, with deep, rapid breathing, tingling, and anxiety. Analyze cues: this is uncompensated respiratory alkalosis from hyperventilation. Its manifestations include deep rapid breathing, tingling of the extremities, confusion, and seizures. Prioritize hypotheses: anxiety-driven hyperventilation once medical causes are excluded. Take action: stay with the client and coach slow breathing. Evaluate outcomes: RR slows, tingling resolves, and PaCO2 returns toward 35–45."
+        ]
+      },
+      {
+        "stem": "A client has had an NG tube to low intermittent suction for 4 days because of a bowel obstruction. The client is breathing slowly and reports nausea. ABG: pH 7.43, PaCO2 49 mm Hg, HCO3 32 mEq/L, PaO2 84 mm Hg. Which interpretation and nursing focus are correct?",
+        "options": [
+          "Fully compensated respiratory acidosis; prepare for BiPAP to lower the PaCO2",
+          "Partially compensated metabolic alkalosis; anticipate a sodium bicarbonate infusion",
+          "Fully compensated metabolic alkalosis; monitor the cardiac rhythm and report it",
+          "Normal ABG; continue the current plan of care"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is the tempting misread. The pH is on the alkaline side of 7.40, and the client has lost gastric acid, so the high HCO3 is the primary problem. The raised PaCO2 is the lungs compensating. BiPAP would blow off CO2 the body is keeping on purpose.",
+          "The pH is within 7.35–7.45, so compensation is full, not partial. Bicarbonate would worsen an alkalosis.",
+          "CJMM — Recognize cues: a normal pH of 7.43 with a high HCO3 of 32 and a high PaCO2 of 49, after prolonged NG suction. Analyze cues: when the pH is normal, see which side of 7.40 it falls on. At 7.43 it is alkaline, and the value that matches alkalosis is the HCO3, so the primary problem is metabolic alkalosis from loss of acid. Slow breathing (CO2 retention) is the respiratory compensation, and it is complete because the pH is normal. Take action: manifestations include slow respirations, restlessness, nausea and vomiting, and arrhythmias, so monitor the rhythm and report for electrolyte and fluid correction.",
+          "The pH is normal, but both the PaCO2 and the HCO3 are abnormal. That signals a compensated imbalance, not a normal gas."
+        ]
+      },
+      {
+        "stem": "A client with diabetic ketoacidosis is breathing deeply and rapidly at 32/min. ABG: pH 7.24, PaCO2 30 mm Hg, HCO3 14 mEq/L, PaO2 96 mm Hg. A nursing student asks whether the client needs help slowing the breathing. What is the nurse's best response?",
+        "options": [
+          "\"Yes. This is respiratory alkalosis, so coaching slower, deeper breaths will correct it.\"",
+          "\"No. This is partially compensated metabolic acidosis; the breathing is compensating.\"",
+          "\"No. This is uncompensated respiratory acidosis, and the client needs BiPAP to lower the CO2.\"",
+          "\"Yes. A rate of 32 means the client is tiring and needs intubation for a failing airway.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "The pH is acidic, so this cannot be respiratory alkalosis. Coaching slower breathing would remove the client's compensation and drop the pH further.",
+          "CJMM — Recognize cues: pH 7.24 (acid), HCO3 14 (acid), PaCO2 30 (base), with deep, rapid respirations in DKA. Analyze cues: the HCO3 matches the acidic pH, so the primary problem is metabolic acidosis. The low PaCO2 shows the lungs compensating, and the pH is still abnormal, so it is partially compensated. Kussmaul respirations, LOC changes, and muscle twitching are expected manifestations. Generate solutions: treat the cause (the DKA protocol) rather than suppressing the compensation. Evaluate outcomes: as HCO3 rises, the RR and depth return to normal.",
+          "The PaCO2 is LOW (30), not high, and it is moving in the compensating direction. The primary problem is the low HCO3.",
+          "Kussmaul breathing in DKA is deep, regular, and compensatory, and the PaO2 is normal. Nothing suggests airway failure, so this misreads the cue."
+        ]
+      },
+      {
+        "stem": "A client with a COPD exacerbation started BiPAP 2 hours ago. Baseline: pH 7.28, PaCO2 70 mm Hg, RR 32/min, drowsy. Which reassessment data best show that the therapy is working?",
+        "options": [
+          "SpO2 has risen from 88% to 99%; ABG pH 7.27, PaCO2 72 mm Hg",
+          "RR is 12/min and the client is harder to arouse; PaCO2 78 mm Hg",
+          "HCO3 has risen from 34 to 38 mEq/L; PaCO2 is unchanged at 70 mm Hg",
+          "RR is 22/min and the client is more alert; ABG pH 7.34, PaCO2 58 mm Hg"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Oxygenation improved, but the ventilation problem has not. The PaCO2 is unchanged or worse, so BiPAP is not achieving its goal. This confuses oxygenation with ventilation.",
+          "A falling RR with worsening drowsiness and a rising PaCO2 means fatigue and CO2 narcosis. This is treatment failure that needs escalation toward intubation.",
+          "A rising HCO3 is slow kidney compensation, not evidence that BiPAP is improving ventilation.",
+          "CJMM — Evaluate outcomes: the lecture states that NIV success is judged by improved ABGs and a decreasing respiratory rate. A falling PaCO2 with a rising pH, a lower RR, and better alertness show that IPAP is improving ventilation and reducing the work of breathing. Analyze cues: a better SpO2 alone shows oxygenation, not ventilation. A low RR with somnolence signals failure, not success."
+        ]
+      },
+      {
+        "stem": "A newly hired nurse reviews the ABG of a client with chronic COPD: pH 7.36, PaCO2 58 mm Hg, HCO3 33 mEq/L, PaO2 64 mm Hg. Which statement by the new nurse indicates a need for further teaching?",
+        "options": [
+          "\"The pH is normal but on the acidic side of 7.40, so the primary problem is the high CO2.\"",
+          "\"The high bicarbonate shows the kidneys compensating, so this probably developed over days.\"",
+          "\"This is fully compensated respiratory acidosis, but I'll still report a PaO2 that falls below 60.\"",
+          "\"Since the PaCO2 is over 50, this client meets the 50/50 rule for acute hypercapnic failure.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct reasoning. With a normal pH, the side of 7.40 points to the primary disturbance, and acid matches the high PaCO2.",
+          "This is correct. Kidney compensation is a slow process, so a high HCO3 indicates a chronic CO2 retainer.",
+          "This is correct. The interpretation is accurate, and a PaO2 below 60 mm Hg is severe hypoxemia.",
+          "CJMM — Analyze cues: the 50/50 rule for acute hypercapnic failure needs BOTH a PaCO2 above 50 AND a pH below 7.35 (acidemia). This client's pH of 7.36 is normal because the kidneys have compensated over time, so this is chronic compensated respiratory acidosis, not acute failure. The new nurse applied only half of the rule. Generate solutions: teach the new nurse to always check the pH alongside the PaCO2 and to watch for a pH drop, which would signal acute-on-chronic failure."
+        ]
+      },
+      {
+        "stem": "A client with acute respiratory failure has slid down in bed with the HOB at 10°. The client has snoring respirations and an SpO2 of 84% on 4 L/min nasal cannula. The provider has prescribed an ABG, a nebulized albuterol treatment, and IV methylprednisolone. Which action should the nurse take first?",
+        "options": [
+          "Draw the ABG so that treatment decisions are based on accurate data",
+          "Open the airway with a jaw thrust and raise the HOB above 30°",
+          "Give the nebulized albuterol to open the narrowed bronchioles",
+          "Replace the nasal cannula with a non-rebreather mask at 15 L/min"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The ABG is important collaborative data, but obtaining it does not open the airway or improve oxygen delivery. Assessment does not outrank fixing an obstructed airway.",
+          "CJMM — Recognize cues: snoring respirations (partial upper-airway obstruction), SpO2 84%, and a nearly flat HOB. Prioritize hypotheses: airway obstruction comes first under ABC. Take action: the lecture's acute actions are, in order, maintain the airway, maximize oxygen delivery, and position with the HOB above 30°. The collaborative steps (ABGs, bronchodilators, corticosteroids, preparing for advanced support) follow. Evaluate outcomes: snoring resolves and SpO2 rises once the airway is open and oxygen is escalated.",
+          "Bronchodilators are part of collaborative care, but snoring respirations mean upper-airway obstruction. A neb cannot reach the lungs through an obstructed airway.",
+          "Maximizing oxygen delivery is the next step, but oxygen cannot reach the alveoli until the airway is open. Right action, wrong priority."
+        ]
+      },
+      {
+        "stem": "A client with pneumonia has a new prescription: \"Oxygen via simple face mask at 3 L/min, titrate to SpO2 greater than 92%.\" Which action should the nurse take?",
+        "options": [
+          "Apply the simple mask at 3 L/min and recheck the SpO2 in 15 minutes",
+          "Apply the simple mask at 3 L/min and add humidification for comfort",
+          "Clarify the order, because a simple mask needs at least 5 L/min",
+          "Apply a non-rebreather mask at 3 L/min instead of the simple mask"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Running a simple mask below 5 L/min lets exhaled CO2 collect in the mask, so the client rebreathes it. Carrying out the order as written is unsafe.",
+          "Humidification does not fix the problem. The flow is still too low to flush CO2 out of the mask.",
+          "CJMM — Recognize cues: the prescription pairs a simple mask with 3 L/min. Analyze cues: a simple mask runs at 5–10 L/min (FiO2 40–60%), and a MINIMUM of 5 L/min is needed to flush exhaled CO2 from the mask. Prioritize hypotheses: as written, the order risks CO2 rebreathing. Take action: clarify with the provider (for example, nasal cannula at 3 L/min, which delivers 24–44% at 1–6 L/min, or a simple mask at 5 L/min or more).",
+          "A non-rebreather needs 10–15 L/min to keep the reservoir filled. Choosing a different device and running it at the wrong flow is also outside the order."
+        ]
+      },
+      {
+        "stem": "A client without chronic lung disease has an SpO2 of 85% on 6 L/min nasal cannula. RR is 30/min, and the client is alert. The prescription reads \"titrate oxygen to keep SpO2 above 90%.\" Which device change should the nurse make?",
+        "options": [
+          "Non-rebreather mask at 15 L/min",
+          "Simple face mask at 8 L/min",
+          "Nasal cannula increased to 10 L/min",
+          "Venturi mask set at 40%"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: SpO2 85% on the maximum nasal-cannula flow, RR 30, alert, no CO2-retention history. Analyze cues: a nasal cannula tops out at 6 L/min (24–44%). A simple mask gives 40–60%, and a non-rebreather gives 60–90% at 10–15 L/min, the highest FiO2 available without ventilation. Take action: apply the non-rebreather and keep the reservoir bag inflated. Evaluate outcomes: SpO2 rises above 90% and the RR falls. If it does not, prepare for HFNC, NIV, or intubation.",
+          "A simple mask delivers only 40–60% FiO2. That is a small step up for a client already this hypoxemic on the maximum cannula flow.",
+          "A standard nasal cannula is a low-flow device rated for 1–6 L/min. Higher flows dry the mucosa without reliably raising the FiO2.",
+          "A Venturi gives a precise FiO2, which is ideal for COPD, but 40% is not enough of an increase for this client. Precision is not the goal here; a higher FiO2 is."
+        ]
+      },
+      {
+        "stem": "A client with a COPD exacerbation and a PaCO2 of 58 mm Hg is switched to a Venturi mask at 28%. Which statement by the orienting nurse indicates a need for further teaching?",
+        "options": [
+          "\"The colored adapter sets the FiO2, so I'll check that it matches the 28% prescription.\"",
+          "\"A Venturi is a good choice here because it delivers a precise oxygen concentration.\"",
+          "\"If the client prefers, a nasal cannula at 2 L/min would deliver the same precise FiO2.\"",
+          "\"I'll watch for new drowsiness, because it could mean the client's CO2 is rising.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. The Venturi adapter determines the delivered FiO2, so checking it against the order is the right safety step.",
+          "This is correct. The lecture names the Venturi as the precise-FiO2 device that is ideal for COPD.",
+          "CJMM — Analyze cues: a nasal cannula delivers a range (24–44% at 1–6 L/min) that changes with the client's breathing pattern, so its FiO2 is NOT precise. The Venturi gives a precise FiO2, and that is why it is the preferred device for a client with COPD who retains CO2. Generate solutions: teach the orienting nurse that switching devices changes the FiO2 the client gets and needs a provider order. Evaluate outcomes: target SpO2 and stable mental status on the set FiO2.",
+          "This is correct. Lethargy and somnolence are signs of CO2 narcosis in a client who retains CO2."
+        ]
+      },
+      {
+        "stem": "A client with hypoxemic respiratory failure is placed on high-flow nasal cannula (HFNC) at 50 L/min and 60% FiO2. Which statement by the orienting nurse indicates a need for further teaching?",
+        "options": [
+          "\"Like any nasal cannula, it gives no PEEP, so I'll watch for alveolar collapse.\"",
+          "\"The gas is heated and humidified so it won't dry the airway and it helps thin secretions.\"",
+          "\"The high flow washes out dead space in the upper airway, so more of each breath is fresh gas.\"",
+          "\"The client can talk and eat with the cannula in place, which most clients prefer over a mask.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: HFNC differs from a standard cannula. It delivers up to 60 L/min of heated, humidified oxygen AND a small amount of PEEP (about 3–5 cm H2O), which helps keep alveoli open. The orienting nurse has applied low-flow cannula reasoning to a high-flow device. Generate solutions: teach that removing HFNC (for example, at meals) costs the client both FiO2 and PEEP, and that HFNC lets the client eat with it in place.",
+          "This is correct. Heating and humidification prevent airway drying, thin secretions, and lower the metabolic cost of conditioning the gas.",
+          "This is correct. HFNC reduces upper-airway dead space.",
+          "This is correct. HFNC is more comfortable than a mask and allows talking and eating."
+        ]
+      },
+      {
+        "stem": "The respiratory therapist plans to start BiPAP on four clients. Which client should the nurse identify as an inappropriate candidate and discuss with the provider?",
+        "options": [
+          "A client with a COPD exacerbation who is alert and cooperative, PaCO2 62 mm Hg",
+          "A client awaiting lung transplantation with worsening hypercapnia",
+          "An immunocompromised client with hypoxemia who has an intact cough and gag reflex",
+          "A client with aspiration pneumonia who has vomited twice in the last hour"
+        ],
+        "answer": 3,
+        "explanations": [
+          "COPD exacerbation is the primary BiPAP indication, and alert and cooperative are inclusion criteria.",
+          "Clients awaiting lung transplant are a listed NIPPV indication, so BiPAP is appropriate as a bridge.",
+          "NIV is specifically indicated for immunocompromised clients because it avoids the infection risk of intubation.",
+          "CJMM — Recognize cues: active vomiting in a client about to wear a sealed face mask. Analyze cues: NIV exclusion criteria are altered mental status, vomiting, and facial trauma. Vomiting under a sealed mask can lead to aspiration, and NIV also causes gastric insufflation, which worsens nausea. Prioritize hypotheses: this client is the one at risk of harm. Take action: hold the BiPAP and discuss other support (for example, HFNC, or intubation if failing) with the provider."
+        ]
+      },
+      {
+        "stem": "A client has been on BiPAP by full face mask for 12 hours for a COPD exacerbation. Which nursing actions are appropriate? Select all that apply.",
+        "options": [
+          "Apply a hydrocolloid dressing to the bridge of the nose",
+          "Provide frequent oral care and check the humidifier water level",
+          "Loosen the mask straps so air leaks freely around the edges",
+          "Assess for abdominal distention and nausea",
+          "Give the PRN sedative so the client will tolerate the mask",
+          "Trend the ABGs and respiratory rate to judge the response"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—the nasal bridge is at high risk for pressure injury under the mask, and hydrocolloid protects it.",
+          "Correct—NIV dries the oral cavity, so frequent oral care and a working humidifier counter it.",
+          "Incorrect—BiPAP delivers pressure through a SEALED mask. A large leak defeats IPAP and EPAP, so the goal is a snug fit with padding, not a leak.",
+          "Correct—swallowed air (aerophagia) causes gastric distention and can lead to vomiting and aspiration.",
+          "Incorrect—NIV requires an alert, cooperative client with intact protective reflexes. Sedation creates altered mental status, which is an exclusion criterion. Address claustrophobia with coaching instead.",
+          "Correct—improved ABGs and a decreasing RR are the markers of NIV success."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with a COPD exacerbation who is alert has an ABG of pH 7.29, PaCO2 66 mm Hg, PaO2 58 mm Hg. The provider is choosing noninvasive support. Which option does the nurse anticipate, and why?",
+        "options": [
+          "CPAP, because one continuous pressure level clears CO2 most effectively",
+          "BiPAP, because IPAP augments each breath to help remove CO2",
+          "High-flow nasal cannula at 60 L/min, because its PEEP corrects the hypercapnia",
+          "Non-rebreather at 15 L/min, because the highest FiO2 is the priority"
+        ],
+        "answer": 1,
+        "explanations": [
+          "CPAP gives one continuous pressure that keeps alveoli open and helps oxygenation. It is used for sleep apnea and cardiogenic pulmonary edema. It does not add an inspiratory boost to move CO2 out.",
+          "CJMM — Recognize cues: acidemia with a PaCO2 of 66 in an alert client with COPD, which is hypercapnic failure. Analyze cues: BiPAP delivers two pressures. IPAP (inspiration) augments spontaneous breaths, which supports ventilation and CO2 removal. EPAP (expiration) prevents airway collapse and supports oxygenation. COPD exacerbation is BiPAP's listed indication. Take action: anticipate BiPAP and coach the client, because success is greatest with motivated clients. Evaluate outcomes: PaCO2 and RR fall.",
+          "HFNC gives only about 3–5 cm H2O of PEEP and is mainly an oxygenation tool. It does not provide inspiratory pressure support for hypercapnic failure.",
+          "The main problem is ventilation (PaCO2 66, pH 7.29). A high FiO2 does nothing to remove CO2 and can mask worsening hypercapnia."
+        ]
+      },
+      {
+        "stem": "A client newly diagnosed with obstructive sleep apnea will go home on nightly CPAP. Which statement indicates a need for further teaching?",
+        "options": [
+          "\"The machine gives one steady pressure that keeps my airway open while I breathe in and out.\"",
+          "\"If my mouth gets very dry, I'll turn off the humidifier so less water collects in the tubing.\"",
+          "\"If the bridge of my nose gets red or sore, I'll ask about a protective cushion or dressing.\"",
+          "\"If I wake up with a bloated stomach, I'll mention it at my follow-up visit.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. CPAP delivers one continuous pressure during inhalation and exhalation to keep the airway and alveoli open.",
+          "CJMM — Analyze cues: dryness of the oral cavity is a known NIV complication, and the fix is the opposite of what the client said. Nursing care is frequent oral care and CHECKING (keeping) the humidifier filled. Turning off the humidifier would worsen dryness and make the client less likely to keep using CPAP. Generate solutions: reteach humidifier use and mouth care. Evaluate outcomes: the client uses CPAP nightly without mucosal dryness.",
+          "This is correct. The nasal bridge is a common pressure-injury site, and hydrocolloid padding is recommended.",
+          "This is correct. Swallowed air causes gastric distention, a known complication worth reporting."
+        ]
+      },
+      {
+        "stem": "The nurse in the ED is caring for four clients with respiratory problems. Which client most clearly needs endotracheal intubation now?",
+        "options": [
+          "A client with a COPD exacerbation on BiPAP, alert, whose PaCO2 has fallen from 70 to 60 mm Hg",
+          "A client with pneumonia on HFNC, SpO2 91%, talking in full sentences",
+          "A client after an overdose with a GCS of 7, gurgling respirations, and SpO2 92% on a non-rebreather",
+          "A client with asthma whose RR fell from 32 to 24/min and who speaks in longer phrases after albuterol"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This client is responding to NIV (alert, PaCO2 improving). NIV's goal is to avoid intubation, and here it is working.",
+          "This client has borderline oxygenation but is stable and maintaining the airway. Monitor closely, but there is no current indication.",
+          "CJMM — Recognize cues: GCS 7 with gurgling (pooled secretions) in a client after an overdose. Analyze cues: the indications for mechanical ventilation include apnea or impending arrest, distress unresponsive to NIV, INABILITY TO PROTECT THE AIRWAY (GCS below 8), severe hypoxemia or acidosis, and fatigue. Altered mental status also rules out NIV. Prioritize hypotheses: aspiration and airway loss are imminent even though the SpO2 is acceptable. Take action: prepare for intubation (suction, laryngoscope, monitoring).",
+          "This client shows true improvement: a lower RR together with BETTER speech, not drowsiness. That is the opposite of the fatigue pattern."
+        ]
+      },
+      {
+        "stem": "Immediately after intubation, the capnography waveform confirms exhaled CO2. Breath sounds are clear on the right but absent on the left, and the SpO2 is 89%. Which action should the nurse take?",
+        "options": [
+          "Secure the tube at its current depth and send for the confirmatory chest x-ray",
+          "Raise the FiO2 to 100% and suction the left side of the airway",
+          "Remove the tube and resume bag-mask ventilation, because the tube is in the esophagus",
+          "Report the unequal breath sounds so the tube can be pulled back, then reassess"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Securing a tube that is ventilating only one lung locks in the problem. The x-ray confirms position; it does not replace acting on unequal breath sounds.",
+          "Oxygen and suction do not fix the cause. The tube is in the wrong place, and the left lung is not being ventilated.",
+          "Exhaled CO2 on capnography shows the tube is in the airway, not the esophagus. Removing it is unnecessary and dangerous.",
+          "CJMM — Recognize cues: CO2 is detected, but breath sounds are present only on the right and the SpO2 is low. Analyze cues: placement is confirmed with ALL THREE of end-tidal CO2, bilateral breath sounds, and a chest x-ray. Exhaled CO2 means the tube is in the airway, but one-sided breath sounds suggest it has gone too far into the right mainstem bronchus. Take action: report so the tube can be withdrawn slightly, then confirm equal breath sounds and get the x-ray. Document the tube size and depth (cm at the lip)."
+        ]
+      },
+      {
+        "stem": "A client recovering from pneumonia is changed from assist-control to pressure support ventilation for a weaning trial. Which finding 30 minutes later best indicates the client is tolerating the trial?",
+        "options": [
+          "RR 34/min with tidal volumes of 250 mL and visible neck-muscle use",
+          "RR 18/min, steady tidal volumes, SpO2 94%, and the client appears calm",
+          "HR has risen from 88 to 126/min, with new diaphoresis and anxiety",
+          "RR 8/min, and the client has become difficult to arouse"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Rapid, shallow breathing with accessory-muscle use means the client cannot sustain the work of breathing. This is weaning failure.",
+          "CJMM — Evaluate outcomes: in pressure support, the CLIENT controls the respiratory rate, flow, and tidal volume, and the ventilator only adds pressure to augment each breath. That is why PS is used for weaning. A normal rate, steady volumes, good oxygenation, and calm behavior show the client can carry the work of breathing. Analyze cues: rapid, shallow breathing, tachycardia with diaphoresis, or a slow rate with somnolence all signal failure.",
+          "Tachycardia, diaphoresis, and anxiety are signs of distress (the early warning signs of failure). The trial should be stopped and the client returned to full support.",
+          "In pressure support the client sets the rate. A rate of 8 with somnolence means hypoventilation and probable CO2 retention, not comfort."
+        ]
+      },
+      {
+        "stem": "A client with sepsis is on pressure-regulated volume control (PRVC) with a set tidal volume of 420 mL. Over 6 hours the delivered volume stays at 420 mL, but the airway pressure needed has risen steadily from 18 to 30 cm H2O. Which interpretation is most accurate?",
+        "options": [
+          "The ventilator is malfunctioning, because pressure should stay constant in this mode",
+          "The client is taking spontaneous breaths between mandatory breaths, which raises the pressure",
+          "Lung compliance is falling, so the ventilator is raising pressure to deliver the volume",
+          "The tidal volume will soon drop automatically to protect the lungs, so no action is needed"
+        ],
+        "answer": 2,
+        "explanations": [
+          "In PRVC the pressure is meant to vary from breath to breath. Changing pressure is the mode working as designed, not a malfunction.",
+          "This describes SIMV. It does not explain a steady rise in the pressure needed to deliver the same volume.",
+          "CJMM — Recognize cues: a steady volume with a steadily rising pressure requirement, in a client with sepsis (the most common indirect cause of ARDS). Analyze cues: PRVC is a variation of assist-control. It aims for the set tidal volume at the lowest possible pressure and adjusts pressure breath to breath based on airway resistance and compliance. A steady rise means the lungs are getting stiffer or resistance is increasing. Prioritize hypotheses: developing ARDS (stiff, non-compliant lungs). Take action: assess, and report the trend for an ABG and chest x-ray.",
+          "PRVC's goal is to deliver the SET tidal volume consistently, not to reduce it. A steady pressure rise is a worsening trend to report, not to ignore."
+        ]
+      },
+      {
+        "stem": "A client on mechanical ventilation has settings of FiO2 80% and PEEP 5 cm H2O. The latest ABG shows PaO2 168 mm Hg and SaO2 100%. Which change does the nurse anticipate?",
+        "options": [
+          "Keep the FiO2 at 80%, because a high PaO2 gives a safety reserve",
+          "Decrease the respiratory rate, which will bring the PaO2 down",
+          "Increase the PEEP to 10 cm H2O so the FiO2 can be lowered later",
+          "Wean the FiO2 per protocol while keeping the SaO2 above 90%"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Keeping an unnecessarily high FiO2 exposes the lungs to oxygen toxicity. The goal is the LOWEST FiO2 that keeps SaO2 above 90%, not a reserve.",
+          "The respiratory rate mainly controls PaCO2 (ventilation). It is not the way to correct excess oxygenation.",
+          "PEEP is raised to recruit alveoli when oxygenation is POOR. With a PaO2 of 168, more PEEP only adds the risks of barotrauma and hypotension.",
+          "CJMM — Recognize cues: PaO2 168 and SaO2 100% on 80% FiO2, so the client is over-oxygenated. Analyze cues: the ventilator-settings goal is an SaO2 above 90% on the LOWEST possible FiO2 (range 21–100%) to prevent oxygen toxicity. Generate solutions: lower the FiO2, which is the oxygenation lever. The rate controls CO2, and PEEP is for recruitment. Evaluate outcomes: SaO2 stays above 90% on a lower FiO2."
+        ]
+      },
+      {
+        "stem": "The PEEP of a ventilated client with ARDS was increased from 5 to 14 cm H2O. Thirty minutes later the high-pressure alarm sounds. BP is 80/48 mm Hg, HR 128/min, breath sounds are absent on the right, and the trachea is shifted to the left. What should the nurse do?",
+        "options": [
+          "Give a fluid bolus to offset reduced venous return from the higher PEEP",
+          "Suction the endotracheal tube to clear secretions that are triggering the alarm",
+          "Call the provider and prepare for needle decompression of the right chest",
+          "Lower the PEEP back to 5 cm H2O and recheck the blood pressure in 15 minutes"
+        ],
+        "answer": 2,
+        "explanations": [
+          "High PEEP can cause hypotension by reducing venous return, but that does not explain absent breath sounds and tracheal deviation. Treating only the BP misses the life threat.",
+          "Secretions do cause high-pressure alarms, but they do not cause a one-sided loss of breath sounds with a tracheal shift and shock.",
+          "CJMM — Recognize cues: a recent PEEP increase, a high-pressure alarm, absent right breath sounds, a tracheal shift to the LEFT (the healthy side), and hypotension. Analyze cues: high PEEP can cause barotrauma, meaning alveolar rupture with pneumothorax. Under positive pressure the air cannot escape, causing tension pneumothorax with mediastinal shift and obstructive shock. Prioritize hypotheses: tension pneumothorax outranks PEEP-related hypotension. Take action: needle decompression STAT, followed by a chest tube.",
+          "Changing settings independently and waiting 15 minutes delays treatment of an obstructive shock that is already happening."
+        ]
+      },
+      {
+        "stem": "The high-pressure alarm sounds for a client on mechanical ventilation. The client is coughing, coarse rhonchi are heard over the trachea, secretions are visible in the endotracheal tube, and the SpO2 has dropped from 96% to 91%. Which action should the nurse take first?",
+        "options": [
+          "Suction the endotracheal tube",
+          "Increase the high-pressure alarm limit",
+          "Give the PRN sedative for ventilator asynchrony",
+          "Obtain a chest x-ray to check for a pneumothorax"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a high-pressure alarm with coughing, tracheal rhonchi, visible secretions, and a falling SpO2. Analyze cues: a high-pressure alarm means airflow is meeting high resistance. Causes include a mucus plug or secretions, a kinked or bitten tube, coughing or fighting the ventilator, a displaced tube, bronchospasm, and pneumothorax. These cues point to secretions. Take action: suction. Evaluate outcomes: the alarm stops, rhonchi clear, and SpO2 returns to baseline. If it does not, check the other causes.",
+          "Raising the limit silences the warning without removing the obstruction, so the client keeps being under-ventilated.",
+          "The coughing is caused by secretions. Sedation treats the reaction rather than the obstruction, which stays in the tube.",
+          "Pneumothorax is a high-pressure cause, but the cues point to secretions. An x-ray delays the simple fix that is right in front of the nurse."
+        ]
+      },
+      {
+        "stem": "The low-pressure alarm sounds for a client on mechanical ventilation. The client can mouth words with an audible whisper, air can be heard escaping from the mouth with each breath, the tube depth is unchanged at 23 cm at the lip, and the SpO2 is falling from 95% to 89%. Which action is correct?",
+        "options": [
+          "Silence the alarm and reassure the client that being able to talk is a good sign",
+          "Suction the endotracheal tube, because secretions are triggering the alarm",
+          "Advance the tube 2 cm, because it has probably migrated upward",
+          "Check the cuff and pilot balloon; bag-ventilate if not fixed in seconds"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Speech in an intubated client means air is passing AROUND the cuff, which is a leak. Silencing the alarm ignores falling ventilation.",
+          "Secretions cause HIGH-pressure alarms. This alarm means pressure is escaping.",
+          "The depth is unchanged at 23 cm, so the tube has not moved. Repositioning a tube is not an independent nursing action.",
+          "CJMM — Recognize cues: a low-pressure alarm, a client who can vocalize, audible air escaping, unchanged tube depth, and a falling SpO2. Analyze cues: a low-pressure alarm means pressure is escaping. Causes include disconnection, a circuit leak, a cuff leak (the client can talk or air is heard), and dislodgement. An unchanged depth plus voicing points to the cuff. Take action: check the cuff and pilot balloon and call RT. Follow the lecture's rule: if it cannot be fixed in seconds, use bag-valve-mask ventilation."
+        ]
+      },
+      {
+        "stem": "During a bath, the low-pressure alarm sounds. The nurse finds the endotracheal tube at 15 cm at the lip (documented at 23 cm). The client is moaning and the SpO2 is 82% and falling. What is the nurse's priority action?",
+        "options": [
+          "Deflate the cuff and push the tube back to the documented 23 cm",
+          "Increase the ventilator FiO2 to 100% and observe the client's response",
+          "Call for help and ventilate the client with a bag-valve-mask",
+          "Obtain a stat chest x-ray to confirm where the tube tip lies"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Blindly re-advancing a displaced tube can place it in the esophagus. Repositioning is not a nursing action, and it delays ventilation.",
+          "The tube is no longer in the trachea, so more oxygen through it will not reach the lungs. Watching wastes the seconds the client does not have.",
+          "CJMM — Recognize cues: the tube is 8 cm shallower than documented, the client can vocalize, and the SpO2 is falling quickly. Analyze cues: this is tube dislodgement (extubation), a low-pressure alarm cause. Documenting tube depth at the lip is what lets the nurse spot it. Prioritize hypotheses: loss of the airway. Take action: follow the lecture's rule (if you can't fix it in seconds, use BVM ventilation), call for help, and prepare for reintubation. Evaluate outcomes: SpO2 recovers with bagging.",
+          "An x-ray confirms position, but the cues already show dislodgement with a falling SpO2. Waiting for imaging delays ventilation."
+        ]
+      },
+      {
+        "stem": "The nurse is planning care for a client intubated 24 hours ago. Which interventions are part of the ventilator-associated pneumonia (VAP) prevention bundle? Select all that apply.",
+        "options": [
+          "Elevate the head of the bed 30–45°",
+          "Oral care that includes regular toothbrushing",
+          "Change the ventilator circuit every 24 hours",
+          "Continuous suctioning of subglottic secretions",
+          "Keep deep sedation running without interruption to prevent self-extubation"
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—HOB elevation of 30–45° decreases aspiration of oral secretions.",
+          "Correct—regular brushing reduces the oral bacteria that can be aspirated around the cuff.",
+          "Incorrect—the bundle specifies NO routine circuit changes (per policy). Opening the circuit adds contamination risk.",
+          "Correct—continuously removing the secretions that pool above the cuff prevents them from leaking into the lungs.",
+          "Incorrect—the bundle calls for a daily sedation vacation (\"wake up\") to assess readiness to wean. Continuous deep sedation prolongs ventilation and VAP risk."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The family of a client on mechanical ventilation asks why IV pantoprazole was started, since the client \"has never had stomach problems.\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"Ventilated clients are at risk for stress ulcers and GI bleeding; it prevents that.\"",
+          "\"It treats reflux that is already causing pneumonia from the breathing tube.\"",
+          "\"It helps the client come off the ventilator sooner by reducing secretions.\"",
+          "\"It is needed only because the steroids ordered will irritate the stomach.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Generate solutions: collaborative care for mechanical ventilation includes PUD prophylaxis (a PPI or H2 blocker), DVT prophylaxis, the VAP bundle, early mobility, and a nutrition consult, because GI and nutritional problems are a known complication of ventilation. Take action: explain the preventive purpose in plain language. Evaluate outcomes: no signs of GI bleeding (stable Hgb, no coffee-ground NG output).",
+          "PUD prophylaxis is preventive, not treatment for existing reflux or pneumonia. VAP is prevented by the aspiration bundle, not by acid suppression.",
+          "Acid suppression does not affect airway secretions or weaning. Weaning readiness is assessed with the daily sedation vacation.",
+          "Steroids can add GI risk, but the routine reason is PUD prophylaxis for ventilated clients. This answer narrows the indication incorrectly."
+        ]
+      },
+      {
+        "stem": "A client was admitted 3 days ago with septic shock and is now intubated. Which findings support a diagnosis of acute respiratory distress syndrome (ARDS)? Select all that apply.",
+        "options": [
+          "PaO2 58 mm Hg despite an FiO2 of 80%",
+          "Bilateral \"white-out\" opacities with a normal echocardiogram",
+          "Pink, frothy sputum with a BNP of 1,450 pg/mL and an S3",
+          "Consolidation limited to the right lower lobe",
+          "Higher airway pressures are needed to deliver the same tidal volume",
+          "Oxygenation improves quickly to a PaO2 of 95 mm Hg on 2 L/min"
+        ],
+        "answer": [
+          0,
+          1,
+          4
+        ],
+        "explanations": [
+          "Correct—refractory hypoxemia (a low PaO2 despite a high FiO2) is a defining feature, because blood shunts past fluid-filled, collapsed alveoli.",
+          "Correct—bilateral opacities NOT explained by heart failure are part of the definition. The normal echo rules out a cardiogenic cause.",
+          "Incorrect—these point to cardiogenic pulmonary edema (left ventricular failure), which ARDS must be distinguished from.",
+          "Incorrect—a single-lobe consolidation suggests pneumonia. ARDS opacities are bilateral.",
+          "Correct—ARDS lungs become stiff and non-compliant (\"wet and stiff\"), so more pressure is needed for the same volume.",
+          "Incorrect—a fast response to low-flow oxygen is the opposite of the refractory hypoxemia that defines ARDS."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client on day 2 of severe acute pancreatitis has an RR of 34/min. SpO2 was 88% on 6 L/min nasal cannula and rose only to 89% on a non-rebreather. A new chest x-ray shows bilateral infiltrates. The client has no JVD, and the BNP is normal. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "Atelectasis from splinting with abdominal pain; increase incentive spirometry to every hour",
+          "Developing ARDS from indirect lung injury; notify the provider and anticipate intubation",
+          "Cardiogenic pulmonary edema from fluid resuscitation; give the PRN IV furosemide",
+          "A pleural effusion from pancreatic inflammation; prepare for thoracentesis"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Splinting can cause atelectasis, but atelectasis improves with more oxygen and lung expansion. It does not cause bilateral infiltrates with refractory hypoxemia.",
+          "CJMM — Recognize cues: tachypnea, hypoxemia that barely responds to a non-rebreather, new bilateral infiltrates, and no evidence of heart failure, within 48 hours of severe pancreatitis. Analyze cues: pancreatitis is an INDIRECT cause of ARDS. Inflammatory mediators increase capillary permeability, fluid floods the alveoli, and surfactant is inactivated, so the alveoli collapse (shunt). Prioritize hypotheses: ARDS in the exudative phase (24–48 hours). Take action: notify the provider and prepare for intubation and mechanical ventilation, because severe hypoxemia from ARDS is an indication.",
+          "Fluid overload is a reasonable concern after resuscitation, but the absence of JVD and a normal BNP argue against a cardiac cause. Diuresing a client who may be hypovolemic from pancreatitis could cause harm.",
+          "Effusions can occur with pancreatitis, but they appear as fluid layering at the bases, not bilateral infiltrates. They also do not cause hypoxemia this resistant to oxygen."
+        ]
+      },
+      {
+        "stem": "A client with ARDS has an ideal body weight of 70 kg and an actual weight of 95 kg. The admission ventilator prescription reads: \"Assist-control, tidal volume 650 mL, RR 16, FiO2 70%, PEEP 10 cm H2O.\" Which action should the nurse take?",
+        "options": [
+          "Accept the order, because 650 mL falls within the usual 6–10 mL/kg range",
+          "Question the order, because the ARDS target is 4–6 mL/kg of actual weight, or 380–570 mL",
+          "Question the order, because the ARDS target is 4–6 mL/kg of ideal weight, or 280–420 mL",
+          "Accept the order, but suggest a higher PEEP to offset the large tidal volume"
+        ],
+        "answer": 2,
+        "explanations": [
+          "6–10 mL/kg is the general adult range, and the lecture says VT is LOWER in ARDS. Applying the general range misses the ARDS-specific target.",
+          "The lower range is right, but the weight is wrong. The target is based on IDEAL body weight, because lung size relates to height, not actual weight. Using 95 kg overestimates the safe volume.",
+          "CJMM — Recognize cues: VT 650 mL in a client with ARDS whose IBW is 70 kg. Analyze cues: only small portions of the ARDS lung are available for gas exchange (the \"baby lung\" concept), so a traditional VT causes volutrauma. The target is 4–6 mL/kg of IDEAL body weight: 70 kg × 4 = 280 mL and 70 kg × 6 = 420 mL. 650 mL is about 9.3 mL/kg IBW. Take action: question the order before the settings are confirmed. Evaluate outcomes: VT is within 280–420 mL, and plateau and peak pressures are monitored.",
+          "PEEP recruits alveoli, but it does not prevent volutrauma from too large a tidal volume. Adding both raises the barotrauma risk."
+        ]
+      },
+      {
+        "stem": "A client with severe ARDS is to be placed in the prone position. Which actions should the nurse include in the plan of care? Select all that apply.",
+        "options": [
+          "Apply eye lubricant and tape the eyelids closed",
+          "Pad the face, chest, and knees with specialized pillows or surfaces",
+          "Keep the client prone for about 4 hours, then supine for the rest of the day",
+          "Disconnect the ventilator during the turn so the tubing does not kink",
+          "Expect the greatest improvement in the anterior lung segments"
+        ],
+        "answer": [
+          0,
+          1
+        ],
+        "explanations": [
+          "Correct—prone clients are at risk of corneal abrasions, so lubricant and taping are part of prone care.",
+          "Correct—the face, chest, and knees bear weight when prone and are at high risk for pressure injury.",
+          "Incorrect—in severe ARDS, proning is done for 16–18 hours a day. Short sessions lose the recruitment benefit.",
+          "Incorrect—disconnecting causes alveolar derecruitment and hypoxemia. The critical risk during the turn is ETT and line dislodgement, so the tube is secured and one team member manages the airway while the client stays connected.",
+          "Incorrect—proning moves the heart and dependent fluid OFF the POSTERIOR segments, improving V/Q matching and recruitment there."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client is in week 3 of ARDS and remains ventilator-dependent. A CT scan shows \"honeycombing,\" and the client's lungs remain stiff. The spouse asks, \"Once this fluid clears, will the lungs go back to normal?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"The CT shows scarring that may be permanent; let's ask the provider what that means for recovery.\"",
+          "\"Yes. This is the early fluid stage, and once the fluid clears the lungs should recover fully.\"",
+          "\"The lungs are in the repair stage, and new tissue usually regrows normally within 1 to 2 weeks.\"",
+          "\"Honeycombing means a new pneumonia has developed, which antibiotics should clear.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: week 3 of ARDS, honeycombing on CT, and persistently stiff lungs. Analyze cues: the three ARDS stages are exudative (24–48 hours), proliferative (1–2 weeks, with dense or fibrous repair), and fibrotic (2–3 weeks, with permanent scarring and honeycombing). Prioritize hypotheses: the client is in the fibrotic stage. Take action: give an honest, therapeutic response that does not promise full recovery and that connects the family with the provider.",
+          "This describes the exudative stage (24–48 hours: fluid and loss of surfactant). At week 3 with honeycombing, the client is past that stage.",
+          "The proliferative stage (1–2 weeks) is when repair begins, but even then tissue becomes dense and fibrous. It does not promise normal regrowth, and the timeline here is past it.",
+          "Honeycombing on CT reflects fibrotic scarring, not infection. Offering this explanation gives false hope."
+        ]
+      },
+      {
+        "stem": "A client with heart failure has crackles to the mid-lung fields, pink frothy sputum, BP 172/98 mm Hg, and SpO2 86%. The client received IV furosemide, nitroglycerin, and IV morphine and was placed on CPAP. Which reassessment 2 hours later best shows the treatment is working?",
+        "options": [
+          "BP 86/50 mm Hg, SpO2 95%, and the client is drowsy",
+          "Pink frothy sputum persists, but the client says they feel calmer after the morphine",
+          "RR has decreased, but urine output is 40 mL over 2 hours and crackles are unchanged",
+          "Urine output 900 mL, crackles only at the bases, SpO2 94%, BP 138/82 mm Hg"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Oxygenation improved, but the BP has overshot into hypotension, likely from too much preload reduction by nitrates, morphine, and diuresis. The next nitrate dose should be held and the BP reported.",
+          "Less anxiety is one goal of morphine, but ongoing frothy sputum means alveolar edema has not resolved. Feeling calmer alone does not show success.",
+          "Without diuresis and with unchanged crackles, fluid has not been removed. A lower RR alone may reflect morphine effect, not resolution.",
+          "CJMM — Recognize cues at baseline: pink frothy sputum, crackles, hypertension, and hypoxemia, which is cardiogenic pulmonary edema (LV failure causes pressure to build in the lungs). Generate solutions: furosemide removes fluid, nitrates and morphine reduce preload (morphine also eases anxiety), and CPAP keeps fluid-filled alveoli open. Evaluate outcomes: brisk diuresis, crackles receding, better SpO2, and a BP that comes down without hypotension show the treatment worked."
+        ]
+      },
+      {
+        "stem": "A client is brought to the ED after a high-speed collision in which the car was struck on the driver's side. Findings: chest pain 10/10, BP 96/50 mm Hg, HR 126/min, RR 36/min, SpO2 88% on 4 L/min. Part of the left chest wall moves inward on inspiration and outward on expiration. The trachea is midline, and breath sounds are present but diminished on the left. Which conclusion and plan are most appropriate?",
+        "options": [
+          "Tension pneumothorax; prepare for immediate needle decompression",
+          "Hyperventilation from pain and anxiety; coach slow breathing and reassess",
+          "Flail chest; give oxygen and analgesia, and prepare for ventilatory support",
+          "Isolated rib fracture; apply a tight chest binder to stabilize the moving segment"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Tension pneumothorax is the hallmark of tracheal deviation to the healthy side with absent breath sounds. Here the trachea is midline and breath sounds are present, so needle decompression is not indicated by these cues.",
+          "Pain does drive the RR, but an SpO2 of 88% on oxygen with paradoxical motion is a mechanical ventilation problem. Coaching alone misses the injury.",
+          "CJMM — Recognize cues: a side-impact mechanism, PARADOXICAL movement of part of the chest wall, severe pain, tachypnea, hypoxemia, a midline trachea, and diminished (not absent) breath sounds. Analyze cues: paradoxical breathing after blunt trauma indicates flail chest, a chest-wall cause of ventilatory failure; pain further limits breathing. Prioritize hypotheses: flail chest, while continuing to watch for evolving pneumothorax or hemothorax. Take action: high-flow oxygen, analgesia so the client can breathe, ABGs, and preparation for intubation with positive-pressure ventilation if the client keeps tiring.",
+          "Paradoxical movement means a free-floating segment, not a simple fracture. A tight binder restricts expansion and worsens hypoventilation and atelectasis."
+        ]
+      },
+      {
+        "stem": "A client with a right-sided rib fracture suddenly becomes severely dyspneic. The trachea is deviated to the left, breath sounds are absent on the right, BP is 78/44 mm Hg, HR 140/min, and neck veins are distended. Which action should the nurse anticipate first?",
+        "options": [
+          "Obtain a stat portable chest x-ray to confirm the diagnosis",
+          "Insert a chest tube at the 6th–7th intercostal space, posterior axillary line",
+          "Position the client on the right side to splint the injured chest",
+          "Prepare for immediate needle decompression of the right chest"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Tension pneumothorax is a clinical diagnosis. Waiting for an x-ray while the client is in obstructive shock delays the treatment that saves life.",
+          "That site is for draining BLOOD (hemothorax). A chest tube follows decompression but is not the STAT first step.",
+          "Repositioning does nothing to release trapped air, and it wastes critical time.",
+          "CJMM — Recognize cues: tracheal deviation to the LEFT (the healthy side), absent right breath sounds, hypotension, tachycardia, and distended neck veins after chest trauma. Analyze cues: air entering the pleural space cannot escape, causing a mediastinal shift that kinks venous return and produces obstructive shock. Prioritize hypotheses: tension pneumothorax. Take action: needle decompression STAT, then a chest tube. Evaluate outcomes: BP rises, the trachea returns to midline, and breath sounds return."
+        ]
+      },
+      {
+        "stem": "A client is admitted after a stab wound to the right lower chest. Breath sounds are diminished at the right base. Hgb has dropped from 13.4 to 10.1 g/dL, BP is 98/60 mm Hg, and the x-ray shows fluid layering at the right base. The trachea is midline. Which plan does the nurse anticipate?",
+        "options": [
+          "Pneumothorax: chest tube at the 4th–5th intercostal space, anterior axillary line",
+          "Hemothorax: chest tube at the 6th–7th intercostal space, posterior axillary line",
+          "Tension pneumothorax: needle decompression followed by a chest tube insertion",
+          "Hemothorax: chest tube at the 4th–5th intercostal space, anterior axillary line"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A 4th–5th ICS anterior axillary site is used to evacuate AIR, which rises. This client has dependent fluid and a falling Hgb, which means blood.",
+          "CJMM — Recognize cues: penetrating chest trauma, diminished breath sounds at the base, a falling Hgb, borderline BP, and fluid layering on the x-ray with a midline trachea. Analyze cues: blood in the pleural space is a hemothorax, treated with a chest tube at the 6th–7th ICS, posterior axillary line. A pneumothorax tube goes at the 4th–5th ICS, anterior axillary line. Take action: prepare for insertion and monitor the volume and character of output (report more than 100 mL/hr) along with the Hgb and BP.",
+          "Tension pneumothorax shows tracheal deviation and absent breath sounds with shock. This client's trachea is midline and the problem is fluid.",
+          "The diagnosis is right but the site is wrong. Blood collects in dependent areas, so the tube goes lower and more posterior (6th–7th ICS, posterior axillary line)."
+        ]
+      },
+      {
+        "stem": "A client has a chest tube after an esophagectomy. On postoperative day 3, enteral feedings are started. Six hours later the chest-tube drainage, previously serosanguineous, has turned milky white and increased. Which interpretation should the nurse report?",
+        "options": [
+          "Possible chylothorax from injury to the thoracic duct",
+          "Empyema from infection in the pleural space",
+          "An expected change as old blood breaks down in the collection chamber",
+          "Hemothorax from bleeding at the surgical site"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: chest-tube drainage that turned milky and increased soon after enteral feeding began, following thoracic surgery. Analyze cues: chylothorax is chyle in the pleural space. The fluid looks milky because of its high fat content, and causes include traumatic disruption of the thoracic duct and lung or blood cancers. Prioritize hypotheses: thoracic duct injury. Take action: report the change in character (any sudden change is reportable), measure output accurately, and anticipate holding or changing the feedings per the provider.",
+          "Infected pleural fluid tends to be cloudy or purulent, often with fever. Drainage that turns milky soon after fat-containing feedings points to chyle.",
+          "Old blood darkens; it does not turn milky white. Treating this as expected delays reporting a thoracic duct injury.",
+          "A hemothorax drains bloody output, often with a falling Hgb, not milky fluid."
+        ]
+      },
+      {
+        "stem": "A client is 4 hours post-thoracotomy with a chest tube to -20 cm H2O suction. The nurse marked the collection chamber at 210 mL at 0800 and finds it at 345 mL at 0900. The drainage is bright red, and the HR has risen from 92 to 110/min. Which finding requires the nurse to notify the provider now?",
+        "options": [
+          "The water level in the water-seal chamber rises with inspiration and falls with expiration",
+          "Gentle, continuous bubbling in the suction-control chamber",
+          "Drainage of 135 mL in the last hour, with a rising heart rate",
+          "A small, unchanged area of crackling under the skin next to the dressing"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is tidaling, a normal finding that shows the system is patent and connected to the pleural space.",
+          "Gentle bubbling in the suction-control chamber is normal and shows suction is being applied.",
+          "CJMM — Recognize cues: 345 − 210 = 135 mL in 1 hour of bright-red drainage, with rising tachycardia. Analyze cues: the lecture sets the notification threshold at more than 100 mL/hr or a sudden change in character. Bright red output with tachycardia suggests active bleeding. Prioritize hypotheses: postoperative hemorrhage. Take action: notify the provider now and monitor vital signs, Hgb, and hourly output. Tidaling and gentle suction-chamber bubbling are expected.",
+          "Subcutaneous emphysema (a \"rice crispy\" feel) should be checked and its border marked for spread. A small, stable area is not the most urgent finding here."
+        ]
+      },
+      {
+        "stem": "A client has a chest tube for a hemothorax. On rounds the nurse notes new continuous bubbling in the water-seal chamber. The client is in no distress, and the dressing is intact. Which action is most appropriate?",
+        "options": [
+          "Document the bubbling as an expected finding for a chest tube on suction",
+          "Increase the suction to -30 cm H2O to speed re-expansion of the lung",
+          "Clamp the chest tube close to the chest wall for 1 hour and observe the client",
+          "Check the dressing, tubing, and connections for a leak, and tape them"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Continuous bubbling in the WATER-SEAL chamber is not expected. Gentle bubbling belongs in the suction-control chamber. Documenting it as normal misreads the cue.",
+          "Changing suction does not fix a leak and is not an independent action. The prescribed suction is -20 cm H2O.",
+          "Prolonged clamping traps air or fluid in the pleural space and can cause a tension pneumothorax. Brief clamping is used only momentarily to locate a leak.",
+          "CJMM — Recognize cues: new continuous bubbling in the water-seal chamber in a client whose problem was blood, not air. Analyze cues: continuous water-seal bubbling indicates an air leak, either in the system or from the client. The nurse first rules out a system leak. Take action: inspect the dressing, the tubing, and each connection (all connections should be taped and the tubing loosely coiled), and notify the provider if the leak persists. Evaluate outcomes: bubbling stops once a loose connection is fixed."
+        ]
+      },
+      {
+        "stem": "While a client with a chest tube for a pneumothorax is being transferred to a chair, the tube pulls completely out of the chest. Which action should the nurse take first?",
+        "options": [
+          "Cover the site with sterile gauze taped on three sides",
+          "Apply an occlusive dressing taped securely on all four sides",
+          "Reinsert the chest tube into the original insertion site",
+          "Call the provider and stay with the client until help arrives"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: complete chest-tube dislodgement with an open insertion site. Analyze cues: air can now enter the pleural space and collapse the lung. Take action: the lecture's emergency step is to immediately cover the site with sterile gauze taped on three sides. That limits air entry on inspiration while letting air escape, which prevents tension. Then notify the provider. Evaluate outcomes: watch for increasing dyspnea, tracheal deviation, or falling SpO2, which would signal tension pneumothorax.",
+          "Sealing all four sides can trap air that keeps entering the pleural space and convert this into a tension pneumothorax. Leaving one side untaped lets air escape on exhalation.",
+          "Reinsertion is a sterile provider procedure. Pushing a contaminated tube back in risks infection and injury.",
+          "Notifying the provider is necessary, but leaving the site open lets air enter the chest. Cover it first, then call."
+        ]
+      },
+      {
+        "stem": "A client's chest tube is to be removed today. The nurse reviews what will happen. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"When you tell me, I'll take a breath, let it out, then bear down like I'm having a bowel movement.\"",
+          "\"I'll take slow, deep breaths in and out while the tube is pulled so I can stay relaxed.\"",
+          "\"It's a good idea to take my pain medicine a little while before you take the tube out.\"",
+          "\"If I suddenly feel short of breath after it's out, I'll call you right away.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. It describes a Valsalva maneuver at end-expiration, which raises intrathoracic pressure so air is not drawn in as the tube comes out.",
+          "CJMM — Analyze cues: the lecture instructs the client to perform a Valsalva maneuver at END-EXPIRATION during removal. Taking deep breaths in during removal creates negative intrathoracic pressure that can pull air into the pleural space through the tract, risking a pneumothorax. Generate solutions: reteach and rehearse the Valsalva before the procedure. Evaluate outcomes: the client demonstrates the correct technique, and breath sounds remain equal after removal.",
+          "This is a reasonable plan. Monitoring and managing pain is part of chest-tube care, and pre-medicating improves the client's ability to cooperate.",
+          "This is correct. New dyspnea after removal can signal a recurrent pneumothorax and needs prompt reporting."
+        ]
+      }
+    ],
+    "acute2-gi": [
+      {
+        "stem": "The nurse on a surgical unit receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "A client with suspected appendicitis who reports RLQ pain of 6/10 and nausea; T 37.9°C (100.2°F), HR 96/min",
+          "A client with diverticulitis whose abdomen has become rigid and distended; HR 124/min, RR 28/min and shallow, and the client is newly restless",
+          "A client with cholelithiasis who reports RUQ pain radiating to the right scapula 4 hours after dinner; HR 92/min, BP 134/80 mm Hg",
+          "A client with a small bowel obstruction whose NG tube has drained 250 mL of green fluid over 4 hours; HR 90/min, abdomen mildly distended"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Periumbilical-to-RLQ pain, nausea, and a low-grade fever are the expected picture of uncomplicated appendicitis. The client needs monitoring, but the vital signs are stable and there are no peritoneal or sepsis cues yet.",
+          "CJMM — Recognize cues: a rigid, distended abdomen with tachycardia, shallow rapid respirations, and new restlessness. Analyze cues: these are the guide's acute-abdomen red flags, and together they signal peritonitis progressing toward sepsis, with altered mentation suggesting poor perfusion. Prioritize hypotheses: perforation with peritonitis/early septic shock is the most immediately life-threatening problem on the list. Take action: assess this client first, keep NPO, check perfusion and vital signs, and escalate for urgent surgical evaluation.",
+          "RUQ pain referred to the scapula after a meal is classic biliary colic. It is uncomfortable, but the vital signs are stable and there are no signs of rupture or sepsis.",
+          "Steady NG drainage with mild distention means the decompression is working as intended. This is expected and less urgent than a client showing signs of sepsis."
+        ]
+      },
+      {
+        "stem": "A 24-year-old client is admitted with periumbilical pain that has shifted to the RLQ, anorexia, and a positive Rovsing's sign. A surgical consult is pending. Which prescription should the nurse question?",
+        "options": [
+          "Lactated Ringer's at 125 mL/hr IV",
+          "Ondansetron 4 mg IV every 6 hours PRN nausea",
+          "Clear liquid diet, advance as tolerated",
+          "Ceftriaxone and metronidazole IV now"
+        ],
+        "answer": 2,
+        "explanations": [
+          "IV fluids are part of medical management because the client is NPO and may be dehydrated from anorexia and nausea. This order is appropriate.",
+          "Antiemetics are listed in the lecture's medical management for appendicitis. Treating nausea is appropriate and does not interfere with surgical evaluation.",
+          "CJMM — Recognize cues: classic migratory pain to the RLQ with Rovsing's sign, and a surgical evaluation that has not happened yet. Analyze cues: suspected appendicitis may need surgery soon, and the guide states the client stays NPO pending surgical evaluation. Generate solutions: IV fluids, antiemetics, and IV antibiotics all match the lecture's medical management. Take action: hold the diet order and clarify it with the provider; NPO status protects against aspiration if the client goes to the OR.",
+          "IV antibiotics are part of the lecture's management, and some uncomplicated cases receive antibiotics before a surgical decision is made. This order is appropriate."
+        ]
+      },
+      {
+        "stem": "An 82-year-old client from a long-term care facility is brought in for new confusion and reduced appetite. The client reports \"my belly hurts all over\" but cannot localize it. T 37.0°C (98.6°F), HR 104/min, BP 112/70 mm Hg, WBC 9,200/mm³. Which conclusion by the nurse is most appropriate?",
+        "options": [
+          "The normal temperature and WBC make an acute abdominal process unlikely, so the confusion should be worked up as a urinary tract infection first",
+          "Generalized pain is not typical of appendicitis, so the nurse should wait until the pain localizes to the RLQ before notifying the surgical team",
+          "The confusion is most likely baseline dementia, so the nurse should obtain the facility's records before taking further action",
+          "Appendicitis and other acute abdominal causes remain possible despite the normal temperature and WBC, so the nurse should report the findings and anticipate abdominal imaging"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This misreads the cues. In older adults, the absence of fever and leukocytosis does not rule out appendicitis, so anchoring on a UTI risks a missed perforation.",
+          "Waiting for pain to localize is unsafe in an older adult, whose presentation may never become classic. Delay increases the risk of gangrene and perforation.",
+          "\"New\" confusion is a change from baseline, and the guide lists altered mental status as a presenting sign of appendicitis in older adults. Attributing it to dementia skips Analyze cues.",
+          "CJMM — Recognize cues: new confusion, poor appetite, vague generalized abdominal pain, and tachycardia, with a normal temperature and WBC. Analyze cues: the guide stresses that older adults with appendicitis may have vague or generalized pain, appetite loss, absent fever or leukocytosis, and altered mental status. Prioritize hypotheses: an acute abdominal process cannot be excluded on the basis of normal labs and temperature. Take action: report the cluster and anticipate a CBC, imaging (CT), and surgical evaluation rather than waiting for a classic picture."
+        ]
+      },
+      {
+        "stem": "A client with appendicitis who is awaiting surgery says, \"The sharp pain suddenly got better about an hour ago.\" Thirty minutes later, the client has diffuse abdominal pain that worsens when the bed is bumped, a rigid abdomen, T 39.1°C (102.4°F), and HR 122/min. What is the nurse's priority action?",
+        "options": [
+          "Notify the surgeon immediately of suspected perforation with peritonitis and prepare for urgent surgery",
+          "Administer the PRN IV morphine and reassess the abdomen in 30 minutes",
+          "Obtain a set of blood cultures and wait for the results before calling the surgeon",
+          "Reposition the client in high-Fowler's and apply a cold pack to the RLQ"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: sudden relief of pain followed by diffuse pain worse with movement, rigidity, high fever, and tachycardia. Analyze cues: relief can mean the distended appendix ruptured; the new findings are the guide's classic peritonitis signs. Prioritize hypotheses: perforation with peritonitis that can progress to sepsis and septic shock. Take action: notify the surgeon now and prepare for urgent surgery while maintaining NPO, IV access, fluids, and antibiotics. Evaluate outcomes: track HR, BP, urine output, and mentation for progression to shock.",
+          "Analgesia is appropriate, but giving it and waiting 30 minutes delays escalation of a surgical emergency. This is the right action at the wrong priority.",
+          "Cultures support the sepsis work-up, but waiting for results before notifying the surgeon wastes time. Perforation needs immediate surgical escalation.",
+          "Positioning and comfort measures do not address the underlying perforation. They may make the client feel better while the peritonitis progresses."
+        ]
+      },
+      {
+        "stem": "A 27-year-old client with RLQ pain, nausea, and a low-grade fever is scheduled for a CT of the abdomen/pelvis with IV contrast. The CBC and urinalysis have been sent. Which result should the nurse confirm is available before the client goes to CT?",
+        "options": [
+          "Serum lipase",
+          "Serum pregnancy test",
+          "Liver function panel",
+          "Stool guaiac"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Lipase evaluates pancreatitis, which presents with epigastric pain radiating to the back. It does not change the imaging plan for RLQ pain.",
+          "CJMM — Recognize cues: a client of childbearing age with RLQ pain who is about to receive CT with contrast. Analyze cues: the guide's appendicitis work-up includes a pregnancy test to rule out ectopic pregnancy, which can mimic appendicitis and is a life-threatening alternative diagnosis. Prioritize hypotheses: ectopic pregnancy must be excluded and pregnancy status known before imaging. Take action: confirm the pregnancy test result before the client leaves for CT.",
+          "Liver function tests are not part of the lecture's appendicitis work-up and do not rule out the dangerous mimic in this client.",
+          "A stool guaiac screens for occult GI bleeding. It does not address ectopic pregnancy, which is the alternative diagnosis the work-up must exclude."
+        ]
+      },
+      {
+        "stem": "A client is 4 hours post laparoscopic appendectomy for uncomplicated appendicitis and is expected to go home today. Which finding best indicates the client is progressing as expected toward discharge?",
+        "options": [
+          "The client is lying flat with eyes closed and states pain is 3/10, but has not yet attempted to get out of bed",
+          "The client tolerated a regular meal of a cheeseburger and fries without nausea",
+          "The client has walked in the hallway twice, is tolerating sips of oral fluids, and reports pain of 3/10 with oral analgesia",
+          "The client's abdomen is soft with three small dressings, and the client is asking for IV morphine every 2 hours"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Controlled pain is good, but lying flat and not ambulating misses two post-op goals (high-Fowler's and early ambulation). This client is not yet showing readiness.",
+          "Diet advances from oral fluids to a bland/soft diet as tolerated. A high-fat regular meal skips the progression and does not show the expected step-by-step tolerance.",
+          "CJMM — Recognize cues: ambulation, tolerance of oral fluids, and pain controlled with oral analgesia. Analyze cues: the guide's post-op plan is high-Fowler's position, early ambulation, then oral fluids advanced to a bland/soft diet as tolerated, with laparoscopic cases often discharged the same day. Evaluate outcomes: early ambulation, fluid tolerance, and pain controlled by oral medication are the outcomes that show readiness for same-day discharge.",
+          "A soft abdomen is reassuring, but needing IV opioids every 2 hours means pain is not controlled on an oral regimen. That is a barrier to same-day discharge."
+        ]
+      },
+      {
+        "stem": "A client is 1 day post open appendectomy for a perforated appendix. The client is splinting the abdomen, refusing the incentive spirometer because \"it hurts too much,\" and has diminished breath sounds at both bases. SpO2 is 92% on room air. Which action should the nurse take first?",
+        "options": [
+          "Document the refusal and encourage the client to try the incentive spirometer again at the next scheduled time",
+          "Apply oxygen at 4 L/min and notify the provider of possible pneumonia",
+          "Ask the provider to discontinue the incentive spirometer until the incision has healed",
+          "Administer the prescribed analgesic, then coach incentive spirometry with a pillow splinted over the incision"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Documenting and deferring accepts the hypoventilation and allows atelectasis to worsen. It does not remove the barrier (pain) that is causing the refusal.",
+          "SpO2 92% with diminished bases most likely reflects atelectasis from shallow breathing, not established pneumonia. Oxygen alone does not re-expand the alveoli; pain control and lung expansion address the cause first.",
+          "Stopping pulmonary hygiene after open surgery raises the risk of atelectasis and pneumonia. The goal is to make deep breathing possible, not to remove it.",
+          "CJMM — Recognize cues: incisional pain limiting deep breathing, diminished bases, and SpO2 of 92% after an open procedure. Analyze cues: open abdominal surgery makes pain a barrier to lung expansion, causing atelectasis. Generate solutions: the guide's open-procedure care is adequate analgesia to permit deep breathing, incentive spirometry, pillow splinting, and early ambulation. Take action: treat the pain, then coach splinted spirometry. Evaluate outcomes: improved breath sounds and SpO2 after effective deep breathing."
+        ]
+      },
+      {
+        "stem": "A client with secondary peritonitis from a perforated diverticulum is receiving IV antibiotics while awaiting surgery. Over 2 hours, BP falls from 118/72 to 84/50 mm Hg, HR rises from 104 to 132/min, urine output is 15 mL/hr, and the client is newly confused. Which action should the nurse take first?",
+        "options": [
+          "Increase the IV fluid rate per protocol, notify the provider/rapid response team, and anticipate ICU-level care",
+          "Insert an indwelling urinary catheter to measure hourly urine output more accurately",
+          "Administer the PRN opioid because pain can cause tachycardia and confusion",
+          "Draw a repeat CBC and metabolic panel and report the results when they return"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: falling BP, rising HR, oliguria, and new confusion in a client with peritonitis. Analyze cues: the guide warns that peritonitis can progress to sepsis and septic shock, and these cues show failing perfusion. Prioritize hypotheses: septic shock. Take action: support circulation with IV fluids, escalate immediately, and anticipate ICU care, as the guide directs for an unstable client. Evaluate outcomes: rising BP, falling HR, urine output improving, and clearing mentation.",
+          "Accurate urine measurement is useful, but the client is already clearly oliguric. Measuring it more precisely does not treat the shock and delays escalation.",
+          "Pain can raise HR, but hypotension, oliguria, and confusion point to poor perfusion. An opioid could lower BP further and mask deterioration.",
+          "Labs help guide care, but waiting for results before escalating a hypotensive, confused client delays treatment of shock."
+        ]
+      },
+      {
+        "stem": "A client with cirrhosis and tense ascites develops a temperature of 38.4°C (101.1°F), diffuse abdominal tenderness, and new lethargy. There is no history of recent surgery or trauma. Which diagnostic test should the nurse anticipate as most specific for the likely problem?",
+        "options": [
+          "Abdominal X-ray to look for free air under the diaphragm",
+          "Serum amylase and lipase",
+          "Paracentesis with culture and sensitivity of the peritoneal fluid",
+          "Colonoscopy to identify a perforated diverticulum"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Free air suggests a perforated organ, which is secondary peritonitis. Nothing in this history points to perforation, and the X-ray does not identify the organism.",
+          "Amylase and lipase evaluate pancreatitis. They do not confirm infection of the ascitic fluid.",
+          "CJMM — Recognize cues: fever, diffuse tenderness, and lethargy in a client with liver failure and ascites, without surgery or trauma. Analyze cues: the guide defines primary (spontaneous bacterial) peritonitis as usually associated with liver failure and ascites. Prioritize hypotheses: SBP rather than secondary peritonitis from a perforated organ. Generate solutions: the guide lists culture and sensitivity of peritoneal fluid as a key diagnostic, obtained by sampling the ascites. Take action: prepare for paracentesis and anticipate broad-spectrum IV antibiotics.",
+          "Colonoscopy localizes lower GI bleeding and is not used to diagnose peritonitis. It is also risky when perforation or peritonitis is suspected."
+        ]
+      },
+      {
+        "stem": "A client is 36 hours post exploratory laparotomy for secondary peritonitis and is receiving broad-spectrum IV antibiotics. Which set of findings best indicates that treatment is effective?",
+        "options": [
+          "T 38.6°C (101.5°F), HR 112/min, urine output 25 mL/hr, abdomen soft",
+          "T 37.6°C (99.7°F), HR 88/min, BP 122/74 mm Hg, urine output 50 mL/hr, abdominal tenderness decreasing",
+          "BP 128/80 mm Hg, pain 2/10 after IV morphine, abdomen rigid and distended",
+          "HR 96/min, WBC rising from 14,000 to 17,000/mm³, client sleeping comfortably"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A soft abdomen is good, but persistent fever, tachycardia, and low urine output suggest ongoing infection with poor perfusion. Treatment is not yet effective.",
+          "CJMM — Evaluate outcomes: the guide defines response to peritonitis treatment as improving vital signs and perfusion, decreasing pain and tenderness, adequate urine output, improving abdominal findings, and no progression to sepsis or organ dysfunction. Recognize cues: a falling temperature, normal HR and BP, urine output of 50 mL/hr, and less tenderness. Analyze cues: every marker is moving in the right direction at once, which is the strongest evidence the infection is being controlled.",
+          "Pain relief after an opioid does not show disease improvement, and a rigid, distended abdomen means peritoneal inflammation persists. The analgesic may be masking the findings.",
+          "A rising WBC points to worsening infection. Comfortable sleep does not outweigh an objective trend in the wrong direction."
+        ]
+      },
+      {
+        "stem": "On admission, a client with peritonitis had hyperactive bowel sounds. On the second day, bowel sounds are absent in all four quadrants, the abdomen is more distended, and the client has vomited twice. How should the nurse interpret these findings?",
+        "options": [
+          "The return to quiet bowel sounds shows the inflammation is resolving and the client can begin clear liquids",
+          "The client has developed a mechanical obstruction from adhesions, which requires an urgent colonoscopy",
+          "The opioid analgesic has slowed motility, and the findings will resolve once a laxative is given",
+          "The early hypermotility has progressed to a paralytic ileus, so the nurse should maintain NPO and anticipate NG decompression"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Absent bowel sounds with more distention and vomiting are a worsening sign, not resolution. Starting oral intake would raise the risk of vomiting and aspiration.",
+          "Adhesions cause mechanical obstruction, but in active peritonitis the expected course is hypermotility then paralytic ileus. Colonoscopy is not the treatment and is risky with peritonitis.",
+          "Opioids can slow motility, but this pattern is the expected progression of peritonitis. A laxative is unsafe in a client with absent bowel sounds and vomiting.",
+          "CJMM — Recognize cues: hyperactive sounds early, now absent sounds with increasing distention and vomiting. Analyze cues: the guide explains that the GI tract may first respond to peritonitis with hypermotility, followed by paralytic ileus, which is a functional obstruction. Prioritize hypotheses: paralytic ileus causing accumulation and distention. Generate solutions and take action: keep NPO/bowel rest, anticipate NG decompression and IV fluids/electrolytes, and report the change. Evaluate outcomes: decreasing distention and return of bowel sounds and flatus."
+        ]
+      },
+      {
+        "stem": "A client presents to the ED with sudden abdominal pain that began 6 hours ago without trauma. Which findings should the nurse recognize as red flags that require urgent escalation? Select all that apply.",
+        "options": [
+          "Abdomen rigid to palpation with rebound tenderness",
+          "HR 118/min and BP 92/58 mm Hg",
+          "Pain rated 5/10 that is unchanged since arrival",
+          "Shallow respirations at 26/min",
+          "New difficulty following conversation and answering questions",
+          "One episode of nausea without vomiting"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "explanations": [
+          "Correct—rigidity and rebound tenderness are peritoneal signs that suggest peritonitis and a possible surgical emergency.",
+          "Correct—tachycardia with hypotension signals hemodynamic instability from sepsis, bleeding, or fluid loss.",
+          "Incorrect—the red flag is severe or worsening pain. Moderate pain that is stable still needs reassessment but is not, by itself, a cue for urgent escalation.",
+          "Correct—shallow respirations are a listed red flag; pain splinting and sepsis can impair ventilation.",
+          "Correct—altered mental status suggests poor cerebral perfusion or sepsis and is a listed red flag.",
+          "Incorrect—a single episode of nausea is common with many abdominal conditions and is not on its own a sign of instability."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The nurse is completing discharge teaching for a client going home the same day after a laparoscopic appendectomy. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll start with fluids and then move to soft, bland foods as I can tolerate them.\"",
+          "\"I'll walk around the house several times a day even though it's a little sore.\"",
+          "\"I'll call the surgeon if I get a fever or my belly pain gets worse instead of better.\"",
+          "\"If I feel bloated and my belly gets hard, I'll lie down and wait a couple of days for it to pass.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct. The guide's post-op progression is oral fluids, then a bland/soft diet as tolerated.",
+          "This is correct. Early, frequent ambulation is part of post-op care and helps return bowel function and prevent complications.",
+          "This is correct. Fever and worsening pain are warning signs of infection or peritonitis that should be reported.",
+          "CJMM — Recognize cues: the client plans to wait out a hard, bloated abdomen. Analyze cues: increasing distention and rigidity after appendectomy can mean peritonitis, abscess, or paralytic ileus, all of which the guide lists as complications. Generate solutions: discharge teaching must include red flags that need prompt reporting. Take action: reteach that worsening pain, a rigid or distended abdomen, fever, or vomiting must be reported promptly. Evaluate outcomes: the client correctly names warning signs and when to call."
+        ]
+      },
+      {
+        "stem": "A 71-year-old client with long-standing diabetes and Parkinson's disease has 2 days of abdominal distention, nausea, and no flatus. CT shows diffusely dilated loops of bowel with no mass, hernia, or transition point. Which conclusion and plan by the nurse are most accurate?",
+        "options": [
+          "A functional obstruction in which contents are not being propelled forward; anticipate NPO, NG decompression, IV fluids/electrolytes, and treatment of contributing factors",
+          "A mechanical obstruction from adhesions; prepare the client for emergency surgery to release the blockage",
+          "A large bowel obstruction from a tumor; prepare the client for a colonoscopy and possible colostomy",
+          "Severe constipation from Parkinson's medications; give a large-volume enema and encourage oral fluids"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: distention, nausea, and no flatus, with dilated bowel but no physical blockage on CT, in a client with diabetes and Parkinson's disease. Analyze cues: the guide defines functional obstruction as contents that cannot be propelled forward despite no physical blockage, and it names Parkinson's disease, diabetes, and ileus as examples. Generate solutions: bowel rest, NG decompression, IV fluids/electrolytes, and strict I&O. Evaluate outcomes: decreasing distention and return of flatus and bowel sounds.",
+          "Adhesions are a mechanical cause, but the CT shows no physical blockage or transition point. Preparing for surgery misreads the imaging cue.",
+          "LBO is usually caused by tumors, diverticular disease, or volvulus, and the CT would show a mass or a point of blockage. Nothing here points to a tumor.",
+          "Constipation is common in Parkinson's disease, but a large-volume enema and oral fluids are unsafe with dilated bowel, nausea, and no flatus. The client needs bowel rest and decompression."
+        ]
+      },
+      {
+        "stem": "A client with a small bowel obstruction has vomited repeatedly for 2 days. Results: pH 7.51, PaCO2 46 mm Hg, HCO3- 33 mEq/L, K+ 3.0 mEq/L. Which interpretation and nursing action are correct?",
+        "options": [
+          "Respiratory alkalosis from pain-related hyperventilation; coach slow breathing and give analgesia",
+          "Metabolic alkalosis with hypokalemia from loss of gastric contents; anticipate IV fluids with potassium replacement and monitor cardiac rhythm",
+          "Metabolic acidosis from bowel ischemia; anticipate IV sodium bicarbonate and emergency surgery",
+          "Compensated respiratory acidosis from abdominal distention; elevate the head of the bed and encourage incentive spirometry"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Respiratory alkalosis would show a low PaCO2. Here the PaCO2 is elevated and the HCO3- is high, so the primary problem is metabolic.",
+          "CJMM — Recognize cues: pH 7.51 (alkalemia) with HCO3- 33 (high) and PaCO2 46 (mildly high, compensating), plus K+ 3.0 after repeated vomiting. Analyze cues: the guide states that repeated vomiting with SBO may cause hypokalemia and metabolic alkalosis through loss of hydrogen and potassium ions. Prioritize hypotheses: metabolic alkalosis with hypokalemia, which raises the risk of dysrhythmias. Take action: replace fluids and electrolytes as ordered, monitor the rhythm, and maintain NG/strict I&O. Evaluate outcomes: K+ and HCO3- returning toward normal.",
+          "Ischemia raises lactate and causes metabolic acidosis, but the pH is 7.51, which is alkalemia. Giving bicarbonate would worsen the alkalosis.",
+          "Respiratory acidosis needs a pH below 7.35. A mildly elevated PaCO2 here is respiratory compensation for metabolic alkalosis, not the primary problem."
+        ]
+      },
+      {
+        "stem": "A client with a small bowel obstruction is on NPO status with an NG tube to suction. On day 2 the client's pain changes from intermittent cramping to constant, severe pain. HR 118/min, T 38.3°C (100.9°F), and serum lactate has risen from 1.4 to 4.6 mmol/L. What should the nurse do first?",
+        "options": [
+          "Increase the NG suction setting to improve decompression and reassess in 1 hour",
+          "Administer the PRN IV opioid and recheck the lactate with the next morning labs",
+          "Notify the surgeon urgently of suspected bowel ischemia and prepare the client for possible surgery",
+          "Irrigate the NG tube with 30 mL of normal saline to confirm it is patent"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Changing suction does not address compromised blood flow to the bowel. Waiting an hour delays treatment of ischemia.",
+          "Pain control is appropriate, but delaying the lactate recheck until morning ignores a strong ischemia cue. An opioid may also mask worsening peritoneal signs.",
+          "CJMM — Recognize cues: crampy pain becoming constant and severe, new fever and tachycardia, and lactate more than tripling. Analyze cues: the guide says lactate is monitored in obstruction because elevation may indicate tissue hypoperfusion/ischemia, and progressive distention can impair perfusion and lead to necrosis or perforation. Prioritize hypotheses: strangulated, ischemic bowel. Take action: notify the surgeon now; the guide states surgery is indicated if there are signs of necrosis. Evaluate outcomes: perfusion and lactate after definitive treatment.",
+          "Checking patency is reasonable when output drops, but nothing suggests a blocked tube here. The cue cluster points to ischemia, which needs surgical escalation first."
+        ]
+      },
+      {
+        "stem": "A client with sudden crampy abdominal pain, vomiting, and distention is being evaluated for a small bowel obstruction. The client says, \"It can't be a blockage. I passed gas and had a small stool an hour ago.\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"You're right that passing gas makes a blockage unlikely, so we can try some clear liquids.\"",
+          "\"Passing stool means the blockage must be in your large intestine, not the small intestine.\"",
+          "\"That means the blockage is only partial, so you won't need the NG tube that was ordered.\"",
+          "\"Early in a blockage, the bowel below it can still empty, so we still need to keep you NPO and finish the tests.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This misreads the cue. Distal bowel can empty early in SBO, so flatus does not rule out obstruction, and oral intake could worsen the vomiting.",
+          "Recent stool does not localize the blockage to the colon. Sudden onset with early vomiting fits SBO better than LBO.",
+          "Passing gas early does not prove the obstruction is partial. Vomiting and distention are indications for NG decompression.",
+          "CJMM — Recognize cues: sudden crampy pain, vomiting, and distention, with recent flatus and stool. Analyze cues: the guide states that in SBO the client may still pass flatus/stool early because the bowel distal to the blockage keeps moving. Prioritize hypotheses: SBO remains likely despite the flatus. Take action: maintain NPO, continue the work-up (X-ray/CT, CBC, metabolic panel), and keep the decompression plan. Evaluate outcomes: the client understands why NPO and testing continue."
+        ]
+      },
+      {
+        "stem": "A client with an SBO has an NG tube to low intermittent suction that drained about 150 mL/hr. For the last 3 hours there has been no drainage, and the client is now nauseated with a more distended abdomen. Which action should the nurse take first?",
+        "options": [
+          "Check the NG tube for kinks, confirm the suction is working, and verify placement and patency per protocol",
+          "Administer the PRN IV antiemetic for the new nausea",
+          "Notify the surgeon that the obstruction is worsening despite decompression",
+          "Lower the head of the bed to flat so the client is more comfortable"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: NG output dropped suddenly from steady to zero, and nausea and distention increased at the same time. Analyze cues: when decompression stops and symptoms worsen together, the most likely cause is a nonfunctioning tube (kinked, clogged, displaced, or suction off), not a sudden change in the disease. Generate solutions: the guide's SBO nursing includes maintaining the NG tube. Take action: assess the equipment and tube first. Evaluate outcomes: drainage resumes and nausea and distention decrease; if not, escalate.",
+          "An antiemetic treats the symptom while gastric contents keep building up. It does not restore decompression, and it leaves aspiration risk unaddressed.",
+          "Escalation may be needed, but the simplest and most likely explanation, a nonfunctioning tube, should be checked first. Notifying before checking skips Analyze cues.",
+          "Lying flat with a distended stomach and nausea raises aspiration risk. The head of the bed should stay elevated."
+        ]
+      },
+      {
+        "stem": "A client with an adhesive small bowel obstruction has been managed with NPO, NG decompression, and IV fluids for 48 hours. Which assessment best indicates that conservative management is working?",
+        "options": [
+          "NG output has increased from 800 to 1,600 mL/day, and the abdomen remains firm",
+          "Abdominal girth has decreased, the client is passing flatus, NG output is declining, and urine output is 45 mL/hr",
+          "Bowel sounds are high-pitched and frequent above the obstruction, and the client has cramping every 10 minutes",
+          "Pain is 2/10 after IV morphine, and the client is asking to have the NG tube removed"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Rising NG output with a persistently firm abdomen means fluid is still building up above the blockage. This shows the obstruction is not resolving.",
+          "CJMM — Evaluate outcomes: the guide's effectiveness indicators for bowel status are improving distention and pain, return of bowel function, and no ischemia or perforation; for fluids they are improving hydration and adequate urine output. Recognize cues: smaller girth, passing flatus, falling NG output, and urine output of 45 mL/hr. Analyze cues: together these show the bowel is moving contents forward again and the client is perfused, so the obstruction is resolving without surgery.",
+          "High-pitched, hyperactive sounds and rhythmic cramping are the early findings of active obstruction near the blockage, not signs of resolution.",
+          "Pain relief after an opioid and a wish to remove the tube are not objective signs of bowel function. They could mask ongoing obstruction."
+        ]
+      },
+      {
+        "stem": "A 70-year-old client reports 3 weeks of worsening constipation and stools that have become \"thin like a pencil.\" Over the last 2 days they have developed gradual abdominal distention and crampy lower abdominal pain, with no vomiting. Which conclusion should guide the nurse's planning?",
+        "options": [
+          "A small bowel obstruction from adhesions; anticipate rapid dehydration and early surgery",
+          "A functional ileus from immobility; encourage ambulation and give a stimulant laxative",
+          "A large bowel obstruction, most likely from a tumor; anticipate imaging, colonoscopy, NG and/or rectal tube, and possible surgery",
+          "Irritable bowel syndrome with constipation; begin a high-fiber diet and increase oral fluids"
+        ],
+        "answer": 2,
+        "explanations": [
+          "SBO is usually sudden, with early vomiting and faster dehydration. A gradual onset with changing stool caliber points to the colon.",
+          "Functional obstruction has no physical blockage, and a change in stool shape suggests a mass. A stimulant laxative is unsafe if there is a mechanical obstruction.",
+          "CJMM — Recognize cues: slow onset, constipation as the first symptom, a change in stool caliber, and distention and cramping appearing later, without early vomiting. Analyze cues: the guide's LBO picture is slow onset, constipation as the initial symptom, change in stool size/shape, and later distention and crampy pain; tumors are a common cause. Prioritize hypotheses: LBO from a colorectal tumor. Generate solutions: X-ray/CT, colonoscopy, IV fluids, NG and/or rectal tube, NPO, and possible surgery with colostomy.",
+          "A change in stool caliber in an older adult with new distention is a warning sign of an obstructing lesion. Treating it as IBS with fiber delays diagnosis and could worsen the obstruction."
+        ]
+      },
+      {
+        "stem": "A client with a large bowel obstruction from a sigmoid volvulus is waiting for colonoscopic decompression. Which finding requires the nurse's immediate action?",
+        "options": [
+          "Abdominal girth increased by 1 cm since the previous shift",
+          "No bowel movement for the past 4 days",
+          "A rectal tube draining small amounts of gas and liquid stool",
+          "Sudden severe generalized pain with a rigid abdomen and HR 126/min"
+        ],
+        "answer": 3,
+        "explanations": [
+          "A small increase in girth is consistent with known obstruction and should be trended, but it is not an emergency compared with peritoneal signs.",
+          "Constipation is expected in LBO, which is why decompression is planned. It does not indicate a new complication.",
+          "Drainage of gas and liquid stool through a rectal tube shows the tube is working. This is a reassuring finding.",
+          "CJMM — Recognize cues: sudden severe generalized pain, rigidity, and tachycardia. Analyze cues: the guide warns that in LBO, compression can cause ischemia/necrosis, and perforation remains a risk; rigidity is a peritoneal sign. Prioritize hypotheses: perforation with peritonitis. Take action: notify the provider immediately, maintain NPO, and prepare for emergency surgery. Evaluate outcomes: monitor HR, BP, urine output, and mentation for progression to septic shock."
+        ]
+      },
+      {
+        "stem": "The nurse is totaling 8-hour I&O for a client with an SBO who is NPO. Intake: lactated Ringer's at 125 mL/hr and one 100-mL IV antibiotic piggyback. Output: NG drainage 850 mL, urine 200 mL, and one emesis of 150 mL around the NG tube. What is the client's net fluid balance for the shift?",
+        "options": [
+          "+50 mL",
+          "−100 mL",
+          "−200 mL",
+          "+750 mL"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This leaves out the 150-mL emesis. Every output, including emesis around the tube, must be counted.",
+          "CJMM — Recognize cues: intake = 125 mL/hr × 8 hr = 1,000 mL + 100 mL piggyback = 1,100 mL. Output = 850 mL NG + 200 mL urine + 150 mL emesis = 1,200 mL. Analyze cues: 1,100 − 1,200 = −100 mL. Prioritize hypotheses: the client is in negative balance, and the urine output of 25 mL/hr suggests worsening dehydration from fluid shifting into the bowel and gastric losses. Take action: report the negative balance and low urine output and anticipate increased fluid/electrolyte replacement. Evaluate outcomes: strict I&O, urine output, and electrolytes over the next shift.",
+          "This leaves out the 100-mL piggyback from intake (1,000 − 1,200). IV medication volumes count as intake.",
+          "This leaves out the NG drainage. NG output is often the largest loss in SBO and must be counted."
+        ]
+      },
+      {
+        "stem": "A client admitted 24 hours ago with an SBO is being managed with NPO status and NG decompression. Which new findings suggest the obstruction is progressing to ischemia, necrosis, or perforation? Select all that apply.",
+        "options": [
+          "Serum lactate rising from 1.2 to 3.9 mmol/L",
+          "Pain changing from intermittent cramps to constant, severe pain",
+          "NG drainage of 600 mL of bilious fluid over 8 hours",
+          "T 38.6°C (101.5°F) with HR 124/min",
+          "Rebound tenderness with guarding on palpation",
+          "High-pitched bowel sounds heard near the area of obstruction"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "explanations": [
+          "Correct—the guide says elevated lactate may indicate tissue hypoperfusion/ischemia.",
+          "Correct—a change from crampy to constant, severe pain suggests the bowel wall is losing blood supply.",
+          "Incorrect—substantial bilious NG output is expected with SBO and shows that decompression is working. Track it for I&O and electrolytes, but it is not a sign of ischemia.",
+          "Correct—fever and tachycardia suggest necrosis, perforation, or developing sepsis.",
+          "Correct—rebound tenderness and guarding are peritoneal signs that point to perforation and peritonitis.",
+          "Incorrect—the guide says bowel sounds are hyperactive near the obstruction early. This is the expected early finding; the concern is when they become hypoactive along with other warning signs."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The nurse is caring for four clients with GI bleeding. Which client should the nurse see first?",
+        "options": [
+          "A client with a duodenal ulcer who had one small episode of coffee-ground emesis; HR 92/min, BP 126/78 mm Hg",
+          "A client with diverticulosis with streaks of bright red blood on the toilet paper; HR 84/min, BP 132/80 mm Hg",
+          "A client with cirrhosis who just vomited about 300 mL of bright red blood; HR 118/min, BP 96/58 mm Hg",
+          "A client with gastritis from NSAIDs who reports a black, tarry stool this morning; HR 88/min, BP 118/72 mm Hg"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Coffee-ground emesis is blood that has been in contact with gastric acid, which suggests a slower or older bleed. With stable vital signs this client is less urgent.",
+          "Small streaks of bright red blood with normal vital signs suggest minor lower GI bleeding. It needs follow-up, but the client is stable.",
+          "CJMM — Recognize cues: a large volume of bright red hematemesis with tachycardia and soft BP in a client with cirrhosis. Analyze cues: the guide says bright red emesis suggests active bleeding and needs an urgent response, and cirrhosis points to esophageal varices. Prioritize hypotheses: active variceal hemorrhage with early hypovolemic shock. Take action: see this client first, ensure two large-bore IVs and isotonic fluids, keep NPO, and anticipate transfusion, octreotide, and emergency endoscopy.",
+          "Melena means digested blood from an upper GI source. It needs evaluation, but the vital signs are stable, unlike the client who is actively vomiting blood."
+        ]
+      },
+      {
+        "stem": "A client is admitted with an upper GI bleed from a gastric ulcer. HR 112/min, BP 100/62 mm Hg. Which prescription should the nurse question?",
+        "options": [
+          "Pantoprazole IV infusion",
+          "0.9% sodium chloride 1,000 mL IV bolus through an 18-gauge catheter",
+          "Type and crossmatch for 2 units of packed red blood cells",
+          "Ketorolac 15 mg IV every 6 hours PRN epigastric pain"
+        ],
+        "answer": 3,
+        "explanations": [
+          "An IV PPI is part of the guide's stabilization and treatment for upper GI bleeding. This order is appropriate.",
+          "An isotonic crystalloid through large-bore IV access is exactly what the guide calls for in a significant GI bleed. This order is appropriate.",
+          "The guide says to anticipate transfusion, so a type and crossmatch is an appropriate preparation for a client with tachycardia and a falling BP.",
+          "CJMM — Recognize cues: an active ulcer bleed with tachycardia and borderline BP. Analyze cues: ketorolac is an NSAID; the guide lists medication-related gastritis and peptic ulcers as upper GI bleed causes and teaches avoidance of NSAIDs. An NSAID worsens mucosal injury and impairs platelet function. Generate solutions: IV PPI, isotonic crystalloid through large-bore access, and preparation for transfusion all match the guide's stabilization plan. Take action: hold the ketorolac and request a non-NSAID analgesic."
+        ]
+      },
+      {
+        "stem": "A client with a bleeding duodenal ulcer has HR 128/min, BP 86/50 mm Hg, cool pale skin, restlessness, and 20 mL of urine in 2 hours. One 20-gauge IV is infusing 0.9% saline at 75 mL/hr. Which action should the nurse take first?",
+        "options": [
+          "Insert a second large-bore IV and begin a rapid isotonic crystalloid bolus per protocol while calling the rapid response team",
+          "Raise the head of the bed to 45 degrees to reduce the risk of aspiration",
+          "Give the scheduled IV pantoprazole dose early",
+          "Draw a stat hemoglobin and hematocrit before changing the fluid rate"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: tachycardia, hypotension, cool pale skin, restlessness, and oliguria. Analyze cues: the guide says to prioritize circulation in a major GI bleed and lists these exact cues as signs of shock that need urgent escalation. Prioritize hypotheses: hypovolemic shock from hemorrhage. Take action: establish two large-bore IVs, run isotonic crystalloid rapidly, and escalate. Evaluate outcomes: HR falling, BP rising, urine output improving, and mentation clearing.",
+          "Aspiration precautions matter, but raising the head of the bed in a hypotensive client can worsen cerebral perfusion, and it does nothing for the volume loss that is threatening life.",
+          "A PPI supports treatment of the ulcer but does not restore circulating volume. It is the right drug at the wrong priority.",
+          "The Hgb and Hct will be needed, but they can be drawn while starting the IV. Waiting for labs before treating obvious shock delays resuscitation, and early values may not yet reflect the blood loss."
+        ]
+      },
+      {
+        "stem": "A client with cirrhosis and bleeding esophageal varices is started on an IV octreotide infusion while awaiting emergency endoscopy. Which finding best indicates that the medication is having its intended effect?",
+        "options": [
+          "The client's epigastric burning has resolved",
+          "No further bright red hematemesis, with HR decreasing from 122 to 98/min and BP stabilizing",
+          "The serum ammonia level has decreased and the client is less confused",
+          "The client's abdominal girth and weight have decreased since admission"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Relief of epigastric burning is the expected effect of acid suppression (a PPI). It does not show that variceal bleeding has slowed.",
+          "CJMM — Generate solutions: the guide lists IV octreotide for upper GI bleeding as indicated; in variceal bleeding it reduces portal (splanchnic) blood flow to slow hemorrhage. Evaluate outcomes: the guide defines response to GI-bleed treatment as stable or improving BP and HR, reduced visible bleeding, and no recurrent hemorrhage. Recognize cues: hematemesis has stopped, HR is falling, and BP is stabilizing, which shows the bleeding is slowing.",
+          "A falling ammonia level reflects treatment of hepatic encephalopathy (e.g., lactulose), not control of variceal hemorrhage.",
+          "Smaller girth and weight reflect ascites management with diuretics or paracentesis. They do not measure bleeding control."
+        ]
+      },
+      {
+        "stem": "A client with massive variceal bleeding has a Sengstaken-Blakemore tube in place for balloon tamponade. The client suddenly develops inspiratory stridor, severe respiratory distress, and SpO2 of 82%. Which action should the nurse take first?",
+        "options": [
+          "Cut across the tube to deflate the balloons and remove it per protocol, then call for help",
+          "Increase the oxygen to a non-rebreather mask and call the provider",
+          "Suction the oropharynx and reposition the client to high-Fowler's",
+          "Add traction to the tube to pull the gastric balloon snug against the stomach"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: sudden stridor, severe distress, and hypoxemia in a client with balloon tamponade. Analyze cues: the guide lists the Sengstaken-Blakemore tube for acute variceal bleeding; if the gastric balloon migrates upward, the esophageal balloon can block the airway. Prioritize hypotheses: airway obstruction from balloon migration, which is immediately fatal if not reversed. Take action: deflate the balloons by cutting the tube (scissors are kept at the bedside) and remove it, then call for emergency help. Evaluate outcomes: return of air movement and improving SpO2.",
+          "Oxygen cannot reach the lungs past a mechanical airway obstruction. Calling the provider first delays the one action that relieves it.",
+          "Suctioning clears secretions, but it does not relieve a balloon that is blocking the airway. This misreads the cue as a secretion problem.",
+          "Adding traction pulls the balloons further and can worsen the obstruction. This action is unsafe given the airway cue."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching a client with cirrhosis and esophageal varices how to reduce the risk of bleeding. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I need to stop drinking alcohol completely, not just cut back.\"",
+          "\"I'll call my provider if I have a cold with a lot of coughing or sneezing.\"",
+          "\"I'll switch from aspirin to ibuprofen for my knee pain since it's easier on my stomach.\"",
+          "\"I'll use the stool softener so I don't strain when I have a bowel movement.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. The guide lists alcohol avoidance as prevention for variceal bleeding.",
+          "This is correct. Coughing and sneezing increase variceal bleeding risk, so a persistent cough should be reported and treated.",
+          "CJMM — Recognize cues: the client plans to replace aspirin with ibuprofen. Analyze cues: the guide's variceal prevention teaching is to avoid alcohol, aspirin, and NSAIDs; ibuprofen is an NSAID and carries the same bleeding risk. Generate solutions: reteach that all NSAIDs must be avoided and that the client should ask the provider for a safe analgesic. Evaluate outcomes: the client correctly identifies ibuprofen and naproxen as drugs to avoid.",
+          "This is correct. Straining increases variceal bleeding risk, so preventing constipation is appropriate."
+        ]
+      },
+      {
+        "stem": "A 76-year-old client with diverticulosis has had two large maroon stools in the past hour. HR 114/min, BP 98/60 mm Hg, and the client reports dizziness when standing. A colonoscopy is planned. What should the nurse do first?",
+        "options": [
+          "Begin the prescribed bowel preparation so the colonoscopy can localize the source",
+          "Establish two large-bore IVs and start isotonic crystalloid as prescribed",
+          "Send a stool sample for occult blood testing",
+          "Assist the client to the bathroom and record the volume of the next stool"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Colonoscopy is the guide's primary method to localize the source, but the bowel prep is not the first action in a client showing signs of shock.",
+          "CJMM — Recognize cues: hematochezia (maroon stools) with tachycardia, soft BP, and orthostatic dizziness. Analyze cues: the guide says the severity of lower GI bleeding varies, and these cues show significant volume loss. Prioritize hypotheses: hemorrhage threatening perfusion. Take action: stabilize circulation first with two large-bore IVs and isotonic fluids, keep NPO, and anticipate transfusion. Colonoscopy localizes the source, but only after the client is stable enough. Evaluate outcomes: HR, BP, urine output, and CBC trends.",
+          "Visible maroon stool already confirms bleeding. An occult blood test adds nothing and delays stabilization.",
+          "Walking a dizzy, hypotensive client to the bathroom risks a fall and syncope. Use a bedside commode or bedpan and stabilize circulation first."
+        ]
+      },
+      {
+        "stem": "A client who takes naproxen daily for arthritis reports 3 days of black, sticky, foul-smelling stools and increasing fatigue. The client does not take iron supplements. HR 104/min. Which conclusion should guide the nurse's next actions?",
+        "options": [
+          "Bleeding from the stomach or duodenum, most likely medication-related; anticipate endoscopy and IV PPI therapy",
+          "Lower GI bleeding from diverticulosis; anticipate colonoscopy to localize the source",
+          "A harmless change in stool color from diet; recommend increasing fiber and fluids",
+          "Bleeding hemorrhoids from straining; anticipate a sitz bath and stool softener"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: black, tarry stools (melena), daily NSAID use, fatigue, and tachycardia, without iron supplements to explain dark stool. Analyze cues: the guide defines melena as black, tarry stool from digested blood, a sign of upper GI bleeding, and lists medication-related gastritis and peptic ulcers as stomach/duodenal causes. Prioritize hypotheses: an NSAID-related upper GI bleed with symptomatic blood loss. Take action: report, hold the NSAID, anticipate CBC, endoscopic therapy, and IV PPI, and monitor vital signs.",
+          "Lower GI bleeding usually causes hematochezia (bright red or maroon blood). Black, tarry stool means the blood was digested and points to an upper source.",
+          "Dismissing the finding as dietary ignores the NSAID history, fatigue, and tachycardia. This skips Analyze cues.",
+          "Hemorrhoids cause bright red blood on the stool or tissue, not black, tarry stool. This misreads the cue."
+        ]
+      },
+      {
+        "stem": "A client arrives with hematemesis and melena. HR 120/min, BP 94/56 mm Hg. Which actions should the nurse include in the initial plan of care? Select all that apply.",
+        "options": [
+          "Maintain NPO status",
+          "Insert two large-bore peripheral IVs",
+          "Infuse isotonic crystalloid fluids as prescribed",
+          "Offer ice chips and clear liquids to replace lost volume",
+          "Monitor vital signs, urine output, and CBC frequently",
+          "Insert a single 22-gauge IV in the hand to preserve larger veins"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—NPO prevents aspiration and keeps the client ready for urgent endoscopy.",
+          "Correct—two large-bore IVs allow rapid fluid and blood replacement.",
+          "Correct—isotonic crystalloid restores intravascular volume while blood is prepared.",
+          "Incorrect—the client should be NPO; oral intake does not replace intravascular volume and raises aspiration risk before endoscopy.",
+          "Correct—frequent VS, urine output, and CBC trending are how the nurse evaluates the response and catches ongoing bleeding.",
+          "Incorrect—a small-gauge IV cannot deliver fluids or blood rapidly enough; the guide calls for two large-bore lines."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with an upper GI bleed received 2 L of 0.9% saline after admission. Hemoglobin: 10.2 g/dL at 0800, 8.9 g/dL at 1200, and 7.4 g/dL at 1600. Over the same period HR rose from 98 to 116/min and the client had one maroon stool. Which conclusion is most accurate?",
+        "options": [
+          "The drop is mostly dilution from the saline, so the nurse should slow the IV rate and recheck in the morning",
+          "The hemoglobin is above 7 g/dL, so no action is needed beyond continued monitoring",
+          "The client has ongoing bleeding; the nurse should notify the provider and anticipate transfusion and urgent endoscopic therapy",
+          "The rising HR is from anxiety about the procedure, so the nurse should provide reassurance and reassess"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Dilution does not explain a rising HR and a new bloody stool. Slowing fluids in an actively bleeding client is unsafe.",
+          "A single number above a threshold ignores the trend. A steep, continuing fall with tachycardia is the cue that matters.",
+          "CJMM — Recognize cues: a steady Hgb fall of almost 3 g/dL over 8 hours, rising HR, and a new maroon stool. Analyze cues: some dilution is expected after crystalloids, but the guide's evaluation criteria are a stable CBC/hemoglobin trend, stable HR, and no recurrent hemorrhage; all three are moving the wrong way. Prioritize hypotheses: continued active bleeding. Take action: notify the provider and anticipate transfusion and endoscopic therapy. Evaluate outcomes: stabilizing Hgb and HR after intervention.",
+          "Anxiety can raise HR, but it does not lower hemoglobin or cause maroon stool. This misreads the cues."
+        ]
+      },
+      {
+        "stem": "A 52-year-old client with obesity and type 2 diabetes reports RUQ pain radiating to the right scapula that began 4 hours after a fried-food dinner and has not let up for 8 hours. T 38.5°C (101.3°F), HR 104/min, WBC 15,800/mm³. Bilirubin is normal and stools are brown. Which conclusion and plan are most appropriate?",
+        "options": [
+          "Uncomplicated biliary colic; give an antispasmodic and discharge the client with a low-fat diet",
+          "Acute pancreatitis; anticipate serum lipase and admission for NPO and IV fluids",
+          "Total biliary obstruction; anticipate urgent ERCP to remove a common bile duct stone",
+          "Acute cholecystitis; anticipate abdominal ultrasound, IV antibiotics, analgesia, and short-term NPO"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Biliary colic fits the pain pattern, but fever and leukocytosis point to infection and inflammation. Discharging the client misses cholecystitis and risks abscess or rupture.",
+          "Pancreatitis causes epigastric pain radiating to the back, not RUQ pain referred to the scapula. Lipase may be checked, but it is not the leading hypothesis.",
+          "The guide lists jaundice, dark urine, clay-colored stool, pruritus, and steatorrhea as signs of total obstruction. A normal bilirubin and brown stools make that unlikely.",
+          "CJMM — Recognize cues: RUQ pain referred to the scapula after a heavy fatty meal, lasting for hours, with fever and leukocytosis, in a client with risk factors (obesity, diabetes, age over 40). Analyze cues: the guide says fever and leukocytosis may indicate cholecystitis/infection, while the normal bilirubin and brown stools argue against total bile obstruction. Prioritize hypotheses: acute cholecystitis. Generate solutions: ultrasound, antibiotics, analgesics/antispasmodics, and short-term NPO/bowel rest. Evaluate outcomes: falling temperature and WBC, and decreasing pain."
+        ]
+      },
+      {
+        "stem": "A client with known gallstones reports intense itching, dark amber urine, and pale, clay-colored stools. The sclera are yellow, and total bilirubin is 5.8 mg/dL. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "A stone is likely totally obstructing bile flow; anticipate ERCP to localize and relieve the obstruction",
+          "This is uncomplicated cholelithiasis; reinforce a low-fat diet and plan outpatient follow-up",
+          "The itching is an allergic reaction; anticipate an oral antihistamine and stop the most recent new medication",
+          "The dark urine indicates dehydration; encourage 2 to 3 L of oral fluids per day"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: pruritus, dark amber urine, clay-colored stools, jaundice, and a high bilirubin. Analyze cues: the guide groups steatorrhea, pruritus, dark amber urine, jaundice, and clay-colored stool as signs of total obstruction of bile flow, and notes bilirubin rises with biliary obstruction. Prioritize hypotheses: a stone blocking the bile duct. Take action: report and anticipate ERCP to localize and treat the obstruction, while monitoring for cholangitis-type infection signs and secondary pancreatitis. Evaluate outcomes: falling bilirubin and return of brown stools.",
+          "Total obstruction is not uncomplicated cholelithiasis. Outpatient follow-up delays relief and risks infection and pancreatitis secondary to the blockage.",
+          "Itching here comes from bile salts in the skin, part of the obstruction cluster. Treating it as an allergy misreads the cue.",
+          "Dark amber urine with jaundice and clay stools reflects bilirubin spilling into the urine, not dehydration. Fluids alone do not relieve the blockage."
+        ]
+      },
+      {
+        "stem": "A client admitted with cholelithiasis develops severe mid-epigastric pain radiating to the back that is not relieved by antacids, along with vomiting. Serum lipase is 4 times the upper limit of normal. What should the nurse conclude?",
+        "options": [
+          "The gallbladder has ruptured, and the client needs emergency surgery",
+          "A stone has likely caused acute pancreatitis; maintain NPO, give IV fluids and analgesia, and anticipate a biliary procedure",
+          "The client has a perforated peptic ulcer from stress-related mucosal disease",
+          "The pain is referred biliary colic, and the elevated lipase is a nonspecific finding"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Rupture causes sudden diffuse pain, rigidity, and shock signs. Back-radiating epigastric pain with a high lipase points to the pancreas.",
+          "CJMM — Recognize cues: epigastric pain radiating to the back, unrelieved by antacids, with vomiting and a markedly elevated lipase in a client with gallstones. Analyze cues: the guide says most acute pancreatitis is due to cholelithiasis or alcohol, and lists pancreatitis secondary to biliary blockage as a gallstone complication. Prioritize hypotheses: gallstone pancreatitis. Generate solutions: NPO, IV fluids/electrolytes, analgesia and antiemetics, and treating the cause (biliary procedure for obstruction). Evaluate outcomes: pain, vital signs, and perfusion.",
+          "A perforated ulcer causes sudden severe pain with a rigid abdomen; the high lipase and the gallstone history point to pancreatitis instead.",
+          "Biliary colic is RUQ pain referred to the shoulder or scapula. Dismissing a lipase 4 times normal with classic symptoms skips Analyze cues."
+        ]
+      },
+      {
+        "stem": "A client with acute cholecystitis who is receiving IV antibiotics suddenly reports severe pain spreading across the whole abdomen. The abdomen is rigid, HR is 128/min, BP 90/54 mm Hg, and T 39.0°C (102.2°F). What is the nurse's priority action?",
+        "options": [
+          "Administer the PRN antispasmodic and reassess the pain in 30 minutes",
+          "Obtain a STAT bilirubin and CBC and notify the provider when results return",
+          "Notify the surgeon immediately of suspected gallbladder rupture and prepare for emergency surgery",
+          "Place the client supine with legs elevated and continue the current antibiotic schedule"
+        ],
+        "answer": 2,
+        "explanations": [
+          "An antispasmodic treats biliary colic, not a perforation. Waiting 30 minutes delays treatment of a surgical emergency.",
+          "Labs support the work-up, but waiting for them before escalating a hypotensive, rigid abdomen delays definitive care.",
+          "CJMM — Recognize cues: sudden diffuse pain, rigidity, tachycardia, hypotension, and high fever in a client with cholecystitis. Analyze cues: the guide lists gallbladder rupture as a surgical emergency, and spill of bile and infected material causes peritonitis that can progress to septic shock. Prioritize hypotheses: rupture with peritonitis and early shock. Take action: notify the surgeon now and prepare for emergency surgery while supporting circulation with IV fluids. Evaluate outcomes: BP, HR, urine output, and mentation.",
+          "Positioning may briefly support BP, but continuing the current plan ignores a complication that needs surgery. This is a comfort measure, not the priority."
+        ]
+      },
+      {
+        "stem": "Four hours after a laparoscopic cholecystectomy, a client reports right shoulder pain of 6/10. The abdomen is soft, incisions are dry, HR 84/min, BP 128/76 mm Hg, SpO2 97%. Which intervention should the nurse implement?",
+        "options": [
+          "Keep the client flat in bed and apply an ice pack to the shoulder",
+          "Obtain a 12-lead ECG and notify the provider of possible cardiac ischemia",
+          "Give IV morphine and keep the client on bed rest until the pain resolves",
+          "Help the client sit upright or lie on the left side, apply a heating pad for 15 minutes, and walk with the client"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Lying flat traps the gas under the diaphragm, and the guide's intervention is heat, not ice. This option reverses both measures.",
+          "Shoulder pain can be cardiac, but this client has stable vital signs and an expected post-laparoscopy cause. The guide's interventions fit; an ECG is not the first step here.",
+          "Bed rest prevents the ambulation that helps clear the gas, and opioids do little for this type of referred pain. This works against the guide's plan.",
+          "CJMM — Recognize cues: shoulder pain after a laparoscopic procedure, with a soft abdomen and normal vital signs. Analyze cues: the guide explains that CO2 used for insufflation can be retained and cause referred shoulder/upper-back pain. Prioritize hypotheses: retained CO2 is the expected explanation; nothing suggests a cardiac or abdominal emergency. Generate solutions and take action: upright or left side-lying position, a heating pad for 15 minutes at a time, and early, frequent ambulation. Evaluate outcomes: shoulder pain decreases as the gas is absorbed."
+        ]
+      },
+      {
+        "stem": "A client returns from an open cholecystectomy with a T-tube in place. Which actions should the nurse include in the plan of care? Select all that apply.",
+        "options": [
+          "Connect the T-tube to a closed gravity drainage bag",
+          "Keep the client in a Semi-Fowler's position",
+          "Secure the tubing to the client's gown and check for kinks",
+          "Clamp the T-tube for the first 24 hours to promote bile flow into the duodenum",
+          "Teach the client to splint the incision with a pillow when coughing and deep breathing",
+          "Report T-tube drainage of 400 mL in the first 24 hours as excessive"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—the T-tube is connected to gravity drainage to keep the bile duct open while edema subsides.",
+          "Correct—the guide specifies Semi-Fowler's positioning, which also supports drainage and breathing.",
+          "Correct—securing the tube and preventing kinks protects against dislodgement and blocked drainage.",
+          "Incorrect—clamping early defeats the tube's purpose of keeping bile draining while the duct is edematous, and can cause bile to back up. Clamping is only done later per the surgeon's order.",
+          "Correct—pillow splinting allows effective coughing and deep breathing despite the large upper abdominal incision.",
+          "Incorrect—400 mL is within the guide's expected 300–500 mL for the first 24 hours. This misreads a normal finding."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client has a T-tube after an open cholecystectomy. Drainage was 450 mL on day 1, 320 mL on day 2, and 190 mL on day 3. The skin and sclera are not jaundiced, the client is afebrile, and stools are brown. How should the nurse interpret these findings?",
+        "options": [
+          "This is an expected pattern showing that bile is increasingly flowing into the duodenum; continue current T-tube care",
+          "The falling drainage suggests the T-tube is becoming obstructed; irrigate the tube with saline",
+          "The day 1 volume was excessive and suggests a bile leak; notify the surgeon",
+          "The falling drainage shows the client is becoming dehydrated; increase the IV fluid rate"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes: the guide expects about 300–500 mL in the first 24 hours, decreasing each day, and defines effective T-tube care as unobstructed drainage trending downward with no kinking or dislodgement and no worsening jaundice, fever, or abdominal pain. Recognize cues: day 1 is within range, the volume falls daily, and there is no jaundice or fever, with brown stools. Analyze cues: as duct edema subsides, more bile reaches the intestine, so falling tube output is expected.",
+          "A blocked tube would cause a sudden stop in drainage with pain, fever, or jaundice. A gradual decline with brown stools is expected; irrigation needs a specific order and is not indicated.",
+          "450 mL is within the guide's expected 300–500 mL for the first 24 hours. This misreads a normal value.",
+          "Bile drainage reflects bile-duct patency, not the client's hydration. This misreads the cue."
+        ]
+      },
+      {
+        "stem": "A client with a T-tube had 280 mL of drainage on post-op day 2. On day 3 there has been no drainage for 6 hours, and the client reports increasing RUQ pain and nausea. T is 38.2°C (100.8°F). What should the nurse do first?",
+        "options": [
+          "Clamp the T-tube and observe whether the pain improves",
+          "Inspect the tubing for kinks or twisting and confirm the bag is below the insertion site, then notify the surgeon",
+          "Irrigate the T-tube with 30 mL of sterile saline to restore flow",
+          "Raise the drainage bag to the level of the abdomen to reduce tension on the tube"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Clamping would block bile drainage further and could worsen pain and back-up. It is the opposite of what is needed.",
+          "CJMM — Recognize cues: drainage stopped abruptly with new RUQ pain, nausea, and fever. Analyze cues: the guide's evaluation criteria for a T-tube are unobstructed drainage with no kinking or dislodgement and no worsening jaundice, fever, or abdominal pain; a sudden stop with symptoms suggests obstruction or dislodgement. Take action: check for a mechanical cause first (kinks, twisting, bag position for gravity), then notify the surgeon because the client is symptomatic. Evaluate outcomes: drainage resumes and pain and fever settle.",
+          "Irrigation is not part of routine T-tube care and needs a specific order. Forcing fluid could dislodge the tube or injure the duct.",
+          "Raising the bag removes the gravity gradient and can cause backflow. The bag stays below the insertion site."
+        ]
+      },
+      {
+        "stem": "The nurse is reviewing discharge instructions with a client going home after a laparoscopic cholecystectomy. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"For the next 4 to 6 weeks I'll eat low-fat meals with plenty of protein and carbohydrates.\"",
+          "\"I'll look at my incision sites every day for redness, warmth, or drainage.\"",
+          "\"If my shoulder aches from the gas, I'll lie flat in bed and avoid walking until it goes away.\"",
+          "\"I'll call if my skin turns yellow, my urine gets dark, or my stools look pale.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. The guide's discharge diet is low-fat, high-carbohydrate/high-protein for the first 4–6 weeks.",
+          "This is correct. The guide says to inspect incision sites daily for infection.",
+          "CJMM — Recognize cues: the client plans to lie flat and avoid walking for gas-related shoulder pain. Analyze cues: the guide's interventions for retained CO2 pain are an upright or left side-lying position, a heating pad for 15 minutes at a time, and early, frequent ambulation; lying flat and staying in bed also raise the risk of other post-op complications. Take action: reteach the positioning, heat, and walking plan. Evaluate outcomes: the client describes the correct comfort measures.",
+          "This is correct. Jaundice, dark urine, and pale stools suggest bile obstruction and should be reported."
+        ]
+      },
+      {
+        "stem": "A client presents with severe upper abdominal pain radiating to the back. Serum lipase is 5 times the upper limit of normal. CT has not yet been done. The client asks, \"Do I really have pancreatitis, or do they still need the scan to know?\" Which response reflects the diagnostic criteria?",
+        "options": [
+          "\"Your pain and your enzyme level already meet two of the three criteria, so treatment can begin now.\"",
+          "\"All three criteria—pain, enzymes, and a scan—must be present before it can be called pancreatitis.\"",
+          "\"The diagnosis can't be made until the scan shows swelling, because enzyme levels can be misleading.\"",
+          "\"Both amylase and lipase must be elevated, so we're waiting for the amylase before we can confirm it.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: typical upper abdominal pain radiating to the back and a lipase 5 times normal. Analyze cues: the guide states acute pancreatitis is diagnosed when 2 of 3 criteria are met: (1) upper abdominal pain, (2) elevated serum amylase/lipase, and (3) inflammation on ultrasound, CT, or MRI. Prioritize hypotheses: the diagnosis is established. Take action: begin acute-phase care (NPO, IV fluids/electrolytes, analgesia, antiemetics) without waiting for imaging, while monitoring for complications.",
+          "Only two of the three criteria are required. Requiring all three delays treatment.",
+          "Imaging is one criterion, not a requirement, when pain and enzyme elevation are both present.",
+          "The guide's criterion is elevated amylase or lipase. Waiting for a second enzyme is not required to confirm the diagnosis."
+        ]
+      },
+      {
+        "stem": "A client is on day 2 of treatment for acute pancreatitis. The client reports tingling around the mouth and in the fingertips. Serum calcium is 7.0 mg/dL, and a carpal spasm develops when the BP cuff is inflated. What should the nurse do?",
+        "options": [
+          "Encourage calcium-rich foods such as milk and yogurt once nausea improves",
+          "Notify the provider and anticipate IV calcium replacement with cardiac monitoring and seizure precautions",
+          "Give the PRN anxiolytic because perioral tingling often results from anxiety-induced hyperventilation",
+          "Recheck the serum calcium with the next morning's labs before acting"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The client is NPO in the acute phase, and dietary calcium is too slow for symptomatic tetany. This is correct-but-not-now.",
+          "CJMM — Recognize cues: perioral and fingertip tingling, a positive Trousseau sign, and calcium of 7.0 mg/dL. Analyze cues: the guide lists hypocalcemia as an acute pancreatitis complication requiring monitoring; these findings show neuromuscular irritability (tetany). Prioritize hypotheses: symptomatic hypocalcemia, which can progress to laryngospasm, seizures, and dysrhythmias. Take action: notify the provider, anticipate IV calcium, and monitor rhythm and airway. Evaluate outcomes: resolution of tingling and spasm and a rising calcium.",
+          "Hyperventilation can cause tingling, but a calcium of 7.0 with a positive Trousseau sign explains the findings. This skips Analyze cues.",
+          "Waiting until morning with symptomatic hypocalcemia risks laryngospasm or seizures. The lab already confirms the problem."
+        ]
+      },
+      {
+        "stem": "A client on day 3 of severe acute pancreatitis has pain controlled at 3/10. The client is now anxious, with RR 30/min, SpO2 88% on room air, and new crackles in both lungs. Which action should the nurse take first?",
+        "options": [
+          "Administer the PRN IV opioid because the anxiety may be from undertreated pain",
+          "Increase the IV fluid rate to improve perfusion to the lungs",
+          "Coach the client to use the incentive spirometer and recheck SpO2 in 1 hour",
+          "Raise the head of the bed, apply oxygen, and call the rapid response team for respiratory distress"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Pain is controlled at 3/10, so anxiety here is more likely from hypoxemia. An opioid could depress breathing further.",
+          "Pancreatitis does need fluids, but adding volume to a client with new crackles and hypoxemia may worsen lung fluid. It does not address the breathing problem first.",
+          "Incentive spirometry is preventive. A client with SpO2 88% and crackles needs immediate intervention, not a 1-hour recheck.",
+          "CJMM — Recognize cues: tachypnea, hypoxemia, bilateral crackles, and new anxiety despite controlled pain. Analyze cues: the guide warns that systemic inflammation in pancreatitis can impair respiratory function and directs immediate escalation for respiratory distress. Prioritize hypotheses: acute respiratory complication (such as ARDS), an airway/breathing problem that outranks other needs. Take action: position upright, give oxygen, and escalate now. Evaluate outcomes: SpO2, work of breathing, and lung sounds."
+        ]
+      },
+      {
+        "stem": "A client admitted 18 hours ago with acute pancreatitis now has bluish ecchymosis around the umbilicus and on both flanks. BP 84/52 mm Hg, HR 130/min, urine output 15 mL/hr, and creatinine has risen from 1.0 to 2.1 mg/dL. Which conclusion should guide the nurse's actions?",
+        "options": [
+          "The bruising is from subcutaneous heparin injections; hold the heparin and continue to monitor",
+          "The client has developed DIC; anticipate a platelet transfusion as the first intervention",
+          "Severe hemorrhagic pancreatitis with hypovolemic shock and acute kidney injury; escalate immediately and anticipate aggressive IV fluid resuscitation",
+          "The low urine output reflects NPO status; encourage the client to take sips of water"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Injection bruising is local to the sites, not periumbilical and flank. Holding heparin ignores the shock and renal cues.",
+          "DIC is a listed complication, but nothing here (no platelet count, no diffuse oozing) confirms it. The cues point to volume loss, and platelets do not treat hypovolemia.",
+          "CJMM — Recognize cues: periumbilical and flank ecchymosis, hypotension, tachycardia, oliguria, and a doubled creatinine. Analyze cues: the guide says ecchymosis around the umbilicus or flank can indicate severe hemorrhagic pancreatitis, that severe fluid shifts cause hypovolemic shock, and that poor perfusion can cause AKI. Prioritize hypotheses: hypovolemic shock with AKI from severe pancreatitis. Take action: escalate now and anticipate rapid IV fluid resuscitation and ICU care. Evaluate outcomes: BP, HR, urine output, and creatinine trend.",
+          "The client is in shock and must remain NPO. Oral sips do not correct intravascular volume loss or kidney hypoperfusion."
+        ]
+      },
+      {
+        "stem": "A client is admitted with acute pancreatitis related to alcohol use. Which actions should the nurse include in the acute-phase plan of care? Select all that apply.",
+        "options": [
+          "Maintain NPO status and provide meticulous oral care",
+          "Position in Semi-Fowler's and encourage incentive spirometry and deep breathing",
+          "Monitor serum calcium, glucose, and urine output closely",
+          "Provide small, frequent low-fat oral meals as soon as nausea is controlled",
+          "Assess pain continuously and give prescribed analgesics promptly",
+          "Withhold analgesics until the pain localizes so abdominal findings are not masked"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—NPO decreases pancreatic activity, and oral care is needed for comfort and mucosal integrity while NPO.",
+          "Correct—Semi-Fowler's, incentive spirometry, and deep breathing address the risk of respiratory distress and hypoxia.",
+          "Correct—hypocalcemia, hyperglycemia, and AKI are listed complications to monitor.",
+          "Incorrect—the client stays NPO initially; nutrition is resumed later through enteral feeding as ordered, not oral meals as soon as nausea eases.",
+          "Correct—the guide calls for continuous pain assessment and timely analgesia.",
+          "Incorrect—withholding analgesia leaves severe pain untreated; the guide calls for timely analgesia with ongoing reassessment."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with chronic pancreatitis, steatorrhea, and type 3c diabetes is being discharged with pancreatic enzyme replacement therapy (PERT). Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll take all my enzyme capsules at once each morning on an empty stomach so I don't forget them.\"",
+          "\"I'll check my blood sugar regularly, since the damage affects my insulin production too.\"",
+          "\"I'll call if my stools stay greasy or I keep losing weight.\"",
+          "\"I can't drink any alcohol at all, even on special occasions.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the client plans a single morning dose on an empty stomach. Analyze cues: PERT works by supplying the digestive enzymes the pancreas can no longer make, so it must be present with food; the guide says to take enzymes as prescribed with meals and snacks. Take action: reteach timing with every meal and snack. Evaluate outcomes: the client describes taking enzymes with each meal and snack, and stools become less fatty.",
+          "This is correct. Type 3c diabetes results from impaired pancreatic endocrine function, and the guide calls for routine glucose monitoring.",
+          "This is correct. The guide says to report persistent steatorrhea, weight loss, or poor nutrition.",
+          "This is correct. The guide calls for absolute alcohol avoidance in chronic pancreatitis."
+        ]
+      },
+      {
+        "stem": "A client with chronic pancreatitis started pancreatic enzyme replacement therapy 4 weeks ago for steatorrhea and weight loss. Which finding best indicates the therapy is effective?",
+        "options": [
+          "Fasting blood glucose has decreased from 182 to 128 mg/dL",
+          "Upper abdominal and back pain has decreased from 6/10 to 3/10",
+          "Serum amylase and lipase have returned to normal",
+          "Stools are fewer, formed, and no longer greasy, and the client has gained 1.5 kg (3.3 lb)"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Glucose reflects endocrine function (type 3c diabetes), which is managed with diet, exercise, oral agents, and/or insulin. PERT does not treat it.",
+          "Pain is managed with a tiered analgesic plan. Reduced pain does not show that digestion and absorption have improved.",
+          "Enzyme levels in chronic pancreatitis do not reflect the effect of oral enzyme replacement. This measures the wrong outcome.",
+          "CJMM — Generate solutions: the guide says PERT supports digestion and nutrient absorption in exocrine insufficiency. Evaluate outcomes: the targeted problems were steatorrhea and weight loss, so improvement in stool fat and weight is the direct measure of effect. Recognize cues: formed, non-greasy stools and weight gain show that fat and nutrients are being absorbed."
+        ]
+      },
+      {
+        "stem": "A client recovering from acute pancreatitis caused by heavy alcohol use is preparing for discharge. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll start with small meals and avoid big, heavy or high-fat meals.\"",
+          "\"Once my pain is gone and my labs are normal, a drink or two on weekends should be fine.\"",
+          "\"I'll go to the alcohol cessation program the social worker set up for me.\"",
+          "\"I'll go back to eating gradually, the way my provider told me to.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. The guide advises avoiding high-fat and heavy meals after pancreatitis.",
+          "CJMM — Recognize cues: the client plans to resume drinking after symptoms resolve. Analyze cues: the guide's post-acute teaching is to strictly avoid alcohol and to follow up based on cause, including an alcohol cessation program; normal labs do not mean the pancreas can tolerate alcohol. Prioritize hypotheses: this plan creates a high risk of recurrence and progression to chronic pancreatitis. Take action: reteach complete abstinence and reinforce the referral. Evaluate outcomes: the client states the plan to avoid all alcohol.",
+          "This is correct. Following up on the cause, such as an alcohol cessation program, is part of the guide's teaching.",
+          "This is correct. The guide says to gradually resume oral intake as directed."
+        ]
       }
     ]
   }

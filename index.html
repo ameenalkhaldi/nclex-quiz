@@ -489,13 +489,14 @@ const QUESTIONS = DATA.banks;
 // `strip` removes the redundant course prefix from a bank's display name,
 // since the section header already names the course.
 const COURSE_GROUPS = [
-  { label: "Pathopharmacology", match: k => !k.startsWith("med-surg-") && !k.startsWith("final-") && !k.startsWith("msfinal-") && !k.startsWith("acute-") && !k.startsWith("mat-") && !k.startsWith("peds-") },
+  { label: "Pathopharmacology", match: k => !k.startsWith("med-surg-") && !k.startsWith("final-") && !k.startsWith("msfinal-") && !k.startsWith("acute-") && !k.startsWith("mat-") && !k.startsWith("peds-") && !k.startsWith("acute2-") },
   { label: "Med-Surg", match: k => k.startsWith("med-surg-"), strip: /^Med-Surg:\s*/ },
   { label: "Pathofarm Final", match: k => k.startsWith("final-"), strip: /^Final:\s*/ },
   { label: "Med-Surg Final", match: k => k.startsWith("msfinal-"), strip: /^MS Final:\s*/ },
   { label: "Acute Care Exam 1", match: k => k.startsWith("acute-"), strip: /^Acute:\s*/ },
   { label: "Maternity Exam 1", match: k => k.startsWith("mat-"), strip: /^Maternity:\s*/ },
   { label: "Peds Exam 1", match: k => k.startsWith("peds-"), strip: /^Peds:\s*/ },
+  { label: "Acute Care Exam 2", match: k => k.startsWith("acute2-"), strip: /^Acute 2:\s*/ },
 ];
 
 // The course groups that actually have banks loaded, in display order.

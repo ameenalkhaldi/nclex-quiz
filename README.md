@@ -12,8 +12,8 @@ way to drill practice questions with clear rationales for every answer choice.
 
 ## What's inside
 
-The app currently has **1,292 practice questions** across 35 topic banks,
-organized into seven courses you can switch between with tabs on the start
+The app currently has **1,492 practice questions** across 39 topic banks,
+organized into eight courses you can switch between with tabs on the start
 screen. Each course can be studied topic by topic, or "mixed" — every question
 in that course, shuffled.
 
@@ -86,6 +86,15 @@ in that course, shuffled.
 | Week 3 — Toddler & Preschool Development | 40 |
 | Week 4 — School-Age & Adolescent | 40 |
 | Week 5 — Infectious & Respiratory Disorders | 40 |
+
+**Acute Care Exam 2**
+
+| Topic | Questions |
+| --- | --- |
+| Week 5 — Shock | 50 |
+| Week 6 — Burns | 50 |
+| Week 7 — Acute Respiratory | 50 |
+| Week 8 — Acute GI | 50 |
 
 The banks are kept separate by course — for example, the Med-Surg Lower GI bank
 is distinct from the Pathopharm Lower GI bank, and the Pathofarm Final Endocrine

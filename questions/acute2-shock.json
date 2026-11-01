@@ -1,0 +1,961 @@
+{
+  "topic": "acute2-shock",
+  "label": "Acute 2: Week 5 — Shock",
+  "questions": [
+    {
+      "stem": "A 68-year-old client is 6 hours post hip arthroplasty. BP 124/78 mm Hg (baseline 128/80), HR 112/min (was 84), RR 24/min, and urine output has fallen from 60 mL/hr to 20 mL/hr over the past 2 hours. The client is restless and keeps asking, \"Is something wrong?\" Which conclusion should guide the nurse's next action?",
+      "options": [
+        "The client is anxious about postoperative pain, and the tachycardia and restlessness should settle once pain is controlled",
+        "The client has entered the progressive stage of shock because urine output has fallen and the HR is above 110",
+        "The client is likely in the compensatory stage of shock, with tachycardia and vasoconstriction holding the BP in the normal range",
+        "The client is mildly dehydrated from preoperative NPO status, so oral fluids and a recheck in 4 hours are appropriate"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: rising HR, rising RR, falling urine output, and a new fight-or-flight restlessness. Analyze cues: in the compensatory stage, vasoconstriction and a faster HR keep cardiac output and BP within normal limits, so a normal BP does not rule out shock. Prioritize hypotheses: early hypovolemic shock from surgical blood loss is the dangerous explanation. Take action: report the trend, look for the cause, and increase the frequency of vital signs, mental status, and urine-output checks.",
+        "incorrect": [
+          "Pain can raise the HR, but it does not explain a urine output that has dropped by two-thirds. This anchors on one cue and skips Analyze cues, which delays recognition of shock.",
+          "Falling urine output and tachycardia are compensatory-stage findings. The progressive stage is defined by SBP below 100 mm Hg or a 40 mm Hg drop from baseline, with declining mental status; the BP here is only 4 mm Hg below baseline.",
+          "Encouraging oral fluids and waiting 4 hours treats the cues as a minor problem. The cluster of rising HR and RR with falling urine output after surgery needs prompt reporting and closer monitoring, not a delayed recheck."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is caring for four clients being treated for shock. Which client should the nurse recognize as having progressed to the progressive stage?",
+      "options": [
+        "A client with chronic hypertension (baseline 168/94 mm Hg) whose BP is now 124/70 mm Hg, HR 118/min, who is newly confused with rapid, shallow respirations",
+        "A client with a baseline BP of 112/70 mm Hg whose BP is now 104/66 mm Hg, HR 108/min, alert, with decreased urine output",
+        "A client with a baseline BP of 100/60 mm Hg whose BP is now 102/64 mm Hg, HR 96/min, anxious but oriented",
+        "A client with a baseline BP of 130/80 mm Hg whose BP is now 118/74 mm Hg, HR 110/min, RR 24/min, urine output 25 mL/hr, alert"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 44 mm Hg fall in systolic pressure from baseline, new confusion, and rapid, shallow breathing. Analyze cues: the progressive stage is SBP below 100 mm Hg OR a 40 mm Hg decrease from baseline, along with declining mental status and rapid, shallow respirations. A reading of 124 looks normal but is a large drop for this client. Prioritize hypotheses: this client has moved past compensation and needs ICU-level care, airway support, and continuous ECG monitoring.",
+        "incorrect": [
+          "The SBP is still above 100 mm Hg and has dropped only 8 mm Hg. With an alert client, tachycardia and decreased urine output fit the compensatory stage.",
+          "This SBP sits at the client's own normal and has not fallen. Anxiety with a mildly raised HR is a fight-or-flight compensatory sign, not progressive shock.",
+          "Tachycardia, tachypnea, and low urine output with a 12 mm Hg drop and intact mentation are compensatory findings. They need close watching, but they do not meet the progressive-stage criteria."
+        ]
+      }
+    },
+    {
+      "stem": "A client in septic shock has these arterial blood gas results: pH 7.28, PaCO2 29 mm Hg, HCO3- 15 mEq/L. Serum lactate is 5.2 mmol/L and RR is 30/min. Which interpretation is most accurate?",
+      "options": [
+        "Metabolic acidosis from lactic acid buildup, with partial respiratory compensation through rapid breathing",
+        "Respiratory alkalosis from anxiety-driven hyperventilation, with metabolic compensation by the kidneys",
+        "Metabolic acidosis from lactic acid buildup that is fully compensated by the increased respiratory rate",
+        "Respiratory acidosis from respiratory muscle fatigue, showing that the client needs immediate intubation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: low pH, low HCO3-, low PaCO2, high lactate, and a fast respiratory rate. Analyze cues: inadequate oxygen delivery forces anaerobic metabolism, which makes less ATP and produces lactic acid, so the primary disorder is metabolic acidosis. The lungs blow off CO2 to compensate, but the pH is still acidotic, so compensation is only partial. Prioritize hypotheses: worsening tissue hypoperfusion. Evaluate outcomes: a falling lactate and a pH moving toward normal would show that perfusion is improving.",
+        "incorrect": [
+          "The pH of 7.28 is acidotic, not alkalotic. The low PaCO2 is the compensation, not the primary problem; this misreads which value drives the pH.",
+          "The primary disorder is correct, but full compensation would bring the pH back to 7.35–7.45. A pH of 7.28 means compensation is only partial and the acidosis is still uncorrected.",
+          "Respiratory acidosis requires a high PaCO2. A PaCO2 of 29 mm Hg is low, so the lungs are compensating. Fatigue is a later risk to watch for, but it is not what these values show."
+        ]
+      }
+    },
+    {
+      "stem": "A client is in the ICU on day 2 of progressive shock. The nurse notes new coffee-ground drainage in the nasogastric canister and oozing around the arterial line and two IV sites. Which conclusion and action are most appropriate?",
+      "options": [
+        "These are expected effects of the arterial line and NG suction; document them and continue routine monitoring",
+        "These show the client has entered the irreversible stage, so the nurse should request a palliative care consult",
+        "The NG tube is irritating the gastric mucosa; reposition the tube and irrigate it with saline",
+        "These suggest stress-ulcer bleeding and abnormal clotting from progressive shock; report them now"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: coffee-ground NG drainage plus new oozing from several puncture sites. Analyze cues: in the progressive stage, hypoperfusion of the GI mucosa causes stress ulcers and GI bleeding, and abnormal clotting can develop. Two systems bleeding at once points to a systemic process, not a local one. Prioritize hypotheses: a shock-related GI bleed and coagulopathy, both of which worsen perfusion. Take action: report now so the team can check clotting and blood counts and plan replacement.",
+        "incorrect": [
+          "Coffee-ground drainage is digested blood, and oozing from several sites is not expected. Treating these as routine skips Analyze cues and misses two progressive-stage complications.",
+          "The irreversible stage is defined by no response to treatment, worsening acidosis, and multiple organ failure. Bleeding complications in the progressive stage call for active treatment first; jumping to palliative care is premature.",
+          "This explains only the gastric finding and ignores the oozing from the line and IV sites. A local cause cannot account for bleeding in several places at once."
+        ]
+      }
+    },
+    {
+      "stem": "An 82-year-old client with urosepsis is in the compensatory stage of shock on a medical unit. The client is intermittently confused and keeps trying to get out of bed. Which interventions should the nurse include in the plan of care? Select all that apply.",
+      "options": [
+        "Reorient the client and round frequently",
+        "Implement fall precautions",
+        "Clarify the client's advance directives with the client and family",
+        "Assess vital signs, GCS, lactate, and urine output frequently",
+        "Apply bilateral wrist restraints to keep the client in bed",
+        "Hold IV fluids until the systolic BP falls below 100 mm Hg"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Compensatory-stage management: find and treat the cause, give IV fluids and oxygen as needed, frequently assess vital signs, GCS, lactate, and urine output, clarify advance directives, and promote safety with reorientation, frequent rounding, and fall precautions.",
+        "incorrect": [
+          "Correct—reorientation and frequent rounding are safety measures named for the compensatory stage, when mental status can fluctuate.",
+          "Correct—confusion with attempts to get up creates a fall risk; fall precautions are part of compensatory-stage management.",
+          "Correct—clarifying advance directives early, while the client may still take part, is a compensatory-stage action because shock can progress unpredictably.",
+          "Correct—frequent assessment of these is the core monitoring for catching progression to the progressive stage.",
+          "Incorrect—restraints do not treat the cause of confusion, can increase agitation, and are not a first-line measure. Reorientation, rounding, and fall precautions come first.",
+          "Incorrect—IV fluids may be needed in the compensatory stage, while BP is still normal. Waiting for hypotension lets shock progress; this misreads the normal BP as reassuring."
+        ]
+      }
+    },
+    {
+      "stem": "The family of a client in the irreversible stage of septic shock meets with the nurse. Which statement by a family member indicates a need for further teaching?",
+      "options": [
+        "\"The team is still supporting him, but the treatments may not be able to reverse what is happening.\"",
+        "\"The palliative care team can help keep him comfortable while we decide what comes next.\"",
+        "\"If the medicine brings his blood pressure up, that means his organs will start to recover.\"",
+        "\"We can ask whether he might qualify for any experimental treatments.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the family links a better BP reading to organ recovery. Analyze cues: in the irreversible stage, the client does not respond to treatment, acidosis worsens, and multiple organs are failing. A single vital sign does not show that organs are recovering. Generate solutions: teach that the team judges response by the whole picture (mental status, urine output, lactate, organ function) and that comfort, palliative care, and family support are now central. Take action: correct the misunderstanding gently and involve palliative care.",
+        "incorrect": [
+          "This is accurate. Care at first looks like progressive-stage support, but the defining feature of the irreversible stage is that the client does not respond to treatment.",
+          "This is accurate. Engaging palliative care and providing comfort measures are part of irreversible-stage care.",
+          "This is accurate. The lecture notes that a client in the irreversible stage may qualify for experimental interventions."
+        ]
+      }
+    },
+    {
+      "stem": "A client with septic shock is on day 3 of treatment. MAP is 68 mm Hg on norepinephrine. Over 24 hours, creatinine has risen from 1.0 to 2.6 mg/dL, urine output is 15 mL/hr, platelets have fallen from 210,000 to 68,000/mm3, and the client is newly confused. Which conclusion should the nurse communicate to the provider?",
+      "options": [
+        "The MAP is at goal, so perfusion is adequate and the lab changes most likely reflect normal variation",
+        "The client has isolated acute kidney injury from the antibiotics and needs the doses adjusted",
+        "The client is developing multiple organ dysfunction syndrome even though the MAP target is being met",
+        "The client is showing expected side effects of norepinephrine, so the infusion should be weaned"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: kidney decline (rising creatinine, low urine output), a falling platelet count, and new confusion while the MAP is at goal. Analyze cues: MODS is dysfunction of two or more organs and is the end point of untreated or refractory shock. Prioritize hypotheses: organ perfusion is failing despite a BP at goal, so MAP alone is not showing the true picture. Take action: report the multi-system decline. Evaluate outcomes: the response to shock treatment must be judged by organ function, urine output, mental status, and lactate, not one number.",
+        "incorrect": [
+          "Changes of this size in three systems are not lab variation. This relies on one vital sign, which the guide warns against, and skips Evaluate outcomes.",
+          "Drug-related kidney injury is possible, but this explanation ignores the falling platelets and new confusion. Two or more failing organs point to MODS, not a single-organ drug effect.",
+          "Weaning the vasopressor would drop the MAP below goal and worsen perfusion. These findings show organ failure, not an expected drug effect."
+        ]
+      }
+    },
+    {
+      "stem": "A client admitted with a GI bleed has BP 116/72 mm Hg and HR 104/min, unchanged from 4 hours ago. Serum lactate was 2.4 mmol/L on admission and is now 4.1 mmol/L. Which conclusion should guide the nurse's action?",
+      "options": [
+        "The stable BP shows perfusion is adequate, so the lactate should be redrawn with the morning labs",
+        "The rise most likely reflects the client's activity and shivering, so the nurse should warm the client and recheck in 4 hours",
+        "A rising lactate shows that aerobic metabolism is resuming as perfusion improves",
+        "Tissue hypoperfusion is worsening, with more anaerobic metabolism, even though the BP has not changed; report the trend now"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a rising lactate while BP and HR stay the same. Analyze cues: when cells lack oxygen they switch to anaerobic metabolism, which makes less ATP and produces lactic acid. A rising lactate shows that perfusion is getting worse, and compensation can hold the BP normal while this happens. Prioritize hypotheses: ongoing blood loss with worsening shock. Take action: report the lactate trend. Evaluate outcomes: a falling lactate, not a stable BP, is the sign that treatment is working.",
+        "incorrect": [
+          "A normal BP does not rule out shock. Waiting until morning ignores the most sensitive cue here and skips Analyze cues.",
+          "Muscle activity can raise lactate slightly, but in a client with an active bleed the safer hypothesis is hypoperfusion. This picks a benign explanation over the dangerous one.",
+          "This reverses the physiology. Lactate builds up during anaerobic metabolism, so a rising value means perfusion is worsening, not improving."
+        ]
+      }
+    },
+    {
+      "stem": "A client from a motor vehicle crash has an open femur fracture with ongoing bleeding. BP 92/60 mm Hg, HR 128/min. EMS placed a 22-gauge IV in the hand. The provider prescribes rapid crystalloid and blood replacement. Which action should the nurse take?",
+      "options": [
+        "Insert two large-bore peripheral IVs (18-gauge or larger) and use them for the resuscitation",
+        "Start the crystalloid through the existing 22-gauge IV with the pump at its maximum rate",
+        "Insert one 20-gauge IV in the antecubital space for blood and run crystalloid through the 22-gauge",
+        "Insert one 18-gauge IV and save the 22-gauge for medications"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: active hemorrhage, tachycardia, and only a small-bore hand IV. Analyze cues: flow through a catheter depends heavily on its diameter, and hemorrhagic shock needs rapid volume and blood. Generate solutions: the lecture calls for two or more large-bore peripheral IVs (18-, 16-, or 14-gauge) and/or large-bore central access. Take action: place two large-bore lines before starting rapid replacement.",
+        "incorrect": [
+          "A pump cannot overcome the narrow lumen of a 22-gauge catheter, and blood products infuse poorly through it. This acts on the existing access instead of generating the right solution.",
+          "A 20-gauge is not large-bore by the lecture's definition. Both lines would be too small for rapid hemorrhage resuscitation.",
+          "An 18-gauge is large-bore, but the lecture specifies two or more. One large-bore line cannot run fluids and blood products quickly at the same time. The idea is right but the access is incomplete."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a pelvic fracture is still bleeding after 1 L of lactated Ringer's. BP is 78/50 mm Hg, HR 136/min, and the client is becoming difficult to arouse. Which intervention should the nurse anticipate next?",
+      "options": [
+        "A second 1 L crystalloid bolus, with a third if the BP stays low",
+        "Activation of the massive transfusion protocol with plasma, platelets, and PRBCs in a 1:1:1 ratio",
+        "PRBCs alone until the hemoglobin is back above 10 g/dL",
+        "Plasma and PRBCs at 1:1, holding platelets until the count falls below 50,000/mm3"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: ongoing hemorrhage, worsening hypotension and tachycardia, and declining mental status after 1 L of crystalloid. Analyze cues: in hemorrhagic shock the lecture gives about 1 L of crystalloid, then moves to a massive transfusion protocol, because crystalloid does not replace oxygen-carrying capacity or clotting factors. Take action: prepare for massive transfusion at 1:1:1 plasma:platelets:PRBCs. Evaluate outcomes: watch for transfusion reactions and fluid overload.",
+        "incorrect": [
+          "More crystalloid dilutes red cells and clotting factors without restoring oxygen delivery. The lecture moves to blood products after about 1 L in hemorrhage.",
+          "PRBCs restore oxygen-carrying capacity but not clotting factors or platelets, so bleeding continues. Massive transfusion uses a balanced 1:1:1 ratio.",
+          "The lecture's ratio includes platelets from the start (1:1:1). Waiting for the platelet count to fall delays treatment of the coagulopathy that massive hemorrhage causes."
+        ]
+      }
+    },
+    {
+      "stem": "A client with 2 days of severe vomiting and diarrhea has BP 84/52 mm Hg, HR 126/min, and dry mucous membranes. The provider writes these prescriptions. Which one should the nurse question?",
+      "options": [
+        "Insert two 18-gauge peripheral IVs",
+        "Obtain a serum lactate level",
+        "Insert an indwelling urinary catheter to measure hourly urine output",
+        "Infuse 1,000 mL of dextrose 5% in water (D5W) as a rapid bolus"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: non-hemorrhagic hypovolemic shock from GI losses. Analyze cues: the lecture's fluids for non-hemorrhagic hypovolemia are 0.9% normal saline or lactated Ringer's. D5W acts as free water once the dextrose is metabolized and spreads into all body compartments, so very little stays in the vessels. Generate solutions: an isotonic crystalloid is needed. Take action: clarify the order and request NS or LR.",
+        "incorrect": [
+          "This is appropriate. Two or more large-bore IVs are the lecture's access for hypovolemic shock.",
+          "This is appropriate. Lactate shows the degree of hypoperfusion and provides a baseline for judging response.",
+          "This is appropriate. Urine output is a key indicator of perfusion that the nurse trends during resuscitation."
+        ]
+      }
+    },
+    {
+      "stem": "A client with suspected hypovolemic shock is semirecumbent. The nurse performs a passive leg raise, lifting the legs to about 45 degrees. Before: BP 86/54 mm Hg, HR 122/min. One minute into the raise: BP 102/62 mm Hg, HR 110/min. How should the nurse interpret this?",
+      "options": [
+        "The rise in BP with more preload shows that the shock is cardiogenic",
+        "The client should stay in the leg-raised position as the treatment for hypotension",
+        "Fluids are no longer needed because the BP is now above 100 mm Hg systolic",
+        "The client is likely fluid responsive, so additional volume replacement is indicated"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: BP rises and HR falls when the legs are raised. Analyze cues: the passive leg raise briefly shifts blood from the legs back to the heart, like a small reversible fluid bolus. A rise in BP shows the heart can use more preload, so the client is fluid responsive. Take action: report the result and anticipate more crystalloid or blood. Evaluate outcomes: keep reassessing BP, urine output, and lactate.",
+        "incorrect": [
+          "A failing pump typically does not raise its output when preload increases. A positive response points toward volume depletion, not pump failure.",
+          "The passive leg raise is an assessment test, not a treatment. Its effect is brief, so the volume deficit still has to be replaced.",
+          "The higher BP depends on the legs being raised and reverses when they are lowered. It tells the nurse that more fluid will help, not that the deficit is fixed."
+        ]
+      }
+    },
+    {
+      "stem": "A client in hemorrhagic shock has received 2 units of PRBCs and 1 L of crystalloid. Which set of findings best shows that tissue perfusion is improving?",
+      "options": [
+        "BP up from 88/50 to 104/64 mm Hg, while HR stays at 128/min and the client is newly confused",
+        "Hemoglobin up from 7.2 to 8.1 g/dL, and the client reports feeling thirsty",
+        "Urine output up from 15 to 45 mL/hr, the client now alert and oriented, and lactate down from 4.2 to 2.1 mmol/L",
+        "Skin warmer on the trunk, with lactate rising from 3.0 to 3.6 mmol/L"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the guide warns against judging response from one vital sign and asks the nurse to reassess the whole client and compare trends. Better urine output (kidney perfusion), better mental status (brain perfusion), and a falling lactate (less anaerobic metabolism) together show that perfusion at the tissue level is improving.",
+        "incorrect": [
+          "One improved number is offset by persistent tachycardia and declining mental status, which are worsening findings. This judges response from a single vital sign.",
+          "A rise in hemoglobin confirms the transfusion was received, but it does not measure perfusion. Thirst suggests continuing volume deficit.",
+          "A rising lactate means anaerobic metabolism is increasing and perfusion is worsening. That outweighs a small change in skin temperature."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a history of heart failure is being resuscitated for hypovolemic shock and has received 3 L of normal saline. The client now has RR 30/min, bilateral crackles, SpO2 88%, and jugular venous distention. What should the nurse do first?",
+      "options": [
+        "Increase the infusion rate because tachypnea shows the client is still volume depleted",
+        "Request a chest X-ray and continue the current rate until the results return",
+        "Hang the next scheduled unit of PRBCs, then reassess lung sounds",
+        "Slow the infusion to a keep-vein-open rate, raise the head of the bed, and notify the provider"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new crackles, tachypnea, hypoxemia, and JVD after large-volume fluids in a client with heart failure. Analyze cues: the lecture names fluid overload as a complication to watch for during volume replacement. Prioritize hypotheses: pulmonary congestion from fluid overload is now the more immediate threat. Take action: stop adding volume, position the client to ease breathing, and report. Evaluate outcomes: watch the SpO2, work of breathing, and lung sounds.",
+        "incorrect": [
+          "Tachypnea here comes with crackles and JVD, which point to overload. More fluid would worsen pulmonary edema; this misreads the cue.",
+          "Imaging may be ordered, but continuing the fluid while waiting lets the overload worsen. The nurse acts on the clinical cues first.",
+          "Adding more volume before addressing overload is unsafe. Reassessment comes after the infusion is slowed and the provider is told."
+        ]
+      }
+    },
+    {
+      "stem": "Fifteen minutes into a PRBC transfusion for hemorrhagic shock, a client's temperature rises from 37.0 to 38.9 °C. The client reports chills and low back pain, and the BP drops from 104/66 to 88/54 mm Hg. What is the nurse's first action?",
+      "options": [
+        "Slow the transfusion, give acetaminophen, and recheck the temperature in 15 minutes",
+        "Notify the blood bank to send a new unit while the current unit finishes",
+        "Give diphenhydramine and continue the transfusion at a slower rate",
+        "Stop the transfusion and keep the IV open with 0.9% normal saline through new tubing"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever, chills, back pain, and a falling BP early in a transfusion. Analyze cues: these suggest an acute transfusion reaction, which the lecture names as a complication to watch for during blood replacement. Prioritize hypotheses: a hemolytic reaction is life-threatening and worsens with every milliliter given. Take action: stop the blood first, keep IV access with NS, then notify the provider and blood bank. Evaluate outcomes: monitor vital signs and urine output.",
+        "incorrect": [
+          "Slowing it still delivers incompatible blood. Fever with back pain and hypotension is not a minor febrile reaction to manage at the bedside.",
+          "Notifying the blood bank is part of the response, but continuing the suspect unit is unsafe. Stopping the transfusion comes first.",
+          "An antihistamine treats mild allergic (itching, hives) reactions. It does not treat fever with hypotension and back pain."
+        ]
+      }
+    },
+    {
+      "stem": "A 70-kg client has an estimated blood volume of 70 mL/kg. After an intraoperative bleed, the client's estimated blood loss is 1,100 mL. Which conclusion is correct?",
+      "options": [
+        "About 11%, which is below the range associated with hypovolemic shock",
+        "About 22%, which is within the 15–30% range associated with hypovolemic shock",
+        "About 32%, which is above the 15–30% range",
+        "About 45%, which is consistent with the irreversible stage"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: blood volume = 70 kg × 70 mL/kg = 4,900 mL. Loss = 1,100 ÷ 4,900 ≈ 22%. The lecture states that hypovolemic shock occurs when intravascular volume falls by 15–30%. Prioritize hypotheses: this client is within that range, so the nurse expects compensatory signs (tachycardia, tachypnea, falling urine output) even if the BP is normal. Take action: monitor closely and prepare for volume replacement.",
+        "incorrect": [
+          "This answer would require a blood volume of about 10,000 mL, twice the real 4,900 mL. 1,100 ÷ 4,900 is about 22%, not 11%.",
+          "This overestimates the loss. 32% of 4,900 mL would be about 1,570 mL.",
+          "This is a calculation error. Shock stage is also judged by clinical findings and response to treatment, not by percentage of loss alone."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is reviewing assigned clients. Which clients should the nurse monitor most closely for hypovolemic shock? Select all that apply.",
+      "options": [
+        "A client with diabetes insipidus whose urine output is 400 mL/hr",
+        "A client with necrotizing pancreatitis and abdominal distention",
+        "A client with burns over 40% of the body",
+        "A client with cirrhosis and rapidly worsening ascites",
+        "A client with an acute anterior MI and new crackles",
+        "A client with a new T2 spinal cord injury"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Hypovolemic shock follows external losses (hemorrhage, vomiting, diarrhea, diuresis, DKA, diabetes insipidus) or internal shifts (burns, ascites, peritonitis, dehydration, necrotizing pancreatitis). An MI points to cardiogenic shock and a spinal cord injury to neurogenic shock.",
+        "incorrect": [
+          "Correct—diuresis from diabetes insipidus is an external fluid loss listed as a cause of hypovolemic shock.",
+          "Correct—necrotizing pancreatitis shifts fluid out of the vessels internally, causing hypovolemia without visible loss.",
+          "Correct—burns cause large internal fluid shifts out of the intravascular space.",
+          "Correct—ascites is an internal fluid shift listed as a cause of hypovolemic shock.",
+          "Incorrect—an MI with crackles points to pump failure, which is cardiogenic shock, not volume loss. Giving this client hypovolemic-style fluids could worsen pulmonary congestion.",
+          "Incorrect—a high spinal cord injury puts the client at risk for neurogenic (distributive) shock, which presents with hypotension and bradycardia, not hypovolemic shock."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is orienting a new graduate who is caring for a client in hemorrhagic shock. Which statement by the new graduate indicates a need for further teaching?",
+      "options": [
+        "\"I'll watch for crackles and shortness of breath as signs of fluid overload during resuscitation.\"",
+        "\"I'll keep giving liters of saline until the blood pressure is normal before we think about blood products.\"",
+        "\"Two or more large-bore IVs let us give fluids and blood quickly.\"",
+        "\"A falling lactate and rising urine output will tell me perfusion is getting better.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: in hemorrhagic shock the lecture gives about 1 L of crystalloid, then moves to a massive transfusion protocol (1:1:1 plasma:platelets:PRBCs). Large volumes of saline dilute red cells and clotting factors and raise the risk of fluid overload without restoring oxygen-carrying capacity. Take action: correct the plan so blood replacement begins early. This statement is the one that needs teaching.",
+        "incorrect": [
+          "This is correct. The lecture lists fluid overload as a complication to monitor during volume replacement.",
+          "This is correct. The lecture specifies two or more large-bore (18-, 16-, or 14-gauge) peripheral IVs and/or central access.",
+          "This is correct. These are the trends the lecture emphasizes for evaluating treatment."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 6 hours after an anterior STEMI. BP 82/56 mm Hg, HR 118/min, crackles halfway up both lung fields, SpO2 89%, cool clammy skin, and urine output 15 mL/hr. Which prescription should the nurse question?",
+      "options": [
+        "Dobutamine infusion titrated to the prescribed hemodynamic goals",
+        "Continuous ECG monitoring",
+        "0.9% normal saline 2,000 mL IV over 30 minutes",
+        "Prepare the client for percutaneous coronary intervention"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypotension, cool clammy skin, and low urine output plus crackles and hypoxemia after a large MI. Analyze cues: this is cardiogenic shock. The pump cannot move blood forward, so it backs up into the lungs. Prioritize hypotheses: a rapid 2-L bolus would worsen pulmonary congestion. The lecture stresses that IV fluids are used cautiously in cardiogenic shock. Take action: clarify the bolus before giving it.",
+        "incorrect": [
+          "This is appropriate. Dobutamine is an inotrope that strengthens contraction, which is the core drug therapy for cardiogenic shock in the lecture.",
+          "This is appropriate. Dysrhythmias and ischemia can both cause and worsen cardiogenic shock, so the rhythm is monitored continuously.",
+          "This is appropriate. PCI treats the underlying cause by restoring coronary blood flow."
+        ]
+      }
+    },
+    {
+      "stem": "A client in the ICU has these hemodynamic values: BP 84/60 mm Hg, HR 120/min, cardiac output 2.6 L/min, CVP 15 mm Hg, PAWP 26 mm Hg, SVR 1,800 dynes/sec/cm-5. Bilateral crackles are present. Which type of shock do these findings indicate?",
+      "options": [
+        "Cardiogenic shock",
+        "Hypovolemic shock",
+        "Septic (distributive) shock",
+        "Neurogenic (distributive) shock"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: low cardiac output with HIGH filling pressures (CVP and PAWP) and high SVR, plus crackles. Analyze cues: when contractility falls, stroke volume and cardiac output drop, and blood backs up behind the failing ventricle, raising PAWP and causing pulmonary congestion. SVR rises as the body vasoconstricts to compensate. Prioritize hypotheses: pump failure. Generate solutions: inotropes, treating the cause, and cautious fluids.",
+        "incorrect": [
+          "Hypovolemia also lowers cardiac output and raises SVR, but filling pressures are LOW because there is too little volume. A CVP of 15 and PAWP of 26 rule this out.",
+          "Septic shock is driven by vasodilation, so SVR is LOW, often with normal or high cardiac output. An SVR of 1,800 is the opposite pattern.",
+          "Neurogenic shock causes vasodilation (low SVR) with bradycardia. This client has a high SVR and tachycardia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with pneumonia has T 39.2 °C, HR 124/min, BP 82/40 mm Hg, and warm, flushed skin. Hemodynamic values: cardiac output 8.2 L/min, CVP 3 mm Hg, SVR 520 dynes/sec/cm-5. Which conclusion and anticipated treatment are most appropriate?",
+      "options": [
+        "Cardiogenic shock from sepsis-related heart dysfunction; anticipate dobutamine to raise cardiac output",
+        "Distributive (septic) shock from widespread vasodilation; anticipate rapid crystalloids, then norepinephrine if hypotension persists",
+        "Hypovolemic shock from insensible losses with fever; anticipate the massive transfusion protocol",
+        "Neurogenic shock from loss of sympathetic tone; anticipate spinal stabilization and vasopressors"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: infection, fever, warm flushed skin, very low SVR, low CVP, and high cardiac output. Analyze cues: in distributive shock, blood pools in dilated peripheral vessels, so SVR falls and venous return drops even though the heart pumps hard. Prioritize hypotheses: septic shock. Generate solutions: the lecture's sequence is lactate, cultures, 30 mL/kg crystalloid, norepinephrine for hypotension during or after the bolus, and timely antibiotics.",
+        "incorrect": [
+          "Cardiac output here is high, not low, so the pump is not the problem. An inotrope does not correct the low vascular tone.",
+          "The low CVP reflects pooling, but the very low SVR and high cardiac output show vasodilation, not volume loss. There is no hemorrhage to justify blood products.",
+          "Neurogenic shock also lowers SVR, but it presents with bradycardia after a spinal cord injury. This client is tachycardic with an infection."
+        ]
+      }
+    },
+    {
+      "stem": "A client with cardiogenic shock was started on a dobutamine infusion 2 hours ago. Which findings show the therapy is having the desired effect? Select all that apply.",
+      "options": [
+        "Urine output increased from 15 to 40 mL/hr",
+        "Crackles decreased and SpO2 rose from 89% to 95%",
+        "The client is more alert and follows commands",
+        "Cardiac output increased from 2.4 to 3.8 L/min",
+        "HR increased from 98 to 132/min with new frequent PVCs",
+        "Skin is cooler and capillary refill is 4 seconds"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Dobutamine is an inotrope for cardiogenic shock. It is working when cardiac output rises and perfusion improves: better urine output and mental status and less pulmonary congestion. New tachycardia and ectopy, or worsening peripheral perfusion, show harm or treatment failure.",
+        "incorrect": [
+          "Correct—better kidney perfusion shows that cardiac output has improved.",
+          "Correct—a stronger contraction moves blood forward, which relieves pulmonary congestion.",
+          "Correct—improved mental status reflects better brain perfusion.",
+          "Correct—raising contractility and cardiac output is why an inotrope is given.",
+          "Incorrect—this is an adverse effect, not a therapeutic one. Tachycardia and ectopy raise myocardial oxygen demand and should be reported.",
+          "Incorrect—cooler skin and slow capillary refill mean peripheral perfusion is getting worse, not better."
+        ]
+      }
+    },
+    {
+      "stem": "A client in cardiogenic shock is on dobutamine. The provider has also prescribed a nitroglycerin infusion to reduce cardiac workload. Before the nurse starts it, the BP is 78/48 mm Hg (MAP 58). What should the nurse do?",
+      "options": [
+        "Start the nitroglycerin at the lowest dose and recheck the BP in 15 minutes",
+        "Start the nitroglycerin because relieving pulmonary congestion will raise the BP",
+        "Give a 1-L normal saline bolus so the client can tolerate the nitroglycerin",
+        "Hold the nitroglycerin and notify the provider of the hypotension"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a MAP of 58 before a vasodilator is started. Analyze cues: nitroglycerin is the vasodilator named for cardiogenic shock and lowers preload and afterload, but it also lowers BP. Starting it now would cut coronary and organ perfusion further. Take action: the safe choice is to hold the drug and report, so the team can adjust inotropic support first. Evaluate outcomes: start nitroglycerin only once BP can tolerate vasodilation.",
+        "incorrect": [
+          "Even a low dose can drop an already low MAP. Starting a vasodilator during hypotension is unsafe; the second cue (BP) should stop the action.",
+          "Nitroglycerin lowers BP directly. Relieving congestion does not offset this when the client is already hypotensive.",
+          "A large bolus risks worsening pulmonary congestion in a failing pump. The lecture stresses cautious fluids in cardiogenic shock."
+        ]
+      }
+    },
+    {
+      "stem": "A client in cardiogenic shock has an intra-aortic balloon pump inserted through the left femoral artery. During hourly checks, the nurse finds the left foot cool and pale, with a faint dorsalis pedis pulse by Doppler. The pulse was easily felt an hour ago. What is the nurse's priority action?",
+      "options": [
+        "Elevate the left leg on pillows to reduce swelling and reassess in 30 minutes",
+        "Notify the provider at once while keeping the left leg straight",
+        "Flex the left hip to 45 degrees to reposition the catheter and improve flow",
+        "Apply warm blankets to the left leg and recheck the pulse in 1 hour"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a new cool, pale foot and a pulse that went from palpable to faint distal to the IABP insertion site. Analyze cues: the catheter or a clot can block flow to the leg. The lecture requires neurovascular checks whenever an IABP is in place for exactly this reason. Prioritize hypotheses: acute limb ischemia. Take action: report immediately and keep the leg straight so the catheter does not move.",
+        "incorrect": [
+          "Raising an ischemic limb further reduces arterial flow, and waiting 30 minutes delays treatment of a vascular emergency.",
+          "Hip flexion can kink or move the balloon catheter. The cannulated leg is kept straight.",
+          "Warming does not restore arterial flow, and an hour's delay risks limb loss. This treats the symptom instead of reporting the cause."
+        ]
+      }
+    },
+    {
+      "stem": "A client develops cardiogenic shock 3 hours after the onset of an acute MI. Dobutamine is infusing and cautious fluids have been given. Which intervention addresses the underlying cause of this client's shock?",
+      "options": [
+        "Percutaneous coronary intervention to reopen the blocked artery",
+        "Increasing the dobutamine to raise cardiac output",
+        "Starting nitroglycerin to reduce preload and afterload",
+        "Giving a further fluid bolus to increase stroke volume"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: in this client, cardiogenic shock comes from heart muscle damaged by a coronary occlusion. Prioritize hypotheses: the pump will keep failing while the artery stays blocked. Generate solutions: the lecture lists treating the cause (PCI, IABP, or correcting a dysrhythmia) as the first medical intervention. Take action: prepare for PCI, which reopens the artery. Inotropes and the other options only support the failing heart.",
+        "incorrect": [
+          "Dobutamine supports contractility but does not reopen the artery. It also raises oxygen demand in heart muscle that is already ischemic.",
+          "Nitroglycerin lowers cardiac workload, but it is supportive and limited by hypotension. It does not remove the coronary blockage.",
+          "Extra volume does not fix a damaged pump and can worsen pulmonary congestion. Fluids are used cautiously in cardiogenic shock."
+        ]
+      }
+    },
+    {
+      "stem": "A charge nurse is reviewing the plan of care with a nurse who has just floated to the cardiac ICU and is caring for a client in cardiogenic shock. Which statement by the float nurse indicates a need for further teaching?",
+      "options": [
+        "\"Dobutamine is given to help the heart contract more forcefully.\"",
+        "\"I'll listen for crackles, because a failing pump backs blood up into the lungs.\"",
+        "\"Because the BP is so low, I'll run a large fluid bolus wide open, just like for my hemorrhage patient.\"",
+        "\"With the balloon pump in, I need to do neurovascular checks on that leg.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: cardiogenic shock is a pump problem, not a volume problem. Generate solutions: unlike hypovolemic shock, the lecture says IV fluids must be used cautiously because a failing ventricle cannot handle extra volume, and it backs up into the lungs. Take action: correct the plan; the BP is supported with inotropes and by treating the cause. This statement is the one that needs teaching.",
+        "incorrect": [
+          "This is correct. Dobutamine is an inotrope used in cardiogenic shock to raise contractility and cardiac output.",
+          "This is correct. Pulmonary congestion is part of the pathophysiology and is an assessment priority.",
+          "This is correct. The lecture specifies neurovascular checks when an IABP is in place."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews data on four clients. Which client meets the SIRS criteria described in the lecture?",
+      "options": [
+        "T 37.9 °C, HR 88/min, RR 22/min, WBC 11,500 cells/µL",
+        "T 38.4 °C, HR 96/min, RR 18/min, WBC 9,000 cells/µL",
+        "T 36.2 °C, HR 90/min, RR 20/min, PaCO2 34 mm Hg, WBC 4,200 cells/µL",
+        "T 37.2 °C, HR 102/min, RR 18/min, WBC 11,800 cells/µL"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: SIRS requires 2 of 4 criteria: temperature >38 °C or <36 °C; HR >90/min; RR >20/min or PaCO2 <32 mm Hg; WBC >12,000 or <4,000 cells/µL. This client meets two (temperature 38.4 and HR 96). Prioritize hypotheses: if infection is present or suspected, this is sepsis and starts the early-recognition pathway.",
+        "incorrect": [
+          "Only the RR (>20) meets a criterion. The temperature, HR, and WBC all fall just short of the cutoffs, so the total is 1 of 4.",
+          "Every value is right at a cutoff without crossing it. The criteria are HR above 90, RR above 20 or PaCO2 below 32, temperature below 36, and WBC below 4,000, so this is 0 of 4.",
+          "Only the HR meets a criterion. A WBC of 11,800 is below the >12,000 cutoff, so the total is 1 of 4."
+        ]
+      }
+    },
+    {
+      "stem": "A client admitted with pneumonia has T 38.6 °C, HR 112/min, RR 26/min, and BP 118/72 mm Hg. Creatinine has risen from 0.9 to 2.1 mg/dL, and urine output is 20 mL/hr. Using the lecture's definitions, how should the nurse classify this client's condition?",
+      "options": [
+        "Severe sepsis, because sepsis is now accompanied by organ dysfunction",
+        "Sepsis, because the client has an infection and meets SIRS criteria without hypotension",
+        "Septic shock, because the client has organ dysfunction from the infection",
+        "SIRS without sepsis, because blood cultures have not yet confirmed an infection"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a known infection with three SIRS criteria (temperature, HR, RR) plus kidney dysfunction (rising creatinine, low urine output), while the BP is normal. Analyze cues: sepsis is SIRS with presumed or proven infection. Severe sepsis is sepsis with organ dysfunction. Septic shock is sepsis with hypotension despite adequate fluid resuscitation. Prioritize hypotheses: organ dysfunction without hypotension places this client in severe sepsis. Take action: escalate monitoring, because progression to shock is the next risk.",
+        "incorrect": [
+          "This misses the second cue. Rising creatinine and oliguria show organ dysfunction, which moves the classification up to severe sepsis.",
+          "Septic shock requires hypotension despite adequate fluid resuscitation. With a BP of 118/72 that criterion is not met.",
+          "Sepsis is SIRS with a presumed OR proven infection. Pneumonia is a presumed source, so cultures are not needed to call this sepsis."
+        ]
+      }
+    },
+    {
+      "stem": "In the ED, a client with suspected sepsis from a urinary source has BP 108/66 mm Hg, HR 112/min, and T 38.8 °C. IV access is in place. Prescriptions include blood cultures ×2, IV piperacillin-tazobactam, and a serum lactate. Pharmacy has just delivered the antibiotic. Which action should the nurse take next?",
+      "options": [
+        "Hang the antibiotic now because it has arrived, and draw cultures after the first dose",
+        "Draw the blood cultures, then hang the antibiotic without delay",
+        "Wait for the lactate result before drawing cultures so the severity is known",
+        "Hold the antibiotic until culture results identify the organism"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the lecture's septic-shock sequence obtains blood cultures BEFORE antibiotics, because even one dose can sterilize the cultures and hide the organism. Take action: draw cultures now (with the lactate), then hang the antibiotic right away, well within the 3-hour ED time frame. Evaluate outcomes: culture results later allow the antibiotic to be narrowed.",
+        "incorrect": [
+          "Getting the antibiotic in quickly is important, but giving it first can make the cultures falsely negative. The cultures take only minutes and should come first.",
+          "The lactate does not change whether cultures are needed. Waiting delays both cultures and antibiotics.",
+          "Cultures take days. Withholding antibiotics until then violates the lecture's time frame (3 hours in the ED) and allows sepsis to progress."
+        ]
+      }
+    },
+    {
+      "stem": "A client with septic shock weighs 176 lb. BP is 80/46 mm Hg and lactate is 4.8 mmol/L. The sepsis protocol calls for a crystalloid bolus according to the lecture's guideline. What total volume should the nurse prepare to give?",
+      "options": [
+        "1,600 mL",
+        "2,400 mL",
+        "3,000 mL",
+        "5,280 mL"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypotension and lactate >4 mmol/L, either of which triggers the bolus. Generate solutions: the lecture's dose is 30 mL/kg of LR or NSS given rapidly. Take action: 176 lb ÷ 2.2 = 80 kg; 80 kg × 30 mL/kg = 2,400 mL.",
+        "incorrect": [
+          "This is 20 mL/kg (80 × 20). The lecture's septic-shock dose is 30 mL/kg.",
+          "This rounds up to a convenient volume rather than calculating from weight. 80 kg × 30 mL/kg is 2,400 mL.",
+          "This uses the weight in pounds (176 × 30) without converting to kilograms, which more than doubles the dose and risks fluid overload."
+        ]
+      }
+    },
+    {
+      "stem": "A 68-kg client with septic shock is prescribed lactated Ringer's at 30 mL/kg, to be infused over 3 hours. At what rate should the nurse set the infusion pump?",
+      "options": [
+        "340 mL/hr",
+        "510 mL/hr",
+        "680 mL/hr",
+        "2,040 mL/hr"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Take action: total volume = 68 kg × 30 mL/kg = 2,040 mL. Rate = 2,040 mL ÷ 3 hr = 680 mL/hr. Evaluate outcomes: during the bolus, reassess BP/MAP, urine output, mental status, and lung sounds. Hypotension during or after the bolus is the trigger to start norepinephrine.",
+        "incorrect": [
+          "This spreads the volume over 6 hours, so the client gets only half the prescribed bolus in the 3-hour window.",
+          "This divides 2,040 mL by 4 hours instead of the prescribed 3.",
+          "This is the total volume, not an hourly rate. Set at this rate, the whole bolus would run in 1 hour, faster than prescribed."
+        ]
+      }
+    },
+    {
+      "stem": "A client with suspected sepsis from cellulitis has T 38.5 °C, HR 104/min, BP 118/70 mm Hg (MAP 86), and an initial lactate of 3.0 mmol/L. Based on the lecture's septic-shock sequence, what should the nurse anticipate?",
+      "options": [
+        "A rapid 30 mL/kg crystalloid bolus because the lactate is above 2 mmol/L",
+        "Repeating the lactate, without a 30 mL/kg bolus at this time",
+        "Starting norepinephrine to keep the MAP above 65 mm Hg",
+        "No further lactate testing, because the value is below 4 mmol/L"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: lactate 3.0 with a normal BP. Analyze cues: the lecture has two separate lactate thresholds. Above 2 mmol/L means the lactate is repeated. Above 4 mmol/L, or hypotension, triggers 30 mL/kg of crystalloid. Generate solutions: this client meets only the first threshold. Take action: repeat the lactate and keep up cultures, antibiotics, and close monitoring. Evaluate outcomes: a rising repeat value or a falling BP would trigger the bolus.",
+        "incorrect": [
+          "This mixes up the two thresholds. Above 2 means repeat the lactate. The bolus trigger is above 4 or hypotension.",
+          "Norepinephrine is for hypotension that persists during or after the fluid bolus. The MAP is already 86.",
+          "Any lactate above 2 mmol/L is repeated so the trend can be followed. Stopping here could miss worsening hypoperfusion."
+        ]
+      }
+    },
+    {
+      "stem": "A client with suspected sepsis has BP 122/74 mm Hg, HR 116/min, and RR 26/min. The initial lactate is 4.6 mmol/L. Which action should the nurse anticipate?",
+      "options": [
+        "Repeat the lactate in 2 hours, and give fluids only if the BP drops",
+        "Start norepinephrine, because a lactate above 4 mmol/L defines septic shock",
+        "Give a 500 mL bolus and reassess, because the client is normotensive",
+        "Begin a rapid 30 mL/kg crystalloid bolus now, even though the BP is normal"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a lactate of 4.6 in a client whose BP looks reassuring. Analyze cues: the lecture's bolus trigger is hypotension OR lactate above 4 mmol/L. A normal BP does not rule out severe hypoperfusion, because compensation can hold the BP up while cells switch to anaerobic metabolism. Take action: give 30 mL/kg LR or NSS and repeat the lactate. Evaluate outcomes: watch for the lactate to fall and urine output and mentation to improve.",
+        "incorrect": [
+          "Repeating the lactate is right, but waiting for hypotension ignores the lactate trigger, which already calls for the bolus.",
+          "Norepinephrine is for hypotension during or after the bolus. The client is not hypotensive, and fluids come first.",
+          "A small, cautious bolus fits cardiogenic shock. The lecture's dose for a lactate above 4 is 30 mL/kg."
+        ]
+      }
+    },
+    {
+      "stem": "A client with septic shock has just finished a 30 mL/kg crystalloid bolus. BP is now 84/44 mm Hg and HR is 122/min. Which conclusion and anticipated action are correct?",
+      "options": [
+        "The MAP is about 64 mm Hg; it is close to goal, so the nurse should continue to monitor",
+        "The MAP is about 57 mm Hg; anticipate a second 30 mL/kg bolus before any vasopressor is started",
+        "The MAP is about 57 mm Hg; anticipate starting norepinephrine and titrating it to a MAP above 65 mm Hg",
+        "The MAP is about 57 mm Hg; anticipate dobutamine to raise contractility"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: MAP = (SBP + 2 × DBP) ÷ 3 = (84 + 88) ÷ 3 ≈ 57 mm Hg, below the lecture's goal of >65 mm Hg. Prioritize hypotheses: hypotension persisting after an adequate bolus defines septic shock. Take action: the lecture's first vasopressor is norepinephrine, titrated to a MAP >65. Evaluate outcomes: track MAP, lactate, urine output, and mental status.",
+        "incorrect": [
+          "This miscalculates the MAP (it averages SBP and DBP). The true MAP of about 57 is well below 65, so it needs treatment.",
+          "The MAP is right, but the lecture moves to norepinephrine when hypotension persists during or after the bolus. Repeating the full bolus delays the vasopressor and risks overload.",
+          "The MAP is right, but septic shock is a vascular-tone problem. Dobutamine is the inotrope for cardiogenic shock; norepinephrine is the septic-shock vasopressor."
+        ]
+      }
+    },
+    {
+      "stem": "A client with septic shock is on norepinephrine. The current BP is 98/50 mm Hg. Which conclusion is correct?",
+      "options": [
+        "The MAP is about 66 mm Hg, which meets the goal; continue the current therapy and keep trending lactate, urine output, and mental status",
+        "The MAP is about 74 mm Hg, above goal, so the norepinephrine can be decreased",
+        "The MAP is about 66 mm Hg, but the norepinephrine should be increased because the diastolic BP is below 60",
+        "The MAP is about 49 mm Hg, so the client needs an immediate fluid bolus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: MAP = (98 + 2 × 50) ÷ 3 = 198 ÷ 3 = 66 mm Hg. Evaluate outcomes: the lecture's goal with vasopressor therapy is a MAP greater than 65, so the target is met. Because the guide warns against judging response by one number, the nurse keeps watching lactate, urine output, and mental status to confirm tissue perfusion.",
+        "incorrect": [
+          "This miscalculates the MAP by simple averaging ((98 + 50) ÷ 2). The correct MAP is 66, just above goal, so weaning now would risk dropping below target.",
+          "The MAP is right, but the target is MAP above 65, not a diastolic number. Raising the dose without reason increases vasoconstriction and its risks.",
+          "This counts the diastolic value only once in the calculation. The real MAP of 66 meets goal."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews antibiotic timing for four clients with sepsis. Which situation requires the nurse to escalate because the antibiotic was not given within the lecture's time frame?",
+      "options": [
+        "A medical-unit inpatient recognized as septic at 0900 whose first antibiotic was started at 1045",
+        "An ED client recognized as septic at 1300 whose first antibiotic was started at 1530",
+        "An ED client recognized as septic at 0200 whose first antibiotic was started at 0445",
+        "A surgical-unit inpatient recognized as septic at 1400 whose first antibiotic was started at 1450"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the lecture's time frames are within 3 hours of recognition in the ED and within 1 hour for an inpatient. Recognize cues: this inpatient waited 1 hour 45 minutes, which is past the 1-hour target. Take action: escalate the delay and review why it happened. Every hour of delay raises the risk of progression to septic shock and MODS.",
+        "incorrect": [
+          "2 hours 30 minutes is within the 3-hour ED time frame.",
+          "2 hours 45 minutes is still within the 3-hour ED time frame, even though it is close.",
+          "50 minutes meets the 1-hour inpatient time frame."
+        ]
+      }
+    },
+    {
+      "stem": "A client with septic shock has received a 30 mL/kg crystalloid bolus and is on norepinephrine. Which findings indicate that treatment is effective? Select all that apply.",
+      "options": [
+        "MAP increased from 58 to 70 mm Hg",
+        "Lactate decreased from 5.1 to 2.6 mmol/L",
+        "Urine output increased from 10 to 35 mL/hr",
+        "Mottling over both knees with capillary refill of 5 seconds",
+        "HR rose from 120 to 136/min after the norepinephrine dose was increased twice",
+        "The client is now oriented and follows commands"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The lecture's markers of improvement in septic shock are MAP >65 mm Hg, a decreasing lactate, improving urine output, and more responsive mental status. Mottling, slow capillary refill, and rising HR with escalating vasopressor needs show worsening perfusion.",
+        "incorrect": [
+          "Correct—a MAP above 65 mm Hg is the lecture's goal with vasopressor therapy.",
+          "Correct—a falling lactate means less anaerobic metabolism and better tissue perfusion.",
+          "Correct—improving urine output reflects better kidney perfusion.",
+          "Incorrect—mottling and slow capillary refill show persistent peripheral hypoperfusion.",
+          "Incorrect—worsening tachycardia together with rising vasopressor needs suggests the shock is not responding.",
+          "Correct—better mental status reflects improved brain perfusion."
+        ]
+      }
+    },
+    {
+      "stem": "A client in septic shock is receiving norepinephrine through a peripheral IV in the forearm while central access is being arranged. The nurse finds the skin around the site blanched, cool, and swollen. What is the nurse's first action?",
+      "options": [
+        "Stop the infusion at that site and notify the provider",
+        "Apply an ice pack to the site and continue the infusion",
+        "Slow the infusion rate by half and elevate the arm",
+        "Flush the IV with normal saline to clear the line, then resume the infusion"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: blanching, coolness, and swelling at a vasopressor site. Analyze cues: norepinephrine is a potent vasoconstrictor, and when it leaks into tissue it can cause ischemia and necrosis. Take action: stop the infusion into the infiltrated site and notify the provider right away, so an antidote can be considered and the vasopressor restarted through another line without a long interruption. Evaluate outcomes: monitor the MAP closely while access is changed.",
+        "incorrect": [
+          "Cold causes more vasoconstriction and worsens tissue ischemia, and continuing the infusion adds more drug to the tissue.",
+          "Any further infusion into an infiltrated site continues the injury, and cutting the dose drops the MAP below goal.",
+          "Flushing pushes more vasoconstrictor into the tissue. The site must not be used."
+        ]
+      }
+    },
+    {
+      "stem": "A client with septic shock has been on norepinephrine for 6 hours. MAP is 67 mm Hg. Lactate has risen from 4.4 to 5.8 mmol/L, urine output is 10 mL/hr, and the client is less responsive. Which conclusion should the nurse report?",
+      "options": [
+        "Tissue perfusion is worsening despite the MAP meeting goal, so the treatment plan needs to be reassessed",
+        "Treatment is effective, because the MAP is above 65 mm Hg; continue the current plan",
+        "The lactate is rising as an expected effect of norepinephrine and should be rechecked in 24 hours",
+        "The low urine output is caused by the antibiotics, so renal dosing should be requested"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a MAP at goal, but a rising lactate, very low urine output, and declining mental status. Analyze cues: the guide says not to judge response from one vital sign. These trends show worsening hypoperfusion and anaerobic metabolism. Prioritize hypotheses: the shock is not responding, with risk of progression to MODS. Evaluate outcomes: persistent or worsening perfusion signals the need for reassessment and continued treatment.",
+        "incorrect": [
+          "A MAP at goal is only one marker. The lactate, urine output, and mental status all show the client is getting worse; this skips Evaluate outcomes.",
+          "This explains away the most important trend. A rising lactate together with oliguria and declining mentation points to hypoperfusion, and waiting 24 hours allows organ failure.",
+          "This explains one cue and ignores the rising lactate and changing mental status, which reflect the whole body, not a single drug effect."
+        ]
+      }
+    },
+    {
+      "stem": "A new nurse is preparing to care for a 75-kg client with septic shock. Which statement by the new nurse indicates a need for further teaching?",
+      "options": [
+        "\"Because the first lactate was 3.2, I'll make sure it gets repeated.\"",
+        "\"This client's 30 mL/kg bolus works out to 2,250 mL.\"",
+        "\"If the BP stays low after the bolus, I'll expect dobutamine to be started first.\"",
+        "\"Norepinephrine will be titrated to keep the MAP above 65.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the lecture's first vasopressor for hypotension that persists during or after the bolus is norepinephrine, titrated to a MAP above 65. Dobutamine is an inotrope for pump failure (cardiogenic shock) and does not correct the vasodilation of septic shock. Take action: correct the plan. This statement is the one that needs teaching.",
+        "incorrect": [
+          "This is correct. Any lactate above 2 mmol/L is repeated.",
+          "This is correct: 75 kg × 30 mL/kg = 2,250 mL.",
+          "This is correct. A MAP above 65 mm Hg is the lecture's goal."
+        ]
+      }
+    },
+    {
+      "stem": "A client is brought to the ED after a diving accident with a suspected T4 spinal cord injury. BP 80/44 mm Hg, HR 46/min, and the skin below the injury is warm and dry. There is no external bleeding, and a bedside abdominal ultrasound shows no free fluid. Which conclusion is most accurate?",
+      "options": [
+        "Hypovolemic shock from hidden internal bleeding; prepare for the massive transfusion protocol",
+        "Cardiogenic shock from a blunt cardiac injury; anticipate dobutamine",
+        "Neurogenic shock from loss of sympathetic tone, which leaves parasympathetic influence unopposed",
+        "An expected vagal response to pain; give analgesia and recheck the vital signs in 1 hour"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypotension WITH bradycardia, warm dry skin, a high thoracic cord injury, and no signs of bleeding. Analyze cues: the lecture describes neurogenic shock as a loss of balance between the parasympathetic and sympathetic systems, and its defining findings are hypotension plus bradycardia. Without sympathetic tone, vessels dilate and the HR cannot rise. Prioritize hypotheses: neurogenic (distributive) shock. Generate solutions: stabilize the spine, give IV crystalloids, and add vasopressors.",
+        "incorrect": [
+          "Hemorrhage causes compensatory tachycardia and cool, clammy skin. A HR of 46 with warm skin and a negative ultrasound does not fit volume loss.",
+          "Blunt cardiac injury is possible after trauma, but it usually causes tachycardia or dysrhythmia with signs of congestion. This picture fits sympathetic loss after a cord injury.",
+          "Pain does not explain persistent hypotension with warm, vasodilated skin after a cord injury. Waiting an hour delays treatment of shock."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a cervical spinal cord injury has BP 78/42 mm Hg and HR 50/min. The diagnosis is neurogenic shock. Which set of prescriptions should the nurse anticipate?",
+      "options": [
+        "Rapid 30 mL/kg crystalloid bolus and IV antibiotics within 1 hour",
+        "Spinal immobilization, an IV crystalloid bolus, and a vasopressor as needed",
+        "Cautious fluids and dobutamine to raise the HR and contractility",
+        "Fluid restriction and a vasopressor alone, to avoid spinal cord swelling"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the lecture's treatment for neurogenic shock is to treat the cause (stabilize the spinal cord injury) and give IV crystalloids and vasopressors. Take action: keep the spine immobilized, give crystalloid, and start a vasopressor to restore vascular tone. Evaluate outcomes: track BP and HR, looking specifically for resolution of the hypotension and bradycardia.",
+        "incorrect": [
+          "This is the septic-shock bundle. Nothing suggests infection, and antibiotics do not treat lost sympathetic tone.",
+          "Cautious fluids with an inotrope is the cardiogenic plan. The heart is not failing here; the vessels are dilated, which calls for crystalloids and a vasopressor.",
+          "The lecture lists IV crystalloids as part of the treatment. Restricting fluid in a vasodilated client deepens the hypotension."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a T6 spinal cord injury from a motorcycle crash has BP 82/50 mm Hg, HR 128/min, cool clammy skin, and a firm, distending abdomen. A resident says, \"This is the neurogenic shock we expected.\" What should the nurse conclude?",
+      "options": [
+        "These are classic neurogenic shock findings, so the nurse should anticipate a vasopressor",
+        "Tachycardia is the expected compensation in neurogenic shock, so continued monitoring is enough",
+        "The tachycardia and cool, clammy skin do not fit neurogenic shock; suspect hemorrhagic hypovolemic shock and report it now",
+        "Anxiety is causing tachycardia on top of neurogenic shock, so an anxiolytic should be given"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a fast HR, cool clammy skin, and a distending abdomen after trauma. Analyze cues: neurogenic shock presents with hypotension plus BRADYCARDIA and warm skin. Tachycardia with vasoconstriction is the compensatory response to volume loss. Prioritize hypotheses: internal hemorrhage is the more dangerous and treatable explanation. Take action: report the findings and anticipate large-bore access and blood replacement.",
+        "incorrect": [
+          "Neurogenic shock causes bradycardia, not a HR of 128. Treating this as neurogenic with a vasopressor alone would miss ongoing bleeding.",
+          "In neurogenic shock the sympathetic response is lost, so the HR cannot rise to compensate. Tachycardia here points to another cause.",
+          "Labeling the tachycardia as anxiety anchors on the first diagnosis. Combined with clammy skin and a distending abdomen, bleeding has to be ruled out first."
+        ]
+      }
+    },
+    {
+      "stem": "Ten minutes into an IV cefazolin infusion, a client develops a hoarse voice, wheezing, generalized hives, BP 82/50 mm Hg, and HR 128/min. The nurse has stopped the infusion. What is the nurse's next priority action?",
+      "options": [
+        "Give IV diphenhydramine to block histamine",
+        "Give IV methylprednisolone to reduce the inflammatory response",
+        "Give an albuterol nebulizer for the wheezing",
+        "Give epinephrine 1:1000 IM into the vastus lateralis"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden onset after a medication, with airway signs (hoarseness, wheezing), skin signs, and hypotension. Analyze cues: two or more systems are involved, which meets the lecture's definition of anaphylaxis. Prioritize hypotheses: airway and cardiovascular collapse can follow quickly. Take action: the lecture names rapid IM epinephrine (1:1000) in the vastus lateralis as the key immediate intervention. Evaluate outcomes: reassess airway, breathing, and BP right after the dose.",
+        "incorrect": [
+          "Diphenhydramine is an adjunct to epinephrine. It does not reverse airway swelling or hypotension, and giving it first delays the lifesaving drug.",
+          "Corticosteroids are adjuncts and act too slowly to treat acute airway and circulatory compromise.",
+          "A bronchodilator may be added if needed, but it treats only the bronchospasm, not the hypotension or laryngeal swelling. Epinephrine treats all of them."
+        ]
+      }
+    },
+    {
+      "stem": "A client in the ED has anaphylaxis after a bee sting. BP 86/52 mm Hg, wheezing, and facial swelling are present, and the client has a pulse. The provider prescribes all of the following. Which prescription should the nurse question before giving it?",
+      "options": [
+        "Diphenhydramine 50 mg IV",
+        "Epinephrine 1 mg (1:1000) IV push",
+        "Methylprednisolone 125 mg IV",
+        "0.9% normal saline 1,000 mL IV bolus"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: anaphylaxis in a client who has a pulse. Analyze cues: the lecture's priority is rapid IM epinephrine 1:1000 in the vastus lateralis. The concentrated 1:1000 form given as an IV push delivers a large dose straight into the circulation and can cause severe hypertension, dysrhythmias, and myocardial ischemia. Take action: clarify the route and concentration (IM). This is the hidden unsafe order.",
+        "incorrect": [
+          "This is appropriate. An antihistamine is an adjunct to epinephrine in the lecture.",
+          "This is appropriate. Corticosteroids are listed as adjunct therapy.",
+          "This is appropriate. IV crystalloids treat the vasodilation and capillary leak that cause hypotension."
+        ]
+      }
+    },
+    {
+      "stem": "Forty-five minutes after IM epinephrine for a peanut-related anaphylactic reaction in the ED, a client's symptoms have resolved. The client is talking with the nurse about leaving. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I need to stay a few hours, because the reaction can come back even after the epinephrine works.\"",
+        "\"The antihistamine and steroid are extras; the epinephrine was the main treatment.\"",
+        "\"I need to avoid peanuts and anything made with them from now on.\"",
+        "\"Since my breathing is back to normal, I can go home now and come back if it starts again.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to leave 45 minutes after epinephrine. Analyze cues: epinephrine can wear off before the allergic process ends, and the lecture specifies 4 hours of ED observation after epinephrine because of the risk of a rebound reaction. Take action: teach why the client needs to stay. Evaluate outcomes: the nurse keeps monitoring airway, BP, and skin during the observation period.",
+        "incorrect": [
+          "This is correct. It reflects the 4-hour observation for a rebound reaction.",
+          "This is correct. Diphenhydramine and corticosteroids are adjuncts to epinephrine.",
+          "This is correct. Avoiding the known trigger is basic safety after anaphylaxis to a food."
+        ]
+      }
+    },
+    {
+      "stem": "A client develops anaphylactic shock after an IV contrast injection. Which interventions should the nurse anticipate? Select all that apply.",
+      "options": [
+        "Rapid IM epinephrine 1:1000 into the vastus lateralis",
+        "Ensure a patent airway and prepare for airway support",
+        "IV crystalloids for hypotension",
+        "Diphenhydramine as an adjunct after epinephrine",
+        "A corticosteroid as the primary drug to reverse the hypotension",
+        "Discharge from the ED once symptoms resolve after the first hour"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Anaphylaxis: rapid IM epinephrine (1:1000, vastus lateralis) first, then a patent airway, IV crystalloids, and the adjuncts diphenhydramine, corticosteroids, and bronchodilators if needed. Observe in the ED for 4 hours for rebound.",
+        "incorrect": [
+          "Correct—this is the lecture's key immediate intervention.",
+          "Correct—airway compromise (stridor, swelling) can progress to respiratory arrest; the lecture lists ensuring a patent airway.",
+          "Correct—crystalloids treat the vasodilation and capillary leak.",
+          "Correct—an antihistamine is adjunct therapy to epinephrine.",
+          "Incorrect—corticosteroids are adjuncts with a slow onset and do not reverse acute hypotension; epinephrine does.",
+          "Incorrect—the lecture specifies 4 hours of ED observation after epinephrine because of rebound risk."
+        ]
+      }
+    },
+    {
+      "stem": "A client on mechanical ventilation suddenly has SpO2 82%, high peak airway pressures, absent breath sounds on the right, tracheal deviation to the left, distended neck veins, and BP 74/40 mm Hg. What is the nurse's priority?",
+      "options": [
+        "Give a rapid 30 mL/kg crystalloid bolus",
+        "Prepare for immediate needle decompression and chest tube placement",
+        "Start norepinephrine and titrate to a MAP above 65 mm Hg",
+        "Obtain a STAT chest X-ray to confirm before intervening"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: one-sided absent breath sounds, tracheal shift away from that side, JVD, and abrupt hypotension in a ventilated client. Analyze cues: this is a tension pneumothorax, in which rising chest pressure blocks venous return. That is obstructive shock. Prioritize hypotheses: the problem is a physical blockage, so fluids and drugs will not fix it. Take action: the lecture's treatment priority is to quickly remove the obstruction.",
+        "incorrect": [
+          "Fluids cannot overcome the mechanical block to venous return. This applies the septic-shock bundle to an obstructive problem.",
+          "A vasopressor does not relieve chest pressure. Without decompression the client can arrest even with vasopressor support.",
+          "The diagnosis is clinical, and waiting for imaging in an unstable client delays the lifesaving treatment."
+        ]
+      }
+    },
+    {
+      "stem": "Four hours after cardiac surgery, a client's mediastinal chest tube drainage suddenly stops after averaging 150 mL/hr. BP has fallen to 78/62 mm Hg, HR is 132/min, the neck veins are distended, and heart sounds are muffled. Which conclusion and action are most appropriate?",
+      "options": [
+        "Suspect cardiac tamponade; notify the surgeon now for emergency decompression",
+        "Suspect cardiogenic shock from the surgery; anticipate dobutamine",
+        "Conclude that the bleeding has stopped, so give fluids for the earlier volume loss",
+        "Suspect a clotted chest tube; milk the tube and recheck the vital signs in 1 hour"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: drainage that stopped abruptly, hypotension with a narrow pulse pressure, JVD, and muffled heart sounds. Analyze cues: blood collecting around the heart squeezes it and blocks filling, so the drainage stopping is a warning sign, not reassurance. Prioritize hypotheses: cardiac tamponade, a cause of obstructive shock in the lecture. Take action: quickly treat the cause by removing the fluid (pericardiocentesis or a return to surgery).",
+        "incorrect": [
+          "Contractility is not the main problem. An inotrope cannot help a heart that is compressed and cannot fill.",
+          "Drainage that stops suddenly, with JVD and muffled heart sounds, means blood is trapped around the heart, not that bleeding has ended.",
+          "A clotted tube may be the cause, but the client already shows tamponade physiology. Waiting an hour delays treatment of a life-threatening obstruction."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A client with septic shock on norepinephrine whose MAP is 68 mm Hg and whose lactate fell from 3.1 to 2.2 mmol/L",
+        "A client on postoperative day 2 after hip surgery with sudden dyspnea, HR 128/min, BP 84/50 mm Hg, and SpO2 86%",
+        "A client with hypovolemia from vomiting who is receiving IV fluids, with urine output up from 20 to 28 mL/hr",
+        "A client who received IM epinephrine 2 hours ago for anaphylaxis, now symptom-free and asking to go home"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a sudden change with hypoxemia, tachycardia, and hypotension in a client after orthopedic surgery. Analyze cues: this fits a pulmonary embolism, which can block blood flow and cause obstructive shock. Prioritize hypotheses: this is the only client who is acutely unstable and getting worse. Take action: assess now, support oxygenation, and escalate so the team can quickly treat the cause.",
+        "incorrect": [
+          "This client is critically ill but responding: the MAP is at goal and the lactate is falling. Stable-but-serious comes after acutely unstable.",
+          "The urine output is improving with treatment, which shows a positive response. This client needs reassessment, but not before the unstable client.",
+          "This client needs teaching and continued observation until 4 hours have passed, but is currently stable."
+        ]
+      }
+    }
+  ]
+}

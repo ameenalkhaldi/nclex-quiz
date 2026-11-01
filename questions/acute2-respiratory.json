@@ -1,0 +1,952 @@
+{
+  "topic": "acute2-respiratory",
+  "label": "Acute 2: Week 7 — Acute Respiratory",
+  "questions": [
+    {
+      "stem": "An 82-year-old client with kyphosis is 2 days post hip repair. Over the last hour the client has become restless and keeps trying to climb out of bed. Findings: HR 112/min (was 84), BP 152/90 mm Hg (was 128/74), RR 24/min, SpO2 92% on room air, weak cough, and diminished breath sounds at both bases. Which finding should the nurse act on first?",
+      "options": [
+        "The weak cough with diminished bases, by scheduling incentive spirometry every 2 hours",
+        "The new restlessness with rising HR and BP, by assessing oxygenation now",
+        "The SpO2 of 92%, by applying oxygen and rechecking the saturation in 1 hour",
+        "The kyphosis, by repositioning the client with pillows to improve chest expansion"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new restlessness, tachycardia, and a rising BP in an older adult after surgery. Analyze cues: the brain is very sensitive to a drop in oxygen, so restlessness, confusion, tachycardia, and increased BP are EARLY warning signs of acute respiratory failure. Age-related changes (fewer alveoli, less mucociliary clearance, weaker elastic recoil, diffusion falling about 8% a year after 65, kyphosis) make this client high risk. Prioritize hypotheses: early hypoxemia must be ruled out before the behavior is labeled post-op delirium. Take action: assess oxygenation and breath sounds, raise the HOB, and notify the provider.",
+        "incorrect": [
+          "Pulmonary hygiene is right for an older adult with reduced mucociliary activity and weak recoil, but it is a prevention measure. It skips Prioritize hypotheses: the new behavior and vital-sign changes suggest hypoxemia is already developing.",
+          "Oxygen may well be needed, but a 1-hour recheck is too slow for a client whose mental status just changed, and the SpO2 alone underestimates the problem. The cue cluster (behavior plus vitals) needs a full assessment and a provider call now.",
+          "Kyphosis and increased thoracic rigidity are expected, chronic age-related changes that raise risk. They are not new and do not explain an acute change in the last hour."
+        ]
+      }
+    },
+    {
+      "stem": "A client on postoperative day 3 after knee replacement suddenly reports shortness of breath and sharp chest pain. HR 118/min, RR 30/min, SpO2 88% on room air. Breath sounds are clear in all fields, and a portable chest x-ray shows no consolidation or edema. Which interpretation best explains the hypoxemia?",
+      "options": [
+        "Shunt (low V/Q): alveoli are perfused but not ventilated because of postoperative atelectasis",
+        "Hypoventilation: opioid analgesia has slowed breathing and caused carbon dioxide retention",
+        "Diffusion limitation: fluid has thickened the alveolar-capillary membrane",
+        "Dead space (high V/Q): alveoli are ventilated but not perfused, consistent with a pulmonary embolism"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden dyspnea, chest pain, tachycardia, and hypoxemia in a postoperative orthopedic client, with clear lungs and a clear x-ray. Analyze cues: air is reaching the alveoli (clear breath sounds), but blood is not. Ventilation exceeding perfusion is dead space, or high V/Q, and the lecture's example of dead space is pulmonary emboli. Prioritize hypotheses: PE is a life-threatening cause of type I (hypoxemic) failure. Take action: apply oxygen, keep the client in bed with the HOB up, and notify the provider immediately for a PE work-up.",
+        "incorrect": [
+          "Atelectasis is a classic shunt cause after surgery, but it usually gives diminished breath sounds or crackles and changes on the x-ray. Clear lungs and a clear film argue against it. This misreads the cues.",
+          "Opioid hypoventilation causes a slow RR and drowsiness. This client is tachypneic at 30/min, which is the opposite pattern.",
+          "A diffusion problem from fluid would show crackles and edema on the x-ray. Neither is present."
+        ]
+      }
+    },
+    {
+      "stem": "A client with right lower lobe pneumonia has an SpO2 of 87% on 4 L/min nasal cannula. ABG: pH 7.46, PaCO2 33 mm Hg, HCO3 24 mEq/L, PaO2 54 mm Hg. Which conclusion should guide the nurse's plan?",
+      "options": [
+        "Ventilatory failure: carbon dioxide retention is driving the hypoxemia, so the client needs help to blow off CO2",
+        "Combined oxygenation and ventilatory failure that needs immediate intubation",
+        "Oxygenation failure from an intrapulmonary shunt, with ventilation still adequate",
+        "Dead-space ventilation from a pulmonary embolism, because the PaCO2 is low"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: PaO2 54 mm Hg and SpO2 87% on supplemental oxygen, with a PaCO2 of 33 and a slightly alkaline pH. Analyze cues: oxygenation is judged by PaO2/SaO2, and ventilation by PaCO2. Here oxygenation is failing while ventilation is intact; the mild respiratory alkalosis comes from tachypnea. Consolidated alveoli are perfused but not ventilated, which is a shunt (low V/Q). Prioritize hypotheses: this is the type I (hypoxemic) pattern, and pneumonia is a listed trigger. Generate solutions: maximize oxygen delivery and escalate the device as needed, keep the HOB above 30°, and treat the pneumonia.",
+        "incorrect": [
+          "The PaCO2 is 33, which is low, not retained. Calling this ventilatory failure misreads the ABG; the client is blowing off CO2 well.",
+          "Only oxygenation is failing; the PaCO2 is low. The client is not described as unable to protect the airway or tiring, so jumping to intubation skips the less invasive steps.",
+          "A low PaCO2 occurs with many causes of tachypnea. Consolidated alveoli that are perfused but not ventilated is a shunt (low V/Q), and pneumonia is the lecture's example of shunt, not dead space."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews ABGs for four clients in the step-down unit. Which client's results meet the criteria for acute hypercapnic (type II) respiratory failure?",
+      "options": [
+        "pH 7.38, PaCO2 58 mm Hg, HCO3 34 mEq/L, PaO2 62 mm Hg on 2 L/min",
+        "pH 7.48, PaCO2 30 mm Hg, HCO3 23 mEq/L, PaO2 58 mm Hg on 60% FiO2",
+        "pH 7.31, PaCO2 56 mm Hg, HCO3 26 mEq/L, PaO2 72 mm Hg on 2 L/min",
+        "pH 7.34, PaCO2 47 mm Hg, HCO3 25 mEq/L, PaO2 88 mm Hg on room air"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: compare each PaCO2 and pH against the lecture's \"50/50 rule\". Analyze cues: hypercapnic (type II) failure is a PaCO2 above 50 mm Hg WITH a pH below 7.35 (acidemia). Only pH 7.31 with PaCO2 56 meets both. Prioritize hypotheses: a high PaCO2 with a normal pH means chronic compensation, not acute failure, and a low PaO2 with a low PaCO2 is type I. Take action: this client needs prompt support for ventilation (for example, BiPAP if alert) and a search for the cause.",
+        "incorrect": [
+          "The PaCO2 is high, but the pH is normal because the kidneys have fully compensated. That is the chronic, compensated picture of a CO2 retainer, not ACUTE failure, which needs acidemia (pH below 7.35).",
+          "This client meets the 60/60 rule for HYPOXEMIC (type I) failure: PaO2 at or below 60 on 60% oxygen. The PaCO2 is low, so it is not hypercapnic.",
+          "This is a mild respiratory acidosis, but the PaCO2 has not crossed 50 mm Hg, so the 50/50 criteria are not met. It still deserves monitoring."
+        ]
+      }
+    },
+    {
+      "stem": "A client using morphine PCA after abdominal surgery is difficult to arouse. RR 8/min and shallow, SpO2 95% on 3 L/min nasal cannula, HR 64/min. Which action should the nurse take first?",
+      "options": [
+        "Continue to monitor, because an SpO2 of 95% shows that gas exchange is adequate",
+        "Stop the PCA, stimulate the client, support the airway, and obtain an ABG",
+        "Increase the oxygen to 6 L/min so that the saturation stays above 92% overnight",
+        "Raise the head of the bed and have the client use the incentive spirometer every hour"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: RR 8, shallow breathing, and somnolence with a reassuring SpO2 on oxygen, in a client receiving opioids. Analyze cues: oxygenation is measured by PaO2/SaO2 and ventilation by PaCO2. A client can be perfectly oxygenated but failing to ventilate. Opioid overdose is a listed trigger of hypercapnic failure, and lethargy is a sign of CO2 narcosis. Prioritize hypotheses: opioid-induced hypoventilation. Take action: stop the opioid, stimulate the client, maintain the airway (ready to bag), get an ABG, and notify the provider (an opioid reversal agent is usually anticipated). Evaluate outcomes: RR, level of consciousness, and PaCO2 improve.",
+        "incorrect": [
+          "This mistakes good oxygenation for adequate ventilation. Supplemental oxygen can keep the SpO2 normal while CO2 builds up, and that build-up is what makes the client hard to arouse.",
+          "More oxygen treats a saturation problem the client does not have and does nothing for CO2 retention. It also further masks the hypoventilation on the oximeter.",
+          "Positioning helps, but a client who is hard to arouse cannot use an incentive spirometer. This action does not stop the drug that is depressing respirations."
+        ]
+      }
+    },
+    {
+      "stem": "A client admitted with pneumonia becomes anxious and restless over 2 hours. HR has risen from 88 to 118/min, BP from 128/76 to 154/92 mm Hg, and RR from 22 to 30/min. The client can say only a few words between breaths. The family says, \"They always get nervous in hospitals.\" What is the nurse's best interpretation?",
+      "options": [
+        "Situational anxiety; give the PRN lorazepam and reassess the client in 30 minutes",
+        "Uncontrolled pain driving the vital signs up; give the PRN analgesic",
+        "Fever-related tachycardia from the pneumonia; give acetaminophen and push fluids",
+        "Early acute respiratory failure; assess oxygenation and notify the provider"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new restlessness and anxiety, tachycardia, rising BP, tachypnea, and the inability to speak in full sentences. Analyze cues: these are the EARLY warning signs of ARF. The brain is sensitive to falling oxygen, so mental-status changes often come first, along with tachycardia, increased BP, and dyspnea. Prioritize hypotheses: worsening hypoxemia from pneumonia outranks anxiety, pain, or fever. Take action: check SpO2 and breath sounds, raise the HOB, increase oxygen per protocol, obtain an ABG, and notify the provider.",
+        "incorrect": [
+          "A sedative can depress respiratory drive in a client who is already struggling. It treats the cue (anxiety) instead of the cause (hypoxemia). This is an unsafe action based on a wrong hypothesis.",
+          "Pain can raise HR and BP, but it does not explain worsening dyspnea and the inability to speak full sentences. This misses the respiratory pattern.",
+          "Treating fever will not address the respiratory deterioration, and no temperature is given. This anchors on a minor cue."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a severe asthma exacerbation was in the tripod position with RR 36/min and loud wheezing. One hour later the client is slumped in bed, drowsy, RR 12/min, SpO2 89%, with faint breath sounds and little wheezing. Which action is the priority?",
+      "options": [
+        "Call the rapid response team and prepare for ventilatory support, because the client is tiring",
+        "Document that the client is improving after the bronchodilator and reassess in 1 hour",
+        "Cluster care so the exhausted client can sleep, and recheck the SpO2 in 30 minutes",
+        "Lower the oxygen flow, because oxygen may be suppressing the client's drive to breathe"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: RR has dropped from 36 to 12, the client is now drowsy, breath sounds are faint (a \"quiet chest\"), and SpO2 is 89%. Analyze cues: the lecture's \"Watch the Trend\" warning says a sudden decrease in respiratory rate in a struggling client may signal fatigue and imminent respiratory arrest, not improvement. Lethargy suggests CO2 narcosis. Prioritize hypotheses: impending respiratory arrest. Take action: call for help, stay with the client, have a bag-valve-mask ready, and prepare for NIV or intubation.",
+        "incorrect": [
+          "This is the trap the lecture warns about. A falling RR in a client who was struggling is not improvement when it comes with drowsiness, faint breath sounds, and a low SpO2. Evaluate outcomes is misapplied here.",
+          "The client is exhausted, but sleep is not the issue. Respiratory muscle fatigue leads to arrest, and waiting 30 minutes delays the needed escalation.",
+          "The SpO2 is already 89%, and this client has asthma, not chronic CO2 retention. Reducing oxygen worsens hypoxemia and does nothing for muscle fatigue."
+        ]
+      }
+    },
+    {
+      "stem": "A client with acute respiratory failure has been on a non-rebreather mask for 3 hours. Which findings indicate LATE deterioration that requires immediate intervention? Select all that apply.",
+      "options": [
+        "Bluish discoloration of the lips and oral mucosa",
+        "HR has fallen from 124 to 50/min, with BP 80/44 mm Hg",
+        "New restlessness and anxiety",
+        "Responds only to loud voice and falls back asleep",
+        "BP has risen from 130/80 to 156/94 mm Hg",
+        "Unable to speak in full sentences"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize and analyze cues by separating early signs (restlessness, anxiety, tachycardia, increased BP, inability to speak full sentences) from late ones (central cyanosis, accessory muscles and paradoxical breathing, lethargy to coma from CO2 narcosis, and bradycardia with hypotension). Prioritize hypotheses: late signs mean impending arrest. Take action: call for help and prepare for intubation and mechanical ventilation.",
+        "incorrect": [
+          "Correct—central cyanosis of the lips and mucous membranes is a very late sign of hypoxemia.",
+          "Correct—bradycardia and hypotension after tachycardia signal impending cardiac arrest, not recovery.",
+          "Incorrect—restlessness and anxiety are EARLY signs (the brain reacts quickly to low oxygen). They need attention but are not late findings.",
+          "Correct—lethargy and somnolence progressing toward coma reflect CO2 narcosis, a late sign.",
+          "Incorrect—an increased BP is an early compensatory sign. Late failure brings hypotension.",
+          "Incorrect—dyspnea with the inability to speak full sentences is listed as an early warning sign. Two-word dyspnea signals extreme distress, but the late cluster is cyanosis, somnolence, bradycardia, and hypotension."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is assigned four clients. Which client is at greatest risk of developing hypercapnic (ventilatory) respiratory failure in the next few hours?",
+      "options": [
+        "A client with pneumonia whose SpO2 is 90% on 2 L/min and who is talking comfortably",
+        "A client with heart failure who has bibasilar crackles, orthopnea, and an SpO2 of 93% on 2 L/min",
+        "A client with myasthenia gravis whose cough is weakening and vital capacity is falling",
+        "A client 2 days after a pulmonary embolism whose RR is 24/min on heparin"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a weakening cough, dysphagia, and a falling vital capacity in a client with a neuromuscular disease. Analyze cues: hypercapnic failure is a failure of the ventilatory pump, an imbalance between ventilatory supply and demand. Neuromuscular disease is a listed trigger, with myasthenia gravis at the neuromuscular junction. Weak respiratory muscles cannot move enough air, so CO2 builds up. Prioritize hypotheses: this client is at highest risk of a rising PaCO2. The other three are type I (oxygenation) problems. Take action: monitor respiratory effort and ABGs closely and anticipate ventilatory support.",
+        "incorrect": [
+          "Pneumonia is a trigger of hypoxemic (type I) failure through shunting. This client's oxygenation is borderline but stable, and nothing suggests the client is failing to move air.",
+          "Pulmonary edema impairs oxygenation (type I) and needs monitoring, but this client is stable and has no signs of a failing respiratory pump.",
+          "A PE causes dead space and type I hypoxemia, usually with a low PaCO2 from tachypnea. This client is being treated and has no signs of a failing respiratory pump."
+        ]
+      }
+    },
+    {
+      "stem": "A client who received several doses of IV hydromorphone after surgery has the following ABG: pH 7.27, PaCO2 58 mm Hg, HCO3 25 mEq/L, PaO2 70 mm Hg. Which interpretation is correct and should guide the nurse's priority?",
+      "options": [
+        "Partially compensated respiratory acidosis; the kidneys are already retaining bicarbonate",
+        "Uncompensated metabolic acidosis; check lactate and assess perfusion",
+        "Uncompensated respiratory acidosis; improve ventilation by addressing the opioid effect",
+        "Fully compensated respiratory acidosis; no new intervention is needed"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pH 7.27 (acid), PaCO2 58 (acid), HCO3 25 (normal). Analyze cues: the pH and PaCO2 move in the same acid direction, so the problem is respiratory acidosis from hypoventilation. HCO3 is still normal, so it is uncompensated, the same pattern as the lecture's worked example (7.25/55/24). Prioritize hypotheses: opioid-induced hypoventilation. Take action: stimulate the client, encourage deep breaths, hold further opioids, and notify the provider (a reversal agent may be needed). Evaluate outcomes: PaCO2 falls and pH returns toward normal.",
+        "incorrect": [
+          "The HCO3 of 25 is normal, so no compensation has started. Kidney compensation is a slow process, which fits this acute picture.",
+          "The HCO3 is normal and the PaCO2 is high, so the cause is respiratory, not metabolic.",
+          "Full compensation needs a pH back within 7.35–7.45. A pH of 7.27 is clearly acidemic."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a COPD exacerbation is alert and follows commands but is using accessory muscles. ABG on 2 L/min nasal cannula: pH 7.32, PaCO2 64 mm Hg, HCO3 34 mEq/L, PaO2 52 mm Hg. Which interpretation and plan does the nurse anticipate?",
+      "options": [
+        "Partially compensated respiratory acidosis with hypoxemia; anticipate BiPAP",
+        "Fully compensated respiratory acidosis; continue the current oxygen and home regimen",
+        "Partially compensated metabolic alkalosis; anticipate IV fluids and an antiemetic",
+        "Uncompensated respiratory acidosis; prepare for immediate intubation"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pH 7.32 (acid), PaCO2 64 (acid), HCO3 34 (base), PaO2 52, in an alert, cooperative client with COPD. Analyze cues: the PaCO2 matches the pH, so the problem is respiratory. The HCO3 is rising to compensate, but the pH is still abnormal, so it is partially compensated. A PaO2 below 60 is severe hypoxemia, and the PaCO2 above 50 with pH below 7.35 meets the 50/50 rule for hypercapnic failure. Generate solutions: BiPAP's IPAP augments ventilation to blow off CO2, and COPD exacerbation is its primary indication. Evaluate outcomes: falling PaCO2 and RR.",
+        "incorrect": [
+          "The pH of 7.32 is below 7.35, so compensation is incomplete. Calling it fully compensated would leave acute hypercapnic failure untreated.",
+          "The elevated HCO3 is the kidneys' compensation. The pH is acidic, so the primary problem cannot be alkalosis.",
+          "The HCO3 is elevated, so compensation has begun. The client is also alert and cooperative, which are inclusion criteria for NIV. Intubating before trying BiPAP skips the least invasive effective option."
+        ]
+      }
+    },
+    {
+      "stem": "A client in the ED says, \"I can't catch my breath and my fingers are tingling.\" The client is breathing deeply at 34/min. ABG: pH 7.51, PaCO2 27 mm Hg, HCO3 23 mEq/L, PaO2 98 mm Hg. A PE and other medical causes have been ruled out, and the client describes a panic attack. Which nursing action best addresses the ABG findings?",
+      "options": [
+        "Apply a non-rebreather mask at 15 L/min to correct the client's hypoxemia",
+        "Prepare to start BiPAP to reduce the client's work of breathing",
+        "Request potassium and calcium replacement to treat the tingling in the client's extremities",
+        "Stay with the client and coach slow, controlled breathing to reduce the rate"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pH 7.51 (base), PaCO2 27 (base), HCO3 23 (normal), PaO2 98, with deep, rapid breathing, tingling, and anxiety. Analyze cues: this is uncompensated respiratory alkalosis from hyperventilation. Its manifestations include deep rapid breathing, tingling of the extremities, confusion, and seizures. Prioritize hypotheses: anxiety-driven hyperventilation once medical causes are excluded. Take action: stay with the client and coach slow breathing. Evaluate outcomes: RR slows, tingling resolves, and PaCO2 returns toward 35–45.",
+        "incorrect": [
+          "The PaO2 is 98 mm Hg, so the client is not hypoxemic. Applying a tight mask may increase panic without treating the problem.",
+          "BiPAP is for ventilatory failure, which means CO2 RETENTION. This client is blowing off too much CO2.",
+          "The tingling is a manifestation of respiratory alkalosis. Treating the symptom with electrolytes does not fix the hyperventilation that causes it."
+        ]
+      }
+    },
+    {
+      "stem": "A client has had an NG tube to low intermittent suction for 4 days because of a bowel obstruction. The client is breathing slowly and reports nausea. ABG: pH 7.43, PaCO2 49 mm Hg, HCO3 32 mEq/L, PaO2 84 mm Hg. Which interpretation and nursing focus are correct?",
+      "options": [
+        "Fully compensated respiratory acidosis; prepare for BiPAP to lower the PaCO2",
+        "Partially compensated metabolic alkalosis; anticipate a sodium bicarbonate infusion",
+        "Fully compensated metabolic alkalosis; monitor the cardiac rhythm and report it",
+        "Normal ABG; continue the current plan of care"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a normal pH of 7.43 with a high HCO3 of 32 and a high PaCO2 of 49, after prolonged NG suction. Analyze cues: when the pH is normal, see which side of 7.40 it falls on. At 7.43 it is alkaline, and the value that matches alkalosis is the HCO3, so the primary problem is metabolic alkalosis from loss of acid. Slow breathing (CO2 retention) is the respiratory compensation, and it is complete because the pH is normal. Take action: manifestations include slow respirations, restlessness, nausea and vomiting, and arrhythmias, so monitor the rhythm and report for electrolyte and fluid correction.",
+        "incorrect": [
+          "This is the tempting misread. The pH is on the alkaline side of 7.40, and the client has lost gastric acid, so the high HCO3 is the primary problem. The raised PaCO2 is the lungs compensating. BiPAP would blow off CO2 the body is keeping on purpose.",
+          "The pH is within 7.35–7.45, so compensation is full, not partial. Bicarbonate would worsen an alkalosis.",
+          "The pH is normal, but both the PaCO2 and the HCO3 are abnormal. That signals a compensated imbalance, not a normal gas."
+        ]
+      }
+    },
+    {
+      "stem": "A client with diabetic ketoacidosis is breathing deeply and rapidly at 32/min. ABG: pH 7.24, PaCO2 30 mm Hg, HCO3 14 mEq/L, PaO2 96 mm Hg. A nursing student asks whether the client needs help slowing the breathing. What is the nurse's best response?",
+      "options": [
+        "\"Yes. This is respiratory alkalosis, so coaching slower, deeper breaths will correct it.\"",
+        "\"No. This is partially compensated metabolic acidosis; the breathing is compensating.\"",
+        "\"No. This is uncompensated respiratory acidosis, and the client needs BiPAP to lower the CO2.\"",
+        "\"Yes. A rate of 32 means the client is tiring and needs intubation for a failing airway.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pH 7.24 (acid), HCO3 14 (acid), PaCO2 30 (base), with deep, rapid respirations in DKA. Analyze cues: the HCO3 matches the acidic pH, so the primary problem is metabolic acidosis. The low PaCO2 shows the lungs compensating, and the pH is still abnormal, so it is partially compensated. Kussmaul respirations, LOC changes, and muscle twitching are expected manifestations. Generate solutions: treat the cause (the DKA protocol) rather than suppressing the compensation. Evaluate outcomes: as HCO3 rises, the RR and depth return to normal.",
+        "incorrect": [
+          "The pH is acidic, so this cannot be respiratory alkalosis. Coaching slower breathing would remove the client's compensation and drop the pH further.",
+          "The PaCO2 is LOW (30), not high, and it is moving in the compensating direction. The primary problem is the low HCO3.",
+          "Kussmaul breathing in DKA is deep, regular, and compensatory, and the PaO2 is normal. Nothing suggests airway failure, so this misreads the cue."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a COPD exacerbation started BiPAP 2 hours ago. Baseline: pH 7.28, PaCO2 70 mm Hg, RR 32/min, drowsy. Which reassessment data best show that the therapy is working?",
+      "options": [
+        "SpO2 has risen from 88% to 99%; ABG pH 7.27, PaCO2 72 mm Hg",
+        "RR is 12/min and the client is harder to arouse; PaCO2 78 mm Hg",
+        "HCO3 has risen from 34 to 38 mEq/L; PaCO2 is unchanged at 70 mm Hg",
+        "RR is 22/min and the client is more alert; ABG pH 7.34, PaCO2 58 mm Hg"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the lecture states that NIV success is judged by improved ABGs and a decreasing respiratory rate. A falling PaCO2 with a rising pH, a lower RR, and better alertness show that IPAP is improving ventilation and reducing the work of breathing. Analyze cues: a better SpO2 alone shows oxygenation, not ventilation. A low RR with somnolence signals failure, not success.",
+        "incorrect": [
+          "Oxygenation improved, but the ventilation problem has not. The PaCO2 is unchanged or worse, so BiPAP is not achieving its goal. This confuses oxygenation with ventilation.",
+          "A falling RR with worsening drowsiness and a rising PaCO2 means fatigue and CO2 narcosis. This is treatment failure that needs escalation toward intubation.",
+          "A rising HCO3 is slow kidney compensation, not evidence that BiPAP is improving ventilation."
+        ]
+      }
+    },
+    {
+      "stem": "A newly hired nurse reviews the ABG of a client with chronic COPD: pH 7.36, PaCO2 58 mm Hg, HCO3 33 mEq/L, PaO2 64 mm Hg. Which statement by the new nurse indicates a need for further teaching?",
+      "options": [
+        "\"The pH is normal but on the acidic side of 7.40, so the primary problem is the high CO2.\"",
+        "\"The high bicarbonate shows the kidneys compensating, so this probably developed over days.\"",
+        "\"This is fully compensated respiratory acidosis, but I'll still report a PaO2 that falls below 60.\"",
+        "\"Since the PaCO2 is over 50, this client meets the 50/50 rule for acute hypercapnic failure.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the 50/50 rule for acute hypercapnic failure needs BOTH a PaCO2 above 50 AND a pH below 7.35 (acidemia). This client's pH of 7.36 is normal because the kidneys have compensated over time, so this is chronic compensated respiratory acidosis, not acute failure. The new nurse applied only half of the rule. Generate solutions: teach the new nurse to always check the pH alongside the PaCO2 and to watch for a pH drop, which would signal acute-on-chronic failure.",
+        "incorrect": [
+          "This is correct reasoning. With a normal pH, the side of 7.40 points to the primary disturbance, and acid matches the high PaCO2.",
+          "This is correct. Kidney compensation is a slow process, so a high HCO3 indicates a chronic CO2 retainer.",
+          "This is correct. The interpretation is accurate, and a PaO2 below 60 mm Hg is severe hypoxemia."
+        ]
+      }
+    },
+    {
+      "stem": "A client with acute respiratory failure has slid down in bed with the HOB at 10°. The client has snoring respirations and an SpO2 of 84% on 4 L/min nasal cannula. The provider has prescribed an ABG, a nebulized albuterol treatment, and IV methylprednisolone. Which action should the nurse take first?",
+      "options": [
+        "Draw the ABG so that treatment decisions are based on accurate data",
+        "Open the airway with a jaw thrust and raise the HOB above 30°",
+        "Give the nebulized albuterol to open the narrowed bronchioles",
+        "Replace the nasal cannula with a non-rebreather mask at 15 L/min"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: snoring respirations (partial upper-airway obstruction), SpO2 84%, and a nearly flat HOB. Prioritize hypotheses: airway obstruction comes first under ABC. Take action: the lecture's acute actions are, in order, maintain the airway, maximize oxygen delivery, and position with the HOB above 30°. The collaborative steps (ABGs, bronchodilators, corticosteroids, preparing for advanced support) follow. Evaluate outcomes: snoring resolves and SpO2 rises once the airway is open and oxygen is escalated.",
+        "incorrect": [
+          "The ABG is important collaborative data, but obtaining it does not open the airway or improve oxygen delivery. Assessment does not outrank fixing an obstructed airway.",
+          "Bronchodilators are part of collaborative care, but snoring respirations mean upper-airway obstruction. A neb cannot reach the lungs through an obstructed airway.",
+          "Maximizing oxygen delivery is the next step, but oxygen cannot reach the alveoli until the airway is open. Right action, wrong priority."
+        ]
+      }
+    },
+    {
+      "stem": "A client with pneumonia has a new prescription: \"Oxygen via simple face mask at 3 L/min, titrate to SpO2 greater than 92%.\" Which action should the nurse take?",
+      "options": [
+        "Apply the simple mask at 3 L/min and recheck the SpO2 in 15 minutes",
+        "Apply the simple mask at 3 L/min and add humidification for comfort",
+        "Clarify the order, because a simple mask needs at least 5 L/min",
+        "Apply a non-rebreather mask at 3 L/min instead of the simple mask"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the prescription pairs a simple mask with 3 L/min. Analyze cues: a simple mask runs at 5–10 L/min (FiO2 40–60%), and a MINIMUM of 5 L/min is needed to flush exhaled CO2 from the mask. Prioritize hypotheses: as written, the order risks CO2 rebreathing. Take action: clarify with the provider (for example, nasal cannula at 3 L/min, which delivers 24–44% at 1–6 L/min, or a simple mask at 5 L/min or more).",
+        "incorrect": [
+          "Running a simple mask below 5 L/min lets exhaled CO2 collect in the mask, so the client rebreathes it. Carrying out the order as written is unsafe.",
+          "Humidification does not fix the problem. The flow is still too low to flush CO2 out of the mask.",
+          "A non-rebreather needs 10–15 L/min to keep the reservoir filled. Choosing a different device and running it at the wrong flow is also outside the order."
+        ]
+      }
+    },
+    {
+      "stem": "A client without chronic lung disease has an SpO2 of 85% on 6 L/min nasal cannula. RR is 30/min, and the client is alert. The prescription reads \"titrate oxygen to keep SpO2 above 90%.\" Which device change should the nurse make?",
+      "options": [
+        "Non-rebreather mask at 15 L/min",
+        "Simple face mask at 8 L/min",
+        "Nasal cannula increased to 10 L/min",
+        "Venturi mask set at 40%"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: SpO2 85% on the maximum nasal-cannula flow, RR 30, alert, no CO2-retention history. Analyze cues: a nasal cannula tops out at 6 L/min (24–44%). A simple mask gives 40–60%, and a non-rebreather gives 60–90% at 10–15 L/min, the highest FiO2 available without ventilation. Take action: apply the non-rebreather and keep the reservoir bag inflated. Evaluate outcomes: SpO2 rises above 90% and the RR falls. If it does not, prepare for HFNC, NIV, or intubation.",
+        "incorrect": [
+          "A simple mask delivers only 40–60% FiO2. That is a small step up for a client already this hypoxemic on the maximum cannula flow.",
+          "A standard nasal cannula is a low-flow device rated for 1–6 L/min. Higher flows dry the mucosa without reliably raising the FiO2.",
+          "A Venturi gives a precise FiO2, which is ideal for COPD, but 40% is not enough of an increase for this client. Precision is not the goal here; a higher FiO2 is."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a COPD exacerbation and a PaCO2 of 58 mm Hg is switched to a Venturi mask at 28%. Which statement by the orienting nurse indicates a need for further teaching?",
+      "options": [
+        "\"The colored adapter sets the FiO2, so I'll check that it matches the 28% prescription.\"",
+        "\"A Venturi is a good choice here because it delivers a precise oxygen concentration.\"",
+        "\"If the client prefers, a nasal cannula at 2 L/min would deliver the same precise FiO2.\"",
+        "\"I'll watch for new drowsiness, because it could mean the client's CO2 is rising.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: a nasal cannula delivers a range (24–44% at 1–6 L/min) that changes with the client's breathing pattern, so its FiO2 is NOT precise. The Venturi gives a precise FiO2, and that is why it is the preferred device for a client with COPD who retains CO2. Generate solutions: teach the orienting nurse that switching devices changes the FiO2 the client gets and needs a provider order. Evaluate outcomes: target SpO2 and stable mental status on the set FiO2.",
+        "incorrect": [
+          "This is correct. The Venturi adapter determines the delivered FiO2, so checking it against the order is the right safety step.",
+          "This is correct. The lecture names the Venturi as the precise-FiO2 device that is ideal for COPD.",
+          "This is correct. Lethargy and somnolence are signs of CO2 narcosis in a client who retains CO2."
+        ]
+      }
+    },
+    {
+      "stem": "A client with hypoxemic respiratory failure is placed on high-flow nasal cannula (HFNC) at 50 L/min and 60% FiO2. Which statement by the orienting nurse indicates a need for further teaching?",
+      "options": [
+        "\"Like any nasal cannula, it gives no PEEP, so I'll watch for alveolar collapse.\"",
+        "\"The gas is heated and humidified so it won't dry the airway and it helps thin secretions.\"",
+        "\"The high flow washes out dead space in the upper airway, so more of each breath is fresh gas.\"",
+        "\"The client can talk and eat with the cannula in place, which most clients prefer over a mask.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: HFNC differs from a standard cannula. It delivers up to 60 L/min of heated, humidified oxygen AND a small amount of PEEP (about 3–5 cm H2O), which helps keep alveoli open. The orienting nurse has applied low-flow cannula reasoning to a high-flow device. Generate solutions: teach that removing HFNC (for example, at meals) costs the client both FiO2 and PEEP, and that HFNC lets the client eat with it in place.",
+        "incorrect": [
+          "This is correct. Heating and humidification prevent airway drying, thin secretions, and lower the metabolic cost of conditioning the gas.",
+          "This is correct. HFNC reduces upper-airway dead space.",
+          "This is correct. HFNC is more comfortable than a mask and allows talking and eating."
+        ]
+      }
+    },
+    {
+      "stem": "The respiratory therapist plans to start BiPAP on four clients. Which client should the nurse identify as an inappropriate candidate and discuss with the provider?",
+      "options": [
+        "A client with a COPD exacerbation who is alert and cooperative, PaCO2 62 mm Hg",
+        "A client awaiting lung transplantation with worsening hypercapnia",
+        "An immunocompromised client with hypoxemia who has an intact cough and gag reflex",
+        "A client with aspiration pneumonia who has vomited twice in the last hour"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: active vomiting in a client about to wear a sealed face mask. Analyze cues: NIV exclusion criteria are altered mental status, vomiting, and facial trauma. Vomiting under a sealed mask can lead to aspiration, and NIV also causes gastric insufflation, which worsens nausea. Prioritize hypotheses: this client is the one at risk of harm. Take action: hold the BiPAP and discuss other support (for example, HFNC, or intubation if failing) with the provider.",
+        "incorrect": [
+          "COPD exacerbation is the primary BiPAP indication, and alert and cooperative are inclusion criteria.",
+          "Clients awaiting lung transplant are a listed NIPPV indication, so BiPAP is appropriate as a bridge.",
+          "NIV is specifically indicated for immunocompromised clients because it avoids the infection risk of intubation."
+        ]
+      }
+    },
+    {
+      "stem": "A client has been on BiPAP by full face mask for 12 hours for a COPD exacerbation. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        "Apply a hydrocolloid dressing to the bridge of the nose",
+        "Provide frequent oral care and check the humidifier water level",
+        "Loosen the mask straps so air leaks freely around the edges",
+        "Assess for abdominal distention and nausea",
+        "Give the PRN sedative so the client will tolerate the mask",
+        "Trend the ABGs and respiratory rate to judge the response"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions and take action: nursing care for NIV targets its known complications (pressure ulcers on the nasal bridge, gastric distention, dry mouth, claustrophobia and anxiety) while keeping the seal and the client's alertness intact. Evaluate outcomes: improved ABGs and a falling RR.",
+        "incorrect": [
+          "Correct—the nasal bridge is at high risk for pressure injury under the mask, and hydrocolloid protects it.",
+          "Correct—NIV dries the oral cavity, so frequent oral care and a working humidifier counter it.",
+          "Incorrect—BiPAP delivers pressure through a SEALED mask. A large leak defeats IPAP and EPAP, so the goal is a snug fit with padding, not a leak.",
+          "Correct—swallowed air (aerophagia) causes gastric distention and can lead to vomiting and aspiration.",
+          "Incorrect—NIV requires an alert, cooperative client with intact protective reflexes. Sedation creates altered mental status, which is an exclusion criterion. Address claustrophobia with coaching instead.",
+          "Correct—improved ABGs and a decreasing RR are the markers of NIV success."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a COPD exacerbation who is alert has an ABG of pH 7.29, PaCO2 66 mm Hg, PaO2 58 mm Hg. The provider is choosing noninvasive support. Which option does the nurse anticipate, and why?",
+      "options": [
+        "CPAP, because one continuous pressure level clears CO2 most effectively",
+        "BiPAP, because IPAP augments each breath to help remove CO2",
+        "High-flow nasal cannula at 60 L/min, because its PEEP corrects the hypercapnia",
+        "Non-rebreather at 15 L/min, because the highest FiO2 is the priority"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: acidemia with a PaCO2 of 66 in an alert client with COPD, which is hypercapnic failure. Analyze cues: BiPAP delivers two pressures. IPAP (inspiration) augments spontaneous breaths, which supports ventilation and CO2 removal. EPAP (expiration) prevents airway collapse and supports oxygenation. COPD exacerbation is BiPAP's listed indication. Take action: anticipate BiPAP and coach the client, because success is greatest with motivated clients. Evaluate outcomes: PaCO2 and RR fall.",
+        "incorrect": [
+          "CPAP gives one continuous pressure that keeps alveoli open and helps oxygenation. It is used for sleep apnea and cardiogenic pulmonary edema. It does not add an inspiratory boost to move CO2 out.",
+          "HFNC gives only about 3–5 cm H2O of PEEP and is mainly an oxygenation tool. It does not provide inspiratory pressure support for hypercapnic failure.",
+          "The main problem is ventilation (PaCO2 66, pH 7.29). A high FiO2 does nothing to remove CO2 and can mask worsening hypercapnia."
+        ]
+      }
+    },
+    {
+      "stem": "A client newly diagnosed with obstructive sleep apnea will go home on nightly CPAP. Which statement indicates a need for further teaching?",
+      "options": [
+        "\"The machine gives one steady pressure that keeps my airway open while I breathe in and out.\"",
+        "\"If my mouth gets very dry, I'll turn off the humidifier so less water collects in the tubing.\"",
+        "\"If the bridge of my nose gets red or sore, I'll ask about a protective cushion or dressing.\"",
+        "\"If I wake up with a bloated stomach, I'll mention it at my follow-up visit.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: dryness of the oral cavity is a known NIV complication, and the fix is the opposite of what the client said. Nursing care is frequent oral care and CHECKING (keeping) the humidifier filled. Turning off the humidifier would worsen dryness and make the client less likely to keep using CPAP. Generate solutions: reteach humidifier use and mouth care. Evaluate outcomes: the client uses CPAP nightly without mucosal dryness.",
+        "incorrect": [
+          "This is correct. CPAP delivers one continuous pressure during inhalation and exhalation to keep the airway and alveoli open.",
+          "This is correct. The nasal bridge is a common pressure-injury site, and hydrocolloid padding is recommended.",
+          "This is correct. Swallowed air causes gastric distention, a known complication worth reporting."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse in the ED is caring for four clients with respiratory problems. Which client most clearly needs endotracheal intubation now?",
+      "options": [
+        "A client with a COPD exacerbation on BiPAP, alert, whose PaCO2 has fallen from 70 to 60 mm Hg",
+        "A client with pneumonia on HFNC, SpO2 91%, talking in full sentences",
+        "A client after an overdose with a GCS of 7, gurgling respirations, and SpO2 92% on a non-rebreather",
+        "A client with asthma whose RR fell from 32 to 24/min and who speaks in longer phrases after albuterol"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: GCS 7 with gurgling (pooled secretions) in a client after an overdose. Analyze cues: the indications for mechanical ventilation include apnea or impending arrest, distress unresponsive to NIV, INABILITY TO PROTECT THE AIRWAY (GCS below 8), severe hypoxemia or acidosis, and fatigue. Altered mental status also rules out NIV. Prioritize hypotheses: aspiration and airway loss are imminent even though the SpO2 is acceptable. Take action: prepare for intubation (suction, laryngoscope, monitoring).",
+        "incorrect": [
+          "This client is responding to NIV (alert, PaCO2 improving). NIV's goal is to avoid intubation, and here it is working.",
+          "This client has borderline oxygenation but is stable and maintaining the airway. Monitor closely, but there is no current indication.",
+          "This client shows true improvement: a lower RR together with BETTER speech, not drowsiness. That is the opposite of the fatigue pattern."
+        ]
+      }
+    },
+    {
+      "stem": "Immediately after intubation, the capnography waveform confirms exhaled CO2. Breath sounds are clear on the right but absent on the left, and the SpO2 is 89%. Which action should the nurse take?",
+      "options": [
+        "Secure the tube at its current depth and send for the confirmatory chest x-ray",
+        "Raise the FiO2 to 100% and suction the left side of the airway",
+        "Remove the tube and resume bag-mask ventilation, because the tube is in the esophagus",
+        "Report the unequal breath sounds so the tube can be pulled back, then reassess"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: CO2 is detected, but breath sounds are present only on the right and the SpO2 is low. Analyze cues: placement is confirmed with ALL THREE of end-tidal CO2, bilateral breath sounds, and a chest x-ray. Exhaled CO2 means the tube is in the airway, but one-sided breath sounds suggest it has gone too far into the right mainstem bronchus. Take action: report so the tube can be withdrawn slightly, then confirm equal breath sounds and get the x-ray. Document the tube size and depth (cm at the lip).",
+        "incorrect": [
+          "Securing a tube that is ventilating only one lung locks in the problem. The x-ray confirms position; it does not replace acting on unequal breath sounds.",
+          "Oxygen and suction do not fix the cause. The tube is in the wrong place, and the left lung is not being ventilated.",
+          "Exhaled CO2 on capnography shows the tube is in the airway, not the esophagus. Removing it is unnecessary and dangerous."
+        ]
+      }
+    },
+    {
+      "stem": "A client recovering from pneumonia is changed from assist-control to pressure support ventilation for a weaning trial. Which finding 30 minutes later best indicates the client is tolerating the trial?",
+      "options": [
+        "RR 34/min with tidal volumes of 250 mL and visible neck-muscle use",
+        "RR 18/min, steady tidal volumes, SpO2 94%, and the client appears calm",
+        "HR has risen from 88 to 126/min, with new diaphoresis and anxiety",
+        "RR 8/min, and the client has become difficult to arouse"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: in pressure support, the CLIENT controls the respiratory rate, flow, and tidal volume, and the ventilator only adds pressure to augment each breath. That is why PS is used for weaning. A normal rate, steady volumes, good oxygenation, and calm behavior show the client can carry the work of breathing. Analyze cues: rapid, shallow breathing, tachycardia with diaphoresis, or a slow rate with somnolence all signal failure.",
+        "incorrect": [
+          "Rapid, shallow breathing with accessory-muscle use means the client cannot sustain the work of breathing. This is weaning failure.",
+          "Tachycardia, diaphoresis, and anxiety are signs of distress (the early warning signs of failure). The trial should be stopped and the client returned to full support.",
+          "In pressure support the client sets the rate. A rate of 8 with somnolence means hypoventilation and probable CO2 retention, not comfort."
+        ]
+      }
+    },
+    {
+      "stem": "A client with sepsis is on pressure-regulated volume control (PRVC) with a set tidal volume of 420 mL. Over 6 hours the delivered volume stays at 420 mL, but the airway pressure needed has risen steadily from 18 to 30 cm H2O. Which interpretation is most accurate?",
+      "options": [
+        "The ventilator is malfunctioning, because pressure should stay constant in this mode",
+        "The client is taking spontaneous breaths between mandatory breaths, which raises the pressure",
+        "Lung compliance is falling, so the ventilator is raising pressure to deliver the volume",
+        "The tidal volume will soon drop automatically to protect the lungs, so no action is needed"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a steady volume with a steadily rising pressure requirement, in a client with sepsis (the most common indirect cause of ARDS). Analyze cues: PRVC is a variation of assist-control. It aims for the set tidal volume at the lowest possible pressure and adjusts pressure breath to breath based on airway resistance and compliance. A steady rise means the lungs are getting stiffer or resistance is increasing. Prioritize hypotheses: developing ARDS (stiff, non-compliant lungs). Take action: assess, and report the trend for an ABG and chest x-ray.",
+        "incorrect": [
+          "In PRVC the pressure is meant to vary from breath to breath. Changing pressure is the mode working as designed, not a malfunction.",
+          "This describes SIMV. It does not explain a steady rise in the pressure needed to deliver the same volume.",
+          "PRVC's goal is to deliver the SET tidal volume consistently, not to reduce it. A steady pressure rise is a worsening trend to report, not to ignore."
+        ]
+      }
+    },
+    {
+      "stem": "A client on mechanical ventilation has settings of FiO2 80% and PEEP 5 cm H2O. The latest ABG shows PaO2 168 mm Hg and SaO2 100%. Which change does the nurse anticipate?",
+      "options": [
+        "Keep the FiO2 at 80%, because a high PaO2 gives a safety reserve",
+        "Decrease the respiratory rate, which will bring the PaO2 down",
+        "Increase the PEEP to 10 cm H2O so the FiO2 can be lowered later",
+        "Wean the FiO2 per protocol while keeping the SaO2 above 90%"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: PaO2 168 and SaO2 100% on 80% FiO2, so the client is over-oxygenated. Analyze cues: the ventilator-settings goal is an SaO2 above 90% on the LOWEST possible FiO2 (range 21–100%) to prevent oxygen toxicity. Generate solutions: lower the FiO2, which is the oxygenation lever. The rate controls CO2, and PEEP is for recruitment. Evaluate outcomes: SaO2 stays above 90% on a lower FiO2.",
+        "incorrect": [
+          "Keeping an unnecessarily high FiO2 exposes the lungs to oxygen toxicity. The goal is the LOWEST FiO2 that keeps SaO2 above 90%, not a reserve.",
+          "The respiratory rate mainly controls PaCO2 (ventilation). It is not the way to correct excess oxygenation.",
+          "PEEP is raised to recruit alveoli when oxygenation is POOR. With a PaO2 of 168, more PEEP only adds the risks of barotrauma and hypotension."
+        ]
+      }
+    },
+    {
+      "stem": "The PEEP of a ventilated client with ARDS was increased from 5 to 14 cm H2O. Thirty minutes later the high-pressure alarm sounds. BP is 80/48 mm Hg, HR 128/min, breath sounds are absent on the right, and the trachea is shifted to the left. What should the nurse do?",
+      "options": [
+        "Give a fluid bolus to offset reduced venous return from the higher PEEP",
+        "Suction the endotracheal tube to clear secretions that are triggering the alarm",
+        "Call the provider and prepare for needle decompression of the right chest",
+        "Lower the PEEP back to 5 cm H2O and recheck the blood pressure in 15 minutes"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a recent PEEP increase, a high-pressure alarm, absent right breath sounds, a tracheal shift to the LEFT (the healthy side), and hypotension. Analyze cues: high PEEP can cause barotrauma, meaning alveolar rupture with pneumothorax. Under positive pressure the air cannot escape, causing tension pneumothorax with mediastinal shift and obstructive shock. Prioritize hypotheses: tension pneumothorax outranks PEEP-related hypotension. Take action: needle decompression STAT, followed by a chest tube.",
+        "incorrect": [
+          "High PEEP can cause hypotension by reducing venous return, but that does not explain absent breath sounds and tracheal deviation. Treating only the BP misses the life threat.",
+          "Secretions do cause high-pressure alarms, but they do not cause a one-sided loss of breath sounds with a tracheal shift and shock.",
+          "Changing settings independently and waiting 15 minutes delays treatment of an obstructive shock that is already happening."
+        ]
+      }
+    },
+    {
+      "stem": "The high-pressure alarm sounds for a client on mechanical ventilation. The client is coughing, coarse rhonchi are heard over the trachea, secretions are visible in the endotracheal tube, and the SpO2 has dropped from 96% to 91%. Which action should the nurse take first?",
+      "options": [
+        "Suction the endotracheal tube",
+        "Increase the high-pressure alarm limit",
+        "Give the PRN sedative for ventilator asynchrony",
+        "Obtain a chest x-ray to check for a pneumothorax"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a high-pressure alarm with coughing, tracheal rhonchi, visible secretions, and a falling SpO2. Analyze cues: a high-pressure alarm means airflow is meeting high resistance. Causes include a mucus plug or secretions, a kinked or bitten tube, coughing or fighting the ventilator, a displaced tube, bronchospasm, and pneumothorax. These cues point to secretions. Take action: suction. Evaluate outcomes: the alarm stops, rhonchi clear, and SpO2 returns to baseline. If it does not, check the other causes.",
+        "incorrect": [
+          "Raising the limit silences the warning without removing the obstruction, so the client keeps being under-ventilated.",
+          "The coughing is caused by secretions. Sedation treats the reaction rather than the obstruction, which stays in the tube.",
+          "Pneumothorax is a high-pressure cause, but the cues point to secretions. An x-ray delays the simple fix that is right in front of the nurse."
+        ]
+      }
+    },
+    {
+      "stem": "The low-pressure alarm sounds for a client on mechanical ventilation. The client can mouth words with an audible whisper, air can be heard escaping from the mouth with each breath, the tube depth is unchanged at 23 cm at the lip, and the SpO2 is falling from 95% to 89%. Which action is correct?",
+      "options": [
+        "Silence the alarm and reassure the client that being able to talk is a good sign",
+        "Suction the endotracheal tube, because secretions are triggering the alarm",
+        "Advance the tube 2 cm, because it has probably migrated upward",
+        "Check the cuff and pilot balloon; bag-ventilate if not fixed in seconds"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a low-pressure alarm, a client who can vocalize, audible air escaping, unchanged tube depth, and a falling SpO2. Analyze cues: a low-pressure alarm means pressure is escaping. Causes include disconnection, a circuit leak, a cuff leak (the client can talk or air is heard), and dislodgement. An unchanged depth plus voicing points to the cuff. Take action: check the cuff and pilot balloon and call RT. Follow the lecture's rule: if it cannot be fixed in seconds, use bag-valve-mask ventilation.",
+        "incorrect": [
+          "Speech in an intubated client means air is passing AROUND the cuff, which is a leak. Silencing the alarm ignores falling ventilation.",
+          "Secretions cause HIGH-pressure alarms. This alarm means pressure is escaping.",
+          "The depth is unchanged at 23 cm, so the tube has not moved. Repositioning a tube is not an independent nursing action."
+        ]
+      }
+    },
+    {
+      "stem": "During a bath, the low-pressure alarm sounds. The nurse finds the endotracheal tube at 15 cm at the lip (documented at 23 cm). The client is moaning and the SpO2 is 82% and falling. What is the nurse's priority action?",
+      "options": [
+        "Deflate the cuff and push the tube back to the documented 23 cm",
+        "Increase the ventilator FiO2 to 100% and observe the client's response",
+        "Call for help and ventilate the client with a bag-valve-mask",
+        "Obtain a stat chest x-ray to confirm where the tube tip lies"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the tube is 8 cm shallower than documented, the client can vocalize, and the SpO2 is falling quickly. Analyze cues: this is tube dislodgement (extubation), a low-pressure alarm cause. Documenting tube depth at the lip is what lets the nurse spot it. Prioritize hypotheses: loss of the airway. Take action: follow the lecture's rule (if you can't fix it in seconds, use BVM ventilation), call for help, and prepare for reintubation. Evaluate outcomes: SpO2 recovers with bagging.",
+        "incorrect": [
+          "Blindly re-advancing a displaced tube can place it in the esophagus. Repositioning is not a nursing action, and it delays ventilation.",
+          "The tube is no longer in the trachea, so more oxygen through it will not reach the lungs. Watching wastes the seconds the client does not have.",
+          "An x-ray confirms position, but the cues already show dislodgement with a falling SpO2. Waiting for imaging delays ventilation."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is planning care for a client intubated 24 hours ago. Which interventions are part of the ventilator-associated pneumonia (VAP) prevention bundle? Select all that apply.",
+      "options": [
+        "Elevate the head of the bed 30–45°",
+        "Oral care that includes regular toothbrushing",
+        "Change the ventilator circuit every 24 hours",
+        "Continuous suctioning of subglottic secretions",
+        "Keep deep sedation running without interruption to prevent self-extubation"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the VAP bundle combines HOB elevation of 30–45°, oral care with brushing, suctioning of the mouth and nose plus continuous subglottic suctioning, hand hygiene with no routine circuit changes, and a daily sedation vacation. PUD and DVT prophylaxis are added. Each element either reduces aspiration of contaminated secretions or shortens time on the ventilator.",
+        "incorrect": [
+          "Correct—HOB elevation of 30–45° decreases aspiration of oral secretions.",
+          "Correct—regular brushing reduces the oral bacteria that can be aspirated around the cuff.",
+          "Incorrect—the bundle specifies NO routine circuit changes (per policy). Opening the circuit adds contamination risk.",
+          "Correct—continuously removing the secretions that pool above the cuff prevents them from leaking into the lungs.",
+          "Incorrect—the bundle calls for a daily sedation vacation (\"wake up\") to assess readiness to wean. Continuous deep sedation prolongs ventilation and VAP risk."
+        ]
+      }
+    },
+    {
+      "stem": "The family of a client on mechanical ventilation asks why IV pantoprazole was started, since the client \"has never had stomach problems.\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"Ventilated clients are at risk for stress ulcers and GI bleeding; it prevents that.\"",
+        "\"It treats reflux that is already causing pneumonia from the breathing tube.\"",
+        "\"It helps the client come off the ventilator sooner by reducing secretions.\"",
+        "\"It is needed only because the steroids ordered will irritate the stomach.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: collaborative care for mechanical ventilation includes PUD prophylaxis (a PPI or H2 blocker), DVT prophylaxis, the VAP bundle, early mobility, and a nutrition consult, because GI and nutritional problems are a known complication of ventilation. Take action: explain the preventive purpose in plain language. Evaluate outcomes: no signs of GI bleeding (stable Hgb, no coffee-ground NG output).",
+        "incorrect": [
+          "PUD prophylaxis is preventive, not treatment for existing reflux or pneumonia. VAP is prevented by the aspiration bundle, not by acid suppression.",
+          "Acid suppression does not affect airway secretions or weaning. Weaning readiness is assessed with the daily sedation vacation.",
+          "Steroids can add GI risk, but the routine reason is PUD prophylaxis for ventilated clients. This answer narrows the indication incorrectly."
+        ]
+      }
+    },
+    {
+      "stem": "A client was admitted 3 days ago with septic shock and is now intubated. Which findings support a diagnosis of acute respiratory distress syndrome (ARDS)? Select all that apply.",
+      "options": [
+        "PaO2 58 mm Hg despite an FiO2 of 80%",
+        "Bilateral \"white-out\" opacities with a normal echocardiogram",
+        "Pink, frothy sputum with a BNP of 1,450 pg/mL and an S3",
+        "Consolidation limited to the right lower lobe",
+        "Higher airway pressures are needed to deliver the same tidal volume",
+        "Oxygenation improves quickly to a PaO2 of 95 mm Hg on 2 L/min"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize and analyze cues against the ARDS definition: acute onset within 1 week of the trigger (sepsis is the most common indirect cause), bilateral opacities not explained by heart failure, refractory hypoxemia, and stiff, non-compliant lungs. Prioritize hypotheses: cardiogenic edema and lobar pneumonia are the main look-alikes.",
+        "incorrect": [
+          "Correct—refractory hypoxemia (a low PaO2 despite a high FiO2) is a defining feature, because blood shunts past fluid-filled, collapsed alveoli.",
+          "Correct—bilateral opacities NOT explained by heart failure are part of the definition. The normal echo rules out a cardiogenic cause.",
+          "Incorrect—these point to cardiogenic pulmonary edema (left ventricular failure), which ARDS must be distinguished from.",
+          "Incorrect—a single-lobe consolidation suggests pneumonia. ARDS opacities are bilateral.",
+          "Correct—ARDS lungs become stiff and non-compliant (\"wet and stiff\"), so more pressure is needed for the same volume.",
+          "Incorrect—a fast response to low-flow oxygen is the opposite of the refractory hypoxemia that defines ARDS."
+        ]
+      }
+    },
+    {
+      "stem": "A client on day 2 of severe acute pancreatitis has an RR of 34/min. SpO2 was 88% on 6 L/min nasal cannula and rose only to 89% on a non-rebreather. A new chest x-ray shows bilateral infiltrates. The client has no JVD, and the BNP is normal. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "Atelectasis from splinting with abdominal pain; increase incentive spirometry to every hour",
+        "Developing ARDS from indirect lung injury; notify the provider and anticipate intubation",
+        "Cardiogenic pulmonary edema from fluid resuscitation; give the PRN IV furosemide",
+        "A pleural effusion from pancreatic inflammation; prepare for thoracentesis"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: tachypnea, hypoxemia that barely responds to a non-rebreather, new bilateral infiltrates, and no evidence of heart failure, within 48 hours of severe pancreatitis. Analyze cues: pancreatitis is an INDIRECT cause of ARDS. Inflammatory mediators increase capillary permeability, fluid floods the alveoli, and surfactant is inactivated, so the alveoli collapse (shunt). Prioritize hypotheses: ARDS in the exudative phase (24–48 hours). Take action: notify the provider and prepare for intubation and mechanical ventilation, because severe hypoxemia from ARDS is an indication.",
+        "incorrect": [
+          "Splinting can cause atelectasis, but atelectasis improves with more oxygen and lung expansion. It does not cause bilateral infiltrates with refractory hypoxemia.",
+          "Fluid overload is a reasonable concern after resuscitation, but the absence of JVD and a normal BNP argue against a cardiac cause. Diuresing a client who may be hypovolemic from pancreatitis could cause harm.",
+          "Effusions can occur with pancreatitis, but they appear as fluid layering at the bases, not bilateral infiltrates. They also do not cause hypoxemia this resistant to oxygen."
+        ]
+      }
+    },
+    {
+      "stem": "A client with ARDS has an ideal body weight of 70 kg and an actual weight of 95 kg. The admission ventilator prescription reads: \"Assist-control, tidal volume 650 mL, RR 16, FiO2 70%, PEEP 10 cm H2O.\" Which action should the nurse take?",
+      "options": [
+        "Accept the order, because 650 mL falls within the usual 6–10 mL/kg range",
+        "Question the order, because the ARDS target is 4–6 mL/kg of actual weight, or 380–570 mL",
+        "Question the order, because the ARDS target is 4–6 mL/kg of ideal weight, or 280–420 mL",
+        "Accept the order, but suggest a higher PEEP to offset the large tidal volume"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: VT 650 mL in a client with ARDS whose IBW is 70 kg. Analyze cues: only small portions of the ARDS lung are available for gas exchange (the \"baby lung\" concept), so a traditional VT causes volutrauma. The target is 4–6 mL/kg of IDEAL body weight: 70 kg × 4 = 280 mL and 70 kg × 6 = 420 mL. 650 mL is about 9.3 mL/kg IBW. Take action: question the order before the settings are confirmed. Evaluate outcomes: VT is within 280–420 mL, and plateau and peak pressures are monitored.",
+        "incorrect": [
+          "6–10 mL/kg is the general adult range, and the lecture says VT is LOWER in ARDS. Applying the general range misses the ARDS-specific target.",
+          "The lower range is right, but the weight is wrong. The target is based on IDEAL body weight, because lung size relates to height, not actual weight. Using 95 kg overestimates the safe volume.",
+          "PEEP recruits alveoli, but it does not prevent volutrauma from too large a tidal volume. Adding both raises the barotrauma risk."
+        ]
+      }
+    },
+    {
+      "stem": "A client with severe ARDS is to be placed in the prone position. Which actions should the nurse include in the plan of care? Select all that apply.",
+      "options": [
+        "Apply eye lubricant and tape the eyelids closed",
+        "Pad the face, chest, and knees with specialized pillows or surfaces",
+        "Keep the client prone for about 4 hours, then supine for the rest of the day",
+        "Disconnect the ventilator during the turn so the tubing does not kink",
+        "Expect the greatest improvement in the anterior lung segments"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions and take action: proning improves V/Q matching and alveolar recruitment by moving the heart and gravity-dependent fluid off the posterior lung, and it is done 16–18 hours a day in severe ARDS. The nursing risks are pressure injury (face, chest, knees), ETT or line dislodgement during the turn, and corneal abrasion. Evaluate outcomes: PaO2 rises and the FiO2 can be weaned.",
+        "incorrect": [
+          "Correct—prone clients are at risk of corneal abrasions, so lubricant and taping are part of prone care.",
+          "Correct—the face, chest, and knees bear weight when prone and are at high risk for pressure injury.",
+          "Incorrect—in severe ARDS, proning is done for 16–18 hours a day. Short sessions lose the recruitment benefit.",
+          "Incorrect—disconnecting causes alveolar derecruitment and hypoxemia. The critical risk during the turn is ETT and line dislodgement, so the tube is secured and one team member manages the airway while the client stays connected.",
+          "Incorrect—proning moves the heart and dependent fluid OFF the POSTERIOR segments, improving V/Q matching and recruitment there."
+        ]
+      }
+    },
+    {
+      "stem": "A client is in week 3 of ARDS and remains ventilator-dependent. A CT scan shows \"honeycombing,\" and the client's lungs remain stiff. The spouse asks, \"Once this fluid clears, will the lungs go back to normal?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"The CT shows scarring that may be permanent; let's ask the provider what that means for recovery.\"",
+        "\"Yes. This is the early fluid stage, and once the fluid clears the lungs should recover fully.\"",
+        "\"The lungs are in the repair stage, and new tissue usually regrows normally within 1 to 2 weeks.\"",
+        "\"Honeycombing means a new pneumonia has developed, which antibiotics should clear.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: week 3 of ARDS, honeycombing on CT, and persistently stiff lungs. Analyze cues: the three ARDS stages are exudative (24–48 hours), proliferative (1–2 weeks, with dense or fibrous repair), and fibrotic (2–3 weeks, with permanent scarring and honeycombing). Prioritize hypotheses: the client is in the fibrotic stage. Take action: give an honest, therapeutic response that does not promise full recovery and that connects the family with the provider.",
+        "incorrect": [
+          "This describes the exudative stage (24–48 hours: fluid and loss of surfactant). At week 3 with honeycombing, the client is past that stage.",
+          "The proliferative stage (1–2 weeks) is when repair begins, but even then tissue becomes dense and fibrous. It does not promise normal regrowth, and the timeline here is past it.",
+          "Honeycombing on CT reflects fibrotic scarring, not infection. Offering this explanation gives false hope."
+        ]
+      }
+    },
+    {
+      "stem": "A client with heart failure has crackles to the mid-lung fields, pink frothy sputum, BP 172/98 mm Hg, and SpO2 86%. The client received IV furosemide, nitroglycerin, and IV morphine and was placed on CPAP. Which reassessment 2 hours later best shows the treatment is working?",
+      "options": [
+        "BP 86/50 mm Hg, SpO2 95%, and the client is drowsy",
+        "Pink frothy sputum persists, but the client says they feel calmer after the morphine",
+        "RR has decreased, but urine output is 40 mL over 2 hours and crackles are unchanged",
+        "Urine output 900 mL, crackles only at the bases, SpO2 94%, BP 138/82 mm Hg"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues at baseline: pink frothy sputum, crackles, hypertension, and hypoxemia, which is cardiogenic pulmonary edema (LV failure causes pressure to build in the lungs). Generate solutions: furosemide removes fluid, nitrates and morphine reduce preload (morphine also eases anxiety), and CPAP keeps fluid-filled alveoli open. Evaluate outcomes: brisk diuresis, crackles receding, better SpO2, and a BP that comes down without hypotension show the treatment worked.",
+        "incorrect": [
+          "Oxygenation improved, but the BP has overshot into hypotension, likely from too much preload reduction by nitrates, morphine, and diuresis. The next nitrate dose should be held and the BP reported.",
+          "Less anxiety is one goal of morphine, but ongoing frothy sputum means alveolar edema has not resolved. Feeling calmer alone does not show success.",
+          "Without diuresis and with unchanged crackles, fluid has not been removed. A lower RR alone may reflect morphine effect, not resolution."
+        ]
+      }
+    },
+    {
+      "stem": "A client is brought to the ED after a high-speed collision in which the car was struck on the driver's side. Findings: chest pain 10/10, BP 96/50 mm Hg, HR 126/min, RR 36/min, SpO2 88% on 4 L/min. Part of the left chest wall moves inward on inspiration and outward on expiration. The trachea is midline, and breath sounds are present but diminished on the left. Which conclusion and plan are most appropriate?",
+      "options": [
+        "Tension pneumothorax; prepare for immediate needle decompression",
+        "Hyperventilation from pain and anxiety; coach slow breathing and reassess",
+        "Flail chest; give oxygen and analgesia, and prepare for ventilatory support",
+        "Isolated rib fracture; apply a tight chest binder to stabilize the moving segment"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a side-impact mechanism, PARADOXICAL movement of part of the chest wall, severe pain, tachypnea, hypoxemia, a midline trachea, and diminished (not absent) breath sounds. Analyze cues: paradoxical breathing after blunt trauma indicates flail chest, a chest-wall cause of ventilatory failure; pain further limits breathing. Prioritize hypotheses: flail chest, while continuing to watch for evolving pneumothorax or hemothorax. Take action: high-flow oxygen, analgesia so the client can breathe, ABGs, and preparation for intubation with positive-pressure ventilation if the client keeps tiring.",
+        "incorrect": [
+          "Tension pneumothorax is the hallmark of tracheal deviation to the healthy side with absent breath sounds. Here the trachea is midline and breath sounds are present, so needle decompression is not indicated by these cues.",
+          "Pain does drive the RR, but an SpO2 of 88% on oxygen with paradoxical motion is a mechanical ventilation problem. Coaching alone misses the injury.",
+          "Paradoxical movement means a free-floating segment, not a simple fracture. A tight binder restricts expansion and worsens hypoventilation and atelectasis."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a right-sided rib fracture suddenly becomes severely dyspneic. The trachea is deviated to the left, breath sounds are absent on the right, BP is 78/44 mm Hg, HR 140/min, and neck veins are distended. Which action should the nurse anticipate first?",
+      "options": [
+        "Obtain a stat portable chest x-ray to confirm the diagnosis",
+        "Insert a chest tube at the 6th–7th intercostal space, posterior axillary line",
+        "Position the client on the right side to splint the injured chest",
+        "Prepare for immediate needle decompression of the right chest"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: tracheal deviation to the LEFT (the healthy side), absent right breath sounds, hypotension, tachycardia, and distended neck veins after chest trauma. Analyze cues: air entering the pleural space cannot escape, causing a mediastinal shift that kinks venous return and produces obstructive shock. Prioritize hypotheses: tension pneumothorax. Take action: needle decompression STAT, then a chest tube. Evaluate outcomes: BP rises, the trachea returns to midline, and breath sounds return.",
+        "incorrect": [
+          "Tension pneumothorax is a clinical diagnosis. Waiting for an x-ray while the client is in obstructive shock delays the treatment that saves life.",
+          "That site is for draining BLOOD (hemothorax). A chest tube follows decompression but is not the STAT first step.",
+          "Repositioning does nothing to release trapped air, and it wastes critical time."
+        ]
+      }
+    },
+    {
+      "stem": "A client is admitted after a stab wound to the right lower chest. Breath sounds are diminished at the right base. Hgb has dropped from 13.4 to 10.1 g/dL, BP is 98/60 mm Hg, and the x-ray shows fluid layering at the right base. The trachea is midline. Which plan does the nurse anticipate?",
+      "options": [
+        "Pneumothorax: chest tube at the 4th–5th intercostal space, anterior axillary line",
+        "Hemothorax: chest tube at the 6th–7th intercostal space, posterior axillary line",
+        "Tension pneumothorax: needle decompression followed by a chest tube insertion",
+        "Hemothorax: chest tube at the 4th–5th intercostal space, anterior axillary line"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: penetrating chest trauma, diminished breath sounds at the base, a falling Hgb, borderline BP, and fluid layering on the x-ray with a midline trachea. Analyze cues: blood in the pleural space is a hemothorax, treated with a chest tube at the 6th–7th ICS, posterior axillary line. A pneumothorax tube goes at the 4th–5th ICS, anterior axillary line. Take action: prepare for insertion and monitor the volume and character of output (report more than 100 mL/hr) along with the Hgb and BP.",
+        "incorrect": [
+          "A 4th–5th ICS anterior axillary site is used to evacuate AIR, which rises. This client has dependent fluid and a falling Hgb, which means blood.",
+          "Tension pneumothorax shows tracheal deviation and absent breath sounds with shock. This client's trachea is midline and the problem is fluid.",
+          "The diagnosis is right but the site is wrong. Blood collects in dependent areas, so the tube goes lower and more posterior (6th–7th ICS, posterior axillary line)."
+        ]
+      }
+    },
+    {
+      "stem": "A client has a chest tube after an esophagectomy. On postoperative day 3, enteral feedings are started. Six hours later the chest-tube drainage, previously serosanguineous, has turned milky white and increased. Which interpretation should the nurse report?",
+      "options": [
+        "Possible chylothorax from injury to the thoracic duct",
+        "Empyema from infection in the pleural space",
+        "An expected change as old blood breaks down in the collection chamber",
+        "Hemothorax from bleeding at the surgical site"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: chest-tube drainage that turned milky and increased soon after enteral feeding began, following thoracic surgery. Analyze cues: chylothorax is chyle in the pleural space. The fluid looks milky because of its high fat content, and causes include traumatic disruption of the thoracic duct and lung or blood cancers. Prioritize hypotheses: thoracic duct injury. Take action: report the change in character (any sudden change is reportable), measure output accurately, and anticipate holding or changing the feedings per the provider.",
+        "incorrect": [
+          "Infected pleural fluid tends to be cloudy or purulent, often with fever. Drainage that turns milky soon after fat-containing feedings points to chyle.",
+          "Old blood darkens; it does not turn milky white. Treating this as expected delays reporting a thoracic duct injury.",
+          "A hemothorax drains bloody output, often with a falling Hgb, not milky fluid."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 4 hours post-thoracotomy with a chest tube to -20 cm H2O suction. The nurse marked the collection chamber at 210 mL at 0800 and finds it at 345 mL at 0900. The drainage is bright red, and the HR has risen from 92 to 110/min. Which finding requires the nurse to notify the provider now?",
+      "options": [
+        "The water level in the water-seal chamber rises with inspiration and falls with expiration",
+        "Gentle, continuous bubbling in the suction-control chamber",
+        "Drainage of 135 mL in the last hour, with a rising heart rate",
+        "A small, unchanged area of crackling under the skin next to the dressing"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 345 − 210 = 135 mL in 1 hour of bright-red drainage, with rising tachycardia. Analyze cues: the lecture sets the notification threshold at more than 100 mL/hr or a sudden change in character. Bright red output with tachycardia suggests active bleeding. Prioritize hypotheses: postoperative hemorrhage. Take action: notify the provider now and monitor vital signs, Hgb, and hourly output. Tidaling and gentle suction-chamber bubbling are expected.",
+        "incorrect": [
+          "This is tidaling, a normal finding that shows the system is patent and connected to the pleural space.",
+          "Gentle bubbling in the suction-control chamber is normal and shows suction is being applied.",
+          "Subcutaneous emphysema (a \"rice crispy\" feel) should be checked and its border marked for spread. A small, stable area is not the most urgent finding here."
+        ]
+      }
+    },
+    {
+      "stem": "A client has a chest tube for a hemothorax. On rounds the nurse notes new continuous bubbling in the water-seal chamber. The client is in no distress, and the dressing is intact. Which action is most appropriate?",
+      "options": [
+        "Document the bubbling as an expected finding for a chest tube on suction",
+        "Increase the suction to -30 cm H2O to speed re-expansion of the lung",
+        "Clamp the chest tube close to the chest wall for 1 hour and observe the client",
+        "Check the dressing, tubing, and connections for a leak, and tape them"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: new continuous bubbling in the water-seal chamber in a client whose problem was blood, not air. Analyze cues: continuous water-seal bubbling indicates an air leak, either in the system or from the client. The nurse first rules out a system leak. Take action: inspect the dressing, the tubing, and each connection (all connections should be taped and the tubing loosely coiled), and notify the provider if the leak persists. Evaluate outcomes: bubbling stops once a loose connection is fixed.",
+        "incorrect": [
+          "Continuous bubbling in the WATER-SEAL chamber is not expected. Gentle bubbling belongs in the suction-control chamber. Documenting it as normal misreads the cue.",
+          "Changing suction does not fix a leak and is not an independent action. The prescribed suction is -20 cm H2O.",
+          "Prolonged clamping traps air or fluid in the pleural space and can cause a tension pneumothorax. Brief clamping is used only momentarily to locate a leak."
+        ]
+      }
+    },
+    {
+      "stem": "While a client with a chest tube for a pneumothorax is being transferred to a chair, the tube pulls completely out of the chest. Which action should the nurse take first?",
+      "options": [
+        "Cover the site with sterile gauze taped on three sides",
+        "Apply an occlusive dressing taped securely on all four sides",
+        "Reinsert the chest tube into the original insertion site",
+        "Call the provider and stay with the client until help arrives"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: complete chest-tube dislodgement with an open insertion site. Analyze cues: air can now enter the pleural space and collapse the lung. Take action: the lecture's emergency step is to immediately cover the site with sterile gauze taped on three sides. That limits air entry on inspiration while letting air escape, which prevents tension. Then notify the provider. Evaluate outcomes: watch for increasing dyspnea, tracheal deviation, or falling SpO2, which would signal tension pneumothorax.",
+        "incorrect": [
+          "Sealing all four sides can trap air that keeps entering the pleural space and convert this into a tension pneumothorax. Leaving one side untaped lets air escape on exhalation.",
+          "Reinsertion is a sterile provider procedure. Pushing a contaminated tube back in risks infection and injury.",
+          "Notifying the provider is necessary, but leaving the site open lets air enter the chest. Cover it first, then call."
+        ]
+      }
+    },
+    {
+      "stem": "A client's chest tube is to be removed today. The nurse reviews what will happen. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"When you tell me, I'll take a breath, let it out, then bear down like I'm having a bowel movement.\"",
+        "\"I'll take slow, deep breaths in and out while the tube is pulled so I can stay relaxed.\"",
+        "\"It's a good idea to take my pain medicine a little while before you take the tube out.\"",
+        "\"If I suddenly feel short of breath after it's out, I'll call you right away.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the lecture instructs the client to perform a Valsalva maneuver at END-EXPIRATION during removal. Taking deep breaths in during removal creates negative intrathoracic pressure that can pull air into the pleural space through the tract, risking a pneumothorax. Generate solutions: reteach and rehearse the Valsalva before the procedure. Evaluate outcomes: the client demonstrates the correct technique, and breath sounds remain equal after removal.",
+        "incorrect": [
+          "This is correct. It describes a Valsalva maneuver at end-expiration, which raises intrathoracic pressure so air is not drawn in as the tube comes out.",
+          "This is a reasonable plan. Monitoring and managing pain is part of chest-tube care, and pre-medicating improves the client's ability to cooperate.",
+          "This is correct. New dyspnea after removal can signal a recurrent pneumothorax and needs prompt reporting."
+        ]
+      }
+    }
+  ]
+}
