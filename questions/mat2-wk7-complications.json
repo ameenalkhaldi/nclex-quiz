@@ -1,0 +1,961 @@
+{
+  "topic": "mat2-wk7-complications",
+  "label": "Maternity 2: Week 7 — Complications",
+  "questions": [
+    {
+      "stem": "A client at 9 weeks' gestation arrives with heavy vaginal bleeding and strong cramping. They passed \"some clots and tissue\" at home. On speculum exam the cervix is open, and the uterus is still enlarged and boggy. VS: BP 112/70, HR 96. Which plan should the nurse anticipate?",
+      "options": [
+        "Watchful waiting at home with pelvic rest and instructions to report heavier bleeding",
+        "Preparation for misoprostol or uterine aspiration to empty the uterus",
+        "Reassurance that the uterus has emptied, with a follow-up visit in 2 weeks",
+        "Serial hCG levels over the next week to confirm whether the pregnancy is still viable"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: heavy bleeding, cramping, tissue already passed, an OPEN cervix, and a uterus that is still enlarged. Analyze cues: decode with the two questions, is the cervix open and has tissue passed? Open + some tissue passed + some retained = incomplete abortion. Prioritize hypotheses: retained products keep the uterus from contracting, so bleeding continues. Take action: prepare for medication (mifepristone/misoprostol) or aspiration/D&C to empty the uterus, keep the pad count and VS, and offer emotional support.",
+        "incorrect": [
+          "Watchful waiting fits a threatened abortion (closed cervix, viable pregnancy). An open cervix with tissue already passed means the loss cannot be stopped, so this misreads the cues.",
+          "This fits a complete abortion, where all tissue has passed, bleeding subsides, and the cervix closes. Here the cervix is open and the uterus is still enlarged, so tissue is retained.",
+          "Serial hCG is used to follow an ectopic or a molar pregnancy. Viability is not the question once the cervix is open and tissue has passed, and waiting a week leaves the client bleeding."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 7 weeks' gestation received methotrexate 2 days ago for an unruptured tubal ectopic pregnancy. They return to the ED reporting sudden, sharp right lower quadrant pain and right shoulder pain. They are dizzy. BP 88/54, HR 124. The perineal pad shows only light spotting. Which action should the nurse take first?",
+      "options": [
+        "Explain that cramping is expected as methotrexate resolves the pregnancy and give acetaminophen",
+        "Draw a repeat serum β-hCG to compare with the pretreatment level",
+        "Weigh perineal pads every 15 minutes to quantify the blood loss",
+        "Start a large-bore IV, send a type and crossmatch, and notify the provider for surgery"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden one-sided pain, referred shoulder pain, dizziness, tachycardia, and hypotension. Analyze cues: shoulder pain is blood irritating the diaphragm, so this is a ruptured ectopic, and the bleeding is internal. Prioritize hypotheses: hemorrhagic shock outranks medication side effects. Take action: secure large-bore IV access, send a type and crossmatch, and prepare for surgery (rupture = surgery, not methotrexate). Evaluate outcomes: trend BP, HR, and mental status.",
+        "incorrect": [
+          "Mild cramping is common after methotrexate, but shoulder pain with shock vital signs is rupture. Reassurance and acetaminophen would delay lifesaving surgery.",
+          "Serial hCG monitors an unruptured ectopic that is being managed medically. A lab result will not change the immediate need for volume and surgery.",
+          "The pad count underestimates loss in a ruptured ectopic because the bleeding is mostly internal. Light spotting is falsely reassuring here."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching a client who received methotrexate for an unruptured ectopic pregnancy. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll keep coming back for blood tests until my hCG goes all the way to zero, even if it takes several weeks.\"",
+        "\"If I get cramping, I'll take acetaminophen instead of ibuprofen.\"",
+        "\"I'll keep taking my prenatal vitamin every morning so my body stays as healthy as possible.\"",
+        "\"If I suddenly get sharp pain on one side or pain in my shoulder, I'll go to the emergency department.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to continue a prenatal vitamin. Analyze cues: methotrexate is a folate antagonist, and prenatal vitamins contain folic acid, which counteracts the drug. Take action: teach the client to stop folic acid and prenatal vitamins and to avoid NSAIDs, alcohol, and sun exposure during treatment. Evaluate outcomes: the client correctly restates which supplements and medications to avoid.",
+        "incorrect": [
+          "This is correct. hCG falls over weeks, and treatment is not complete until the level reaches zero.",
+          "This is correct. NSAIDs are avoided with methotrexate, so acetaminophen is the safer choice for cramping.",
+          "This is correct. Sudden one-sided pain or shoulder pain can mean rupture, which is an emergency."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 14 weeks' gestation reports heavy, dark brown vaginal bleeding and vomiting \"all day for weeks.\" BP 152/98. The fundus is at the umbilicus. No fetal heart tones are heard by Doppler. Which conclusion should guide the nurse's next actions?",
+      "options": [
+        "Preeclampsia with severe features requiring IV magnesium sulfate",
+        "Threatened abortion requiring pelvic rest and a repeat ultrasound in 1 week",
+        "Hyperemesis gravidarum with dehydration requiring IV fluids and antiemetics",
+        "Gestational trophoblastic disease requiring ultrasound and a quantitative hCG"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: dark brown bleeding, hyperemesis, hypertension at 14 weeks, a uterus large for dates, and no fetal heart tones. Analyze cues: hypertension BEFORE 20 weeks points to a molar pregnancy, not preeclampsia. Prioritize hypotheses: GTD explains every cue at once. Generate solutions: confirm with ultrasound and a very high hCG, then prepare for immediate evacuation (D&C) and long-term serial hCG follow-up.",
+        "incorrect": [
+          "Preeclampsia is diagnosed after 20 weeks. Hypertension at 14 weeks with dark brown bleeding should make the nurse think of a mole, so this misreads the timing cue.",
+          "A threatened abortion has light bleeding, a closed cervix, and a viable pregnancy. It does not explain hypertension, a uterus large for dates, or absent heart tones.",
+          "IV fluids may be needed, but hyperemesis alone does not explain the hypertension, dark brown bleeding, and large uterus. This anchors on one cue and misses the underlying cause."
+        ]
+      }
+    },
+    {
+      "stem": "Two weeks after a D&C for a complete hydatidiform mole, a client is seen for follow-up. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I need to keep getting hCG levels checked for a while, even though the D&C is done.\"",
+        "\"I'll use reliable birth control during my follow-up so a pregnancy doesn't hide a rising hCG.\"",
+        "\"My hCG came back normal last week, so we're going to start trying to get pregnant again next month.\"",
+        "\"If my hCG starts going back up, it could mean abnormal tissue is growing again.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client believes one normal hCG means a cure and plans to conceive right away. Analyze cues: GTD can persist or become choriocarcinoma, and serial hCG levels are the only way to detect it. A new pregnancy would raise hCG and mask a recurrence. Take action: reteach that follow-up means serial hCG over a long period with reliable contraception during that time. Evaluate outcomes: the client describes the follow-up schedule and contraception plan.",
+        "incorrect": [
+          "This is correct. Long-term serial hCG monitoring is part of GTD management.",
+          "This is correct. Avoiding pregnancy keeps hCG a reliable marker of residual or recurrent disease.",
+          "This is correct. A rising hCG after evacuation suggests persistent trophoblastic tissue and needs evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "A client is being discharged after a miscarriage at 10 weeks. They say, \"I keep thinking it happened because I went to my spin class the day before.\" Which response by the nurse is most therapeutic?",
+      "options": [
+        "\"Most early losses happen because of a chromosome problem, so there was likely something wrong with the baby anyway.\"",
+        "\"The good news is that most people who miscarry go on to have a healthy pregnancy next time.\"",
+        "\"Try to focus on resting now so your body is ready when you decide to try again.\"",
+        "\"Nothing you did caused this loss. Would you like to tell me more about what you've been feeling?\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client is blaming themselves for the loss. Analyze cues: first-trimester loss is most often due to fetal genetic abnormalities, not activity, and self-blame is a common grief response. Generate solutions: remove the blame AND invite the client to express feelings. Take action: this response does both. Evaluate outcomes: the client verbalizes their grief, and the nurse offers support groups or community resources.",
+        "incorrect": [
+          "The fact is accurate, but \"something wrong with the baby anyway\" is on the what-NOT-to-say list. It minimizes the loss instead of supporting the client.",
+          "\"You'll be pregnant again\" phrasing dismisses the grief for this pregnancy. It is a minimizing statement the slides warn against.",
+          "This shifts the focus to the next pregnancy and implies the client should move on. It closes off the conversation instead of inviting feelings."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 33 weeks' gestation arrives with painless, bright red vaginal bleeding. The uterus is soft and nontender, with irregular mild contractions. FHR 145 with moderate variability. No ultrasound has been done this pregnancy. The admission orders include the following. Which order should the nurse question?",
+      "options": [
+        "Insert a large-bore IV and send a type and crossmatch",
+        "Apply continuous external fetal and contraction monitoring",
+        "Administer betamethasone 12 mg IM",
+        "Perform a sterile digital cervical exam to determine whether labor has begun"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: painless bright red bleeding after 20 weeks, a soft uterus, and unknown placental location. Analyze cues: this presentation is previa until ultrasound proves otherwise. Prioritize hypotheses: a digital exam could tear a placenta that covers the os and cause hemorrhage. Take action: question the cervical exam and hold it until ultrasound rules out previa. The other orders match previa care: IV, crossmatched blood, monitoring, and betamethasone at 33 weeks.",
+        "incorrect": [
+          "This is appropriate. Preparation for possible cesarean includes IV fluid and crossmatched blood.",
+          "This is appropriate. Monitoring contractions and FHR is part of maternal–fetal surveillance with previa.",
+          "This is appropriate. Betamethasone at 33 weeks speeds fetal lung maturity in case preterm cesarean birth is needed."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 34 weeks with a known complete placenta previa is admitted with heavy, bright red bleeding that has soaked 3 pads in 30 minutes. BP 84/50, HR 128, skin cool and clammy. FHR 150 with moderate variability. Which action is the nurse's priority?",
+      "options": [
+        "Initiate rapid IV fluid replacement through a large-bore IV and prepare for emergency cesarean",
+        "Administer the first dose of betamethasone before transfer to the OR",
+        "Continue hourly pad counts and notify the provider if bleeding increases",
+        "Position the client supine with the legs elevated and begin fetal movement counts"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: heavy bleeding with hypotension, tachycardia, and cool clammy skin. Analyze cues: the mother is in hypovolemic shock, and the reassuring FHR will not last if maternal perfusion falls. Prioritize hypotheses: maternal hemorrhage is the immediate threat to both lives. Take action: restore volume and move toward delivery, because cesarean is the definitive treatment. Evaluate outcomes: BP and HR improve while the team prepares for surgery.",
+        "incorrect": [
+          "Betamethasone helps fetal lungs, but it is not the priority when the mother is in shock. Stabilize the mother first, and the steroid can be given if there is time.",
+          "Hourly pad counts are too slow when the client is already in shock. Bleeding has already declared itself, so this waits when action is needed.",
+          "Supine positioning compresses the vena cava and lowers BP further. Fetal movement counts are outpatient teaching, not emergency care."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 31 weeks with chronic hypertension (BP today 170/108) reports sudden, constant abdominal pain. There is a small amount of dark red vaginal bleeding. The uterus is firm and tender between contractions, and fundal height has risen 2 cm in the past hour. FHR shows minimal variability with recurrent late decelerations. Which conclusion should the nurse act on?",
+      "options": [
+        "Placental abruption with concealed hemorrhage collecting behind the placenta",
+        "Placenta previa, because any bleeding after 20 weeks reflects abnormal placental location",
+        "Preterm labor, because regular contractions are causing the abdominal pain",
+        "Uterine tachysystole, because the uterus is firm from contractions that are too close together"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypertension (an abruption risk factor), knife-like constant pain, a rigid tender uterus, dark blood, rising fundal height, and late decelerations. Analyze cues: little visible blood with a rising fundus means blood is collecting behind the placenta, so the visible loss underestimates the bleeding. Prioritize hypotheses: concealed abruption threatens the fetal oxygen supply and can lead to maternal shock and DIC. Take action: left lateral position, oxygen, IV access, coagulation labs, continuous EFM, and prepare for prompt delivery.",
+        "incorrect": [
+          "Previa is painless, with bright red blood and a soft uterus. Pain, a rigid uterus, and dark blood all point the other way.",
+          "Contractions occur with abruption, but preterm labor does not explain a uterus that stays rigid between contractions, a rising fundal height, and dark bleeding.",
+          "Tachysystole is defined by contraction frequency and is usually caused by oxytocin. It does not explain constant pain, bleeding, and a rising fundal height in a client who is not receiving oxytocin."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 35 weeks is admitted with suspected placental abruption. Which nursing actions should the nurse anticipate? Select all that apply.",
+      "options": [
+        "Position the client on the left side and apply oxygen",
+        "Send a CBC, fibrinogen, PT/aPTT, and type and crossmatch",
+        "Mark the fundal height and reassess it at intervals",
+        "Perform a digital cervical exam to assess for dilation",
+        "Withhold IV fluids until the coagulation results return",
+        "Maintain continuous electronic fetal monitoring"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Abruption care centers on fetal oxygenation and maternal volume: left lateral position, oxygen, VS, fundal height, continuous EFM, and labs to detect DIC (CBC, fibrinogen, PT/aPTT, type and crossmatch), with prompt delivery. Assess, control, and restore blood loss.",
+        "incorrect": [
+          "Correct—left lateral positioning improves uterine perfusion, and oxygen supports a fetus whose placental supply is compromised.",
+          "Correct—these labs track blood loss and screen for DIC (low fibrinogen, prolonged clotting times), the complication the team is trying to prevent.",
+          "Correct—a rising fundal height signals concealed bleeding behind the placenta.",
+          "Incorrect—no digital exams with unexplained bleeding after 20 weeks until previa is ruled out. It also adds no information needed to manage abruption.",
+          "Incorrect—restoring blood loss is part of abruption management, and waiting for labs while the client bleeds risks shock.",
+          "Correct—fetal compromise can develop quickly, so continuous monitoring is required."
+        ]
+      }
+    },
+    {
+      "stem": "A laboring client at 39 weeks has an amniotomy. The fluid is blood-tinged, with a small amount of dark red blood. Maternal BP is 118/74 and HR is 82, and the client is pain-free with an epidural. Within 2 minutes the FHR falls from 140 to 80 and stays there. Which conclusion and action are most appropriate?",
+      "options": [
+        "Bloody show from cervical change; reposition the client and continue to observe",
+        "Placental abruption from sudden uterine decompression; give an IV fluid bolus and recheck maternal BP",
+        "Ruptured vasa previa with fetal blood loss; call for an emergency cesarean",
+        "Umbilical cord prolapse; perform a vaginal exam and elevate the presenting part"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: bleeding that appears exactly at ROM, sudden sustained fetal bradycardia, and a stable, pain-free mother. Analyze cues: with vasa previa, unprotected fetal vessels cross the os and tear at ROM, so the blood being lost is FETAL. Prioritize hypotheses: a fetus has little blood volume to spare, so this is an emergency even though the mother looks fine. Take action: call for an emergency cesarean. Vasa previa is managed by cesarean.",
+        "incorrect": [
+          "Bloody show does not cause sudden fetal bradycardia. Calling this normal labor misses fetal hemorrhage.",
+          "Abruption usually causes pain and a rigid uterus, and this mother is hemodynamically stable. A fluid bolus treats the mother, but the fetus is the one bleeding.",
+          "Cord prolapse also follows ROM with bradycardia, so this is a reasonable thing to rule out. However, it does not explain bleeding at the moment of ROM. A vaginal exam would also delay the cesarean."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 8 cm with an oxytocin infusion has spontaneous rupture of membranes. The FHR drops to 70, and the nurse feels a pulsating cord in the vagina. The nurse calls for help, lifts the presenting part off the cord with a gloved hand, and the client is placed in knee-chest position. Which additional action is appropriate while waiting for the team?",
+      "options": [
+        "Remove the hand once the FHR returns to 130 so the client can be moved to the OR faster",
+        "Stop the oxytocin infusion and apply oxygen, keeping the hand in place",
+        "Gently replace the cord into the vagina and cover the perineum with dry gauze",
+        "Coach the client to push with the next contraction, since birth is close at 8 cm"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: cord prolapse with fetal bradycardia, oxytocin running, and initial relief measures in place. Generate solutions: anything that reduces cord compression or improves fetal oxygen helps. Stopping oxytocin reduces contractions that press the fetus onto the cord, and oxygen improves the oxygen available to the fetus. Take action: stop the oxytocin, apply oxygen, give IV fluids, and keep the hand elevating the presenting part until delivery. Evaluate outcomes: the FHR returns toward baseline.",
+        "incorrect": [
+          "The hand stays in place until the baby is delivered, including during transport. FHR recovery shows the intervention is working, not that it can stop.",
+          "Never push the cord back in. An exposed cord is covered with WARM, STERILE, SALINE-moistened gauze with minimal handling to prevent vasospasm.",
+          "The cervix is not fully dilated, so pushing is not possible, and pushing drives the presenting part down onto the cord. Emergency cesarean is the plan."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is managing an umbilical cord prolapse with the presenting part manually elevated and the client in knee-chest position. Which finding best indicates the interventions are effective?",
+      "options": [
+        "Maternal BP 122/76 and HR 88",
+        "Contractions spaced to every 5 minutes",
+        "The client reports less pelvic pressure",
+        "FHR back to a baseline of 135 with variability"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the goal of elevating the presenting part and positioning is to relieve cord compression and restore fetal oxygenation. The direct measure of that goal is fetal: an FHR back at baseline with variability. Recognize cues: choose the outcome that matches the problem, which was fetal hypoxia from cord occlusion.",
+        "incorrect": [
+          "Stable maternal VS are good, but the mother was never the one compromised. They do not show that the cord is decompressed.",
+          "Fewer contractions may reduce compression, but spacing is a process measure, not proof of fetal oxygenation.",
+          "Maternal comfort does not reflect cord blood flow, so this measures the wrong outcome."
+        ]
+      }
+    },
+    {
+      "stem": "Four laboring clients have just had their membranes rupture. Which client should the nurse assess first for umbilical cord prolapse?",
+      "options": [
+        "A client with a vertex presentation at +2 station and clear fluid",
+        "A client with a vertex presentation at 0 station, well applied to the cervix",
+        "A client with a frank breech presentation at −3 station",
+        "A client with a vertex presentation at +1 station and an FHR of 140 with accelerations"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: presentation and station after ROM. Analyze cues: prolapse happens when there is SPACE between the presenting part and the pelvis. Malpresentation (breech) and a high, unengaged presenting part (−3) both leave room for the cord to slip past. Prioritize hypotheses: the breech at −3 has two risk factors. Take action: check this client's FHR first, keep them on bed rest, and watch for variable decelerations or bradycardia.",
+        "incorrect": [
+          "A vertex at +2 is engaged and fills the pelvis, so it is low risk.",
+          "A vertex at 0 station that is well applied seals the inlet, so it is low risk.",
+          "A vertex at +1 with a reassuring tracing is engaged and stable. It has the fewest cues of risk."
+        ]
+      }
+    },
+    {
+      "stem": "Four hours after a cesarean birth with intrathecal morphine, the nurse assesses the client. Findings: RR 9/min, difficult to arouse, SpO2 91% on room air, fundus firm at the umbilicus, moderate lochia rubra, incisional pain 3/10, and absent bowel sounds. Which action should the nurse take first?",
+      "options": [
+        "Stimulate the client, support the airway, and prepare naloxone per protocol",
+        "Massage the fundus and reassess lochia in 15 minutes",
+        "Auscultate all four quadrants and report the absent bowel sounds",
+        "Splint the incision with a pillow and coach incentive spirometer use"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: RR 9, sedation, and SpO2 91% after neuraxial morphine. Analyze cues: this is opioid-induced respiratory depression. Prioritize hypotheses: breathing comes before bleeding, pain, or bowel function. Take action: stimulate the client, open and support the airway, apply oxygen, and give naloxone per protocol. Evaluate outcomes: RR ≥12 and the client is arousable, with SpO2 improving.",
+        "incorrect": [
+          "The fundus is already firm and lochia is moderate, so it does not need massage. Bleeding is not the active problem.",
+          "Absent bowel sounds on the day of surgery are expected after anesthesia and are not an emergency. This misprioritizes a normal finding over a breathing problem.",
+          "Spirometry needs an alert, cooperative client. It does not reverse opioid depression, so it is right in general but wrong for now."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews the charts of four clients scheduled for cesarean birth. Which client's cesarean is being performed for a MATERNAL indication?",
+      "options": [
+        "A client in early labor who has an active genital herpes lesion",
+        "A client at 39 weeks whose fetus is in a frank breech presentation",
+        "A client at 37 weeks with twins, both in nonvertex presentations",
+        "A client with diabetes whose fetus has an estimated weight of 4,600 g"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: sort each indication by whose body or condition drives the decision. Active herpes is a maternal condition (the lesion is the mother's), and the cesarean protects the newborn from exposure in the birth canal. Prioritize hypotheses: maternal indications include prior uterine surgery, active herpes, maternal medical conditions, previa, and labor dystocia. Breech/malpresentation, multiples, macrosomia, and an abnormal tracing are fetal.",
+        "incorrect": [
+          "Breech is fetal malpresentation, a fetal indication, and the trap is calling breech maternal.",
+          "Multiple gestation with malpresentation is a fetal indication.",
+          "Suspected macrosomia is a fetal indication. The mother's diabetes is the cause, but the indication is the size of the fetus."
+        ]
+      }
+    },
+    {
+      "stem": "At 36 weeks, a client learns their group B streptococcus (GBS) culture is positive. They ask, \"Does this mean I'll need a C-section to protect the baby?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"No. You'll get IV antibiotics during labor, and a positive GBS result alone isn't a reason for cesarean.\"",
+        "\"Yes. A cesarean avoids the birth canal, so the baby isn't exposed to the bacteria.\"",
+        "\"No. You'll take oral antibiotics for the next 2 weeks to clear the bacteria before labor.\"",
+        "\"Only if your water breaks more than 18 hours before delivery. Otherwise you can deliver vaginally.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client links GBS colonization with cesarean birth. Analyze cues: GBS-positive status is managed with intrapartum IV antibiotic prophylaxis, not surgery. It is a classic distractor on the cesarean indication list (which includes active herpes, previa, malpresentation, and others). Take action: teach that antibiotics will be given IV in labor. Evaluate outcomes: the client knows to come in promptly at labor onset or ROM so antibiotics can be started.",
+        "incorrect": [
+          "This confuses GBS with active herpes. GBS is not on the cesarean indication list.",
+          "Antepartum oral antibiotics do not prevent recolonization. Prophylaxis is IV during labor.",
+          "Prolonged ROM raises infection risk but is not by itself an indication for cesarean in a GBS-positive client. The plan is still IV antibiotics in labor."
+        ]
+      }
+    },
+    {
+      "stem": "A provider plans a vacuum-assisted birth for a client with an epidural who is exhausted after 90 minutes of pushing. Before the cup is applied, which finding should the nurse report immediately?",
+      "options": [
+        "The client reports a decreased urge to push because of the epidural",
+        "The FHR shows recurrent late decelerations over the last 20 minutes",
+        "The client voided 200 mL by straight catheter 15 minutes ago",
+        "The most recent exam shows the cervix 8 cm dilated with the vertex at −2 station"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a vacuum is planned, but the cervix is not fully dilated and the head is high. Analyze cues: operative vaginal birth requires a fully dilated cervix and an engaged, low head. A vacuum at 8 cm and −2 risks serious maternal and fetal trauma. Take action: report this finding before the procedure. A cesarean may be the safer route.",
+        "incorrect": [
+          "Analgesia limiting effective pushing is itself an INDICATION for vacuum, not a contraindication.",
+          "A nonreassuring tracing is also an indication for vacuum. It argues for expediting birth, not stopping the procedure.",
+          "An empty bladder is a prerequisite for the procedure, so this finding supports going ahead."
+        ]
+      }
+    },
+    {
+      "stem": "A 30-hour-old newborn was born by vacuum extraction. Assessment shows a firm swelling over the right parietal bone that does not cross the sagittal suture. It was not present at birth. Jaundice is visible to the chest. Which action should the nurse take first?",
+      "options": [
+        "Obtain a bilirubin level as prescribed, because the collected blood is adding to the bilirubin load",
+        "Apply warm compresses to the swelling to speed resorption",
+        "Reassure the parents that the swelling and yellow color will resolve within 48 hours",
+        "Prepare for needle aspiration of the swelling to prevent infection"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: swelling limited to one bone, does not cross sutures, appeared after birth, firm. Analyze cues: this is a cephalohematoma (blood between the periosteum and skull). As those RBCs break down, bilirubin rises, which explains jaundice at 30 hours. Prioritize hypotheses: hyperbilirubinemia is the risk that needs action now. Take action: obtain a bilirubin level and monitor feeding and stools. Evaluate outcomes: the bilirubin trend stays in a safe range or treatment begins.",
+        "incorrect": [
+          "Heat is not a treatment for cephalohematoma, and it does not address the bilirubin problem.",
+          "The 48-hour timeline describes caput (edema that crosses sutures). A cephalohematoma takes weeks to months, and jaundice should be measured, not just reassured away.",
+          "A cephalohematoma is not aspirated, because aspiration introduces infection. It resolves on its own."
+        ]
+      }
+    },
+    {
+      "stem": "Two hours after a forceps-assisted birth with a second-degree laceration, a client reports severe rectal pressure and perineal pain unrelieved by ibuprofen. HR is 112 (was 80 an hour ago). The fundus is firm, midline, at the umbilicus, and lochia is moderate. Which action should the nurse take next?",
+      "options": [
+        "Inspect the perineum for a tense, discolored mass, apply ice, and notify the provider",
+        "Massage the fundus and increase the oxytocin infusion",
+        "Give the prescribed oxycodone and reassess pain in 1 hour",
+        "Insert a straight catheter for suspected bladder distention"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pain and pressure out of proportion, rising HR, a firm fundus, and normal lochia after an operative birth. Analyze cues: a firm fundus rules out atony, so the bleeding is concealed in the tissue. Prioritize hypotheses: a vulvar or vaginal hematoma, a listed maternal risk of operative birth. Take action: inspect for a tense purple bulge, apply ice, notify the provider, and monitor VS. Evaluate outcomes: HR stabilizes and the mass does not enlarge.",
+        "incorrect": [
+          "The fundus is already firm, so atony is not the cause. Massage treats the wrong hypothesis.",
+          "More analgesia masks an expanding hematoma. Pain out of proportion is a cue to assess, not just to medicate.",
+          "A distended bladder pushes the fundus up and to the side. Here the fundus is midline at the umbilicus, so the cues do not fit."
+        ]
+      }
+    },
+    {
+      "stem": "The fetal head delivers and then retracts tightly against the perineum. The nurse has called for help and placed the client in McRoberts position, but the next push does not deliver the shoulders. Which action should the nurse take next?",
+      "options": [
+        "Apply firm pressure to the top of the fundus with the next push",
+        "Lower the client's legs flat in the stirrups to widen the pelvic outlet",
+        "Apply firm pressure just above the symphysis pubis, directed downward and to the side",
+        "Insert two fingers behind the anterior shoulder and rotate it 180 degrees"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the turtle sign means shoulder dystocia, with the anterior shoulder impacted on the symphysis pubis. Generate solutions: nursing maneuvers change pelvic shape and dislodge the shoulder: McRoberts, then suprapubic pressure, then help the client roll to hands and knees. Take action: suprapubic pressure is the nurse's next step after McRoberts. Evaluate outcomes: note the time from head delivery and the maneuvers used, and confirm the shoulders deliver.",
+        "incorrect": [
+          "Fundal pressure drives the anterior shoulder harder into the pubic bone and worsens the impaction and injury.",
+          "Flattening the legs reverses McRoberts and narrows the pelvic angle that McRoberts opened.",
+          "Internal rotational maneuvers (Rubin, Woods screw) are PROVIDER second-line interventions, not nursing actions."
+        ]
+      }
+    },
+    {
+      "stem": "After a shoulder dystocia resolved with McRoberts and suprapubic pressure, a 4,350 g newborn is born. Which assessments should the nurse prioritize in the first hour? Select all that apply.",
+      "options": [
+        "Movement of both arms and symmetry of the Moro reflex",
+        "Palpation of the clavicles for crepitus or a mass",
+        "Ortolani and Barlow maneuvers for hip dislocation",
+        "Maternal fundal tone and amount of bleeding",
+        "Maternal perineum for lacerations",
+        "Maternal pupils for signs of a post-dural-puncture headache"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Shoulder dystocia complications on the slide include fetal brachial plexus injury, clavicle or humeral fracture, and HIE, plus maternal hemorrhage and maternal injury. Assess the newborn's arms and clavicles and the mother's fundus, bleeding, and perineum.",
+        "incorrect": [
+          "Correct—an asymmetric Moro or a limp arm suggests brachial plexus (Erb's) injury.",
+          "Correct—clavicle fracture is a listed complication, with crepitus or a lump on palpation.",
+          "Incorrect—hip screening is part of every newborn exam but is not a complication of shoulder dystocia. This mismatches the cue.",
+          "Correct—a large baby and a difficult birth raise the risk of maternal hemorrhage from overdistension/atony.",
+          "Correct—maternal injury, especially perineal trauma, is a listed complication.",
+          "Incorrect—post-dural-puncture headache relates to neuraxial anesthesia, not shoulder dystocia, and pupils do not assess it."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 27 weeks had a 1-hour 50 g glucose challenge of 152 mg/dL. The 3-hour 100 g oral glucose tolerance test results are: fasting 93, 1 hour 184, 2 hours 158, 3 hours 132 mg/dL. Which conclusion is correct?",
+      "options": [
+        "Not gestational diabetes, because the fasting value is below 95 mg/dL",
+        "Gestational diabetes, because the fasting value exceeds 92 mg/dL",
+        "Impaired glucose tolerance only, so the 50 g screen should be repeated in 4 weeks",
+        "Gestational diabetes, because two values meet or exceed the 100 g cutoffs"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a positive 50 g screen followed by a 3-hour 100 g OGTT. Analyze cues: compare each value with the 100 g cutoffs (fasting 95, 1 h 180, 2 h 155, 3 h 140). Fasting 93 is normal, 1 h 184 is abnormal, 2 h 158 is abnormal, and 3 h 132 is normal. Two abnormal values = GDM. Take action: begin GDM teaching (diet, exercise, glucose self-monitoring), and add medication only if targets are not met.",
+        "incorrect": [
+          "A normal fasting value does not rule out GDM on the 100 g test. Any two abnormal values diagnose it, so this is the \"not GDM because the fasting value was normal\" trap.",
+          "92 is the fasting cutoff for the ONE-step 75 g test. Mixing up the two sets of cutoffs is a classic error. On the 100 g test, 93 is normal.",
+          "The diagnostic test has already been done and is positive. Repeating the screening test delays treatment."
+        ]
+      }
+    },
+    {
+      "stem": "At a first prenatal visit at 10 weeks, a client has a BMI of 34, and their previous baby weighed 4,300 g. A 50 g glucose challenge done today is 118 mg/dL. Which plan should the nurse reinforce?",
+      "options": [
+        "No further glucose testing this pregnancy, since the early screen was normal",
+        "Proceed directly to a 3-hour 100 g OGTT this week to confirm the result",
+        "Begin a carbohydrate-restricted diet now, since the client has two risk factors",
+        "Repeat screening at 24–28 weeks, since early testing does not rule out later GDM"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: BMI >30 and a previous infant >4,000 g are GDM risk factors, so the client was correctly screened at the first visit. Analyze cues: 118 is below the 130–140 threshold, so the screen is negative for now. Placental insulin resistance increases in the second half of pregnancy, however. Take action: rescreen at 24–28 weeks as the slide directs for at-risk clients whose first screen is negative.",
+        "incorrect": [
+          "A negative early screen in a high-risk client must be repeated at 24–28 weeks. Stopping testing misses GDM that develops as insulin resistance rises.",
+          "The 3-hour OGTT is the second step after a POSITIVE screen. At 118, there is nothing to confirm.",
+          "Healthy eating teaching is appropriate, but diagnosing and treating GDM without a positive test jumps ahead of the data."
+        ]
+      }
+    },
+    {
+      "stem": "A 4,250 g term newborn of a parent with insulin-requiring gestational diabetes is 1 hour old. The newborn is jittery, axillary temperature is 36.8 °C (98.2 °F), and RR is 56. Which action should the nurse take first?",
+      "options": [
+        "Swaddle the newborn and recheck the temperature in 30 minutes",
+        "Palpate the clavicles for crepitus from a possible birth injury",
+        "Obtain a heel-stick blood glucose",
+        "Obtain a transcutaneous bilirubin level"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a macrosomic infant of a diabetic parent, jittery at 1 hour, with a normal temperature. Analyze cues: maternal glucose crossed the placenta (insulin does not), so the fetus made extra insulin. At birth the glucose supply stops but the newborn's high insulin persists, which causes hypoglycemia in the first hours. Prioritize hypotheses: hypoglycemia is the immediate, treatable cause of the jitteriness. Take action: check the glucose now and feed or treat per protocol. Evaluate outcomes: a repeat glucose in the target range.",
+        "incorrect": [
+          "Cold stress can cause jitteriness, but the temperature is normal. This acts on a hypothesis the data have already ruled out.",
+          "Birth trauma is a real GDM risk, but it does not explain jitteriness. It is an assessment for later, not first.",
+          "Hyperbilirubinemia is a GDM newborn risk, but jaundice is not expected at 1 hour and does not cause jitteriness."
+        ]
+      }
+    },
+    {
+      "stem": "A client with gestational diabetes who used insulin during pregnancy is preparing for discharge on postpartum day 2 and is breastfeeding. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I should get tested for diabetes again after the baby, because my risk of type 2 is higher now.\"",
+        "\"I'll need to keep taking my insulin while I'm breastfeeding to keep my sugar from going too high.\"",
+        "\"Staying active and keeping a healthy weight will help lower my risk of diabetes later.\"",
+        "\"If I get pregnant again, I'll need to be checked for diabetes early in that pregnancy.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to continue insulin after birth. Analyze cues: the cause of GDM (placental insulin-resistance hormones) leaves with the placenta, so insulin needs drop sharply after delivery and insulin is usually stopped. Continuing it, especially while breastfeeding, risks hypoglycemia. Take action: reteach that insulin is usually stopped postpartum, with follow-up glucose testing. Evaluate outcomes: the client restates the plan to stop insulin and get later diabetes screening.",
+        "incorrect": [
+          "This is correct. GDM raises the lifetime risk of type 2 diabetes, so later screening is needed.",
+          "This is correct. Lifestyle measures lower the risk of type 2 diabetes after GDM.",
+          "This is correct. A history of GDM is a risk factor, so screening happens at the first visit of a future pregnancy."
+        ]
+      }
+    },
+    {
+      "stem": "A client was started on labetalol for a BP of 148/94 at 10 weeks' gestation. At 30 weeks, BP is 150/96, the urine protein/creatinine ratio is 0.4, platelets are 210,000, and the client has no headache or visual changes. Which classification fits these findings?",
+      "options": [
+        "Gestational hypertension",
+        "Chronic hypertension with superimposed preeclampsia",
+        "Preeclampsia without severe features",
+        "Chronic hypertension only, since the BP is unchanged"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypertension present before 20 weeks, then new proteinuria (P/C ≥0.3) after 20 weeks. Analyze cues: run the three questions. Onset before 20 weeks = chronic. New proteinuria after 20 weeks = preeclampsia. No severe-range BP or organ signs = no severe features. Prioritize hypotheses: chronic HTN with superimposed preeclampsia, which has worse outcomes and needs closer surveillance.",
+        "incorrect": [
+          "Gestational HTN is NEW hypertension after 20 weeks without proteinuria. This client had hypertension at 10 weeks and now has proteinuria.",
+          "This ignores the hypertension that began before 20 weeks. The pre-existing hypertension makes it superimposed preeclampsia.",
+          "New proteinuria after 20 weeks changes the diagnosis even when the BP is stable. This is the \"still just chronic HTN\" trap."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 34 weeks with preeclampsia is seen in the clinic. BP 158/108 on two readings 4 hours apart. Platelets 140,000/mm³, creatinine 1.0 mg/dL, urine protein 2+, mild ankle edema, and no headache, visual changes, or epigastric pain. Which conclusion should guide the plan?",
+      "options": [
+        "Preeclampsia with severe features, so IV magnesium sulfate should be started now",
+        "Preeclampsia without severe features, with close outpatient surveillance and delivery by 37 weeks",
+        "Gestational hypertension, because 2+ protein on dipstick does not confirm proteinuria",
+        "Preeclampsia with severe features, because 2+ proteinuria with edema indicates end-organ damage"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: every value sits just UNDER a severe cutoff. BP 158/108 (severe = ≥160 systolic or ≥110 diastolic), platelets 140,000 (severe <100,000), creatinine 1.0 (severe >1.1), and no cerebral, visual, or RUQ symptoms. Prioritize hypotheses: preeclampsia without severe features. Generate solutions: outpatient care with daily BP checks, fetal movement counts, NST/AFI/labs, and delivery by 37 weeks. Evaluate outcomes: teach the client to report any severe-feature symptom right away.",
+        "incorrect": [
+          "Numbers just under the cutoff are the trap. 158/108 is not severe range, and none of the other severe criteria are met.",
+          "Dipstick ≥2+ meets the proteinuria criterion. With hypertension after 20 weeks, that makes it preeclampsia, not gestational HTN.",
+          "The amount of proteinuria does not define severe features, and edema is not a diagnostic criterion at all."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 33 weeks reports nausea, RUQ pain, and feeling \"like I have the flu.\" BP 146/92. Labs: platelets 88,000/mm³, AST 3 times normal, and hemolysis on the peripheral smear. Which action should the nurse take?",
+      "options": [
+        "Notify the provider immediately and prepare for admission, IV magnesium sulfate, and delivery planning",
+        "Give an antiemetic and encourage clear liquids for suspected gastroenteritis",
+        "Request an abdominal ultrasound to evaluate for cholecystitis before notifying the provider",
+        "Recheck the BP in 4 hours, since it has not reached the severe range"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: RUQ pain, flu-like symptoms, low platelets, elevated liver enzymes, and hemolysis. Analyze cues: Hemolysis, Elevated Liver enzymes, Low Platelets = HELLP, a severe form of preeclampsia. Prioritize hypotheses: HELLP can progress to liver rupture, DIC, and eclampsia, even though the BP is only mildly elevated. Take action: notify the provider now and anticipate hospitalization, magnesium, BP control, and delivery.",
+        "incorrect": [
+          "Treating this as gastroenteritis anchors on the GI symptoms and misses the labs that show HELLP. This is the \"third-trimester RUQ pain is the flu\" trap.",
+          "Gallbladder disease can cause RUQ pain, but it does not explain the hemolysis and low platelets. Delaying notification for imaging wastes time.",
+          "In HELLP, the BP may be only mildly high. Organ damage (platelets <100,000, liver enzymes 2 times normal) already counts as a severe feature."
+        ]
+      }
+    },
+    {
+      "stem": "A client who had preeclampsia with severe features is being discharged on postpartum day 3. Which symptoms should the nurse teach the client to report immediately? Select all that apply.",
+      "options": [
+        "Headache that is not relieved by acetaminophen",
+        "Seeing spots or flashing lights",
+        "Mild ankle swelling that improves with elevation",
+        "Pain under the right ribs or in the upper abdomen",
+        "New shortness of breath when lying flat",
+        "Lochia that is dark red with small clots on day 3"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Preeclampsia can appear or worsen after delivery. The client should report severe-feature symptoms: cerebral (persistent headache), visual (scotomata), hepatic (RUQ/epigastric pain), and pulmonary edema (dyspnea, orthopnea). Dependent edema and lochia rubra on day 3 are expected.",
+        "incorrect": [
+          "Correct—a persistent headache unrelieved by acetaminophen is a cerebral severe feature and can come before an eclamptic seizure.",
+          "Correct—visual disturbances (scotomata) are a severe feature.",
+          "Incorrect—edema is not a diagnostic criterion, and dependent swelling that improves with elevation is common postpartum.",
+          "Correct—RUQ/epigastric pain reflects liver involvement (possible HELLP).",
+          "Correct—new dyspnea or orthopnea may be pulmonary edema, a severe feature.",
+          "Incorrect—lochia rubra with small clots is expected in the first 3–4 days. It does not point to preeclampsia."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 37 weeks with preeclampsia, BP 144/92 and on IV magnesium sulfate, begins having a generalized tonic-clonic seizure. Which action should the nurse take first?",
+      "options": [
+        "Insert an oral airway between the teeth to keep the airway open and prevent tongue biting",
+        "Assess the FHR tracing for prolonged deceleration",
+        "Draw a serum magnesium level to check for a subtherapeutic dose",
+        "Turn the client onto their side, protect them from injury, and note the seizure's duration"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a new seizure in a client with preeclampsia means eclampsia, even with a BP of only 144/92. Prioritize hypotheses: during the seizure, the immediate threats are aspiration and injury. Take action: turn to the side, protect from injury, keep the airway clear, and time the seizure. After it ends, give oxygen, call for help, give magnesium per order, and then assess the fetus. Evaluate outcomes: the airway is patent, SpO2 recovers, and there are no further seizures.",
+        "incorrect": [
+          "Airway protection is the right goal, but nothing is forced between clenched teeth during a seizure because it can break teeth or cause aspiration. Side-lying positioning protects the airway, and oxygen and suction follow once the jaw relaxes.",
+          "Fetal bradycardia is expected during and after a seizure and usually recovers. The fetus is helped by stabilizing the mother first.",
+          "A level guides later dosing but does nothing for the client who is seizing now. Lab work comes after airway and safety."
+        ]
+      }
+    },
+    {
+      "stem": "A client with severe preeclampsia is receiving magnesium sulfate 2 g/h. The nurse finds absent patellar reflexes, RR 10/min, and urine output of 20 mL/h for the past 2 hours. Which action should the nurse take first?",
+      "options": [
+        "Administer calcium gluconate IV per protocol",
+        "Reduce the infusion rate by half and recheck in 30 minutes",
+        "Stop the magnesium sulfate infusion",
+        "Give a 500 mL IV fluid bolus to increase urine output"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: absent DTRs (the earliest sign), RR <12, and oliguria <30 mL/h. Analyze cues: magnesium is cleared by the kidneys, so low urine output lets the level climb, and this client is toxic. Prioritize hypotheses: progression to respiratory arrest. Take action: STOP the infusion first, call the provider, support the airway, then give calcium gluconate per order. Evaluate outcomes: RR ≥12, DTRs return, and serum Mg is back in range.",
+        "incorrect": [
+          "Calcium gluconate is the antidote and will be needed, but stopping the source comes first. Giving the antidote while magnesium is still running treats the problem while making it worse.",
+          "Toxicity calls for stopping the infusion, not slowing it. \"Halve and recheck\" is the listed trap.",
+          "Bolusing fluid in preeclampsia risks pulmonary edema. Oliguria on magnesium is reported, not fluid-challenged."
+        ]
+      }
+    },
+    {
+      "stem": "A client with preeclampsia with severe features has been on magnesium sulfate for 6 hours. Which finding best indicates the medication is achieving its intended effect?",
+      "options": [
+        "BP has decreased from 166/112 to 138/88",
+        "Patellar reflexes are 4+ with two beats of clonus, and the client is alert",
+        "No seizure activity, patellar reflexes 2+, RR 16, and urine output 45 mL/h",
+        "Contractions have decreased from every 3 minutes to every 8 minutes"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: in preeclampsia, magnesium is given for SEIZURE PROPHYLAXIS. It works when there are no seizures and the level is therapeutic but not toxic: DTRs present (1–2+), RR ≥12, UO ≥30 mL/h, and the client is alert. Analyze cues: choose the outcome that matches the drug's purpose, not a side effect.",
+        "incorrect": [
+          "Magnesium is not an antihypertensive. A BP drop reflects labetalol, hydralazine, or nifedipine, so this measures the wrong outcome.",
+          "4+ reflexes with clonus mean CNS irritability and rising seizure risk, which is worsening disease, not a therapeutic effect. Notify the provider.",
+          "Magnesium does relax the uterus, but stopping contractions is not its purpose in preeclampsia, where delivery is the cure."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 29 weeks in preterm labor is starting IV magnesium sulfate and has no hypertension. The client asks, \"Why do I need this medicine?\" Which response by the nurse is accurate?",
+      "options": [
+        "\"It prevents you from having seizures while you're in labor.\"",
+        "\"It helps protect your baby's brain and lowers the risk of cerebral palsy if your baby is born early.\"",
+        "\"It speeds up development of your baby's lungs before birth.\"",
+        "\"It stops your contractions permanently so the pregnancy can continue to term.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: preterm labor at 29 weeks and a normotensive client. Analyze cues: the same drug has two jobs. In preterm labor (especially <32 weeks), magnesium provides FETAL NEUROPROTECTION. In preeclampsia, it prevents MATERNAL seizures. Take action: give the indication-specific explanation. Evaluate outcomes: the client can state the purpose of each medication in the preterm labor plan.",
+        "incorrect": [
+          "Seizure prophylaxis is magnesium's purpose in preeclampsia. This client has no hypertensive disorder, so that answer gives the wrong reason for the drug.",
+          "Lung maturity is the job of the corticosteroid (betamethasone/dexamethasone), not magnesium.",
+          "Tocolytics only DELAY birth (often about 48 h) to buy time for steroids. Nothing stops preterm labor permanently, and magnesium is given here for the baby's brain."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 30 weeks in preterm labor has gestational diabetes managed with insulin. HR 92, BP 118/72. Which prescription should the nurse question?",
+      "options": [
+        "Betamethasone 12 mg IM, 2 doses 24 hours apart",
+        "Terbutaline 0.25 mg subcutaneously for tocolysis",
+        "Magnesium sulfate IV for fetal neuroprotection",
+        "Penicillin G IV for GBS prophylaxis"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: insulin-requiring diabetes plus a beta-agonist tocolytic. Analyze cues: terbutaline causes hyperglycemia, hypokalemia, and tachycardia, and it is avoided in diabetes (and cardiac disease). Generate solutions: another tocolytic (nifedipine, or indomethacin before 32 weeks) avoids the glucose effect. Take action: question the terbutaline. Evaluate outcomes: maternal glucose stays in range during treatment.",
+        "incorrect": [
+          "This is appropriate. Betamethasone is still indicated for fetal lungs at 30 weeks. It raises glucose too, so the nurse monitors closely, but it is not contraindicated.",
+          "This is appropriate. Neuroprotective magnesium is indicated when birth is likely before 32 weeks.",
+          "This is appropriate. GBS prophylaxis is part of preterm labor management."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 35 weeks with severe preeclampsia receives IV hydralazine for a BP of 170/112. Twenty minutes later, BP is 112/68, HR is 118, and the FHR tracing shows new recurrent late decelerations. Which conclusion should the nurse draw?",
+      "options": [
+        "The antihypertensive worked as intended, and the late decelerations are unrelated",
+        "The client is developing magnesium toxicity, so the infusion should be stopped",
+        "The rapid BP drop has reduced uterine perfusion, and the provider should be notified now",
+        "The tracing indicates cord compression, so the client should be placed in Trendelenburg"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a drop from 170/112 to 112/68 within 20 minutes, reflex tachycardia, and NEW late decelerations. Analyze cues: late decelerations reflect uteroplacental insufficiency. In preeclampsia the placenta relies on maternal pressure, so dropping the BP too fast cuts placental perfusion. Take action: left lateral position, IV fluids per order, oxygen as indicated, and notify the provider. Evaluate outcomes: decelerations resolve as BP is brought into a safer target range.",
+        "incorrect": [
+          "Getting BP out of the severe range is the goal, but not this low this fast. The new late decelerations are linked to the overshoot.",
+          "Magnesium toxicity shows as lost DTRs, respiratory depression, and oliguria. It does not cause a sudden BP drop just after hydralazine.",
+          "Cord compression causes VARIABLE decelerations. Late decelerations mean poor placental perfusion, so this misreads the tracing."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is returning calls from four clients at 31 weeks' gestation. Which client should be told to come to labor and delivery now?",
+      "options": [
+        "\"My belly got tight a few times this afternoon, but it stopped after I lay down and drank some water.\"",
+        "\"I've had a dull ache in my lower back all day, and my belly tightens about every 10 minutes, but it doesn't hurt.\"",
+        "\"I have a sharp pain on one side of my belly when I stand up quickly, and it goes away in a few seconds.\"",
+        "\"I've had thin white discharge for a few weeks. It hasn't changed and has no smell.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a constant dull low backache plus regular tightening every 10 minutes. Analyze cues: preterm labor contractions are often PAINLESS. Contractions every 10 minutes for 1 hour and a constant low backache are both warning signs on the slide. Prioritize hypotheses: possible preterm labor at 31 weeks, when tocolytics, steroids, and magnesium only help if there is time. Take action: have the client come in now for evaluation.",
+        "incorrect": [
+          "Irregular tightening that stops with rest and fluids is typical of Braxton Hicks, which is lower priority.",
+          "Brief, sharp, position-related pain fits round ligament pain, not preterm labor.",
+          "A CHANGE in discharge is a warning sign. Unchanged, odorless leukorrhea for weeks is not."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a history of preterm birth had a cervical cerclage placed at 14 weeks. At 24 weeks, the nurse reviews warning signs. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"If I start leaking fluid, the stitch will keep the baby in, so I can wait until my next appointment.\"",
+        "\"If I feel pressure low in my pelvis like the baby is pushing down, I'll call right away.\"",
+        "\"Cramps like my period, even with diarrhea, are a reason to call the office.\"",
+        "\"Contractions every 10 minutes for an hour count even if they don't hurt.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client believes the cerclage makes leaking fluid safe to ignore. Analyze cues: a cerclage reinforces a weak cervix. It does not prevent ROM, infection, or labor, and contractions against a stitch can tear the cervix. Take action: teach that leaking fluid or contractions with a cerclage mean coming in now. Evaluate outcomes: the client states the signs that require an immediate visit.",
+        "incorrect": [
+          "This is correct. Pelvic pressure or heaviness is a preterm labor warning sign.",
+          "This is correct. Menstrual-like cramps with or without diarrhea are a warning sign.",
+          "This is correct. Preterm contractions are often painless, so frequency matters more than pain."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 30 weeks is admitted in preterm labor with the cervix 3 cm dilated. GBS status is unknown. Which prescriptions does the nurse anticipate? Select all that apply.",
+      "options": [
+        "Nifedipine to delay birth",
+        "Betamethasone IM for fetal lung maturity",
+        "Magnesium sulfate to prevent maternal seizures",
+        "IV antibiotics for GBS prophylaxis",
+        "Oxytocin to regulate the contraction pattern",
+        "Magnesium sulfate for fetal neuroprotection"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Preterm labor management: tocolytic (nifedipine, terbutaline, indomethacin) to buy time, corticosteroids for lungs, magnesium for fetal NEUROPROTECTION, and antibiotics for GBS, plus left-side rest, VS, I&O, and monitoring. Mnemonic: Stop it, Lungs, Brain, Bugs.",
+        "incorrect": [
+          "Correct—a tocolytic delays birth so steroids and magnesium have time to work.",
+          "Correct—corticosteroids reduce respiratory distress in a 30-week newborn.",
+          "Incorrect—same drug, wrong purpose. This client is not hypertensive, and in preterm labor magnesium protects the fetal brain, not the mother.",
+          "Correct—unknown GBS status in preterm labor calls for prophylaxis to prevent newborn sepsis.",
+          "Incorrect—oxytocin would strengthen preterm contractions, the opposite of the goal.",
+          "Correct—magnesium sulfate is given for fetal neuroprotection when birth is likely before 32 weeks."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 1 day postpartum after repair of a laceration that extended through the anal sphincter and into the rectal mucosa. Which prescription should the nurse question?",
+      "options": [
+        "Bisacodyl 10 mg rectal suppository PRN constipation",
+        "Docusate sodium 100 mg PO twice daily",
+        "Ice pack to the perineum for the first 24 hours",
+        "Ibuprofen 600 mg PO every 6 hours PRN pain"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a tear through the sphincter AND the rectal mucosa is a 4th-degree laceration. Analyze cues: anything inserted into the rectum can disrupt the repair and cause a fistula. Take action: question the rectal suppository and ask for an oral alternative. Evaluate outcomes: soft stools without straining, using oral softeners, fluids, fiber, and ambulation.",
+        "incorrect": [
+          "This is appropriate. A stool softener prevents straining against the repair.",
+          "This is appropriate. Cold in the first 24 hours reduces edema, bleeding, and pain.",
+          "This is appropriate. Oral pain medication is part of laceration care."
+        ]
+      }
+    },
+    {
+      "stem": "Six hours after a vaginal birth with a second-degree laceration, a client's perineum is swollen and sore. The client asks for a warm sitz bath because \"my sister said it really helped her.\" Which response by the nurse is best?",
+      "options": [
+        "\"Yes, I'll set up a warm sitz bath now, since warmth increases blood flow to help healing.\"",
+        "\"A sitz bath isn't recommended after a laceration, so let's use the numbing spray instead.\"",
+        "\"Let's run a warm tub bath instead, so you can soak your whole perineum.\"",
+        "\"Let's use an ice pack for now. Warm sitz baths work best starting after the first 24 hours.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 6 hours postpartum with perineal edema. Analyze cues: cold first, warm later. In the first 24 hours, ice causes vasoconstriction, which reduces edema and bleeding. After 24 hours, warm sitz baths increase circulation to promote healing. Take action: apply an ice pack now and plan sitz baths after 24 hours. Evaluate outcomes: swelling and pain decrease.",
+        "incorrect": [
+          "Warmth this early dilates vessels and can increase edema and bleeding. The timing is wrong, which is the classic trap.",
+          "Sitz baths ARE part of laceration care, just after 24 hours. Topical anesthetic is an add-on, not a replacement.",
+          "Tub soaks are not the recommended perineal care postpartum, and warmth is still premature at 6 hours."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching perineal care to a client with a repaired second-degree laceration. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll squirt warm water from front to back with my peribottle every time I use the bathroom.\"",
+        "\"I'll take the stool softener and drink plenty of water so I don't strain.\"",
+        "\"I'll try to hold off on having a bowel movement until my stitches have healed.\"",
+        "\"I'll call if the pain suddenly gets much worse or I feel a lot of pressure down there.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to delay bowel movements. Analyze cues: withholding stool leads to hard stools and straining, which stresses the repair. That is the opposite of the constipation-prevention goal (docusate, fluids, fiber, ambulation). Take action: teach that a soft, regular BM is expected and safe with softeners. Evaluate outcomes: the client has a soft BM without straining.",
+        "incorrect": [
+          "This is correct. Front-to-back peribottle rinsing after each void or BM promotes hygiene and comfort.",
+          "This is correct. Stool softeners and fluids prevent straining.",
+          "This is correct. Sudden severe pain or pressure can signal a hematoma and should be reported."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 26 weeks' gestation is evaluated after a low-speed car crash. Blood type is O-negative, and the antibody screen earlier in pregnancy was negative. There is no vaginal bleeding, VS are normal, and there is mild abdominal tenderness where the seat belt crossed. FHR is 145 with accelerations. The client asks to go home. Which plan should the nurse anticipate?",
+      "options": [
+        "Discharge after a reactive NST, with RhoGAM given at the routine 28-week visit",
+        "Discharge with bleeding precautions, since RhoGAM is only needed when vaginal bleeding is seen",
+        "Rh immune globulin after the trauma, plus several hours of continuous fetal and contraction monitoring",
+        "Rh immune globulin only if the newborn is later found to be Rh-positive at birth"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: Rh-negative and unsensitized (negative antibody screen), abdominal trauma, and uterine tenderness. Analyze cues: trauma can cause fetal–maternal hemorrhage, which can sensitize the client to Rh-positive fetal cells. It can also cause abruption that shows up hours later, even with no bleeding. Generate solutions: give RhoGAM after the trauma, as after any loss, bleeding, or trauma, and continue monitoring for hours. Take action: anticipate both. Evaluate outcomes: no contractions, bleeding, or FHR changes over the monitoring period.",
+        "incorrect": [
+          "One reactive NST is not enough after abdominal trauma, because abruption can develop over hours. Waiting until 28 weeks leaves a window for sensitization from this event.",
+          "Fetal blood can enter the maternal circulation without any visible bleeding. This is the \"no bleeding after a car crash = discharge\" trap.",
+          "Waiting until birth misses sensitization that may already have happened from the trauma. Once antibodies form, RhoGAM cannot reverse them."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews four postpartum clients 30 hours after birth. Which client should receive Rh immune globulin (RhoGAM)?",
+      "options": [
+        "An Rh-negative client with a negative antibody screen whose newborn is Rh-positive",
+        "An Rh-negative client whose newborn is Rh-negative",
+        "An Rh-negative client with a positive anti-D antibody titer from a previous pregnancy, whose newborn is Rh-positive",
+        "An Rh-positive client whose newborn is Rh-negative"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: maternal Rh status, newborn Rh status, and whether the client is already sensitized. Analyze cues: RhoGAM PREVENTS sensitization in an Rh-negative person exposed to Rh-positive fetal blood. It is given within 72 hours of birth. Take action: give it to the unsensitized Rh-negative client with an Rh-positive newborn (30 hours is within the window). Evaluate outcomes: the antibody screen stays negative in future pregnancies.",
+        "incorrect": [
+          "An Rh-negative newborn carries no Rh antigen to sensitize the client, so there is nothing to prevent.",
+          "This client is already sensitized. RhoGAM prevents antibody formation but cannot remove antibodies that already exist, so it is the \"RhoGAM treats existing antibodies\" trap. This pregnancy history calls for close fetal surveillance next time.",
+          "An Rh-positive client cannot be sensitized to the Rh antigen. Rh incompatibility requires an Rh-negative birthing parent."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 41 weeks has oligohydramnios (estimated fluid volume less than 500 mL). Membranes are ruptured, and the FHR shows recurrent variable decelerations. Which intervention should the nurse anticipate?",
+      "options": [
+        "Amnioreduction to decompress the uterus",
+        "Oral indomethacin to decrease fetal urine production",
+        "Magnesium sulfate to relax the uterus between contractions",
+        "Amnioinfusion of warmed isotonic fluid through an intrauterine catheter"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: oligohydramnios with recurrent VARIABLE decelerations. Analyze cues: variable decelerations reflect cord compression, and with little fluid the cord has no cushion. Generate solutions: oligohydramnios is managed by adding fluid (amnioinfusion), close fetal surveillance, and birth for fetal compromise. Take action: anticipate amnioinfusion. Evaluate outcomes: variable decelerations decrease in depth and frequency.",
+        "incorrect": [
+          "Amnioreduction removes fluid and is a treatment for POLYhydramnios. It would worsen cord compression here.",
+          "Indomethacin lowers fetal urine output to reduce fluid in polyhydramnios. It would deepen oligohydramnios.",
+          "Magnesium does not restore the fluid cushion around the cord. Its uses are seizure prophylaxis and fetal neuroprotection."
+        ]
+      }
+    },
+    {
+      "stem": "A client at 32 weeks is admitted with preterm premature rupture of membranes (PPROM) and is not in labor. Expectant management is planned. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        "Monitor maternal temperature and the FHR baseline for tachycardia",
+        "Perform a digital cervical exam each shift to track dilation",
+        "Assess the amniotic fluid's color, odor, and amount",
+        "Administer betamethasone as prescribed",
+        "Encourage a warm tub bath to relieve back discomfort",
+        "Teach the client to report uterine tenderness or contractions"
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "PPROM before 37 weeks with immature lungs = expectant management: no digital exams until active labor, infection surveillance (chorioamnionitis), fluid assessment (COAT), steroids, contraction identification, education and support.",
+        "incorrect": [
+          "Correct—maternal fever and maternal or fetal tachycardia are early signs of chorioamnionitis.",
+          "Incorrect—no unsterile digital cervical exams until active labor. Each exam carries bacteria toward the uterus.",
+          "Correct—foul-smelling or cloudy fluid suggests infection, so fluid characteristics are assessed.",
+          "Correct—at 32 weeks the fetal lungs are immature, so steroids are part of expectant management.",
+          "Incorrect—soaking in a tub with ruptured membranes conflicts with infection prevention.",
+          "Correct—uterine tenderness can signal infection, and contractions signal labor. Both need prompt evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "A multiparous client arrived 40 minutes ago at 4 cm and now says, \"The baby is coming!\" The nurse sees the head crowning. The provider is not in the building. Which action should the nurse take?",
+      "options": [
+        "Leave briefly to get the emergency delivery kit and the charge nurse from the desk",
+        "Stay with the client, call for help, and apply gentle pressure to the head to control its delivery",
+        "Tell the client to cross their legs and pant until the provider arrives",
+        "Transfer the client to the delivery room on the stretcher before the head delivers"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a very rapid labor (a precipitous birth is the entire labor and birth in under 3 hours) with the head crowning and no provider. Prioritize hypotheses: the risks are maternal laceration and hemorrhage and fetal trauma from an uncontrolled birth. Take action: promote safety by never leaving the client, calling for help, and gently supporting the head so it delivers slowly. Evaluate outcomes: after birth, check the fundus, bleeding, and perineum, and watch the newborn for trauma and TTN.",
+        "incorrect": [
+          "Leaving a client whose baby is crowning risks an unattended, uncontrolled birth. Use the call light and staff instead.",
+          "Holding the legs together or delaying the birth puts pressure on the fetal head and risks hypoxia and trauma.",
+          "Moving the client while the head is crowning risks a birth on the stretcher with no control. Birth is imminent, so deliver where the client is."
+        ]
+      }
+    },
+    {
+      "stem": "Moments after a client's membranes rupture in active labor, the client becomes acutely confused and short of breath. SpO2 is 82%, BP 70/40, HR 138, and blood is oozing from the IV site. BP was 118/72 ten minutes earlier. Which action is the priority?",
+      "options": [
+        "Give a magnesium sulfate bolus for suspected eclampsia",
+        "Activate the emergency response, apply high-flow oxygen, and prepare to support circulation and correct coagulopathy",
+        "Turn the client to the left side and stop oxytocin for decreased placental perfusion",
+        "Give naloxone for respiratory depression from epidural opioids"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sudden hypoxia, hypotension, altered mental status, and new bleeding (coagulopathy) right after ROM. Analyze cues: amniotic fluid entering the maternal circulation causes intense pulmonary vasoconstriction and bronchoconstriction, which is amniotic fluid embolism. Prioritize hypotheses: cardiopulmonary collapse with DIC. Take action: supportive measures for oxygenation, hemodynamic support, coagulopathy correction, and critical care monitoring. Evaluate outcomes: SpO2, BP, and bleeding respond to resuscitation.",
+        "incorrect": [
+          "Eclampsia presents with HYPERtension and seizures, not sudden shock with bleeding. That is the listed AFE trap.",
+          "Left side and stopping oxytocin are reasonable intrauterine resuscitation steps, but they treat fetal perfusion. They do not address maternal cardiopulmonary collapse and coagulopathy.",
+          "Opioid respiratory depression causes a slow RR and sedation. It does not cause abrupt hypotension, a SpO2 of 82% with tachycardia, and oozing from IV sites."
+        ]
+      }
+    },
+    {
+      "stem": "A client who is breastfeeding is diagnosed with mastitis on postpartum day 10. Temperature is 38.6 °C (101.5 °F), and there is a red, hot, wedge-shaped area on the left breast. Antibiotics are prescribed. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll finish all of the antibiotics even if I feel better in a couple of days.\"",
+        "\"I'll stop nursing on the left side until the antibiotics clear the infection.\"",
+        "\"I'll keep nursing or pumping often so that breast empties well.\"",
+        "\"I'll start feedings on the left side when I can tolerate it.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: postpartum fever >38 °C after the first 24 hours with a unilateral, red, hot, wedge-shaped area means mastitis. Analyze cues: milk stasis feeds the infection, and management is breast EMPTYING plus antibiotics. Take action: teach the client to keep feeding or pumping on the affected side. Evaluate outcomes: the fever resolves and the redness fades within days of treatment, with continued effective emptying.",
+        "incorrect": [
+          "This is correct. Finishing the antibiotic course prevents relapse and abscess.",
+          "This is correct. Frequent emptying of the affected breast is a core treatment for mastitis.",
+          "This is correct. Starting on the affected side empties it best, and feeding can continue during treatment."
+        ]
+      }
+    },
+    {
+      "stem": "On postpartum day 2 after a cesarean birth, a client who has been reluctant to walk suddenly reports sharp chest pain and says, \"I can't catch my breath. Something is wrong.\" RR 30, HR 124, SpO2 88% on room air. Earlier the client mentioned a sore, swollen right calf. Which action should the nurse take first?",
+      "options": [
+        "Raise the head of the bed, apply oxygen, and call the rapid response team",
+        "Give the prescribed PRN lorazepam for anxiety and recheck the VS in 15 minutes",
+        "Assess both calves and apply antiembolism stockings before calling the provider",
+        "Encourage coughing and incentive spirometer use for suspected atelectasis"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: risk factors (cesarean, immobility, the postpartum hypercoagulable state, a unilateral swollen calf) followed by sudden dyspnea, chest pain, tachycardia, low SpO2, and a sense of doom. Analyze cues: DVT that has embolized to the lungs. Prioritize hypotheses: pulmonary embolism, a life-threatening emergency. Take action: start emergency measures (HOB up, oxygen, rapid response) and anticipate anticoagulation with heparin. Evaluate outcomes: SpO2 and HR improve.",
+        "incorrect": [
+          "Anxiety here is a symptom of hypoxemia, not the cause. Sedating the client and waiting 15 minutes is the listed trap.",
+          "Stockings are a DVT prevention measure. Applying them while the client is hypoxic delays emergency care for a PE that may already have happened.",
+          "Atelectasis does not cause sudden chest pain with an SpO2 of 88% and a swollen calf. This anchors on a less dangerous hypothesis."
+        ]
+      }
+    }
+  ]
+}

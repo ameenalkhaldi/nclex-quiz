@@ -1,0 +1,958 @@
+{
+  "topic": "mat2-wk8-newborn",
+  "label": "Maternity 2: Week 8 — Newborn",
+  "questions": [
+    {
+      "stem": "At 1 minute after a vaginal birth, the nurse assesses a term newborn: heart rate 96/min, a good strong cry, active motion with the arms and legs well flexed, a grimace when the nose is bulb-suctioned, and a pink body with blue hands and feet. Which Apgar score and plan are correct?",
+      "options": [
+        "6, moderate difficulty; stimulate the newborn and support breathing before skin-to-skin",
+        "7, normal range; continue skin-to-skin and routine transition care, then score again at 5 minutes",
+        "8, normal range; continue skin-to-skin and routine transition care, then score again at 5 minutes",
+        "5, moderate difficulty; move the newborn to the radiant warmer and notify the provider"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: score each of the five Apgar signs 0–2. Analyze cues: HR 96 is below 100 (1), a good strong cry (2), active motion and well flexed (2), a grimace (1), and a pink body with blue extremities (acrocyanosis) (1), for a total of 7. Prioritize hypotheses: 7–10 is the normal range, so this is a newborn transitioning normally. Take action: continue skin-to-skin and routine care, and repeat the score at 5 minutes as the Apgar requires.",
+        "incorrect": [
+          "This total comes from scoring acrocyanosis as 0, which is the classic trap. Pink body with blue extremities scores 1; only blue or pale all over scores 0. The misread cue then leads to unnecessary intervention.",
+          "This total comes from scoring HR 96 as 2. A heart rate of 2 requires more than 100/min, so 96 scores 1. The plan is right, but the score is miscalculated.",
+          "This total underscores two categories, such as a strong cry scored as 1 and acrocyanosis scored as 0. It also leads to unneeded separation from the parent, because 4–6 is the range that calls for stimulation and support."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews assessments on four term newborns. Which finding requires follow-up?",
+      "options": [
+        "A 1-hour-old who is crying vigorously with an apical heart rate of 172/min",
+        "A 3-hour-old in deep sleep with a heart rate of 102/min, pink color, and good tone",
+        "A 4-hour-old resting quietly with a respiratory rate of 72/min and nasal flaring",
+        "A 2-hour-old with irregular respirations of 48/min that include 8-second pauses"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: RR 72 with nasal flaring in a resting 4-hour-old. Analyze cues: the normal RR at rest is 30–60/min. Rates up to 60–80 are expected only in the first period of reactivity (0–30 minutes), and nasal flaring is a slide 5 problem sign at any rate. Prioritize hypotheses: tachypnea plus flaring at rest, after the first period of reactivity, points to respiratory distress (TTN, cold stress, hypoglycemia, or sepsis). Take action: assess SpO2, temperature, and glucose, and notify the provider.",
+        "incorrect": [
+          "Heart rate is judged against the baby's state. Newborns can reach 170+ while crying, so a crying 1-hour-old at 172 is expected. Recount when the newborn is calm.",
+          "In deep sleep, heart rate can fall toward ~70–100. A pink, well-toned, sleeping newborn at 102 needs a recheck when awake, not escalation.",
+          "Irregular, periodic breathing with short pauses is normal in a newborn. Apnea is a pause longer than 20 seconds, and an RR of 48 is within 30–60."
+        ]
+      }
+    },
+    {
+      "stem": "A parent of a 2-day-old says, “When she screams, the soft spot on top of her head puffs up. Is something wrong with her brain?” When the newborn is calm, the nurse palpates a soft, flat, diamond-shaped anterior fontanel about 4 cm across. Which response is best?",
+      "options": [
+        "“The soft spot can bulge briefly while she cries. It is flat now that she is calm, which is what we want to see.”",
+        "“Bulging can be a sign of pressure in the brain, so I will let the provider know so she can be evaluated today.”",
+        "“That is expected, but I will measure her head circumference every 4 hours to make sure it is not growing.”",
+        "“That soft spot usually closes in 2 to 3 months, so the bulging will stop happening once it closes.”"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the fontanel bulges only during crying and is soft and flat at rest. Analyze cues: crying raises intracranial pressure briefly, and that is a normal response. A fontanel that is bulging and tense at rest (↑ICP) or sunken (dehydration) is what must be reported. Generate solutions: the fontanel was assessed in the correct state (calm), and it is normal. Take action: reassure the parent and explain how to tell normal from abnormal.",
+        "incorrect": [
+          "This misreads the cue. Only a fontanel that is bulging at rest suggests increased ICP. Escalating a normal crying response creates alarm and is not supported by the assessment.",
+          "Serial head measurements every 4 hours are not indicated for a normal finding. This plan treats an expected finding as a possible problem.",
+          "This describes the posterior fontanel, which closes at about 2–3 months. The anterior fontanel closes at 12–18 months, so the reassurance is factually wrong."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-hour-old born by vacuum-assisted birth has a firm swelling over the right parietal bone that stops at the suture line. The swelling was not present at birth. Which nursing action is most important to include in the plan of care?",
+      "options": [
+        "Teach the parents that the swelling is scalp edema that will be gone within about 48 hours",
+        "Apply a cool compress to the swelling for 15 minutes every 2 hours to reduce its size",
+        "Assess the skin and sclera closely for jaundice and monitor bilirubin as prescribed",
+        "Notify the provider so the collection can be aspirated before it hardens"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a firm swelling that does not cross the suture line and appeared hours after a vacuum birth. Analyze cues: these features fit a cephalohematoma (blood under the periosteum), not caput succedaneum (soft edema that crosses sutures and is present at birth). Prioritize hypotheses: as the trapped blood breaks down it adds a bilirubin load, so jaundice is the main risk. Take action: monitor closely for jaundice and track bilirubin. The swelling itself resolves over weeks to months.",
+        "incorrect": [
+          "This describes caput succedaneum. A cephalohematoma lasts weeks to months, so this teaching sets a false expectation and misses the bilirubin risk.",
+          "Compresses are not part of cephalohematoma care, and they do not prevent the bilirubin load from the blood breaking down.",
+          "A cephalohematoma is not drained. It reabsorbs on its own, and aspiration adds a risk of infection. The trap is “caput requires drainage”; neither swelling is drained."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn has molding of the skull and a caput succedaneum after a long second stage of labor. The nurse explains both findings. Which parent statement indicates a need for further teaching?",
+      "options": [
+        "“The pointed shape of his head should round out over the next few days.”",
+        "“The puffy area crosses the lines between his skull bones, and it should go down in about 2 days.”",
+        "“If the puffy area isn't smaller by tomorrow, he will need to have it drained.”",
+        "“I can touch and gently wash his head the way I normally would.”"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parent believes caput needs drainage, which is the exact trap on the study guide. Analyze cues: caput succedaneum is soft-tissue edema that crosses suture lines and resolves in about 48 hours (2–3 days after a vacuum). It is never drained. Take action: correct the misunderstanding and explain that the swelling reabsorbs on its own.",
+        "incorrect": [
+          "This statement is correct. Molding from overlapping skull bones after a vaginal birth resolves in days.",
+          "This statement is correct. Caput crosses suture lines and is usually gone in about 48 hours.",
+          "This statement is correct. Molding and caput are benign, and normal gentle handling and washing are fine."
+        ]
+      }
+    },
+    {
+      "stem": "During the admission assessment of a 6-hour-old, the nurse notes several flat, blue-gray patches over the sacrum and buttocks. The newborn is pink, feeding well, and the birth was uncomplicated. Which action should the nurse take?",
+      "options": [
+        "Notify the provider to request coagulation studies and a platelet count",
+        "Document the size, location, and color of each patch in the newborn record",
+        "Report the patches as possible bruising according to the facility's child-protection policy",
+        "Reassure the parents and leave the patches out of the record because they are benign"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: flat, blue-gray patches on the sacrum and buttocks in a well newborn. Analyze cues: this is congenital dermal melanocytosis, a benign variation that is common in darker skin. Generate solutions: the nursing risk is that a later caregiver mistakes it for bruising. Take action: document the size, location, and color carefully so the record shows the patches were present at birth.",
+        "incorrect": [
+          "Widespread non-blanching petechiae would raise concern about platelets. Flat blue-gray patches in a well newborn are a benign pigment finding, so labs treat a normal variant as a problem.",
+          "This is the trap (“blue-gray patches = abuse”). The patches were present at birth in a newborn who has had no opportunity to be injured. Reporting them misreads the cue and harms the family.",
+          "Reassurance is appropriate, but leaving the patches out of the record removes the protection that documentation provides against later misidentification as abuse."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse assesses an 18-hour-old newborn. Which findings require follow-up? Select all that apply.",
+      "options": [
+        "Yellow tint to the face and sclera",
+        "Red blotches with small white-yellow papules on the trunk that come and go",
+        "Widespread non-blanching pinpoint red spots on the trunk and abdomen",
+        "Bluish lips and tongue while quietly alert",
+        "Tiny white papules across the nose and chin",
+        "A flat pink patch on the nape of the neck that darkens with crying"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues and analyze them by the hour of life: jaundice before 24 hours is pathologic, widespread non-blanching petechiae suggest infection or low platelets, and central cyanosis means hypoxemia. The other findings are benign skin variations (erythema toxicum, milia, a stork bite).",
+        "incorrect": [
+          "Correct—jaundice that appears before 24 hours is pathologic (hemolysis or sepsis) and must be reported.",
+          "Incorrect—this is erythema toxicum neonatorum, a benign rash that comes and goes and needs no treatment or isolation.",
+          "Correct—a few petechiae on the presenting part are expected, but widespread non-blanching spots suggest infection or low platelets.",
+          "Correct—central cyanosis of the lips and tongue indicates hypoxemia, unlike acrocyanosis of the hands and feet.",
+          "Incorrect—these are milia (blocked sebaceous glands), which are benign and resolve in weeks. Parents should not squeeze them.",
+          "Incorrect—this is a stork bite (salmon patch), which blanches, darkens with crying, and fades by about 1–2 years."
+        ]
+      }
+    },
+    {
+      "stem": "A parent holding their 1-hour-old says, “His hands and feet are blue. Is he not getting enough oxygen?” The nurse notes pink lips, tongue, and trunk, RR 52/min, and HR 146/min. Which response is best?",
+      "options": [
+        "“I'll apply oxygen by blow-by until his hands and feet turn pink.”",
+        "“I'll place him under the radiant warmer until his hands and feet turn pink.”",
+        "“I'll let the provider know about the color change so he can be checked.”",
+        "“Blue hands and feet are common for the first day or two. His lips and chest are pink, which shows he is oxygenating well.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: blue hands and feet with pink lips, tongue, and trunk, and normal RR and HR. Analyze cues: this is acrocyanosis, an expected finding for 24–48 hours caused by immature peripheral circulation. Central color (lips, tongue, trunk) shows oxygenation. Prioritize hypotheses: there is no hypoxemia. Take action: reassure and teach the parent how to tell acrocyanosis from central cyanosis, and continue skin-to-skin.",
+        "incorrect": [
+          "Oxygen treats hypoxemia, and central color and vital signs show none. Giving it would treat a normal finding (the trap “blue hands and feet at 1 hour = hypoxia”).",
+          "Acrocyanosis is not cold stress, and the temperature has not been found to be low. Removing the baby from skin-to-skin interrupts a better way to keep him warm and help him feed.",
+          "Notifying the provider about an expected finding with normal central color and vital signs escalates unnecessarily. Teaching the parent is what is needed."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfed newborn weighed 3,450 g at birth and weighs 3,070 g on day 3. How should the nurse interpret this finding?",
+      "options": [
+        "About an 11% loss, more than expected; assess the feeding and notify the provider",
+        "About a 9% loss, within the expected range; continue the current feeding plan",
+        "About an 11% loss, expected in the first week; recheck the weight at the 2-week visit",
+        "About a 12% loss, more than expected; begin formula supplements before assessing the feeding"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: birth weight 3,450 g, current weight 3,070 g. Analyze cues: 3,450 − 3,070 = 380 g, and 380 ÷ 3,450 ≈ 0.11, or 11%. Term newborns normally lose 5–10% in the first week (low intake, fluid shifts, insensible loss), so more than 10% calls for evaluation. Take action: observe a feeding (latch, audible swallowing), count diapers, and notify the provider for a feeding plan.",
+        "incorrect": [
+          "This is a calculation error. The loss is 11%, not 9%, so continuing as usual misses inadequate intake.",
+          "The math is right, but the interpretation is wrong. Loss above 10% is not expected and needs evaluation now, not at 2 weeks.",
+          "The percentage is wrong, and supplementing before assessing the feeding skips Analyze cues. The cause of the poor intake (for example, latch) has to be found first."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse completes anthropometric measurements on four term newborns. Which finding should the nurse report?",
+      "options": [
+        "Weight 3,900 g, length 52 cm",
+        "Head circumference 34 cm, chest circumference 32 cm",
+        "Length 47 cm, weight 2,650 g",
+        "Head circumference 30 cm, chest circumference 32 cm"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: HC 30 cm, smaller than the chest at 32 cm. Analyze cues: a normal term HC is 32–38 cm and about 2 cm larger than the chest. A head below the normal range and smaller than the chest suggests microcephaly. Take action: report it for further evaluation.",
+        "incorrect": [
+          "Weight (2,500–4,000 g) and length (45–55 cm) are both within normal term ranges. More than 4,000 g would be macrosomia.",
+          "This is the expected relationship: HC is in range and about 2 cm larger than the chest.",
+          "Both values are low-normal but within range (length 45–55 cm, weight at least 2,500 g)."
+        ]
+      }
+    },
+    {
+      "stem": "A 4,300-g newborn was delivered after a shoulder dystocia. When the nurse elicits the Moro reflex, the left arm extends and abducts, but the right arm stays limp at the side. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "The reflex is still immature in the first 24 hours, so the nurse should retest after the next feeding",
+        "The newborn may have a brachial plexus injury or a clavicle fracture, so the nurse should report the finding",
+        "The newborn is in a quiet sleep state, so the nurse should rouse the infant fully and retest",
+        "The finding reflects normal newborn hypotonia, so the nurse should document it and reassess at discharge"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an asymmetric Moro after a shoulder dystocia in a macrosomic newborn. Analyze cues: slide 12 stresses that observing spontaneous movement and symmetry is critical to the neurologic exam. A one-sided Moro points to a brachial plexus injury or clavicle fracture. Prioritize hypotheses: birth injury is the leading explanation given the history. Take action: limit movement of the arm, assess the clavicle, and notify the provider.",
+        "incorrect": [
+          "The Moro is present and symmetric in a healthy term newborn at birth. Delaying the report postpones evaluation of a likely injury.",
+          "State affects how strong the response is, but it does not explain one limp arm while the other moves fully. This misreads the cue.",
+          "Generalized hypotonia (a flaccid posture) would be a slide 5 problem sign, not a normal finding, and one-sided weakness is not hypotonia. Documenting and waiting misses an injury."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews skin findings with the parents of a 2-day-old. Which statement indicates a need for further teaching?",
+      "options": [
+        "“The tiny white bumps on her nose will clear on their own, so I won't squeeze them.”",
+        "“The blotchy red rash that moves around is harmless and doesn't need any cream.”",
+        "“The flat, dark red-purple mark on her cheek will fade like the pink patch on her neck.”",
+        "“The pink patch on the back of her neck may look darker when she cries.”"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parent has confused a nevus flammeus (port-wine stain) with a stork bite. Analyze cues: a port-wine stain is flat, dark red-purple, does not blanch, and is permanent. On the face it warrants evaluation (Sturge-Weber, reference). A stork bite fades by about 1–2 years. Take action: correct the teaching and reinforce follow-up for the facial mark.",
+        "incorrect": [
+          "This statement is correct. Milia are benign blocked sebaceous glands that resolve in weeks and should not be squeezed.",
+          "This statement is correct. Erythema toxicum is benign, transient, and needs no treatment or isolation.",
+          "This statement is correct. Stork bites blanch and become more visible with crying."
+        ]
+      }
+    },
+    {
+      "stem": "Parents of a 40-minute-old exclusively breastfed newborn tell the nurse, “We want to keep things natural, so we're declining the vitamin K shot.” Which response by the nurse is best?",
+      "options": [
+        "“The shot is required before discharge, so I'll give it after your first feeding.”",
+        "“That's fine for now. We can give it at your 3- to 5-day follow-up visit if you change your minds.”",
+        "“Can you tell me what worries you about it? Babies are born without the gut bacteria that make vitamin K, so they're at risk for serious bleeding, even in the brain.”",
+        "“Since you're breastfeeding, your milk will provide protection, so I'll document that you declined.”"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: parents declining vitamin K for an exclusively breastfed newborn, which is the higher-risk group. Analyze cues: little vitamin K crosses the placenta and the sterile newborn gut cannot make it, so clotting factors are low and vitamin K deficiency bleeding (including intracranial bleeding) can occur. Generate solutions: the study guide says to educate and explore concerns, without coercing or delaying. Take action: ask what they are worried about, teach the bleeding risk, and document their informed decision if they still decline.",
+        "incorrect": [
+          "Telling parents a treatment is mandatory and then giving it is coercion. It removes informed consent, which the study guide names as a trap.",
+          "Vitamin K is given within about the first hour. Deferring it to a later visit leaves the newborn unprotected during the period of risk, so this choice is unsafe.",
+          "This is the opposite of the facts. Breast milk is low in vitamin K, so breastfed babies are at higher risk. Documenting a refusal based on false reassurance is not informed consent."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews admission prescriptions for a healthy term newborn of a mother who is HBsAg negative. Which prescription should the nurse clarify with the provider?",
+      "options": [
+        "Erythromycin 0.5% ophthalmic ointment to both eyes once",
+        "Phytonadione 1 mg IM in the dorsogluteal muscle within 1 hour of birth",
+        "Hepatitis B vaccine IM in the vastus lateralis within 24 hours, after parental consent",
+        "Heel-stick newborn screen after 24 hours of feeding"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the vitamin K dose and timing are appropriate, but the site is dorsogluteal. Analyze cues: newborn IM injections go in the vastus lateralis (thigh). The newborn gluteal muscles are undeveloped, and that site risks sciatic nerve injury. Take action: clarify the route and site before giving the dose so the vitamin K is still given within the first hour.",
+        "incorrect": [
+          "Erythromycin 0.5% to both lower conjunctival sacs is standard prophylaxis against ophthalmia neonatorum.",
+          "Hepatitis B vaccine IM in the thigh within 24 hours, with consent, is appropriate. HBIG is added only when the mother is HBsAg positive.",
+          "The screen is drawn after 24 hours of feeding so that PKU results are accurate. This timing is correct."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches a breastfeeding parent about the newborn's vitamin K injection. Which statement indicates a need for further teaching?",
+      "options": [
+        "“The shot helps her blood clot because her gut can't make vitamin K yet.”",
+        "“Because I'm breastfeeding, it's even more important that she gets it.”",
+        "“The shot also keeps her from getting yellow skin in the first week.”",
+        "“It protects her from serious bleeding, including bleeding in the brain.”"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parent thinks vitamin K prevents jaundice, which is a study-guide trap. Analyze cues: vitamin K supports the liver's production of clotting factors (II, VII, IX, X) to prevent vitamin K deficiency bleeding. It has no effect on bilirubin. Take action: clarify that jaundice is managed with frequent feeding and phototherapy when indicated.",
+        "incorrect": [
+          "This statement is correct. The sterile newborn gut has no bacteria to make vitamin K.",
+          "This statement is correct. Breast milk is low in vitamin K, so breastfed infants are at higher risk.",
+          "This statement is correct. Vitamin K deficiency bleeding can include intracranial hemorrhage."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-minute-old term newborn is skin-to-skin, rooting, and beginning to latch for the first breastfeed. The nurse has erythromycin ophthalmic ointment and vitamin K prescribed. Which plan is best?",
+      "options": [
+        "Instill the eye ointment now, before the latch, so that it does not blur vision during bonding",
+        "Hold both medications until after the first bath so the skin is clean for the injection",
+        "Leave out the eye ointment because the mother's prenatal STI screening was negative",
+        "Allow uninterrupted skin-to-skin and the first breastfeed, then give the eye ointment and the vitamin K"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an alert newborn latching in the first period of reactivity, with two prescribed medications. Analyze cues: eye prophylaxis can wait until after the first breastfeed and bonding, and vitamin K is given within about the first hour. Generate solutions: protecting the first feed supports breastfeeding, glucose, and temperature without compromising either medication. Take action: complete the feed, then give both medications on time.",
+        "incorrect": [
+          "Interrupting the first latch for the ointment is unnecessary. The ointment blurs the newborn's vision during the bonding period it is meant to protect, so the reasoning is backward.",
+          "Tying the medications to the first bath could delay vitamin K beyond about the first hour. A bath is not an immediate intervention and risks cold stress.",
+          "The ointment is prescribed to prevent ophthalmia neonatorum (gonorrhea or chlamydia). The nurse does not leave out a prescribed medication on their own judgment, and a negative screen does not rule out infection acquired after the screen."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews safe sleep with the parents of a 2-day-old before discharge. Which statement indicates a need for further teaching?",
+      "options": [
+        "“I'll put him on his back for every sleep, even though he spits up.”",
+        "“I'll keep his bassinet in our room, next to our bed.”",
+        "“I'll put padded bumpers in the crib so he doesn't hit his head on the slats.”",
+        "“I'll keep the crib empty, with no pillows, blankets, or stuffed animals.”"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: bumpers are soft objects in the sleep space, which is a suffocation and SIDS risk and a named trap. Analyze cues: the safe sleep ABCs are Alone, on the Back, in a Crib with a firm flat surface and nothing in it. Take action: correct the plan and explain that a bare crib is the safest.",
+        "incorrect": [
+          "This statement is correct. Healthy babies clear spit-up when they are on their backs; placing them on the tummy after feeds is a trap.",
+          "This statement is correct. Room-sharing without bed-sharing is recommended.",
+          "This statement is correct. A bare crib with no pillows, blankets, or toys is recommended."
+        ]
+      }
+    },
+    {
+      "stem": "A parent of a 3-day-old says, “I'm exhausted from the night feeds. I'll just hold her on the couch so we can both doze off.” Which response by the nurse is best?",
+      "options": [
+        "“Falling asleep with her on a couch or recliner is very risky. When you feel drowsy, put her on her back in her bassinet.”",
+        "“That's fine as long as you put pillows on both sides of you so she can't roll off.”",
+        "“Swaddle her snugly first so she stays in one position while you both sleep.”",
+        "“A recliner is safer than a couch because it keeps her upright against your chest.”"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an exhausted parent planning to sleep holding the newborn on a couch. Analyze cues: sleeping with an infant on a couch or recliner is one of the highest-risk sleep situations (entrapment, suffocation), and fatigue raises the risk further. Generate solutions: give a concrete, safe alternative. Take action: teach the parent to move the baby to a separate safe surface, on her back, whenever they feel drowsy.",
+        "incorrect": [
+          "Pillows add soft-bedding suffocation risk and do not make couch sleeping safe. This is the trap “bed-sharing is safe with pillows around the baby.”",
+          "Swaddling does not address the danger of couch sleeping, and Safe Sleep Seven specifically excludes swaddling during shared sleep (overheating).",
+          "Recliners are named alongside couches as unsafe sleep surfaces. Being upright does not prevent the infant from slumping or becoming entrapped."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfeeding couple tells the nurse they plan to bedshare with their newborn. The nurse reviews the Safe Sleep Seven. Which details mean their plan does NOT meet the criteria? Select all that apply.",
+      "options": [
+        "The partner usually has 2 glasses of wine with dinner",
+        "They plan to swaddle the baby snugly in the bed",
+        "The baby was born at 34 weeks and is still in the special care nursery",
+        "The mother is exclusively breastfeeding",
+        "The baby will be placed on the back",
+        "They have a firm mattress with pillows kept away from the baby"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Analyze cues against all seven criteria (no smoking, sober adults, breastfeeding, healthy full-term baby, baby on back, no sweat, safe surface). Bedsharing is safer only when every criterion is met. Alcohol, swaddling, and a preterm infant each break one of them.",
+        "incorrect": [
+          "Correct—both adults must be sober, and alcohol impairs arousal.",
+          "Correct—“no sweat” means light clothing and no swaddling during bedsharing.",
+          "Correct—the criteria require a healthy full-term baby, and a 34-week infant does not qualify.",
+          "Incorrect—breastfeeding is one of the seven criteria, so this meets it.",
+          "Incorrect—baby on back meets a criterion.",
+          "Incorrect—a firm surface without pillows near the baby meets the safe-surface criterion."
+        ]
+      }
+    },
+    {
+      "stem": "On day 5, the nurse at the follow-up visit evaluates whether a breastfed newborn is feeding adequately. Which finding best indicates that breastfeeding is effective?",
+      "options": [
+        "Four wet diapers and two green stools a day, and the baby sleeps 5-hour stretches",
+        "Six pale wet diapers and three yellow, seedy stools a day, with audible swallowing during feeds",
+        "Ten feeds a day, but dark urine with orange-red crystals in the diaper",
+        "Content after feeds, but weight is 11% below birth weight"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: by about day 5, adequate intake is shown by at least 6 wet diapers with pale urine, 2–5 yellow stools a day, audible swallowing, and contentment after feeds. Analyze cues: every indicator in this option is met, with no leftover problem. Take action: reinforce feeding 8–12 times a day and continue weight checks.",
+        "incorrect": [
+          "Fewer than 6 wet diapers and stools that are still transitional green by day 5 suggest low intake. Long sleep stretches can be a sign of an underfed, sleepy baby, not a well-fed one.",
+          "Frequent feeds do not guarantee intake. Dark urine with brick-dust urate crystals after day 3 suggests dehydration, so the outcome is not met.",
+          "Contentment is reassuring, but a loss greater than 10% exceeds the expected 5–10% and needs evaluation. One leftover abnormal finding means the outcome is not met."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches a first-time parent about breastfeeding in the first week. Which statement indicates a need for further teaching?",
+      "options": [
+        "“I should breastfeed about 8 to 12 times every 24 hours.”",
+        "“By day 5 I should be changing at least 6 wet diapers a day.”",
+        "“I should be able to hear him swallowing while he nurses.”",
+        "“If he loses any weight this week, my milk isn't enough and I should switch to formula.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parent believes any weight loss means breastfeeding has failed. Analyze cues: term newborns normally lose 5–10% of birth weight in the first week because of low early intake, fluid shifts, and insensible loss. Loss above 10% is what needs evaluation. Take action: correct the misconception, which could otherwise lead to stopping breastfeeding without need.",
+        "incorrect": [
+          "This statement is correct. Breastfed newborns feed 8–12 times a day.",
+          "This statement is correct. At least 6 wet diapers by about day 5 indicates adequate intake.",
+          "This statement is correct. Audible swallowing is a sign of effective milk transfer."
+        ]
+      }
+    },
+    {
+      "stem": "A term newborn is being discharged at 20 hours of age, and the heel-stick newborn screen was drawn at 18 hours. Breastfeeding began at 1 hour of age. Which action by the nurse is correct?",
+      "options": [
+        "Teach the parents that the screen must be repeated after the baby has fed for at least 24 hours, and confirm where it will be drawn",
+        "Hold the discharge until 24 hours of age so the screen can be drawn again in the hospital",
+        "Reassure the parents that the result is valid because breastfeeding started within the first hour",
+        "Tell the parents a repeat screen is needed only if the baby develops poor feeding or jaundice"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the screen was drawn before 24 hours of feeding. Analyze cues: PKU screening depends on protein intake, so a sample taken before 24 hours of feeding can give a false negative and must be repeated. Generate solutions: the family can still be discharged as long as the repeat is arranged. Take action: teach why the repeat is needed and confirm the plan for it, such as at the 3–5 day visit.",
+        "incorrect": [
+          "At 24 hours of age this baby has fed for only 23 hours. Holding the discharge also adds a stay that is not needed when an outpatient repeat solves the problem.",
+          "Starting breastfeeding early does not make an 18-hour sample valid. The requirement is at least 24 hours of feeding, and accepting this result is the trap “one screen at 12 hours is enough.”",
+          "Conditions like PKU and hypothyroidism are silent in newborns. Waiting for symptoms defeats the purpose of screening."
+        ]
+      }
+    },
+    {
+      "stem": "Before discharge at 36 hours of age, a parent says, “Our first pediatric appointment is when she's 2 weeks old.” The newborn is breastfeeding and has mild facial jaundice. Which response by the nurse is best?",
+      "options": [
+        "“That works as long as she has at least 6 wet diapers a day.”",
+        "“Let's call the office together to move the visit to when she's 3 to 5 days old so her weight and jaundice can be checked.”",
+        "“That's fine. Call the office if her yellow color spreads down to her legs before then.”",
+        "“You can bring her to your own 6-week checkup so you can both be seen at once.”"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 2-week first visit for a breastfed newborn who already has jaundice. Analyze cues: slide 21 calls for an infant follow-up at 3–5 days of life, when bilirubin peaks (days 3–5) and feeding and weight problems appear. Take action: arrange a visit in that window rather than rely only on parent observation.",
+        "incorrect": [
+          "Diaper counts are useful teaching, but a 6-wet-diaper target does not apply on days 1–3, and counting diapers cannot measure bilirubin or weight. The follow-up visit is still too late.",
+          "Teaching warning signs is appropriate, but parents often underestimate jaundice. Relying on them alone replaces a scheduled 3–5 day visit with a correct-but-not-enough plan.",
+          "Combining with the mother's 6-week visit is a named trap. It misses the jaundice and weight-loss window completely."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches parents which newborn findings to report to the provider after discharge. Which findings should the parents report? Select all that apply.",
+      "options": [
+        "Axillary temperature of 36.1 °C (97.0 °F)",
+        "Only 3 wet diapers on day 5",
+        "Yellow skin spreading to the abdomen, and the baby is hard to wake for feeds",
+        "Black, sticky stool on the first day of life",
+        "Tiny white bumps across the nose",
+        "Breathing that is irregular with short pauses during sleep"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues the parents can see at home. Analyze cues: low temperature, too few diapers, and spreading jaundice with lethargy are discharge warning signs (fever or low temperature, poor feeding, lethargy, jaundice, fewer diapers, breathing trouble). Meconium on day 1, milia, and periodic breathing are expected.",
+        "incorrect": [
+          "Correct—a temperature below 36.5 °C is abnormal and in a newborn can signal sepsis.",
+          "Correct—fewer than 6 wet diapers by day 5 means inadequate intake or dehydration.",
+          "Correct—jaundice that is spreading together with lethargy suggests rising bilirubin and kernicterus risk.",
+          "Incorrect—black, tarry meconium is the expected first stool.",
+          "Incorrect—milia are benign and resolve on their own.",
+          "Incorrect—irregular, periodic breathing with short pauses is normal. Pauses longer than 20 seconds, grunting, or retractions would be reportable."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn is 2 hours old. The mother's prenatal labs show she is HBsAg positive. Which plan should the nurse anticipate?",
+      "options": [
+        "Hepatitis B vaccine before discharge, and HBIG only if the newborn's own HBsAg test is positive",
+        "HBIG within 12 hours of birth, with the hepatitis B vaccine deferred to the 2-month visit",
+        "Hepatitis B vaccine and HBIG, both given IM within 12 hours of birth, after parental consent",
+        "Hold both until the mother's viral load returns, to decide whether the newborn needs them"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a newborn exposed to an HBsAg-positive mother. Analyze cues: routine care is the hepatitis B vaccine within 24 hours, and an exposed newborn also needs HBIG within 12 hours. Generate solutions: active plus passive immunization gives the best protection against perinatal transmission. Take action: obtain consent and give both IM in the thigh, using separate thighs (standard practice), within 12 hours.",
+        "incorrect": [
+          "Waiting for the newborn's own test result misses the 12-hour window in which HBIG prevents infection. HBIG is given because of the exposure, not because of a positive result.",
+          "HBIG without the vaccine gives only short-term passive protection. Exposed newborns need the vaccine at birth too.",
+          "Waiting for maternal labs delays treatment beyond 12 hours. The HBsAg-positive result alone is the indication."
+        ]
+      }
+    },
+    {
+      "stem": "A parent calls about their 8-day-old: “The cord stump is black, dry, and hanging by a thread. It looks like it's bothering him. Can I just pull it off?” There is no redness, drainage, or odor. Which response by the nurse is best?",
+      "options": [
+        "“Yes, gently twist it off with clean hands if it is barely attached.”",
+        "“Cover it with a small gauze pad so it doesn't catch on his diaper.”",
+        "“Clean the base with rubbing alcohol at each diaper change until it falls off.”",
+        "“Leave it alone. It will fall off by itself. Keep folding the diaper below it.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a dry, black stump that is almost detached, with no signs of infection. Analyze cues: yellow, then brown, then black is normal drying. The stump is never pulled or loosened, because that can cause bleeding and open a portal for infection. Take action: reassure the parent, tell them to leave it alone, and continue air exposure with the diaper folded below the stump.",
+        "incorrect": [
+          "This is the exact trap “gently pull it off once it's loose.” Slide 19 says never pull or try to loosen the cord.",
+          "Covering the stump traps moisture and slows drying. The teaching is to expose it to air as much as possible.",
+          "Routine alcohol is not needed (reference). Clean with plain water only if it is soiled, then dry well. This adds an unnecessary step."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse in a pediatric clinic receives four phone messages. Which newborn should the nurse arrange to be seen first?",
+      "options": [
+        "A 4-day-old circumcised 2 days ago with a soft yellowish film over the glans",
+        "A 7-day-old with a dry, black cord stump and a few drops of dried blood near the base after it separated",
+        "A 6-day-old whose cord base is red, swollen, and foul-smelling, and who has been feeding poorly since this morning",
+        "A 5-day-old who has had sponge baths only, whose stump has turned from brown to black"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: redness, swelling, and foul odor at the cord base, plus a change in behavior (poor feeding). Analyze cues: these are signs of omphalitis that slide 19 says to report immediately. Poor feeding raises concern for spreading infection, because newborn sepsis is subtle. Prioritize hypotheses: local infection with possible systemic spread is the most urgent problem. Take action: arrange same-day evaluation now.",
+        "incorrect": [
+          "A yellowish film by day 2 after circumcision is normal granulation tissue. Expected healing is not urgent.",
+          "A dry, black stump is normal. A few drops of dried blood at separation is a minor finding to check, but it is not urgent compared with a cluster of infection signs and poor feeding.",
+          "Brown to black is normal drying, and sponge bathing is correct care. Nothing here needs urgent evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches umbilical cord care to the parents of a 1-day-old. Which statement indicates a need for further teaching?",
+      "options": [
+        "“We'll give sponge baths until the cord falls off and the area heals.”",
+        "“We'll keep the stump covered with a bandage so it stays clean.”",
+        "“We'll fold the top of the diaper down below the stump.”",
+        "“We'll call the doctor if we see redness, drainage, or a bad smell.”"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parents plan to cover the stump. Analyze cues: covering traps moisture and contamination. The stump should be exposed to air as much as possible to dry and separate. Take action: reteach air exposure with the diaper folded below the cord, and explain why.",
+        "incorrect": [
+          "This statement is correct. Tub baths are avoided until the cord has fallen off and the area has healed.",
+          "This statement is correct. Folding the diaper below the stump prevents contamination and promotes air-drying.",
+          "This statement is correct. Bleeding, redness, drainage, or foul odor are reported immediately."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn had a circumcision with a petroleum gauze dressing 7 hours ago. The diaper has been dry since the procedure, the glans is swollen, and the infant is fussy. Which action should the nurse take?",
+      "options": [
+        "Offer a feeding and recheck the diaper in 4 hours, because intake drives urine output",
+        "Assess the dressing and swelling for obstruction and notify the provider that the infant has not voided",
+        "Document the finding as expected, because the first void after circumcision can take up to 24 hours",
+        "Apply more petroleum jelly to the swollen area and fasten the diaper loosely"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: no void 7 hours after circumcision, with a swollen glans and a fussy infant. Analyze cues: confirming the first void is one of the two post-circumcision priorities, because swelling or a dressing can obstruct urine flow. No wet diaper in 6–8 hours is reportable. Prioritize hypotheses: urinary obstruction. Take action: assess the site for obstruction and notify the provider.",
+        "incorrect": [
+          "Feeding supports output, but waiting another 4 hours delays the response to a possible obstruction that is already overdue.",
+          "This confuses the first void after birth with voiding after circumcision. The site-specific expectation is a void within 6–8 hours, so documenting it as normal misses obstruction.",
+          "Petroleum jelly and a loose diaper are correct routine care, but they do not address a dry diaper and possible obstruction. It is the right action at the wrong priority."
+        ]
+      }
+    },
+    {
+      "stem": "Thirty minutes after a circumcision, the nurse finds fresh, bright red blood actively oozing from the site and a spot on the diaper larger than a quarter. Which action should the nurse take first?",
+      "options": [
+        "Fasten the diaper more snugly to apply pressure to the site",
+        "Apply a thick layer of petroleum jelly to seal the incision",
+        "Apply gentle pressure with sterile gauze, then notify the provider",
+        "Remove the gauze dressing and rinse the site to see where the blood is coming from"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: active bright red bleeding, larger than a quarter-sized spot. Analyze cues: a few drops are expected, but active bleeding is a complication, and a newborn's small blood volume makes even modest loss significant. Take action: apply gentle pressure with sterile gauze first, then notify the provider. Evaluate outcomes: reassess the site and diaper for continued bleeding.",
+        "incorrect": [
+          "Tightening the diaper is a named trap. It does not give controlled hemostasis, and it can harm the healing tissue and hide continued bleeding.",
+          "Petroleum jelly keeps the site from sticking to the diaper. It is not a hemostatic agent.",
+          "Removing the dressing and rinsing disrupts any clot that is forming and delays direct pressure."
+        ]
+      }
+    },
+    {
+      "stem": "On day 2 after circumcision, the nurse reviews home care with a parent. Which statement indicates a need for further teaching?",
+      "options": [
+        "“I'll put Vaseline on the area with every diaper change.”",
+        "“I'll fasten his diaper loosely so it doesn't rub.”",
+        "“It should be healed in about 10 days.”",
+        "“I'll gently wash the yellow crust off with soap at each change so it doesn't get infected.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parent plans to scrub off the yellow crust. Analyze cues: the yellowish exudate that forms by about day 2 is normal granulation tissue. Removing it disrupts healing, and it is a named trap. Take action: teach the parent to leave the crust in place and to report pus, increasing redness, swelling, fever, or bleeding.",
+        "incorrect": [
+          "This statement is correct. Vaseline or Neosporin at each change keeps the site from sticking to the diaper.",
+          "This statement is correct. Careful, loose diapering avoids pressure on the site.",
+          "This statement is correct. Slide 20 says the site heals within about 10 days."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse evaluates a newborn 4 hours after circumcision. Which finding best indicates that the infant is ready for discharge from a circumcision standpoint?",
+      "options": [
+        "Passed a large meconium stool and breastfed for 20 minutes",
+        "Slept quietly for 3 hours and has a temperature of 36.8 °C",
+        "Has a soft yellowish film forming on the glans and is calm",
+        "Has voided a full wet diaper, and the gauze shows no active bleeding"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the two post-circumcision priorities on slide 20 are the first void and the absence of bleeding. Analyze cues: a full wet diaper confirms there is no urinary obstruction, and dry gauze confirms hemostasis. Both outcomes are met, so the circumcision-specific criteria for discharge are satisfied.",
+        "incorrect": [
+          "Passing meconium is the named trap (“passing meconium is the key discharge criterion”). Stool says nothing about voiding or bleeding at the circumcision site.",
+          "Quiet sleep and a normal temperature are reassuring overall, but they do not confirm a void or the absence of bleeding.",
+          "The yellow film is normal granulation that forms by about day 2. It is not expected at 4 hours, and it does not show voiding or hemostasis."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse prepares discharge teaching for parents of a newborn who has an umbilical cord stump and a new circumcision. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Give sponge baths until the cord falls off and the area heals",
+        "Leave the cord stump open to air as much as possible",
+        "Apply petroleum jelly to the circumcision site with each diaper change",
+        "Clean the cord stump with rubbing alcohol several times a day",
+        "Wash off the yellowish crust on the circumcision site with soap",
+        "Call the provider if there is no wet diaper within 6 to 8 hours after the circumcision"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions: home care for both wounds aims to keep them clean and dry or protected, to support natural healing, and to recognize complications early (infection, bleeding, no void). Alcohol on the cord and scrubbing the granulation crust are not part of the teaching.",
+        "incorrect": [
+          "Correct—tub baths are avoided until the cord has fallen off and the site has healed.",
+          "Correct—air exposure promotes drying and separation.",
+          "Correct—Vaseline or Neosporin at each change keeps the site from sticking to the diaper.",
+          "Incorrect—routine alcohol is not needed (reference). Clean with plain water if soiled and dry well.",
+          "Incorrect—the yellow crust is normal granulation tissue and should not be scrubbed off.",
+          "Correct—no void within 6–8 hours suggests obstruction and should be reported."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-hour-old infant of a mother with diabetes had a blood glucose of 40 mg/dL. The nurse gave dextrose gel and supported a breastfeed. The recheck 30 minutes later is 41 mg/dL, and the newborn is now limp and difficult to rouse. Which action should the nurse take?",
+      "options": [
+        "Give a second dose of dextrose gel and recheck the glucose in 30 minutes",
+        "Offer formula by bottle and recheck the glucose before the next feeding in 3 hours",
+        "Place the newborn under the radiant warmer and recheck the glucose in 1 hour",
+        "Notify the provider immediately and prepare for IV dextrose"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: glucose still below 45 mg/dL after gel and feeding, now with hypotonia and lethargy. Analyze cues: oral treatment has failed, and neurologic signs mean the brain is affected. Prioritize hypotheses: persistent, symptomatic hypoglycemia. Take action: notify the provider immediately and prepare IV dextrose, with NICU-level care. Evaluate outcomes: recheck glucose and neurologic status after the dextrose.",
+        "incorrect": [
+          "Repeating gel is reasonable for a low but asymptomatic value. Once the newborn is symptomatic and has failed treatment, staying with oral therapy delays the IV dextrose that is needed (the trap “keep feeding no matter how lethargic”).",
+          "A limp, hard-to-rouse newborn cannot feed safely by bottle, and waiting 3 hours to recheck is far too long.",
+          "Warmth supports glucose use, but it does not raise glucose. A 1-hour recheck delays treatment of symptomatic hypoglycemia."
+        ]
+      }
+    },
+    {
+      "stem": "During the 0400 assessment, the nurse notes yellow skin on the face and upper chest of a 20-hour-old breastfed newborn. The newborn is feeding every 2–3 hours. Which action is most appropriate?",
+      "options": [
+        "Notify the provider of jaundice in the first 24 hours and anticipate a serum bilirubin level",
+        "Document physiologic jaundice and increase breastfeeding to every 2 hours",
+        "Place the bassinet near the window so that morning sunlight can reduce the bilirubin",
+        "Reassess the skin color at the next shift, because jaundice normally spreads from head to toe"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: visible jaundice at 20 hours of age. Analyze cues: physiologic jaundice appears after 24 hours and peaks on days 3–5. Jaundice before 24 hours is pathologic (ABO/Rh hemolysis, sepsis) and can rise quickly toward kernicterus risk. Prioritize hypotheses: pathologic hyperbilirubinemia. Take action: report it now and anticipate a bilirubin level and work-up.",
+        "incorrect": [
+          "Calling this physiologic is the trap (“jaundice at 18 hours is physiologic”). More feeding helps, but it is not enough alone and delays the work-up.",
+          "Sunlight is not a treatment, and the trap answer explicitly lists a sunny window. It risks cold stress and sunburn and does not address the cause.",
+          "A head-to-toe spread describes how jaundice progresses, but the timing is what makes it abnormal. Waiting a shift lets bilirubin rise without evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-day-old is receiving phototherapy for hyperbilirubinemia. Which parent statement indicates a need for further teaching?",
+      "options": [
+        "“Her eyes need to stay covered whenever the lights are on.”",
+        "“I'll leave her in just a diaper so the light reaches as much skin as possible.”",
+        "“Loose, green stools mean the bilirubin is leaving her body.”",
+        "“I'll rub baby lotion on her skin so it doesn't dry out under the lights.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parent plans to apply lotion under phototherapy, which is a named “don't.” Analyze cues: lotions and oils can cause burns under the lights and interfere with treatment. Take action: correct the teaching. Skin care is keeping the skin clean and dry, repositioning, and watching for rash.",
+        "incorrect": [
+          "This statement is correct. Eye shields stay on whenever the lights are on, to protect the retinas.",
+          "This statement is correct. Exposing as much skin as possible (diaper only) maximizes treatment.",
+          "This statement is correct. Loose green stools are expected as bilirubin is excreted."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn has been under phototherapy for 18 hours. Which finding requires the nurse's priority action?",
+      "options": [
+        "Loose, green stools with each diaper change",
+        "A faint, flat rash over the trunk",
+        "Two wet diapers in 12 hours, a sunken anterior fontanel, and a temperature of 37.8 °C",
+        "Fussiness when the eye shields are repositioned"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: low urine output, a sunken fontanel, and a rising temperature. Analyze cues: phototherapy increases insensible water loss, and loose stools add fluid loss. A sunken fontanel signals dehydration. Prioritize hypotheses: dehydration, which also slows bilirubin excretion. Take action: increase feeding frequency, monitor I&O and temperature, and notify the provider. Evaluate outcomes: wet diapers return to the expected number and the fontanel is flat.",
+        "incorrect": [
+          "Loose green stools are an expected effect of bilirubin excretion.",
+          "A mild rash is an expected effect of phototherapy, so it needs monitoring but not priority action.",
+          "Fussiness with eye shields is common and needs comfort measures, not priority intervention."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn born by scheduled cesarean without labor is being monitored for transient tachypnea of the newborn (TTN). Which finding should the nurse report to the provider?",
+      "options": [
+        "At 6 hours, RR has decreased from 84/min to 68/min with less grunting",
+        "At 8 hours, an increasing oxygen requirement with new subcostal retractions and bluish lips",
+        "At 4 hours, mild nasal flaring that resolves while the newborn sleeps",
+        "At 30 hours, RR 64/min with SpO2 96% on room air and good feeding"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a rising oxygen requirement, new retractions, and central cyanosis. Analyze cues: TTN (retained lung fluid, common after cesarean without labor) improves over hours and resolves in 24–72 hours. Worsening over hours, a rising O2 need, and central cyanosis point to RDS, pneumonia, or sepsis. Prioritize hypotheses: a process more serious than TTN. Take action: notify the provider promptly and support oxygenation.",
+        "incorrect": [
+          "A falling RR and less grunting is the expected improving course of TTN. This is a good outcome.",
+          "Intermittent flaring that resolves during sleep in a newborn who is otherwise stable fits mild, resolving transition, not deterioration.",
+          "Mild tachypnea that persists at 30 hours, with normal saturation and good feeding, is still within the 24–72 hour window for TTN to resolve."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-hour-old has RR 92/min, expiratory grunting, intercostal retractions, and SpO2 91%. The provider has been notified and oxygen is prescribed. The mother asks to breastfeed now. Which action should the nurse take?",
+      "options": [
+        "Help the mother breastfeed now, because delaying the feed raises the risk of hypoglycemia",
+        "Give a small volume of formula by bottle, which takes less effort than breastfeeding",
+        "Hold oral feeding, start oxygen as prescribed, keep the newborn in a neutral thermal environment, and check the glucose",
+        "Give dextrose gel and then help the mother breastfeed, to treat both problems at once"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: RR above 90 with grunting, retractions, and low SpO2 indicates significant respiratory distress. Analyze cues: a newborn breathing this fast cannot coordinate suck, swallow, and breathe, so aspiration risk is high. Prioritize hypotheses: oxygenation comes before feeding. Generate solutions: protect the airway while still addressing glucose and warmth. Take action: hold oral feeds, give O2, keep the newborn warm, and check glucose so IV glucose can be given if needed.",
+        "incorrect": [
+          "Early feeding normally prevents hypoglycemia, but with severe distress the aspiration risk outweighs that benefit. The rule is to hold oral feeds if distress is severe.",
+          "Bottle-feeding is still oral feeding and carries the same aspiration risk. A bottle can also deliver milk faster than a distressed newborn can handle.",
+          "Gel is given in the cheek, but it is paired here with a breastfeed the newborn cannot do safely. Glucose should be checked first, not assumed low."
+        ]
+      }
+    },
+    {
+      "stem": "A 16-hour-old's mother was GBS positive and arrived too late in labor to receive antibiotics, and her membranes were ruptured for 20 hours. The newborn has an axillary temperature of 36.1 °C, is feeding poorly, is difficult to wake, and has a blood glucose of 44 mg/dL. Which conclusion should guide the nurse's action?",
+      "options": [
+        "Cold stress is the cause; warm the newborn skin-to-skin and recheck the temperature in 1 hour",
+        "Hypoglycemia is the cause; give dextrose gel and recheck the glucose in 30 minutes",
+        "This is the expected sleepy period after the first period of reactivity; wake the newborn for feeds every 3 hours",
+        "Possible neonatal sepsis; notify the provider promptly and anticipate cultures and a CBC before IV antibiotics"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a low temperature, poor feeding, lethargy, and borderline glucose in a newborn with GBS exposure without prophylaxis and ROM longer than 18 hours. Analyze cues: newborn sepsis is subtle, and the temperature is often low, not high. It can look like cold stress or hypoglycemia. Prioritize hypotheses: the risk factors plus a cluster of findings make sepsis the life-threatening explanation to act on. Take action: report early and anticipate cultures and a CBC before IV antibiotics, while supporting temperature and glucose.",
+        "incorrect": [
+          "Warming is needed, but treating the low temperature as simple cold stress ignores the risk factors and the behavior change. This anchors on one cue.",
+          "Glucose support is appropriate, but hypoglycemia alone does not explain the risk history and the cluster. Treating only the number delays recognizing sepsis.",
+          "Sleepiness after the first period of reactivity is normal. A low temperature, poor feeding, and difficulty waking in a high-risk newborn are not."
+        ]
+      }
+    },
+    {
+      "stem": "The provider prescribes a blood culture, a CBC, and IV antibiotics for a newborn with suspected sepsis. IV access has just been obtained. Which action should the nurse take next?",
+      "options": [
+        "Start the IV antibiotics first, because any delay worsens outcomes in newborn sepsis",
+        "Obtain the blood culture, then start the IV antibiotics without waiting for the results",
+        "Wait for the CBC results before starting antibiotics, to confirm infection",
+        "Recheck the temperature in 1 hour to confirm instability before drawing the culture"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: cultures must be drawn before antibiotics, or the antibiotics can sterilize the sample and hide the organism. Take action: draw the blood culture, then start antibiotics right away, without waiting for results. Evaluate outcomes: a stable temperature, good feeding, and negative cultures show the treatment was effective.",
+        "incorrect": [
+          "Speed matters, but giving antibiotics before the culture can make the culture falsely negative and remove guidance for treatment. It is the right drug at the wrong time.",
+          "Waiting for lab results delays antibiotics in a newborn whose sepsis can progress quickly. Treatment is started on clinical suspicion.",
+          "Sepsis presents subtly and the prescriptions are already in place. Waiting an hour for one more cue delays both the culture and the treatment."
+        ]
+      }
+    },
+    {
+      "stem": "The mother of a 30-hour-old had chorioamnionitis during labor. Which newborn findings are consistent with early neonatal sepsis? Select all that apply.",
+      "options": [
+        "Axillary temperature of 36.1 °C (97.0 °F)",
+        "Poor suck and falling asleep after 3 minutes at the breast",
+        "Blood glucose of 40 mg/dL",
+        "Blue hands and feet with a pink trunk",
+        "Heart rate of 152/min while crying",
+        "Increasing lethargy and difficulty waking for feeds"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues in a newborn with a known sepsis risk factor (maternal chorioamnionitis). Analyze cues: sepsis is subtle in newborns and shows as temperature instability (often low), poor feeding, lethargy, hypoglycemia, and respiratory changes. Acrocyanosis and a normal crying heart rate are expected findings.",
+        "incorrect": [
+          "Correct—a low temperature is a typical sign of sepsis in a newborn, more common than fever.",
+          "Correct—poor feeding is an early, subtle sign of sepsis.",
+          "Correct—glucose below 45 mg/dL can accompany sepsis because of increased metabolic demand.",
+          "Incorrect—acrocyanosis is expected for 24–48 hours.",
+          "Incorrect—a heart rate of 152 is within the normal range (110–160) and can rise to 170+ with crying.",
+          "Correct—lethargy and difficulty waking are a behavior change that points to sepsis."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-hour-old has an axillary temperature of 36.2 °C, RR 62/min, and slight jitteriness. The newborn is in an open crib, swaddled. Which action should the nurse take first?",
+      "options": [
+        "Place the newborn skin-to-skin with a parent, with a dry hat and a warm blanket over both, and check the blood glucose",
+        "Give a warm bath to bring the temperature up quickly, then dress and swaddle the newborn",
+        "Place the newborn under the radiant warmer and recheck the temperature in 1 hour",
+        "Add a second blanket and offer a feeding at the next scheduled time in 2 hours"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: temperature below 36.5 °C, mild tachypnea, and jitteriness. Analyze cues: a cold newborn burns brown fat, which uses oxygen and glucose, so cold stress drives hypoglycemia and respiratory distress. Jitteriness suggests glucose is already falling. Generate solutions: warm the newborn and check glucose at the same time. Take action: skin-to-skin with a hat and blankets, and a glucose check now.",
+        "incorrect": [
+          "A bath is a named trap. Evaporative heat loss from wet skin worsens cold stress.",
+          "The warmer addresses the temperature, but it misses the jitteriness cue (possible hypoglycemia), and the 1-hour recheck delays assessment. This skips Analyze cues.",
+          "More blankets help only a little, and waiting 2 hours to feed a jittery, cold newborn risks worsening hypoglycemia."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse receives report on four newborns. Which newborn should the nurse assess first?",
+      "options": [
+        "A 25-minute-old who is alert and rooting, with HR 168/min and RR 66/min",
+        "A 4-hour-old in deep sleep with RR 40/min that includes 10-second pauses",
+        "A 2-hour-old infant of a mother with diabetes who is jittery, has a weak suck, and feels limp when picked up",
+        "A 3-hour-old with a temperature of 36.5 °C who is breastfeeding vigorously and has a glucose of 50 mg/dL"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an infant of a mother with diabetes who is jittery, has a weak suck, and is hypotonic. Analyze cues: infants of diabetic mothers are high risk for hypoglycemia in the first hours, and jitteriness plus hypotonia and poor feeding are symptomatic signs. Prioritize hypotheses: a high-risk newborn with a cluster of findings and a behavior change outranks a single borderline number. Take action: check glucose now and treat.",
+        "incorrect": [
+          "Higher HR and RR with alertness and rooting are expected during the first period of reactivity (0–30 minutes). Rates of 60–80 can be normal then.",
+          "Periodic breathing with pauses shorter than 20 seconds and an RR of 40 is normal in a sleeping newborn.",
+          "A temperature at the lower limit (36.5 °C), with vigorous feeding and glucose above 45, shows a newborn who is transitioning well."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn was treated for mild hypothermia, a borderline glucose, and ineffective latch. One hour later, which finding best indicates that the newborn is adapting successfully to extrauterine life?",
+      "options": [
+        "Temperature 36.9 °C, RR 58/min, glucose 62 mg/dL, intermittent expiratory grunting",
+        "Temperature 36.6 °C, RR 56/min, glucose 50 mg/dL, latched for 15 minutes with audible swallowing",
+        "Temperature 36.4 °C, RR 52/min, glucose 55 mg/dL, breastfed for 20 minutes",
+        "Temperature 36.7 °C, RR 54/min, glucose 47 mg/dL, too sleepy to latch"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: success means every problem has resolved. Analyze cues: the temperature is in the 36.5–37.5 °C range, RR is within 30–60, glucose is above 45 mg/dL, and the newborn has an effective latch with audible swallowing. No abnormal finding is left over.",
+        "incorrect": [
+          "The numbers are normal, but grunting is a respiratory distress sign. One leftover abnormal finding means the outcome is not met.",
+          "The feeding is good, but a temperature of 36.4 °C is still below 36.5 °C, so the hypothermia has not resolved.",
+          "Glucose above 45 is acceptable, but the newborn is too sleepy to latch, so the feeding problem persists and needs follow-up."
+        ]
+      }
+    },
+    {
+      "stem": "A parent asks, “Why are you so worried that her temperature is 36.3 °C? She looks fine to me.” Which explanation by the nurse is most accurate?",
+      "options": [
+        "“Babies shiver to make heat, and shivering tires them out so they're too sleepy to feed.”",
+        "“A cold baby's skin hides jaundice, so we could miss yellowing if she stays cool.”",
+        "“Cold makes the blood vessels in her hands and feet tighten, so we can't get an accurate pulse.”",
+        "“Babies make heat by burning a special fat, which uses up sugar and oxygen. That can lead to low blood sugar and trouble breathing.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: newborns have a large surface area, thin skin, and little fat, and they cannot shiver. They rely on non-shivering thermogenesis (brown fat), which uses oxygen and glucose. Prioritize hypotheses: untreated cold stress leads to hypoglycemia, hypoxia, metabolic acidosis, and respiratory distress. Take action: teach this link so the family understands why warming (skin-to-skin, a hat, a dry baby) matters.",
+        "incorrect": [
+          "Newborns cannot shiver effectively, which is why they rely on brown fat. The mechanism in this option is wrong.",
+          "Cold stress does not hide jaundice. This misidentifies the risk, which is metabolic (glucose and oxygen use).",
+          "Peripheral vasoconstriction occurs, but the apical pulse is counted over the heart. This misses the real danger of cold stress."
+        ]
+      }
+    },
+    {
+      "stem": "A nursing student reports, “The 3-hour-old in room 4 has a respiratory rate of 56, so breathing is normal. I did hear a soft grunt each time he breathes out, and his ribs pull in a little.” Which response by the nurse is best?",
+      "options": [
+        "“Grunting and retractions are signs of distress even with a normal rate. Let's check his SpO2, temperature, and glucose, and then notify the provider.”",
+        "“The rate is within 30 to 60, so let's recheck his respirations in 1 hour and document the findings.”",
+        "“Grunting is common in the first hours as lung fluid clears, so as long as the rate stays under 60 it's expected.”",
+        "“Let's suction his nose and mouth with the bulb syringe and see if the grunting stops.”"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: expiratory grunting and retractions with an RR of 56. Analyze cues: slide 5 lists grunting on exhalation and chest retractions as problem signs regardless of the rate. Grunting is the newborn's attempt to keep the alveoli open. Prioritize hypotheses: early respiratory distress (TTN, cold stress, hypoglycemia, sepsis). Take action: assess SpO2, temperature, and glucose, keep the newborn warm, and notify the provider.",
+        "incorrect": [
+          "This anchors on the one normal number and ignores two abnormal cues. A 1-hour delay could let distress progress.",
+          "This is the exact trap “grunting is normal if the RR is under 60.” Grunting and retractions need evaluation.",
+          "Suctioning is appropriate only for visible secretions. Grunting reflects alveolar collapse, not secretions, so this treats the wrong problem."
+        ]
+      }
+    },
+    {
+      "stem": "After a term vaginal birth, the provider waits 60 seconds before clamping the cord. The parent asks why. Which explanation by the nurse is most accurate?",
+      "options": [
+        "“Waiting lowers the chance that the baby will develop jaundice in the first week.”",
+        "“Waiting lets the placenta separate so it delivers more quickly.”",
+        "“Waiting gives the baby more of their own blood, which builds iron stores and eases the change to breathing on their own.”",
+        "“Waiting lets the cord dry out a little, which lowers the risk of infection at the stump.”"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: delayed cord clamping (30–60 seconds) increases the newborn's blood volume, improves iron stores, reduces anemia, supports a smoother circulatory transition, and improves outcomes for preterm infants. Take action: explain these benefits in plain language.",
+        "incorrect": [
+          "This reverses the effect. The extra red cell volume slightly increases the jaundice risk, so the nurse watches bilirubin.",
+          "Delayed clamping is done for the newborn's benefit, not to deliver the placenta.",
+          "Delayed clamping does not affect stump drying or omphalitis. Cord care after birth does that."
+        ]
+      }
+    },
+    {
+      "stem": "A 20-minute-old term newborn is skin-to-skin, eyes open, rooting, with HR 164/min and RR 66/min, pink centrally, and no grunting or retractions. The parent asks whether to let the baby rest before trying to breastfeed. Which response by the nurse is best?",
+      "options": [
+        "“This alert time right after birth is the best time to start breastfeeding. Let's help the baby latch now.”",
+        "“Let's let the baby sleep first and try at about 2 hours, when the baby's breathing has slowed down.”",
+        "“The baby's breathing is fast, so I'll notify the provider before we try to feed.”",
+        "“I'll give the first bath now while the baby is awake, and then you can try feeding.”"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an alert, rooting newborn at 20 minutes with high HR and RR but no distress signs. Analyze cues: this is the first period of reactivity (0–30 minutes), when HR and RR run high (RR up to 60–80 can be normal) and the newborn is primed to feed. Take action: support the first breastfeed now. It also helps prevent hypoglycemia and stabilizes temperature.",
+        "incorrect": [
+          "From about 30 minutes to 2 hours the newborn enters a sleep phase and is hard to rouse. Waiting misses the best feeding window.",
+          "An RR of 66 without grunting, flaring, or retractions during the first period of reactivity is expected. Escalating misreads a normal cue.",
+          "A bath now risks cold stress and interrupts skin-to-skin and the feeding window. It is not an immediate newborn intervention."
+        ]
+      }
+    },
+    {
+      "stem": "Ten minutes after an uncomplicated birth, a parent asks the nurse to put the newborn under the warmer so they can rest. The newborn is dry and stable. Which explanation best supports keeping the newborn skin-to-skin?",
+      "options": [
+        "“It's the only way to keep your baby warm right now, so the warmer would be unsafe.”",
+        "“It keeps your baby's temperature, heart rate, and breathing steady, helps prevent low blood sugar, and helps your uterus contract.”",
+        "“It helps your baby's lungs clear fluid faster than the warmer does, so they won't need oxygen.”",
+        "“It passes your antibodies through your skin, which protects the baby from infection right after birth.”"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: immediate skin-to-skin stabilizes temperature, HR, and breathing, reduces stress and crying, supports breastfeeding, helps prevent hypoglycemia, and increases maternal oxytocin and uterine contraction. Take action: explain these benefits to support the parent's informed choice, and keep the parent safe and supported while holding the newborn.",
+        "incorrect": [
+          "Overstating the case is inaccurate. A radiant warmer also keeps a newborn warm, and coercive wording undermines the parent's choice.",
+          "Skin-to-skin is not a treatment for retained lung fluid. That claim goes beyond the stated benefits.",
+          "Antibodies pass through the placenta and breast milk, not through skin contact. The rationale is wrong even though skin-to-skin is the right choice."
+        ]
+      }
+    }
+  ]
+}

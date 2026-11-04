@@ -39,7 +39,11 @@ window.NCLEX_DATA = {
     "acute2-shock": "Acute 2: Week 5 — Shock",
     "acute2-burns": "Acute 2: Week 6 — Burns",
     "acute2-respiratory": "Acute 2: Week 7 — Acute Respiratory",
-    "acute2-gi": "Acute 2: Week 8 — Acute GI"
+    "acute2-gi": "Acute 2: Week 8 — Acute GI",
+    "mat2-wk5-lactation": "Maternity 2: Week 5 — Lactation",
+    "mat2-wk6-postpartum": "Maternity 2: Week 6 — Postpartum",
+    "mat2-wk7-complications": "Maternity 2: Week 7 — Complications",
+    "mat2-wk8-newborn": "Maternity 2: Week 8 — Newborn"
   },
   "banks": {
     "upper-gi": [
@@ -25168,6 +25172,3403 @@ window.NCLEX_DATA = {
           "CJMM — Recognize cues: the client plans to resume drinking after symptoms resolve. Analyze cues: the guide's post-acute teaching is to strictly avoid alcohol and to follow up based on cause, including an alcohol cessation program; normal labs do not mean the pancreas can tolerate alcohol. Prioritize hypotheses: this plan creates a high risk of recurrence and progression to chronic pancreatitis. Take action: reteach complete abstinence and reinforce the referral. Evaluate outcomes: the client states the plan to avoid all alcohol.",
           "This is correct. Following up on the cause, such as an alcohol cessation program, is part of the guide's teaching.",
           "This is correct. The guide says to gradually resume oral intake as directed."
+        ]
+      }
+    ],
+    "mat2-wk5-lactation": [
+      {
+        "stem": "A postpartum client who identifies as nonbinary tells the nurse, \"Please don't call it breastfeeding. I'm feeding my baby from my chest.\" The nurse is writing the feeding plan and the teaching record. Which action is most appropriate?",
+        "options": [
+          "Use \"nursing\" in teaching, because it is the everyday word most families understand, and note the preference in the chart",
+          "Use \"lactating\" in the chart, because it is the clinical term, and say \"chestfeeding\" only when speaking with the client",
+          "Use \"chestfeeding\" in both teaching and documentation, matching the term the client has asked the team to use",
+          "Use \"human milk feeding\" in all teaching, because it is neutral and avoids naming the physical act at all"
+        ],
+        "answer": 2,
+        "explanations": [
+          "\"Nursing\" is the common everyday term, but the client has already said which word they want. Substituting a different word ignores the cue the client gave.",
+          "\"Lactating\" describes milk production, not the feeding act, and splitting the language between the chart and the bedside means other staff will read and repeat a term the client declined.",
+          "CJMM — Recognize cues: the client has explicitly named the term they want used for feeding from their chest. Analyze cues: chestfeeding is the inclusive term on the slides for trans or nonbinary parents who feed from their chest, and using the family's preferred term is part of respectful, family-centered care. Take action: use \"chestfeeding\" consistently, in spoken teaching and in the written plan, so every caregiver reinforces the same language. Evaluate outcomes: the client feels respected and stays engaged in feeding teaching.",
+          "\"Human milk feeding\" is a neutral term that emphasizes the nutrition source, which is useful when no preference is known. Here the client stated a preference, so the nurse should use it rather than choose a different neutral word."
+        ]
+      },
+      {
+        "stem": "At 30 weeks' gestation, a pregnant client says, \"My mom formula-fed all of us and says breastfeeding is overrated. I'm leaning toward formula, but I haven't decided.\" Which response by the nurse best reflects the recommended approach to choosing a feeding method?",
+        "options": [
+          "\"Let's go over how human milk and formula each meet your baby's nutrition and immune needs, the benefits and risks of each, and then you can decide what fits your family.\"",
+          "\"Your mom's experience matters, but the research clearly favors breastfeeding, so I'd encourage you to at least try it while you're in the hospital.\"",
+          "\"Formula is a safe and complete option, so if that's where you're leaning, I can start teaching you how to prepare bottles at this visit.\"",
+          "\"A lot of people feel pressure from relatives. Let's book a lactation consult now so you can get breastfeeding off to a good start.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the client is undecided and is hearing a strong opinion from a family member. Analyze cues: the slides list four parts of counseling on a feeding method: factual information (how human milk vs formula meets nutrition and immune needs), benefits for the infant and the parent, the inherent risks of formula, and respectful guidance that honors the family's final decision. Generate solutions: give balanced facts first, because an informed choice requires them. Take action: offer that complete, nonjudgmental discussion and then support whatever the client decides.",
+          "This applies pressure (\"at least try it\") instead of giving facts and leaving the decision to the client. Guilt or pressure is the trap answer the guide warns about.",
+          "Formula teaching is appropriate once a family chooses formula, but this client has not decided. Skipping the facts, benefits, and risks means the choice would not be an informed one; this is correct but not yet.",
+          "Booking a lactation consult assumes the client will breastfeed. It answers a decision the client has not made and quietly steers them, which is not respectful guidance."
+        ]
+      },
+      {
+        "stem": "A breastfeeding client who is para 4 reports severe cramping every time the newborn latches, 6 hours after a vaginal birth. The fundus is firm, midline, and at the umbilicus. Lochia rubra is moderate with no clots. BP 118/72 mm Hg, HR 78/min. Which conclusion and action by the nurse are most appropriate?",
+        "options": [
+          "Prolactin released by suckling is overstimulating the uterus, so the client should shorten feeds until the cramping eases",
+          "Cramping with each feed suggests retained placental fragments, so the nurse should notify the provider about an ultrasound",
+          "The cramping signals early uterine atony, so the nurse should massage the fundus firmly before each feed",
+          "Oxytocin released by suckling is causing expected afterpains, so the nurse should offer the prescribed analgesic and support continued feeding"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This mixes up the hormones. Prolactin makes milk; oxytocin causes the letdown and the uterine contractions. Shortening feeds would also reduce milk removal and lower supply.",
+          "Retained fragments present with heavy or increasing bleeding, clots, or a boggy fundus. This client's fundus is firm and lochia is moderate, so this hypothesis does not fit the cues.",
+          "Atony means a boggy uterus. This fundus is already firm, so massage is not indicated; this misreads the cue and adds pain without benefit.",
+          "CJMM — Recognize cues: cramping that occurs with each latch in a multipara, with a firm, midline fundus at the umbilicus, moderate rubra without clots, and stable vital signs. Analyze cues: suckling triggers oxytocin from the posterior pituitary, which ejects milk and contracts the uterus. Afterpains during feeds are expected and are worse in multiparas. Prioritize hypotheses: every bleeding cue is normal, so this is expected discomfort, not a complication. Take action: give the prescribed analgesic and encourage continued breastfeeding, because the same contractions control bleeding and promote involution. Evaluate outcomes: pain is tolerable and the fundus stays firm."
+        ]
+      },
+      {
+        "stem": "The nurse reviews discharge teaching with a client who is exclusively breastfeeding. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"Breastfeeding releases a hormone that helps my uterus contract and keeps my bleeding down.\"",
+          "\"Breastfeeding may lower my long-term risk of breast and ovarian cancer and type 2 diabetes.\"",
+          "\"Since I'm breastfeeding around the clock, I can wait to talk about birth control until the baby weans.\"",
+          "\"Breastfeeding may help with postpartum weight loss and may lower my risk of postpartum depression.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. Oxytocin contracts the uterus, controls bleeding, and promotes involution, which is a parent advantage in Box 18.4.",
+          "This is correct. Box 18.4 lists a lower risk of ovarian, endometrial, and breast cancer and of type 2 diabetes as parent advantages.",
+          "CJMM — Recognize cues: the client plans to delay contraception because they are breastfeeding. Analyze cues: Box 18.4 says breastfeeding gives some protection against conception but is NOT a reliable contraceptive, and a client can ovulate before the first period returns. Prioritize hypotheses: this misunderstanding risks an unplanned, closely spaced pregnancy, so it is the statement that needs correction. Take action: teach that contraception should be discussed now, before resuming intercourse. Evaluate outcomes: the client chooses a method before discharge or at the postpartum visit.",
+          "This is correct. Postpartum weight loss and a lower risk of postpartum depression are both parent advantages in Box 18.4."
+        ]
+      },
+      {
+        "stem": "The nurse reviews four postpartum clients whose plan of care reads \"Breastfeed on demand.\" For which client should the nurse clarify the plan with the provider before the next feeding?",
+        "options": [
+          "A client in a methadone maintenance program who has been stable on the same dose throughout pregnancy",
+          "A client diagnosed yesterday with active pulmonary tuberculosis who has not yet started treatment",
+          "A client with mastitis in the right breast who started oral antibiotics yesterday",
+          "A client with hepatitis B whose newborn received HBIG and the hepatitis B vaccine at birth"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Untreated substance use disorder is the contraindication. A parent who is in treatment and stable on methadone is usually encouraged to breastfeed, so this plan is appropriate.",
+          "CJMM — Recognize cues: active pulmonary TB that is not under treatment. Analyze cues: \"Active tuberculosis not under treatment\" is on the slide list of contraindications and cautions, because TB spreads through the air during the close contact of feeding. Prioritize hypotheses: of the four, only this client's plan puts the newborn at risk. Take action: hold direct breastfeeding and clarify the plan with the provider (the guide notes that expressed milk may be given by someone else).",
+          "Mastitis is a common distractor and is not a contraindication. Continued feeding or emptying of the affected breast is part of treatment.",
+          "Hepatitis B is not a contraindication once the newborn has received HBIG and the vaccine, so this plan does not need to be questioned."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing infant-feeding plans on a postpartum unit. For which situations should the nurse anticipate that breastfeeding, or feeding from the affected breast, must be withheld or clarified with the provider? Select all that apply.",
+        "options": [
+          "A client receiving cytotoxic chemotherapy for a newly diagnosed lymphoma",
+          "A client with an open herpes simplex lesion on the left areola who plans to feed from both breasts",
+          "A newborn with physiologic jaundice whose bilirubin is rising slowly",
+          "A newborn whose screen confirms galactosemia",
+          "A client with a cold, nasal congestion, and a mild cough",
+          "A client on day 2 of oral antibiotics for mastitis in the right breast"
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—cytotoxic chemotherapy passes into milk and is toxic to the infant, so breastfeeding is contraindicated.",
+          "Correct—direct contact with an HSV lesion can spread herpes to the newborn. The baby should not feed from the left breast until it heals.",
+          "Incorrect—jaundice is not a contraindication. The baby should feed MORE often to promote stooling and bilirubin excretion.",
+          "Correct—galactosemia is the only infant condition on the list. The baby cannot process the galactose in lactose, so breast milk is stopped and a special lactose-free formula is used.",
+          "Incorrect—a cold or flu is not a contraindication. Hand hygiene is appropriate and breastfeeding continues.",
+          "Incorrect—mastitis is not a contraindication. The client should keep feeding or emptying the affected breast along with the antibiotics."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 4-day-old exclusively breastfed newborn has poor feeding, vomiting, and worsening jaundice, and the newborn screen is positive for galactosemia. The parent says, \"I really want my baby to have my milk. I'll pump and give it in a bottle instead.\" Which response by the nurse is best?",
+        "options": [
+          "\"Pumping is a good compromise, because the problem is the way your baby is feeding at the breast, not the milk.\"",
+          "\"Your milk contains lactose, which your baby can't break down, so the provider will order a special lactose-free formula.\"",
+          "\"You can keep giving your milk if it's mixed half-and-half with formula so the sugar is diluted.\"",
+          "\"We'll use a standard cow's-milk formula for now and restart breastfeeding once the jaundice clears.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This misreads the cue. Pumping changes only how the milk is delivered. The lactose that harms this infant is still in the milk.",
+          "CJMM — Recognize cues: vomiting, poor feeding, and worsening jaundice with a positive galactosemia screen. Analyze cues: an infant with galactosemia cannot metabolize galactose, which comes from the lactose in breast milk and standard formula. Galactosemia is the one infant condition on the contraindication list. Generate solutions: the problem is the milk itself, not how it is delivered. Take action: explain kindly why breast milk must stop and that a lactose-free (special) formula will be used. Evaluate outcomes: vomiting stops and jaundice improves on the new formula.",
+          "Diluting breast milk with formula still gives the infant galactose, and the standard formula adds more lactose. The infant still receives the substance they cannot process.",
+          "Standard cow's-milk formula contains lactose, and galactosemia is a metabolic condition, not a temporary jaundice problem. This plan would keep harming the infant."
+        ]
+      },
+      {
+        "stem": "A client living with HIV in the United States has had an undetectable viral load on antiretroviral therapy throughout pregnancy and is discussing infant feeding with the nurse. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"Because my viral load is undetectable, there is no chance at all that my baby could get HIV from my milk.\"",
+          "\"My decision should take into account my treatment plan, my viral load, and the current guidelines.\"",
+          "\"I want to talk through my feeding goals with my whole health care team before I decide.\"",
+          "\"Keeping my viral load suppressed is a big part of why breastfeeding is something we can even discuss.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the client describes the risk from an undetectable viral load as zero. Analyze cues: in high-resource settings, the slide answer is shared decision-making that weighs treatment, viral suppression, current guidelines, and the family's feeding goals. An undetectable load lowers transmission risk but does not make it zero. Prioritize hypotheses: this misconception could lead to a decision made without understanding the remaining risk. Take action: clarify that risk is reduced, not absent, and continue the shared decision-making conversation.",
+          "This is accurate. Treatment, viral suppression, and guidelines are exactly the factors the slide lists for the decision.",
+          "This is accurate. Including the client's goals and the health care team is the shared decision-making approach the slide recommends.",
+          "This is accurate. Viral suppression is what makes breastfeeding something that can be discussed in a high-resource setting rather than ruled out."
+        ]
+      },
+      {
+        "stem": "A postpartum client who has been stable on methadone in a treatment program throughout pregnancy asks whether it is safe to breastfeed. The term newborn is being monitored for withdrawal. Which response by the nurse is most appropriate?",
+        "options": [
+          "\"Formula is the safer choice, because methadone passes into breast milk and could make withdrawal worse.\"",
+          "\"Because you're in treatment and stable, breastfeeding is usually encouraged. I'll let your provider know your plan.\"",
+          "\"You can pump, but the milk should be discarded until your baby's withdrawal scoring is finished.\"",
+          "\"Breastfeeding is possible if you taper off methadone before discharge so your milk is drug-free.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This treats any substance use history as a contraindication, which is the trap in the guide. The qualifier that matters is \"untreated,\" and this client is in treatment.",
+          "CJMM — Recognize cues: the client is in a treatment program and stable on methadone. Analyze cues: the contraindication on the slides is UNtreated substance use disorder. The guide notes that a parent in treatment, such as one stable on methadone, is usually encouraged to breastfeed. Generate solutions: support the client's choice and keep the provider informed. Take action: encourage breastfeeding and communicate the plan. Evaluate outcomes: the newborn feeds well and the withdrawal scores stay manageable.",
+          "Discarding milk throws away the benefits of breastfeeding with no indication to do so and undermines supply for a client who is eligible to breastfeed.",
+          "Tapering off methadone quickly to breastfeed would destabilize the client's recovery. Stable treatment is what makes breastfeeding appropriate, so stopping it is unsafe."
+        ]
+      },
+      {
+        "stem": "A breastfeeding client 3 weeks postpartum is prescribed a new medication for migraines and asks whether it is safe for the baby. Which action by the nurse is most appropriate?",
+        "options": [
+          "Advise the client to pump and discard milk for 24 hours after each dose until the migraines stop",
+          "Advise the client to stop breastfeeding while taking the medication and to use formula meanwhile",
+          "Advise the client to take each dose right after a feeding so that less of the drug reaches the milk",
+          "Look up the drug in LactMed and review what it says with the prescriber or pharmacist before the first dose"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Pumping and discarding without evidence that the drug is unsafe wastes milk, adds burden, and can disrupt supply. It acts before the facts are gathered.",
+          "Stopping breastfeeding is a major step that may not be needed. It skips Analyze cues by deciding before the drug has been checked.",
+          "Timing a dose after a feed can be a useful strategy once the drug is confirmed to be compatible, but it is correct but not yet: safety must be checked first.",
+          "CJMM — Recognize cues: a new prescription for a lactating client and an open question about infant safety. Analyze cues: \"some medications\" is on the slide contraindication list, and the guide directs the nurse to LactMed (lactmed.org) to check them. Most medications are not an automatic reason to stop. Generate solutions: get drug-specific evidence before advising the client. Take action: check LactMed and confirm with the prescriber or pharmacist so the plan is based on evidence."
+        ]
+      },
+      {
+        "stem": "At a prenatal visit, a pregnant client who had breast reduction surgery 5 years ago says, \"I want to breastfeed, but my friend said I'll have to use formula.\" Which response by the nurse is best?",
+        "options": [
+          "\"Breast reduction surgery cuts the milk ducts, so formula will be the safest way to make sure your baby is fed.\"",
+          "\"Surgery that long ago won't affect your supply, so you can plan to breastfeed exclusively without extra checks.\"",
+          "\"Prior surgery can affect supply, so let's plan to breastfeed, track diapers and weight closely, and supplement only if your supply is inadequate.\"",
+          "\"You can try breastfeeding, but give formula after every feed from day 1 so your baby doesn't lose too much weight.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This turns a risk factor into a rule and overrides the client's goal. Many clients can breastfeed after reduction surgery, fully or partly.",
+          "This dismisses a real risk. Without monitoring, low supply could be missed until the infant loses too much weight.",
+          "CJMM — Recognize cues: the client wants to breastfeed and has a history of breast surgery. Analyze cues: the slides list breast surgery (bfar.org) as a reason families may use formula, and formula may supplement breastfeeding if human-milk supply is inadequate. Surgery is a risk factor, not a contraindication. Generate solutions: support the client's goal while watching for low supply. Take action: plan breastfeeding with close monitoring of output and weight, and supplement only if the data show a need. Evaluate outcomes: the infant meets output and weight goals, or supplementation is started promptly if not.",
+          "Routine formula after every feed from day 1 is supplementation without an indication. It reduces milk removal and can lower the supply that is already at risk."
+        ]
+      },
+      {
+        "stem": "A formula-feeding parent of a 14-hour-old term newborn is upset: \"The night nurse told me to get at least 2 ounces into him, but he takes about a teaspoon, turns away, and spits up when I keep going.\" Which response by the nurse is best?",
+        "options": [
+          "\"About 5 mL a feeding is average on the first day, because his stomach holds only 5 to 7 mL. Let him stop when he turns away.\"",
+          "\"Keep offering until he finishes about 30 mL every 3 to 4 hours so he doesn't lose too much weight.\"",
+          "\"Give him 5 mL every hour instead of every 3 to 4 hours so his total intake for the day adds up.\"",
+          "\"Try a different formula brand, because spitting up after such small feeds suggests he doesn't tolerate this one.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a 14-hour-old taking about a teaspoon, turning away (a fullness cue), and spitting up when pushed. Analyze cues: the slides give an average formula feed of 5 mL in the first 24 hours and 10 mL in the second 24 hours, and a day-1 stomach holds only 5–7 mL (the size of a cherry). Prioritize hypotheses: the infant is feeding normally, and the problem is overfeeding. Take action: reassure the parent, teach the expected volumes, and teach responding to fullness cues. Evaluate outcomes: spitting up stops and the parent stops forcing feeds.",
+          "30 mL is several times the size of a day-1 stomach. Forcing that volume causes the spitting up the parent describes and teaches the baby to ignore fullness cues.",
+          "Hourly feeds abandon the every 3–4 hour schedule on the slide and are based on the false idea that the baby is underfed.",
+          "The slide teaches using the same type of formula consistently. Spitting up here comes from overfeeding, so changing brands treats the wrong cause."
+        ]
+      },
+      {
+        "stem": "The nurse evaluates discharge teaching with a parent who is formula feeding. Which statement by the parent indicates a need for further teaching?",
+        "options": [
+          "\"I'll hold her semi-upright during feeds and burp her partway through and at the end.\"",
+          "\"For night feeds, I'll prop the bottle on a rolled blanket so I can rest while she eats.\"",
+          "\"I'll throw away whatever formula is left in the bottle after each feeding.\"",
+          "\"I'll mix the powder exactly as the label says, even if we start running low.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. A semi-upright hold with burping during and after the feed is standard formula teaching.",
+          "CJMM — Recognize cues: the parent plans to prop the bottle. Analyze cues: Box 18.5-type safety teaching says not to prop a bottle, because it causes choking and aspiration risk, ear infections, and dental caries, and the baby loses the holding and eye contact of a feed. Prioritize hypotheses: propping is the unsafe plan here, and \"needs further teaching\" items look for propping, microwaving, rotating brands, or pumping non-nursing breasts. Take action: reteach holding the baby for every feed and suggest night-feed strategies that keep the parent safe and rested.",
+          "This is correct. Leftover formula in a bottle the baby has fed from should be discarded.",
+          "This is correct. Mixing exactly as directed prevents dilution (water intoxication, poor growth) and over-concentration, even when supplies are short."
+        ]
+      },
+      {
+        "stem": "A nurse is preparing teaching for a parent who has chosen to formula feed a term newborn. Which instructions should the nurse include? Select all that apply.",
+        "options": [
+          "Use the same type of formula consistently rather than switching between brands",
+          "Feed about every 3 to 4 hours, increasing the amount gradually as the baby grows",
+          "Warm bottles briefly in the microwave, then test a few drops on the inner wrist",
+          "Add a little extra water to the formula when the baby seems thirsty on hot days",
+          "Refrigerate prepared formula and discard what is left in the bottle after a feeding",
+          "Put the baby to bed with a small bottle to help the baby settle to sleep"
+        ],
+        "answer": [
+          0,
+          1,
+          4
+        ],
+        "explanations": [
+          "Correct—the slide teaches using the same type of formula consistently. Rotating brands is a listed trap.",
+          "Correct—the slide teaches feeding every 3–4 hours with a gradual introduction of increasing amounts.",
+          "Incorrect—microwaving creates hot spots that a wrist test on a few drops does not detect, which risks burns to the mouth.",
+          "Incorrect—diluting formula reduces calories and can cause water intoxication and poor growth. Formula is mixed exactly as directed.",
+          "Correct—prepared formula is refrigerated, and leftovers in a bottle the baby fed from are discarded.",
+          "Incorrect—putting a baby to bed with a bottle risks choking and dental caries. The baby is held for feeds."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "Twenty hours after birth, a breastfeeding client says, \"Only a few drops of thick yellow stuff come out. My baby is getting nothing. Shouldn't we give formula until my real milk comes in?\" The newborn has fed 8 times, swallows audibly, and has lost 3% of birth weight. Which response by the nurse is best?",
+        "options": [
+          "\"That yellow milk is mostly water to keep your baby hydrated, so small amounts are fine until the richer milk comes in.\"",
+          "\"Your milk should come in within the next day, so a small formula top-up after feeds until then will prevent weight loss.\"",
+          "\"Colostrum has less protein than mature milk, so frequent feeds are what make up the difference for now.\"",
+          "\"That thick yellow milk is colostrum. It is concentrated and rich in protein and antibodies, and a few milliliters fits your baby's stomach today.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is the trap statement in the guide (\"colostrum is mostly water\"). Colostrum is concentrated, protein- and antibody-rich milk, not water.",
+          "Mature milk comes in on days 3–5, not within a day. Supplementing a baby whose data are normal is not indicated and reduces milk removal.",
+          "This reverses the facts. Colostrum is HIGHER in protein and minerals than mature milk; it is lower in fat.",
+          "CJMM — Recognize cues: small volumes of thick yellow milk, 8 feeds, audible swallowing, and only 3% weight loss at 20 hours. Analyze cues: colostrum is more concentrated than mature milk, extremely rich in immunoglobulins, higher in protein and minerals, and lower in fat, and a day-1 stomach holds only 5–7 mL. Prioritize hypotheses: feeding is going normally, so supplementation is not indicated. Take action: explain colostrum's value and its fit with stomach size. Evaluate outcomes: the client continues feeding on cue without formula."
+        ]
+      },
+      {
+        "stem": "The parent of a 10-day-old breastfed infant says the baby \"feeds constantly\" and is fussy after feeds. The parent switches breasts every 4 to 5 minutes \"so both sides stay even.\" The infant is just back to birth weight. Which instruction should the nurse give?",
+        "options": [
+          "\"Switch sides every 2 minutes instead, so letdown is triggered more often on both breasts.\"",
+          "\"Space feeds to every 3 hours so your breasts fill up more and each feed is bigger.\"",
+          "\"Keep the baby on the first breast until it softens and the baby comes off, then offer the second side.\"",
+          "\"Pump after each feed and give the pumped milk by bottle so the baby takes in more volume.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Switching even sooner makes the problem worse. The baby never reaches the hindmilk that lets down 10–20 minutes into a feed.",
+          "Feeding by the clock instead of on cue lowers how often the breasts are emptied and can lower supply. It also does not fix the missing hindmilk.",
+          "CJMM — Recognize cues: very short time on each breast, frequent hunger, and fussiness after feeds. Analyze cues: foremilk (about 60% skim and 35% whole) comes first. The fat-rich hindmilk (about 5%, the \"cream\") lets down 10–20 minutes into a feed and gives the dense calories that support growth and contentment. Switching every 4–5 minutes keeps the baby on foremilk. Take action: finish the first breast before offering the second. Evaluate outcomes: longer stretches of contentment between feeds and steady weight gain.",
+          "Pumping and bottle-feeding adds work and bypasses the real fix, which is letting the baby finish one breast."
+        ]
+      },
+      {
+        "stem": "A breastfeeding client asks how the body \"knows\" how much milk to make. Which statement by the client indicates correct understanding of the nurse's teaching?",
+        "options": [
+          "\"When the baby sucks, prolactin from my posterior pituitary squeezes milk out, so longer feeds mean more milk.\"",
+          "\"When the baby empties my breasts often, prolactin from my anterior pituitary rises and tells my body to make more milk.\"",
+          "\"Oxytocin from my anterior pituitary makes the milk, so cramping during feeds means my supply is good.\"",
+          "\"My supply was set during pregnancy by estrogen, so how often I feed mostly affects my comfort, not my volume.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This mixes up the two hormones. Oxytocin from the POSTERIOR pituitary ejects milk; prolactin from the ANTERIOR pituitary makes it. Supply depends on how often milk is removed, not just on feed length.",
+          "CJMM — Analyze cues: slide 12 shows two pathways. For milk production, suckling signals the hypothalamus, then the anterior pituitary, then prolactin, then milk synthesis. For letdown, suckling signals the posterior pituitary, then oxytocin, then milk ejection. Milk is made on supply and demand: more removal means more milk. Evaluate outcomes: this client correctly links frequent emptying to rising prolactin and greater supply, which supports feeding 8–12 times a day.",
+          "Oxytocin comes from the posterior pituitary and causes letdown and uterine contractions, not milk synthesis. Cramping does not measure supply.",
+          "Estrogen and progesterone hold milk back during pregnancy. They fall after the placenta is delivered. Supply after birth depends on removal, so how often the client feeds directly drives volume."
+        ]
+      },
+      {
+        "stem": "On postpartum day 5, a breastfeeding client calls the nurse: \"My milk still hasn't come in and the baby is fussy.\" The client also reports bright red bleeding that has increased over the past 2 days and passing several clots. Which hypothesis should the nurse prioritize?",
+        "options": [
+          "Infrequent feeding, which keeps prolactin low, so the client needs to feed 8 to 12 times a day",
+          "A normal variation, because mature milk can take up to 2 weeks to come in after a first birth",
+          "Postpartum depression, which suppresses oxytocin and blocks the letdown reflex",
+          "Retained placental fragments, which keep estrogen and progesterone high and delay milk while causing bleeding"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Feeding frequency is worth checking, but it does not explain increasing bright red bleeding with clots on day 5. This skips the most dangerous cue.",
+          "Mature milk typically comes in on days 3–5. Calling this normal ignores the bleeding and delays care for a possible hemorrhage.",
+          "Depression should be screened for, but it does not account for heavy, increasing bleeding. It is not the priority hypothesis.",
+          "CJMM — Recognize cues: no milk on day 5 together with increasing bright red bleeding and clots. Analyze cues: estrogen and progesterone from the placenta hold milk back during pregnancy, and their drop after the placenta delivers lets milk come in (typically days 3–5). Retained placenta delays milk, and retained tissue also explains the abnormal bleeding. Prioritize hypotheses: one cause explains both findings and can lead to hemorrhage. Take action: have the client seen urgently and notify the provider."
+        ]
+      },
+      {
+        "stem": "A term newborn is born vaginally, cries vigorously, has a heart rate of 150/min, and has good tone. The parent plans to breastfeed. Prescriptions include weight and measurements, a bath, vitamin K IM, and erythromycin eye ointment. Which action should the nurse take first?",
+        "options": [
+          "Weigh and measure the newborn under the radiant warmer, then return the baby to the parent for skin-to-skin",
+          "Dry the newborn, place the baby skin-to-skin on the parent's chest, and support a first breastfeed as soon as possible",
+          "Give the vitamin K and eye ointment first so that skin-to-skin will not need to be interrupted later",
+          "Bathe the newborn under the radiant warmer to stabilize temperature before the first breastfeed"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Measurements are routine and can wait. Doing them first interrupts the skin-to-skin period the slide calls for.",
+          "CJMM — Recognize cues: a vigorous, stable term newborn and a parent who plans to breastfeed. Analyze cues: slide 14 directs the nurse to facilitate immediate and uninterrupted skin-to-skin contact and to support starting breastfeeding as soon as possible after birth. Skin-to-skin stabilizes temperature, heart rate, and breathing, helps prevent hypoglycemia, and raises maternal oxytocin. Generate solutions: routine procedures can wait for a stable newborn. Take action: dry the baby, place them skin-to-skin, and support the first feed. Evaluate outcomes: the newborn stays warm and stable and latches within the first hour.",
+          "Vitamin K and eye ointment are needed, but they are not urgent in a stable newborn. Doing them first delays skin-to-skin, which is right action, wrong priority.",
+          "A bath removes the newborn from skin-to-skin and causes heat loss. Skin-to-skin itself stabilizes temperature, so the bath should wait."
+        ]
+      },
+      {
+        "stem": "A breastfeeding parent of a 2-day-old says, \"He started rooting and sucking on his fist about 10 minutes ago, but I'm waiting until 3 hours have passed and he cries so I know he's really hungry.\" Which response by the nurse is best?",
+        "options": [
+          "\"Change his diaper and hold him skin-to-skin to settle him, then feed him once the 3 hours are up.\"",
+          "\"Offer him a pacifier until the 3-hour mark so your breasts have time to refill between feeds.\"",
+          "\"Feed him now, but keep it to one breast so that you stay on a 3-hour schedule today.\"",
+          "\"Offer the breast now. Rooting and hand-to-mouth are early hunger cues, and crying is a late cue that makes latching harder.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Settling the baby to wait for the clock ignores the hunger cues. On-cue feeding, not a fixed schedule, drives supply.",
+          "A pacifier delays a needed feed and reduces breast stimulation. Breasts make more milk when emptied more often, not when they \"refill.\"",
+          "Limiting the feed to keep a schedule shortens milk removal and can keep the baby from reaching the hindmilk.",
+          "CJMM — Recognize cues: rooting and fist-sucking in a 2-day-old while the parent waits for the clock and for crying. Analyze cues: breastfed newborns feed 8–12 times in 24 hours on cue. Early cues are rooting, hand-to-mouth, and lip smacking, and crying is a LATE cue. A strict schedule is a trap answer in the guide. Take action: feed now. Evaluate outcomes: the baby latches more easily when calm, and frequent removal builds supply."
+        ]
+      },
+      {
+        "stem": "On day 2, a breastfeeding parent says, \"Every evening he wants to eat every hour for about 4 hours. I must not have enough milk. Can we give formula tonight?\" The newborn has lost 5% of birth weight, has had 4 wet diapers and 3 stools in 24 hours, and swallows audibly at feeds. Which response by the nurse is best?",
+        "options": [
+          "\"Feeding every hour means your supply is low right now, so a small formula top-up after evening feeds will let your breasts refill.\"",
+          "\"Let's stretch the evening feeds to every 2 hours so he takes in larger, more satisfying feeds.\"",
+          "\"Frequent evening feeds are called cluster feeding and are normal. His weight, diapers, and swallowing show milk is getting through, so formula isn't needed now.\"",
+          "\"You've been up a lot, so let's have the nursery give him a bottle tonight and you can feed him in the morning.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is the trap that treats cluster feeding as a need for formula. The data show adequate transfer, and formula would reduce milk removal on a key night for building supply.",
+          "Spacing feeds overrides the baby's cues and reduces breast stimulation. Supply grows with more frequent emptying, not less.",
+          "CJMM — Recognize cues: hourly evening feeds, 5% weight loss, appropriate output for day 2, and audible swallowing. Analyze cues: cluster feeding is normal, and a request to supplement because of cluster feeding alone is NOT an indication. Weight loss under 10% and audible swallowing show milk transfer. Prioritize hypotheses: this is normal behavior, not low supply. Take action: reassure the parent with the baby's own data and keep feeding on cue. Evaluate outcomes: the parent continues to breastfeed and the baby's output keeps rising.",
+          "Supplementing because the parent is tired is not a medical indication. It reduces milk removal; the nurse can support rest in other ways."
+        ]
+      },
+      {
+        "stem": "A client who is 8 hours post-cesarean birth is sitting up in a chair and says the newborn \"kicks my incision\" in the cradle hold. The client wants to stay upright for this feed. Which position should the nurse help the client use?",
+        "options": [
+          "Football (clutch) hold, with the baby tucked along the client's side under the arm",
+          "Cross-cradle hold, with the baby lying across the client's abdomen on a pillow",
+          "Side-lying position in bed, with the baby facing the client tummy-to-tummy",
+          "Laid-back position, with the baby lying prone on the client's abdomen"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a fresh cesarean incision, pain when the baby's body rests across the abdomen, and a client who wants to stay upright. Analyze cues: the football (clutch) hold keeps the baby's body along the client's side and off the incision, and the guide names it as a good position after a cesarean. Generate solutions: choose the hold that meets both the comfort need and the client's preference. Take action: position the baby along the side with the ear, shoulder, and hip in line, supported by pillows. Evaluate outcomes: the client feeds comfortably with no pressure on the incision.",
+          "Cross-cradle still lays the baby across the abdomen. A pillow helps, but the baby's legs remain over the incision.",
+          "Side-lying also keeps the baby off the incision, but the client wants to stay upright in the chair, so it does not meet this client's goal.",
+          "Laid-back positioning puts the baby's full weight prone on the abdomen, directly over the fresh incision."
+        ]
+      },
+      {
+        "stem": "The nurse observes a parent latching a 1-day-old newborn. Which action by the parent requires the nurse to intervene?",
+        "options": [
+          "Leans forward and pushes the breast into the baby's mouth as soon as the lips touch the nipple",
+          "Lines the baby's nose up with the nipple and waits for the baby to open the mouth wide",
+          "Lets the chin touch the breast first so that more areola goes in below the nipple than above",
+          "Aims the nipple toward the roof of the baby's mouth as the baby latches on"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the parent leans over and pushes the breast into a mouth that has not opened wide. Analyze cues: the latch steps are nose to nipple, wait for a wide-open mouth, aim the nipple toward the roof of the mouth, and let the chin touch the breast first for a deep, asymmetric latch. Bringing the breast to a partly open mouth gives a shallow latch, which causes pain, cracked nipples, and poor transfer. Take action: coach the parent to sit back, wait for the wide gape, and bring the baby to the breast.",
+          "This is correct technique. Nose to nipple and waiting for a wide-open mouth come first in the latch sequence.",
+          "This is correct technique. Chin first gives the deep, asymmetric latch with more areola below than above.",
+          "This is correct technique. Slide 15 shows aiming the nipple toward the roof of the mouth."
+        ]
+      },
+      {
+        "stem": "On day 2, a breastfeeding client reports nipple pain of 7/10 that lasts through the whole feed. The nurse hears clicking sounds, sees that the infant's lips are rolled inward, and notes that the nipple is creased and wedge-shaped after the feed. Which action should the nurse take first?",
+        "options": [
+          "Apply lanolin after each feed and encourage the client to continue with the current technique",
+          "Have the client pump and bottle-feed for 24 hours so that the nipple has a chance to heal",
+          "Start feeds on the less sore side and offer the prescribed analgesic before the next feed",
+          "Observe a full feed and help reposition the infant for a deeper, asymmetric latch with flanged lips"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Lanolin is optional comfort only. Continuing the same technique guarantees ongoing damage, which is the guide's trap answer.",
+          "Switching to bottles \"to rest the nipple\" lowers supply and does not fix the latch. The damage will return when breastfeeding resumes.",
+          "Starting on the less sore side is a reasonable comfort measure, but it is right action, wrong priority. The cause, the shallow latch, must be fixed first.",
+          "CJMM — Recognize cues: pain throughout the feed, clicking, lips rolled in, and a creased, wedge-shaped nipple. Analyze cues: slides 19–20 list these as signs of a poor or shallow latch, which leads to a flattened, wedged, creased nipple and eventually a crack. Prioritize hypotheses: the shallow latch is the cause, and pain is not \"normal breastfeeding.\" Take action: observe a full feed and correct the latch and position. Evaluate outcomes: rhythmic suck–swallow, no clicking, lips flanged, and a rounded nipple after the feed."
+        ]
+      },
+      {
+        "stem": "A client with sore nipples has received teaching on nipple care. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll start each feed on the less sore side, since my milk will already be flowing when I switch.\"",
+          "\"I'll express a few drops of milk onto my nipples and let them air-dry after feeds.\"",
+          "\"If the pain continues even after we fix the latch, I'll ask to see the lactation consultant.\"",
+          "\"I'll keep feeds on the sore side to 5 minutes until it heals so the nipple can rest.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct. Starting on the less sore side means letdown is already flowing when the baby moves to the sore side.",
+          "This is correct. Expressing milk onto the nipple and letting it air-dry after feeds is on the Week 6 breast-care slide.",
+          "This is correct. Persistent pain after the latch is corrected is a reason to refer to an IBCLC.",
+          "CJMM — Recognize cues: the client plans to cut feeds short on the sore side. Analyze cues: the guide says not to limit feeding time or skip feeds to rest the nipple, because less removal lowers supply and short feeds miss the hindmilk. Soreness is treated by fixing the latch. Prioritize hypotheses: this plan would reduce supply and cause engorgement on that side. Take action: reteach that the fix is a deeper latch, not shorter feeds."
+        ]
+      },
+      {
+        "stem": "On day 4, a breastfeeding client's breasts are hard, warm, and tender on both sides, and the newborn slides off the tight areola without latching. Temperature is 37.4°C (99.3°F). Which action should the nurse take first?",
+        "options": [
+          "Apply warm compresses and gentle massage, then hand-express a little milk to soften the areola before latching",
+          "Apply ice packs to both breasts right before the feed so the swelling goes down enough to latch",
+          "Give a bottle of formula for this feed and let the breasts rest until the swelling eases",
+          "Have the client wear a tight binder and avoid pumping until the engorgement resolves"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: bilateral, hard, warm, tender breasts on day 4, a near-normal temperature, and a baby who cannot grasp the tight areola. Analyze cues: this is engorgement as the milk comes in (from increased blood and lymph supply), not infection. For a BREASTFEEDING client, the slides say warmth and massage before feeding, cold between feedings, and frequent emptying. Take action: warmth and massage to help letdown, then hand-express to soften the areola so the baby can latch. Evaluate outcomes: the baby latches, the breasts soften after the feed, and engorgement eases within about 24–48 hours.",
+          "Cold belongs BETWEEN feedings. Ice right before a feed works against letdown, which is the guide's trap (\"ice before feeding\").",
+          "Skipping a feed to let the breasts rest leaves milk in the breast, which worsens engorgement and signals the body to make less milk.",
+          "A tight binder and no milk removal is the plan for a client who is NOT breastfeeding. For this client it would worsen engorgement and suppress supply."
+        ]
+      },
+      {
+        "stem": "A client who has chosen formula feeding has full, tender breasts on postpartum day 3. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll wear a snug, supportive bra day and night for the next few days.\"",
+          "\"When the pressure gets bad, I'll pump just enough to take the edge off.\"",
+          "\"I'll put ice packs on my breasts and under my arms.\"",
+          "\"I'll keep the hot shower water off my breasts for now.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. A tight, supportive bra worn around the clock for a few days is the non-nursing plan.",
+          "CJMM — Recognize cues: a client who is NOT breastfeeding plans to pump to relieve fullness. Analyze cues: for non-nursing breasts the goal is milk OFF. Any expression or breast stimulation signals the body to make more milk. The slides say do not express milk, and that the milk is gradually reabsorbed as prolactin falls within about 2 weeks. Prioritize hypotheses: pumping, even a little, will prolong engorgement. Take action: reteach no pumping or stimulation, and offer ice and analgesia for comfort.",
+          "This is correct. Ice packs go on the breasts AND the axillae.",
+          "This is correct. Avoiding hot water on the breasts in the shower prevents stimulation of letdown."
+        ]
+      },
+      {
+        "stem": "Two clients share a postpartum room on day 2. One is breastfeeding and the other is formula feeding. Which breast-care instruction should the nurse give to BOTH clients?",
+        "options": [
+          "Apply warm compresses and massage the breasts when they feel full",
+          "Apply ice packs to the breasts and axillae for comfort",
+          "Wear a supportive bra",
+          "Express a small amount of milk to relieve fullness"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Warmth and massage promote letdown. That helps the breastfeeding client before feeds but stimulates milk in the formula-feeding client.",
+          "Ice to the breasts and axillae is the non-nursing plan. A breastfeeding client uses cold only BETWEEN feeds and does not need ice to the axillae to suppress milk.",
+          "CJMM — Recognize cues: one client wants milk ON and the other wants milk OFF. Analyze cues: Week 6 slide 39 lists a supportive bra for the breastfeeding client and a supportive (tight) bra for the non-breastfeeding client. Every other measure helps one goal and works against the other. Generate solutions: choose the only overlapping instruction. Take action: teach both clients to wear a supportive bra. This is the exact \"correct for BOTH\" trap the guide predicts.",
+          "Expressing milk helps a breastfeeding client soften the areola, but for a formula-feeding client any expression signals the body to keep making milk."
+        ]
+      },
+      {
+        "stem": "A breastfeeding client on day 2 of oral antibiotics for mastitis in the right breast says, \"I'll feed only from the left side until the infection clears so the baby doesn't get sick.\" Which response by the nurse is best?",
+        "options": [
+          "\"That's a sensible plan. Pump the right side and throw that milk away until you finish the antibiotics.\"",
+          "\"Keep feeding or pumping from the right breast often. Emptying it is part of treating mastitis and protects your supply.\"",
+          "\"Feed from the left, and use ice on the right breast between feeds so the milk on that side dries up.\"",
+          "\"Pause breastfeeding on both sides until you have been fever-free for 24 hours on the antibiotics.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "Pumping removes milk, but discarding it is unnecessary and the plan still rests on the false idea that the milk is unsafe for the baby.",
+          "CJMM — Recognize cues: a client being treated for mastitis plans to stop feeding from the affected breast. Analyze cues: mastitis is NOT a contraindication. The guide's right answer is to keep breastfeeding or emptying the breast along with antibiotics, and \"stop breastfeeding on that side\" is the listed trap. Milk left in the breast worsens inflammation. Take action: encourage frequent feeding or pumping from the right breast. Evaluate outcomes: the breast softens, fever resolves, and supply is maintained on both sides.",
+          "Suppressing milk on the affected side leaves the breast full and inflamed, which slows recovery and permanently lowers supply on that side.",
+          "Stopping both sides leaves both breasts full, worsens the mastitis, and interrupts breastfeeding for no reason."
+        ]
+      },
+      {
+        "stem": "A 31-week preterm infant in the NICU needs more milk than the parent is currently able to pump. The parent wants the infant to receive only human milk. Which plan does the nurse anticipate?",
+        "options": [
+          "Milk from a peer-to-peer sharing network arranged by the parent, given in place of further pumping",
+          "Preterm formula for all feeds so intake can be measured, with pumped milk frozen for after discharge",
+          "The parent's own milk only, with feeds spaced farther apart until the pumped volume increases",
+          "Pasteurized donor milk from a regulated milk bank, with the parent continuing to pump to build supply"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Peer-to-peer milk is unscreened and unpasteurized, which is a poor fit for a fragile preterm infant when a regulated bank is available, and stopping pumping would reduce supply.",
+          "Formula is the last option in the order. Freezing the parent's milk for later means the preterm infant misses human milk when it matters most.",
+          "Spacing feeds to wait for supply underfeeds a preterm infant. Supply is built by pumping, not by delaying the infant's intake.",
+          "CJMM — Recognize cues: a preterm infant with a clinical need for milk, an inadequate pumped volume, and a parent who wants human milk. Analyze cues: slide 24 says regulated milk banks serve clinical needs, and the guide's supplementation order is the parent's own expressed milk first, then pasteurized donor milk, then formula, while pumping protects supply. Preterm infants gain the most from human milk. Take action: give all of the parent's milk that is available, make up the shortfall with pasteurized bank milk, and keep the parent pumping. Evaluate outcomes: the infant meets intake goals and the parent's supply rises."
+        ]
+      },
+      {
+        "stem": "A staff RN with 3 years of postpartum experience wants to become an International Board Certified Lactation Consultant (IBCLC) through Pathway 1. Which plan meets the requirements described in the course?",
+        "options": [
+          "Complete 90 hours of lactation education and 500 hours of clinical practice directly supervised by an IBCLC, then pass the exam",
+          "Complete 95 hours of education and 1,000 hours of clinical practice within 10 years, then recertify every 10 years",
+          "Complete 95 hours of education (90 in lactation, including the WHO Code, and 5 in communication) and 1,000 clinical hours within 5 years, then pass the exam",
+          "Complete 1,000 hours of lactation clinical practice, using RN licensure in place of the lactation education hours"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Education is 95 hours, not 90, and Pathway 1 is 1,000 hours that do NOT require direct IBCLC supervision.",
+          "Both the education and clinical hours must fall within 5 years before applying, and recertification is every 5 years, not 10.",
+          "CJMM — Analyze cues: slide 26 says an RN meets the health-sciences requirement. The candidate also completes 95 hours of education (90 in lactation, including 2 hours on the WHO Code on marketing breast-milk substitutes, and 5 in communication) and, for Pathway 1, 1,000 hours of lactation-specific clinical practice, both within the 5 years before applying. The clinical hours do not require direct IBCLC supervision. The candidate then passes a 175-question exam of about 4 hours and recertifies every 5 years. Generate solutions: only this plan includes every element. Take action: the nurse follows this plan to become a resource for referrals.",
+          "RN licensure meets the health-sciences background requirement only. It does not replace the 95 hours of lactation-specific education."
+        ]
+      },
+      {
+        "stem": "A first-time parent shows the nurse three feeding apps and a wearable pump and says, \"I'm tracking every minute on each side and the numbers never match. I'm so stressed I can't tell whether he's eating enough.\" Which response by the nurse is best?",
+        "options": [
+          "\"Let's set the apps aside for now and look at what really shows he's getting enough: swallowing at feeds, wet and dirty diapers, and his weight.\"",
+          "\"The wearable pump will give you exact ounces, so pumping and bottle-feeding is the most reliable way to know his intake.\"",
+          "\"Keep logging in all three apps for another week so the provider can compare the data at his checkup.\"",
+          "\"These apps are often inaccurate, so stop tracking and feed him on a set 3-hour schedule instead.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a parent overwhelmed by several devices and conflicting data. Analyze cues: slide 25 says nurses should know new feeding technology and recognize that it can overwhelm new parents. Adequate intake is shown by audible swallowing, output, and weight trend, not by minutes on each side. Generate solutions: reduce the overload and refocus on reliable signs. Take action: teach the parent the real markers of adequate intake. Evaluate outcomes: the parent can state the signs of enough milk and reports less stress.",
+          "Switching to pumping and bottles to measure ounces replaces direct breastfeeding, can affect supply, and adds work for a parent who is already overwhelmed.",
+          "Continuing all three apps keeps the source of the stress and the conflicting data. It does not answer the parent's question about intake.",
+          "Stopping tracking is reasonable, but a fixed 3-hour schedule replaces feeding on cue, which is the guide's trap answer."
+        ]
+      },
+      {
+        "stem": "Eighteen hours after birth, a client who planned to breastfeed exclusively has received free formula samples, and the client's partner says, \"The commercials say formula is basically the same, so just give a bottle and rest.\" The newborn has fed 7 times with audible swallowing, has had 2 wet diapers and 1 meconium stool, and has lost 3% of birth weight. Which action by the nurse best supports an informed choice?",
+        "options": [
+          "Acknowledge the partner's concern, show the couple how the baby's data indicate effective feeding, and explain how formula differs from human milk so they can decide",
+          "Remove the formula samples from the room and remind the client of the plan written in the chart to breastfeed exclusively",
+          "Agree that modern formula is now very close to breast milk and offer a bottle tonight so the client can get some rest",
+          "Ask the partner to step out so the nurse can speak with the client privately about the feeding decision"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: marketing messages, free samples, and family pressure, alongside normal data (7 feeds, audible swallowing, expected day-1 output, 3% loss). Analyze cues: marketing and family members influence feeding decisions. The nurse's role is evidence-based, nonjudgmental counseling that supports informed choice and the client's own goal. Supplementation is not indicated when the data are normal. Take action: address both people's concerns with facts and the baby's own data. Evaluate outcomes: the couple makes a decision that matches their goals with accurate information.",
+          "Taking the samples away without a discussion is a listed trap. It is judgmental and does not address the partner's belief.",
+          "This repeats the marketing claim as fact and offers formula without an indication, which undermines the client's stated goal.",
+          "Excluding the partner leaves the misinformation unanswered and ignores the family's influence on the decision. Family-centered care brings the partner into the conversation."
+        ]
+      },
+      {
+        "stem": "After receiving balanced information about human milk and formula, a client decides to formula feed. Which nursing action best supports this client?",
+        "options": [
+          "Provide the breastfeeding benefits handout again before discharge in case the client reconsiders",
+          "Document the decision and arrange a lactation consult so the client can try one feed before discharge",
+          "Teach formula preparation and remind the client that formula carries more infection risk so the tradeoff is clear",
+          "Respect the decision, teach safe formula preparation and responsive bottle-feeding, and encourage skin-to-skin and eye contact during feeds"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Repeating breastfeeding material after an informed decision implies the choice is wrong. That is pressure, not respectful guidance.",
+          "Arranging a lactation consult for a client who has chosen formula pushes breastfeeding again and disregards the decision.",
+          "The risks were already covered in counseling. Repeating them after the decision adds guilt instead of support, which is the trap the guide warns about.",
+          "CJMM — Recognize cues: the client has made an informed decision after balanced counseling. Analyze cues: the slides call for respectful guidance, meaning nonjudgmental information and respect for the family's final decision. The guide adds support for formula feeding: safe preparation, cues and paced feeding, and bonding through skin-to-skin and eye contact. Take action: give complete formula teaching without reopening the decision. Evaluate outcomes: the parent prepares formula safely and feeds responsively."
+        ]
+      },
+      {
+        "stem": "A breastfed newborn weighed 3,650 g at birth and weighs 3,250 g at 72 hours. The infant is sleepy at the breast and few swallows are heard. Which action should the nurse take?",
+        "options": [
+          "Recognize a 12% loss, figured against today's weight, and begin formula after every feed",
+          "Recognize an expected loss for day 3, and reassure the parent that gain starts after the first week",
+          "Recognize an 11% loss, observe a full feed, and notify the provider about supplementation while the parent pumps",
+          "Recognize a 9% loss, which is within normal limits, and recheck the weight in 24 hours"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Dividing by the current weight (400 ÷ 3,250 ≈ 12.3%) inflates the percentage, which is the guide's math trap. Starting formula without an order also skips the assessment and the protection of supply.",
+          "Calling 11% \"normal for day 3\" is the listed trap. The normal range ends at 10%, and the sleepy feeding confirms a problem.",
+          "CJMM — Recognize cues: a 400 g loss at 72 hours, sleepiness at the breast, and few audible swallows. Analyze cues: % loss = (birth − current) ÷ birth × 100 = (3,650 − 3,250) ÷ 3,650 × 100 = 400 ÷ 3,650 ≈ 11%. A loss of 5–10% in week 1 is normal; more than 10% is a red flag, and 11% at 72 hours is a listed indication for supplementation. Prioritize hypotheses: poor milk transfer is likely. Take action: observe a full feed (LATCH), notify the provider, protect supply by pumping, and supplement per order. Evaluate outcomes: weight stabilizes and output improves.",
+          "This is a math error. 400 g is about 11% of 3,650 g, so waiting 24 hours delays care for an infant already over the limit."
+        ]
+      },
+      {
+        "stem": "A newborn weighed 3,200 g at birth and weighs 2,944 g at 48 hours. The newborn breastfeeds 9 times a day with audible swallowing. Which conclusion by the nurse is correct?",
+        "options": [
+          "The loss is 8%, within the expected 5–10%, so the parent should continue feeding on cue while output and weight are monitored",
+          "The loss is 8.7%, near the upper limit of normal, so supplementation should be discussed with the provider",
+          "The loss is 8%, which is more than expected at 48 hours, so the provider should be notified now",
+          "The loss is 8.7%, within normal limits, so no further weight checks are needed before discharge"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a 256 g loss at 48 hours with 9 feeds and audible swallowing. Analyze cues: (3,200 − 2,944) ÷ 3,200 × 100 = 256 ÷ 3,200 = 8%. Newborns normally lose 5–10% in the first week from low early intake, fluid shifts, and insensible water loss. Prioritize hypotheses: this is an expected loss with good evidence of milk transfer. Take action: continue on-cue feeding. Evaluate outcomes: keep monitoring output and weight, with gain expected after the first week.",
+          "8.7% comes from dividing by the current weight, which is the guide's math trap, and a loss inside the normal range with good transfer does not indicate supplementation.",
+          "8% is inside the expected 5–10% range. Calling it excessive misreads the normal range for the first week.",
+          "The percentage is calculated wrong, and stopping weight checks is unsafe because the loss is still in progress at 48 hours."
+        ]
+      },
+      {
+        "stem": "A 2-month-old infant weighs 5.2 kg. Using the course guideline for the first 3 months, which daily calorie range should the nurse use to evaluate the infant's intake?",
+        "options": [
+          "572–624 kcal/day",
+          "520–572 kcal/day",
+          "624–676 kcal/day",
+          "286–312 kcal/day"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: slide 4 states that during the first 3 months an infant needs 110–120 kcal/kg/day. Generate solutions: 5.2 kg × 110 = 572 kcal and 5.2 kg × 120 = 624 kcal. Evaluate outcomes: the nurse compares the infant's actual intake and weight gain to 572–624 kcal/day to judge whether feeding is adequate.",
+          "This uses 100–110 kcal/kg/day, which is below the slide range and would underestimate the infant's needs.",
+          "This uses 120–130 kcal/kg/day, which is above the slide range and could lead to a false conclusion of underfeeding.",
+          "This is half of the correct range, as if 55–60 kcal/kg/day were used, and it would badly underestimate the infant's needs."
+        ]
+      },
+      {
+        "stem": "The nurse reviews phone messages from the parents of four breastfed newborns. Which newborn should the nurse follow up with first?",
+        "options": [
+          "Day 5: still passing black, sticky stools and 2 wet diapers with dark yellow urine in 24 hours",
+          "Day 2: an orange-red stain in the diaper and 9 breastfeeds in the past 24 hours",
+          "Day 1: one wet diaper and one black, sticky stool since birth",
+          "Day 4: four loose, seedy yellow stools and urine that looks like clear water"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: on day 5 the stools are still meconium, there are only 2 wet diapers, and the urine is dark. Analyze cues: meconium should change to green transitional stools by day 3–4 and yellow by day 4–5, and meconium persisting after day 4–5 means inadequate intake. By about day 5 a baby should have at least 6 wet diapers with pale urine. Prioritize hypotheses: this infant is not getting enough milk and may be dehydrated. Take action: call the parent first to arrange a same-day weight, feeding observation, and provider notification.",
+          "Orange or red urine (urate crystals) is normal on days 1–2, and 9 feeds a day is appropriate. Always ask \"what day is it?\"",
+          "One wet diaper and meconium on day 1 is expected output.",
+          "By day 4, 3–4 yellow stools and clear urine are signs of adequate intake."
+        ]
+      },
+      {
+        "stem": "The nurse observes a breastfeeding session for a 2-day-old newborn. Which findings indicate effective milk transfer? Select all that apply.",
+        "options": [
+          "Audible swallowing after every few sucks",
+          "Dimpled cheeks with rapid, continuous sucking",
+          "The breast feels softer after the feed",
+          "Clicking sounds heard during sucking",
+          "A rhythmic suck–swallow pattern with brief pauses",
+          "The newborn stayed on the breast for 45 minutes"
+        ],
+        "answer": [
+          0,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—audible swallowing is the best single sign of milk transfer (the \"A\" in LATCH).",
+          "Incorrect—dimpled cheeks and rapid sucking without swallows suggest a poor seal or non-nutritive sucking, which the guide lists as a trap.",
+          "Correct—a breast that is softer after the feed shows that milk was removed.",
+          "Incorrect—clicking or popping is a sign of a shallow latch on slide 19, not of effective feeding.",
+          "Correct—a rhythmic suck–swallow pattern shows nutritive sucking with milk flowing.",
+          "Incorrect—time at the breast does not measure intake. A long feed may also mean poor transfer."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The nurse assesses a breastfeeding pair. The infant grasps the breast with flanged lips and sucks rhythmically. A few swallows are heard, but only when the nurse stimulates the infant. The nipples are flat. The nipples are reddened with small blisters, and the client reports mild discomfort. The client needs help positioning the baby and then takes over. What is the LATCH score, and what is the best nursing action?",
+        "options": [
+          "Score 8; the feeding is effective, so routine support should continue",
+          "Score 6; provide hands-on help with the feeds and refer to a lactation consultant",
+          "Score 6; the feeding is effective, so routine support should continue",
+          "Score 7; reposition only, since these A, T, and C findings are expected early on"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This overscores the A, T, and C items. A few swallows with stimulation, a flat nipple, and blistered nipples each score 1, not 2.",
+          "CJMM — Recognize cues: score each letter from Table 18.6. L: grasps, lips flanged, rhythmic = 2. A: a few swallows with stimulation = 1. T: flat nipple = 1. C: reddened, small blisters, mild discomfort = 1. H: minimal help, then the parent takes over = 1. Analyze cues: 2 + 1 + 1 + 1 + 1 = 6 of a possible 10. Prioritize hypotheses: limited audible swallowing and early nipple damage point to marginal transfer. Take action: a low score calls for more hands-on help and a lactation referral. Evaluate outcomes: rescore at the next feed for spontaneous swallowing and nipple comfort.",
+          "The total is right, but a score of 6 with swallowing only on stimulation and early nipple damage is not effective feeding. This misreads what the score means.",
+          "The total is wrong, and blistered nipples with swallowing only on stimulation are not findings to accept as expected. They need follow-up."
+        ]
+      },
+      {
+        "stem": "At a 2-week visit, a breastfed infant is still 5% below birth weight. The parent easily pumps 90 mL from both breasts in 15 minutes. During a feed the infant sucks weakly, falls asleep quickly, and no swallowing is heard. Which conclusion should guide the nurse's plan?",
+        "options": [
+          "A milk production problem, so the parent should pump after every feed to increase supply",
+          "A combined production and transfer problem, so formula should replace breastfeeding until the infant gains",
+          "A milk transfer problem, so the latch and suck should be evaluated, an IBCLC consulted, and the parent's pumped milk given as supplement per order",
+          "An expected weight, because infants regain birth weight by about 1 month, so feeding should continue unchanged"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Ninety mL pumped easily shows that production is adequate. Pumping more does not fix a baby who cannot remove milk.",
+          "Production is not the problem, and switching to formula skips the parent's own milk, which is the first choice for supplementation.",
+          "CJMM — Recognize cues: the infant has not regained birth weight by 2 weeks, the parent pumps a good volume easily, and the infant has a weak suck with no audible swallowing. Analyze cues: slide 23 says that when a breastfed baby is not gaining, first ask whether it is a production problem, a transfer problem, or both. Good pumped volume shows production; a weak suck and no swallowing show poor transfer. Generate solutions: \"supplementation ≠ formula\": the parent's own expressed milk comes first. Take action: evaluate the latch and suck, refer to an IBCLC, and supplement with expressed milk per order. Evaluate outcomes: weight gain resumes.",
+          "Infants should be back to birth weight by about 10–14 days, and not being back by about 2 weeks is a sign of inadequate intake. This ignores the cue."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing several healthy term breastfed newborns. Which findings support discussing supplementation with the provider? Select all that apply.",
+        "options": [
+          "Weight loss of 12% at 72 hours",
+          "Blood glucose that stays low despite effective breastfeeding",
+          "A parent who is exhausted and wants the baby to sleep longer tonight",
+          "Rising bilirubin with few stools and no audible swallowing at feeds",
+          "Weight loss of 6% at 48 hours with audible swallowing and expected output",
+          "Hourly cluster feeding during the evening on day 2"
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—more than 10% loss at 72 hours exceeds the normal range and supports supplementation.",
+          "Correct—persistent hypoglycemia despite effective breastfeeding is a listed indication.",
+          "Incorrect—supplementing because the parent is tired is a trap. It reduces milk removal; rest can be supported in other ways.",
+          "Correct—hyperbilirubinemia with poor milk transfer is a listed indication.",
+          "Incorrect—6% at 48 hours is within the normal 5–10%, and the swallowing and output show transfer.",
+          "Incorrect—cluster feeding alone is normal and is specifically NOT an indication."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A breastfed newborn has lost 11% of birth weight at 72 hours, and the provider prescribes supplementation. The parent asks what the baby will be given. Which plan is the preferred first choice?",
+        "options": [
+          "Pasteurized donor milk at every feed, so the parent's breasts can rest between feeds",
+          "Standard formula, because the volume the baby takes can be measured exactly",
+          "Formula by bottle, with breastfeeding paused until the baby is back to birth weight",
+          "The parent's own expressed milk, with the parent pumping after feeds to protect supply"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Donor milk is the second choice, and \"resting\" the breasts reduces removal and lowers supply at the moment it needs to rise.",
+          "Formula is the last choice. Measurability does not outweigh the benefits of the parent's own milk.",
+          "Pausing breastfeeding removes the stimulation that builds supply and makes return to the breast harder.",
+          "CJMM — Recognize cues: supplementation is now indicated at 11% loss. Analyze cues: slide 23 reminds the nurse that supplementation does not have to mean formula. The guide's order is the parent's own expressed milk, then pasteurized donor milk, then formula, while pumping protects supply. Generate solutions: give extra calories without undermining breastfeeding. Take action: give the parent's expressed milk and have the parent pump after feeds. Evaluate outcomes: weight stabilizes and supply rises."
+        ]
+      },
+      {
+        "stem": "A formula-fed 3-day-old is taking 90 mL every 3 hours and spitting up large amounts after each feed. The parent says, \"He finishes whatever I give him, so he must need it.\" Which action should the nurse take?",
+        "options": [
+          "Suggest a different formula brand, because large spit-ups after every feed suggest intolerance",
+          "Explain that a 3-day-old's stomach holds about 22–27 mL and help the parent offer smaller amounts while watching for fullness cues",
+          "Continue the 90 mL feeds but burp him more often, since a baby who empties the bottle is still hungry",
+          "Space the feeds to every 5 hours so each 90 mL feed has more time to digest"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The slide teaches using the same formula consistently. The cause here is volume, so changing brands treats the wrong problem.",
+          "CJMM — Recognize cues: 90 mL feeds on day 3 with large spit-ups after each one. Analyze cues: slide 4 shows a day-3 stomach about the size of a walnut, holding 22–27 mL; 90 mL is more than 3 times that. Babies will often keep sucking on a flowing bottle past fullness. Prioritize hypotheses: overfeeding, not intolerance. Take action: teach age-appropriate volumes and paced, cue-based feeding. Evaluate outcomes: spit-ups decrease and the baby stays content between feeds.",
+          "Burping helps with swallowed air but does nothing about a volume that is far beyond stomach capacity.",
+          "Feeds are every 3–4 hours. Stretching to 5 hours while keeping an oversized volume does not fix the overfeeding."
+        ]
+      },
+      {
+        "stem": "The nurse reviews weight expectations with the parents of a breastfed newborn before discharge. Which statement by the parents indicates a need for further teaching?",
+        "options": [
+          "\"It's normal for the baby to lose some weight this first week while feeding gets established.\"",
+          "\"If the baby loses more than 10% of birth weight, that's a reason to have the baby checked.\"",
+          "\"The baby should start gaining by day 3. If not, we'll need to start formula.\"",
+          "\"After the first week, the baby should gain steadily and be back to birth weight by about 2 weeks.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. A loss of 5–10% in the first week is normal.",
+          "This is correct. More than 10% is the red flag that needs evaluation.",
+          "CJMM — Recognize cues: the parents expect gain by day 3 and plan formula if it doesn't happen. Analyze cues: newborns normally lose 5–10% in the first week, and steady weight gain begins AFTER the first week. \"The baby should gain in the first few days\" and \"any loss means formula\" are both trap answers in the guide. Prioritize hypotheses: this belief could lead to unnecessary supplementation. Take action: reteach the expected weight pattern and the real red flags.",
+          "This is correct. Steady gain after the first week and return to birth weight by about 10–14 days is expected."
+        ]
+      },
+      {
+        "stem": "On day 3, a breastfeeding parent says happily, \"She slept 5 hours straight last night, so she must be getting plenty.\" The newborn has had 2 wet diapers with dark yellow urine in the past 24 hours and is hard to wake for feeds. Which conclusion should guide the nurse's action?",
+        "options": [
+          "The long sleep with few wet diapers and dark urine suggests inadequate intake, so wake her to feed, observe a full feed, and report the findings",
+          "Long stretches of sleep show the baby is satisfied, so the parent can let her wake on her own for feeds",
+          "Dark urine is expected through day 4, so only the long sleep needs follow-up at the next visit",
+          "Sleepiness is common on day 3, so the diaper count can be rechecked at the 2-week visit"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a 5-hour sleep, a baby hard to wake, only 2 wet diapers, and dark urine on day 3. Analyze cues: adequate intake looks like sleeping well yet being alert when awake, with pale urine; by day 3–4 there should be 3–4 wet diapers with urine like clear water. Orange or dark urine is normal only on days 1–2, and sleepiness with a weak suck is a sign of NOT enough. Prioritize hypotheses: poor intake, which also raises jaundice and dehydration risk. Take action: wake the baby to feed, observe a full feed, check weight, and notify the provider.",
+          "\"Sleeps 5 hours between feeds = getting plenty\" is the guide's trap. A hard-to-wake baby needs evaluation, not more sleep.",
+          "Dark or orange urine is expected only on days 1–2. On day 3 it is a sign of inadequate intake.",
+          "Waiting until 2 weeks to reassess a baby who already shows signs of poor intake could allow dehydration and excessive weight loss."
+        ]
+      },
+      {
+        "stem": "The nurse prepares discharge teaching for the parents of a breastfed newborn going home on day 2. Which findings should the parents be taught to report? Select all that apply.",
+        "options": [
+          "Fewer than 6 wet diapers a day once the milk is in, around day 5",
+          "Dark yellow or orange urine after day 3",
+          "Loose, seedy yellow stools by day 5",
+          "Black, sticky stools that continue after day 5",
+          "Several feeds close together in the evening",
+          "A baby who is hard to wake and has a weak suck"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—at least 6 wet diapers a day are expected once the milk is in. Fewer suggests inadequate intake.",
+          "Correct—urine should be pale yellow. Brick-red urates are normal only on days 1–2.",
+          "Incorrect—seedy or watery yellow stools by day 4–5 are normal for a breastfed baby.",
+          "Correct—meconium persisting after day 4–5 means inadequate intake.",
+          "Incorrect—cluster feeding is normal and is not a reason to call or to supplement.",
+          "Correct—a sleepy, hard-to-wake baby with a weak suck is a sign of not getting enough milk."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The parent of a 4-day-old breastfed newborn says, \"These diapers are so absorbent I can't tell if they're wet, so I've only counted 1 today.\" The baby is feeding 8 to 10 times a day. Which response by the nurse is best?",
+        "options": [
+          "\"Super-absorbent diapers hide urine, so count every diaper you change as a wet one for now.\"",
+          "\"One wet diaper on day 4 is low. We should start formula supplements today to be safe.\"",
+          "\"Let's compare a diaper with 3 tablespoons of water poured in. By now you should count 3 to 4 wet diapers with clear-looking urine.\"",
+          "\"Diaper counts aren't reliable with these brands, so weight at the 2-week visit is the best way to check intake.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Counting every diaper as wet overestimates output and could hide a baby who is not getting enough milk.",
+          "Supplementation is decided on accurate data. The count is uncertain, so the nurse should assess first, as the slide question on supplementation teaches.",
+          "CJMM — Recognize cues: the parent cannot tell whether diapers are wet, so the count of 1 may be inaccurate. Analyze cues: slide 21 says a wet diaper is as heavy as 3 tablespoons of water, and by day 3–4 breastfed babies should have 3–4 wet diapers with urine that looks like clear water. Generate solutions: give the parent a concrete way to check before drawing a conclusion. Take action: teach the 3-tablespoon comparison and the expected count. Evaluate outcomes: the parent reports an accurate count, and the nurse follows up if it is truly low.",
+          "Waiting 2 weeks discards an important, easy daily measure of intake and could miss dehydration."
+        ]
+      },
+      {
+        "stem": "The parent of a breastfed 4-day-old reports \"8 poops today,\" but most are small smears about the size of a dime; 2 were larger than a quarter. The stools are green. Which conclusion should guide the nurse's next step?",
+        "options": [
+          "The baby has had 8 stools, which is more than enough, so no follow-up is needed",
+          "The baby has had 2 countable stools, fewer than the 3 to 4 expected by day 4, so a feed, the weight, and the wet-diaper count should be checked",
+          "The green color means the stools are abnormal, so the provider should be notified about possible infection",
+          "Small, frequent stools mean the baby has diarrhea from the milk, so feeds should be shortened"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Counting smears inflates the number. Only stools larger than a quarter count, so this misreads the cue.",
+          "CJMM — Recognize cues: many small smears, only 2 stools larger than a quarter, and green transitional stools on day 4. Analyze cues: slide 21 says to count only stools larger than a quarter, and by day 4 most breastfed babies have 3–4 stools a day. Stools move from meconium to green by day 3–4 to yellow by day 4–5. Prioritize hypotheses: intake may be borderline. Take action: observe a feed, weigh the baby, and check urine output before deciding on any change. Evaluate outcomes: yellow stools and 3–4 countable stools a day as feeding improves.",
+          "Green transitional stool is expected around day 3–4. It is not a sign of infection.",
+          "Loose stools are normal for breastfed babies, and shortening feeds would reduce intake further."
+        ]
+      },
+      {
+        "stem": "After a low LATCH score, the nurse helped a client reposition the newborn for a deeper latch. Which finding at the next feed best shows that the intervention improved milk transfer?",
+        "options": [
+          "The newborn stays at the breast for 40 minutes before coming off",
+          "The newborn sleeps for 4 hours after the feed",
+          "Spontaneous, intermittent swallowing is heard throughout the feed",
+          "The newborn's cheeks dimple with rapid, steady sucking"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Time at the breast does not measure intake. A long feed can mean the baby is working hard with little transfer.",
+          "Sleep length is a trap measure of intake. Adequacy is judged by output, swallowing, and weight trend.",
+          "CJMM — Evaluate outcomes: the goal of correcting the latch was better milk transfer. On the LATCH tool, spontaneous and intermittent audible swallowing scores 2 on the \"A\" item, and audible swallowing is the best single sign that milk is moving from breast to baby. Recognize cues: this is direct evidence that the deeper latch is working.",
+          "Dimpled cheeks with rapid sucking suggest a poor seal or non-nutritive sucking, which is a trap sign in the guide."
+        ]
+      }
+    ],
+    "mat2-wk6-postpartum": [
+      {
+        "stem": "The postpartum nurse reviews fundal assessments documented for four clients after uncomplicated vaginal births. Which finding requires follow-up?",
+        "options": [
+          "12 hours after birth: fundus firm, midline, at the umbilicus",
+          "Day 2: fundus firm, midline, 2 fingerbreadths below the umbilicus",
+          "Day 4: fundus firm, midline, 1 fingerbreadth above the umbilicus",
+          "Day 1: fundus firm, midline, 1 fingerbreadth below the umbilicus"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Expected. The fundus rises to the umbilicus within about 12 hours of birth. Treating this as abnormal misreads the timing cue.",
+          "Expected. About 1 cm of descent per day puts the fundus near U−2 on day 2, and it is firm and midline.",
+          "CJMM — Recognize cues: a fundus 1 cm ABOVE the umbilicus on day 4. Analyze cues: after rising to the umbilicus by about 12 hours, the fundus should descend about 1 cm (one fingerbreadth) per day, so on day 4 it should be roughly U−3 to U−4. A fundus that is higher than expected for the day fits subinvolution (retained fragments, distended bladder, myoma, infection). Prioritize hypotheses: subinvolution carries a risk of hemorrhage and infection. Take action: check the bladder, lochia, and temperature, and report the finding.",
+          "Expected. Descent of about 1 cm per day from the umbilicus gives U−1 on day 1. Firm and midline means the uterus is contracting well."
+        ]
+      },
+      {
+        "stem": "On postpartum day 6, a client who gave birth vaginally after a 26-hour labor has a temperature of 38.3 °C (100.9 °F). The fundus is 2 fingerbreadths below the umbilicus and soft, and the lochia is red and foul-smelling. The bladder is not distended. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "The fundus is still descending, so the findings reflect expected involution after a long labor",
+          "Subinvolution with probable uterine infection is developing and needs prompt provider evaluation",
+          "The fever is a normal postpartum temperature elevation that will resolve with oral fluids",
+          "Bladder distention is displacing the uterus, so the client should void and be reassessed"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This misreads the cue. On day 6 the fundus should be near U−6, and lochia should be serosa, not red and foul. A prolonged labor is an infection risk factor, not a reason the findings are normal.",
+          "CJMM — Recognize cues: on day 6 the fundus is higher than expected (it should be about U−6), soft, and the lochia is still red with a foul odor and a fever after 24 hours. Analyze cues: these cues fit subinvolution, and infection is a listed cause. Fever plus foul lochia point to endometritis rather than a simple fragment. Prioritize hypotheses: an infected, subinvoluted uterus can progress to hemorrhage, pelvic peritonitis, or abscess. Take action: report the findings to the provider promptly for evaluation and treatment.",
+          "A slight temperature elevation is normal only in the first 24 hours. A temperature of 38 °C or higher after 24 hours signals infection, and fluids do not address that.",
+          "A full bladder is a cause of subinvolution, but the bladder is not distended and the fundus is midline. Having the client void would treat a cause that has already been ruled out."
+        ]
+      },
+      {
+        "stem": "A client on postpartum day 7 calls the clinic. The lochia changed from red to pinkish-brown on day 4. Today, after carrying laundry up two flights of stairs, the pinkish-brown discharge increased slightly but slowed again after the client rested. There are no clots, no odor, and no dizziness. Which response by the nurse is best?",
+        "options": [
+          "“Come in today so we can check for retained placental fragments.”",
+          "“Pinkish-brown discharge this early means you are bleeding again. Lie down and call back in an hour.”",
+          "“Discharge should have stopped by now, so please use a tampon and track how much you have.”",
+          "“This is expected lochia serosa. Pace your activity, and call if it turns bright red again or gets heavier.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Retained fragments cause persistent red lochia or a return to red. Pinkish-brown lochia that slows with rest is expected, so this escalates a normal finding.",
+          "This misreads lochia serosa as bleeding. Serosa normally follows rubra after day 3–4, so the advice generates alarm without a real cue.",
+          "Lochia continues for about 6 weeks, ending with lochia alba, so it should not have stopped by day 7. Tampons are prohibited after birth.",
+          "CJMM — Recognize cues: pinkish-brown lochia on day 7 that increased with exertion and then slowed with rest, with no clots, odor, or dizziness. Analyze cues: lochia serosa on day 7 is expected, and lochia normally increases with activity. The warning signs are an increase in amount that persists or a return to red. Generate solutions: reassure the client and give specific limits on when to call. Take action: teach the client to pace activity and to call if the discharge becomes red again, becomes heavier, or has clots or a foul odor."
+        ]
+      },
+      {
+        "stem": "A multiparous client who is breastfeeding reports strong cramping each time the newborn latches, rated 6/10. The fundus is firm and midline at the umbilicus 18 hours after birth, and the lochia is moderate rubra. Which action by the nurse is most appropriate?",
+        "options": [
+          "Explain that oxytocin released during breastfeeding contracts the uterus, and offer the prescribed analgesic before feedings",
+          "Suggest formula for the next few feedings so the uterus can rest and the cramping can ease",
+          "Massage the fundus vigorously during each feeding to relieve the cramping",
+          "Notify the provider that the cramping suggests retained placental fragments"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: cramping linked to breastfeeding in a multipara, with a firm, midline fundus and expected lochia. Analyze cues: these are afterpains. Breastfeeding releases oxytocin, which contracts the uterus, and afterpains are stronger in multiparas. The pain score is above the postpartum goal of 0–2. Generate solutions: explain why the cramping happens and treat the pain. Take action: give the prescribed analgesic before feedings and explain that the cramping means the uterus is contracting. Evaluate outcomes: the pain score returns to 0–2 during feeds.",
+          "Afterpains are a sign that involution is working, and breastfeeding promotes that contraction. Replacing feeds treats an expected finding as a problem and undermines lactation.",
+          "Fundal massage is for a boggy uterus. This uterus is firm, so massage only adds pain and does nothing for the cramping.",
+          "Retained fragments cause a boggy or high fundus and heavy bleeding. A firm fundus at the umbilicus with moderate rubra is expected at 18 hours, so this skips Analyze cues."
+        ]
+      },
+      {
+        "stem": "The nurse reviews vital signs for four clients on postpartum day 1 after vaginal births. Which finding is expected and needs no intervention?",
+        "options": [
+          "Pulse 108/min with BP 112/70 and moderate lochia",
+          "BP 152/98 with a headache rated 5/10",
+          "Pulse 54/min, BP 110/68, fundus firm at the umbilicus",
+          "Respirations 24/min with a temperature of 37.4 °C"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Tachycardia is the early sign of hemorrhage, and BP falls late. A normal BP does not make a pulse of 108 safe.",
+          "A raised BP with a headache suggests postpartum preeclampsia. BP should stay in the client's usual range, so this needs follow-up.",
+          "CJMM — Recognize cues: a pulse of 54 with stable BP and a firm fundus. Analyze cues: a postpartum pulse of 40–80 is normal, and bradycardia is common as blood volume and cardiac output return toward prepregnant levels. Prioritize hypotheses: the other three findings point to hemorrhage, preeclampsia, or infection. Evaluate outcomes: the nurse continues routine assessment for this client and does not escalate.",
+          "Postpartum respirations should be 16–20 per minute. A rate of 24 needs further assessment even though the temperature is acceptable."
+        ]
+      },
+      {
+        "stem": "Four postpartum clients have temperatures of 38.0 °C (100.4 °F). Which client's temperature does the nurse most expect to resolve with oral fluids and rest?",
+        "options": [
+          "A client on day 3 who is breastfeeding and has full, soft breasts",
+          "A client 10 hours after a 20-hour labor, with dry lips and little oral intake",
+          "A client on day 2 after a cesarean birth who reports a sore incision",
+          "A client 30 hours after birth who had an indwelling urinary catheter during labor"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Calling a day-3 fever “milk fever” is a trap. A temperature of 38 °C after 24 hours means infection until proven otherwise.",
+          "CJMM — Recognize cues: the same temperature at different times after birth. Analyze cues: a slight temperature elevation is normal during the first 24 hours (from exertion and dehydration). A temperature of 38 °C or higher after 24 hours signals infection. Prioritize hypotheses: only the client at 10 hours, with dry lips after a long labor, fits the expected pattern. Take action: encourage fluids and recheck. Evaluate outcomes: the temperature returns to normal.",
+          "This client is past 24 hours and had an operative birth, which is an infection risk factor. The temperature needs evaluation, not fluids alone.",
+          "At 30 hours the expected window has passed, and an indwelling catheter is a Box 16.1 infection risk. This client needs assessment for UTI or other infection."
+        ]
+      },
+      {
+        "stem": "On postpartum day 1, a client's urine output is 3,100 mL and oral and IV intake totals 1,800 mL. The client woke up drenched in sweat. Vital signs are stable, the fundus is firm and midline at U−1, and there is no bladder distention after voiding. Which action should the nurse take?",
+        "options": [
+          "Request an order to increase the IV rate to correct the fluid deficit",
+          "Obtain a urine specimen for culture because of the excessive output",
+          "Report the night sweats as a possible sign of infection",
+          "Explain that this fluid loss is expected, change the damp linens, and encourage frequent voiding"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is the classic trap: output greater than intake is expected fluid loss, not dehydration. The vital signs are stable, so extra IV fluid has no indication.",
+          "High-volume voids are not a UTI cue. Dysuria and frequency with small amounts are. This mistakes normal diuresis for infection.",
+          "Diaphoresis is common for about a week postpartum. Without fever, it does not suggest infection.",
+          "CJMM — Recognize cues: output much greater than intake, night sweats, stable vital signs, and a firm, midline fundus with an empty bladder. Analyze cues: postpartum diuresis and diaphoresis are expected. IV fluids from labor, falling oxytocin (which has an antidiuretic effect), falling aldosterone, and fluid retained during pregnancy are all being eliminated. Generate solutions: this needs reassurance and comfort measures, not treatment. Take action: explain the finding, provide dry linens, and encourage the client to keep voiding often."
+        ]
+      },
+      {
+        "stem": "A postpartum client asks why compression devices and early walking are needed after an uncomplicated birth. The client says, “I lost blood, so shouldn't my blood be thinner?” Which explanation by the nurse is accurate?",
+        "options": [
+          "“Your blood is thinner after birth, so the devices keep you from bleeding into your legs.”",
+          "“Clotting factors stay elevated for weeks after birth, so walking and compression help prevent leg clots.”",
+          "“The devices are mainly to reduce leg swelling from IV fluids, which will clear as you urinate.”",
+          "“Only clients who had a cesarean birth are at risk for clots, so this is an extra precaution for you.”"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This reverses the physiology. Clotting factors stay high after birth, and compression devices prevent clots, not bleeding.",
+          "CJMM — Analyze cues: the client believes blood loss lowers clot risk. Prioritize hypotheses: coagulation factors stay elevated for weeks after birth (protection against bleeding), so the client is hypercoagulable and at risk for DVT and PE. Generate solutions: correct the misconception with that physiology. Take action: explain that clotting factors stay high for weeks, and that walking and compression keep blood moving in the legs. Evaluate outcomes: the client walks often and can name the signs of DVT.",
+          "Diuresis does clear excess fluid, but the reason for these measures is VTE prevention in a hypercoagulable state. This explanation misses the risk.",
+          "Elevated coagulation factors put every postpartum client at higher risk. A cesarean adds risk but is not required for it."
+        ]
+      },
+      {
+        "stem": "A breastfeeding client on day 3 reports that milk drips from the opposite breast and the uterus cramps each time the newborn latches. The client asks what is causing this. Which explanation is accurate?",
+        "options": [
+          "“Prolactin from the anterior pituitary releases the milk and also contracts the uterus.”",
+          "“Rising estrogen after birth triggers the let-down and the cramping.”",
+          "“Oxytocin from the posterior pituitary causes milk let-down and also contracts the uterus.”",
+          "“Prolactin from the posterior pituitary causes let-down, and oxytocin increases milk supply.”"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is the hormone swap. Prolactin makes milk; it does not eject it or cause afterpains.",
+          "Estrogen and progesterone fall quickly after the placenta delivers. That drop is what allows milk to come in.",
+          "CJMM — Recognize cues: milk ejection and uterine cramping triggered by suckling. Analyze cues: oxytocin from the posterior pituitary causes both milk ejection (let-down) and uterine contraction. Prolactin from the anterior pituitary drives milk production. Take action: give the accurate explanation and reassure the client that both are signs that feeding and involution are working.",
+          "This swaps both the hormones and the gland. Prolactin is anterior and drives production. Oxytocin is posterior and drives ejection and contraction."
+        ]
+      },
+      {
+        "stem": "A client who has chosen to formula-feed is preparing for discharge on day 2. Which statement by the client indicates a need for further teaching about breast care?",
+        "options": [
+          "“When my breasts feel full, I'll stand with warm shower water on them and express a little milk for relief.”",
+          "“I'll wear a firm, supportive bra day and night until the fullness goes away.”",
+          "“I can put ice packs on my breasts and under my arms if they get swollen.”",
+          "“My milk will dry up over the next week or two if I avoid stimulating my breasts.”"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes: the nurse checks the client's understanding of lactation suppression. Analyze cues: prolactin declines within about 2 weeks if the client does not breastfeed, but nipple and breast stimulation, heat, and expressing milk all signal the body to keep producing. Take action: re-teach the client to wear a supportive bra, apply ice to the breasts and axillae, avoid hot water on the breasts, and not express milk so it can be reabsorbed.",
+          "Correct understanding. A supportive bra limits stimulation and improves comfort while milk is reabsorbed.",
+          "Correct understanding. Ice to the breasts and axillae relieves engorgement for a client who is not breastfeeding.",
+          "Correct understanding. Without suckling, prolactin falls within about 2 weeks and lactation stops."
+        ]
+      },
+      {
+        "stem": "At the 6-week visit, a client who is exclusively breastfeeding says, “My period hasn't come back, so I don't need birth control yet.” Which response by the nurse is best?",
+        "options": [
+          "“That's right. Breastfeeding prevents ovulation until your period returns.”",
+          "“You can ovulate before your first period, so let's talk about a birth control method now.”",
+          "“Your period should return by 7 to 9 weeks, so start birth control then.”",
+          "“As long as you breastfeed at least once a day, you're protected for the first year.”"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This repeats the trap: “no period yet” does not mean the client cannot get pregnant, because ovulation can come before the first period.",
+          "CJMM — Recognize cues: the client is relying on the absence of menses as contraception. Analyze cues: when lactating, menses can return anywhere from 2 to 18 months after birth, and ovulation can occur BEFORE the first period. Prioritize hypotheses: an unplanned, closely spaced pregnancy is a real risk. Take action: explain that ovulation can come before the first period, and discuss contraception now.",
+          "A return at 7–9 weeks applies to clients who are NOT lactating. Waiting also ignores that ovulation can come first.",
+          "With lactation, the return of fertility varies from 2 to 18 months, and it does not depend on a minimum number of feeds. This gives false reassurance."
+        ]
+      },
+      {
+        "stem": "A client who is Rh-negative gave birth 30 hours ago. The newborn is Rh-positive, and the client's antibody screen (indirect Coombs) is negative. The client asks whether the RhoGAM can wait until the 6-week visit. Which response by the nurse is best?",
+        "options": [
+          "“Yes. It only matters before your next pregnancy, so it can be given at the 6-week visit.”",
+          "“It isn't needed, because this was your first baby and the baby is healthy.”",
+          "“The baby will receive it instead, because the baby is the one who is Rh-positive.”",
+          "“It needs to be given within 72 hours of birth, so I'd like to give it to you today.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Sensitization begins after exposure at birth. The 72-hour window protects future pregnancies, and 6 weeks is far outside it.",
+          "The first baby is usually unaffected, but that is why RhoGAM is given now: to prevent antibodies that would harm the NEXT Rh-positive baby.",
+          "This is a classic trap. RhoGAM goes to the Rh-negative mother, never to the newborn.",
+          "CJMM — Recognize cues: an Rh-negative mother who is unsensitized (negative antibody screen) and has an Rh-positive infant. Analyze cues: fetal Rh-positive cells can enter the mother's circulation at birth. RhoGAM given within 72 hours of delivery prevents her from forming anti-Rh antibodies. Prioritize hypotheses: without it, a future Rh-positive fetus is at risk for HDFN. Take action: give RhoGAM to the mother before 72 hours. Waiting until 6 weeks misses the window."
+        ]
+      },
+      {
+        "stem": "The nurse reviews postpartum prescriptions for Rho(D) immune globulin (RhoGAM) for four clients. Which prescription should the nurse question?",
+        "options": [
+          "Rh-negative client, Rh-negative newborn, negative antibody screen, 20 hours after birth",
+          "Rh-negative client, Rh-positive newborn, negative antibody screen, 48 hours after birth",
+          "Rh-negative client, Rh-positive newborn, negative antibody screen, 66 hours after birth",
+          "Rh-negative client, Rh-positive newborn, negative antibody screen, second pregnancy"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: an Rh-negative mother whose newborn is also Rh-negative. Analyze cues: RhoGAM prevents sensitization to Rh-positive fetal cells. If the infant is Rh-negative, there is no Rh-positive exposure, so RhoGAM is not indicated after birth. Take action: clarify that prescription with the provider before giving it.",
+          "This is the correct indication: an unsensitized Rh-negative mother with an Rh-positive infant, still inside the 72-hour window.",
+          "At 66 hours the client is still within 72 hours, so the dose is appropriate. Mistaking “late” for “too late” misreads the timing cue.",
+          "RhoGAM is needed in EVERY pregnancy with an Rh-positive infant. A previous pregnancy is not a reason to withhold it when the client is unsensitized."
+        ]
+      },
+      {
+        "stem": "A newborn is 22 hours old and has visible jaundice on the face and chest. The parent's blood type is O positive, and the newborn's is A positive. Which action should the nurse anticipate?",
+        "options": [
+          "Administer RhoGAM to the parent within 72 hours to stop the hemolysis",
+          "Reassure the parent that this is normal newborn jaundice that does not need testing",
+          "Anticipate a direct Coombs test and bilirubin level, and prepare for possible phototherapy",
+          "Explain that this cannot be ABO incompatibility because it is the parent's first baby"
+        ],
+        "answer": 2,
+        "explanations": [
+          "RhoGAM has nothing to do with ABO incompatibility, and both parent and infant are Rh-positive.",
+          "The type O parent with a type A infant is the cue that calls for a blood type and Coombs test. Dismissing it skips Analyze cues.",
+          "CJMM — Recognize cues: jaundice at 22 hours in a type A infant born to a type O parent. Analyze cues: ABO incompatibility. Maternal anti-A antibodies can hemolyze the infant's red blood cells, even in a first pregnancy. Prioritize hypotheses: hemolytic jaundice that may need phototherapy. Take action: anticipate a direct Coombs test and bilirubin evaluation, and prepare for phototherapy if it is indicated.",
+          "Unlike Rh disease, ABO incompatibility can affect the first baby, because anti-A and anti-B antibodies already exist."
+        ]
+      },
+      {
+        "stem": "Six hours after a vaginal birth with epidural anesthesia and a second-degree laceration, a client has not voided and says, “I don't feel like I need to go.” The fundus is firm and midline at the umbilicus. Which conclusion should guide the nurse's action?",
+        "options": [
+          "The lack of urge shows the bladder is not yet full, so the nurse can wait until the client feels the need to void",
+          "Reduced sensation from the epidural and perineal swelling may mask a full bladder, so the nurse should palpate it and assist the client to void",
+          "A midline fundus at the umbilicus confirms the bladder is empty, so no action is needed",
+          "The client most likely has low output from dehydration, so the IV rate should be increased"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This misreads the cue. Epidural and perineal trauma dull sensation, so no urge does not mean the bladder is empty.",
+          "CJMM — Recognize cues: no void at 6 hours after an epidural and a laceration, and no urge to void. Analyze cues: regional anesthesia lowers bladder tone, and perineal swelling, bruising, and laceration dull bladder sensation. A full bladder may not be felt. Prioritize hypotheses: urinary retention that could displace the uterus and cause bleeding. Take action: palpate the bladder and help the client to the bathroom with measures that encourage voiding. Evaluate outcomes: an adequate void and a fundus that stays firm and midline.",
+          "The fundus can still be midline early in retention. Six hours without voiding needs a bladder assessment now.",
+          "Diuresis is expected postpartum. The more likely problem is retention, not low production, so more fluid would worsen the distention."
+        ]
+      },
+      {
+        "stem": "On postpartum day 2, a client who had epidural anesthesia reports a severe headache that started when sitting up to breastfeed and eases when lying flat. BP is 116/72, there are no visual changes, and the fundus is firm. Which conclusion is most accurate?",
+        "options": [
+          "The headache is most likely from sleep disruption, so the client should nap while the baby sleeps",
+          "The headache suggests postpartum preeclampsia, so a magnesium infusion is needed now",
+          "The headache is a normal effect of falling estrogen and will resolve by day 5",
+          "The pattern suggests a CSF leak from the epidural, and the provider or anesthesia team should be notified"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Sleep loss can cause headache, but it does not explain the clear positional pattern after an epidural. This choice stops at the first plausible cause.",
+          "Preeclampsia must be considered with any postpartum headache, but the BP is normal and there are no visual changes. Treating for it skips Analyze cues.",
+          "Hormone shifts are not a listed cause, and a severe headache is never assumed to be normal. This dismisses a symptom that needs reporting.",
+          "CJMM — Recognize cues: a positional headache (worse upright, better flat) after epidural anesthesia, with a normal BP and no visual changes. Analyze cues: of the slide's causes of postpartum headache (sleep disruption or stress, gestational hypertension, CSF leak after epidural or spinal), the positional pattern points to a CSF leak. Prioritize hypotheses: a normal BP and no visual symptoms make preeclampsia less likely, though BP must keep being monitored. Take action: report the headache to the provider or anesthesia team and keep the client comfortable lying flat."
+        ]
+      },
+      {
+        "stem": "Eight hours after birth, a client repeatedly tells the nurse about the long labor and asks for help with meals and a blanket. The nurse planned to teach newborn bathing. Which action is most appropriate?",
+        "options": [
+          "Meet the client's comfort needs, listen to the birth story, and postpone the bath demonstration",
+          "Proceed with the bath demonstration, since teaching should be finished before discharge",
+          "Redirect the client from the labor story to the baby's care to promote bonding",
+          "Document a possible bonding concern, because the client is focused on their own needs"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the client is retelling the birth and is focused on food and comfort 8 hours after birth. Analyze cues: this is Rubin's taking-in phase, when the client needs others to meet their needs and relives the birth. Generate solutions: detailed teaching will not be retained now. Take action: meet the physical needs, listen to the birth story, and encourage rest. Defer the bath demonstration until the taking-hold phase (about day 2–3), when the client is eager to learn.",
+          "Doing detailed teaching while the client is retelling the birth is the trap. During taking-in, learning is poor, so this is the right action at the wrong time.",
+          "Retelling the birth is a normal taking-in behavior that helps the client process the experience. Redirecting it does not promote attachment.",
+          "Self-focus is expected during taking-in. Bonding concerns are cues like no eye contact, no touch, or no interest in the baby."
+        ]
+      },
+      {
+        "stem": "A client on day 2 who gave birth by cesarean has not had a bowel movement and says, “I'm afraid to push because it might hurt.” Bowel sounds are hypoactive but present in all quadrants, and the abdomen is soft. Which action by the nurse is best?",
+        "options": [
+          "Notify the provider of a possible postoperative ileus",
+          "Teach the client to bear down firmly to have a bowel movement today",
+          "Encourage fluids, fiber, and walking, and offer the prescribed stool softener",
+          "Keep the client NPO until a bowel movement occurs"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Bowel sounds are present and the abdomen is soft. Distention and absent flatus would suggest ileus, so this over-reads expected slowing.",
+          "Straining is what the client should avoid. It increases perineal and incisional pain and worsens hemorrhoids.",
+          "CJMM — Recognize cues: no bowel movement on day 2, fear of straining, and hypoactive but present bowel sounds with a soft abdomen. Analyze cues: bowel tones and peristalsis are reduced for several days after birth, a bowel movement may not occur for several days, and fear of straining commonly causes constipation. Prioritize hypotheses: expected slowing, not obstruction. Take action: encourage fluids, fiber, and walking, offer the prescribed stool softener, and teach the client not to strain.",
+          "NPO is not indicated for expected postpartum bowel slowing. Hunger and thirst are normal, and food and fluids help restore bowel function."
+        ]
+      },
+      {
+        "stem": "A client on day 1 tells the nurse about the family's custom of avoiding cold drinks and showers for several weeks after birth. The client asks for warm fluids and a sponge bath instead. Which response by the nurse is best?",
+        "options": [
+          "Explain that showers are required for infection control and encourage one today",
+          "Provide warm fluids and help with a sponge bath and peribottle perineal care",
+          "Document that the client is declining hygiene care and notify the provider",
+          "Teach the client that cold fluids are needed to prevent postpartum dehydration"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Hygiene goals can be met with a sponge bath and perineal care. Insisting on a shower overrides a safe custom without a clinical reason.",
+          "CJMM — Recognize cues: a cultural postpartum practice that does not conflict with safety. Analyze cues: the slides stress that postpartum beliefs and customs vary, and that the nurse must be open, respectful, nonjudgmental, and willing to learn. Generate solutions: adapt care so hygiene and hydration goals are still met. Take action: provide warm fluids and help with a sponge bath and perineal care using the peribottle.",
+          "The client is not refusing hygiene; they are asking for a different method. Escalating this mislabels a respectful request.",
+          "Hydration matters, but the temperature of the fluids does not. This overrides the custom with an inaccurate rationale."
+        ]
+      },
+      {
+        "stem": "A client who is 2 weeks postpartum asks when the perineum and pelvic floor will be fully healed. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "“My stitches should be healed by about 3 weeks.”",
+          "“Kegel exercises will help my pelvic floor regain its strength.”",
+          "“It may take up to 6 months for my pelvic muscles to get their tone back.”",
+          "“Once my stitches heal, my pelvic floor will be back to normal, so I can stop doing Kegels.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Correct. Episiotomies and lacerations heal within 2–3 weeks.",
+          "Correct. The slides state that Kegel exercises encourage pelvic-floor healing.",
+          "Correct. The supportive tissues of the pelvic floor need up to 6 months to regain tone.",
+          "CJMM — Evaluate outcomes: the nurse checks the client's understanding of the recovery timeline. Analyze cues: episiotomies and lacerations heal within 2–3 weeks, but the stretched or torn pelvic floor can take up to 6 months to regain tone, and Kegel exercises help it heal. Take action: correct the belief that Kegels should stop once the perineum heals and explain the longer pelvic-floor timeline."
+        ]
+      },
+      {
+        "stem": "A partner holds the newborn stiffly at arm's length and says, “I'm afraid I'll break the baby.” Which action by the nurse best supports the partner's attachment?",
+        "options": [
+          "Reassure the partner that bonding usually develops later, once they are home",
+          "Suggest the partner let the birthing parent do the hands-on care until they feel ready",
+          "Help the partner hold the newborn skin-to-skin while coaching them on how to support the head",
+          "Document impaired attachment and refer the family to social work"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Early and sustained contact is vital to attachment. Deferring it misses the window the nurse can support now.",
+          "This keeps the partner out of the tactile contact that builds attachment and confidence.",
+          "CJMM — Recognize cues: the partner's hesitancy and fear of handling the baby. Analyze cues: partners move through expectations, then reality, then transition to mastery, and attachment grows through visual and tactile contact. Generate solutions: give guided, early, sustained contact. Take action: help the partner hold the newborn skin-to-skin, which the slides specifically recommend to enhance bonding. Evaluate outcomes: the partner shows eye contact, talks to the baby, and holds the baby with confidence.",
+          "Early nervousness is a normal reaction as expectations meet reality. Labeling it impaired attachment skips Analyze cues."
+        ]
+      },
+      {
+        "stem": "The placenta delivered at 1410 after an uncomplicated vaginal birth. The nurse completed the assessment at 1510, and all findings were within expected limits. According to the postpartum assessment schedule, when is the client's next assessment due?",
+        "options": [
+          "1525",
+          "1610",
+          "1540",
+          "1910"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Every 15 minutes applies only to the first hour, which ended at 1510. Continuing that interval misreads where the client is on the schedule.",
+          "1610 is the end of the second hour. It skips the 30-minute check at 1540 that the second hour requires.",
+          "CJMM — Recognize cues: it is the end of the first hour after birth, and the client is stable. Analyze cues: the schedule is every 15 minutes during the first hour, every 30 minutes during the second hour, every 4 hours for the rest of the first 24 hours, and then every shift. Take action: the 1510 check closes hour one, and the second hour is every 30 minutes, so the next check is at 1540, followed by 1610.",
+          "Every 4 hours begins after the second hour. Starting it at hour 2 is the trap that drops the client's monitoring during the second-highest-risk hour."
+        ]
+      },
+      {
+        "stem": "One hour after a vaginal birth, the nurse finds the client's fundus boggy at the umbilicus and midline, with a heavy flow of lochia rubra. The client voided 15 minutes ago. HR is 92/min and BP is 118/72. What is the nurse's first action?",
+        "options": [
+          "Notify the provider of the boggy uterus before touching the fundus",
+          "Massage the fundus while supporting the lower uterine segment until it is firm",
+          "Assist the client to the bathroom to empty the bladder",
+          "Recheck vital signs in 15 minutes to see whether the pulse rises"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Notification matters, but the trap is calling BEFORE intervening. Massage is the immediate independent action, and the call follows if the uterus does not respond.",
+          "CJMM — Recognize cues: a boggy, midline fundus with heavy lochia, and a recently emptied bladder. Analyze cues: uterine atony (Tone causes 70–80% of PPH). The fundus is not displaced, so the bladder is not the cause. Prioritize hypotheses: early hemorrhage. Take action: massage the fundus first while supporting the lower uterine segment. This is an independent nursing action and is not delayed by calling first. Notify the provider if the uterus does not firm. Evaluate outcomes: a firm fundus and slowing lochia.",
+          "Voiding is the first action when the fundus is high and deviated. This fundus is midline, and the client just voided, so this treats the wrong cause.",
+          "The heavy bleeding and boggy fundus are already the cues. Waiting for tachycardia lets bleeding continue."
+        ]
+      },
+      {
+        "stem": "Four hours after birth, a client's fundus is 2 fingerbreadths above the umbilicus and deviated to the right. It is slightly soft and firms with light massage, and the lochia is moderate rubra. Which action is the priority?",
+        "options": [
+          "Massage the fundus more firmly and continuously until it stays contracted",
+          "Notify the provider of suspected retained placental fragments",
+          "Increase the oxytocin infusion rate to strengthen contractions",
+          "Assist the client to void, then reassess fundal height, position, and tone"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Massaging harder does not fix the cause. The uterus will keep relaxing while the bladder displaces it.",
+          "A deviated fundus suggesting retained placenta is the trap. Displacement up and to the right is the classic bladder cue.",
+          "Uterotonics treat atony, but the root cause here is a full bladder. Emptying it comes first, and medication can follow if the fundus stays boggy.",
+          "CJMM — Recognize cues: a fundus that is high, deviated to the right, and soft but firms with massage. Analyze cues: a full bladder pushes the uterus up and to the side and keeps it from contracting, which leads to bleeding. Prioritize hypotheses: bladder distention causing atony. Take action: help the client void (or catheterize per order if they cannot), then reassess the fundus. Evaluate outcomes: after voiding, the fundus returns to midline at the expected height and stays firm."
+        ]
+      },
+      {
+        "stem": "Two hours after a precipitous birth, a client has a firm fundus, midline at the umbilicus, but a steady trickle of bright red blood from the vagina. HR is 98/min. What should the nurse suspect and do?",
+        "options": [
+          "A cervical or vaginal laceration; notify the provider for inspection and repair",
+          "Uterine atony; massage the fundus and increase the oxytocin rate",
+          "Normal lochia rubra; document and continue routine checks",
+          "A full bladder; help the client void and recheck the fundus"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a firm, midline fundus with steady bright red bleeding after a precipitous birth. Analyze cues: a firm uterus rules out atony, and a precipitous birth raises the risk of Trauma (vaginal, cervical, or uterine injury). Prioritize hypotheses: an unrepaired laceration. Take action: notify the provider for inspection and repair, and keep monitoring bleeding and vital signs. Uterotonics will not stop bleeding from a tear.",
+          "Firm fundus plus bleeding read as atony is the trap. The uterus is already contracted, so more oxytocin does not treat the source.",
+          "Lochia trickles from a firm uterus, but a steady stream of bright red blood with a rising pulse is not expected lochia.",
+          "The fundus is midline at the umbilicus and not displaced, so there is no bladder cue."
+        ]
+      },
+      {
+        "stem": "Three hours after a forceps-assisted birth, a client reports severe rectal and perineal pressure that is not relieved by the prescribed analgesic. The fundus is firm and midline, the lochia is light, and HR has risen from 78 to 104/min. What is the nurse's priority action?",
+        "options": [
+          "Give an additional dose of analgesic and reassess pain in 1 hour",
+          "Apply a warm sitz bath to relieve the perineal pressure",
+          "Inspect the perineum for a tense, bulging, discolored mass and notify the provider",
+          "Massage the fundus, because rising pulse indicates atony"
+        ],
+        "answer": 2,
+        "explanations": [
+          "More analgesic for what looks like normal perineal pain is the trap. The tachycardia shows blood loss, and more medication would mask it.",
+          "Warm sitz baths start after 24 hours. Heat in the first hours can increase bleeding into a hematoma.",
+          "CJMM — Recognize cues: severe perineal pressure out of proportion to the birth, a firm fundus, light lochia, and a rising pulse after an operative birth. Analyze cues: this pattern fits a perineal or vaginal hematoma, where bleeding collects in the tissues instead of showing on the pad. Prioritize hypotheses: concealed hemorrhage. Take action: inspect the perineum for a tense, bulging, purple mass and notify the provider. Evaluate outcomes: track the pulse, BP, and the size of the mass.",
+          "The fundus is already firm and the lochia is light. The bleeding is elsewhere, so massage targets the wrong source."
+        ]
+      },
+      {
+        "stem": "The nurse is calculating quantitative blood loss (QBL) after a vaginal birth. A saturated perineal pad weighs 145 g (dry weight 20 g). A soiled underpad weighs 340 g (dry weight 60 g). Clots collected in a graduated container measure 50 mL. What is the cumulative QBL?",
+        "options": [
+          "405 mL",
+          "455 mL",
+          "535 mL",
+          "175 mL"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This subtracts the dry weights correctly but leaves out the 50 mL of measured clots. Measured volumes are part of cumulative loss.",
+          "CJMM — Generate solutions: QBL = wet weight − dry weight (1 g = 1 mL) + measured volumes. Take action: pad 145 − 20 = 125 mL; underpad 340 − 60 = 280 mL; clots 50 mL. Total = 125 + 280 + 50 = 455 mL. Evaluate outcomes: the nurse records cumulative loss and compares it with the PPH threshold and with the client's hemodynamic status.",
+          "This adds the wet weights and clots without subtracting the dry weights of the pad and underpad, which overstates the loss by 80 mL.",
+          "This counts the pad (125 mL) and the clots (50 mL) but leaves out the 280 mL on the underpad. Blood pooled under the buttocks is often the largest source."
+        ]
+      },
+      {
+        "stem": "Thirty minutes after a vaginal birth, a client's cumulative QBL is 760 mL. HR is 118/min, BP 84/46, SpO2 93% on room air, and the client is restless and asking, “Where am I?” The nurse hears a colleague say that this is not a hemorrhage because the loss is under 1,000 mL. Which conclusion is correct?",
+        "options": [
+          "Not a hemorrhage, because the loss is below 1,000 mL; continue routine monitoring",
+          "Not a hemorrhage yet; wait for the H&H to confirm before acting",
+          "A vasovagal reaction from pain; elevate the legs and recheck in 15 minutes",
+          "Postpartum hemorrhage, because the client is showing hemodynamic jeopardy"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Treating it as not PPH because the loss is under 1,000 mL is the trap. Hemodynamic jeopardy defines PPH at any volume.",
+          "H&H changes are delayed, so a normal early value does not rule out hemorrhage. Waiting for the lab delays treatment.",
+          "A vasovagal response causes bradycardia, not a heart rate of 118. These cues show hypovolemia from blood loss.",
+          "CJMM — Recognize cues: HR above 110, BP below 85/45, SpO2 below 95%, and confusion. Analyze cues: PPH is defined as cumulative blood loss of 1,000 mL or more OR any amount of bleeding that puts the client in hemodynamic jeopardy (signs of hypovolemia). Prioritize hypotheses: this client meets the definition by the second criterion. Take action: start the hemorrhage response now: notify the team, ensure 18-gauge IV access, increase oxytocin, and give oxygen to keep SpO2 above 95%."
+        ]
+      },
+      {
+        "stem": "The nurse is monitoring a client 1 hour after birth. Vital sign trend: 15 min — HR 74, BP 120/76; 30 min — HR 88, BP 118/74; 45 min — HR 102, BP 116/72. The client says, “I feel fine.” Which action should the nurse take?",
+        "options": [
+          "Assess the fundus and lochia now, including under the buttocks for pooled blood",
+          "Continue the 15-minute checks, because the BP is stable",
+          "Encourage oral fluids, since the tachycardia is probably from dehydration after labor",
+          "Ask the client to rate pain, since pain likely explains the rising heart rate"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a pulse climbing steadily from 74 to 102 while the BP stays near baseline. Analyze cues: a rising pulse is the early warning of hemorrhage. Compensation keeps the BP up until bleeding is advanced. Prioritize hypotheses: concealed or ongoing blood loss. Take action: assess the fundus and lochia now, including checking under the buttocks for pooling. Evaluate outcomes: find the source before the BP falls.",
+          "Waiting until the BP drops before acting is the trap. BP falls late, so a stable BP is false reassurance.",
+          "Dehydration explains a mild temperature rise, not a steadily rising pulse in the first hour, when hemorrhage is the main threat.",
+          "Pain can raise the heart rate, but the client says they feel fine. Attributing the change to pain skips the hemorrhage hypothesis."
+        ]
+      },
+      {
+        "stem": "A client has a postpartum hemorrhage from uterine atony that persists despite fundal massage. Which actions should the nurse include in the response? Select all that apply.",
+        "options": [
+          "Ensure IV access with an 18-gauge catheter",
+          "Increase the IV oxytocin rate as prescribed",
+          "Record cumulative blood loss every hour",
+          "Obtain vital signs every 5 minutes, including SpO2 and level of consciousness",
+          "Apply cooling blankets to reduce metabolic demand",
+          "Ensure the bladder is empty"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—an 18-gauge IV allows rapid fluids and blood products.",
+          "Correct—increasing oxytocin is the first drug step for atony, followed by second-level uterotonics if there is no response.",
+          "Incorrect—cumulative blood loss is recorded every 5–15 minutes during PPH. Hourly recording misses rapid change.",
+          "Correct—VS every 5 minutes with SpO2 and LOC track hemodynamic jeopardy.",
+          "Incorrect—the client is kept warm. Hypothermia worsens coagulopathy during hemorrhage.",
+          "Correct—a full bladder keeps the uterus from contracting, so emptying it is part of the response."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client with a PPH from atony has not responded to fundal massage and increased oxytocin. The client has a history of gestational hypertension treated with labetalol, and the current BP is 156/100. The client has no history of asthma. Which prescription should the nurse question?",
+        "options": [
+          "Carboprost (Hemabate) 250 mcg IM",
+          "Type and crossmatch for 2 units of PRBCs",
+          "Methylergonovine (Methergine) 0.2 mg IM",
+          "Oxygen to keep SpO2 above 95%"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Carboprost is contraindicated in asthma, which this client does not have, so it is an appropriate second-level choice.",
+          "Type and crossmatch for 2 units is part of standard PPH management.",
+          "CJMM — Recognize cues: ongoing atony with a BP of 156/100 and labetalol in the history. Analyze cues: methylergonovine (Methergine) 0.2 mg IM is used only if the client is NOT hypertensive, because it causes vasoconstriction that can sharply raise BP. Generate solutions: carboprost (if not asthmatic) or misoprostol are second-level options. Take action: hold the methylergonovine and clarify it with the provider.",
+          "Oxygen to keep SpO2 above 95% is a standard PPH nursing action."
+        ]
+      },
+      {
+        "stem": "A client who has a PPH from atony uses an albuterol inhaler for asthma and has had BPs of 150s/90s since birth. Massage and increased oxytocin have not firmed the uterus. Which second-level uterotonic does the nurse anticipate?",
+        "options": [
+          "Methylergonovine (Methergine) 0.2 mg IM",
+          "Misoprostol 800 mcg sublingual",
+          "Carboprost (Hemabate) 250 mcg IM",
+          "A second dose of methylergonovine 0.2 mg IM after labetalol is given"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Methylergonovine raises BP and is avoided when the client is hypertensive, as this client is.",
+          "CJMM — Recognize cues: the inhaler shows asthma, and the BP readings show hypertension. Analyze cues: methylergonovine is avoided in hypertension, and carboprost is avoided in asthma. Misoprostol 800 mcg SL is the option when the client is both hypertensive and asthmatic. Take action: prepare misoprostol. Evaluate outcomes: a firm fundus and decreasing bleeding.",
+          "Giving carboprost to a hypertensive client with asthma is the trap. It can cause bronchospasm, and the inhaler is the hidden asthma cue.",
+          "Treating the BP first does not make an ergot safe in a hypertensive client. Misoprostol avoids both contraindications."
+        ]
+      },
+      {
+        "stem": "The nurse is planning postpartum assessments for four clients who gave birth vaginally in the past hour. Which client should the nurse monitor most closely for uterine atony?",
+        "options": [
+          "A primipara who gave birth to a 3,200-g infant after a 9-hour labor",
+          "A client with a second-degree laceration that was repaired",
+          "A primipara whose epidural is still wearing off",
+          "A multipara who gave birth to twins after 14 hours of oxytocin augmentation and was treated for chorioamnionitis"
+        ],
+        "answer": 3,
+        "explanations": [
+          "There are no Tone risk factors: the infant is average-sized and the labor was of normal length.",
+          "A laceration is a Trauma risk, and it has been repaired. It does not predispose the uterus to atony.",
+          "An epidural affects bladder sensation and mobility. It is not a listed Tone risk factor.",
+          "CJMM — Recognize cues: several Tone risk factors in one client. Analyze cues: uterine overdistention (twins), prolonged oxytocin, and chorioamnionitis each predispose to atony, and Tone causes 70–80% of PPH. Prioritize hypotheses: the client with stacked risk factors has the highest risk. Take action: assess this client's fundus and bleeding most closely."
+        ]
+      },
+      {
+        "stem": "The nurse reviews the histories of four postpartum clients. Which client has the greatest risk for postpartum infection?",
+        "options": [
+          "Cesarean birth after membranes were ruptured 28 hours, with gestational diabetes and a Hgb of 9.8 g/dL",
+          "Vaginal birth after a 7-hour labor with an intact perineum",
+          "Vaginal birth at 39 weeks with a first-degree laceration and a Hgb of 11.8 g/dL",
+          "Precipitous vaginal birth after a 2-hour labor"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: several Box 16.1 infection risk factors in one client. Analyze cues: an operative birth (cesarean), rupture of membranes for more than 24 hours, gestational diabetes, and anemia (Hgb below 10.5) each raise infection risk. Prioritize hypotheses: the client with the most stacked risks has the highest risk. Take action: monitor this client most closely for fever after 24 hours, foul lochia, and incision changes.",
+          "This client has no infection risk factors from Box 16.1.",
+          "A minor laceration with a normal Hgb is a low risk. The anemia threshold is a Hgb below 10.5.",
+          "A precipitous labor is a hemorrhage risk factor, not an infection risk factor. This mixes up the two Box 16.1 lists."
+        ]
+      },
+      {
+        "stem": "The postpartum nurse receives report on four clients. Which client should the nurse assess first?",
+        "options": [
+          "Day 2, bilateral breast fullness and firmness while breastfeeding",
+          "Day 1, cramping rated 4/10 during breastfeeding",
+          "Day 2, right calf pain with swelling and warmth not present in the left leg",
+          "Day 3, pinkish-brown lochia with a firm fundus 3 fingerbreadths below the umbilicus"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Bilateral engorgement on days 3–5 is expected and is managed with frequent feeding. It is not time-critical.",
+          "Afterpains during breastfeeding are expected. They need an analgesic but are not an emergency.",
+          "CJMM — Recognize cues: unilateral calf pain, swelling, and warmth on day 2. Analyze cues: coagulation factors stay elevated after birth, and these are signs of DVT. Prioritize hypotheses: a DVT can embolize to the lungs (PE), which is a leading cause of maternal death. The other findings are expected. Take action: assess this client first, keep the leg still, and notify the provider.",
+          "Lochia serosa on day 3–4 with a firm fundus at U−3 is expected involution."
+        ]
+      },
+      {
+        "stem": "The nurse documents a focused postpartum (BUBBLE-HE) assessment on day 2 after a vaginal birth. Which findings are expected? Select all that apply.",
+        "options": [
+          "Fundus firm, midline, 2 fingerbreadths below the umbilicus",
+          "Lochia rubra, moderate, with a few small clots and a fleshy odor",
+          "Pulse 56/min",
+          "A red, hot, wedge-shaped area on one breast",
+          "Perineal pad saturated within 45 minutes",
+          "Both breasts soft and beginning to fill, with colostrum"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—about 1 cm of descent per day puts the fundus near U−2 on day 2.",
+          "Correct—rubra lasts about 3–4 days, small clots are acceptable, and a fleshy (not foul) odor is normal.",
+          "Correct—a postpartum pulse of 40–80 is expected, and bradycardia is common.",
+          "Incorrect—a unilateral, wedge-shaped, red, hot area suggests mastitis and needs intervention.",
+          "Incorrect—saturating a pad in 1 hour or less is heavy bleeding that needs intervention, even on day 1 or 2.",
+          "Correct—breasts go from soft to filling, with colostrum, before the milk comes in."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "Three hours after a vaginal birth with a repaired second-degree laceration, the client asks how to manage perineal pain over the next day. Which instructions should the nurse include? Select all that apply.",
+        "options": [
+          "Apply ice packs to the perineum during the first 24 hours",
+          "Start a warm sitz bath this afternoon to promote healing",
+          "Use the peribottle with warm water after each void",
+          "Avoid straining during bowel movements",
+          "Use a tampon if the lochia soaks through pads"
+        ],
+        "answer": [
+          0,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—cold reduces swelling and pain in the first 24 hours.",
+          "Incorrect—a warm sitz bath a few hours after birth is the trap. Warm soaks begin after 24 hours, and early heat increases swelling and bleeding.",
+          "Correct—the peribottle cleans the perineum without wiping the sutures.",
+          "Correct—straining stresses the repair and causes pain.",
+          "Incorrect—tampons are not used postpartum, and soaking pads is a bleeding sign to report."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "Before discharge, the nurse reviews lochia care with a client. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "“My bleeding should get lighter in amount and color over the next few weeks.”",
+          "“A warm tub bath will be fine once I'm home, as long as I use pads instead of tampons.”",
+          "“If my bleeding turns bright red again after it was pink, I should call.”",
+          "“It's normal to have a small gush when I first stand up in the morning.”"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Correct understanding. Lochia decreases and moves from rubra to serosa to alba.",
+          "CJMM — Evaluate outcomes: the nurse checks the client's understanding of lochia. Analyze cues: lochia should decrease and lighten, and an increase in amount or a return to red after discharge is a warning sign. No tampons and no tub bathing. Take action: correct the belief that a tub bath is safe, and re-teach the restrictions.",
+          "Correct understanding. A return to red is a listed warning sign of subinvolution or late hemorrhage.",
+          "Correct understanding. Pooled blood can gush when the client stands and should then slow."
+        ]
+      },
+      {
+        "stem": "A client with a PPH from atony received fundal massage and an increased oxytocin rate 20 minutes ago. Which finding best shows that the interventions were effective?",
+        "options": [
+          "The client reports stronger cramping since the oxytocin rate was increased",
+          "The hemoglobin drawn 10 minutes after the rate increase is unchanged from admission",
+          "The BP has stayed at 118/74 throughout the hemorrhage",
+          "The fundus stays firm and midline, the lochia is now light, and HR has fallen from 116 to 88"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Cramping shows the drug is acting on the uterus, but it does not show that bleeding is controlled or that perfusion is recovering.",
+          "H&H changes are delayed, so an unchanged early value cannot confirm the bleeding has stopped.",
+          "BP falls late in hemorrhage, so a stable BP alone does not show that the intervention worked.",
+          "CJMM — Evaluate outcomes: the goal of treating atony is a contracted uterus that compresses the placental-site vessels, so bleeding slows and perfusion recovers. Analyze cues: a firm, midline fundus, light lochia, and a pulse trending back toward the 40–80 range show both hemostasis and hemodynamic recovery. Take action: continue monitoring cumulative blood loss and VS."
+        ]
+      },
+      {
+        "stem": "A client who is 8 days postpartum calls the clinic. The client reports a headache that acetaminophen has not relieved, “seeing spots,” and puffy hands and face. A home BP reading was 158/102. The client says, “I'm probably just exhausted from the baby.” Which response by the nurse is best?",
+        "options": [
+          "“Exhaustion often causes headaches. Lie down in a dark room and recheck your BP in 4 hours.”",
+          "“Take another dose of acetaminophen and call back if the headache lasts until tomorrow.”",
+          "“These can be signs of postpartum preeclampsia. You need to be evaluated right away. Call 911 if you have a seizure or your vision gets worse.”",
+          "“Swelling is common for a few weeks after birth. Keep your feet up and bring it up at your 6-week visit.”"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This repeats the dismissal from the case study (“that's exhaustion from caring for a newborn”). Unrelieved headache with vision changes and high BP cannot wait.",
+          "This treats a symptom and delays care. The warning sign is a headache NOT relieved by medication, especially with vision changes.",
+          "CJMM — Recognize cues: a headache not relieved by medication, visual changes, facial and hand swelling, and a BP of 158/102 on day 8. Analyze cues: postpartum preeclampsia can appear days to weeks after birth. The client is attributing the symptoms to exhaustion, which is the same pattern as in the lecture case. Prioritize hypotheses: risk of seizure or stroke. Take action: direct the client to immediate, same-day evaluation, and to call 911 if a seizure or worsening symptoms occur.",
+          "Swelling alone can be expected, but with a headache, visual changes, and high BP it is a warning cluster. A 6-week follow-up misses the danger window."
+        ]
+      },
+      {
+        "stem": "A client is 9 days after a cesarean birth. During a phone call, the client says, “I called last week about my legs swelling and was told it's part of recovery. Now the swelling is above my knees, I get short of breath walking to the kitchen, and I have to sleep sitting up.” Which action by the nurse is most appropriate?",
+        "options": [
+          "Tell the client these symptoms need urgent evaluation today, notify the provider, and document the escalation",
+          "Reassure the client that swelling and fatigue are expected for 6 weeks after a cesarean birth",
+          "Advise the client to elevate the legs, limit salt, and call back if the shortness of breath continues for 3 more days",
+          "Schedule an appointment for later in the week to check the incision and the swelling"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: progressive edema above the knees, dyspnea with minimal exertion, and orthopnea after a cesarean birth, in a client who was reassured earlier. Analyze cues: this pattern matches postpartum cardiomyopathy and heart failure, which is a leading U.S. cause of maternal death. Prioritize hypotheses: the earlier reassurance does not lower the risk now. Take action: arrange immediate evaluation, escalate to the provider, and document. This is advocacy: take the client's report seriously rather than repeating the earlier reassurance.",
+          "Telling the client that swelling and fatigue are normal for 6 weeks after a cesarean is the trap. Orthopnea and swelling above the knees are not normal recovery.",
+          "Leg elevation may ease edema, but it delays the evaluation of possible heart failure and repeats the dismissal from the earlier call.",
+          "A routine visit treats this as a minor problem. Dyspnea with minimal exertion and orthopnea need same-day evaluation."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching a client and the client's partner which postpartum warning signs require calling 911 rather than calling the provider. Which signs should the nurse identify as 911 situations? Select all that apply.",
+        "options": [
+          "Sudden chest pain",
+          "Temperature of 100.6 °F (38.1 °C)",
+          "Sudden shortness of breath",
+          "A seizure",
+          "Incision that is red and draining",
+          "Thoughts of hurting oneself or the baby"
+        ],
+        "answer": [
+          0,
+          2,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—chest pain can signal PE or a cardiac event, so call 911.",
+          "Incorrect—a fever this high is reported to the provider promptly but does not call for 911 unless other emergency signs are present.",
+          "Correct—obstructed breathing or shortness of breath can be PE or heart failure, so call 911.",
+          "Correct—a seizure can be eclampsia, so call 911.",
+          "Incorrect—an incision that is not healing is a call-the-provider sign.",
+          "Correct—thoughts of harming self or the baby are an emergency, so call 911 (or 988 when there is no immediate danger)."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "During a home visit on postpartum day 6, the nurse assesses a client after a vaginal birth. Which findings require prompt reporting to the provider? Select all that apply.",
+        "options": [
+          "Temperature of 38.3 °C (100.9 °F)",
+          "Night sweats that soak the sheets",
+          "Swelling and tenderness of the left calf only",
+          "Cramping during breastfeeding",
+          "Lochia that was pinkish-brown and is now bright red",
+          "Fatigue after caring for the newborn overnight"
+        ],
+        "answer": [
+          0,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—a fever after 24 hours suggests infection.",
+          "Incorrect—diaphoresis is common for about a week after birth as fluid is eliminated.",
+          "Correct—unilateral leg swelling and tenderness suggests DVT.",
+          "Incorrect—afterpains during feeding are caused by oxytocin and are expected.",
+          "Correct—a return to red after serosa is a warning sign of subinvolution or late hemorrhage.",
+          "Incorrect—fatigue and activity intolerance are expected for weeks after birth."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "At a prenatal class, a client who is 34 weeks pregnant says, “I'll learn the postpartum warning signs myself. My partner and my sister don't need to come to the discharge teaching.” Which response by the nurse is best?",
+        "options": [
+          "“That's fine. You will get written instructions to read when you have time.”",
+          "“New parents often explain away their own symptoms, so it helps when the people around you can recognize warning signs too.”",
+          "“Your provider will check for warning signs at your 6-week visit, so family teaching isn't essential.”",
+          "“Your partner should come, but mainly to learn about caring for the baby.”"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Written information alone leaves out the support persons who are most likely to notice warning signs. This misses why family education matters.",
+          "CJMM — Recognize cues: the client plans to exclude support persons from warning-sign teaching. Analyze cues: new parents often dismiss their own symptoms as exhaustion, and in the lecture case a sister who had been taught the signs recognized postpartum preeclampsia. Generate solutions: include support persons and plan practical help for the fourth trimester. Take action: explain why family should be taught too.",
+          "About two-thirds of pregnancy-related deaths occur after birth, many between visits. The 6-week visit is too late to catch most of them.",
+          "Focusing only on the baby is a cause of missed maternal warning signs. Support persons need to watch the recovering parent too."
+        ]
+      },
+      {
+        "stem": "A nurse manager is designing a postpartum follow-up program. According to U.S. data on the timing of pregnancy-related deaths, which plan best addresses the period of greatest risk?",
+        "options": [
+          "Focus resources on labor and delivery, since most pregnancy-related deaths happen on the day of birth",
+          "Concentrate follow-up on the first 6 days, when the risk of hemorrhage is highest",
+          "End routine contact at the 6-week visit, when the puerperium is complete",
+          "Extend contacts, BP checks, and depression screening through the first year after birth"
+        ],
+        "answer": 3,
+        "explanations": [
+          "The day of delivery accounts for 13%. Believing that most maternal deaths happen during labor and delivery is the trap.",
+          "Days 1–6 account for only 12%. Hemorrhage is one cause, but later conditions like cardiomyopathy and mental health conditions account for a larger share.",
+          "The puerperium ends at about 6 weeks, but 30% of deaths occur at 43–365 days, after this program would end.",
+          "CJMM — Analyze cues: about 65% (two-thirds) of pregnancy-related deaths occur after the birth. That includes 12% at 1–6 days, 23% at 7–42 days, and 30% at 43–365 days, the largest single share. Prioritize hypotheses: care that ends at discharge or at the 6-week visit misses most of the risk. Generate solutions: extend follow-up and screening across the first year. Take action: plan contacts that continue through 12 months, including BP checks, depression screening, and warning-sign teaching."
+        ]
+      },
+      {
+        "stem": "At 5 weeks postpartum, a client says, “I can't sleep even when the baby sleeps, nothing feels enjoyable, and I feel like a terrible mother.” The client cries throughout the visit. Which action should the nurse take?",
+        "options": [
+          "Screen with the Edinburgh Postnatal Depression Scale, ask directly about thoughts of self-harm, and refer for treatment",
+          "Reassure the client that baby blues can last up to 6 weeks and usually improve with sleep",
+          "Suggest the partner take over night feeds and plan to recheck the client's mood at the next routine visit",
+          "Tell the client that feeling like a bad mother is common and will pass as they gain confidence"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: insomnia even when the baby sleeps, anhedonia, and guilt at 5 weeks. Analyze cues: baby blues peak on days 4–5 and resolve by day 10 (within 2 weeks). Symptoms that persist and worsen fit postpartum depression, which needs treatment. Prioritize hypotheses: PPD with possible self-harm risk. Take action: screen with the EPDS, ask directly about thoughts of self-harm, and refer for treatment. Evaluate outcomes: the client is connected to care and has a safety plan.",
+          "The idea that blues can last 6 weeks and only need reassurance is the trap. The blues resolve within 2 weeks, so these symptoms at 5 weeks are not blues.",
+          "Restorative sleep helps the blues, but PPD needs screening and treatment now. Waiting skips the safety assessment.",
+          "This dismisses guilt and anhedonia, which are core PPD symptoms. It normalizes cues that need screening."
+        ]
+      },
+      {
+        "stem": "A family member calls the postpartum unit. A client discharged 10 days ago has not slept for 3 nights, is pacing, and says voices are telling them the baby is “not really theirs.” The client is alone at home with the newborn. What is the nurse's priority instruction?",
+        "options": [
+          "Encourage the client to sleep tonight and schedule an EPDS screening at the next visit",
+          "Give the family the number for Postpartum Support International to find a support group",
+          "Have someone stay with the client and baby at all times and get emergency psychiatric evaluation now",
+          "Reassure the family that mood swings and tearfulness are normal around day 10"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Scheduling a screening for later is the trap. Hallucinations and delusions are an emergency, and sleep alone will not resolve psychosis.",
+          "Support groups are valuable resources for PPD, but they do not meet an immediate safety need in psychosis.",
+          "CJMM — Recognize cues: sleep disturbance, agitation, and auditory hallucinations or delusions about the baby, within 3 weeks of birth. Analyze cues: this is postpartum psychosis, a psychiatric emergency with a risk of harm to the client or the infant. Prioritize hypotheses: immediate safety. Take action: tell the family not to leave the client alone (or alone with the baby), and to call 911 or go for emergency psychiatric evaluation now.",
+          "Blues are mild mood swings that resolve by about day 10. Hallucinations are never part of the blues."
+        ]
+      },
+      {
+        "stem": "On a postpartum day-3 visit, a client who has been tearful says quietly, “Sometimes I think my family would be better off without me.” What is the nurse's first action?",
+        "options": [
+          "Explain that baby blues commonly peak on days 4–5 and resolve with rest",
+          "Ask the client directly whether they are having thoughts of hurting or killing themselves",
+          "Give the client the 988 number and suggest calling if the feelings get worse",
+          "Avoid mentioning suicide to prevent suggesting the idea, and offer emotional support"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Normalizing a possible suicidal statement as blues skips the safety assessment that must come first.",
+          "CJMM — Recognize cues: a statement suggesting the client is thinking about suicide. Analyze cues: mental health conditions, including suicide, are a leading U.S. cause of maternal death. Asking directly does not plant the idea. Prioritize hypotheses: safety comes before teaching or reassurance. Take action: ask directly about thoughts of self-harm or suicide and any plan, stay with the client, and escalate based on the answer.",
+          "988 is the right resource, but handing it over without assessing risk leaves the client alone with an unknown level of danger.",
+          "The belief that asking about suicide puts the idea in the client's head is the trap. Direct questions are safe and necessary."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching a client on day 3 about postpartum mood changes. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "“I might feel weepy and irritable around days 4 or 5.”",
+          "“Getting some real sleep should help the blues improve.”",
+          "“If I have thoughts of harming myself or the baby, I need help right away.”",
+          "“If I'm still sad and can't enjoy anything after a month, I'll wait and mention it at my 6-week visit.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Correct understanding. Blues peak on days 4–5.",
+          "Correct understanding. Blues typically resolve with restorative sleep.",
+          "Correct understanding. Thoughts of harm are an emergency at any time.",
+          "CJMM — Evaluate outcomes: the nurse checks the client's understanding of the difference between blues and PPD. Analyze cues: blues (tearfulness, irritability, mood swings, insomnia, fatigue) peak on days 4–5 and resolve by day 10 (self-limiting, within 2 weeks). Symptoms that persist or worsen beyond that point suggest PPD and need screening and treatment. Take action: correct the belief that waiting until 6 weeks is appropriate."
+        ]
+      },
+      {
+        "stem": "The nurse reviews postpartum mental health resources with a client before discharge. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "“I can call or text the maternal mental health hotline any time of day or night.”",
+          "“Postpartum Support International can help me find a local support group.”",
+          "“If I ever have thoughts of hurting myself, I'll wait until my next appointment to bring it up.”",
+          "“If I'm in immediate danger, I or my partner should call 911.”"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Correct understanding. 1-833-TLC-MAMA is available 24/7 by call or text.",
+          "Correct understanding. PSI provides support groups and a provider directory.",
+          "CJMM — Evaluate outcomes: the nurse checks whether the client matches each resource to the right situation. Analyze cues: the National Maternal Mental Health Hotline (1-833-TLC-MAMA) is available 24/7 by call or text. Postpartum Support International offers support groups. 988 is for thoughts of self-harm, and 911 is for immediate danger. Take action: correct the plan to delay help for thoughts of self-harm.",
+          "Correct understanding. Immediate danger calls for 911."
+        ]
+      }
+    ],
+    "mat2-wk7-complications": [
+      {
+        "stem": "A client at 9 weeks' gestation arrives with heavy vaginal bleeding and strong cramping. They passed \"some clots and tissue\" at home. On speculum exam the cervix is open, and the uterus is still enlarged and boggy. VS: BP 112/70, HR 96. Which plan should the nurse anticipate?",
+        "options": [
+          "Watchful waiting at home with pelvic rest and instructions to report heavier bleeding",
+          "Preparation for misoprostol or uterine aspiration to empty the uterus",
+          "Reassurance that the uterus has emptied, with a follow-up visit in 2 weeks",
+          "Serial hCG levels over the next week to confirm whether the pregnancy is still viable"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Watchful waiting fits a threatened abortion (closed cervix, viable pregnancy). An open cervix with tissue already passed means the loss cannot be stopped, so this misreads the cues.",
+          "CJMM — Recognize cues: heavy bleeding, cramping, tissue already passed, an OPEN cervix, and a uterus that is still enlarged. Analyze cues: decode with the two questions, is the cervix open and has tissue passed? Open + some tissue passed + some retained = incomplete abortion. Prioritize hypotheses: retained products keep the uterus from contracting, so bleeding continues. Take action: prepare for medication (mifepristone/misoprostol) or aspiration/D&C to empty the uterus, keep the pad count and VS, and offer emotional support.",
+          "This fits a complete abortion, where all tissue has passed, bleeding subsides, and the cervix closes. Here the cervix is open and the uterus is still enlarged, so tissue is retained.",
+          "Serial hCG is used to follow an ectopic or a molar pregnancy. Viability is not the question once the cervix is open and tissue has passed, and waiting a week leaves the client bleeding."
+        ]
+      },
+      {
+        "stem": "A client at 7 weeks' gestation received methotrexate 2 days ago for an unruptured tubal ectopic pregnancy. They return to the ED reporting sudden, sharp right lower quadrant pain and right shoulder pain. They are dizzy. BP 88/54, HR 124. The perineal pad shows only light spotting. Which action should the nurse take first?",
+        "options": [
+          "Explain that cramping is expected as methotrexate resolves the pregnancy and give acetaminophen",
+          "Draw a repeat serum β-hCG to compare with the pretreatment level",
+          "Weigh perineal pads every 15 minutes to quantify the blood loss",
+          "Start a large-bore IV, send a type and crossmatch, and notify the provider for surgery"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Mild cramping is common after methotrexate, but shoulder pain with shock vital signs is rupture. Reassurance and acetaminophen would delay lifesaving surgery.",
+          "Serial hCG monitors an unruptured ectopic that is being managed medically. A lab result will not change the immediate need for volume and surgery.",
+          "The pad count underestimates loss in a ruptured ectopic because the bleeding is mostly internal. Light spotting is falsely reassuring here.",
+          "CJMM — Recognize cues: sudden one-sided pain, referred shoulder pain, dizziness, tachycardia, and hypotension. Analyze cues: shoulder pain is blood irritating the diaphragm, so this is a ruptured ectopic, and the bleeding is internal. Prioritize hypotheses: hemorrhagic shock outranks medication side effects. Take action: secure large-bore IV access, send a type and crossmatch, and prepare for surgery (rupture = surgery, not methotrexate). Evaluate outcomes: trend BP, HR, and mental status."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching a client who received methotrexate for an unruptured ectopic pregnancy. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll keep coming back for blood tests until my hCG goes all the way to zero, even if it takes several weeks.\"",
+          "\"If I get cramping, I'll take acetaminophen instead of ibuprofen.\"",
+          "\"I'll keep taking my prenatal vitamin every morning so my body stays as healthy as possible.\"",
+          "\"If I suddenly get sharp pain on one side or pain in my shoulder, I'll go to the emergency department.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. hCG falls over weeks, and treatment is not complete until the level reaches zero.",
+          "This is correct. NSAIDs are avoided with methotrexate, so acetaminophen is the safer choice for cramping.",
+          "CJMM — Recognize cues: the client plans to continue a prenatal vitamin. Analyze cues: methotrexate is a folate antagonist, and prenatal vitamins contain folic acid, which counteracts the drug. Take action: teach the client to stop folic acid and prenatal vitamins and to avoid NSAIDs, alcohol, and sun exposure during treatment. Evaluate outcomes: the client correctly restates which supplements and medications to avoid.",
+          "This is correct. Sudden one-sided pain or shoulder pain can mean rupture, which is an emergency."
+        ]
+      },
+      {
+        "stem": "A client at 14 weeks' gestation reports heavy, dark brown vaginal bleeding and vomiting \"all day for weeks.\" BP 152/98. The fundus is at the umbilicus. No fetal heart tones are heard by Doppler. Which conclusion should guide the nurse's next actions?",
+        "options": [
+          "Preeclampsia with severe features requiring IV magnesium sulfate",
+          "Threatened abortion requiring pelvic rest and a repeat ultrasound in 1 week",
+          "Hyperemesis gravidarum with dehydration requiring IV fluids and antiemetics",
+          "Gestational trophoblastic disease requiring ultrasound and a quantitative hCG"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Preeclampsia is diagnosed after 20 weeks. Hypertension at 14 weeks with dark brown bleeding should make the nurse think of a mole, so this misreads the timing cue.",
+          "A threatened abortion has light bleeding, a closed cervix, and a viable pregnancy. It does not explain hypertension, a uterus large for dates, or absent heart tones.",
+          "IV fluids may be needed, but hyperemesis alone does not explain the hypertension, dark brown bleeding, and large uterus. This anchors on one cue and misses the underlying cause.",
+          "CJMM — Recognize cues: dark brown bleeding, hyperemesis, hypertension at 14 weeks, a uterus large for dates, and no fetal heart tones. Analyze cues: hypertension BEFORE 20 weeks points to a molar pregnancy, not preeclampsia. Prioritize hypotheses: GTD explains every cue at once. Generate solutions: confirm with ultrasound and a very high hCG, then prepare for immediate evacuation (D&C) and long-term serial hCG follow-up."
+        ]
+      },
+      {
+        "stem": "Two weeks after a D&C for a complete hydatidiform mole, a client is seen for follow-up. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I need to keep getting hCG levels checked for a while, even though the D&C is done.\"",
+          "\"I'll use reliable birth control during my follow-up so a pregnancy doesn't hide a rising hCG.\"",
+          "\"My hCG came back normal last week, so we're going to start trying to get pregnant again next month.\"",
+          "\"If my hCG starts going back up, it could mean abnormal tissue is growing again.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. Long-term serial hCG monitoring is part of GTD management.",
+          "This is correct. Avoiding pregnancy keeps hCG a reliable marker of residual or recurrent disease.",
+          "CJMM — Recognize cues: the client believes one normal hCG means a cure and plans to conceive right away. Analyze cues: GTD can persist or become choriocarcinoma, and serial hCG levels are the only way to detect it. A new pregnancy would raise hCG and mask a recurrence. Take action: reteach that follow-up means serial hCG over a long period with reliable contraception during that time. Evaluate outcomes: the client describes the follow-up schedule and contraception plan.",
+          "This is correct. A rising hCG after evacuation suggests persistent trophoblastic tissue and needs evaluation."
+        ]
+      },
+      {
+        "stem": "A client is being discharged after a miscarriage at 10 weeks. They say, \"I keep thinking it happened because I went to my spin class the day before.\" Which response by the nurse is most therapeutic?",
+        "options": [
+          "\"Most early losses happen because of a chromosome problem, so there was likely something wrong with the baby anyway.\"",
+          "\"The good news is that most people who miscarry go on to have a healthy pregnancy next time.\"",
+          "\"Try to focus on resting now so your body is ready when you decide to try again.\"",
+          "\"Nothing you did caused this loss. Would you like to tell me more about what you've been feeling?\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "The fact is accurate, but \"something wrong with the baby anyway\" is on the what-NOT-to-say list. It minimizes the loss instead of supporting the client.",
+          "\"You'll be pregnant again\" phrasing dismisses the grief for this pregnancy. It is a minimizing statement the slides warn against.",
+          "This shifts the focus to the next pregnancy and implies the client should move on. It closes off the conversation instead of inviting feelings.",
+          "CJMM — Recognize cues: the client is blaming themselves for the loss. Analyze cues: first-trimester loss is most often due to fetal genetic abnormalities, not activity, and self-blame is a common grief response. Generate solutions: remove the blame AND invite the client to express feelings. Take action: this response does both. Evaluate outcomes: the client verbalizes their grief, and the nurse offers support groups or community resources."
+        ]
+      },
+      {
+        "stem": "A client at 33 weeks' gestation arrives with painless, bright red vaginal bleeding. The uterus is soft and nontender, with irregular mild contractions. FHR 145 with moderate variability. No ultrasound has been done this pregnancy. The admission orders include the following. Which order should the nurse question?",
+        "options": [
+          "Insert a large-bore IV and send a type and crossmatch",
+          "Apply continuous external fetal and contraction monitoring",
+          "Administer betamethasone 12 mg IM",
+          "Perform a sterile digital cervical exam to determine whether labor has begun"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is appropriate. Preparation for possible cesarean includes IV fluid and crossmatched blood.",
+          "This is appropriate. Monitoring contractions and FHR is part of maternal–fetal surveillance with previa.",
+          "This is appropriate. Betamethasone at 33 weeks speeds fetal lung maturity in case preterm cesarean birth is needed.",
+          "CJMM — Recognize cues: painless bright red bleeding after 20 weeks, a soft uterus, and unknown placental location. Analyze cues: this presentation is previa until ultrasound proves otherwise. Prioritize hypotheses: a digital exam could tear a placenta that covers the os and cause hemorrhage. Take action: question the cervical exam and hold it until ultrasound rules out previa. The other orders match previa care: IV, crossmatched blood, monitoring, and betamethasone at 33 weeks."
+        ]
+      },
+      {
+        "stem": "A client at 34 weeks with a known complete placenta previa is admitted with heavy, bright red bleeding that has soaked 3 pads in 30 minutes. BP 84/50, HR 128, skin cool and clammy. FHR 150 with moderate variability. Which action is the nurse's priority?",
+        "options": [
+          "Initiate rapid IV fluid replacement through a large-bore IV and prepare for emergency cesarean",
+          "Administer the first dose of betamethasone before transfer to the OR",
+          "Continue hourly pad counts and notify the provider if bleeding increases",
+          "Position the client supine with the legs elevated and begin fetal movement counts"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: heavy bleeding with hypotension, tachycardia, and cool clammy skin. Analyze cues: the mother is in hypovolemic shock, and the reassuring FHR will not last if maternal perfusion falls. Prioritize hypotheses: maternal hemorrhage is the immediate threat to both lives. Take action: restore volume and move toward delivery, because cesarean is the definitive treatment. Evaluate outcomes: BP and HR improve while the team prepares for surgery.",
+          "Betamethasone helps fetal lungs, but it is not the priority when the mother is in shock. Stabilize the mother first, and the steroid can be given if there is time.",
+          "Hourly pad counts are too slow when the client is already in shock. Bleeding has already declared itself, so this waits when action is needed.",
+          "Supine positioning compresses the vena cava and lowers BP further. Fetal movement counts are outpatient teaching, not emergency care."
+        ]
+      },
+      {
+        "stem": "A client at 31 weeks with chronic hypertension (BP today 170/108) reports sudden, constant abdominal pain. There is a small amount of dark red vaginal bleeding. The uterus is firm and tender between contractions, and fundal height has risen 2 cm in the past hour. FHR shows minimal variability with recurrent late decelerations. Which conclusion should the nurse act on?",
+        "options": [
+          "Placental abruption with concealed hemorrhage collecting behind the placenta",
+          "Placenta previa, because any bleeding after 20 weeks reflects abnormal placental location",
+          "Preterm labor, because regular contractions are causing the abdominal pain",
+          "Uterine tachysystole, because the uterus is firm from contractions that are too close together"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: hypertension (an abruption risk factor), knife-like constant pain, a rigid tender uterus, dark blood, rising fundal height, and late decelerations. Analyze cues: little visible blood with a rising fundus means blood is collecting behind the placenta, so the visible loss underestimates the bleeding. Prioritize hypotheses: concealed abruption threatens the fetal oxygen supply and can lead to maternal shock and DIC. Take action: left lateral position, oxygen, IV access, coagulation labs, continuous EFM, and prepare for prompt delivery.",
+          "Previa is painless, with bright red blood and a soft uterus. Pain, a rigid uterus, and dark blood all point the other way.",
+          "Contractions occur with abruption, but preterm labor does not explain a uterus that stays rigid between contractions, a rising fundal height, and dark bleeding.",
+          "Tachysystole is defined by contraction frequency and is usually caused by oxytocin. It does not explain constant pain, bleeding, and a rising fundal height in a client who is not receiving oxytocin."
+        ]
+      },
+      {
+        "stem": "A client at 35 weeks is admitted with suspected placental abruption. Which nursing actions should the nurse anticipate? Select all that apply.",
+        "options": [
+          "Position the client on the left side and apply oxygen",
+          "Send a CBC, fibrinogen, PT/aPTT, and type and crossmatch",
+          "Mark the fundal height and reassess it at intervals",
+          "Perform a digital cervical exam to assess for dilation",
+          "Withhold IV fluids until the coagulation results return",
+          "Maintain continuous electronic fetal monitoring"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—left lateral positioning improves uterine perfusion, and oxygen supports a fetus whose placental supply is compromised.",
+          "Correct—these labs track blood loss and screen for DIC (low fibrinogen, prolonged clotting times), the complication the team is trying to prevent.",
+          "Correct—a rising fundal height signals concealed bleeding behind the placenta.",
+          "Incorrect—no digital exams with unexplained bleeding after 20 weeks until previa is ruled out. It also adds no information needed to manage abruption.",
+          "Incorrect—restoring blood loss is part of abruption management, and waiting for labs while the client bleeds risks shock.",
+          "Correct—fetal compromise can develop quickly, so continuous monitoring is required."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A laboring client at 39 weeks has an amniotomy. The fluid is blood-tinged, with a small amount of dark red blood. Maternal BP is 118/74 and HR is 82, and the client is pain-free with an epidural. Within 2 minutes the FHR falls from 140 to 80 and stays there. Which conclusion and action are most appropriate?",
+        "options": [
+          "Bloody show from cervical change; reposition the client and continue to observe",
+          "Placental abruption from sudden uterine decompression; give an IV fluid bolus and recheck maternal BP",
+          "Ruptured vasa previa with fetal blood loss; call for an emergency cesarean",
+          "Umbilical cord prolapse; perform a vaginal exam and elevate the presenting part"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Bloody show does not cause sudden fetal bradycardia. Calling this normal labor misses fetal hemorrhage.",
+          "Abruption usually causes pain and a rigid uterus, and this mother is hemodynamically stable. A fluid bolus treats the mother, but the fetus is the one bleeding.",
+          "CJMM — Recognize cues: bleeding that appears exactly at ROM, sudden sustained fetal bradycardia, and a stable, pain-free mother. Analyze cues: with vasa previa, unprotected fetal vessels cross the os and tear at ROM, so the blood being lost is FETAL. Prioritize hypotheses: a fetus has little blood volume to spare, so this is an emergency even though the mother looks fine. Take action: call for an emergency cesarean. Vasa previa is managed by cesarean.",
+          "Cord prolapse also follows ROM with bradycardia, so this is a reasonable thing to rule out. However, it does not explain bleeding at the moment of ROM. A vaginal exam would also delay the cesarean."
+        ]
+      },
+      {
+        "stem": "A client at 8 cm with an oxytocin infusion has spontaneous rupture of membranes. The FHR drops to 70, and the nurse feels a pulsating cord in the vagina. The nurse calls for help, lifts the presenting part off the cord with a gloved hand, and the client is placed in knee-chest position. Which additional action is appropriate while waiting for the team?",
+        "options": [
+          "Remove the hand once the FHR returns to 130 so the client can be moved to the OR faster",
+          "Stop the oxytocin infusion and apply oxygen, keeping the hand in place",
+          "Gently replace the cord into the vagina and cover the perineum with dry gauze",
+          "Coach the client to push with the next contraction, since birth is close at 8 cm"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The hand stays in place until the baby is delivered, including during transport. FHR recovery shows the intervention is working, not that it can stop.",
+          "CJMM — Recognize cues: cord prolapse with fetal bradycardia, oxytocin running, and initial relief measures in place. Generate solutions: anything that reduces cord compression or improves fetal oxygen helps. Stopping oxytocin reduces contractions that press the fetus onto the cord, and oxygen improves the oxygen available to the fetus. Take action: stop the oxytocin, apply oxygen, give IV fluids, and keep the hand elevating the presenting part until delivery. Evaluate outcomes: the FHR returns toward baseline.",
+          "Never push the cord back in. An exposed cord is covered with WARM, STERILE, SALINE-moistened gauze with minimal handling to prevent vasospasm.",
+          "The cervix is not fully dilated, so pushing is not possible, and pushing drives the presenting part down onto the cord. Emergency cesarean is the plan."
+        ]
+      },
+      {
+        "stem": "The nurse is managing an umbilical cord prolapse with the presenting part manually elevated and the client in knee-chest position. Which finding best indicates the interventions are effective?",
+        "options": [
+          "Maternal BP 122/76 and HR 88",
+          "Contractions spaced to every 5 minutes",
+          "The client reports less pelvic pressure",
+          "FHR back to a baseline of 135 with variability"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Stable maternal VS are good, but the mother was never the one compromised. They do not show that the cord is decompressed.",
+          "Fewer contractions may reduce compression, but spacing is a process measure, not proof of fetal oxygenation.",
+          "Maternal comfort does not reflect cord blood flow, so this measures the wrong outcome.",
+          "CJMM — Evaluate outcomes: the goal of elevating the presenting part and positioning is to relieve cord compression and restore fetal oxygenation. The direct measure of that goal is fetal: an FHR back at baseline with variability. Recognize cues: choose the outcome that matches the problem, which was fetal hypoxia from cord occlusion."
+        ]
+      },
+      {
+        "stem": "Four laboring clients have just had their membranes rupture. Which client should the nurse assess first for umbilical cord prolapse?",
+        "options": [
+          "A client with a vertex presentation at +2 station and clear fluid",
+          "A client with a vertex presentation at 0 station, well applied to the cervix",
+          "A client with a frank breech presentation at −3 station",
+          "A client with a vertex presentation at +1 station and an FHR of 140 with accelerations"
+        ],
+        "answer": 2,
+        "explanations": [
+          "A vertex at +2 is engaged and fills the pelvis, so it is low risk.",
+          "A vertex at 0 station that is well applied seals the inlet, so it is low risk.",
+          "CJMM — Recognize cues: presentation and station after ROM. Analyze cues: prolapse happens when there is SPACE between the presenting part and the pelvis. Malpresentation (breech) and a high, unengaged presenting part (−3) both leave room for the cord to slip past. Prioritize hypotheses: the breech at −3 has two risk factors. Take action: check this client's FHR first, keep them on bed rest, and watch for variable decelerations or bradycardia.",
+          "A vertex at +1 with a reassuring tracing is engaged and stable. It has the fewest cues of risk."
+        ]
+      },
+      {
+        "stem": "Four hours after a cesarean birth with intrathecal morphine, the nurse assesses the client. Findings: RR 9/min, difficult to arouse, SpO2 91% on room air, fundus firm at the umbilicus, moderate lochia rubra, incisional pain 3/10, and absent bowel sounds. Which action should the nurse take first?",
+        "options": [
+          "Stimulate the client, support the airway, and prepare naloxone per protocol",
+          "Massage the fundus and reassess lochia in 15 minutes",
+          "Auscultate all four quadrants and report the absent bowel sounds",
+          "Splint the incision with a pillow and coach incentive spirometer use"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: RR 9, sedation, and SpO2 91% after neuraxial morphine. Analyze cues: this is opioid-induced respiratory depression. Prioritize hypotheses: breathing comes before bleeding, pain, or bowel function. Take action: stimulate the client, open and support the airway, apply oxygen, and give naloxone per protocol. Evaluate outcomes: RR ≥12 and the client is arousable, with SpO2 improving.",
+          "The fundus is already firm and lochia is moderate, so it does not need massage. Bleeding is not the active problem.",
+          "Absent bowel sounds on the day of surgery are expected after anesthesia and are not an emergency. This misprioritizes a normal finding over a breathing problem.",
+          "Spirometry needs an alert, cooperative client. It does not reverse opioid depression, so it is right in general but wrong for now."
+        ]
+      },
+      {
+        "stem": "The nurse reviews the charts of four clients scheduled for cesarean birth. Which client's cesarean is being performed for a MATERNAL indication?",
+        "options": [
+          "A client in early labor who has an active genital herpes lesion",
+          "A client at 39 weeks whose fetus is in a frank breech presentation",
+          "A client at 37 weeks with twins, both in nonvertex presentations",
+          "A client with diabetes whose fetus has an estimated weight of 4,600 g"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: sort each indication by whose body or condition drives the decision. Active herpes is a maternal condition (the lesion is the mother's), and the cesarean protects the newborn from exposure in the birth canal. Prioritize hypotheses: maternal indications include prior uterine surgery, active herpes, maternal medical conditions, previa, and labor dystocia. Breech/malpresentation, multiples, macrosomia, and an abnormal tracing are fetal.",
+          "Breech is fetal malpresentation, a fetal indication, and the trap is calling breech maternal.",
+          "Multiple gestation with malpresentation is a fetal indication.",
+          "Suspected macrosomia is a fetal indication. The mother's diabetes is the cause, but the indication is the size of the fetus."
+        ]
+      },
+      {
+        "stem": "At 36 weeks, a client learns their group B streptococcus (GBS) culture is positive. They ask, \"Does this mean I'll need a C-section to protect the baby?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"No. You'll get IV antibiotics during labor, and a positive GBS result alone isn't a reason for cesarean.\"",
+          "\"Yes. A cesarean avoids the birth canal, so the baby isn't exposed to the bacteria.\"",
+          "\"No. You'll take oral antibiotics for the next 2 weeks to clear the bacteria before labor.\"",
+          "\"Only if your water breaks more than 18 hours before delivery. Otherwise you can deliver vaginally.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the client links GBS colonization with cesarean birth. Analyze cues: GBS-positive status is managed with intrapartum IV antibiotic prophylaxis, not surgery. It is a classic distractor on the cesarean indication list (which includes active herpes, previa, malpresentation, and others). Take action: teach that antibiotics will be given IV in labor. Evaluate outcomes: the client knows to come in promptly at labor onset or ROM so antibiotics can be started.",
+          "This confuses GBS with active herpes. GBS is not on the cesarean indication list.",
+          "Antepartum oral antibiotics do not prevent recolonization. Prophylaxis is IV during labor.",
+          "Prolonged ROM raises infection risk but is not by itself an indication for cesarean in a GBS-positive client. The plan is still IV antibiotics in labor."
+        ]
+      },
+      {
+        "stem": "A provider plans a vacuum-assisted birth for a client with an epidural who is exhausted after 90 minutes of pushing. Before the cup is applied, which finding should the nurse report immediately?",
+        "options": [
+          "The client reports a decreased urge to push because of the epidural",
+          "The FHR shows recurrent late decelerations over the last 20 minutes",
+          "The client voided 200 mL by straight catheter 15 minutes ago",
+          "The most recent exam shows the cervix 8 cm dilated with the vertex at −2 station"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Analgesia limiting effective pushing is itself an INDICATION for vacuum, not a contraindication.",
+          "A nonreassuring tracing is also an indication for vacuum. It argues for expediting birth, not stopping the procedure.",
+          "An empty bladder is a prerequisite for the procedure, so this finding supports going ahead.",
+          "CJMM — Recognize cues: a vacuum is planned, but the cervix is not fully dilated and the head is high. Analyze cues: operative vaginal birth requires a fully dilated cervix and an engaged, low head. A vacuum at 8 cm and −2 risks serious maternal and fetal trauma. Take action: report this finding before the procedure. A cesarean may be the safer route."
+        ]
+      },
+      {
+        "stem": "A 30-hour-old newborn was born by vacuum extraction. Assessment shows a firm swelling over the right parietal bone that does not cross the sagittal suture. It was not present at birth. Jaundice is visible to the chest. Which action should the nurse take first?",
+        "options": [
+          "Obtain a bilirubin level as prescribed, because the collected blood is adding to the bilirubin load",
+          "Apply warm compresses to the swelling to speed resorption",
+          "Reassure the parents that the swelling and yellow color will resolve within 48 hours",
+          "Prepare for needle aspiration of the swelling to prevent infection"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: swelling limited to one bone, does not cross sutures, appeared after birth, firm. Analyze cues: this is a cephalohematoma (blood between the periosteum and skull). As those RBCs break down, bilirubin rises, which explains jaundice at 30 hours. Prioritize hypotheses: hyperbilirubinemia is the risk that needs action now. Take action: obtain a bilirubin level and monitor feeding and stools. Evaluate outcomes: the bilirubin trend stays in a safe range or treatment begins.",
+          "Heat is not a treatment for cephalohematoma, and it does not address the bilirubin problem.",
+          "The 48-hour timeline describes caput (edema that crosses sutures). A cephalohematoma takes weeks to months, and jaundice should be measured, not just reassured away.",
+          "A cephalohematoma is not aspirated, because aspiration introduces infection. It resolves on its own."
+        ]
+      },
+      {
+        "stem": "Two hours after a forceps-assisted birth with a second-degree laceration, a client reports severe rectal pressure and perineal pain unrelieved by ibuprofen. HR is 112 (was 80 an hour ago). The fundus is firm, midline, at the umbilicus, and lochia is moderate. Which action should the nurse take next?",
+        "options": [
+          "Inspect the perineum for a tense, discolored mass, apply ice, and notify the provider",
+          "Massage the fundus and increase the oxytocin infusion",
+          "Give the prescribed oxycodone and reassess pain in 1 hour",
+          "Insert a straight catheter for suspected bladder distention"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: pain and pressure out of proportion, rising HR, a firm fundus, and normal lochia after an operative birth. Analyze cues: a firm fundus rules out atony, so the bleeding is concealed in the tissue. Prioritize hypotheses: a vulvar or vaginal hematoma, a listed maternal risk of operative birth. Take action: inspect for a tense purple bulge, apply ice, notify the provider, and monitor VS. Evaluate outcomes: HR stabilizes and the mass does not enlarge.",
+          "The fundus is already firm, so atony is not the cause. Massage treats the wrong hypothesis.",
+          "More analgesia masks an expanding hematoma. Pain out of proportion is a cue to assess, not just to medicate.",
+          "A distended bladder pushes the fundus up and to the side. Here the fundus is midline at the umbilicus, so the cues do not fit."
+        ]
+      },
+      {
+        "stem": "The fetal head delivers and then retracts tightly against the perineum. The nurse has called for help and placed the client in McRoberts position, but the next push does not deliver the shoulders. Which action should the nurse take next?",
+        "options": [
+          "Apply firm pressure to the top of the fundus with the next push",
+          "Lower the client's legs flat in the stirrups to widen the pelvic outlet",
+          "Apply firm pressure just above the symphysis pubis, directed downward and to the side",
+          "Insert two fingers behind the anterior shoulder and rotate it 180 degrees"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Fundal pressure drives the anterior shoulder harder into the pubic bone and worsens the impaction and injury.",
+          "Flattening the legs reverses McRoberts and narrows the pelvic angle that McRoberts opened.",
+          "CJMM — Recognize cues: the turtle sign means shoulder dystocia, with the anterior shoulder impacted on the symphysis pubis. Generate solutions: nursing maneuvers change pelvic shape and dislodge the shoulder: McRoberts, then suprapubic pressure, then help the client roll to hands and knees. Take action: suprapubic pressure is the nurse's next step after McRoberts. Evaluate outcomes: note the time from head delivery and the maneuvers used, and confirm the shoulders deliver.",
+          "Internal rotational maneuvers (Rubin, Woods screw) are PROVIDER second-line interventions, not nursing actions."
+        ]
+      },
+      {
+        "stem": "After a shoulder dystocia resolved with McRoberts and suprapubic pressure, a 4,350 g newborn is born. Which assessments should the nurse prioritize in the first hour? Select all that apply.",
+        "options": [
+          "Movement of both arms and symmetry of the Moro reflex",
+          "Palpation of the clavicles for crepitus or a mass",
+          "Ortolani and Barlow maneuvers for hip dislocation",
+          "Maternal fundal tone and amount of bleeding",
+          "Maternal perineum for lacerations",
+          "Maternal pupils for signs of a post-dural-puncture headache"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "explanations": [
+          "Correct—an asymmetric Moro or a limp arm suggests brachial plexus (Erb's) injury.",
+          "Correct—clavicle fracture is a listed complication, with crepitus or a lump on palpation.",
+          "Incorrect—hip screening is part of every newborn exam but is not a complication of shoulder dystocia. This mismatches the cue.",
+          "Correct—a large baby and a difficult birth raise the risk of maternal hemorrhage from overdistension/atony.",
+          "Correct—maternal injury, especially perineal trauma, is a listed complication.",
+          "Incorrect—post-dural-puncture headache relates to neuraxial anesthesia, not shoulder dystocia, and pupils do not assess it."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client at 27 weeks had a 1-hour 50 g glucose challenge of 152 mg/dL. The 3-hour 100 g oral glucose tolerance test results are: fasting 93, 1 hour 184, 2 hours 158, 3 hours 132 mg/dL. Which conclusion is correct?",
+        "options": [
+          "Not gestational diabetes, because the fasting value is below 95 mg/dL",
+          "Gestational diabetes, because the fasting value exceeds 92 mg/dL",
+          "Impaired glucose tolerance only, so the 50 g screen should be repeated in 4 weeks",
+          "Gestational diabetes, because two values meet or exceed the 100 g cutoffs"
+        ],
+        "answer": 3,
+        "explanations": [
+          "A normal fasting value does not rule out GDM on the 100 g test. Any two abnormal values diagnose it, so this is the \"not GDM because the fasting value was normal\" trap.",
+          "92 is the fasting cutoff for the ONE-step 75 g test. Mixing up the two sets of cutoffs is a classic error. On the 100 g test, 93 is normal.",
+          "The diagnostic test has already been done and is positive. Repeating the screening test delays treatment.",
+          "CJMM — Recognize cues: a positive 50 g screen followed by a 3-hour 100 g OGTT. Analyze cues: compare each value with the 100 g cutoffs (fasting 95, 1 h 180, 2 h 155, 3 h 140). Fasting 93 is normal, 1 h 184 is abnormal, 2 h 158 is abnormal, and 3 h 132 is normal. Two abnormal values = GDM. Take action: begin GDM teaching (diet, exercise, glucose self-monitoring), and add medication only if targets are not met."
+        ]
+      },
+      {
+        "stem": "At a first prenatal visit at 10 weeks, a client has a BMI of 34, and their previous baby weighed 4,300 g. A 50 g glucose challenge done today is 118 mg/dL. Which plan should the nurse reinforce?",
+        "options": [
+          "No further glucose testing this pregnancy, since the early screen was normal",
+          "Proceed directly to a 3-hour 100 g OGTT this week to confirm the result",
+          "Begin a carbohydrate-restricted diet now, since the client has two risk factors",
+          "Repeat screening at 24–28 weeks, since early testing does not rule out later GDM"
+        ],
+        "answer": 3,
+        "explanations": [
+          "A negative early screen in a high-risk client must be repeated at 24–28 weeks. Stopping testing misses GDM that develops as insulin resistance rises.",
+          "The 3-hour OGTT is the second step after a POSITIVE screen. At 118, there is nothing to confirm.",
+          "Healthy eating teaching is appropriate, but diagnosing and treating GDM without a positive test jumps ahead of the data.",
+          "CJMM — Recognize cues: BMI >30 and a previous infant >4,000 g are GDM risk factors, so the client was correctly screened at the first visit. Analyze cues: 118 is below the 130–140 threshold, so the screen is negative for now. Placental insulin resistance increases in the second half of pregnancy, however. Take action: rescreen at 24–28 weeks as the slide directs for at-risk clients whose first screen is negative."
+        ]
+      },
+      {
+        "stem": "A 4,250 g term newborn of a parent with insulin-requiring gestational diabetes is 1 hour old. The newborn is jittery, axillary temperature is 36.8 °C (98.2 °F), and RR is 56. Which action should the nurse take first?",
+        "options": [
+          "Swaddle the newborn and recheck the temperature in 30 minutes",
+          "Palpate the clavicles for crepitus from a possible birth injury",
+          "Obtain a heel-stick blood glucose",
+          "Obtain a transcutaneous bilirubin level"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Cold stress can cause jitteriness, but the temperature is normal. This acts on a hypothesis the data have already ruled out.",
+          "Birth trauma is a real GDM risk, but it does not explain jitteriness. It is an assessment for later, not first.",
+          "CJMM — Recognize cues: a macrosomic infant of a diabetic parent, jittery at 1 hour, with a normal temperature. Analyze cues: maternal glucose crossed the placenta (insulin does not), so the fetus made extra insulin. At birth the glucose supply stops but the newborn's high insulin persists, which causes hypoglycemia in the first hours. Prioritize hypotheses: hypoglycemia is the immediate, treatable cause of the jitteriness. Take action: check the glucose now and feed or treat per protocol. Evaluate outcomes: a repeat glucose in the target range.",
+          "Hyperbilirubinemia is a GDM newborn risk, but jaundice is not expected at 1 hour and does not cause jitteriness."
+        ]
+      },
+      {
+        "stem": "A client with gestational diabetes who used insulin during pregnancy is preparing for discharge on postpartum day 2 and is breastfeeding. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I should get tested for diabetes again after the baby, because my risk of type 2 is higher now.\"",
+          "\"I'll need to keep taking my insulin while I'm breastfeeding to keep my sugar from going too high.\"",
+          "\"Staying active and keeping a healthy weight will help lower my risk of diabetes later.\"",
+          "\"If I get pregnant again, I'll need to be checked for diabetes early in that pregnancy.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. GDM raises the lifetime risk of type 2 diabetes, so later screening is needed.",
+          "CJMM — Recognize cues: the client plans to continue insulin after birth. Analyze cues: the cause of GDM (placental insulin-resistance hormones) leaves with the placenta, so insulin needs drop sharply after delivery and insulin is usually stopped. Continuing it, especially while breastfeeding, risks hypoglycemia. Take action: reteach that insulin is usually stopped postpartum, with follow-up glucose testing. Evaluate outcomes: the client restates the plan to stop insulin and get later diabetes screening.",
+          "This is correct. Lifestyle measures lower the risk of type 2 diabetes after GDM.",
+          "This is correct. A history of GDM is a risk factor, so screening happens at the first visit of a future pregnancy."
+        ]
+      },
+      {
+        "stem": "A client was started on labetalol for a BP of 148/94 at 10 weeks' gestation. At 30 weeks, BP is 150/96, the urine protein/creatinine ratio is 0.4, platelets are 210,000, and the client has no headache or visual changes. Which classification fits these findings?",
+        "options": [
+          "Gestational hypertension",
+          "Chronic hypertension with superimposed preeclampsia",
+          "Preeclampsia without severe features",
+          "Chronic hypertension only, since the BP is unchanged"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Gestational HTN is NEW hypertension after 20 weeks without proteinuria. This client had hypertension at 10 weeks and now has proteinuria.",
+          "CJMM — Recognize cues: hypertension present before 20 weeks, then new proteinuria (P/C ≥0.3) after 20 weeks. Analyze cues: run the three questions. Onset before 20 weeks = chronic. New proteinuria after 20 weeks = preeclampsia. No severe-range BP or organ signs = no severe features. Prioritize hypotheses: chronic HTN with superimposed preeclampsia, which has worse outcomes and needs closer surveillance.",
+          "This ignores the hypertension that began before 20 weeks. The pre-existing hypertension makes it superimposed preeclampsia.",
+          "New proteinuria after 20 weeks changes the diagnosis even when the BP is stable. This is the \"still just chronic HTN\" trap."
+        ]
+      },
+      {
+        "stem": "A client at 34 weeks with preeclampsia is seen in the clinic. BP 158/108 on two readings 4 hours apart. Platelets 140,000/mm³, creatinine 1.0 mg/dL, urine protein 2+, mild ankle edema, and no headache, visual changes, or epigastric pain. Which conclusion should guide the plan?",
+        "options": [
+          "Preeclampsia with severe features, so IV magnesium sulfate should be started now",
+          "Preeclampsia without severe features, with close outpatient surveillance and delivery by 37 weeks",
+          "Gestational hypertension, because 2+ protein on dipstick does not confirm proteinuria",
+          "Preeclampsia with severe features, because 2+ proteinuria with edema indicates end-organ damage"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Numbers just under the cutoff are the trap. 158/108 is not severe range, and none of the other severe criteria are met.",
+          "CJMM — Analyze cues: every value sits just UNDER a severe cutoff. BP 158/108 (severe = ≥160 systolic or ≥110 diastolic), platelets 140,000 (severe <100,000), creatinine 1.0 (severe >1.1), and no cerebral, visual, or RUQ symptoms. Prioritize hypotheses: preeclampsia without severe features. Generate solutions: outpatient care with daily BP checks, fetal movement counts, NST/AFI/labs, and delivery by 37 weeks. Evaluate outcomes: teach the client to report any severe-feature symptom right away.",
+          "Dipstick ≥2+ meets the proteinuria criterion. With hypertension after 20 weeks, that makes it preeclampsia, not gestational HTN.",
+          "The amount of proteinuria does not define severe features, and edema is not a diagnostic criterion at all."
+        ]
+      },
+      {
+        "stem": "A client at 33 weeks reports nausea, RUQ pain, and feeling \"like I have the flu.\" BP 146/92. Labs: platelets 88,000/mm³, AST 3 times normal, and hemolysis on the peripheral smear. Which action should the nurse take?",
+        "options": [
+          "Notify the provider immediately and prepare for admission, IV magnesium sulfate, and delivery planning",
+          "Give an antiemetic and encourage clear liquids for suspected gastroenteritis",
+          "Request an abdominal ultrasound to evaluate for cholecystitis before notifying the provider",
+          "Recheck the BP in 4 hours, since it has not reached the severe range"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: RUQ pain, flu-like symptoms, low platelets, elevated liver enzymes, and hemolysis. Analyze cues: Hemolysis, Elevated Liver enzymes, Low Platelets = HELLP, a severe form of preeclampsia. Prioritize hypotheses: HELLP can progress to liver rupture, DIC, and eclampsia, even though the BP is only mildly elevated. Take action: notify the provider now and anticipate hospitalization, magnesium, BP control, and delivery.",
+          "Treating this as gastroenteritis anchors on the GI symptoms and misses the labs that show HELLP. This is the \"third-trimester RUQ pain is the flu\" trap.",
+          "Gallbladder disease can cause RUQ pain, but it does not explain the hemolysis and low platelets. Delaying notification for imaging wastes time.",
+          "In HELLP, the BP may be only mildly high. Organ damage (platelets <100,000, liver enzymes 2 times normal) already counts as a severe feature."
+        ]
+      },
+      {
+        "stem": "A client who had preeclampsia with severe features is being discharged on postpartum day 3. Which symptoms should the nurse teach the client to report immediately? Select all that apply.",
+        "options": [
+          "Headache that is not relieved by acetaminophen",
+          "Seeing spots or flashing lights",
+          "Mild ankle swelling that improves with elevation",
+          "Pain under the right ribs or in the upper abdomen",
+          "New shortness of breath when lying flat",
+          "Lochia that is dark red with small clots on day 3"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "explanations": [
+          "Correct—a persistent headache unrelieved by acetaminophen is a cerebral severe feature and can come before an eclamptic seizure.",
+          "Correct—visual disturbances (scotomata) are a severe feature.",
+          "Incorrect—edema is not a diagnostic criterion, and dependent swelling that improves with elevation is common postpartum.",
+          "Correct—RUQ/epigastric pain reflects liver involvement (possible HELLP).",
+          "Correct—new dyspnea or orthopnea may be pulmonary edema, a severe feature.",
+          "Incorrect—lochia rubra with small clots is expected in the first 3–4 days. It does not point to preeclampsia."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client at 37 weeks with preeclampsia, BP 144/92 and on IV magnesium sulfate, begins having a generalized tonic-clonic seizure. Which action should the nurse take first?",
+        "options": [
+          "Insert an oral airway between the teeth to keep the airway open and prevent tongue biting",
+          "Assess the FHR tracing for prolonged deceleration",
+          "Draw a serum magnesium level to check for a subtherapeutic dose",
+          "Turn the client onto their side, protect them from injury, and note the seizure's duration"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Airway protection is the right goal, but nothing is forced between clenched teeth during a seizure because it can break teeth or cause aspiration. Side-lying positioning protects the airway, and oxygen and suction follow once the jaw relaxes.",
+          "Fetal bradycardia is expected during and after a seizure and usually recovers. The fetus is helped by stabilizing the mother first.",
+          "A level guides later dosing but does nothing for the client who is seizing now. Lab work comes after airway and safety.",
+          "CJMM — Recognize cues: a new seizure in a client with preeclampsia means eclampsia, even with a BP of only 144/92. Prioritize hypotheses: during the seizure, the immediate threats are aspiration and injury. Take action: turn to the side, protect from injury, keep the airway clear, and time the seizure. After it ends, give oxygen, call for help, give magnesium per order, and then assess the fetus. Evaluate outcomes: the airway is patent, SpO2 recovers, and there are no further seizures."
+        ]
+      },
+      {
+        "stem": "A client with severe preeclampsia is receiving magnesium sulfate 2 g/h. The nurse finds absent patellar reflexes, RR 10/min, and urine output of 20 mL/h for the past 2 hours. Which action should the nurse take first?",
+        "options": [
+          "Administer calcium gluconate IV per protocol",
+          "Reduce the infusion rate by half and recheck in 30 minutes",
+          "Stop the magnesium sulfate infusion",
+          "Give a 500 mL IV fluid bolus to increase urine output"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Calcium gluconate is the antidote and will be needed, but stopping the source comes first. Giving the antidote while magnesium is still running treats the problem while making it worse.",
+          "Toxicity calls for stopping the infusion, not slowing it. \"Halve and recheck\" is the listed trap.",
+          "CJMM — Recognize cues: absent DTRs (the earliest sign), RR <12, and oliguria <30 mL/h. Analyze cues: magnesium is cleared by the kidneys, so low urine output lets the level climb, and this client is toxic. Prioritize hypotheses: progression to respiratory arrest. Take action: STOP the infusion first, call the provider, support the airway, then give calcium gluconate per order. Evaluate outcomes: RR ≥12, DTRs return, and serum Mg is back in range.",
+          "Bolusing fluid in preeclampsia risks pulmonary edema. Oliguria on magnesium is reported, not fluid-challenged."
+        ]
+      },
+      {
+        "stem": "A client with preeclampsia with severe features has been on magnesium sulfate for 6 hours. Which finding best indicates the medication is achieving its intended effect?",
+        "options": [
+          "BP has decreased from 166/112 to 138/88",
+          "Patellar reflexes are 4+ with two beats of clonus, and the client is alert",
+          "No seizure activity, patellar reflexes 2+, RR 16, and urine output 45 mL/h",
+          "Contractions have decreased from every 3 minutes to every 8 minutes"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Magnesium is not an antihypertensive. A BP drop reflects labetalol, hydralazine, or nifedipine, so this measures the wrong outcome.",
+          "4+ reflexes with clonus mean CNS irritability and rising seizure risk, which is worsening disease, not a therapeutic effect. Notify the provider.",
+          "CJMM — Evaluate outcomes: in preeclampsia, magnesium is given for SEIZURE PROPHYLAXIS. It works when there are no seizures and the level is therapeutic but not toxic: DTRs present (1–2+), RR ≥12, UO ≥30 mL/h, and the client is alert. Analyze cues: choose the outcome that matches the drug's purpose, not a side effect.",
+          "Magnesium does relax the uterus, but stopping contractions is not its purpose in preeclampsia, where delivery is the cure."
+        ]
+      },
+      {
+        "stem": "A client at 29 weeks in preterm labor is starting IV magnesium sulfate and has no hypertension. The client asks, \"Why do I need this medicine?\" Which response by the nurse is accurate?",
+        "options": [
+          "\"It prevents you from having seizures while you're in labor.\"",
+          "\"It helps protect your baby's brain and lowers the risk of cerebral palsy if your baby is born early.\"",
+          "\"It speeds up development of your baby's lungs before birth.\"",
+          "\"It stops your contractions permanently so the pregnancy can continue to term.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "Seizure prophylaxis is magnesium's purpose in preeclampsia. This client has no hypertensive disorder, so that answer gives the wrong reason for the drug.",
+          "CJMM — Recognize cues: preterm labor at 29 weeks and a normotensive client. Analyze cues: the same drug has two jobs. In preterm labor (especially <32 weeks), magnesium provides FETAL NEUROPROTECTION. In preeclampsia, it prevents MATERNAL seizures. Take action: give the indication-specific explanation. Evaluate outcomes: the client can state the purpose of each medication in the preterm labor plan.",
+          "Lung maturity is the job of the corticosteroid (betamethasone/dexamethasone), not magnesium.",
+          "Tocolytics only DELAY birth (often about 48 h) to buy time for steroids. Nothing stops preterm labor permanently, and magnesium is given here for the baby's brain."
+        ]
+      },
+      {
+        "stem": "A client at 30 weeks in preterm labor has gestational diabetes managed with insulin. HR 92, BP 118/72. Which prescription should the nurse question?",
+        "options": [
+          "Betamethasone 12 mg IM, 2 doses 24 hours apart",
+          "Terbutaline 0.25 mg subcutaneously for tocolysis",
+          "Magnesium sulfate IV for fetal neuroprotection",
+          "Penicillin G IV for GBS prophylaxis"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is appropriate. Betamethasone is still indicated for fetal lungs at 30 weeks. It raises glucose too, so the nurse monitors closely, but it is not contraindicated.",
+          "CJMM — Recognize cues: insulin-requiring diabetes plus a beta-agonist tocolytic. Analyze cues: terbutaline causes hyperglycemia, hypokalemia, and tachycardia, and it is avoided in diabetes (and cardiac disease). Generate solutions: another tocolytic (nifedipine, or indomethacin before 32 weeks) avoids the glucose effect. Take action: question the terbutaline. Evaluate outcomes: maternal glucose stays in range during treatment.",
+          "This is appropriate. Neuroprotective magnesium is indicated when birth is likely before 32 weeks.",
+          "This is appropriate. GBS prophylaxis is part of preterm labor management."
+        ]
+      },
+      {
+        "stem": "A client at 35 weeks with severe preeclampsia receives IV hydralazine for a BP of 170/112. Twenty minutes later, BP is 112/68, HR is 118, and the FHR tracing shows new recurrent late decelerations. Which conclusion should the nurse draw?",
+        "options": [
+          "The antihypertensive worked as intended, and the late decelerations are unrelated",
+          "The client is developing magnesium toxicity, so the infusion should be stopped",
+          "The rapid BP drop has reduced uterine perfusion, and the provider should be notified now",
+          "The tracing indicates cord compression, so the client should be placed in Trendelenburg"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Getting BP out of the severe range is the goal, but not this low this fast. The new late decelerations are linked to the overshoot.",
+          "Magnesium toxicity shows as lost DTRs, respiratory depression, and oliguria. It does not cause a sudden BP drop just after hydralazine.",
+          "CJMM — Recognize cues: a drop from 170/112 to 112/68 within 20 minutes, reflex tachycardia, and NEW late decelerations. Analyze cues: late decelerations reflect uteroplacental insufficiency. In preeclampsia the placenta relies on maternal pressure, so dropping the BP too fast cuts placental perfusion. Take action: left lateral position, IV fluids per order, oxygen as indicated, and notify the provider. Evaluate outcomes: decelerations resolve as BP is brought into a safer target range.",
+          "Cord compression causes VARIABLE decelerations. Late decelerations mean poor placental perfusion, so this misreads the tracing."
+        ]
+      },
+      {
+        "stem": "The nurse is returning calls from four clients at 31 weeks' gestation. Which client should be told to come to labor and delivery now?",
+        "options": [
+          "\"My belly got tight a few times this afternoon, but it stopped after I lay down and drank some water.\"",
+          "\"I've had a dull ache in my lower back all day, and my belly tightens about every 10 minutes, but it doesn't hurt.\"",
+          "\"I have a sharp pain on one side of my belly when I stand up quickly, and it goes away in a few seconds.\"",
+          "\"I've had thin white discharge for a few weeks. It hasn't changed and has no smell.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "Irregular tightening that stops with rest and fluids is typical of Braxton Hicks, which is lower priority.",
+          "CJMM — Recognize cues: a constant dull low backache plus regular tightening every 10 minutes. Analyze cues: preterm labor contractions are often PAINLESS. Contractions every 10 minutes for 1 hour and a constant low backache are both warning signs on the slide. Prioritize hypotheses: possible preterm labor at 31 weeks, when tocolytics, steroids, and magnesium only help if there is time. Take action: have the client come in now for evaluation.",
+          "Brief, sharp, position-related pain fits round ligament pain, not preterm labor.",
+          "A CHANGE in discharge is a warning sign. Unchanged, odorless leukorrhea for weeks is not."
+        ]
+      },
+      {
+        "stem": "A client with a history of preterm birth had a cervical cerclage placed at 14 weeks. At 24 weeks, the nurse reviews warning signs. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"If I start leaking fluid, the stitch will keep the baby in, so I can wait until my next appointment.\"",
+          "\"If I feel pressure low in my pelvis like the baby is pushing down, I'll call right away.\"",
+          "\"Cramps like my period, even with diarrhea, are a reason to call the office.\"",
+          "\"Contractions every 10 minutes for an hour count even if they don't hurt.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the client believes the cerclage makes leaking fluid safe to ignore. Analyze cues: a cerclage reinforces a weak cervix. It does not prevent ROM, infection, or labor, and contractions against a stitch can tear the cervix. Take action: teach that leaking fluid or contractions with a cerclage mean coming in now. Evaluate outcomes: the client states the signs that require an immediate visit.",
+          "This is correct. Pelvic pressure or heaviness is a preterm labor warning sign.",
+          "This is correct. Menstrual-like cramps with or without diarrhea are a warning sign.",
+          "This is correct. Preterm contractions are often painless, so frequency matters more than pain."
+        ]
+      },
+      {
+        "stem": "A client at 30 weeks is admitted in preterm labor with the cervix 3 cm dilated. GBS status is unknown. Which prescriptions does the nurse anticipate? Select all that apply.",
+        "options": [
+          "Nifedipine to delay birth",
+          "Betamethasone IM for fetal lung maturity",
+          "Magnesium sulfate to prevent maternal seizures",
+          "IV antibiotics for GBS prophylaxis",
+          "Oxytocin to regulate the contraction pattern",
+          "Magnesium sulfate for fetal neuroprotection"
+        ],
+        "answer": [
+          0,
+          1,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—a tocolytic delays birth so steroids and magnesium have time to work.",
+          "Correct—corticosteroids reduce respiratory distress in a 30-week newborn.",
+          "Incorrect—same drug, wrong purpose. This client is not hypertensive, and in preterm labor magnesium protects the fetal brain, not the mother.",
+          "Correct—unknown GBS status in preterm labor calls for prophylaxis to prevent newborn sepsis.",
+          "Incorrect—oxytocin would strengthen preterm contractions, the opposite of the goal.",
+          "Correct—magnesium sulfate is given for fetal neuroprotection when birth is likely before 32 weeks."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A client is 1 day postpartum after repair of a laceration that extended through the anal sphincter and into the rectal mucosa. Which prescription should the nurse question?",
+        "options": [
+          "Bisacodyl 10 mg rectal suppository PRN constipation",
+          "Docusate sodium 100 mg PO twice daily",
+          "Ice pack to the perineum for the first 24 hours",
+          "Ibuprofen 600 mg PO every 6 hours PRN pain"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a tear through the sphincter AND the rectal mucosa is a 4th-degree laceration. Analyze cues: anything inserted into the rectum can disrupt the repair and cause a fistula. Take action: question the rectal suppository and ask for an oral alternative. Evaluate outcomes: soft stools without straining, using oral softeners, fluids, fiber, and ambulation.",
+          "This is appropriate. A stool softener prevents straining against the repair.",
+          "This is appropriate. Cold in the first 24 hours reduces edema, bleeding, and pain.",
+          "This is appropriate. Oral pain medication is part of laceration care."
+        ]
+      },
+      {
+        "stem": "Six hours after a vaginal birth with a second-degree laceration, a client's perineum is swollen and sore. The client asks for a warm sitz bath because \"my sister said it really helped her.\" Which response by the nurse is best?",
+        "options": [
+          "\"Yes, I'll set up a warm sitz bath now, since warmth increases blood flow to help healing.\"",
+          "\"A sitz bath isn't recommended after a laceration, so let's use the numbing spray instead.\"",
+          "\"Let's run a warm tub bath instead, so you can soak your whole perineum.\"",
+          "\"Let's use an ice pack for now. Warm sitz baths work best starting after the first 24 hours.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Warmth this early dilates vessels and can increase edema and bleeding. The timing is wrong, which is the classic trap.",
+          "Sitz baths ARE part of laceration care, just after 24 hours. Topical anesthetic is an add-on, not a replacement.",
+          "Tub soaks are not the recommended perineal care postpartum, and warmth is still premature at 6 hours.",
+          "CJMM — Recognize cues: 6 hours postpartum with perineal edema. Analyze cues: cold first, warm later. In the first 24 hours, ice causes vasoconstriction, which reduces edema and bleeding. After 24 hours, warm sitz baths increase circulation to promote healing. Take action: apply an ice pack now and plan sitz baths after 24 hours. Evaluate outcomes: swelling and pain decrease."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching perineal care to a client with a repaired second-degree laceration. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll squirt warm water from front to back with my peribottle every time I use the bathroom.\"",
+          "\"I'll take the stool softener and drink plenty of water so I don't strain.\"",
+          "\"I'll try to hold off on having a bowel movement until my stitches have healed.\"",
+          "\"I'll call if the pain suddenly gets much worse or I feel a lot of pressure down there.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. Front-to-back peribottle rinsing after each void or BM promotes hygiene and comfort.",
+          "This is correct. Stool softeners and fluids prevent straining.",
+          "CJMM — Recognize cues: the client plans to delay bowel movements. Analyze cues: withholding stool leads to hard stools and straining, which stresses the repair. That is the opposite of the constipation-prevention goal (docusate, fluids, fiber, ambulation). Take action: teach that a soft, regular BM is expected and safe with softeners. Evaluate outcomes: the client has a soft BM without straining.",
+          "This is correct. Sudden severe pain or pressure can signal a hematoma and should be reported."
+        ]
+      },
+      {
+        "stem": "A client at 26 weeks' gestation is evaluated after a low-speed car crash. Blood type is O-negative, and the antibody screen earlier in pregnancy was negative. There is no vaginal bleeding, VS are normal, and there is mild abdominal tenderness where the seat belt crossed. FHR is 145 with accelerations. The client asks to go home. Which plan should the nurse anticipate?",
+        "options": [
+          "Discharge after a reactive NST, with RhoGAM given at the routine 28-week visit",
+          "Discharge with bleeding precautions, since RhoGAM is only needed when vaginal bleeding is seen",
+          "Rh immune globulin after the trauma, plus several hours of continuous fetal and contraction monitoring",
+          "Rh immune globulin only if the newborn is later found to be Rh-positive at birth"
+        ],
+        "answer": 2,
+        "explanations": [
+          "One reactive NST is not enough after abdominal trauma, because abruption can develop over hours. Waiting until 28 weeks leaves a window for sensitization from this event.",
+          "Fetal blood can enter the maternal circulation without any visible bleeding. This is the \"no bleeding after a car crash = discharge\" trap.",
+          "CJMM — Recognize cues: Rh-negative and unsensitized (negative antibody screen), abdominal trauma, and uterine tenderness. Analyze cues: trauma can cause fetal–maternal hemorrhage, which can sensitize the client to Rh-positive fetal cells. It can also cause abruption that shows up hours later, even with no bleeding. Generate solutions: give RhoGAM after the trauma, as after any loss, bleeding, or trauma, and continue monitoring for hours. Take action: anticipate both. Evaluate outcomes: no contractions, bleeding, or FHR changes over the monitoring period.",
+          "Waiting until birth misses sensitization that may already have happened from the trauma. Once antibodies form, RhoGAM cannot reverse them."
+        ]
+      },
+      {
+        "stem": "The nurse reviews four postpartum clients 30 hours after birth. Which client should receive Rh immune globulin (RhoGAM)?",
+        "options": [
+          "An Rh-negative client with a negative antibody screen whose newborn is Rh-positive",
+          "An Rh-negative client whose newborn is Rh-negative",
+          "An Rh-negative client with a positive anti-D antibody titer from a previous pregnancy, whose newborn is Rh-positive",
+          "An Rh-positive client whose newborn is Rh-negative"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: maternal Rh status, newborn Rh status, and whether the client is already sensitized. Analyze cues: RhoGAM PREVENTS sensitization in an Rh-negative person exposed to Rh-positive fetal blood. It is given within 72 hours of birth. Take action: give it to the unsensitized Rh-negative client with an Rh-positive newborn (30 hours is within the window). Evaluate outcomes: the antibody screen stays negative in future pregnancies.",
+          "An Rh-negative newborn carries no Rh antigen to sensitize the client, so there is nothing to prevent.",
+          "This client is already sensitized. RhoGAM prevents antibody formation but cannot remove antibodies that already exist, so it is the \"RhoGAM treats existing antibodies\" trap. This pregnancy history calls for close fetal surveillance next time.",
+          "An Rh-positive client cannot be sensitized to the Rh antigen. Rh incompatibility requires an Rh-negative birthing parent."
+        ]
+      },
+      {
+        "stem": "A client at 41 weeks has oligohydramnios (estimated fluid volume less than 500 mL). Membranes are ruptured, and the FHR shows recurrent variable decelerations. Which intervention should the nurse anticipate?",
+        "options": [
+          "Amnioreduction to decompress the uterus",
+          "Oral indomethacin to decrease fetal urine production",
+          "Magnesium sulfate to relax the uterus between contractions",
+          "Amnioinfusion of warmed isotonic fluid through an intrauterine catheter"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Amnioreduction removes fluid and is a treatment for POLYhydramnios. It would worsen cord compression here.",
+          "Indomethacin lowers fetal urine output to reduce fluid in polyhydramnios. It would deepen oligohydramnios.",
+          "Magnesium does not restore the fluid cushion around the cord. Its uses are seizure prophylaxis and fetal neuroprotection.",
+          "CJMM — Recognize cues: oligohydramnios with recurrent VARIABLE decelerations. Analyze cues: variable decelerations reflect cord compression, and with little fluid the cord has no cushion. Generate solutions: oligohydramnios is managed by adding fluid (amnioinfusion), close fetal surveillance, and birth for fetal compromise. Take action: anticipate amnioinfusion. Evaluate outcomes: variable decelerations decrease in depth and frequency."
+        ]
+      },
+      {
+        "stem": "A client at 32 weeks is admitted with preterm premature rupture of membranes (PPROM) and is not in labor. Expectant management is planned. Which nursing actions are appropriate? Select all that apply.",
+        "options": [
+          "Monitor maternal temperature and the FHR baseline for tachycardia",
+          "Perform a digital cervical exam each shift to track dilation",
+          "Assess the amniotic fluid's color, odor, and amount",
+          "Administer betamethasone as prescribed",
+          "Encourage a warm tub bath to relieve back discomfort",
+          "Teach the client to report uterine tenderness or contractions"
+        ],
+        "answer": [
+          0,
+          2,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—maternal fever and maternal or fetal tachycardia are early signs of chorioamnionitis.",
+          "Incorrect—no unsterile digital cervical exams until active labor. Each exam carries bacteria toward the uterus.",
+          "Correct—foul-smelling or cloudy fluid suggests infection, so fluid characteristics are assessed.",
+          "Correct—at 32 weeks the fetal lungs are immature, so steroids are part of expectant management.",
+          "Incorrect—soaking in a tub with ruptured membranes conflicts with infection prevention.",
+          "Correct—uterine tenderness can signal infection, and contractions signal labor. Both need prompt evaluation."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A multiparous client arrived 40 minutes ago at 4 cm and now says, \"The baby is coming!\" The nurse sees the head crowning. The provider is not in the building. Which action should the nurse take?",
+        "options": [
+          "Leave briefly to get the emergency delivery kit and the charge nurse from the desk",
+          "Stay with the client, call for help, and apply gentle pressure to the head to control its delivery",
+          "Tell the client to cross their legs and pant until the provider arrives",
+          "Transfer the client to the delivery room on the stretcher before the head delivers"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Leaving a client whose baby is crowning risks an unattended, uncontrolled birth. Use the call light and staff instead.",
+          "CJMM — Recognize cues: a very rapid labor (a precipitous birth is the entire labor and birth in under 3 hours) with the head crowning and no provider. Prioritize hypotheses: the risks are maternal laceration and hemorrhage and fetal trauma from an uncontrolled birth. Take action: promote safety by never leaving the client, calling for help, and gently supporting the head so it delivers slowly. Evaluate outcomes: after birth, check the fundus, bleeding, and perineum, and watch the newborn for trauma and TTN.",
+          "Holding the legs together or delaying the birth puts pressure on the fetal head and risks hypoxia and trauma.",
+          "Moving the client while the head is crowning risks a birth on the stretcher with no control. Birth is imminent, so deliver where the client is."
+        ]
+      },
+      {
+        "stem": "Moments after a client's membranes rupture in active labor, the client becomes acutely confused and short of breath. SpO2 is 82%, BP 70/40, HR 138, and blood is oozing from the IV site. BP was 118/72 ten minutes earlier. Which action is the priority?",
+        "options": [
+          "Give a magnesium sulfate bolus for suspected eclampsia",
+          "Activate the emergency response, apply high-flow oxygen, and prepare to support circulation and correct coagulopathy",
+          "Turn the client to the left side and stop oxytocin for decreased placental perfusion",
+          "Give naloxone for respiratory depression from epidural opioids"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Eclampsia presents with HYPERtension and seizures, not sudden shock with bleeding. That is the listed AFE trap.",
+          "CJMM — Recognize cues: sudden hypoxia, hypotension, altered mental status, and new bleeding (coagulopathy) right after ROM. Analyze cues: amniotic fluid entering the maternal circulation causes intense pulmonary vasoconstriction and bronchoconstriction, which is amniotic fluid embolism. Prioritize hypotheses: cardiopulmonary collapse with DIC. Take action: supportive measures for oxygenation, hemodynamic support, coagulopathy correction, and critical care monitoring. Evaluate outcomes: SpO2, BP, and bleeding respond to resuscitation.",
+          "Left side and stopping oxytocin are reasonable intrauterine resuscitation steps, but they treat fetal perfusion. They do not address maternal cardiopulmonary collapse and coagulopathy.",
+          "Opioid respiratory depression causes a slow RR and sedation. It does not cause abrupt hypotension, a SpO2 of 82% with tachycardia, and oozing from IV sites."
+        ]
+      },
+      {
+        "stem": "A client who is breastfeeding is diagnosed with mastitis on postpartum day 10. Temperature is 38.6 °C (101.5 °F), and there is a red, hot, wedge-shaped area on the left breast. Antibiotics are prescribed. Which statement by the client indicates a need for further teaching?",
+        "options": [
+          "\"I'll finish all of the antibiotics even if I feel better in a couple of days.\"",
+          "\"I'll stop nursing on the left side until the antibiotics clear the infection.\"",
+          "\"I'll keep nursing or pumping often so that breast empties well.\"",
+          "\"I'll start feedings on the left side when I can tolerate it.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. Finishing the antibiotic course prevents relapse and abscess.",
+          "CJMM — Recognize cues: postpartum fever >38 °C after the first 24 hours with a unilateral, red, hot, wedge-shaped area means mastitis. Analyze cues: milk stasis feeds the infection, and management is breast EMPTYING plus antibiotics. Take action: teach the client to keep feeding or pumping on the affected side. Evaluate outcomes: the fever resolves and the redness fades within days of treatment, with continued effective emptying.",
+          "This is correct. Frequent emptying of the affected breast is a core treatment for mastitis.",
+          "This is correct. Starting on the affected side empties it best, and feeding can continue during treatment."
+        ]
+      },
+      {
+        "stem": "On postpartum day 2 after a cesarean birth, a client who has been reluctant to walk suddenly reports sharp chest pain and says, \"I can't catch my breath. Something is wrong.\" RR 30, HR 124, SpO2 88% on room air. Earlier the client mentioned a sore, swollen right calf. Which action should the nurse take first?",
+        "options": [
+          "Raise the head of the bed, apply oxygen, and call the rapid response team",
+          "Give the prescribed PRN lorazepam for anxiety and recheck the VS in 15 minutes",
+          "Assess both calves and apply antiembolism stockings before calling the provider",
+          "Encourage coughing and incentive spirometer use for suspected atelectasis"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: risk factors (cesarean, immobility, the postpartum hypercoagulable state, a unilateral swollen calf) followed by sudden dyspnea, chest pain, tachycardia, low SpO2, and a sense of doom. Analyze cues: DVT that has embolized to the lungs. Prioritize hypotheses: pulmonary embolism, a life-threatening emergency. Take action: start emergency measures (HOB up, oxygen, rapid response) and anticipate anticoagulation with heparin. Evaluate outcomes: SpO2 and HR improve.",
+          "Anxiety here is a symptom of hypoxemia, not the cause. Sedating the client and waiting 15 minutes is the listed trap.",
+          "Stockings are a DVT prevention measure. Applying them while the client is hypoxic delays emergency care for a PE that may already have happened.",
+          "Atelectasis does not cause sudden chest pain with an SpO2 of 88% and a swollen calf. This anchors on a less dangerous hypothesis."
+        ]
+      }
+    ],
+    "mat2-wk8-newborn": [
+      {
+        "stem": "At 1 minute after a vaginal birth, the nurse assesses a term newborn: heart rate 96/min, a good strong cry, active motion with the arms and legs well flexed, a grimace when the nose is bulb-suctioned, and a pink body with blue hands and feet. Which Apgar score and plan are correct?",
+        "options": [
+          "6, moderate difficulty; stimulate the newborn and support breathing before skin-to-skin",
+          "7, normal range; continue skin-to-skin and routine transition care, then score again at 5 minutes",
+          "8, normal range; continue skin-to-skin and routine transition care, then score again at 5 minutes",
+          "5, moderate difficulty; move the newborn to the radiant warmer and notify the provider"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This total comes from scoring acrocyanosis as 0, which is the classic trap. Pink body with blue extremities scores 1; only blue or pale all over scores 0. The misread cue then leads to unnecessary intervention.",
+          "CJMM — Recognize cues: score each of the five Apgar signs 0–2. Analyze cues: HR 96 is below 100 (1), a good strong cry (2), active motion and well flexed (2), a grimace (1), and a pink body with blue extremities (acrocyanosis) (1), for a total of 7. Prioritize hypotheses: 7–10 is the normal range, so this is a newborn transitioning normally. Take action: continue skin-to-skin and routine care, and repeat the score at 5 minutes as the Apgar requires.",
+          "This total comes from scoring HR 96 as 2. A heart rate of 2 requires more than 100/min, so 96 scores 1. The plan is right, but the score is miscalculated.",
+          "This total underscores two categories, such as a strong cry scored as 1 and acrocyanosis scored as 0. It also leads to unneeded separation from the parent, because 4–6 is the range that calls for stimulation and support."
+        ]
+      },
+      {
+        "stem": "The nurse reviews assessments on four term newborns. Which finding requires follow-up?",
+        "options": [
+          "A 1-hour-old who is crying vigorously with an apical heart rate of 172/min",
+          "A 3-hour-old in deep sleep with a heart rate of 102/min, pink color, and good tone",
+          "A 4-hour-old resting quietly with a respiratory rate of 72/min and nasal flaring",
+          "A 2-hour-old with irregular respirations of 48/min that include 8-second pauses"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Heart rate is judged against the baby's state. Newborns can reach 170+ while crying, so a crying 1-hour-old at 172 is expected. Recount when the newborn is calm.",
+          "In deep sleep, heart rate can fall toward ~70–100. A pink, well-toned, sleeping newborn at 102 needs a recheck when awake, not escalation.",
+          "CJMM — Recognize cues: RR 72 with nasal flaring in a resting 4-hour-old. Analyze cues: the normal RR at rest is 30–60/min. Rates up to 60–80 are expected only in the first period of reactivity (0–30 minutes), and nasal flaring is a slide 5 problem sign at any rate. Prioritize hypotheses: tachypnea plus flaring at rest, after the first period of reactivity, points to respiratory distress (TTN, cold stress, hypoglycemia, or sepsis). Take action: assess SpO2, temperature, and glucose, and notify the provider.",
+          "Irregular, periodic breathing with short pauses is normal in a newborn. Apnea is a pause longer than 20 seconds, and an RR of 48 is within 30–60."
+        ]
+      },
+      {
+        "stem": "A parent of a 2-day-old says, “When she screams, the soft spot on top of her head puffs up. Is something wrong with her brain?” When the newborn is calm, the nurse palpates a soft, flat, diamond-shaped anterior fontanel about 4 cm across. Which response is best?",
+        "options": [
+          "“The soft spot can bulge briefly while she cries. It is flat now that she is calm, which is what we want to see.”",
+          "“Bulging can be a sign of pressure in the brain, so I will let the provider know so she can be evaluated today.”",
+          "“That is expected, but I will measure her head circumference every 4 hours to make sure it is not growing.”",
+          "“That soft spot usually closes in 2 to 3 months, so the bulging will stop happening once it closes.”"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the fontanel bulges only during crying and is soft and flat at rest. Analyze cues: crying raises intracranial pressure briefly, and that is a normal response. A fontanel that is bulging and tense at rest (↑ICP) or sunken (dehydration) is what must be reported. Generate solutions: the fontanel was assessed in the correct state (calm), and it is normal. Take action: reassure the parent and explain how to tell normal from abnormal.",
+          "This misreads the cue. Only a fontanel that is bulging at rest suggests increased ICP. Escalating a normal crying response creates alarm and is not supported by the assessment.",
+          "Serial head measurements every 4 hours are not indicated for a normal finding. This plan treats an expected finding as a possible problem.",
+          "This describes the posterior fontanel, which closes at about 2–3 months. The anterior fontanel closes at 12–18 months, so the reassurance is factually wrong."
+        ]
+      },
+      {
+        "stem": "A 14-hour-old born by vacuum-assisted birth has a firm swelling over the right parietal bone that stops at the suture line. The swelling was not present at birth. Which nursing action is most important to include in the plan of care?",
+        "options": [
+          "Teach the parents that the swelling is scalp edema that will be gone within about 48 hours",
+          "Apply a cool compress to the swelling for 15 minutes every 2 hours to reduce its size",
+          "Assess the skin and sclera closely for jaundice and monitor bilirubin as prescribed",
+          "Notify the provider so the collection can be aspirated before it hardens"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This describes caput succedaneum. A cephalohematoma lasts weeks to months, so this teaching sets a false expectation and misses the bilirubin risk.",
+          "Compresses are not part of cephalohematoma care, and they do not prevent the bilirubin load from the blood breaking down.",
+          "CJMM — Recognize cues: a firm swelling that does not cross the suture line and appeared hours after a vacuum birth. Analyze cues: these features fit a cephalohematoma (blood under the periosteum), not caput succedaneum (soft edema that crosses sutures and is present at birth). Prioritize hypotheses: as the trapped blood breaks down it adds a bilirubin load, so jaundice is the main risk. Take action: monitor closely for jaundice and track bilirubin. The swelling itself resolves over weeks to months.",
+          "A cephalohematoma is not drained. It reabsorbs on its own, and aspiration adds a risk of infection. The trap is “caput requires drainage”; neither swelling is drained."
+        ]
+      },
+      {
+        "stem": "A newborn has molding of the skull and a caput succedaneum after a long second stage of labor. The nurse explains both findings. Which parent statement indicates a need for further teaching?",
+        "options": [
+          "“The pointed shape of his head should round out over the next few days.”",
+          "“The puffy area crosses the lines between his skull bones, and it should go down in about 2 days.”",
+          "“If the puffy area isn't smaller by tomorrow, he will need to have it drained.”",
+          "“I can touch and gently wash his head the way I normally would.”"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This statement is correct. Molding from overlapping skull bones after a vaginal birth resolves in days.",
+          "This statement is correct. Caput crosses suture lines and is usually gone in about 48 hours.",
+          "CJMM — Evaluate outcomes: the parent believes caput needs drainage, which is the exact trap on the study guide. Analyze cues: caput succedaneum is soft-tissue edema that crosses suture lines and resolves in about 48 hours (2–3 days after a vacuum). It is never drained. Take action: correct the misunderstanding and explain that the swelling reabsorbs on its own.",
+          "This statement is correct. Molding and caput are benign, and normal gentle handling and washing are fine."
+        ]
+      },
+      {
+        "stem": "During the admission assessment of a 6-hour-old, the nurse notes several flat, blue-gray patches over the sacrum and buttocks. The newborn is pink, feeding well, and the birth was uncomplicated. Which action should the nurse take?",
+        "options": [
+          "Notify the provider to request coagulation studies and a platelet count",
+          "Document the size, location, and color of each patch in the newborn record",
+          "Report the patches as possible bruising according to the facility's child-protection policy",
+          "Reassure the parents and leave the patches out of the record because they are benign"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Widespread non-blanching petechiae would raise concern about platelets. Flat blue-gray patches in a well newborn are a benign pigment finding, so labs treat a normal variant as a problem.",
+          "CJMM — Recognize cues: flat, blue-gray patches on the sacrum and buttocks in a well newborn. Analyze cues: this is congenital dermal melanocytosis, a benign variation that is common in darker skin. Generate solutions: the nursing risk is that a later caregiver mistakes it for bruising. Take action: document the size, location, and color carefully so the record shows the patches were present at birth.",
+          "This is the trap (“blue-gray patches = abuse”). The patches were present at birth in a newborn who has had no opportunity to be injured. Reporting them misreads the cue and harms the family.",
+          "Reassurance is appropriate, but leaving the patches out of the record removes the protection that documentation provides against later misidentification as abuse."
+        ]
+      },
+      {
+        "stem": "The nurse assesses an 18-hour-old newborn. Which findings require follow-up? Select all that apply.",
+        "options": [
+          "Yellow tint to the face and sclera",
+          "Red blotches with small white-yellow papules on the trunk that come and go",
+          "Widespread non-blanching pinpoint red spots on the trunk and abdomen",
+          "Bluish lips and tongue while quietly alert",
+          "Tiny white papules across the nose and chin",
+          "A flat pink patch on the nape of the neck that darkens with crying"
+        ],
+        "answer": [
+          0,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—jaundice that appears before 24 hours is pathologic (hemolysis or sepsis) and must be reported.",
+          "Incorrect—this is erythema toxicum neonatorum, a benign rash that comes and goes and needs no treatment or isolation.",
+          "Correct—a few petechiae on the presenting part are expected, but widespread non-blanching spots suggest infection or low platelets.",
+          "Correct—central cyanosis of the lips and tongue indicates hypoxemia, unlike acrocyanosis of the hands and feet.",
+          "Incorrect—these are milia (blocked sebaceous glands), which are benign and resolve in weeks. Parents should not squeeze them.",
+          "Incorrect—this is a stork bite (salmon patch), which blanches, darkens with crying, and fades by about 1–2 years."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A parent holding their 1-hour-old says, “His hands and feet are blue. Is he not getting enough oxygen?” The nurse notes pink lips, tongue, and trunk, RR 52/min, and HR 146/min. Which response is best?",
+        "options": [
+          "“I'll apply oxygen by blow-by until his hands and feet turn pink.”",
+          "“I'll place him under the radiant warmer until his hands and feet turn pink.”",
+          "“I'll let the provider know about the color change so he can be checked.”",
+          "“Blue hands and feet are common for the first day or two. His lips and chest are pink, which shows he is oxygenating well.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Oxygen treats hypoxemia, and central color and vital signs show none. Giving it would treat a normal finding (the trap “blue hands and feet at 1 hour = hypoxia”).",
+          "Acrocyanosis is not cold stress, and the temperature has not been found to be low. Removing the baby from skin-to-skin interrupts a better way to keep him warm and help him feed.",
+          "Notifying the provider about an expected finding with normal central color and vital signs escalates unnecessarily. Teaching the parent is what is needed.",
+          "CJMM — Recognize cues: blue hands and feet with pink lips, tongue, and trunk, and normal RR and HR. Analyze cues: this is acrocyanosis, an expected finding for 24–48 hours caused by immature peripheral circulation. Central color (lips, tongue, trunk) shows oxygenation. Prioritize hypotheses: there is no hypoxemia. Take action: reassure and teach the parent how to tell acrocyanosis from central cyanosis, and continue skin-to-skin."
+        ]
+      },
+      {
+        "stem": "A breastfed newborn weighed 3,450 g at birth and weighs 3,070 g on day 3. How should the nurse interpret this finding?",
+        "options": [
+          "About an 11% loss, more than expected; assess the feeding and notify the provider",
+          "About a 9% loss, within the expected range; continue the current feeding plan",
+          "About an 11% loss, expected in the first week; recheck the weight at the 2-week visit",
+          "About a 12% loss, more than expected; begin formula supplements before assessing the feeding"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: birth weight 3,450 g, current weight 3,070 g. Analyze cues: 3,450 − 3,070 = 380 g, and 380 ÷ 3,450 ≈ 0.11, or 11%. Term newborns normally lose 5–10% in the first week (low intake, fluid shifts, insensible loss), so more than 10% calls for evaluation. Take action: observe a feeding (latch, audible swallowing), count diapers, and notify the provider for a feeding plan.",
+          "This is a calculation error. The loss is 11%, not 9%, so continuing as usual misses inadequate intake.",
+          "The math is right, but the interpretation is wrong. Loss above 10% is not expected and needs evaluation now, not at 2 weeks.",
+          "The percentage is wrong, and supplementing before assessing the feeding skips Analyze cues. The cause of the poor intake (for example, latch) has to be found first."
+        ]
+      },
+      {
+        "stem": "The nurse completes anthropometric measurements on four term newborns. Which finding should the nurse report?",
+        "options": [
+          "Weight 3,900 g, length 52 cm",
+          "Head circumference 34 cm, chest circumference 32 cm",
+          "Length 47 cm, weight 2,650 g",
+          "Head circumference 30 cm, chest circumference 32 cm"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Weight (2,500–4,000 g) and length (45–55 cm) are both within normal term ranges. More than 4,000 g would be macrosomia.",
+          "This is the expected relationship: HC is in range and about 2 cm larger than the chest.",
+          "Both values are low-normal but within range (length 45–55 cm, weight at least 2,500 g).",
+          "CJMM — Recognize cues: HC 30 cm, smaller than the chest at 32 cm. Analyze cues: a normal term HC is 32–38 cm and about 2 cm larger than the chest. A head below the normal range and smaller than the chest suggests microcephaly. Take action: report it for further evaluation."
+        ]
+      },
+      {
+        "stem": "A 4,300-g newborn was delivered after a shoulder dystocia. When the nurse elicits the Moro reflex, the left arm extends and abducts, but the right arm stays limp at the side. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "The reflex is still immature in the first 24 hours, so the nurse should retest after the next feeding",
+          "The newborn may have a brachial plexus injury or a clavicle fracture, so the nurse should report the finding",
+          "The newborn is in a quiet sleep state, so the nurse should rouse the infant fully and retest",
+          "The finding reflects normal newborn hypotonia, so the nurse should document it and reassess at discharge"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The Moro is present and symmetric in a healthy term newborn at birth. Delaying the report postpones evaluation of a likely injury.",
+          "CJMM — Recognize cues: an asymmetric Moro after a shoulder dystocia in a macrosomic newborn. Analyze cues: slide 12 stresses that observing spontaneous movement and symmetry is critical to the neurologic exam. A one-sided Moro points to a brachial plexus injury or clavicle fracture. Prioritize hypotheses: birth injury is the leading explanation given the history. Take action: limit movement of the arm, assess the clavicle, and notify the provider.",
+          "State affects how strong the response is, but it does not explain one limp arm while the other moves fully. This misreads the cue.",
+          "Generalized hypotonia (a flaccid posture) would be a slide 5 problem sign, not a normal finding, and one-sided weakness is not hypotonia. Documenting and waiting misses an injury."
+        ]
+      },
+      {
+        "stem": "The nurse reviews skin findings with the parents of a 2-day-old. Which statement indicates a need for further teaching?",
+        "options": [
+          "“The tiny white bumps on her nose will clear on their own, so I won't squeeze them.”",
+          "“The blotchy red rash that moves around is harmless and doesn't need any cream.”",
+          "“The flat, dark red-purple mark on her cheek will fade like the pink patch on her neck.”",
+          "“The pink patch on the back of her neck may look darker when she cries.”"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This statement is correct. Milia are benign blocked sebaceous glands that resolve in weeks and should not be squeezed.",
+          "This statement is correct. Erythema toxicum is benign, transient, and needs no treatment or isolation.",
+          "CJMM — Evaluate outcomes: the parent has confused a nevus flammeus (port-wine stain) with a stork bite. Analyze cues: a port-wine stain is flat, dark red-purple, does not blanch, and is permanent. On the face it warrants evaluation (Sturge-Weber, reference). A stork bite fades by about 1–2 years. Take action: correct the teaching and reinforce follow-up for the facial mark.",
+          "This statement is correct. Stork bites blanch and become more visible with crying."
+        ]
+      },
+      {
+        "stem": "Parents of a 40-minute-old exclusively breastfed newborn tell the nurse, “We want to keep things natural, so we're declining the vitamin K shot.” Which response by the nurse is best?",
+        "options": [
+          "“The shot is required before discharge, so I'll give it after your first feeding.”",
+          "“That's fine for now. We can give it at your 3- to 5-day follow-up visit if you change your minds.”",
+          "“Can you tell me what worries you about it? Babies are born without the gut bacteria that make vitamin K, so they're at risk for serious bleeding, even in the brain.”",
+          "“Since you're breastfeeding, your milk will provide protection, so I'll document that you declined.”"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Telling parents a treatment is mandatory and then giving it is coercion. It removes informed consent, which the study guide names as a trap.",
+          "Vitamin K is given within about the first hour. Deferring it to a later visit leaves the newborn unprotected during the period of risk, so this choice is unsafe.",
+          "CJMM — Recognize cues: parents declining vitamin K for an exclusively breastfed newborn, which is the higher-risk group. Analyze cues: little vitamin K crosses the placenta and the sterile newborn gut cannot make it, so clotting factors are low and vitamin K deficiency bleeding (including intracranial bleeding) can occur. Generate solutions: the study guide says to educate and explore concerns, without coercing or delaying. Take action: ask what they are worried about, teach the bleeding risk, and document their informed decision if they still decline.",
+          "This is the opposite of the facts. Breast milk is low in vitamin K, so breastfed babies are at higher risk. Documenting a refusal based on false reassurance is not informed consent."
+        ]
+      },
+      {
+        "stem": "The nurse reviews admission prescriptions for a healthy term newborn of a mother who is HBsAg negative. Which prescription should the nurse clarify with the provider?",
+        "options": [
+          "Erythromycin 0.5% ophthalmic ointment to both eyes once",
+          "Phytonadione 1 mg IM in the dorsogluteal muscle within 1 hour of birth",
+          "Hepatitis B vaccine IM in the vastus lateralis within 24 hours, after parental consent",
+          "Heel-stick newborn screen after 24 hours of feeding"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Erythromycin 0.5% to both lower conjunctival sacs is standard prophylaxis against ophthalmia neonatorum.",
+          "CJMM — Recognize cues: the vitamin K dose and timing are appropriate, but the site is dorsogluteal. Analyze cues: newborn IM injections go in the vastus lateralis (thigh). The newborn gluteal muscles are undeveloped, and that site risks sciatic nerve injury. Take action: clarify the route and site before giving the dose so the vitamin K is still given within the first hour.",
+          "Hepatitis B vaccine IM in the thigh within 24 hours, with consent, is appropriate. HBIG is added only when the mother is HBsAg positive.",
+          "The screen is drawn after 24 hours of feeding so that PKU results are accurate. This timing is correct."
+        ]
+      },
+      {
+        "stem": "The nurse teaches a breastfeeding parent about the newborn's vitamin K injection. Which statement indicates a need for further teaching?",
+        "options": [
+          "“The shot helps her blood clot because her gut can't make vitamin K yet.”",
+          "“Because I'm breastfeeding, it's even more important that she gets it.”",
+          "“The shot also keeps her from getting yellow skin in the first week.”",
+          "“It protects her from serious bleeding, including bleeding in the brain.”"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This statement is correct. The sterile newborn gut has no bacteria to make vitamin K.",
+          "This statement is correct. Breast milk is low in vitamin K, so breastfed infants are at higher risk.",
+          "CJMM — Evaluate outcomes: the parent thinks vitamin K prevents jaundice, which is a study-guide trap. Analyze cues: vitamin K supports the liver's production of clotting factors (II, VII, IX, X) to prevent vitamin K deficiency bleeding. It has no effect on bilirubin. Take action: clarify that jaundice is managed with frequent feeding and phototherapy when indicated.",
+          "This statement is correct. Vitamin K deficiency bleeding can include intracranial hemorrhage."
+        ]
+      },
+      {
+        "stem": "A 10-minute-old term newborn is skin-to-skin, rooting, and beginning to latch for the first breastfeed. The nurse has erythromycin ophthalmic ointment and vitamin K prescribed. Which plan is best?",
+        "options": [
+          "Instill the eye ointment now, before the latch, so that it does not blur vision during bonding",
+          "Hold both medications until after the first bath so the skin is clean for the injection",
+          "Leave out the eye ointment because the mother's prenatal STI screening was negative",
+          "Allow uninterrupted skin-to-skin and the first breastfeed, then give the eye ointment and the vitamin K"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Interrupting the first latch for the ointment is unnecessary. The ointment blurs the newborn's vision during the bonding period it is meant to protect, so the reasoning is backward.",
+          "Tying the medications to the first bath could delay vitamin K beyond about the first hour. A bath is not an immediate intervention and risks cold stress.",
+          "The ointment is prescribed to prevent ophthalmia neonatorum (gonorrhea or chlamydia). The nurse does not leave out a prescribed medication on their own judgment, and a negative screen does not rule out infection acquired after the screen.",
+          "CJMM — Recognize cues: an alert newborn latching in the first period of reactivity, with two prescribed medications. Analyze cues: eye prophylaxis can wait until after the first breastfeed and bonding, and vitamin K is given within about the first hour. Generate solutions: protecting the first feed supports breastfeeding, glucose, and temperature without compromising either medication. Take action: complete the feed, then give both medications on time."
+        ]
+      },
+      {
+        "stem": "The nurse reviews safe sleep with the parents of a 2-day-old before discharge. Which statement indicates a need for further teaching?",
+        "options": [
+          "“I'll put him on his back for every sleep, even though he spits up.”",
+          "“I'll keep his bassinet in our room, next to our bed.”",
+          "“I'll put padded bumpers in the crib so he doesn't hit his head on the slats.”",
+          "“I'll keep the crib empty, with no pillows, blankets, or stuffed animals.”"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This statement is correct. Healthy babies clear spit-up when they are on their backs; placing them on the tummy after feeds is a trap.",
+          "This statement is correct. Room-sharing without bed-sharing is recommended.",
+          "CJMM — Evaluate outcomes: bumpers are soft objects in the sleep space, which is a suffocation and SIDS risk and a named trap. Analyze cues: the safe sleep ABCs are Alone, on the Back, in a Crib with a firm flat surface and nothing in it. Take action: correct the plan and explain that a bare crib is the safest.",
+          "This statement is correct. A bare crib with no pillows, blankets, or toys is recommended."
+        ]
+      },
+      {
+        "stem": "A parent of a 3-day-old says, “I'm exhausted from the night feeds. I'll just hold her on the couch so we can both doze off.” Which response by the nurse is best?",
+        "options": [
+          "“Falling asleep with her on a couch or recliner is very risky. When you feel drowsy, put her on her back in her bassinet.”",
+          "“That's fine as long as you put pillows on both sides of you so she can't roll off.”",
+          "“Swaddle her snugly first so she stays in one position while you both sleep.”",
+          "“A recliner is safer than a couch because it keeps her upright against your chest.”"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: an exhausted parent planning to sleep holding the newborn on a couch. Analyze cues: sleeping with an infant on a couch or recliner is one of the highest-risk sleep situations (entrapment, suffocation), and fatigue raises the risk further. Generate solutions: give a concrete, safe alternative. Take action: teach the parent to move the baby to a separate safe surface, on her back, whenever they feel drowsy.",
+          "Pillows add soft-bedding suffocation risk and do not make couch sleeping safe. This is the trap “bed-sharing is safe with pillows around the baby.”",
+          "Swaddling does not address the danger of couch sleeping, and Safe Sleep Seven specifically excludes swaddling during shared sleep (overheating).",
+          "Recliners are named alongside couches as unsafe sleep surfaces. Being upright does not prevent the infant from slumping or becoming entrapped."
+        ]
+      },
+      {
+        "stem": "A breastfeeding couple tells the nurse they plan to bedshare with their newborn. The nurse reviews the Safe Sleep Seven. Which details mean their plan does NOT meet the criteria? Select all that apply.",
+        "options": [
+          "The partner usually has 2 glasses of wine with dinner",
+          "They plan to swaddle the baby snugly in the bed",
+          "The baby was born at 34 weeks and is still in the special care nursery",
+          "The mother is exclusively breastfeeding",
+          "The baby will be placed on the back",
+          "They have a firm mattress with pillows kept away from the baby"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—both adults must be sober, and alcohol impairs arousal.",
+          "Correct—“no sweat” means light clothing and no swaddling during bedsharing.",
+          "Correct—the criteria require a healthy full-term baby, and a 34-week infant does not qualify.",
+          "Incorrect—breastfeeding is one of the seven criteria, so this meets it.",
+          "Incorrect—baby on back meets a criterion.",
+          "Incorrect—a firm surface without pillows near the baby meets the safe-surface criterion."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "On day 5, the nurse at the follow-up visit evaluates whether a breastfed newborn is feeding adequately. Which finding best indicates that breastfeeding is effective?",
+        "options": [
+          "Four wet diapers and two green stools a day, and the baby sleeps 5-hour stretches",
+          "Six pale wet diapers and three yellow, seedy stools a day, with audible swallowing during feeds",
+          "Ten feeds a day, but dark urine with orange-red crystals in the diaper",
+          "Content after feeds, but weight is 11% below birth weight"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Fewer than 6 wet diapers and stools that are still transitional green by day 5 suggest low intake. Long sleep stretches can be a sign of an underfed, sleepy baby, not a well-fed one.",
+          "CJMM — Evaluate outcomes: by about day 5, adequate intake is shown by at least 6 wet diapers with pale urine, 2–5 yellow stools a day, audible swallowing, and contentment after feeds. Analyze cues: every indicator in this option is met, with no leftover problem. Take action: reinforce feeding 8–12 times a day and continue weight checks.",
+          "Frequent feeds do not guarantee intake. Dark urine with brick-dust urate crystals after day 3 suggests dehydration, so the outcome is not met.",
+          "Contentment is reassuring, but a loss greater than 10% exceeds the expected 5–10% and needs evaluation. One leftover abnormal finding means the outcome is not met."
+        ]
+      },
+      {
+        "stem": "The nurse teaches a first-time parent about breastfeeding in the first week. Which statement indicates a need for further teaching?",
+        "options": [
+          "“I should breastfeed about 8 to 12 times every 24 hours.”",
+          "“By day 5 I should be changing at least 6 wet diapers a day.”",
+          "“I should be able to hear him swallowing while he nurses.”",
+          "“If he loses any weight this week, my milk isn't enough and I should switch to formula.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This statement is correct. Breastfed newborns feed 8–12 times a day.",
+          "This statement is correct. At least 6 wet diapers by about day 5 indicates adequate intake.",
+          "This statement is correct. Audible swallowing is a sign of effective milk transfer.",
+          "CJMM — Evaluate outcomes: the parent believes any weight loss means breastfeeding has failed. Analyze cues: term newborns normally lose 5–10% of birth weight in the first week because of low early intake, fluid shifts, and insensible loss. Loss above 10% is what needs evaluation. Take action: correct the misconception, which could otherwise lead to stopping breastfeeding without need."
+        ]
+      },
+      {
+        "stem": "A term newborn is being discharged at 20 hours of age, and the heel-stick newborn screen was drawn at 18 hours. Breastfeeding began at 1 hour of age. Which action by the nurse is correct?",
+        "options": [
+          "Teach the parents that the screen must be repeated after the baby has fed for at least 24 hours, and confirm where it will be drawn",
+          "Hold the discharge until 24 hours of age so the screen can be drawn again in the hospital",
+          "Reassure the parents that the result is valid because breastfeeding started within the first hour",
+          "Tell the parents a repeat screen is needed only if the baby develops poor feeding or jaundice"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the screen was drawn before 24 hours of feeding. Analyze cues: PKU screening depends on protein intake, so a sample taken before 24 hours of feeding can give a false negative and must be repeated. Generate solutions: the family can still be discharged as long as the repeat is arranged. Take action: teach why the repeat is needed and confirm the plan for it, such as at the 3–5 day visit.",
+          "At 24 hours of age this baby has fed for only 23 hours. Holding the discharge also adds a stay that is not needed when an outpatient repeat solves the problem.",
+          "Starting breastfeeding early does not make an 18-hour sample valid. The requirement is at least 24 hours of feeding, and accepting this result is the trap “one screen at 12 hours is enough.”",
+          "Conditions like PKU and hypothyroidism are silent in newborns. Waiting for symptoms defeats the purpose of screening."
+        ]
+      },
+      {
+        "stem": "Before discharge at 36 hours of age, a parent says, “Our first pediatric appointment is when she's 2 weeks old.” The newborn is breastfeeding and has mild facial jaundice. Which response by the nurse is best?",
+        "options": [
+          "“That works as long as she has at least 6 wet diapers a day.”",
+          "“Let's call the office together to move the visit to when she's 3 to 5 days old so her weight and jaundice can be checked.”",
+          "“That's fine. Call the office if her yellow color spreads down to her legs before then.”",
+          "“You can bring her to your own 6-week checkup so you can both be seen at once.”"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Diaper counts are useful teaching, but a 6-wet-diaper target does not apply on days 1–3, and counting diapers cannot measure bilirubin or weight. The follow-up visit is still too late.",
+          "CJMM — Recognize cues: a 2-week first visit for a breastfed newborn who already has jaundice. Analyze cues: slide 21 calls for an infant follow-up at 3–5 days of life, when bilirubin peaks (days 3–5) and feeding and weight problems appear. Take action: arrange a visit in that window rather than rely only on parent observation.",
+          "Teaching warning signs is appropriate, but parents often underestimate jaundice. Relying on them alone replaces a scheduled 3–5 day visit with a correct-but-not-enough plan.",
+          "Combining with the mother's 6-week visit is a named trap. It misses the jaundice and weight-loss window completely."
+        ]
+      },
+      {
+        "stem": "The nurse teaches parents which newborn findings to report to the provider after discharge. Which findings should the parents report? Select all that apply.",
+        "options": [
+          "Axillary temperature of 36.1 °C (97.0 °F)",
+          "Only 3 wet diapers on day 5",
+          "Yellow skin spreading to the abdomen, and the baby is hard to wake for feeds",
+          "Black, sticky stool on the first day of life",
+          "Tiny white bumps across the nose",
+          "Breathing that is irregular with short pauses during sleep"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—a temperature below 36.5 °C is abnormal and in a newborn can signal sepsis.",
+          "Correct—fewer than 6 wet diapers by day 5 means inadequate intake or dehydration.",
+          "Correct—jaundice that is spreading together with lethargy suggests rising bilirubin and kernicterus risk.",
+          "Incorrect—black, tarry meconium is the expected first stool.",
+          "Incorrect—milia are benign and resolve on their own.",
+          "Incorrect—irregular, periodic breathing with short pauses is normal. Pauses longer than 20 seconds, grunting, or retractions would be reportable."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A newborn is 2 hours old. The mother's prenatal labs show she is HBsAg positive. Which plan should the nurse anticipate?",
+        "options": [
+          "Hepatitis B vaccine before discharge, and HBIG only if the newborn's own HBsAg test is positive",
+          "HBIG within 12 hours of birth, with the hepatitis B vaccine deferred to the 2-month visit",
+          "Hepatitis B vaccine and HBIG, both given IM within 12 hours of birth, after parental consent",
+          "Hold both until the mother's viral load returns, to decide whether the newborn needs them"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Waiting for the newborn's own test result misses the 12-hour window in which HBIG prevents infection. HBIG is given because of the exposure, not because of a positive result.",
+          "HBIG without the vaccine gives only short-term passive protection. Exposed newborns need the vaccine at birth too.",
+          "CJMM — Recognize cues: a newborn exposed to an HBsAg-positive mother. Analyze cues: routine care is the hepatitis B vaccine within 24 hours, and an exposed newborn also needs HBIG within 12 hours. Generate solutions: active plus passive immunization gives the best protection against perinatal transmission. Take action: obtain consent and give both IM in the thigh, using separate thighs (standard practice), within 12 hours.",
+          "Waiting for maternal labs delays treatment beyond 12 hours. The HBsAg-positive result alone is the indication."
+        ]
+      },
+      {
+        "stem": "A parent calls about their 8-day-old: “The cord stump is black, dry, and hanging by a thread. It looks like it's bothering him. Can I just pull it off?” There is no redness, drainage, or odor. Which response by the nurse is best?",
+        "options": [
+          "“Yes, gently twist it off with clean hands if it is barely attached.”",
+          "“Cover it with a small gauze pad so it doesn't catch on his diaper.”",
+          "“Clean the base with rubbing alcohol at each diaper change until it falls off.”",
+          "“Leave it alone. It will fall off by itself. Keep folding the diaper below it.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is the exact trap “gently pull it off once it's loose.” Slide 19 says never pull or try to loosen the cord.",
+          "Covering the stump traps moisture and slows drying. The teaching is to expose it to air as much as possible.",
+          "Routine alcohol is not needed (reference). Clean with plain water only if it is soiled, then dry well. This adds an unnecessary step.",
+          "CJMM — Recognize cues: a dry, black stump that is almost detached, with no signs of infection. Analyze cues: yellow, then brown, then black is normal drying. The stump is never pulled or loosened, because that can cause bleeding and open a portal for infection. Take action: reassure the parent, tell them to leave it alone, and continue air exposure with the diaper folded below the stump."
+        ]
+      },
+      {
+        "stem": "The nurse in a pediatric clinic receives four phone messages. Which newborn should the nurse arrange to be seen first?",
+        "options": [
+          "A 4-day-old circumcised 2 days ago with a soft yellowish film over the glans",
+          "A 7-day-old with a dry, black cord stump and a few drops of dried blood near the base after it separated",
+          "A 6-day-old whose cord base is red, swollen, and foul-smelling, and who has been feeding poorly since this morning",
+          "A 5-day-old who has had sponge baths only, whose stump has turned from brown to black"
+        ],
+        "answer": 2,
+        "explanations": [
+          "A yellowish film by day 2 after circumcision is normal granulation tissue. Expected healing is not urgent.",
+          "A dry, black stump is normal. A few drops of dried blood at separation is a minor finding to check, but it is not urgent compared with a cluster of infection signs and poor feeding.",
+          "CJMM — Recognize cues: redness, swelling, and foul odor at the cord base, plus a change in behavior (poor feeding). Analyze cues: these are signs of omphalitis that slide 19 says to report immediately. Poor feeding raises concern for spreading infection, because newborn sepsis is subtle. Prioritize hypotheses: local infection with possible systemic spread is the most urgent problem. Take action: arrange same-day evaluation now.",
+          "Brown to black is normal drying, and sponge bathing is correct care. Nothing here needs urgent evaluation."
+        ]
+      },
+      {
+        "stem": "The nurse teaches umbilical cord care to the parents of a 1-day-old. Which statement indicates a need for further teaching?",
+        "options": [
+          "“We'll give sponge baths until the cord falls off and the area heals.”",
+          "“We'll keep the stump covered with a bandage so it stays clean.”",
+          "“We'll fold the top of the diaper down below the stump.”",
+          "“We'll call the doctor if we see redness, drainage, or a bad smell.”"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This statement is correct. Tub baths are avoided until the cord has fallen off and the area has healed.",
+          "CJMM — Evaluate outcomes: the parents plan to cover the stump. Analyze cues: covering traps moisture and contamination. The stump should be exposed to air as much as possible to dry and separate. Take action: reteach air exposure with the diaper folded below the cord, and explain why.",
+          "This statement is correct. Folding the diaper below the stump prevents contamination and promotes air-drying.",
+          "This statement is correct. Bleeding, redness, drainage, or foul odor are reported immediately."
+        ]
+      },
+      {
+        "stem": "A newborn had a circumcision with a petroleum gauze dressing 7 hours ago. The diaper has been dry since the procedure, the glans is swollen, and the infant is fussy. Which action should the nurse take?",
+        "options": [
+          "Offer a feeding and recheck the diaper in 4 hours, because intake drives urine output",
+          "Assess the dressing and swelling for obstruction and notify the provider that the infant has not voided",
+          "Document the finding as expected, because the first void after circumcision can take up to 24 hours",
+          "Apply more petroleum jelly to the swollen area and fasten the diaper loosely"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Feeding supports output, but waiting another 4 hours delays the response to a possible obstruction that is already overdue.",
+          "CJMM — Recognize cues: no void 7 hours after circumcision, with a swollen glans and a fussy infant. Analyze cues: confirming the first void is one of the two post-circumcision priorities, because swelling or a dressing can obstruct urine flow. No wet diaper in 6–8 hours is reportable. Prioritize hypotheses: urinary obstruction. Take action: assess the site for obstruction and notify the provider.",
+          "This confuses the first void after birth with voiding after circumcision. The site-specific expectation is a void within 6–8 hours, so documenting it as normal misses obstruction.",
+          "Petroleum jelly and a loose diaper are correct routine care, but they do not address a dry diaper and possible obstruction. It is the right action at the wrong priority."
+        ]
+      },
+      {
+        "stem": "Thirty minutes after a circumcision, the nurse finds fresh, bright red blood actively oozing from the site and a spot on the diaper larger than a quarter. Which action should the nurse take first?",
+        "options": [
+          "Fasten the diaper more snugly to apply pressure to the site",
+          "Apply a thick layer of petroleum jelly to seal the incision",
+          "Apply gentle pressure with sterile gauze, then notify the provider",
+          "Remove the gauze dressing and rinse the site to see where the blood is coming from"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Tightening the diaper is a named trap. It does not give controlled hemostasis, and it can harm the healing tissue and hide continued bleeding.",
+          "Petroleum jelly keeps the site from sticking to the diaper. It is not a hemostatic agent.",
+          "CJMM — Recognize cues: active bright red bleeding, larger than a quarter-sized spot. Analyze cues: a few drops are expected, but active bleeding is a complication, and a newborn's small blood volume makes even modest loss significant. Take action: apply gentle pressure with sterile gauze first, then notify the provider. Evaluate outcomes: reassess the site and diaper for continued bleeding.",
+          "Removing the dressing and rinsing disrupts any clot that is forming and delays direct pressure."
+        ]
+      },
+      {
+        "stem": "On day 2 after circumcision, the nurse reviews home care with a parent. Which statement indicates a need for further teaching?",
+        "options": [
+          "“I'll put Vaseline on the area with every diaper change.”",
+          "“I'll fasten his diaper loosely so it doesn't rub.”",
+          "“It should be healed in about 10 days.”",
+          "“I'll gently wash the yellow crust off with soap at each change so it doesn't get infected.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This statement is correct. Vaseline or Neosporin at each change keeps the site from sticking to the diaper.",
+          "This statement is correct. Careful, loose diapering avoids pressure on the site.",
+          "This statement is correct. Slide 20 says the site heals within about 10 days.",
+          "CJMM — Evaluate outcomes: the parent plans to scrub off the yellow crust. Analyze cues: the yellowish exudate that forms by about day 2 is normal granulation tissue. Removing it disrupts healing, and it is a named trap. Take action: teach the parent to leave the crust in place and to report pus, increasing redness, swelling, fever, or bleeding."
+        ]
+      },
+      {
+        "stem": "The nurse evaluates a newborn 4 hours after circumcision. Which finding best indicates that the infant is ready for discharge from a circumcision standpoint?",
+        "options": [
+          "Passed a large meconium stool and breastfed for 20 minutes",
+          "Slept quietly for 3 hours and has a temperature of 36.8 °C",
+          "Has a soft yellowish film forming on the glans and is calm",
+          "Has voided a full wet diaper, and the gauze shows no active bleeding"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Passing meconium is the named trap (“passing meconium is the key discharge criterion”). Stool says nothing about voiding or bleeding at the circumcision site.",
+          "Quiet sleep and a normal temperature are reassuring overall, but they do not confirm a void or the absence of bleeding.",
+          "The yellow film is normal granulation that forms by about day 2. It is not expected at 4 hours, and it does not show voiding or hemostasis.",
+          "CJMM — Evaluate outcomes: the two post-circumcision priorities on slide 20 are the first void and the absence of bleeding. Analyze cues: a full wet diaper confirms there is no urinary obstruction, and dry gauze confirms hemostasis. Both outcomes are met, so the circumcision-specific criteria for discharge are satisfied."
+        ]
+      },
+      {
+        "stem": "The nurse prepares discharge teaching for parents of a newborn who has an umbilical cord stump and a new circumcision. Which instructions should the nurse include? Select all that apply.",
+        "options": [
+          "Give sponge baths until the cord falls off and the area heals",
+          "Leave the cord stump open to air as much as possible",
+          "Apply petroleum jelly to the circumcision site with each diaper change",
+          "Clean the cord stump with rubbing alcohol several times a day",
+          "Wash off the yellowish crust on the circumcision site with soap",
+          "Call the provider if there is no wet diaper within 6 to 8 hours after the circumcision"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—tub baths are avoided until the cord has fallen off and the site has healed.",
+          "Correct—air exposure promotes drying and separation.",
+          "Correct—Vaseline or Neosporin at each change keeps the site from sticking to the diaper.",
+          "Incorrect—routine alcohol is not needed (reference). Clean with plain water if soiled and dry well.",
+          "Incorrect—the yellow crust is normal granulation tissue and should not be scrubbed off.",
+          "Correct—no void within 6–8 hours suggests obstruction and should be reported."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 2-hour-old infant of a mother with diabetes had a blood glucose of 40 mg/dL. The nurse gave dextrose gel and supported a breastfeed. The recheck 30 minutes later is 41 mg/dL, and the newborn is now limp and difficult to rouse. Which action should the nurse take?",
+        "options": [
+          "Give a second dose of dextrose gel and recheck the glucose in 30 minutes",
+          "Offer formula by bottle and recheck the glucose before the next feeding in 3 hours",
+          "Place the newborn under the radiant warmer and recheck the glucose in 1 hour",
+          "Notify the provider immediately and prepare for IV dextrose"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Repeating gel is reasonable for a low but asymptomatic value. Once the newborn is symptomatic and has failed treatment, staying with oral therapy delays the IV dextrose that is needed (the trap “keep feeding no matter how lethargic”).",
+          "A limp, hard-to-rouse newborn cannot feed safely by bottle, and waiting 3 hours to recheck is far too long.",
+          "Warmth supports glucose use, but it does not raise glucose. A 1-hour recheck delays treatment of symptomatic hypoglycemia.",
+          "CJMM — Recognize cues: glucose still below 45 mg/dL after gel and feeding, now with hypotonia and lethargy. Analyze cues: oral treatment has failed, and neurologic signs mean the brain is affected. Prioritize hypotheses: persistent, symptomatic hypoglycemia. Take action: notify the provider immediately and prepare IV dextrose, with NICU-level care. Evaluate outcomes: recheck glucose and neurologic status after the dextrose."
+        ]
+      },
+      {
+        "stem": "During the 0400 assessment, the nurse notes yellow skin on the face and upper chest of a 20-hour-old breastfed newborn. The newborn is feeding every 2–3 hours. Which action is most appropriate?",
+        "options": [
+          "Notify the provider of jaundice in the first 24 hours and anticipate a serum bilirubin level",
+          "Document physiologic jaundice and increase breastfeeding to every 2 hours",
+          "Place the bassinet near the window so that morning sunlight can reduce the bilirubin",
+          "Reassess the skin color at the next shift, because jaundice normally spreads from head to toe"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: visible jaundice at 20 hours of age. Analyze cues: physiologic jaundice appears after 24 hours and peaks on days 3–5. Jaundice before 24 hours is pathologic (ABO/Rh hemolysis, sepsis) and can rise quickly toward kernicterus risk. Prioritize hypotheses: pathologic hyperbilirubinemia. Take action: report it now and anticipate a bilirubin level and work-up.",
+          "Calling this physiologic is the trap (“jaundice at 18 hours is physiologic”). More feeding helps, but it is not enough alone and delays the work-up.",
+          "Sunlight is not a treatment, and the trap answer explicitly lists a sunny window. It risks cold stress and sunburn and does not address the cause.",
+          "A head-to-toe spread describes how jaundice progresses, but the timing is what makes it abnormal. Waiting a shift lets bilirubin rise without evaluation."
+        ]
+      },
+      {
+        "stem": "A 3-day-old is receiving phototherapy for hyperbilirubinemia. Which parent statement indicates a need for further teaching?",
+        "options": [
+          "“Her eyes need to stay covered whenever the lights are on.”",
+          "“I'll leave her in just a diaper so the light reaches as much skin as possible.”",
+          "“Loose, green stools mean the bilirubin is leaving her body.”",
+          "“I'll rub baby lotion on her skin so it doesn't dry out under the lights.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This statement is correct. Eye shields stay on whenever the lights are on, to protect the retinas.",
+          "This statement is correct. Exposing as much skin as possible (diaper only) maximizes treatment.",
+          "This statement is correct. Loose green stools are expected as bilirubin is excreted.",
+          "CJMM — Evaluate outcomes: the parent plans to apply lotion under phototherapy, which is a named “don't.” Analyze cues: lotions and oils can cause burns under the lights and interfere with treatment. Take action: correct the teaching. Skin care is keeping the skin clean and dry, repositioning, and watching for rash."
+        ]
+      },
+      {
+        "stem": "A newborn has been under phototherapy for 18 hours. Which finding requires the nurse's priority action?",
+        "options": [
+          "Loose, green stools with each diaper change",
+          "A faint, flat rash over the trunk",
+          "Two wet diapers in 12 hours, a sunken anterior fontanel, and a temperature of 37.8 °C",
+          "Fussiness when the eye shields are repositioned"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Loose green stools are an expected effect of bilirubin excretion.",
+          "A mild rash is an expected effect of phototherapy, so it needs monitoring but not priority action.",
+          "CJMM — Recognize cues: low urine output, a sunken fontanel, and a rising temperature. Analyze cues: phototherapy increases insensible water loss, and loose stools add fluid loss. A sunken fontanel signals dehydration. Prioritize hypotheses: dehydration, which also slows bilirubin excretion. Take action: increase feeding frequency, monitor I&O and temperature, and notify the provider. Evaluate outcomes: wet diapers return to the expected number and the fontanel is flat.",
+          "Fussiness with eye shields is common and needs comfort measures, not priority intervention."
+        ]
+      },
+      {
+        "stem": "A newborn born by scheduled cesarean without labor is being monitored for transient tachypnea of the newborn (TTN). Which finding should the nurse report to the provider?",
+        "options": [
+          "At 6 hours, RR has decreased from 84/min to 68/min with less grunting",
+          "At 8 hours, an increasing oxygen requirement with new subcostal retractions and bluish lips",
+          "At 4 hours, mild nasal flaring that resolves while the newborn sleeps",
+          "At 30 hours, RR 64/min with SpO2 96% on room air and good feeding"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A falling RR and less grunting is the expected improving course of TTN. This is a good outcome.",
+          "CJMM — Recognize cues: a rising oxygen requirement, new retractions, and central cyanosis. Analyze cues: TTN (retained lung fluid, common after cesarean without labor) improves over hours and resolves in 24–72 hours. Worsening over hours, a rising O2 need, and central cyanosis point to RDS, pneumonia, or sepsis. Prioritize hypotheses: a process more serious than TTN. Take action: notify the provider promptly and support oxygenation.",
+          "Intermittent flaring that resolves during sleep in a newborn who is otherwise stable fits mild, resolving transition, not deterioration.",
+          "Mild tachypnea that persists at 30 hours, with normal saturation and good feeding, is still within the 24–72 hour window for TTN to resolve."
+        ]
+      },
+      {
+        "stem": "A 2-hour-old has RR 92/min, expiratory grunting, intercostal retractions, and SpO2 91%. The provider has been notified and oxygen is prescribed. The mother asks to breastfeed now. Which action should the nurse take?",
+        "options": [
+          "Help the mother breastfeed now, because delaying the feed raises the risk of hypoglycemia",
+          "Give a small volume of formula by bottle, which takes less effort than breastfeeding",
+          "Hold oral feeding, start oxygen as prescribed, keep the newborn in a neutral thermal environment, and check the glucose",
+          "Give dextrose gel and then help the mother breastfeed, to treat both problems at once"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Early feeding normally prevents hypoglycemia, but with severe distress the aspiration risk outweighs that benefit. The rule is to hold oral feeds if distress is severe.",
+          "Bottle-feeding is still oral feeding and carries the same aspiration risk. A bottle can also deliver milk faster than a distressed newborn can handle.",
+          "CJMM — Recognize cues: RR above 90 with grunting, retractions, and low SpO2 indicates significant respiratory distress. Analyze cues: a newborn breathing this fast cannot coordinate suck, swallow, and breathe, so aspiration risk is high. Prioritize hypotheses: oxygenation comes before feeding. Generate solutions: protect the airway while still addressing glucose and warmth. Take action: hold oral feeds, give O2, keep the newborn warm, and check glucose so IV glucose can be given if needed.",
+          "Gel is given in the cheek, but it is paired here with a breastfeed the newborn cannot do safely. Glucose should be checked first, not assumed low."
+        ]
+      },
+      {
+        "stem": "A 16-hour-old's mother was GBS positive and arrived too late in labor to receive antibiotics, and her membranes were ruptured for 20 hours. The newborn has an axillary temperature of 36.1 °C, is feeding poorly, is difficult to wake, and has a blood glucose of 44 mg/dL. Which conclusion should guide the nurse's action?",
+        "options": [
+          "Cold stress is the cause; warm the newborn skin-to-skin and recheck the temperature in 1 hour",
+          "Hypoglycemia is the cause; give dextrose gel and recheck the glucose in 30 minutes",
+          "This is the expected sleepy period after the first period of reactivity; wake the newborn for feeds every 3 hours",
+          "Possible neonatal sepsis; notify the provider promptly and anticipate cultures and a CBC before IV antibiotics"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Warming is needed, but treating the low temperature as simple cold stress ignores the risk factors and the behavior change. This anchors on one cue.",
+          "Glucose support is appropriate, but hypoglycemia alone does not explain the risk history and the cluster. Treating only the number delays recognizing sepsis.",
+          "Sleepiness after the first period of reactivity is normal. A low temperature, poor feeding, and difficulty waking in a high-risk newborn are not.",
+          "CJMM — Recognize cues: a low temperature, poor feeding, lethargy, and borderline glucose in a newborn with GBS exposure without prophylaxis and ROM longer than 18 hours. Analyze cues: newborn sepsis is subtle, and the temperature is often low, not high. It can look like cold stress or hypoglycemia. Prioritize hypotheses: the risk factors plus a cluster of findings make sepsis the life-threatening explanation to act on. Take action: report early and anticipate cultures and a CBC before IV antibiotics, while supporting temperature and glucose."
+        ]
+      },
+      {
+        "stem": "The provider prescribes a blood culture, a CBC, and IV antibiotics for a newborn with suspected sepsis. IV access has just been obtained. Which action should the nurse take next?",
+        "options": [
+          "Start the IV antibiotics first, because any delay worsens outcomes in newborn sepsis",
+          "Obtain the blood culture, then start the IV antibiotics without waiting for the results",
+          "Wait for the CBC results before starting antibiotics, to confirm infection",
+          "Recheck the temperature in 1 hour to confirm instability before drawing the culture"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Speed matters, but giving antibiotics before the culture can make the culture falsely negative and remove guidance for treatment. It is the right drug at the wrong time.",
+          "CJMM — Generate solutions: cultures must be drawn before antibiotics, or the antibiotics can sterilize the sample and hide the organism. Take action: draw the blood culture, then start antibiotics right away, without waiting for results. Evaluate outcomes: a stable temperature, good feeding, and negative cultures show the treatment was effective.",
+          "Waiting for lab results delays antibiotics in a newborn whose sepsis can progress quickly. Treatment is started on clinical suspicion.",
+          "Sepsis presents subtly and the prescriptions are already in place. Waiting an hour for one more cue delays both the culture and the treatment."
+        ]
+      },
+      {
+        "stem": "The mother of a 30-hour-old had chorioamnionitis during labor. Which newborn findings are consistent with early neonatal sepsis? Select all that apply.",
+        "options": [
+          "Axillary temperature of 36.1 °C (97.0 °F)",
+          "Poor suck and falling asleep after 3 minutes at the breast",
+          "Blood glucose of 40 mg/dL",
+          "Blue hands and feet with a pink trunk",
+          "Heart rate of 152/min while crying",
+          "Increasing lethargy and difficulty waking for feeds"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—a low temperature is a typical sign of sepsis in a newborn, more common than fever.",
+          "Correct—poor feeding is an early, subtle sign of sepsis.",
+          "Correct—glucose below 45 mg/dL can accompany sepsis because of increased metabolic demand.",
+          "Incorrect—acrocyanosis is expected for 24–48 hours.",
+          "Incorrect—a heart rate of 152 is within the normal range (110–160) and can rise to 170+ with crying.",
+          "Correct—lethargy and difficulty waking are a behavior change that points to sepsis."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 2-hour-old has an axillary temperature of 36.2 °C, RR 62/min, and slight jitteriness. The newborn is in an open crib, swaddled. Which action should the nurse take first?",
+        "options": [
+          "Place the newborn skin-to-skin with a parent, with a dry hat and a warm blanket over both, and check the blood glucose",
+          "Give a warm bath to bring the temperature up quickly, then dress and swaddle the newborn",
+          "Place the newborn under the radiant warmer and recheck the temperature in 1 hour",
+          "Add a second blanket and offer a feeding at the next scheduled time in 2 hours"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: temperature below 36.5 °C, mild tachypnea, and jitteriness. Analyze cues: a cold newborn burns brown fat, which uses oxygen and glucose, so cold stress drives hypoglycemia and respiratory distress. Jitteriness suggests glucose is already falling. Generate solutions: warm the newborn and check glucose at the same time. Take action: skin-to-skin with a hat and blankets, and a glucose check now.",
+          "A bath is a named trap. Evaporative heat loss from wet skin worsens cold stress.",
+          "The warmer addresses the temperature, but it misses the jitteriness cue (possible hypoglycemia), and the 1-hour recheck delays assessment. This skips Analyze cues.",
+          "More blankets help only a little, and waiting 2 hours to feed a jittery, cold newborn risks worsening hypoglycemia."
+        ]
+      },
+      {
+        "stem": "The nurse receives report on four newborns. Which newborn should the nurse assess first?",
+        "options": [
+          "A 25-minute-old who is alert and rooting, with HR 168/min and RR 66/min",
+          "A 4-hour-old in deep sleep with RR 40/min that includes 10-second pauses",
+          "A 2-hour-old infant of a mother with diabetes who is jittery, has a weak suck, and feels limp when picked up",
+          "A 3-hour-old with a temperature of 36.5 °C who is breastfeeding vigorously and has a glucose of 50 mg/dL"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Higher HR and RR with alertness and rooting are expected during the first period of reactivity (0–30 minutes). Rates of 60–80 can be normal then.",
+          "Periodic breathing with pauses shorter than 20 seconds and an RR of 40 is normal in a sleeping newborn.",
+          "CJMM — Recognize cues: an infant of a mother with diabetes who is jittery, has a weak suck, and is hypotonic. Analyze cues: infants of diabetic mothers are high risk for hypoglycemia in the first hours, and jitteriness plus hypotonia and poor feeding are symptomatic signs. Prioritize hypotheses: a high-risk newborn with a cluster of findings and a behavior change outranks a single borderline number. Take action: check glucose now and treat.",
+          "A temperature at the lower limit (36.5 °C), with vigorous feeding and glucose above 45, shows a newborn who is transitioning well."
+        ]
+      },
+      {
+        "stem": "A newborn was treated for mild hypothermia, a borderline glucose, and ineffective latch. One hour later, which finding best indicates that the newborn is adapting successfully to extrauterine life?",
+        "options": [
+          "Temperature 36.9 °C, RR 58/min, glucose 62 mg/dL, intermittent expiratory grunting",
+          "Temperature 36.6 °C, RR 56/min, glucose 50 mg/dL, latched for 15 minutes with audible swallowing",
+          "Temperature 36.4 °C, RR 52/min, glucose 55 mg/dL, breastfed for 20 minutes",
+          "Temperature 36.7 °C, RR 54/min, glucose 47 mg/dL, too sleepy to latch"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The numbers are normal, but grunting is a respiratory distress sign. One leftover abnormal finding means the outcome is not met.",
+          "CJMM — Evaluate outcomes: success means every problem has resolved. Analyze cues: the temperature is in the 36.5–37.5 °C range, RR is within 30–60, glucose is above 45 mg/dL, and the newborn has an effective latch with audible swallowing. No abnormal finding is left over.",
+          "The feeding is good, but a temperature of 36.4 °C is still below 36.5 °C, so the hypothermia has not resolved.",
+          "Glucose above 45 is acceptable, but the newborn is too sleepy to latch, so the feeding problem persists and needs follow-up."
+        ]
+      },
+      {
+        "stem": "A parent asks, “Why are you so worried that her temperature is 36.3 °C? She looks fine to me.” Which explanation by the nurse is most accurate?",
+        "options": [
+          "“Babies shiver to make heat, and shivering tires them out so they're too sleepy to feed.”",
+          "“A cold baby's skin hides jaundice, so we could miss yellowing if she stays cool.”",
+          "“Cold makes the blood vessels in her hands and feet tighten, so we can't get an accurate pulse.”",
+          "“Babies make heat by burning a special fat, which uses up sugar and oxygen. That can lead to low blood sugar and trouble breathing.”"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Newborns cannot shiver effectively, which is why they rely on brown fat. The mechanism in this option is wrong.",
+          "Cold stress does not hide jaundice. This misidentifies the risk, which is metabolic (glucose and oxygen use).",
+          "Peripheral vasoconstriction occurs, but the apical pulse is counted over the heart. This misses the real danger of cold stress.",
+          "CJMM — Analyze cues: newborns have a large surface area, thin skin, and little fat, and they cannot shiver. They rely on non-shivering thermogenesis (brown fat), which uses oxygen and glucose. Prioritize hypotheses: untreated cold stress leads to hypoglycemia, hypoxia, metabolic acidosis, and respiratory distress. Take action: teach this link so the family understands why warming (skin-to-skin, a hat, a dry baby) matters."
+        ]
+      },
+      {
+        "stem": "A nursing student reports, “The 3-hour-old in room 4 has a respiratory rate of 56, so breathing is normal. I did hear a soft grunt each time he breathes out, and his ribs pull in a little.” Which response by the nurse is best?",
+        "options": [
+          "“Grunting and retractions are signs of distress even with a normal rate. Let's check his SpO2, temperature, and glucose, and then notify the provider.”",
+          "“The rate is within 30 to 60, so let's recheck his respirations in 1 hour and document the findings.”",
+          "“Grunting is common in the first hours as lung fluid clears, so as long as the rate stays under 60 it's expected.”",
+          "“Let's suction his nose and mouth with the bulb syringe and see if the grunting stops.”"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: expiratory grunting and retractions with an RR of 56. Analyze cues: slide 5 lists grunting on exhalation and chest retractions as problem signs regardless of the rate. Grunting is the newborn's attempt to keep the alveoli open. Prioritize hypotheses: early respiratory distress (TTN, cold stress, hypoglycemia, sepsis). Take action: assess SpO2, temperature, and glucose, keep the newborn warm, and notify the provider.",
+          "This anchors on the one normal number and ignores two abnormal cues. A 1-hour delay could let distress progress.",
+          "This is the exact trap “grunting is normal if the RR is under 60.” Grunting and retractions need evaluation.",
+          "Suctioning is appropriate only for visible secretions. Grunting reflects alveolar collapse, not secretions, so this treats the wrong problem."
+        ]
+      },
+      {
+        "stem": "After a term vaginal birth, the provider waits 60 seconds before clamping the cord. The parent asks why. Which explanation by the nurse is most accurate?",
+        "options": [
+          "“Waiting lowers the chance that the baby will develop jaundice in the first week.”",
+          "“Waiting lets the placenta separate so it delivers more quickly.”",
+          "“Waiting gives the baby more of their own blood, which builds iron stores and eases the change to breathing on their own.”",
+          "“Waiting lets the cord dry out a little, which lowers the risk of infection at the stump.”"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This reverses the effect. The extra red cell volume slightly increases the jaundice risk, so the nurse watches bilirubin.",
+          "Delayed clamping is done for the newborn's benefit, not to deliver the placenta.",
+          "CJMM — Generate solutions: delayed cord clamping (30–60 seconds) increases the newborn's blood volume, improves iron stores, reduces anemia, supports a smoother circulatory transition, and improves outcomes for preterm infants. Take action: explain these benefits in plain language.",
+          "Delayed clamping does not affect stump drying or omphalitis. Cord care after birth does that."
+        ]
+      },
+      {
+        "stem": "A 20-minute-old term newborn is skin-to-skin, eyes open, rooting, with HR 164/min and RR 66/min, pink centrally, and no grunting or retractions. The parent asks whether to let the baby rest before trying to breastfeed. Which response by the nurse is best?",
+        "options": [
+          "“This alert time right after birth is the best time to start breastfeeding. Let's help the baby latch now.”",
+          "“Let's let the baby sleep first and try at about 2 hours, when the baby's breathing has slowed down.”",
+          "“The baby's breathing is fast, so I'll notify the provider before we try to feed.”",
+          "“I'll give the first bath now while the baby is awake, and then you can try feeding.”"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: an alert, rooting newborn at 20 minutes with high HR and RR but no distress signs. Analyze cues: this is the first period of reactivity (0–30 minutes), when HR and RR run high (RR up to 60–80 can be normal) and the newborn is primed to feed. Take action: support the first breastfeed now. It also helps prevent hypoglycemia and stabilizes temperature.",
+          "From about 30 minutes to 2 hours the newborn enters a sleep phase and is hard to rouse. Waiting misses the best feeding window.",
+          "An RR of 66 without grunting, flaring, or retractions during the first period of reactivity is expected. Escalating misreads a normal cue.",
+          "A bath now risks cold stress and interrupts skin-to-skin and the feeding window. It is not an immediate newborn intervention."
+        ]
+      },
+      {
+        "stem": "Ten minutes after an uncomplicated birth, a parent asks the nurse to put the newborn under the warmer so they can rest. The newborn is dry and stable. Which explanation best supports keeping the newborn skin-to-skin?",
+        "options": [
+          "“It's the only way to keep your baby warm right now, so the warmer would be unsafe.”",
+          "“It keeps your baby's temperature, heart rate, and breathing steady, helps prevent low blood sugar, and helps your uterus contract.”",
+          "“It helps your baby's lungs clear fluid faster than the warmer does, so they won't need oxygen.”",
+          "“It passes your antibodies through your skin, which protects the baby from infection right after birth.”"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Overstating the case is inaccurate. A radiant warmer also keeps a newborn warm, and coercive wording undermines the parent's choice.",
+          "CJMM — Generate solutions: immediate skin-to-skin stabilizes temperature, HR, and breathing, reduces stress and crying, supports breastfeeding, helps prevent hypoglycemia, and increases maternal oxytocin and uterine contraction. Take action: explain these benefits to support the parent's informed choice, and keep the parent safe and supported while holding the newborn.",
+          "Skin-to-skin is not a treatment for retained lung fluid. That claim goes beyond the stated benefits.",
+          "Antibodies pass through the placenta and breast milk, not through skin contact. The rationale is wrong even though skin-to-skin is the right choice."
         ]
       }
     ]

@@ -1,0 +1,957 @@
+{
+  "topic": "mat2-wk6-postpartum",
+  "label": "Maternity 2: Week 6 — Postpartum",
+  "questions": [
+    {
+      "stem": "The postpartum nurse reviews fundal assessments documented for four clients after uncomplicated vaginal births. Which finding requires follow-up?",
+      "options": [
+        "12 hours after birth: fundus firm, midline, at the umbilicus",
+        "Day 2: fundus firm, midline, 2 fingerbreadths below the umbilicus",
+        "Day 4: fundus firm, midline, 1 fingerbreadth above the umbilicus",
+        "Day 1: fundus firm, midline, 1 fingerbreadth below the umbilicus"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a fundus 1 cm ABOVE the umbilicus on day 4. Analyze cues: after rising to the umbilicus by about 12 hours, the fundus should descend about 1 cm (one fingerbreadth) per day, so on day 4 it should be roughly U−3 to U−4. A fundus that is higher than expected for the day fits subinvolution (retained fragments, distended bladder, myoma, infection). Prioritize hypotheses: subinvolution carries a risk of hemorrhage and infection. Take action: check the bladder, lochia, and temperature, and report the finding.",
+        "incorrect": [
+          "Expected. The fundus rises to the umbilicus within about 12 hours of birth. Treating this as abnormal misreads the timing cue.",
+          "Expected. About 1 cm of descent per day puts the fundus near U−2 on day 2, and it is firm and midline.",
+          "Expected. Descent of about 1 cm per day from the umbilicus gives U−1 on day 1. Firm and midline means the uterus is contracting well."
+        ]
+      }
+    },
+    {
+      "stem": "On postpartum day 6, a client who gave birth vaginally after a 26-hour labor has a temperature of 38.3 °C (100.9 °F). The fundus is 2 fingerbreadths below the umbilicus and soft, and the lochia is red and foul-smelling. The bladder is not distended. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "The fundus is still descending, so the findings reflect expected involution after a long labor",
+        "Subinvolution with probable uterine infection is developing and needs prompt provider evaluation",
+        "The fever is a normal postpartum temperature elevation that will resolve with oral fluids",
+        "Bladder distention is displacing the uterus, so the client should void and be reassessed"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: on day 6 the fundus is higher than expected (it should be about U−6), soft, and the lochia is still red with a foul odor and a fever after 24 hours. Analyze cues: these cues fit subinvolution, and infection is a listed cause. Fever plus foul lochia point to endometritis rather than a simple fragment. Prioritize hypotheses: an infected, subinvoluted uterus can progress to hemorrhage, pelvic peritonitis, or abscess. Take action: report the findings to the provider promptly for evaluation and treatment.",
+        "incorrect": [
+          "This misreads the cue. On day 6 the fundus should be near U−6, and lochia should be serosa, not red and foul. A prolonged labor is an infection risk factor, not a reason the findings are normal.",
+          "A slight temperature elevation is normal only in the first 24 hours. A temperature of 38 °C or higher after 24 hours signals infection, and fluids do not address that.",
+          "A full bladder is a cause of subinvolution, but the bladder is not distended and the fundus is midline. Having the client void would treat a cause that has already been ruled out."
+        ]
+      }
+    },
+    {
+      "stem": "A client on postpartum day 7 calls the clinic. The lochia changed from red to pinkish-brown on day 4. Today, after carrying laundry up two flights of stairs, the pinkish-brown discharge increased slightly but slowed again after the client rested. There are no clots, no odor, and no dizziness. Which response by the nurse is best?",
+      "options": [
+        "“Come in today so we can check for retained placental fragments.”",
+        "“Pinkish-brown discharge this early means you are bleeding again. Lie down and call back in an hour.”",
+        "“Discharge should have stopped by now, so please use a tampon and track how much you have.”",
+        "“This is expected lochia serosa. Pace your activity, and call if it turns bright red again or gets heavier.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pinkish-brown lochia on day 7 that increased with exertion and then slowed with rest, with no clots, odor, or dizziness. Analyze cues: lochia serosa on day 7 is expected, and lochia normally increases with activity. The warning signs are an increase in amount that persists or a return to red. Generate solutions: reassure the client and give specific limits on when to call. Take action: teach the client to pace activity and to call if the discharge becomes red again, becomes heavier, or has clots or a foul odor.",
+        "incorrect": [
+          "Retained fragments cause persistent red lochia or a return to red. Pinkish-brown lochia that slows with rest is expected, so this escalates a normal finding.",
+          "This misreads lochia serosa as bleeding. Serosa normally follows rubra after day 3–4, so the advice generates alarm without a real cue.",
+          "Lochia continues for about 6 weeks, ending with lochia alba, so it should not have stopped by day 7. Tampons are prohibited after birth."
+        ]
+      }
+    },
+    {
+      "stem": "A multiparous client who is breastfeeding reports strong cramping each time the newborn latches, rated 6/10. The fundus is firm and midline at the umbilicus 18 hours after birth, and the lochia is moderate rubra. Which action by the nurse is most appropriate?",
+      "options": [
+        "Explain that oxytocin released during breastfeeding contracts the uterus, and offer the prescribed analgesic before feedings",
+        "Suggest formula for the next few feedings so the uterus can rest and the cramping can ease",
+        "Massage the fundus vigorously during each feeding to relieve the cramping",
+        "Notify the provider that the cramping suggests retained placental fragments"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: cramping linked to breastfeeding in a multipara, with a firm, midline fundus and expected lochia. Analyze cues: these are afterpains. Breastfeeding releases oxytocin, which contracts the uterus, and afterpains are stronger in multiparas. The pain score is above the postpartum goal of 0–2. Generate solutions: explain why the cramping happens and treat the pain. Take action: give the prescribed analgesic before feedings and explain that the cramping means the uterus is contracting. Evaluate outcomes: the pain score returns to 0–2 during feeds.",
+        "incorrect": [
+          "Afterpains are a sign that involution is working, and breastfeeding promotes that contraction. Replacing feeds treats an expected finding as a problem and undermines lactation.",
+          "Fundal massage is for a boggy uterus. This uterus is firm, so massage only adds pain and does nothing for the cramping.",
+          "Retained fragments cause a boggy or high fundus and heavy bleeding. A firm fundus at the umbilicus with moderate rubra is expected at 18 hours, so this skips Analyze cues."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews vital signs for four clients on postpartum day 1 after vaginal births. Which finding is expected and needs no intervention?",
+      "options": [
+        "Pulse 108/min with BP 112/70 and moderate lochia",
+        "BP 152/98 with a headache rated 5/10",
+        "Pulse 54/min, BP 110/68, fundus firm at the umbilicus",
+        "Respirations 24/min with a temperature of 37.4 °C"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a pulse of 54 with stable BP and a firm fundus. Analyze cues: a postpartum pulse of 40–80 is normal, and bradycardia is common as blood volume and cardiac output return toward prepregnant levels. Prioritize hypotheses: the other three findings point to hemorrhage, preeclampsia, or infection. Evaluate outcomes: the nurse continues routine assessment for this client and does not escalate.",
+        "incorrect": [
+          "Tachycardia is the early sign of hemorrhage, and BP falls late. A normal BP does not make a pulse of 108 safe.",
+          "A raised BP with a headache suggests postpartum preeclampsia. BP should stay in the client's usual range, so this needs follow-up.",
+          "Postpartum respirations should be 16–20 per minute. A rate of 24 needs further assessment even though the temperature is acceptable."
+        ]
+      }
+    },
+    {
+      "stem": "Four postpartum clients have temperatures of 38.0 °C (100.4 °F). Which client's temperature does the nurse most expect to resolve with oral fluids and rest?",
+      "options": [
+        "A client on day 3 who is breastfeeding and has full, soft breasts",
+        "A client 10 hours after a 20-hour labor, with dry lips and little oral intake",
+        "A client on day 2 after a cesarean birth who reports a sore incision",
+        "A client 30 hours after birth who had an indwelling urinary catheter during labor"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the same temperature at different times after birth. Analyze cues: a slight temperature elevation is normal during the first 24 hours (from exertion and dehydration). A temperature of 38 °C or higher after 24 hours signals infection. Prioritize hypotheses: only the client at 10 hours, with dry lips after a long labor, fits the expected pattern. Take action: encourage fluids and recheck. Evaluate outcomes: the temperature returns to normal.",
+        "incorrect": [
+          "Calling a day-3 fever “milk fever” is a trap. A temperature of 38 °C after 24 hours means infection until proven otherwise.",
+          "This client is past 24 hours and had an operative birth, which is an infection risk factor. The temperature needs evaluation, not fluids alone.",
+          "At 30 hours the expected window has passed, and an indwelling catheter is a Box 16.1 infection risk. This client needs assessment for UTI or other infection."
+        ]
+      }
+    },
+    {
+      "stem": "On postpartum day 1, a client's urine output is 3,100 mL and oral and IV intake totals 1,800 mL. The client woke up drenched in sweat. Vital signs are stable, the fundus is firm and midline at U−1, and there is no bladder distention after voiding. Which action should the nurse take?",
+      "options": [
+        "Request an order to increase the IV rate to correct the fluid deficit",
+        "Obtain a urine specimen for culture because of the excessive output",
+        "Report the night sweats as a possible sign of infection",
+        "Explain that this fluid loss is expected, change the damp linens, and encourage frequent voiding"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: output much greater than intake, night sweats, stable vital signs, and a firm, midline fundus with an empty bladder. Analyze cues: postpartum diuresis and diaphoresis are expected. IV fluids from labor, falling oxytocin (which has an antidiuretic effect), falling aldosterone, and fluid retained during pregnancy are all being eliminated. Generate solutions: this needs reassurance and comfort measures, not treatment. Take action: explain the finding, provide dry linens, and encourage the client to keep voiding often.",
+        "incorrect": [
+          "This is the classic trap: output greater than intake is expected fluid loss, not dehydration. The vital signs are stable, so extra IV fluid has no indication.",
+          "High-volume voids are not a UTI cue. Dysuria and frequency with small amounts are. This mistakes normal diuresis for infection.",
+          "Diaphoresis is common for about a week postpartum. Without fever, it does not suggest infection."
+        ]
+      }
+    },
+    {
+      "stem": "A postpartum client asks why compression devices and early walking are needed after an uncomplicated birth. The client says, “I lost blood, so shouldn't my blood be thinner?” Which explanation by the nurse is accurate?",
+      "options": [
+        "“Your blood is thinner after birth, so the devices keep you from bleeding into your legs.”",
+        "“Clotting factors stay elevated for weeks after birth, so walking and compression help prevent leg clots.”",
+        "“The devices are mainly to reduce leg swelling from IV fluids, which will clear as you urinate.”",
+        "“Only clients who had a cesarean birth are at risk for clots, so this is an extra precaution for you.”"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the client believes blood loss lowers clot risk. Prioritize hypotheses: coagulation factors stay elevated for weeks after birth (protection against bleeding), so the client is hypercoagulable and at risk for DVT and PE. Generate solutions: correct the misconception with that physiology. Take action: explain that clotting factors stay high for weeks, and that walking and compression keep blood moving in the legs. Evaluate outcomes: the client walks often and can name the signs of DVT.",
+        "incorrect": [
+          "This reverses the physiology. Clotting factors stay high after birth, and compression devices prevent clots, not bleeding.",
+          "Diuresis does clear excess fluid, but the reason for these measures is VTE prevention in a hypercoagulable state. This explanation misses the risk.",
+          "Elevated coagulation factors put every postpartum client at higher risk. A cesarean adds risk but is not required for it."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfeeding client on day 3 reports that milk drips from the opposite breast and the uterus cramps each time the newborn latches. The client asks what is causing this. Which explanation is accurate?",
+      "options": [
+        "“Prolactin from the anterior pituitary releases the milk and also contracts the uterus.”",
+        "“Rising estrogen after birth triggers the let-down and the cramping.”",
+        "“Oxytocin from the posterior pituitary causes milk let-down and also contracts the uterus.”",
+        "“Prolactin from the posterior pituitary causes let-down, and oxytocin increases milk supply.”"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: milk ejection and uterine cramping triggered by suckling. Analyze cues: oxytocin from the posterior pituitary causes both milk ejection (let-down) and uterine contraction. Prolactin from the anterior pituitary drives milk production. Take action: give the accurate explanation and reassure the client that both are signs that feeding and involution are working.",
+        "incorrect": [
+          "This is the hormone swap. Prolactin makes milk; it does not eject it or cause afterpains.",
+          "Estrogen and progesterone fall quickly after the placenta delivers. That drop is what allows milk to come in.",
+          "This swaps both the hormones and the gland. Prolactin is anterior and drives production. Oxytocin is posterior and drives ejection and contraction."
+        ]
+      }
+    },
+    {
+      "stem": "A client who has chosen to formula-feed is preparing for discharge on day 2. Which statement by the client indicates a need for further teaching about breast care?",
+      "options": [
+        "“When my breasts feel full, I'll stand with warm shower water on them and express a little milk for relief.”",
+        "“I'll wear a firm, supportive bra day and night until the fullness goes away.”",
+        "“I can put ice packs on my breasts and under my arms if they get swollen.”",
+        "“My milk will dry up over the next week or two if I avoid stimulating my breasts.”"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the nurse checks the client's understanding of lactation suppression. Analyze cues: prolactin declines within about 2 weeks if the client does not breastfeed, but nipple and breast stimulation, heat, and expressing milk all signal the body to keep producing. Take action: re-teach the client to wear a supportive bra, apply ice to the breasts and axillae, avoid hot water on the breasts, and not express milk so it can be reabsorbed.",
+        "incorrect": [
+          "Correct understanding. A supportive bra limits stimulation and improves comfort while milk is reabsorbed.",
+          "Correct understanding. Ice to the breasts and axillae relieves engorgement for a client who is not breastfeeding.",
+          "Correct understanding. Without suckling, prolactin falls within about 2 weeks and lactation stops."
+        ]
+      }
+    },
+    {
+      "stem": "At the 6-week visit, a client who is exclusively breastfeeding says, “My period hasn't come back, so I don't need birth control yet.” Which response by the nurse is best?",
+      "options": [
+        "“That's right. Breastfeeding prevents ovulation until your period returns.”",
+        "“You can ovulate before your first period, so let's talk about a birth control method now.”",
+        "“Your period should return by 7 to 9 weeks, so start birth control then.”",
+        "“As long as you breastfeed at least once a day, you're protected for the first year.”"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client is relying on the absence of menses as contraception. Analyze cues: when lactating, menses can return anywhere from 2 to 18 months after birth, and ovulation can occur BEFORE the first period. Prioritize hypotheses: an unplanned, closely spaced pregnancy is a real risk. Take action: explain that ovulation can come before the first period, and discuss contraception now.",
+        "incorrect": [
+          "This repeats the trap: “no period yet” does not mean the client cannot get pregnant, because ovulation can come before the first period.",
+          "A return at 7–9 weeks applies to clients who are NOT lactating. Waiting also ignores that ovulation can come first.",
+          "With lactation, the return of fertility varies from 2 to 18 months, and it does not depend on a minimum number of feeds. This gives false reassurance."
+        ]
+      }
+    },
+    {
+      "stem": "A client who is Rh-negative gave birth 30 hours ago. The newborn is Rh-positive, and the client's antibody screen (indirect Coombs) is negative. The client asks whether the RhoGAM can wait until the 6-week visit. Which response by the nurse is best?",
+      "options": [
+        "“Yes. It only matters before your next pregnancy, so it can be given at the 6-week visit.”",
+        "“It isn't needed, because this was your first baby and the baby is healthy.”",
+        "“The baby will receive it instead, because the baby is the one who is Rh-positive.”",
+        "“It needs to be given within 72 hours of birth, so I'd like to give it to you today.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an Rh-negative mother who is unsensitized (negative antibody screen) and has an Rh-positive infant. Analyze cues: fetal Rh-positive cells can enter the mother's circulation at birth. RhoGAM given within 72 hours of delivery prevents her from forming anti-Rh antibodies. Prioritize hypotheses: without it, a future Rh-positive fetus is at risk for HDFN. Take action: give RhoGAM to the mother before 72 hours. Waiting until 6 weeks misses the window.",
+        "incorrect": [
+          "Sensitization begins after exposure at birth. The 72-hour window protects future pregnancies, and 6 weeks is far outside it.",
+          "The first baby is usually unaffected, but that is why RhoGAM is given now: to prevent antibodies that would harm the NEXT Rh-positive baby.",
+          "This is a classic trap. RhoGAM goes to the Rh-negative mother, never to the newborn."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews postpartum prescriptions for Rho(D) immune globulin (RhoGAM) for four clients. Which prescription should the nurse question?",
+      "options": [
+        "Rh-negative client, Rh-negative newborn, negative antibody screen, 20 hours after birth",
+        "Rh-negative client, Rh-positive newborn, negative antibody screen, 48 hours after birth",
+        "Rh-negative client, Rh-positive newborn, negative antibody screen, 66 hours after birth",
+        "Rh-negative client, Rh-positive newborn, negative antibody screen, second pregnancy"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an Rh-negative mother whose newborn is also Rh-negative. Analyze cues: RhoGAM prevents sensitization to Rh-positive fetal cells. If the infant is Rh-negative, there is no Rh-positive exposure, so RhoGAM is not indicated after birth. Take action: clarify that prescription with the provider before giving it.",
+        "incorrect": [
+          "This is the correct indication: an unsensitized Rh-negative mother with an Rh-positive infant, still inside the 72-hour window.",
+          "At 66 hours the client is still within 72 hours, so the dose is appropriate. Mistaking “late” for “too late” misreads the timing cue.",
+          "RhoGAM is needed in EVERY pregnancy with an Rh-positive infant. A previous pregnancy is not a reason to withhold it when the client is unsensitized."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn is 22 hours old and has visible jaundice on the face and chest. The parent's blood type is O positive, and the newborn's is A positive. Which action should the nurse anticipate?",
+      "options": [
+        "Administer RhoGAM to the parent within 72 hours to stop the hemolysis",
+        "Reassure the parent that this is normal newborn jaundice that does not need testing",
+        "Anticipate a direct Coombs test and bilirubin level, and prepare for possible phototherapy",
+        "Explain that this cannot be ABO incompatibility because it is the parent's first baby"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: jaundice at 22 hours in a type A infant born to a type O parent. Analyze cues: ABO incompatibility. Maternal anti-A antibodies can hemolyze the infant's red blood cells, even in a first pregnancy. Prioritize hypotheses: hemolytic jaundice that may need phototherapy. Take action: anticipate a direct Coombs test and bilirubin evaluation, and prepare for phototherapy if it is indicated.",
+        "incorrect": [
+          "RhoGAM has nothing to do with ABO incompatibility, and both parent and infant are Rh-positive.",
+          "The type O parent with a type A infant is the cue that calls for a blood type and Coombs test. Dismissing it skips Analyze cues.",
+          "Unlike Rh disease, ABO incompatibility can affect the first baby, because anti-A and anti-B antibodies already exist."
+        ]
+      }
+    },
+    {
+      "stem": "Six hours after a vaginal birth with epidural anesthesia and a second-degree laceration, a client has not voided and says, “I don't feel like I need to go.” The fundus is firm and midline at the umbilicus. Which conclusion should guide the nurse's action?",
+      "options": [
+        "The lack of urge shows the bladder is not yet full, so the nurse can wait until the client feels the need to void",
+        "Reduced sensation from the epidural and perineal swelling may mask a full bladder, so the nurse should palpate it and assist the client to void",
+        "A midline fundus at the umbilicus confirms the bladder is empty, so no action is needed",
+        "The client most likely has low output from dehydration, so the IV rate should be increased"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: no void at 6 hours after an epidural and a laceration, and no urge to void. Analyze cues: regional anesthesia lowers bladder tone, and perineal swelling, bruising, and laceration dull bladder sensation. A full bladder may not be felt. Prioritize hypotheses: urinary retention that could displace the uterus and cause bleeding. Take action: palpate the bladder and help the client to the bathroom with measures that encourage voiding. Evaluate outcomes: an adequate void and a fundus that stays firm and midline.",
+        "incorrect": [
+          "This misreads the cue. Epidural and perineal trauma dull sensation, so no urge does not mean the bladder is empty.",
+          "The fundus can still be midline early in retention. Six hours without voiding needs a bladder assessment now.",
+          "Diuresis is expected postpartum. The more likely problem is retention, not low production, so more fluid would worsen the distention."
+        ]
+      }
+    },
+    {
+      "stem": "On postpartum day 2, a client who had epidural anesthesia reports a severe headache that started when sitting up to breastfeed and eases when lying flat. BP is 116/72, there are no visual changes, and the fundus is firm. Which conclusion is most accurate?",
+      "options": [
+        "The headache is most likely from sleep disruption, so the client should nap while the baby sleeps",
+        "The headache suggests postpartum preeclampsia, so a magnesium infusion is needed now",
+        "The headache is a normal effect of falling estrogen and will resolve by day 5",
+        "The pattern suggests a CSF leak from the epidural, and the provider or anesthesia team should be notified"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a positional headache (worse upright, better flat) after epidural anesthesia, with a normal BP and no visual changes. Analyze cues: of the slide's causes of postpartum headache (sleep disruption or stress, gestational hypertension, CSF leak after epidural or spinal), the positional pattern points to a CSF leak. Prioritize hypotheses: a normal BP and no visual symptoms make preeclampsia less likely, though BP must keep being monitored. Take action: report the headache to the provider or anesthesia team and keep the client comfortable lying flat.",
+        "incorrect": [
+          "Sleep loss can cause headache, but it does not explain the clear positional pattern after an epidural. This choice stops at the first plausible cause.",
+          "Preeclampsia must be considered with any postpartum headache, but the BP is normal and there are no visual changes. Treating for it skips Analyze cues.",
+          "Hormone shifts are not a listed cause, and a severe headache is never assumed to be normal. This dismisses a symptom that needs reporting."
+        ]
+      }
+    },
+    {
+      "stem": "Eight hours after birth, a client repeatedly tells the nurse about the long labor and asks for help with meals and a blanket. The nurse planned to teach newborn bathing. Which action is most appropriate?",
+      "options": [
+        "Meet the client's comfort needs, listen to the birth story, and postpone the bath demonstration",
+        "Proceed with the bath demonstration, since teaching should be finished before discharge",
+        "Redirect the client from the labor story to the baby's care to promote bonding",
+        "Document a possible bonding concern, because the client is focused on their own needs"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client is retelling the birth and is focused on food and comfort 8 hours after birth. Analyze cues: this is Rubin's taking-in phase, when the client needs others to meet their needs and relives the birth. Generate solutions: detailed teaching will not be retained now. Take action: meet the physical needs, listen to the birth story, and encourage rest. Defer the bath demonstration until the taking-hold phase (about day 2–3), when the client is eager to learn.",
+        "incorrect": [
+          "Doing detailed teaching while the client is retelling the birth is the trap. During taking-in, learning is poor, so this is the right action at the wrong time.",
+          "Retelling the birth is a normal taking-in behavior that helps the client process the experience. Redirecting it does not promote attachment.",
+          "Self-focus is expected during taking-in. Bonding concerns are cues like no eye contact, no touch, or no interest in the baby."
+        ]
+      }
+    },
+    {
+      "stem": "A client on day 2 who gave birth by cesarean has not had a bowel movement and says, “I'm afraid to push because it might hurt.” Bowel sounds are hypoactive but present in all quadrants, and the abdomen is soft. Which action by the nurse is best?",
+      "options": [
+        "Notify the provider of a possible postoperative ileus",
+        "Teach the client to bear down firmly to have a bowel movement today",
+        "Encourage fluids, fiber, and walking, and offer the prescribed stool softener",
+        "Keep the client NPO until a bowel movement occurs"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: no bowel movement on day 2, fear of straining, and hypoactive but present bowel sounds with a soft abdomen. Analyze cues: bowel tones and peristalsis are reduced for several days after birth, a bowel movement may not occur for several days, and fear of straining commonly causes constipation. Prioritize hypotheses: expected slowing, not obstruction. Take action: encourage fluids, fiber, and walking, offer the prescribed stool softener, and teach the client not to strain.",
+        "incorrect": [
+          "Bowel sounds are present and the abdomen is soft. Distention and absent flatus would suggest ileus, so this over-reads expected slowing.",
+          "Straining is what the client should avoid. It increases perineal and incisional pain and worsens hemorrhoids.",
+          "NPO is not indicated for expected postpartum bowel slowing. Hunger and thirst are normal, and food and fluids help restore bowel function."
+        ]
+      }
+    },
+    {
+      "stem": "A client on day 1 tells the nurse about the family's custom of avoiding cold drinks and showers for several weeks after birth. The client asks for warm fluids and a sponge bath instead. Which response by the nurse is best?",
+      "options": [
+        "Explain that showers are required for infection control and encourage one today",
+        "Provide warm fluids and help with a sponge bath and peribottle perineal care",
+        "Document that the client is declining hygiene care and notify the provider",
+        "Teach the client that cold fluids are needed to prevent postpartum dehydration"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a cultural postpartum practice that does not conflict with safety. Analyze cues: the slides stress that postpartum beliefs and customs vary, and that the nurse must be open, respectful, nonjudgmental, and willing to learn. Generate solutions: adapt care so hygiene and hydration goals are still met. Take action: provide warm fluids and help with a sponge bath and perineal care using the peribottle.",
+        "incorrect": [
+          "Hygiene goals can be met with a sponge bath and perineal care. Insisting on a shower overrides a safe custom without a clinical reason.",
+          "The client is not refusing hygiene; they are asking for a different method. Escalating this mislabels a respectful request.",
+          "Hydration matters, but the temperature of the fluids does not. This overrides the custom with an inaccurate rationale."
+        ]
+      }
+    },
+    {
+      "stem": "A client who is 2 weeks postpartum asks when the perineum and pelvic floor will be fully healed. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "“My stitches should be healed by about 3 weeks.”",
+        "“Kegel exercises will help my pelvic floor regain its strength.”",
+        "“It may take up to 6 months for my pelvic muscles to get their tone back.”",
+        "“Once my stitches heal, my pelvic floor will be back to normal, so I can stop doing Kegels.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the nurse checks the client's understanding of the recovery timeline. Analyze cues: episiotomies and lacerations heal within 2–3 weeks, but the stretched or torn pelvic floor can take up to 6 months to regain tone, and Kegel exercises help it heal. Take action: correct the belief that Kegels should stop once the perineum heals and explain the longer pelvic-floor timeline.",
+        "incorrect": [
+          "Correct. Episiotomies and lacerations heal within 2–3 weeks.",
+          "Correct. The slides state that Kegel exercises encourage pelvic-floor healing.",
+          "Correct. The supportive tissues of the pelvic floor need up to 6 months to regain tone."
+        ]
+      }
+    },
+    {
+      "stem": "A partner holds the newborn stiffly at arm's length and says, “I'm afraid I'll break the baby.” Which action by the nurse best supports the partner's attachment?",
+      "options": [
+        "Reassure the partner that bonding usually develops later, once they are home",
+        "Suggest the partner let the birthing parent do the hands-on care until they feel ready",
+        "Help the partner hold the newborn skin-to-skin while coaching them on how to support the head",
+        "Document impaired attachment and refer the family to social work"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the partner's hesitancy and fear of handling the baby. Analyze cues: partners move through expectations, then reality, then transition to mastery, and attachment grows through visual and tactile contact. Generate solutions: give guided, early, sustained contact. Take action: help the partner hold the newborn skin-to-skin, which the slides specifically recommend to enhance bonding. Evaluate outcomes: the partner shows eye contact, talks to the baby, and holds the baby with confidence.",
+        "incorrect": [
+          "Early and sustained contact is vital to attachment. Deferring it misses the window the nurse can support now.",
+          "This keeps the partner out of the tactile contact that builds attachment and confidence.",
+          "Early nervousness is a normal reaction as expectations meet reality. Labeling it impaired attachment skips Analyze cues."
+        ]
+      }
+    },
+    {
+      "stem": "The placenta delivered at 1410 after an uncomplicated vaginal birth. The nurse completed the assessment at 1510, and all findings were within expected limits. According to the postpartum assessment schedule, when is the client's next assessment due?",
+      "options": [
+        "1525",
+        "1610",
+        "1540",
+        "1910"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: it is the end of the first hour after birth, and the client is stable. Analyze cues: the schedule is every 15 minutes during the first hour, every 30 minutes during the second hour, every 4 hours for the rest of the first 24 hours, and then every shift. Take action: the 1510 check closes hour one, and the second hour is every 30 minutes, so the next check is at 1540, followed by 1610.",
+        "incorrect": [
+          "Every 15 minutes applies only to the first hour, which ended at 1510. Continuing that interval misreads where the client is on the schedule.",
+          "1610 is the end of the second hour. It skips the 30-minute check at 1540 that the second hour requires.",
+          "Every 4 hours begins after the second hour. Starting it at hour 2 is the trap that drops the client's monitoring during the second-highest-risk hour."
+        ]
+      }
+    },
+    {
+      "stem": "One hour after a vaginal birth, the nurse finds the client's fundus boggy at the umbilicus and midline, with a heavy flow of lochia rubra. The client voided 15 minutes ago. HR is 92/min and BP is 118/72. What is the nurse's first action?",
+      "options": [
+        "Notify the provider of the boggy uterus before touching the fundus",
+        "Massage the fundus while supporting the lower uterine segment until it is firm",
+        "Assist the client to the bathroom to empty the bladder",
+        "Recheck vital signs in 15 minutes to see whether the pulse rises"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a boggy, midline fundus with heavy lochia, and a recently emptied bladder. Analyze cues: uterine atony (Tone causes 70–80% of PPH). The fundus is not displaced, so the bladder is not the cause. Prioritize hypotheses: early hemorrhage. Take action: massage the fundus first while supporting the lower uterine segment. This is an independent nursing action and is not delayed by calling first. Notify the provider if the uterus does not firm. Evaluate outcomes: a firm fundus and slowing lochia.",
+        "incorrect": [
+          "Notification matters, but the trap is calling BEFORE intervening. Massage is the immediate independent action, and the call follows if the uterus does not respond.",
+          "Voiding is the first action when the fundus is high and deviated. This fundus is midline, and the client just voided, so this treats the wrong cause.",
+          "The heavy bleeding and boggy fundus are already the cues. Waiting for tachycardia lets bleeding continue."
+        ]
+      }
+    },
+    {
+      "stem": "Four hours after birth, a client's fundus is 2 fingerbreadths above the umbilicus and deviated to the right. It is slightly soft and firms with light massage, and the lochia is moderate rubra. Which action is the priority?",
+      "options": [
+        "Massage the fundus more firmly and continuously until it stays contracted",
+        "Notify the provider of suspected retained placental fragments",
+        "Increase the oxytocin infusion rate to strengthen contractions",
+        "Assist the client to void, then reassess fundal height, position, and tone"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a fundus that is high, deviated to the right, and soft but firms with massage. Analyze cues: a full bladder pushes the uterus up and to the side and keeps it from contracting, which leads to bleeding. Prioritize hypotheses: bladder distention causing atony. Take action: help the client void (or catheterize per order if they cannot), then reassess the fundus. Evaluate outcomes: after voiding, the fundus returns to midline at the expected height and stays firm.",
+        "incorrect": [
+          "Massaging harder does not fix the cause. The uterus will keep relaxing while the bladder displaces it.",
+          "A deviated fundus suggesting retained placenta is the trap. Displacement up and to the right is the classic bladder cue.",
+          "Uterotonics treat atony, but the root cause here is a full bladder. Emptying it comes first, and medication can follow if the fundus stays boggy."
+        ]
+      }
+    },
+    {
+      "stem": "Two hours after a precipitous birth, a client has a firm fundus, midline at the umbilicus, but a steady trickle of bright red blood from the vagina. HR is 98/min. What should the nurse suspect and do?",
+      "options": [
+        "A cervical or vaginal laceration; notify the provider for inspection and repair",
+        "Uterine atony; massage the fundus and increase the oxytocin rate",
+        "Normal lochia rubra; document and continue routine checks",
+        "A full bladder; help the client void and recheck the fundus"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a firm, midline fundus with steady bright red bleeding after a precipitous birth. Analyze cues: a firm uterus rules out atony, and a precipitous birth raises the risk of Trauma (vaginal, cervical, or uterine injury). Prioritize hypotheses: an unrepaired laceration. Take action: notify the provider for inspection and repair, and keep monitoring bleeding and vital signs. Uterotonics will not stop bleeding from a tear.",
+        "incorrect": [
+          "Firm fundus plus bleeding read as atony is the trap. The uterus is already contracted, so more oxytocin does not treat the source.",
+          "Lochia trickles from a firm uterus, but a steady stream of bright red blood with a rising pulse is not expected lochia.",
+          "The fundus is midline at the umbilicus and not displaced, so there is no bladder cue."
+        ]
+      }
+    },
+    {
+      "stem": "Three hours after a forceps-assisted birth, a client reports severe rectal and perineal pressure that is not relieved by the prescribed analgesic. The fundus is firm and midline, the lochia is light, and HR has risen from 78 to 104/min. What is the nurse's priority action?",
+      "options": [
+        "Give an additional dose of analgesic and reassess pain in 1 hour",
+        "Apply a warm sitz bath to relieve the perineal pressure",
+        "Inspect the perineum for a tense, bulging, discolored mass and notify the provider",
+        "Massage the fundus, because rising pulse indicates atony"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: severe perineal pressure out of proportion to the birth, a firm fundus, light lochia, and a rising pulse after an operative birth. Analyze cues: this pattern fits a perineal or vaginal hematoma, where bleeding collects in the tissues instead of showing on the pad. Prioritize hypotheses: concealed hemorrhage. Take action: inspect the perineum for a tense, bulging, purple mass and notify the provider. Evaluate outcomes: track the pulse, BP, and the size of the mass.",
+        "incorrect": [
+          "More analgesic for what looks like normal perineal pain is the trap. The tachycardia shows blood loss, and more medication would mask it.",
+          "Warm sitz baths start after 24 hours. Heat in the first hours can increase bleeding into a hematoma.",
+          "The fundus is already firm and the lochia is light. The bleeding is elsewhere, so massage targets the wrong source."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is calculating quantitative blood loss (QBL) after a vaginal birth. A saturated perineal pad weighs 145 g (dry weight 20 g). A soiled underpad weighs 340 g (dry weight 60 g). Clots collected in a graduated container measure 50 mL. What is the cumulative QBL?",
+      "options": [
+        "405 mL",
+        "455 mL",
+        "535 mL",
+        "175 mL"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: QBL = wet weight − dry weight (1 g = 1 mL) + measured volumes. Take action: pad 145 − 20 = 125 mL; underpad 340 − 60 = 280 mL; clots 50 mL. Total = 125 + 280 + 50 = 455 mL. Evaluate outcomes: the nurse records cumulative loss and compares it with the PPH threshold and with the client's hemodynamic status.",
+        "incorrect": [
+          "This subtracts the dry weights correctly but leaves out the 50 mL of measured clots. Measured volumes are part of cumulative loss.",
+          "This adds the wet weights and clots without subtracting the dry weights of the pad and underpad, which overstates the loss by 80 mL.",
+          "This counts the pad (125 mL) and the clots (50 mL) but leaves out the 280 mL on the underpad. Blood pooled under the buttocks is often the largest source."
+        ]
+      }
+    },
+    {
+      "stem": "Thirty minutes after a vaginal birth, a client's cumulative QBL is 760 mL. HR is 118/min, BP 84/46, SpO2 93% on room air, and the client is restless and asking, “Where am I?” The nurse hears a colleague say that this is not a hemorrhage because the loss is under 1,000 mL. Which conclusion is correct?",
+      "options": [
+        "Not a hemorrhage, because the loss is below 1,000 mL; continue routine monitoring",
+        "Not a hemorrhage yet; wait for the H&H to confirm before acting",
+        "A vasovagal reaction from pain; elevate the legs and recheck in 15 minutes",
+        "Postpartum hemorrhage, because the client is showing hemodynamic jeopardy"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: HR above 110, BP below 85/45, SpO2 below 95%, and confusion. Analyze cues: PPH is defined as cumulative blood loss of 1,000 mL or more OR any amount of bleeding that puts the client in hemodynamic jeopardy (signs of hypovolemia). Prioritize hypotheses: this client meets the definition by the second criterion. Take action: start the hemorrhage response now: notify the team, ensure 18-gauge IV access, increase oxytocin, and give oxygen to keep SpO2 above 95%.",
+        "incorrect": [
+          "Treating it as not PPH because the loss is under 1,000 mL is the trap. Hemodynamic jeopardy defines PPH at any volume.",
+          "H&H changes are delayed, so a normal early value does not rule out hemorrhage. Waiting for the lab delays treatment.",
+          "A vasovagal response causes bradycardia, not a heart rate of 118. These cues show hypovolemia from blood loss."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is monitoring a client 1 hour after birth. Vital sign trend: 15 min — HR 74, BP 120/76; 30 min — HR 88, BP 118/74; 45 min — HR 102, BP 116/72. The client says, “I feel fine.” Which action should the nurse take?",
+      "options": [
+        "Assess the fundus and lochia now, including under the buttocks for pooled blood",
+        "Continue the 15-minute checks, because the BP is stable",
+        "Encourage oral fluids, since the tachycardia is probably from dehydration after labor",
+        "Ask the client to rate pain, since pain likely explains the rising heart rate"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a pulse climbing steadily from 74 to 102 while the BP stays near baseline. Analyze cues: a rising pulse is the early warning of hemorrhage. Compensation keeps the BP up until bleeding is advanced. Prioritize hypotheses: concealed or ongoing blood loss. Take action: assess the fundus and lochia now, including checking under the buttocks for pooling. Evaluate outcomes: find the source before the BP falls.",
+        "incorrect": [
+          "Waiting until the BP drops before acting is the trap. BP falls late, so a stable BP is false reassurance.",
+          "Dehydration explains a mild temperature rise, not a steadily rising pulse in the first hour, when hemorrhage is the main threat.",
+          "Pain can raise the heart rate, but the client says they feel fine. Attributing the change to pain skips the hemorrhage hypothesis."
+        ]
+      }
+    },
+    {
+      "stem": "A client has a postpartum hemorrhage from uterine atony that persists despite fundal massage. Which actions should the nurse include in the response? Select all that apply.",
+      "options": [
+        "Ensure IV access with an 18-gauge catheter",
+        "Increase the IV oxytocin rate as prescribed",
+        "Record cumulative blood loss every hour",
+        "Obtain vital signs every 5 minutes, including SpO2 and level of consciousness",
+        "Apply cooling blankets to reduce metabolic demand",
+        "Ensure the bladder is empty"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: atony that persists despite massage means an active PPH. Generate solutions and Take action: the slide bundle calls for prompt identification and notification, an 18-gauge IV, increased IV oxytocin (then second-level uterotonics), increased fluids, uterine massage, VS every 5 minutes including SpO2 and LOC, oxygen to keep SpO2 above 95%, cumulative blood loss recorded every 5–15 minutes, an empty bladder, type and crossmatch for 2 units PRBCs, and keeping the client warm.",
+        "incorrect": [
+          "Correct—an 18-gauge IV allows rapid fluids and blood products.",
+          "Correct—increasing oxytocin is the first drug step for atony, followed by second-level uterotonics if there is no response.",
+          "Incorrect—cumulative blood loss is recorded every 5–15 minutes during PPH. Hourly recording misses rapid change.",
+          "Correct—VS every 5 minutes with SpO2 and LOC track hemodynamic jeopardy.",
+          "Incorrect—the client is kept warm. Hypothermia worsens coagulopathy during hemorrhage.",
+          "Correct—a full bladder keeps the uterus from contracting, so emptying it is part of the response."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a PPH from atony has not responded to fundal massage and increased oxytocin. The client has a history of gestational hypertension treated with labetalol, and the current BP is 156/100. The client has no history of asthma. Which prescription should the nurse question?",
+      "options": [
+        "Carboprost (Hemabate) 250 mcg IM",
+        "Type and crossmatch for 2 units of PRBCs",
+        "Methylergonovine (Methergine) 0.2 mg IM",
+        "Oxygen to keep SpO2 above 95%"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: ongoing atony with a BP of 156/100 and labetalol in the history. Analyze cues: methylergonovine (Methergine) 0.2 mg IM is used only if the client is NOT hypertensive, because it causes vasoconstriction that can sharply raise BP. Generate solutions: carboprost (if not asthmatic) or misoprostol are second-level options. Take action: hold the methylergonovine and clarify it with the provider.",
+        "incorrect": [
+          "Carboprost is contraindicated in asthma, which this client does not have, so it is an appropriate second-level choice.",
+          "Type and crossmatch for 2 units is part of standard PPH management.",
+          "Oxygen to keep SpO2 above 95% is a standard PPH nursing action."
+        ]
+      }
+    },
+    {
+      "stem": "A client who has a PPH from atony uses an albuterol inhaler for asthma and has had BPs of 150s/90s since birth. Massage and increased oxytocin have not firmed the uterus. Which second-level uterotonic does the nurse anticipate?",
+      "options": [
+        "Methylergonovine (Methergine) 0.2 mg IM",
+        "Misoprostol 800 mcg sublingual",
+        "Carboprost (Hemabate) 250 mcg IM",
+        "A second dose of methylergonovine 0.2 mg IM after labetalol is given"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the inhaler shows asthma, and the BP readings show hypertension. Analyze cues: methylergonovine is avoided in hypertension, and carboprost is avoided in asthma. Misoprostol 800 mcg SL is the option when the client is both hypertensive and asthmatic. Take action: prepare misoprostol. Evaluate outcomes: a firm fundus and decreasing bleeding.",
+        "incorrect": [
+          "Methylergonovine raises BP and is avoided when the client is hypertensive, as this client is.",
+          "Giving carboprost to a hypertensive client with asthma is the trap. It can cause bronchospasm, and the inhaler is the hidden asthma cue.",
+          "Treating the BP first does not make an ergot safe in a hypertensive client. Misoprostol avoids both contraindications."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is planning postpartum assessments for four clients who gave birth vaginally in the past hour. Which client should the nurse monitor most closely for uterine atony?",
+      "options": [
+        "A primipara who gave birth to a 3,200-g infant after a 9-hour labor",
+        "A client with a second-degree laceration that was repaired",
+        "A primipara whose epidural is still wearing off",
+        "A multipara who gave birth to twins after 14 hours of oxytocin augmentation and was treated for chorioamnionitis"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: several Tone risk factors in one client. Analyze cues: uterine overdistention (twins), prolonged oxytocin, and chorioamnionitis each predispose to atony, and Tone causes 70–80% of PPH. Prioritize hypotheses: the client with stacked risk factors has the highest risk. Take action: assess this client's fundus and bleeding most closely.",
+        "incorrect": [
+          "There are no Tone risk factors: the infant is average-sized and the labor was of normal length.",
+          "A laceration is a Trauma risk, and it has been repaired. It does not predispose the uterus to atony.",
+          "An epidural affects bladder sensation and mobility. It is not a listed Tone risk factor."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews the histories of four postpartum clients. Which client has the greatest risk for postpartum infection?",
+      "options": [
+        "Cesarean birth after membranes were ruptured 28 hours, with gestational diabetes and a Hgb of 9.8 g/dL",
+        "Vaginal birth after a 7-hour labor with an intact perineum",
+        "Vaginal birth at 39 weeks with a first-degree laceration and a Hgb of 11.8 g/dL",
+        "Precipitous vaginal birth after a 2-hour labor"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: several Box 16.1 infection risk factors in one client. Analyze cues: an operative birth (cesarean), rupture of membranes for more than 24 hours, gestational diabetes, and anemia (Hgb below 10.5) each raise infection risk. Prioritize hypotheses: the client with the most stacked risks has the highest risk. Take action: monitor this client most closely for fever after 24 hours, foul lochia, and incision changes.",
+        "incorrect": [
+          "This client has no infection risk factors from Box 16.1.",
+          "A minor laceration with a normal Hgb is a low risk. The anemia threshold is a Hgb below 10.5.",
+          "A precipitous labor is a hemorrhage risk factor, not an infection risk factor. This mixes up the two Box 16.1 lists."
+        ]
+      }
+    },
+    {
+      "stem": "The postpartum nurse receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "Day 2, bilateral breast fullness and firmness while breastfeeding",
+        "Day 1, cramping rated 4/10 during breastfeeding",
+        "Day 2, right calf pain with swelling and warmth not present in the left leg",
+        "Day 3, pinkish-brown lochia with a firm fundus 3 fingerbreadths below the umbilicus"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: unilateral calf pain, swelling, and warmth on day 2. Analyze cues: coagulation factors stay elevated after birth, and these are signs of DVT. Prioritize hypotheses: a DVT can embolize to the lungs (PE), which is a leading cause of maternal death. The other findings are expected. Take action: assess this client first, keep the leg still, and notify the provider.",
+        "incorrect": [
+          "Bilateral engorgement on days 3–5 is expected and is managed with frequent feeding. It is not time-critical.",
+          "Afterpains during breastfeeding are expected. They need an analgesic but are not an emergency.",
+          "Lochia serosa on day 3–4 with a firm fundus at U−3 is expected involution."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse documents a focused postpartum (BUBBLE-HE) assessment on day 2 after a vaginal birth. Which findings are expected? Select all that apply.",
+      "options": [
+        "Fundus firm, midline, 2 fingerbreadths below the umbilicus",
+        "Lochia rubra, moderate, with a few small clots and a fleshy odor",
+        "Pulse 56/min",
+        "A red, hot, wedge-shaped area on one breast",
+        "Perineal pad saturated within 45 minutes",
+        "Both breasts soft and beginning to fill, with colostrum"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues and Analyze cues: sort each finding as expected or needing intervention. Expected on day 2: pulse 40–80, a firm midline fundus near U−2, lochia rubra of moderate amount or less with small clots and a fleshy odor, and early filling of both breasts. A unilateral red, hot, wedge-shaped breast area or a pad saturated within an hour needs intervention.",
+        "incorrect": [
+          "Correct—about 1 cm of descent per day puts the fundus near U−2 on day 2.",
+          "Correct—rubra lasts about 3–4 days, small clots are acceptable, and a fleshy (not foul) odor is normal.",
+          "Correct—a postpartum pulse of 40–80 is expected, and bradycardia is common.",
+          "Incorrect—a unilateral, wedge-shaped, red, hot area suggests mastitis and needs intervention.",
+          "Incorrect—saturating a pad in 1 hour or less is heavy bleeding that needs intervention, even on day 1 or 2.",
+          "Correct—breasts go from soft to filling, with colostrum, before the milk comes in."
+        ]
+      }
+    },
+    {
+      "stem": "Three hours after a vaginal birth with a repaired second-degree laceration, the client asks how to manage perineal pain over the next day. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Apply ice packs to the perineum during the first 24 hours",
+        "Start a warm sitz bath this afternoon to promote healing",
+        "Use the peribottle with warm water after each void",
+        "Avoid straining during bowel movements",
+        "Use a tampon if the lochia soaks through pads"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions: comfort measures depend on timing. Take action: perineal care in the first 24 hours is ice packs, the peribottle, and avoiding straining with bowel movements. Warm sitz baths begin after 24 hours (and are used after bowel movements once started). Tampons are not used for lochia.",
+        "incorrect": [
+          "Correct—cold reduces swelling and pain in the first 24 hours.",
+          "Incorrect—a warm sitz bath a few hours after birth is the trap. Warm soaks begin after 24 hours, and early heat increases swelling and bleeding.",
+          "Correct—the peribottle cleans the perineum without wiping the sutures.",
+          "Correct—straining stresses the repair and causes pain.",
+          "Incorrect—tampons are not used postpartum, and soaking pads is a bleeding sign to report."
+        ]
+      }
+    },
+    {
+      "stem": "Before discharge, the nurse reviews lochia care with a client. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "“My bleeding should get lighter in amount and color over the next few weeks.”",
+        "“A warm tub bath will be fine once I'm home, as long as I use pads instead of tampons.”",
+        "“If my bleeding turns bright red again after it was pink, I should call.”",
+        "“It's normal to have a small gush when I first stand up in the morning.”"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the nurse checks the client's understanding of lochia. Analyze cues: lochia should decrease and lighten, and an increase in amount or a return to red after discharge is a warning sign. No tampons and no tub bathing. Take action: correct the belief that a tub bath is safe, and re-teach the restrictions.",
+        "incorrect": [
+          "Correct understanding. Lochia decreases and moves from rubra to serosa to alba.",
+          "Correct understanding. A return to red is a listed warning sign of subinvolution or late hemorrhage.",
+          "Correct understanding. Pooled blood can gush when the client stands and should then slow."
+        ]
+      }
+    },
+    {
+      "stem": "A client with a PPH from atony received fundal massage and an increased oxytocin rate 20 minutes ago. Which finding best shows that the interventions were effective?",
+      "options": [
+        "The client reports stronger cramping since the oxytocin rate was increased",
+        "The hemoglobin drawn 10 minutes after the rate increase is unchanged from admission",
+        "The BP has stayed at 118/74 throughout the hemorrhage",
+        "The fundus stays firm and midline, the lochia is now light, and HR has fallen from 116 to 88"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the goal of treating atony is a contracted uterus that compresses the placental-site vessels, so bleeding slows and perfusion recovers. Analyze cues: a firm, midline fundus, light lochia, and a pulse trending back toward the 40–80 range show both hemostasis and hemodynamic recovery. Take action: continue monitoring cumulative blood loss and VS.",
+        "incorrect": [
+          "Cramping shows the drug is acting on the uterus, but it does not show that bleeding is controlled or that perfusion is recovering.",
+          "H&H changes are delayed, so an unchanged early value cannot confirm the bleeding has stopped.",
+          "BP falls late in hemorrhage, so a stable BP alone does not show that the intervention worked."
+        ]
+      }
+    },
+    {
+      "stem": "A client who is 8 days postpartum calls the clinic. The client reports a headache that acetaminophen has not relieved, “seeing spots,” and puffy hands and face. A home BP reading was 158/102. The client says, “I'm probably just exhausted from the baby.” Which response by the nurse is best?",
+      "options": [
+        "“Exhaustion often causes headaches. Lie down in a dark room and recheck your BP in 4 hours.”",
+        "“Take another dose of acetaminophen and call back if the headache lasts until tomorrow.”",
+        "“These can be signs of postpartum preeclampsia. You need to be evaluated right away. Call 911 if you have a seizure or your vision gets worse.”",
+        "“Swelling is common for a few weeks after birth. Keep your feet up and bring it up at your 6-week visit.”"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a headache not relieved by medication, visual changes, facial and hand swelling, and a BP of 158/102 on day 8. Analyze cues: postpartum preeclampsia can appear days to weeks after birth. The client is attributing the symptoms to exhaustion, which is the same pattern as in the lecture case. Prioritize hypotheses: risk of seizure or stroke. Take action: direct the client to immediate, same-day evaluation, and to call 911 if a seizure or worsening symptoms occur.",
+        "incorrect": [
+          "This repeats the dismissal from the case study (“that's exhaustion from caring for a newborn”). Unrelieved headache with vision changes and high BP cannot wait.",
+          "This treats a symptom and delays care. The warning sign is a headache NOT relieved by medication, especially with vision changes.",
+          "Swelling alone can be expected, but with a headache, visual changes, and high BP it is a warning cluster. A 6-week follow-up misses the danger window."
+        ]
+      }
+    },
+    {
+      "stem": "A client is 9 days after a cesarean birth. During a phone call, the client says, “I called last week about my legs swelling and was told it's part of recovery. Now the swelling is above my knees, I get short of breath walking to the kitchen, and I have to sleep sitting up.” Which action by the nurse is most appropriate?",
+      "options": [
+        "Tell the client these symptoms need urgent evaluation today, notify the provider, and document the escalation",
+        "Reassure the client that swelling and fatigue are expected for 6 weeks after a cesarean birth",
+        "Advise the client to elevate the legs, limit salt, and call back if the shortness of breath continues for 3 more days",
+        "Schedule an appointment for later in the week to check the incision and the swelling"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: progressive edema above the knees, dyspnea with minimal exertion, and orthopnea after a cesarean birth, in a client who was reassured earlier. Analyze cues: this pattern matches postpartum cardiomyopathy and heart failure, which is a leading U.S. cause of maternal death. Prioritize hypotheses: the earlier reassurance does not lower the risk now. Take action: arrange immediate evaluation, escalate to the provider, and document. This is advocacy: take the client's report seriously rather than repeating the earlier reassurance.",
+        "incorrect": [
+          "Telling the client that swelling and fatigue are normal for 6 weeks after a cesarean is the trap. Orthopnea and swelling above the knees are not normal recovery.",
+          "Leg elevation may ease edema, but it delays the evaluation of possible heart failure and repeats the dismissal from the earlier call.",
+          "A routine visit treats this as a minor problem. Dyspnea with minimal exertion and orthopnea need same-day evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching a client and the client's partner which postpartum warning signs require calling 911 rather than calling the provider. Which signs should the nurse identify as 911 situations? Select all that apply.",
+      "options": [
+        "Sudden chest pain",
+        "Temperature of 100.6 °F (38.1 °C)",
+        "Sudden shortness of breath",
+        "A seizure",
+        "Incision that is red and draining",
+        "Thoughts of hurting oneself or the baby"
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Analyze cues and Prioritize hypotheses: the POST-BIRTH warning signs are sorted by urgency. Take action: call 911 for chest pain, obstructed breathing or shortness of breath, seizures, and thoughts of hurting oneself or the baby. Call the provider for bleeding that soaks a pad in 1 hour, an incision that is not healing, a red or swollen leg, a temperature of 100.4 °F or higher, or a headache that is not relieved or comes with vision changes.",
+        "incorrect": [
+          "Correct—chest pain can signal PE or a cardiac event, so call 911.",
+          "Incorrect—a fever this high is reported to the provider promptly but does not call for 911 unless other emergency signs are present.",
+          "Correct—obstructed breathing or shortness of breath can be PE or heart failure, so call 911.",
+          "Correct—a seizure can be eclampsia, so call 911.",
+          "Incorrect—an incision that is not healing is a call-the-provider sign.",
+          "Correct—thoughts of harming self or the baby are an emergency, so call 911 (or 988 when there is no immediate danger)."
+        ]
+      }
+    },
+    {
+      "stem": "During a home visit on postpartum day 6, the nurse assesses a client after a vaginal birth. Which findings require prompt reporting to the provider? Select all that apply.",
+      "options": [
+        "Temperature of 38.3 °C (100.9 °F)",
+        "Night sweats that soak the sheets",
+        "Swelling and tenderness of the left calf only",
+        "Cramping during breastfeeding",
+        "Lochia that was pinkish-brown and is now bright red",
+        "Fatigue after caring for the newborn overnight"
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: separate the expected day-6 adaptations from the warning signs. Prioritize hypotheses: infection, DVT, and late hemorrhage. Take action: report a temperature of 38 °C or higher after 24 hours, unilateral leg pain or swelling, a headache that is not relieved or comes with vision changes, and a return to red lochia. Night sweats, afterpains with feeding, and fatigue are expected adaptations.",
+        "incorrect": [
+          "Correct—a fever after 24 hours suggests infection.",
+          "Incorrect—diaphoresis is common for about a week after birth as fluid is eliminated.",
+          "Correct—unilateral leg swelling and tenderness suggests DVT.",
+          "Incorrect—afterpains during feeding are caused by oxytocin and are expected.",
+          "Correct—a return to red after serosa is a warning sign of subinvolution or late hemorrhage.",
+          "Incorrect—fatigue and activity intolerance are expected for weeks after birth."
+        ]
+      }
+    },
+    {
+      "stem": "At a prenatal class, a client who is 34 weeks pregnant says, “I'll learn the postpartum warning signs myself. My partner and my sister don't need to come to the discharge teaching.” Which response by the nurse is best?",
+      "options": [
+        "“That's fine. You will get written instructions to read when you have time.”",
+        "“New parents often explain away their own symptoms, so it helps when the people around you can recognize warning signs too.”",
+        "“Your provider will check for warning signs at your 6-week visit, so family teaching isn't essential.”",
+        "“Your partner should come, but mainly to learn about caring for the baby.”"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to exclude support persons from warning-sign teaching. Analyze cues: new parents often dismiss their own symptoms as exhaustion, and in the lecture case a sister who had been taught the signs recognized postpartum preeclampsia. Generate solutions: include support persons and plan practical help for the fourth trimester. Take action: explain why family should be taught too.",
+        "incorrect": [
+          "Written information alone leaves out the support persons who are most likely to notice warning signs. This misses why family education matters.",
+          "About two-thirds of pregnancy-related deaths occur after birth, many between visits. The 6-week visit is too late to catch most of them.",
+          "Focusing only on the baby is a cause of missed maternal warning signs. Support persons need to watch the recovering parent too."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse manager is designing a postpartum follow-up program. According to U.S. data on the timing of pregnancy-related deaths, which plan best addresses the period of greatest risk?",
+      "options": [
+        "Focus resources on labor and delivery, since most pregnancy-related deaths happen on the day of birth",
+        "Concentrate follow-up on the first 6 days, when the risk of hemorrhage is highest",
+        "End routine contact at the 6-week visit, when the puerperium is complete",
+        "Extend contacts, BP checks, and depression screening through the first year after birth"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: about 65% (two-thirds) of pregnancy-related deaths occur after the birth. That includes 12% at 1–6 days, 23% at 7–42 days, and 30% at 43–365 days, the largest single share. Prioritize hypotheses: care that ends at discharge or at the 6-week visit misses most of the risk. Generate solutions: extend follow-up and screening across the first year. Take action: plan contacts that continue through 12 months, including BP checks, depression screening, and warning-sign teaching.",
+        "incorrect": [
+          "The day of delivery accounts for 13%. Believing that most maternal deaths happen during labor and delivery is the trap.",
+          "Days 1–6 account for only 12%. Hemorrhage is one cause, but later conditions like cardiomyopathy and mental health conditions account for a larger share.",
+          "The puerperium ends at about 6 weeks, but 30% of deaths occur at 43–365 days, after this program would end."
+        ]
+      }
+    },
+    {
+      "stem": "At 5 weeks postpartum, a client says, “I can't sleep even when the baby sleeps, nothing feels enjoyable, and I feel like a terrible mother.” The client cries throughout the visit. Which action should the nurse take?",
+      "options": [
+        "Screen with the Edinburgh Postnatal Depression Scale, ask directly about thoughts of self-harm, and refer for treatment",
+        "Reassure the client that baby blues can last up to 6 weeks and usually improve with sleep",
+        "Suggest the partner take over night feeds and plan to recheck the client's mood at the next routine visit",
+        "Tell the client that feeling like a bad mother is common and will pass as they gain confidence"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: insomnia even when the baby sleeps, anhedonia, and guilt at 5 weeks. Analyze cues: baby blues peak on days 4–5 and resolve by day 10 (within 2 weeks). Symptoms that persist and worsen fit postpartum depression, which needs treatment. Prioritize hypotheses: PPD with possible self-harm risk. Take action: screen with the EPDS, ask directly about thoughts of self-harm, and refer for treatment. Evaluate outcomes: the client is connected to care and has a safety plan.",
+        "incorrect": [
+          "The idea that blues can last 6 weeks and only need reassurance is the trap. The blues resolve within 2 weeks, so these symptoms at 5 weeks are not blues.",
+          "Restorative sleep helps the blues, but PPD needs screening and treatment now. Waiting skips the safety assessment.",
+          "This dismisses guilt and anhedonia, which are core PPD symptoms. It normalizes cues that need screening."
+        ]
+      }
+    },
+    {
+      "stem": "A family member calls the postpartum unit. A client discharged 10 days ago has not slept for 3 nights, is pacing, and says voices are telling them the baby is “not really theirs.” The client is alone at home with the newborn. What is the nurse's priority instruction?",
+      "options": [
+        "Encourage the client to sleep tonight and schedule an EPDS screening at the next visit",
+        "Give the family the number for Postpartum Support International to find a support group",
+        "Have someone stay with the client and baby at all times and get emergency psychiatric evaluation now",
+        "Reassure the family that mood swings and tearfulness are normal around day 10"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sleep disturbance, agitation, and auditory hallucinations or delusions about the baby, within 3 weeks of birth. Analyze cues: this is postpartum psychosis, a psychiatric emergency with a risk of harm to the client or the infant. Prioritize hypotheses: immediate safety. Take action: tell the family not to leave the client alone (or alone with the baby), and to call 911 or go for emergency psychiatric evaluation now.",
+        "incorrect": [
+          "Scheduling a screening for later is the trap. Hallucinations and delusions are an emergency, and sleep alone will not resolve psychosis.",
+          "Support groups are valuable resources for PPD, but they do not meet an immediate safety need in psychosis.",
+          "Blues are mild mood swings that resolve by about day 10. Hallucinations are never part of the blues."
+        ]
+      }
+    },
+    {
+      "stem": "On a postpartum day-3 visit, a client who has been tearful says quietly, “Sometimes I think my family would be better off without me.” What is the nurse's first action?",
+      "options": [
+        "Explain that baby blues commonly peak on days 4–5 and resolve with rest",
+        "Ask the client directly whether they are having thoughts of hurting or killing themselves",
+        "Give the client the 988 number and suggest calling if the feelings get worse",
+        "Avoid mentioning suicide to prevent suggesting the idea, and offer emotional support"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a statement suggesting the client is thinking about suicide. Analyze cues: mental health conditions, including suicide, are a leading U.S. cause of maternal death. Asking directly does not plant the idea. Prioritize hypotheses: safety comes before teaching or reassurance. Take action: ask directly about thoughts of self-harm or suicide and any plan, stay with the client, and escalate based on the answer.",
+        "incorrect": [
+          "Normalizing a possible suicidal statement as blues skips the safety assessment that must come first.",
+          "988 is the right resource, but handing it over without assessing risk leaves the client alone with an unknown level of danger.",
+          "The belief that asking about suicide puts the idea in the client's head is the trap. Direct questions are safe and necessary."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching a client on day 3 about postpartum mood changes. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "“I might feel weepy and irritable around days 4 or 5.”",
+        "“Getting some real sleep should help the blues improve.”",
+        "“If I have thoughts of harming myself or the baby, I need help right away.”",
+        "“If I'm still sad and can't enjoy anything after a month, I'll wait and mention it at my 6-week visit.”"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the nurse checks the client's understanding of the difference between blues and PPD. Analyze cues: blues (tearfulness, irritability, mood swings, insomnia, fatigue) peak on days 4–5 and resolve by day 10 (self-limiting, within 2 weeks). Symptoms that persist or worsen beyond that point suggest PPD and need screening and treatment. Take action: correct the belief that waiting until 6 weeks is appropriate.",
+        "incorrect": [
+          "Correct understanding. Blues peak on days 4–5.",
+          "Correct understanding. Blues typically resolve with restorative sleep.",
+          "Correct understanding. Thoughts of harm are an emergency at any time."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews postpartum mental health resources with a client before discharge. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "“I can call or text the maternal mental health hotline any time of day or night.”",
+        "“Postpartum Support International can help me find a local support group.”",
+        "“If I ever have thoughts of hurting myself, I'll wait until my next appointment to bring it up.”",
+        "“If I'm in immediate danger, I or my partner should call 911.”"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the nurse checks whether the client matches each resource to the right situation. Analyze cues: the National Maternal Mental Health Hotline (1-833-TLC-MAMA) is available 24/7 by call or text. Postpartum Support International offers support groups. 988 is for thoughts of self-harm, and 911 is for immediate danger. Take action: correct the plan to delay help for thoughts of self-harm.",
+        "incorrect": [
+          "Correct understanding. 1-833-TLC-MAMA is available 24/7 by call or text.",
+          "Correct understanding. PSI provides support groups and a provider directory.",
+          "Correct understanding. Immediate danger calls for 911."
+        ]
+      }
+    }
+  ]
+}

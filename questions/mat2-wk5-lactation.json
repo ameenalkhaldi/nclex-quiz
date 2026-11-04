@@ -1,0 +1,957 @@
+{
+  "topic": "mat2-wk5-lactation",
+  "label": "Maternity 2: Week 5 — Lactation",
+  "questions": [
+    {
+      "stem": "A postpartum client who identifies as nonbinary tells the nurse, \"Please don't call it breastfeeding. I'm feeding my baby from my chest.\" The nurse is writing the feeding plan and the teaching record. Which action is most appropriate?",
+      "options": [
+        "Use \"nursing\" in teaching, because it is the everyday word most families understand, and note the preference in the chart",
+        "Use \"lactating\" in the chart, because it is the clinical term, and say \"chestfeeding\" only when speaking with the client",
+        "Use \"chestfeeding\" in both teaching and documentation, matching the term the client has asked the team to use",
+        "Use \"human milk feeding\" in all teaching, because it is neutral and avoids naming the physical act at all"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client has explicitly named the term they want used for feeding from their chest. Analyze cues: chestfeeding is the inclusive term on the slides for trans or nonbinary parents who feed from their chest, and using the family's preferred term is part of respectful, family-centered care. Take action: use \"chestfeeding\" consistently, in spoken teaching and in the written plan, so every caregiver reinforces the same language. Evaluate outcomes: the client feels respected and stays engaged in feeding teaching.",
+        "incorrect": [
+          "\"Nursing\" is the common everyday term, but the client has already said which word they want. Substituting a different word ignores the cue the client gave.",
+          "\"Lactating\" describes milk production, not the feeding act, and splitting the language between the chart and the bedside means other staff will read and repeat a term the client declined.",
+          "\"Human milk feeding\" is a neutral term that emphasizes the nutrition source, which is useful when no preference is known. Here the client stated a preference, so the nurse should use it rather than choose a different neutral word."
+        ]
+      }
+    },
+    {
+      "stem": "At 30 weeks' gestation, a pregnant client says, \"My mom formula-fed all of us and says breastfeeding is overrated. I'm leaning toward formula, but I haven't decided.\" Which response by the nurse best reflects the recommended approach to choosing a feeding method?",
+      "options": [
+        "\"Let's go over how human milk and formula each meet your baby's nutrition and immune needs, the benefits and risks of each, and then you can decide what fits your family.\"",
+        "\"Your mom's experience matters, but the research clearly favors breastfeeding, so I'd encourage you to at least try it while you're in the hospital.\"",
+        "\"Formula is a safe and complete option, so if that's where you're leaning, I can start teaching you how to prepare bottles at this visit.\"",
+        "\"A lot of people feel pressure from relatives. Let's book a lactation consult now so you can get breastfeeding off to a good start.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client is undecided and is hearing a strong opinion from a family member. Analyze cues: the slides list four parts of counseling on a feeding method: factual information (how human milk vs formula meets nutrition and immune needs), benefits for the infant and the parent, the inherent risks of formula, and respectful guidance that honors the family's final decision. Generate solutions: give balanced facts first, because an informed choice requires them. Take action: offer that complete, nonjudgmental discussion and then support whatever the client decides.",
+        "incorrect": [
+          "This applies pressure (\"at least try it\") instead of giving facts and leaving the decision to the client. Guilt or pressure is the trap answer the guide warns about.",
+          "Formula teaching is appropriate once a family chooses formula, but this client has not decided. Skipping the facts, benefits, and risks means the choice would not be an informed one; this is correct but not yet.",
+          "Booking a lactation consult assumes the client will breastfeed. It answers a decision the client has not made and quietly steers them, which is not respectful guidance."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfeeding client who is para 4 reports severe cramping every time the newborn latches, 6 hours after a vaginal birth. The fundus is firm, midline, and at the umbilicus. Lochia rubra is moderate with no clots. BP 118/72 mm Hg, HR 78/min. Which conclusion and action by the nurse are most appropriate?",
+      "options": [
+        "Prolactin released by suckling is overstimulating the uterus, so the client should shorten feeds until the cramping eases",
+        "Cramping with each feed suggests retained placental fragments, so the nurse should notify the provider about an ultrasound",
+        "The cramping signals early uterine atony, so the nurse should massage the fundus firmly before each feed",
+        "Oxytocin released by suckling is causing expected afterpains, so the nurse should offer the prescribed analgesic and support continued feeding"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: cramping that occurs with each latch in a multipara, with a firm, midline fundus at the umbilicus, moderate rubra without clots, and stable vital signs. Analyze cues: suckling triggers oxytocin from the posterior pituitary, which ejects milk and contracts the uterus. Afterpains during feeds are expected and are worse in multiparas. Prioritize hypotheses: every bleeding cue is normal, so this is expected discomfort, not a complication. Take action: give the prescribed analgesic and encourage continued breastfeeding, because the same contractions control bleeding and promote involution. Evaluate outcomes: pain is tolerable and the fundus stays firm.",
+        "incorrect": [
+          "This mixes up the hormones. Prolactin makes milk; oxytocin causes the letdown and the uterine contractions. Shortening feeds would also reduce milk removal and lower supply.",
+          "Retained fragments present with heavy or increasing bleeding, clots, or a boggy fundus. This client's fundus is firm and lochia is moderate, so this hypothesis does not fit the cues.",
+          "Atony means a boggy uterus. This fundus is already firm, so massage is not indicated; this misreads the cue and adds pain without benefit."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews discharge teaching with a client who is exclusively breastfeeding. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"Breastfeeding releases a hormone that helps my uterus contract and keeps my bleeding down.\"",
+        "\"Breastfeeding may lower my long-term risk of breast and ovarian cancer and type 2 diabetes.\"",
+        "\"Since I'm breastfeeding around the clock, I can wait to talk about birth control until the baby weans.\"",
+        "\"Breastfeeding may help with postpartum weight loss and may lower my risk of postpartum depression.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to delay contraception because they are breastfeeding. Analyze cues: Box 18.4 says breastfeeding gives some protection against conception but is NOT a reliable contraceptive, and a client can ovulate before the first period returns. Prioritize hypotheses: this misunderstanding risks an unplanned, closely spaced pregnancy, so it is the statement that needs correction. Take action: teach that contraception should be discussed now, before resuming intercourse. Evaluate outcomes: the client chooses a method before discharge or at the postpartum visit.",
+        "incorrect": [
+          "This is correct. Oxytocin contracts the uterus, controls bleeding, and promotes involution, which is a parent advantage in Box 18.4.",
+          "This is correct. Box 18.4 lists a lower risk of ovarian, endometrial, and breast cancer and of type 2 diabetes as parent advantages.",
+          "This is correct. Postpartum weight loss and a lower risk of postpartum depression are both parent advantages in Box 18.4."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews four postpartum clients whose plan of care reads \"Breastfeed on demand.\" For which client should the nurse clarify the plan with the provider before the next feeding?",
+      "options": [
+        "A client in a methadone maintenance program who has been stable on the same dose throughout pregnancy",
+        "A client diagnosed yesterday with active pulmonary tuberculosis who has not yet started treatment",
+        "A client with mastitis in the right breast who started oral antibiotics yesterday",
+        "A client with hepatitis B whose newborn received HBIG and the hepatitis B vaccine at birth"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: active pulmonary TB that is not under treatment. Analyze cues: \"Active tuberculosis not under treatment\" is on the slide list of contraindications and cautions, because TB spreads through the air during the close contact of feeding. Prioritize hypotheses: of the four, only this client's plan puts the newborn at risk. Take action: hold direct breastfeeding and clarify the plan with the provider (the guide notes that expressed milk may be given by someone else).",
+        "incorrect": [
+          "Untreated substance use disorder is the contraindication. A parent who is in treatment and stable on methadone is usually encouraged to breastfeed, so this plan is appropriate.",
+          "Mastitis is a common distractor and is not a contraindication. Continued feeding or emptying of the affected breast is part of treatment.",
+          "Hepatitis B is not a contraindication once the newborn has received HBIG and the vaccine, so this plan does not need to be questioned."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing infant-feeding plans on a postpartum unit. For which situations should the nurse anticipate that breastfeeding, or feeding from the affected breast, must be withheld or clarified with the provider? Select all that apply.",
+      "options": [
+        "A client receiving cytotoxic chemotherapy for a newly diagnosed lymphoma",
+        "A client with an open herpes simplex lesion on the left areola who plans to feed from both breasts",
+        "A newborn with physiologic jaundice whose bilirubin is rising slowly",
+        "A newborn whose screen confirms galactosemia",
+        "A client with a cold, nasal congestion, and a mild cough",
+        "A client on day 2 of oral antibiotics for mastitis in the right breast"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Recognize and analyze the cues against the slide 7 list: cytotoxic chemotherapy, an HSV lesion on a breast (no feeding from that breast until it heals), and galactosemia in the infant all require a change in plan. Jaundice, a cold, and mastitis are classic distractors that do not contraindicate breastfeeding.",
+        "incorrect": [
+          "Correct—cytotoxic chemotherapy passes into milk and is toxic to the infant, so breastfeeding is contraindicated.",
+          "Correct—direct contact with an HSV lesion can spread herpes to the newborn. The baby should not feed from the left breast until it heals.",
+          "Incorrect—jaundice is not a contraindication. The baby should feed MORE often to promote stooling and bilirubin excretion.",
+          "Correct—galactosemia is the only infant condition on the list. The baby cannot process the galactose in lactose, so breast milk is stopped and a special lactose-free formula is used.",
+          "Incorrect—a cold or flu is not a contraindication. Hand hygiene is appropriate and breastfeeding continues.",
+          "Incorrect—mastitis is not a contraindication. The client should keep feeding or emptying the affected breast along with the antibiotics."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-day-old exclusively breastfed newborn has poor feeding, vomiting, and worsening jaundice, and the newborn screen is positive for galactosemia. The parent says, \"I really want my baby to have my milk. I'll pump and give it in a bottle instead.\" Which response by the nurse is best?",
+      "options": [
+        "\"Pumping is a good compromise, because the problem is the way your baby is feeding at the breast, not the milk.\"",
+        "\"Your milk contains lactose, which your baby can't break down, so the provider will order a special lactose-free formula.\"",
+        "\"You can keep giving your milk if it's mixed half-and-half with formula so the sugar is diluted.\"",
+        "\"We'll use a standard cow's-milk formula for now and restart breastfeeding once the jaundice clears.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: vomiting, poor feeding, and worsening jaundice with a positive galactosemia screen. Analyze cues: an infant with galactosemia cannot metabolize galactose, which comes from the lactose in breast milk and standard formula. Galactosemia is the one infant condition on the contraindication list. Generate solutions: the problem is the milk itself, not how it is delivered. Take action: explain kindly why breast milk must stop and that a lactose-free (special) formula will be used. Evaluate outcomes: vomiting stops and jaundice improves on the new formula.",
+        "incorrect": [
+          "This misreads the cue. Pumping changes only how the milk is delivered. The lactose that harms this infant is still in the milk.",
+          "Diluting breast milk with formula still gives the infant galactose, and the standard formula adds more lactose. The infant still receives the substance they cannot process.",
+          "Standard cow's-milk formula contains lactose, and galactosemia is a metabolic condition, not a temporary jaundice problem. This plan would keep harming the infant."
+        ]
+      }
+    },
+    {
+      "stem": "A client living with HIV in the United States has had an undetectable viral load on antiretroviral therapy throughout pregnancy and is discussing infant feeding with the nurse. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"Because my viral load is undetectable, there is no chance at all that my baby could get HIV from my milk.\"",
+        "\"My decision should take into account my treatment plan, my viral load, and the current guidelines.\"",
+        "\"I want to talk through my feeding goals with my whole health care team before I decide.\"",
+        "\"Keeping my viral load suppressed is a big part of why breastfeeding is something we can even discuss.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client describes the risk from an undetectable viral load as zero. Analyze cues: in high-resource settings, the slide answer is shared decision-making that weighs treatment, viral suppression, current guidelines, and the family's feeding goals. An undetectable load lowers transmission risk but does not make it zero. Prioritize hypotheses: this misconception could lead to a decision made without understanding the remaining risk. Take action: clarify that risk is reduced, not absent, and continue the shared decision-making conversation.",
+        "incorrect": [
+          "This is accurate. Treatment, viral suppression, and guidelines are exactly the factors the slide lists for the decision.",
+          "This is accurate. Including the client's goals and the health care team is the shared decision-making approach the slide recommends.",
+          "This is accurate. Viral suppression is what makes breastfeeding something that can be discussed in a high-resource setting rather than ruled out."
+        ]
+      }
+    },
+    {
+      "stem": "A postpartum client who has been stable on methadone in a treatment program throughout pregnancy asks whether it is safe to breastfeed. The term newborn is being monitored for withdrawal. Which response by the nurse is most appropriate?",
+      "options": [
+        "\"Formula is the safer choice, because methadone passes into breast milk and could make withdrawal worse.\"",
+        "\"Because you're in treatment and stable, breastfeeding is usually encouraged. I'll let your provider know your plan.\"",
+        "\"You can pump, but the milk should be discarded until your baby's withdrawal scoring is finished.\"",
+        "\"Breastfeeding is possible if you taper off methadone before discharge so your milk is drug-free.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client is in a treatment program and stable on methadone. Analyze cues: the contraindication on the slides is UNtreated substance use disorder. The guide notes that a parent in treatment, such as one stable on methadone, is usually encouraged to breastfeed. Generate solutions: support the client's choice and keep the provider informed. Take action: encourage breastfeeding and communicate the plan. Evaluate outcomes: the newborn feeds well and the withdrawal scores stay manageable.",
+        "incorrect": [
+          "This treats any substance use history as a contraindication, which is the trap in the guide. The qualifier that matters is \"untreated,\" and this client is in treatment.",
+          "Discarding milk throws away the benefits of breastfeeding with no indication to do so and undermines supply for a client who is eligible to breastfeed.",
+          "Tapering off methadone quickly to breastfeed would destabilize the client's recovery. Stable treatment is what makes breastfeeding appropriate, so stopping it is unsafe."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfeeding client 3 weeks postpartum is prescribed a new medication for migraines and asks whether it is safe for the baby. Which action by the nurse is most appropriate?",
+      "options": [
+        "Advise the client to pump and discard milk for 24 hours after each dose until the migraines stop",
+        "Advise the client to stop breastfeeding while taking the medication and to use formula meanwhile",
+        "Advise the client to take each dose right after a feeding so that less of the drug reaches the milk",
+        "Look up the drug in LactMed and review what it says with the prescriber or pharmacist before the first dose"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a new prescription for a lactating client and an open question about infant safety. Analyze cues: \"some medications\" is on the slide contraindication list, and the guide directs the nurse to LactMed (lactmed.org) to check them. Most medications are not an automatic reason to stop. Generate solutions: get drug-specific evidence before advising the client. Take action: check LactMed and confirm with the prescriber or pharmacist so the plan is based on evidence.",
+        "incorrect": [
+          "Pumping and discarding without evidence that the drug is unsafe wastes milk, adds burden, and can disrupt supply. It acts before the facts are gathered.",
+          "Stopping breastfeeding is a major step that may not be needed. It skips Analyze cues by deciding before the drug has been checked.",
+          "Timing a dose after a feed can be a useful strategy once the drug is confirmed to be compatible, but it is correct but not yet: safety must be checked first."
+        ]
+      }
+    },
+    {
+      "stem": "At a prenatal visit, a pregnant client who had breast reduction surgery 5 years ago says, \"I want to breastfeed, but my friend said I'll have to use formula.\" Which response by the nurse is best?",
+      "options": [
+        "\"Breast reduction surgery cuts the milk ducts, so formula will be the safest way to make sure your baby is fed.\"",
+        "\"Surgery that long ago won't affect your supply, so you can plan to breastfeed exclusively without extra checks.\"",
+        "\"Prior surgery can affect supply, so let's plan to breastfeed, track diapers and weight closely, and supplement only if your supply is inadequate.\"",
+        "\"You can try breastfeeding, but give formula after every feed from day 1 so your baby doesn't lose too much weight.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client wants to breastfeed and has a history of breast surgery. Analyze cues: the slides list breast surgery (bfar.org) as a reason families may use formula, and formula may supplement breastfeeding if human-milk supply is inadequate. Surgery is a risk factor, not a contraindication. Generate solutions: support the client's goal while watching for low supply. Take action: plan breastfeeding with close monitoring of output and weight, and supplement only if the data show a need. Evaluate outcomes: the infant meets output and weight goals, or supplementation is started promptly if not.",
+        "incorrect": [
+          "This turns a risk factor into a rule and overrides the client's goal. Many clients can breastfeed after reduction surgery, fully or partly.",
+          "This dismisses a real risk. Without monitoring, low supply could be missed until the infant loses too much weight.",
+          "Routine formula after every feed from day 1 is supplementation without an indication. It reduces milk removal and can lower the supply that is already at risk."
+        ]
+      }
+    },
+    {
+      "stem": "A formula-feeding parent of a 14-hour-old term newborn is upset: \"The night nurse told me to get at least 2 ounces into him, but he takes about a teaspoon, turns away, and spits up when I keep going.\" Which response by the nurse is best?",
+      "options": [
+        "\"About 5 mL a feeding is average on the first day, because his stomach holds only 5 to 7 mL. Let him stop when he turns away.\"",
+        "\"Keep offering until he finishes about 30 mL every 3 to 4 hours so he doesn't lose too much weight.\"",
+        "\"Give him 5 mL every hour instead of every 3 to 4 hours so his total intake for the day adds up.\"",
+        "\"Try a different formula brand, because spitting up after such small feeds suggests he doesn't tolerate this one.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 14-hour-old taking about a teaspoon, turning away (a fullness cue), and spitting up when pushed. Analyze cues: the slides give an average formula feed of 5 mL in the first 24 hours and 10 mL in the second 24 hours, and a day-1 stomach holds only 5–7 mL (the size of a cherry). Prioritize hypotheses: the infant is feeding normally, and the problem is overfeeding. Take action: reassure the parent, teach the expected volumes, and teach responding to fullness cues. Evaluate outcomes: spitting up stops and the parent stops forcing feeds.",
+        "incorrect": [
+          "30 mL is several times the size of a day-1 stomach. Forcing that volume causes the spitting up the parent describes and teaches the baby to ignore fullness cues.",
+          "Hourly feeds abandon the every 3–4 hour schedule on the slide and are based on the false idea that the baby is underfed.",
+          "The slide teaches using the same type of formula consistently. Spitting up here comes from overfeeding, so changing brands treats the wrong cause."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse evaluates discharge teaching with a parent who is formula feeding. Which statement by the parent indicates a need for further teaching?",
+      "options": [
+        "\"I'll hold her semi-upright during feeds and burp her partway through and at the end.\"",
+        "\"For night feeds, I'll prop the bottle on a rolled blanket so I can rest while she eats.\"",
+        "\"I'll throw away whatever formula is left in the bottle after each feeding.\"",
+        "\"I'll mix the powder exactly as the label says, even if we start running low.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the parent plans to prop the bottle. Analyze cues: Box 18.5-type safety teaching says not to prop a bottle, because it causes choking and aspiration risk, ear infections, and dental caries, and the baby loses the holding and eye contact of a feed. Prioritize hypotheses: propping is the unsafe plan here, and \"needs further teaching\" items look for propping, microwaving, rotating brands, or pumping non-nursing breasts. Take action: reteach holding the baby for every feed and suggest night-feed strategies that keep the parent safe and rested.",
+        "incorrect": [
+          "This is correct. A semi-upright hold with burping during and after the feed is standard formula teaching.",
+          "This is correct. Leftover formula in a bottle the baby has fed from should be discarded.",
+          "This is correct. Mixing exactly as directed prevents dilution (water intoxication, poor growth) and over-concentration, even when supplies are short."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is preparing teaching for a parent who has chosen to formula feed a term newborn. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Use the same type of formula consistently rather than switching between brands",
+        "Feed about every 3 to 4 hours, increasing the amount gradually as the baby grows",
+        "Warm bottles briefly in the microwave, then test a few drops on the inner wrist",
+        "Add a little extra water to the formula when the baby seems thirsty on hot days",
+        "Refrigerate prepared formula and discard what is left in the bottle after a feeding",
+        "Put the baby to bed with a small bottle to help the baby settle to sleep"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Generate solutions from the slide and Box 18.5 teaching: same formula type every time, feed every 3–4 hours with gradual increases, refrigerate prepared formula, and discard leftovers. Microwaving, diluting, and putting a baby to bed with a bottle are the classic unsafe distractors.",
+        "incorrect": [
+          "Correct—the slide teaches using the same type of formula consistently. Rotating brands is a listed trap.",
+          "Correct—the slide teaches feeding every 3–4 hours with a gradual introduction of increasing amounts.",
+          "Incorrect—microwaving creates hot spots that a wrist test on a few drops does not detect, which risks burns to the mouth.",
+          "Incorrect—diluting formula reduces calories and can cause water intoxication and poor growth. Formula is mixed exactly as directed.",
+          "Correct—prepared formula is refrigerated, and leftovers in a bottle the baby fed from are discarded.",
+          "Incorrect—putting a baby to bed with a bottle risks choking and dental caries. The baby is held for feeds."
+        ]
+      }
+    },
+    {
+      "stem": "Twenty hours after birth, a breastfeeding client says, \"Only a few drops of thick yellow stuff come out. My baby is getting nothing. Shouldn't we give formula until my real milk comes in?\" The newborn has fed 8 times, swallows audibly, and has lost 3% of birth weight. Which response by the nurse is best?",
+      "options": [
+        "\"That yellow milk is mostly water to keep your baby hydrated, so small amounts are fine until the richer milk comes in.\"",
+        "\"Your milk should come in within the next day, so a small formula top-up after feeds until then will prevent weight loss.\"",
+        "\"Colostrum has less protein than mature milk, so frequent feeds are what make up the difference for now.\"",
+        "\"That thick yellow milk is colostrum. It is concentrated and rich in protein and antibodies, and a few milliliters fits your baby's stomach today.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: small volumes of thick yellow milk, 8 feeds, audible swallowing, and only 3% weight loss at 20 hours. Analyze cues: colostrum is more concentrated than mature milk, extremely rich in immunoglobulins, higher in protein and minerals, and lower in fat, and a day-1 stomach holds only 5–7 mL. Prioritize hypotheses: feeding is going normally, so supplementation is not indicated. Take action: explain colostrum's value and its fit with stomach size. Evaluate outcomes: the client continues feeding on cue without formula.",
+        "incorrect": [
+          "This is the trap statement in the guide (\"colostrum is mostly water\"). Colostrum is concentrated, protein- and antibody-rich milk, not water.",
+          "Mature milk comes in on days 3–5, not within a day. Supplementing a baby whose data are normal is not indicated and reduces milk removal.",
+          "This reverses the facts. Colostrum is HIGHER in protein and minerals than mature milk; it is lower in fat."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a 10-day-old breastfed infant says the baby \"feeds constantly\" and is fussy after feeds. The parent switches breasts every 4 to 5 minutes \"so both sides stay even.\" The infant is just back to birth weight. Which instruction should the nurse give?",
+      "options": [
+        "\"Switch sides every 2 minutes instead, so letdown is triggered more often on both breasts.\"",
+        "\"Space feeds to every 3 hours so your breasts fill up more and each feed is bigger.\"",
+        "\"Keep the baby on the first breast until it softens and the baby comes off, then offer the second side.\"",
+        "\"Pump after each feed and give the pumped milk by bottle so the baby takes in more volume.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: very short time on each breast, frequent hunger, and fussiness after feeds. Analyze cues: foremilk (about 60% skim and 35% whole) comes first. The fat-rich hindmilk (about 5%, the \"cream\") lets down 10–20 minutes into a feed and gives the dense calories that support growth and contentment. Switching every 4–5 minutes keeps the baby on foremilk. Take action: finish the first breast before offering the second. Evaluate outcomes: longer stretches of contentment between feeds and steady weight gain.",
+        "incorrect": [
+          "Switching even sooner makes the problem worse. The baby never reaches the hindmilk that lets down 10–20 minutes into a feed.",
+          "Feeding by the clock instead of on cue lowers how often the breasts are emptied and can lower supply. It also does not fix the missing hindmilk.",
+          "Pumping and bottle-feeding adds work and bypasses the real fix, which is letting the baby finish one breast."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfeeding client asks how the body \"knows\" how much milk to make. Which statement by the client indicates correct understanding of the nurse's teaching?",
+      "options": [
+        "\"When the baby sucks, prolactin from my posterior pituitary squeezes milk out, so longer feeds mean more milk.\"",
+        "\"When the baby empties my breasts often, prolactin from my anterior pituitary rises and tells my body to make more milk.\"",
+        "\"Oxytocin from my anterior pituitary makes the milk, so cramping during feeds means my supply is good.\"",
+        "\"My supply was set during pregnancy by estrogen, so how often I feed mostly affects my comfort, not my volume.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: slide 12 shows two pathways. For milk production, suckling signals the hypothalamus, then the anterior pituitary, then prolactin, then milk synthesis. For letdown, suckling signals the posterior pituitary, then oxytocin, then milk ejection. Milk is made on supply and demand: more removal means more milk. Evaluate outcomes: this client correctly links frequent emptying to rising prolactin and greater supply, which supports feeding 8–12 times a day.",
+        "incorrect": [
+          "This mixes up the two hormones. Oxytocin from the POSTERIOR pituitary ejects milk; prolactin from the ANTERIOR pituitary makes it. Supply depends on how often milk is removed, not just on feed length.",
+          "Oxytocin comes from the posterior pituitary and causes letdown and uterine contractions, not milk synthesis. Cramping does not measure supply.",
+          "Estrogen and progesterone hold milk back during pregnancy. They fall after the placenta is delivered. Supply after birth depends on removal, so how often the client feeds directly drives volume."
+        ]
+      }
+    },
+    {
+      "stem": "On postpartum day 5, a breastfeeding client calls the nurse: \"My milk still hasn't come in and the baby is fussy.\" The client also reports bright red bleeding that has increased over the past 2 days and passing several clots. Which hypothesis should the nurse prioritize?",
+      "options": [
+        "Infrequent feeding, which keeps prolactin low, so the client needs to feed 8 to 12 times a day",
+        "A normal variation, because mature milk can take up to 2 weeks to come in after a first birth",
+        "Postpartum depression, which suppresses oxytocin and blocks the letdown reflex",
+        "Retained placental fragments, which keep estrogen and progesterone high and delay milk while causing bleeding"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: no milk on day 5 together with increasing bright red bleeding and clots. Analyze cues: estrogen and progesterone from the placenta hold milk back during pregnancy, and their drop after the placenta delivers lets milk come in (typically days 3–5). Retained placenta delays milk, and retained tissue also explains the abnormal bleeding. Prioritize hypotheses: one cause explains both findings and can lead to hemorrhage. Take action: have the client seen urgently and notify the provider.",
+        "incorrect": [
+          "Feeding frequency is worth checking, but it does not explain increasing bright red bleeding with clots on day 5. This skips the most dangerous cue.",
+          "Mature milk typically comes in on days 3–5. Calling this normal ignores the bleeding and delays care for a possible hemorrhage.",
+          "Depression should be screened for, but it does not account for heavy, increasing bleeding. It is not the priority hypothesis."
+        ]
+      }
+    },
+    {
+      "stem": "A term newborn is born vaginally, cries vigorously, has a heart rate of 150/min, and has good tone. The parent plans to breastfeed. Prescriptions include weight and measurements, a bath, vitamin K IM, and erythromycin eye ointment. Which action should the nurse take first?",
+      "options": [
+        "Weigh and measure the newborn under the radiant warmer, then return the baby to the parent for skin-to-skin",
+        "Dry the newborn, place the baby skin-to-skin on the parent's chest, and support a first breastfeed as soon as possible",
+        "Give the vitamin K and eye ointment first so that skin-to-skin will not need to be interrupted later",
+        "Bathe the newborn under the radiant warmer to stabilize temperature before the first breastfeed"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a vigorous, stable term newborn and a parent who plans to breastfeed. Analyze cues: slide 14 directs the nurse to facilitate immediate and uninterrupted skin-to-skin contact and to support starting breastfeeding as soon as possible after birth. Skin-to-skin stabilizes temperature, heart rate, and breathing, helps prevent hypoglycemia, and raises maternal oxytocin. Generate solutions: routine procedures can wait for a stable newborn. Take action: dry the baby, place them skin-to-skin, and support the first feed. Evaluate outcomes: the newborn stays warm and stable and latches within the first hour.",
+        "incorrect": [
+          "Measurements are routine and can wait. Doing them first interrupts the skin-to-skin period the slide calls for.",
+          "Vitamin K and eye ointment are needed, but they are not urgent in a stable newborn. Doing them first delays skin-to-skin, which is right action, wrong priority.",
+          "A bath removes the newborn from skin-to-skin and causes heat loss. Skin-to-skin itself stabilizes temperature, so the bath should wait."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfeeding parent of a 2-day-old says, \"He started rooting and sucking on his fist about 10 minutes ago, but I'm waiting until 3 hours have passed and he cries so I know he's really hungry.\" Which response by the nurse is best?",
+      "options": [
+        "\"Change his diaper and hold him skin-to-skin to settle him, then feed him once the 3 hours are up.\"",
+        "\"Offer him a pacifier until the 3-hour mark so your breasts have time to refill between feeds.\"",
+        "\"Feed him now, but keep it to one breast so that you stay on a 3-hour schedule today.\"",
+        "\"Offer the breast now. Rooting and hand-to-mouth are early hunger cues, and crying is a late cue that makes latching harder.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: rooting and fist-sucking in a 2-day-old while the parent waits for the clock and for crying. Analyze cues: breastfed newborns feed 8–12 times in 24 hours on cue. Early cues are rooting, hand-to-mouth, and lip smacking, and crying is a LATE cue. A strict schedule is a trap answer in the guide. Take action: feed now. Evaluate outcomes: the baby latches more easily when calm, and frequent removal builds supply.",
+        "incorrect": [
+          "Settling the baby to wait for the clock ignores the hunger cues. On-cue feeding, not a fixed schedule, drives supply.",
+          "A pacifier delays a needed feed and reduces breast stimulation. Breasts make more milk when emptied more often, not when they \"refill.\"",
+          "Limiting the feed to keep a schedule shortens milk removal and can keep the baby from reaching the hindmilk."
+        ]
+      }
+    },
+    {
+      "stem": "On day 2, a breastfeeding parent says, \"Every evening he wants to eat every hour for about 4 hours. I must not have enough milk. Can we give formula tonight?\" The newborn has lost 5% of birth weight, has had 4 wet diapers and 3 stools in 24 hours, and swallows audibly at feeds. Which response by the nurse is best?",
+      "options": [
+        "\"Feeding every hour means your supply is low right now, so a small formula top-up after evening feeds will let your breasts refill.\"",
+        "\"Let's stretch the evening feeds to every 2 hours so he takes in larger, more satisfying feeds.\"",
+        "\"Frequent evening feeds are called cluster feeding and are normal. His weight, diapers, and swallowing show milk is getting through, so formula isn't needed now.\"",
+        "\"You've been up a lot, so let's have the nursery give him a bottle tonight and you can feed him in the morning.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hourly evening feeds, 5% weight loss, appropriate output for day 2, and audible swallowing. Analyze cues: cluster feeding is normal, and a request to supplement because of cluster feeding alone is NOT an indication. Weight loss under 10% and audible swallowing show milk transfer. Prioritize hypotheses: this is normal behavior, not low supply. Take action: reassure the parent with the baby's own data and keep feeding on cue. Evaluate outcomes: the parent continues to breastfeed and the baby's output keeps rising.",
+        "incorrect": [
+          "This is the trap that treats cluster feeding as a need for formula. The data show adequate transfer, and formula would reduce milk removal on a key night for building supply.",
+          "Spacing feeds overrides the baby's cues and reduces breast stimulation. Supply grows with more frequent emptying, not less.",
+          "Supplementing because the parent is tired is not a medical indication. It reduces milk removal; the nurse can support rest in other ways."
+        ]
+      }
+    },
+    {
+      "stem": "A client who is 8 hours post-cesarean birth is sitting up in a chair and says the newborn \"kicks my incision\" in the cradle hold. The client wants to stay upright for this feed. Which position should the nurse help the client use?",
+      "options": [
+        "Football (clutch) hold, with the baby tucked along the client's side under the arm",
+        "Cross-cradle hold, with the baby lying across the client's abdomen on a pillow",
+        "Side-lying position in bed, with the baby facing the client tummy-to-tummy",
+        "Laid-back position, with the baby lying prone on the client's abdomen"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a fresh cesarean incision, pain when the baby's body rests across the abdomen, and a client who wants to stay upright. Analyze cues: the football (clutch) hold keeps the baby's body along the client's side and off the incision, and the guide names it as a good position after a cesarean. Generate solutions: choose the hold that meets both the comfort need and the client's preference. Take action: position the baby along the side with the ear, shoulder, and hip in line, supported by pillows. Evaluate outcomes: the client feeds comfortably with no pressure on the incision.",
+        "incorrect": [
+          "Cross-cradle still lays the baby across the abdomen. A pillow helps, but the baby's legs remain over the incision.",
+          "Side-lying also keeps the baby off the incision, but the client wants to stay upright in the chair, so it does not meet this client's goal.",
+          "Laid-back positioning puts the baby's full weight prone on the abdomen, directly over the fresh incision."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse observes a parent latching a 1-day-old newborn. Which action by the parent requires the nurse to intervene?",
+      "options": [
+        "Leans forward and pushes the breast into the baby's mouth as soon as the lips touch the nipple",
+        "Lines the baby's nose up with the nipple and waits for the baby to open the mouth wide",
+        "Lets the chin touch the breast first so that more areola goes in below the nipple than above",
+        "Aims the nipple toward the roof of the baby's mouth as the baby latches on"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the parent leans over and pushes the breast into a mouth that has not opened wide. Analyze cues: the latch steps are nose to nipple, wait for a wide-open mouth, aim the nipple toward the roof of the mouth, and let the chin touch the breast first for a deep, asymmetric latch. Bringing the breast to a partly open mouth gives a shallow latch, which causes pain, cracked nipples, and poor transfer. Take action: coach the parent to sit back, wait for the wide gape, and bring the baby to the breast.",
+        "incorrect": [
+          "This is correct technique. Nose to nipple and waiting for a wide-open mouth come first in the latch sequence.",
+          "This is correct technique. Chin first gives the deep, asymmetric latch with more areola below than above.",
+          "This is correct technique. Slide 15 shows aiming the nipple toward the roof of the mouth."
+        ]
+      }
+    },
+    {
+      "stem": "On day 2, a breastfeeding client reports nipple pain of 7/10 that lasts through the whole feed. The nurse hears clicking sounds, sees that the infant's lips are rolled inward, and notes that the nipple is creased and wedge-shaped after the feed. Which action should the nurse take first?",
+      "options": [
+        "Apply lanolin after each feed and encourage the client to continue with the current technique",
+        "Have the client pump and bottle-feed for 24 hours so that the nipple has a chance to heal",
+        "Start feeds on the less sore side and offer the prescribed analgesic before the next feed",
+        "Observe a full feed and help reposition the infant for a deeper, asymmetric latch with flanged lips"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pain throughout the feed, clicking, lips rolled in, and a creased, wedge-shaped nipple. Analyze cues: slides 19–20 list these as signs of a poor or shallow latch, which leads to a flattened, wedged, creased nipple and eventually a crack. Prioritize hypotheses: the shallow latch is the cause, and pain is not \"normal breastfeeding.\" Take action: observe a full feed and correct the latch and position. Evaluate outcomes: rhythmic suck–swallow, no clicking, lips flanged, and a rounded nipple after the feed.",
+        "incorrect": [
+          "Lanolin is optional comfort only. Continuing the same technique guarantees ongoing damage, which is the guide's trap answer.",
+          "Switching to bottles \"to rest the nipple\" lowers supply and does not fix the latch. The damage will return when breastfeeding resumes.",
+          "Starting on the less sore side is a reasonable comfort measure, but it is right action, wrong priority. The cause, the shallow latch, must be fixed first."
+        ]
+      }
+    },
+    {
+      "stem": "A client with sore nipples has received teaching on nipple care. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll start each feed on the less sore side, since my milk will already be flowing when I switch.\"",
+        "\"I'll express a few drops of milk onto my nipples and let them air-dry after feeds.\"",
+        "\"If the pain continues even after we fix the latch, I'll ask to see the lactation consultant.\"",
+        "\"I'll keep feeds on the sore side to 5 minutes until it heals so the nipple can rest.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client plans to cut feeds short on the sore side. Analyze cues: the guide says not to limit feeding time or skip feeds to rest the nipple, because less removal lowers supply and short feeds miss the hindmilk. Soreness is treated by fixing the latch. Prioritize hypotheses: this plan would reduce supply and cause engorgement on that side. Take action: reteach that the fix is a deeper latch, not shorter feeds.",
+        "incorrect": [
+          "This is correct. Starting on the less sore side means letdown is already flowing when the baby moves to the sore side.",
+          "This is correct. Expressing milk onto the nipple and letting it air-dry after feeds is on the Week 6 breast-care slide.",
+          "This is correct. Persistent pain after the latch is corrected is a reason to refer to an IBCLC."
+        ]
+      }
+    },
+    {
+      "stem": "On day 4, a breastfeeding client's breasts are hard, warm, and tender on both sides, and the newborn slides off the tight areola without latching. Temperature is 37.4°C (99.3°F). Which action should the nurse take first?",
+      "options": [
+        "Apply warm compresses and gentle massage, then hand-express a little milk to soften the areola before latching",
+        "Apply ice packs to both breasts right before the feed so the swelling goes down enough to latch",
+        "Give a bottle of formula for this feed and let the breasts rest until the swelling eases",
+        "Have the client wear a tight binder and avoid pumping until the engorgement resolves"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: bilateral, hard, warm, tender breasts on day 4, a near-normal temperature, and a baby who cannot grasp the tight areola. Analyze cues: this is engorgement as the milk comes in (from increased blood and lymph supply), not infection. For a BREASTFEEDING client, the slides say warmth and massage before feeding, cold between feedings, and frequent emptying. Take action: warmth and massage to help letdown, then hand-express to soften the areola so the baby can latch. Evaluate outcomes: the baby latches, the breasts soften after the feed, and engorgement eases within about 24–48 hours.",
+        "incorrect": [
+          "Cold belongs BETWEEN feedings. Ice right before a feed works against letdown, which is the guide's trap (\"ice before feeding\").",
+          "Skipping a feed to let the breasts rest leaves milk in the breast, which worsens engorgement and signals the body to make less milk.",
+          "A tight binder and no milk removal is the plan for a client who is NOT breastfeeding. For this client it would worsen engorgement and suppress supply."
+        ]
+      }
+    },
+    {
+      "stem": "A client who has chosen formula feeding has full, tender breasts on postpartum day 3. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "\"I'll wear a snug, supportive bra day and night for the next few days.\"",
+        "\"When the pressure gets bad, I'll pump just enough to take the edge off.\"",
+        "\"I'll put ice packs on my breasts and under my arms.\"",
+        "\"I'll keep the hot shower water off my breasts for now.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a client who is NOT breastfeeding plans to pump to relieve fullness. Analyze cues: for non-nursing breasts the goal is milk OFF. Any expression or breast stimulation signals the body to make more milk. The slides say do not express milk, and that the milk is gradually reabsorbed as prolactin falls within about 2 weeks. Prioritize hypotheses: pumping, even a little, will prolong engorgement. Take action: reteach no pumping or stimulation, and offer ice and analgesia for comfort.",
+        "incorrect": [
+          "This is correct. A tight, supportive bra worn around the clock for a few days is the non-nursing plan.",
+          "This is correct. Ice packs go on the breasts AND the axillae.",
+          "This is correct. Avoiding hot water on the breasts in the shower prevents stimulation of letdown."
+        ]
+      }
+    },
+    {
+      "stem": "Two clients share a postpartum room on day 2. One is breastfeeding and the other is formula feeding. Which breast-care instruction should the nurse give to BOTH clients?",
+      "options": [
+        "Apply warm compresses and massage the breasts when they feel full",
+        "Apply ice packs to the breasts and axillae for comfort",
+        "Wear a supportive bra",
+        "Express a small amount of milk to relieve fullness"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: one client wants milk ON and the other wants milk OFF. Analyze cues: Week 6 slide 39 lists a supportive bra for the breastfeeding client and a supportive (tight) bra for the non-breastfeeding client. Every other measure helps one goal and works against the other. Generate solutions: choose the only overlapping instruction. Take action: teach both clients to wear a supportive bra. This is the exact \"correct for BOTH\" trap the guide predicts.",
+        "incorrect": [
+          "Warmth and massage promote letdown. That helps the breastfeeding client before feeds but stimulates milk in the formula-feeding client.",
+          "Ice to the breasts and axillae is the non-nursing plan. A breastfeeding client uses cold only BETWEEN feeds and does not need ice to the axillae to suppress milk.",
+          "Expressing milk helps a breastfeeding client soften the areola, but for a formula-feeding client any expression signals the body to keep making milk."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfeeding client on day 2 of oral antibiotics for mastitis in the right breast says, \"I'll feed only from the left side until the infection clears so the baby doesn't get sick.\" Which response by the nurse is best?",
+      "options": [
+        "\"That's a sensible plan. Pump the right side and throw that milk away until you finish the antibiotics.\"",
+        "\"Keep feeding or pumping from the right breast often. Emptying it is part of treating mastitis and protects your supply.\"",
+        "\"Feed from the left, and use ice on the right breast between feeds so the milk on that side dries up.\"",
+        "\"Pause breastfeeding on both sides until you have been fever-free for 24 hours on the antibiotics.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a client being treated for mastitis plans to stop feeding from the affected breast. Analyze cues: mastitis is NOT a contraindication. The guide's right answer is to keep breastfeeding or emptying the breast along with antibiotics, and \"stop breastfeeding on that side\" is the listed trap. Milk left in the breast worsens inflammation. Take action: encourage frequent feeding or pumping from the right breast. Evaluate outcomes: the breast softens, fever resolves, and supply is maintained on both sides.",
+        "incorrect": [
+          "Pumping removes milk, but discarding it is unnecessary and the plan still rests on the false idea that the milk is unsafe for the baby.",
+          "Suppressing milk on the affected side leaves the breast full and inflamed, which slows recovery and permanently lowers supply on that side.",
+          "Stopping both sides leaves both breasts full, worsens the mastitis, and interrupts breastfeeding for no reason."
+        ]
+      }
+    },
+    {
+      "stem": "A 31-week preterm infant in the NICU needs more milk than the parent is currently able to pump. The parent wants the infant to receive only human milk. Which plan does the nurse anticipate?",
+      "options": [
+        "Milk from a peer-to-peer sharing network arranged by the parent, given in place of further pumping",
+        "Preterm formula for all feeds so intake can be measured, with pumped milk frozen for after discharge",
+        "The parent's own milk only, with feeds spaced farther apart until the pumped volume increases",
+        "Pasteurized donor milk from a regulated milk bank, with the parent continuing to pump to build supply"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a preterm infant with a clinical need for milk, an inadequate pumped volume, and a parent who wants human milk. Analyze cues: slide 24 says regulated milk banks serve clinical needs, and the guide's supplementation order is the parent's own expressed milk first, then pasteurized donor milk, then formula, while pumping protects supply. Preterm infants gain the most from human milk. Take action: give all of the parent's milk that is available, make up the shortfall with pasteurized bank milk, and keep the parent pumping. Evaluate outcomes: the infant meets intake goals and the parent's supply rises.",
+        "incorrect": [
+          "Peer-to-peer milk is unscreened and unpasteurized, which is a poor fit for a fragile preterm infant when a regulated bank is available, and stopping pumping would reduce supply.",
+          "Formula is the last option in the order. Freezing the parent's milk for later means the preterm infant misses human milk when it matters most.",
+          "Spacing feeds to wait for supply underfeeds a preterm infant. Supply is built by pumping, not by delaying the infant's intake."
+        ]
+      }
+    },
+    {
+      "stem": "A staff RN with 3 years of postpartum experience wants to become an International Board Certified Lactation Consultant (IBCLC) through Pathway 1. Which plan meets the requirements described in the course?",
+      "options": [
+        "Complete 90 hours of lactation education and 500 hours of clinical practice directly supervised by an IBCLC, then pass the exam",
+        "Complete 95 hours of education and 1,000 hours of clinical practice within 10 years, then recertify every 10 years",
+        "Complete 95 hours of education (90 in lactation, including the WHO Code, and 5 in communication) and 1,000 clinical hours within 5 years, then pass the exam",
+        "Complete 1,000 hours of lactation clinical practice, using RN licensure in place of the lactation education hours"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: slide 26 says an RN meets the health-sciences requirement. The candidate also completes 95 hours of education (90 in lactation, including 2 hours on the WHO Code on marketing breast-milk substitutes, and 5 in communication) and, for Pathway 1, 1,000 hours of lactation-specific clinical practice, both within the 5 years before applying. The clinical hours do not require direct IBCLC supervision. The candidate then passes a 175-question exam of about 4 hours and recertifies every 5 years. Generate solutions: only this plan includes every element. Take action: the nurse follows this plan to become a resource for referrals.",
+        "incorrect": [
+          "Education is 95 hours, not 90, and Pathway 1 is 1,000 hours that do NOT require direct IBCLC supervision.",
+          "Both the education and clinical hours must fall within 5 years before applying, and recertification is every 5 years, not 10.",
+          "RN licensure meets the health-sciences background requirement only. It does not replace the 95 hours of lactation-specific education."
+        ]
+      }
+    },
+    {
+      "stem": "A first-time parent shows the nurse three feeding apps and a wearable pump and says, \"I'm tracking every minute on each side and the numbers never match. I'm so stressed I can't tell whether he's eating enough.\" Which response by the nurse is best?",
+      "options": [
+        "\"Let's set the apps aside for now and look at what really shows he's getting enough: swallowing at feeds, wet and dirty diapers, and his weight.\"",
+        "\"The wearable pump will give you exact ounces, so pumping and bottle-feeding is the most reliable way to know his intake.\"",
+        "\"Keep logging in all three apps for another week so the provider can compare the data at his checkup.\"",
+        "\"These apps are often inaccurate, so stop tracking and feed him on a set 3-hour schedule instead.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a parent overwhelmed by several devices and conflicting data. Analyze cues: slide 25 says nurses should know new feeding technology and recognize that it can overwhelm new parents. Adequate intake is shown by audible swallowing, output, and weight trend, not by minutes on each side. Generate solutions: reduce the overload and refocus on reliable signs. Take action: teach the parent the real markers of adequate intake. Evaluate outcomes: the parent can state the signs of enough milk and reports less stress.",
+        "incorrect": [
+          "Switching to pumping and bottles to measure ounces replaces direct breastfeeding, can affect supply, and adds work for a parent who is already overwhelmed.",
+          "Continuing all three apps keeps the source of the stress and the conflicting data. It does not answer the parent's question about intake.",
+          "Stopping tracking is reasonable, but a fixed 3-hour schedule replaces feeding on cue, which is the guide's trap answer."
+        ]
+      }
+    },
+    {
+      "stem": "Eighteen hours after birth, a client who planned to breastfeed exclusively has received free formula samples, and the client's partner says, \"The commercials say formula is basically the same, so just give a bottle and rest.\" The newborn has fed 7 times with audible swallowing, has had 2 wet diapers and 1 meconium stool, and has lost 3% of birth weight. Which action by the nurse best supports an informed choice?",
+      "options": [
+        "Acknowledge the partner's concern, show the couple how the baby's data indicate effective feeding, and explain how formula differs from human milk so they can decide",
+        "Remove the formula samples from the room and remind the client of the plan written in the chart to breastfeed exclusively",
+        "Agree that modern formula is now very close to breast milk and offer a bottle tonight so the client can get some rest",
+        "Ask the partner to step out so the nurse can speak with the client privately about the feeding decision"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: marketing messages, free samples, and family pressure, alongside normal data (7 feeds, audible swallowing, expected day-1 output, 3% loss). Analyze cues: marketing and family members influence feeding decisions. The nurse's role is evidence-based, nonjudgmental counseling that supports informed choice and the client's own goal. Supplementation is not indicated when the data are normal. Take action: address both people's concerns with facts and the baby's own data. Evaluate outcomes: the couple makes a decision that matches their goals with accurate information.",
+        "incorrect": [
+          "Taking the samples away without a discussion is a listed trap. It is judgmental and does not address the partner's belief.",
+          "This repeats the marketing claim as fact and offers formula without an indication, which undermines the client's stated goal.",
+          "Excluding the partner leaves the misinformation unanswered and ignores the family's influence on the decision. Family-centered care brings the partner into the conversation."
+        ]
+      }
+    },
+    {
+      "stem": "After receiving balanced information about human milk and formula, a client decides to formula feed. Which nursing action best supports this client?",
+      "options": [
+        "Provide the breastfeeding benefits handout again before discharge in case the client reconsiders",
+        "Document the decision and arrange a lactation consult so the client can try one feed before discharge",
+        "Teach formula preparation and remind the client that formula carries more infection risk so the tradeoff is clear",
+        "Respect the decision, teach safe formula preparation and responsive bottle-feeding, and encourage skin-to-skin and eye contact during feeds"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the client has made an informed decision after balanced counseling. Analyze cues: the slides call for respectful guidance, meaning nonjudgmental information and respect for the family's final decision. The guide adds support for formula feeding: safe preparation, cues and paced feeding, and bonding through skin-to-skin and eye contact. Take action: give complete formula teaching without reopening the decision. Evaluate outcomes: the parent prepares formula safely and feeds responsively.",
+        "incorrect": [
+          "Repeating breastfeeding material after an informed decision implies the choice is wrong. That is pressure, not respectful guidance.",
+          "Arranging a lactation consult for a client who has chosen formula pushes breastfeeding again and disregards the decision.",
+          "The risks were already covered in counseling. Repeating them after the decision adds guilt instead of support, which is the trap the guide warns about."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfed newborn weighed 3,650 g at birth and weighs 3,250 g at 72 hours. The infant is sleepy at the breast and few swallows are heard. Which action should the nurse take?",
+      "options": [
+        "Recognize a 12% loss, figured against today's weight, and begin formula after every feed",
+        "Recognize an expected loss for day 3, and reassure the parent that gain starts after the first week",
+        "Recognize an 11% loss, observe a full feed, and notify the provider about supplementation while the parent pumps",
+        "Recognize a 9% loss, which is within normal limits, and recheck the weight in 24 hours"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 400 g loss at 72 hours, sleepiness at the breast, and few audible swallows. Analyze cues: % loss = (birth − current) ÷ birth × 100 = (3,650 − 3,250) ÷ 3,650 × 100 = 400 ÷ 3,650 ≈ 11%. A loss of 5–10% in week 1 is normal; more than 10% is a red flag, and 11% at 72 hours is a listed indication for supplementation. Prioritize hypotheses: poor milk transfer is likely. Take action: observe a full feed (LATCH), notify the provider, protect supply by pumping, and supplement per order. Evaluate outcomes: weight stabilizes and output improves.",
+        "incorrect": [
+          "Dividing by the current weight (400 ÷ 3,250 ≈ 12.3%) inflates the percentage, which is the guide's math trap. Starting formula without an order also skips the assessment and the protection of supply.",
+          "Calling 11% \"normal for day 3\" is the listed trap. The normal range ends at 10%, and the sleepy feeding confirms a problem.",
+          "This is a math error. 400 g is about 11% of 3,650 g, so waiting 24 hours delays care for an infant already over the limit."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn weighed 3,200 g at birth and weighs 2,944 g at 48 hours. The newborn breastfeeds 9 times a day with audible swallowing. Which conclusion by the nurse is correct?",
+      "options": [
+        "The loss is 8%, within the expected 5–10%, so the parent should continue feeding on cue while output and weight are monitored",
+        "The loss is 8.7%, near the upper limit of normal, so supplementation should be discussed with the provider",
+        "The loss is 8%, which is more than expected at 48 hours, so the provider should be notified now",
+        "The loss is 8.7%, within normal limits, so no further weight checks are needed before discharge"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 256 g loss at 48 hours with 9 feeds and audible swallowing. Analyze cues: (3,200 − 2,944) ÷ 3,200 × 100 = 256 ÷ 3,200 = 8%. Newborns normally lose 5–10% in the first week from low early intake, fluid shifts, and insensible water loss. Prioritize hypotheses: this is an expected loss with good evidence of milk transfer. Take action: continue on-cue feeding. Evaluate outcomes: keep monitoring output and weight, with gain expected after the first week.",
+        "incorrect": [
+          "8.7% comes from dividing by the current weight, which is the guide's math trap, and a loss inside the normal range with good transfer does not indicate supplementation.",
+          "8% is inside the expected 5–10% range. Calling it excessive misreads the normal range for the first week.",
+          "The percentage is calculated wrong, and stopping weight checks is unsafe because the loss is still in progress at 48 hours."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-month-old infant weighs 5.2 kg. Using the course guideline for the first 3 months, which daily calorie range should the nurse use to evaluate the infant's intake?",
+      "options": [
+        "572–624 kcal/day",
+        "520–572 kcal/day",
+        "624–676 kcal/day",
+        "286–312 kcal/day"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: slide 4 states that during the first 3 months an infant needs 110–120 kcal/kg/day. Generate solutions: 5.2 kg × 110 = 572 kcal and 5.2 kg × 120 = 624 kcal. Evaluate outcomes: the nurse compares the infant's actual intake and weight gain to 572–624 kcal/day to judge whether feeding is adequate.",
+        "incorrect": [
+          "This uses 100–110 kcal/kg/day, which is below the slide range and would underestimate the infant's needs.",
+          "This uses 120–130 kcal/kg/day, which is above the slide range and could lead to a false conclusion of underfeeding.",
+          "This is half of the correct range, as if 55–60 kcal/kg/day were used, and it would badly underestimate the infant's needs."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews phone messages from the parents of four breastfed newborns. Which newborn should the nurse follow up with first?",
+      "options": [
+        "Day 5: still passing black, sticky stools and 2 wet diapers with dark yellow urine in 24 hours",
+        "Day 2: an orange-red stain in the diaper and 9 breastfeeds in the past 24 hours",
+        "Day 1: one wet diaper and one black, sticky stool since birth",
+        "Day 4: four loose, seedy yellow stools and urine that looks like clear water"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: on day 5 the stools are still meconium, there are only 2 wet diapers, and the urine is dark. Analyze cues: meconium should change to green transitional stools by day 3–4 and yellow by day 4–5, and meconium persisting after day 4–5 means inadequate intake. By about day 5 a baby should have at least 6 wet diapers with pale urine. Prioritize hypotheses: this infant is not getting enough milk and may be dehydrated. Take action: call the parent first to arrange a same-day weight, feeding observation, and provider notification.",
+        "incorrect": [
+          "Orange or red urine (urate crystals) is normal on days 1–2, and 9 feeds a day is appropriate. Always ask \"what day is it?\"",
+          "One wet diaper and meconium on day 1 is expected output.",
+          "By day 4, 3–4 yellow stools and clear urine are signs of adequate intake."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse observes a breastfeeding session for a 2-day-old newborn. Which findings indicate effective milk transfer? Select all that apply.",
+      "options": [
+        "Audible swallowing after every few sucks",
+        "Dimpled cheeks with rapid, continuous sucking",
+        "The breast feels softer after the feed",
+        "Clicking sounds heard during sucking",
+        "A rhythmic suck–swallow pattern with brief pauses",
+        "The newborn stayed on the breast for 45 minutes"
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Analyze cues: audible swallowing (the best single sign), a rhythmic suck–swallow pattern, and a breast that softens afterward all show that milk moved from breast to baby. Dimpled cheeks, clicking, rapid sucking, and long time at the breast are traps that do not prove transfer.",
+        "incorrect": [
+          "Correct—audible swallowing is the best single sign of milk transfer (the \"A\" in LATCH).",
+          "Incorrect—dimpled cheeks and rapid sucking without swallows suggest a poor seal or non-nutritive sucking, which the guide lists as a trap.",
+          "Correct—a breast that is softer after the feed shows that milk was removed.",
+          "Incorrect—clicking or popping is a sign of a shallow latch on slide 19, not of effective feeding.",
+          "Correct—a rhythmic suck–swallow pattern shows nutritive sucking with milk flowing.",
+          "Incorrect—time at the breast does not measure intake. A long feed may also mean poor transfer."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse assesses a breastfeeding pair. The infant grasps the breast with flanged lips and sucks rhythmically. A few swallows are heard, but only when the nurse stimulates the infant. The nipples are flat. The nipples are reddened with small blisters, and the client reports mild discomfort. The client needs help positioning the baby and then takes over. What is the LATCH score, and what is the best nursing action?",
+      "options": [
+        "Score 8; the feeding is effective, so routine support should continue",
+        "Score 6; provide hands-on help with the feeds and refer to a lactation consultant",
+        "Score 6; the feeding is effective, so routine support should continue",
+        "Score 7; reposition only, since these A, T, and C findings are expected early on"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: score each letter from Table 18.6. L: grasps, lips flanged, rhythmic = 2. A: a few swallows with stimulation = 1. T: flat nipple = 1. C: reddened, small blisters, mild discomfort = 1. H: minimal help, then the parent takes over = 1. Analyze cues: 2 + 1 + 1 + 1 + 1 = 6 of a possible 10. Prioritize hypotheses: limited audible swallowing and early nipple damage point to marginal transfer. Take action: a low score calls for more hands-on help and a lactation referral. Evaluate outcomes: rescore at the next feed for spontaneous swallowing and nipple comfort.",
+        "incorrect": [
+          "This overscores the A, T, and C items. A few swallows with stimulation, a flat nipple, and blistered nipples each score 1, not 2.",
+          "The total is right, but a score of 6 with swallowing only on stimulation and early nipple damage is not effective feeding. This misreads what the score means.",
+          "The total is wrong, and blistered nipples with swallowing only on stimulation are not findings to accept as expected. They need follow-up."
+        ]
+      }
+    },
+    {
+      "stem": "At a 2-week visit, a breastfed infant is still 5% below birth weight. The parent easily pumps 90 mL from both breasts in 15 minutes. During a feed the infant sucks weakly, falls asleep quickly, and no swallowing is heard. Which conclusion should guide the nurse's plan?",
+      "options": [
+        "A milk production problem, so the parent should pump after every feed to increase supply",
+        "A combined production and transfer problem, so formula should replace breastfeeding until the infant gains",
+        "A milk transfer problem, so the latch and suck should be evaluated, an IBCLC consulted, and the parent's pumped milk given as supplement per order",
+        "An expected weight, because infants regain birth weight by about 1 month, so feeding should continue unchanged"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the infant has not regained birth weight by 2 weeks, the parent pumps a good volume easily, and the infant has a weak suck with no audible swallowing. Analyze cues: slide 23 says that when a breastfed baby is not gaining, first ask whether it is a production problem, a transfer problem, or both. Good pumped volume shows production; a weak suck and no swallowing show poor transfer. Generate solutions: \"supplementation ≠ formula\": the parent's own expressed milk comes first. Take action: evaluate the latch and suck, refer to an IBCLC, and supplement with expressed milk per order. Evaluate outcomes: weight gain resumes.",
+        "incorrect": [
+          "Ninety mL pumped easily shows that production is adequate. Pumping more does not fix a baby who cannot remove milk.",
+          "Production is not the problem, and switching to formula skips the parent's own milk, which is the first choice for supplementation.",
+          "Infants should be back to birth weight by about 10–14 days, and not being back by about 2 weeks is a sign of inadequate intake. This ignores the cue."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing several healthy term breastfed newborns. Which findings support discussing supplementation with the provider? Select all that apply.",
+      "options": [
+        "Weight loss of 12% at 72 hours",
+        "Blood glucose that stays low despite effective breastfeeding",
+        "A parent who is exhausted and wants the baby to sleep longer tonight",
+        "Rising bilirubin with few stools and no audible swallowing at feeds",
+        "Weight loss of 6% at 48 hours with audible swallowing and expected output",
+        "Hourly cluster feeding during the evening on day 2"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Analyze cues against the guide's indications: weight loss over 10% at 72 hours, persistent hypoglycemia despite effective breastfeeding, dehydration with poor output, and hyperbilirubinemia with poor milk transfer. Parent fatigue, cluster feeding, and normal loss are not indications.",
+        "incorrect": [
+          "Correct—more than 10% loss at 72 hours exceeds the normal range and supports supplementation.",
+          "Correct—persistent hypoglycemia despite effective breastfeeding is a listed indication.",
+          "Incorrect—supplementing because the parent is tired is a trap. It reduces milk removal; rest can be supported in other ways.",
+          "Correct—hyperbilirubinemia with poor milk transfer is a listed indication.",
+          "Incorrect—6% at 48 hours is within the normal 5–10%, and the swallowing and output show transfer.",
+          "Incorrect—cluster feeding alone is normal and is specifically NOT an indication."
+        ]
+      }
+    },
+    {
+      "stem": "A breastfed newborn has lost 11% of birth weight at 72 hours, and the provider prescribes supplementation. The parent asks what the baby will be given. Which plan is the preferred first choice?",
+      "options": [
+        "Pasteurized donor milk at every feed, so the parent's breasts can rest between feeds",
+        "Standard formula, because the volume the baby takes can be measured exactly",
+        "Formula by bottle, with breastfeeding paused until the baby is back to birth weight",
+        "The parent's own expressed milk, with the parent pumping after feeds to protect supply"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: supplementation is now indicated at 11% loss. Analyze cues: slide 23 reminds the nurse that supplementation does not have to mean formula. The guide's order is the parent's own expressed milk, then pasteurized donor milk, then formula, while pumping protects supply. Generate solutions: give extra calories without undermining breastfeeding. Take action: give the parent's expressed milk and have the parent pump after feeds. Evaluate outcomes: weight stabilizes and supply rises.",
+        "incorrect": [
+          "Donor milk is the second choice, and \"resting\" the breasts reduces removal and lowers supply at the moment it needs to rise.",
+          "Formula is the last choice. Measurability does not outweigh the benefits of the parent's own milk.",
+          "Pausing breastfeeding removes the stimulation that builds supply and makes return to the breast harder."
+        ]
+      }
+    },
+    {
+      "stem": "A formula-fed 3-day-old is taking 90 mL every 3 hours and spitting up large amounts after each feed. The parent says, \"He finishes whatever I give him, so he must need it.\" Which action should the nurse take?",
+      "options": [
+        "Suggest a different formula brand, because large spit-ups after every feed suggest intolerance",
+        "Explain that a 3-day-old's stomach holds about 22–27 mL and help the parent offer smaller amounts while watching for fullness cues",
+        "Continue the 90 mL feeds but burp him more often, since a baby who empties the bottle is still hungry",
+        "Space the feeds to every 5 hours so each 90 mL feed has more time to digest"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: 90 mL feeds on day 3 with large spit-ups after each one. Analyze cues: slide 4 shows a day-3 stomach about the size of a walnut, holding 22–27 mL; 90 mL is more than 3 times that. Babies will often keep sucking on a flowing bottle past fullness. Prioritize hypotheses: overfeeding, not intolerance. Take action: teach age-appropriate volumes and paced, cue-based feeding. Evaluate outcomes: spit-ups decrease and the baby stays content between feeds.",
+        "incorrect": [
+          "The slide teaches using the same formula consistently. The cause here is volume, so changing brands treats the wrong problem.",
+          "Burping helps with swallowed air but does nothing about a volume that is far beyond stomach capacity.",
+          "Feeds are every 3–4 hours. Stretching to 5 hours while keeping an oversized volume does not fix the overfeeding."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews weight expectations with the parents of a breastfed newborn before discharge. Which statement by the parents indicates a need for further teaching?",
+      "options": [
+        "\"It's normal for the baby to lose some weight this first week while feeding gets established.\"",
+        "\"If the baby loses more than 10% of birth weight, that's a reason to have the baby checked.\"",
+        "\"The baby should start gaining by day 3. If not, we'll need to start formula.\"",
+        "\"After the first week, the baby should gain steadily and be back to birth weight by about 2 weeks.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the parents expect gain by day 3 and plan formula if it doesn't happen. Analyze cues: newborns normally lose 5–10% in the first week, and steady weight gain begins AFTER the first week. \"The baby should gain in the first few days\" and \"any loss means formula\" are both trap answers in the guide. Prioritize hypotheses: this belief could lead to unnecessary supplementation. Take action: reteach the expected weight pattern and the real red flags.",
+        "incorrect": [
+          "This is correct. A loss of 5–10% in the first week is normal.",
+          "This is correct. More than 10% is the red flag that needs evaluation.",
+          "This is correct. Steady gain after the first week and return to birth weight by about 10–14 days is expected."
+        ]
+      }
+    },
+    {
+      "stem": "On day 3, a breastfeeding parent says happily, \"She slept 5 hours straight last night, so she must be getting plenty.\" The newborn has had 2 wet diapers with dark yellow urine in the past 24 hours and is hard to wake for feeds. Which conclusion should guide the nurse's action?",
+      "options": [
+        "The long sleep with few wet diapers and dark urine suggests inadequate intake, so wake her to feed, observe a full feed, and report the findings",
+        "Long stretches of sleep show the baby is satisfied, so the parent can let her wake on her own for feeds",
+        "Dark urine is expected through day 4, so only the long sleep needs follow-up at the next visit",
+        "Sleepiness is common on day 3, so the diaper count can be rechecked at the 2-week visit"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 5-hour sleep, a baby hard to wake, only 2 wet diapers, and dark urine on day 3. Analyze cues: adequate intake looks like sleeping well yet being alert when awake, with pale urine; by day 3–4 there should be 3–4 wet diapers with urine like clear water. Orange or dark urine is normal only on days 1–2, and sleepiness with a weak suck is a sign of NOT enough. Prioritize hypotheses: poor intake, which also raises jaundice and dehydration risk. Take action: wake the baby to feed, observe a full feed, check weight, and notify the provider.",
+        "incorrect": [
+          "\"Sleeps 5 hours between feeds = getting plenty\" is the guide's trap. A hard-to-wake baby needs evaluation, not more sleep.",
+          "Dark or orange urine is expected only on days 1–2. On day 3 it is a sign of inadequate intake.",
+          "Waiting until 2 weeks to reassess a baby who already shows signs of poor intake could allow dehydration and excessive weight loss."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse prepares discharge teaching for the parents of a breastfed newborn going home on day 2. Which findings should the parents be taught to report? Select all that apply.",
+      "options": [
+        "Fewer than 6 wet diapers a day once the milk is in, around day 5",
+        "Dark yellow or orange urine after day 3",
+        "Loose, seedy yellow stools by day 5",
+        "Black, sticky stools that continue after day 5",
+        "Several feeds close together in the evening",
+        "A baby who is hard to wake and has a weak suck"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Generate solutions for discharge: the signs of NOT enough milk are fewer wet diapers than expected, dark or orange urine after day 3, meconium persisting after day 4–5, and a sleepy, hard-to-wake baby with a weak suck. Seedy yellow stools and cluster feeding are normal.",
+        "incorrect": [
+          "Correct—at least 6 wet diapers a day are expected once the milk is in. Fewer suggests inadequate intake.",
+          "Correct—urine should be pale yellow. Brick-red urates are normal only on days 1–2.",
+          "Incorrect—seedy or watery yellow stools by day 4–5 are normal for a breastfed baby.",
+          "Correct—meconium persisting after day 4–5 means inadequate intake.",
+          "Incorrect—cluster feeding is normal and is not a reason to call or to supplement.",
+          "Correct—a sleepy, hard-to-wake baby with a weak suck is a sign of not getting enough milk."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a 4-day-old breastfed newborn says, \"These diapers are so absorbent I can't tell if they're wet, so I've only counted 1 today.\" The baby is feeding 8 to 10 times a day. Which response by the nurse is best?",
+      "options": [
+        "\"Super-absorbent diapers hide urine, so count every diaper you change as a wet one for now.\"",
+        "\"One wet diaper on day 4 is low. We should start formula supplements today to be safe.\"",
+        "\"Let's compare a diaper with 3 tablespoons of water poured in. By now you should count 3 to 4 wet diapers with clear-looking urine.\"",
+        "\"Diaper counts aren't reliable with these brands, so weight at the 2-week visit is the best way to check intake.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the parent cannot tell whether diapers are wet, so the count of 1 may be inaccurate. Analyze cues: slide 21 says a wet diaper is as heavy as 3 tablespoons of water, and by day 3–4 breastfed babies should have 3–4 wet diapers with urine that looks like clear water. Generate solutions: give the parent a concrete way to check before drawing a conclusion. Take action: teach the 3-tablespoon comparison and the expected count. Evaluate outcomes: the parent reports an accurate count, and the nurse follows up if it is truly low.",
+        "incorrect": [
+          "Counting every diaper as wet overestimates output and could hide a baby who is not getting enough milk.",
+          "Supplementation is decided on accurate data. The count is uncertain, so the nurse should assess first, as the slide question on supplementation teaches.",
+          "Waiting 2 weeks discards an important, easy daily measure of intake and could miss dehydration."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a breastfed 4-day-old reports \"8 poops today,\" but most are small smears about the size of a dime; 2 were larger than a quarter. The stools are green. Which conclusion should guide the nurse's next step?",
+      "options": [
+        "The baby has had 8 stools, which is more than enough, so no follow-up is needed",
+        "The baby has had 2 countable stools, fewer than the 3 to 4 expected by day 4, so a feed, the weight, and the wet-diaper count should be checked",
+        "The green color means the stools are abnormal, so the provider should be notified about possible infection",
+        "Small, frequent stools mean the baby has diarrhea from the milk, so feeds should be shortened"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: many small smears, only 2 stools larger than a quarter, and green transitional stools on day 4. Analyze cues: slide 21 says to count only stools larger than a quarter, and by day 4 most breastfed babies have 3–4 stools a day. Stools move from meconium to green by day 3–4 to yellow by day 4–5. Prioritize hypotheses: intake may be borderline. Take action: observe a feed, weigh the baby, and check urine output before deciding on any change. Evaluate outcomes: yellow stools and 3–4 countable stools a day as feeding improves.",
+        "incorrect": [
+          "Counting smears inflates the number. Only stools larger than a quarter count, so this misreads the cue.",
+          "Green transitional stool is expected around day 3–4. It is not a sign of infection.",
+          "Loose stools are normal for breastfed babies, and shortening feeds would reduce intake further."
+        ]
+      }
+    },
+    {
+      "stem": "After a low LATCH score, the nurse helped a client reposition the newborn for a deeper latch. Which finding at the next feed best shows that the intervention improved milk transfer?",
+      "options": [
+        "The newborn stays at the breast for 40 minutes before coming off",
+        "The newborn sleeps for 4 hours after the feed",
+        "Spontaneous, intermittent swallowing is heard throughout the feed",
+        "The newborn's cheeks dimple with rapid, steady sucking"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the goal of correcting the latch was better milk transfer. On the LATCH tool, spontaneous and intermittent audible swallowing scores 2 on the \"A\" item, and audible swallowing is the best single sign that milk is moving from breast to baby. Recognize cues: this is direct evidence that the deeper latch is working.",
+        "incorrect": [
+          "Time at the breast does not measure intake. A long feed can mean the baby is working hard with little transfer.",
+          "Sleep length is a trap measure of intake. Adequacy is judged by output, swallowing, and weight trend.",
+          "Dimpled cheeks with rapid sucking suggest a poor seal or non-nutritive sucking, which is a trap sign in the guide."
+        ]
+      }
+    }
+  ]
+}
