@@ -12,8 +12,8 @@ way to drill practice questions with clear rationales for every answer choice.
 
 ## What's inside
 
-The app currently has **1,692 practice questions** across 43 topic banks,
-organized into nine courses you can switch between with tabs on the start
+The app currently has **1,892 practice questions** across 47 topic banks,
+organized into ten courses you can switch between with tabs on the start
 screen. Each course can be studied topic by topic, or "mixed" — every question
 in that course, shuffled.
 
@@ -104,6 +104,15 @@ in that course, shuffled.
 | Week 6 — Postpartum | 50 |
 | Week 7 — Complications | 50 |
 | Week 8 — Newborn | 50 |
+
+**Peds Exam 2**
+
+| Topic | Questions |
+| --- | --- |
+| Week 6 — Immunologic & Sensory | 50 |
+| Week 7 — Cardiovascular | 50 |
+| Week 8 — Neurologic | 50 |
+| Week 9 — Musculoskeletal | 50 |
 
 The banks are kept separate by course — for example, the Med-Surg Lower GI bank
 is distinct from the Pathopharm Lower GI bank, and the Pathofarm Final Endocrine

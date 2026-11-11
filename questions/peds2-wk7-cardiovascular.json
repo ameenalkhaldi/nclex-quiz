@@ -1,0 +1,956 @@
+{
+  "topic": "peds2-wk7-cardiovascular",
+  "label": "Peds 2: Week 7 — Cardiovascular",
+  "questions": [
+    {
+      "stem": "A 6-week-old is brought to the clinic because the caregiver says the infant 'breathes fast and gets sweaty' during bottles and takes a long time to finish. The infant is pink, SpO2 is 97% on room air, the respiratory rate is 68, and the infant has gained little weight since birth. The nurse hears a harsh holosystolic murmur. Which defect best fits this presentation?",
+      "options": [
+        "Tetralogy of Fallot, with right-to-left shunting across the ventricular septal defect",
+        "Ventricular septal defect, with left-to-right shunting that floods the lungs",
+        "Coarctation of the aorta, with reduced blood flow past the narrowed segment",
+        "Transposition of the great arteries, with two parallel circulations that do not mix"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sweating, tachypnea, and slow feeding during bottles; poor weight gain; a pink infant with a normal SpO2; a harsh holosystolic murmur. Analyze cues: apply the three questions. Blood reaches the body and oxygenated blood ends up where it should (pink, SpO2 97%), but the lungs are getting too much blood. That is a left-to-right shunt. For infants, feeding is exercise, so sweating and tachypnea with feeds are heart-failure signs from increased pulmonary blood flow. Prioritize hypotheses: a large VSD is the most common congenital heart defect, and its hallmark is a harsh holosystolic murmur plus HF signs with feeds.",
+        "incorrect": [
+          "TOF is a cyanotic defect. Pulmonary stenosis limits lung flow and blood shunts right to left, so the infant would be blue with a low SpO2, not pink at 97%.",
+          "Coarctation is an obstructive defect. Its hallmark is a difference between arms and legs (higher arm BP, weak femoral pulses), which this stem does not describe.",
+          "TGA causes severe cyanosis right after birth because blue blood circulates back to the body. A pink 6-week-old with an SpO2 of 97% does not fit."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-day-old who was discharged home yesterday is brought to the emergency department because the caregiver noticed the newborn's lips and tongue turning blue. SpO2 is 68% and does not improve after 10 minutes of 100% oxygen. An echocardiogram is pending. Which prescription should the nurse anticipate as the priority?",
+      "options": [
+        "Continue 100% oxygen by mask and recheck SpO2 every 15 minutes until it rises",
+        "IV indomethacin to promote closure of the ductus arteriosus",
+        "Prostaglandin E1 (PGE1) infusion to reopen and maintain the ductus arteriosus",
+        "Oral digoxin to strengthen contractility and improve cardiac output"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a newborn who looked well for the first 48–72 hours, went home, and is now centrally cyanotic with an SpO2 of 68% that does not respond to oxygen. Analyze cues: the ductus arteriosus constricts after birth as O2 rises and prostaglandins fall. A ductal-dependent defect (such as TOF with severe pulmonary stenosis, tricuspid atresia, or TGA) looks fine until the ductus closes, then the infant crashes. The lungs are not the problem; blood is not getting to them. Prioritize hypotheses: ductal-dependent congenital heart disease. Take action: PGE1 keeps the ductus open and restores flow while the definitive fix (for example, a BT shunt or surgery) is planned. Evaluate outcomes: SpO2 rises; watch for apnea, a side effect of PGE1.",
+        "incorrect": [
+          "Oxygen alone is the classic mistake here. The problem is not the lungs but the lack of blood flow to them, which is why SpO2 has not risen. Continuing to wait delays the drug that restores flow.",
+          "Indomethacin is used to close a PDA in preterm infants. Closing the ductus in a ductal-dependent newborn would remove the only route for blood flow and could be fatal.",
+          "Digoxin treats heart failure by slowing the HR and improving output. It does not reopen the ductus or fix a ductal-dependent flow problem, so it is the wrong solution for this cue."
+        ]
+      }
+    },
+    {
+      "stem": "A parent of a 2-day-old says, 'The pediatrician said my baby had an opening between the top chambers of the heart before birth that should close on its own. Why would it close?' Which response by the nurse is most accurate?",
+      "options": [
+        "\"When your baby started breathing, pressure in the left side of the heart rose above the right, which pushes the flap closed.\"",
+        "\"When your baby started breathing, the oxygen level inside the heart's top chambers dropped, which signals the flap to close.\"",
+        "\"After delivery your baby's prostaglandin level rose, and prostaglandins cause that opening to tighten and close.\"",
+        "\"After delivery the pressure in the right side of the heart rose above the left, which pushes the flap shut.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the parent is describing the foramen ovale, the fetal flap between the right and left atria. Analyze cues: at birth the lungs expand, so pulmonary resistance drops; the placenta is removed, so systemic resistance rises. Left atrial pressure now exceeds right atrial pressure and pushes the flap closed. Generate solutions/Take action: give the parent the pressure-based explanation in plain language. 'Blood is lazy' and follows pressure, which is also why later defects shunt left to right.",
+        "incorrect": [
+          "This is the guide's trap answer. The foramen ovale closes because of a pressure change (left atrial pressure greater than right), not because atrial oxygen levels drop.",
+          "This confuses the foramen ovale with the ductus arteriosus and reverses the drug effect. Falling prostaglandins and rising O2 constrict the ductus; prostaglandins keep the ductus open.",
+          "This reverses the pressures. After birth the right side becomes the low-pressure side. If right pressure exceeded left, blood would cross right to left, which is the cyanotic pattern."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing the charts of infants on a pediatric cardiac unit. Using the question 'Is blood getting to the lungs?', the nurse identifies which defects as causing INCREASED pulmonary blood flow? Select all that apply.",
+      "options": [
+        "Ventricular septal defect",
+        "Tetralogy of Fallot",
+        "Patent ductus arteriosus",
+        "Tricuspid atresia",
+        "Truncus arteriosus",
+        "Coarctation of the aorta"
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "VSD, PDA, and truncus arteriosus send too much blood to the lungs. VSD and PDA do it through a left-to-right shunt. In truncus, one great vessel receives blood from both ventricles over a large VSD, so the child is cyanotic AND has HF signs from pulmonary overcirculation. TOF and tricuspid atresia send too little blood to the lungs. Coarctation is an obstructive defect, so lung flow is unchanged and the problem is less flow to the legs.",
+        "incorrect": [
+          "Correct—a VSD shunts left to right at the ventricular level, so oxygenated blood recirculates to the lungs and causes HF signs.",
+          "Incorrect—in TOF, pulmonary stenosis limits flow to the lungs and blood shunts right to left across the VSD. That is DECREASED pulmonary flow.",
+          "Correct—after birth, a PDA carries blood from the aorta to the pulmonary artery, which adds to pulmonary blood flow.",
+          "Incorrect—with no tricuspid valve, blood cannot go RA→RV, so the lungs receive too little blood unless a VSD or PDA supplies them.",
+          "Correct—truncus is the defect with cyanosis plus HF signs. The single vessel sends mixed blood out, and too much of it goes to the lungs.",
+          "Incorrect—coarctation obstructs outflow to the lower body. Lung flow is not the problem; the legs receive less blood."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn nursery nurse is reviewing which congenital heart defects are expected to cause central cyanosis because deoxygenated blood reaches the systemic circulation. Which defects should the nurse identify? Select all that apply.",
+      "options": [
+        "Transposition of the great arteries",
+        "Atrial septal defect",
+        "Hypoplastic left heart syndrome",
+        "Coarctation of the aorta",
+        "Tricuspid atresia",
+        "Patent ductus arteriosus"
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Cyanotic defects involve right-to-left shunting or mixing, so blue blood reaches the body and the main risk is hypoxemia. TGA, HLHS, and tricuspid atresia are cyanotic, along with TOF, truncus, and TAPVR. ASD, PDA, and coarctation are acyanotic (pink). Their main risk is heart failure, not hypoxemia.",
+        "incorrect": [
+          "Correct—in TGA the aorta arises from the right ventricle, so blue blood returns to the body. That produces severe cyanosis right after birth.",
+          "Incorrect—an ASD shunts left to right at the atrial level. The child is pink and often asymptomatic.",
+          "Correct—in HLHS systemic flow depends on the PDA and blood is mixed, so the infant is cyanotic.",
+          "Incorrect—coarctation is an obstructive, acyanotic defect. The child is pink, and the cue is arms versus legs.",
+          "Correct—with no tricuspid valve, too little blood reaches the lungs and mixed blood crosses the ASD to the left side and out to the body.",
+          "Incorrect—a PDA shunts aorta→pulmonary artery (left to right). The infant is pink, with bounding pulses and a machinery murmur."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-month-old with a large unrepaired ventricular septal defect is admitted for a respiratory infection. The infant is pink with an SpO2 of 96%. When planning care, which hypothesis about the infant's cardiac status should guide the nurse's ongoing assessments?",
+      "options": [
+        "Deoxygenated blood is bypassing the lungs, so the nurse should watch mainly for worsening cyanosis and hypercyanotic spells",
+        "Outflow from the left ventricle is narrowed, so the nurse should compare upper and lower extremity pulses and BPs each shift",
+        "Oxygenated blood is recirculating to the lungs, so the nurse should watch mainly for signs of heart failure during feeds and care",
+        "Blood flow depends on the ductus arteriosus, so the nurse should watch mainly for sudden collapse if the ductus closes"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: a large VSD is an acyanotic defect with a left-to-right shunt. Oxygenated blood goes 'somewhere extra' (back to the lungs) while the body still gets red blood, so the infant stays pink. Prioritize hypotheses: the main risk of acyanotic defects is heart failure from excess pulmonary blood flow, not hypoxemia. Generate solutions: focus assessment on HR, RR, retractions, sweating or tiring with feeds, weight, hepatomegaly, and periorbital edema, especially now that an infection adds metabolic demand.",
+        "incorrect": [
+          "This describes the cyanotic pattern (right-to-left shunting, main risk hypoxemia) and tet spells, which belong to TOF. A pink infant with a VSD has the opposite flow problem.",
+          "Comparing arm and leg pulses and BPs is the key assessment for coarctation, an obstructive defect. It does not target the main risk of a VSD.",
+          "Ductal dependence applies to defects such as TGA, tricuspid atresia, HLHS, and severe TOF. A 5-month-old with a VSD does not rely on the ductus for lung or body flow."
+        ]
+      }
+    },
+    {
+      "stem": "A neonate born at 28 weeks' gestation is now 5 days old and has a continuous 'machinery-like' murmur, bounding peripheral pulses, and a wide pulse pressure. An echocardiogram confirms a patent ductus arteriosus. Which prescription should the nurse question?",
+      "options": [
+        "Obtain daily weights and strict intake and output",
+        "Prostaglandin E1 continuous IV infusion",
+        "IV ibuprofen as scheduled for ductal closure",
+        "Repeat echocardiogram after the medication course"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a preterm neonate with the classic PDA triad of a continuous machinery murmur, bounding pulses, and a wide pulse pressure. Analyze cues: here the goal is to CLOSE the ductus, which in preterm infants is done with medication (background: indomethacin or ibuprofen). Take action: question PGE1. Prostaglandin keeps a ductus OPEN, so it is used only for ductal-dependent defects and would worsen this infant's left-to-right shunt and pulmonary overcirculation. 'Give prostaglandin to close a PDA' is the guide's trap.",
+        "incorrect": [
+          "Daily weights and strict I&O are appropriate. A PDA floods the lungs and can lead to HF and fluid retention, so these track fluid status.",
+          "Medication to close the ductus is the expected first-line treatment for a PDA in a preterm infant, so this order is appropriate.",
+          "A follow-up echocardiogram is the appropriate way to evaluate outcomes and see whether the ductus closed after treatment."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-week-old has tachypnea, poor feeding, and poor weight gain. The provider is trying to decide between a patent ductus arteriosus and a ventricular septal defect. Which additional finding most supports a PDA rather than a VSD?",
+      "options": [
+        "Sweating on the forehead during feeds",
+        "A harsh holosystolic murmur at the left sternal border",
+        "Bounding pulses with a wide pulse pressure",
+        "Respiratory rate that rises with each feeding"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: both PDA and a large VSD are left-to-right shunts that cause HF signs (tachypnea, poor feeding, poor weight gain), so those findings do not tell them apart. Analyze cues: in a PDA, blood runs off from the aorta into the pulmonary artery during both systole and diastole. Diastolic pressure drops, which produces bounding pulses and a wide pulse pressure along with a continuous machinery-like murmur. Prioritize hypotheses: bounding pulses with a wide pulse pressure point to PDA.",
+        "incorrect": [
+          "Sweating with feeds is an HF sign that occurs with any large left-to-right shunt, including both VSD and PDA, so it does not tell them apart.",
+          "A harsh holosystolic murmur is the VSD hallmark. Calling it a PDA finding is the guide's trap; a PDA has a continuous machinery-like murmur.",
+          "Tachypnea that worsens with feeds reflects pulmonary overcirculation and HF in both defects. It is not specific to a PDA."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching the caregivers of a 3-year-old who has a small atrial septal defect and no symptoms. Which statement by a caregiver indicates a need for further teaching?",
+      "options": [
+        "\"Blood moves from the left side to the right through the hole because the left side has higher pressure.\"",
+        "\"If the hole stays large as she grows, it may be closed with a device placed through a catheter.\"",
+        "\"Small holes like hers sometimes close on their own, so the doctor will keep checking it.\"",
+        "\"Because the hole is between the top chambers, we should expect her lips to turn blue when she plays.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the caregiver expects cyanosis with play, which shows they do not understand the defect. An ASD is an acyanotic left-to-right shunt at the atrial level. Oxygenated blood goes back to the lungs while the body still receives red blood, so the child stays pink. Small ASDs are often asymptomatic in childhood. Generate solutions: re-teach that blue lips would be a new, concerning finding to report, not something to expect.",
+        "incorrect": [
+          "This is accurate. Left-sided pressure is higher after birth, so blood takes the path of least resistance from left to right.",
+          "This is accurate. A larger ASD that does not close is treated with a catheter device or surgical closure.",
+          "This is accurate. A small ASD may close on its own, so it is monitored."
+        ]
+      }
+    },
+    {
+      "stem": "During a well-child visit, the nurse notes that a 4-year-old has strong radial pulses but faint, delayed femoral pulses, and the child's feet feel cool. Which assessment should the nurse perform next?",
+      "options": [
+        "Measure blood pressure in an arm and a leg and compare the readings",
+        "Place a pulse oximeter on a finger and a toe and compare the readings",
+        "Auscultate for a continuous machinery murmur under the left clavicle",
+        "Inspect the eyelids and palpate the liver edge for signs of fluid overload"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: strong arm pulses, weak and delayed femoral pulses, and cool feet. Analyze cues: a difference between upper- and lower-extremity perfusion should bring coarctation of the aorta to mind. The aorta is narrowed like a kinked garden hose; the arm arteries branch off before the narrowing (high pressure) and the legs get less after it (low pressure). Generate solutions/Take action: always compare upper- and lower-extremity pulses AND BPs. A higher arm BP than leg BP confirms the pattern and should be reported.",
+        "incorrect": [
+          "Comparing SpO2 at a finger and a toe screens for other shunt patterns. Coarctation is acyanotic, and the defining finding is the arm–leg BP and pulse difference, so this does not test the leading hypothesis.",
+          "A continuous machinery murmur is the PDA hallmark. PDA causes bounding pulses, the opposite of the weak femoral pulses found here.",
+          "Periorbital edema and hepatomegaly are infant HF signs. Checking them may be appropriate later, but it does not confirm the obstruction these cues point to."
+        ]
+      }
+    },
+    {
+      "stem": "Two children are being evaluated for left-sided obstructive heart defects. One has coarctation of the aorta and the other has aortic stenosis. Which finding is most specific to coarctation?",
+      "options": [
+        "Left ventricular hypertrophy seen on the echocardiogram",
+        "Arm blood pressure markedly higher than leg blood pressure",
+        "Exercise intolerance during recess and physical education",
+        "Signs of heart failure that develop over time if untreated"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: coarctation and aortic stenosis both make the LEFT ventricle work harder, which leads to hypertrophy and eventually HF. Both can also limit exercise tolerance. Prioritize hypotheses: only coarctation narrows the aorta after the arm arteries branch off, so arm BP is higher than leg BP, with weak femoral pulses and cool legs. Any stem with 'BP higher in arms' or 'weak femoral pulses' means coarctation.",
+        "incorrect": [
+          "LV hypertrophy happens in both defects, because the left ventricle pumps against a narrowing in each.",
+          "Exercise intolerance is a key finding in older children with aortic stenosis and can occur with coarctation. It does not tell them apart.",
+          "Heart failure is the eventual result of any obstruction that makes a ventricle work harder, so it is not specific to coarctation."
+        ]
+      }
+    },
+    {
+      "stem": "A 12-year-old collapses briefly during soccer practice and reports chest pain and dizziness before fainting. Arm and leg blood pressures are similar, femoral pulses are strong, and the child is pink. Which cardiac condition is most consistent with these findings?",
+      "options": [
+        "Coarctation of the aorta",
+        "Pulmonary stenosis",
+        "Atrial septal defect",
+        "Aortic stenosis"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an older child with exertional chest pain, dizziness, and fainting; arm and leg BPs are equal; strong femoral pulses; pink. Analyze cues: in aortic stenosis the left ventricle pumps against a narrowed aortic valve, which leads to LVH and reduced cardiac output. Older children present with exercise intolerance, chest pain, and dizziness or fainting; infants present with weak pulses, poor feeding, and HF. Prioritize hypotheses: equal arm and leg pressures rule against coarctation, which makes aortic stenosis the best fit.",
+        "incorrect": [
+          "Coarctation would produce a higher BP in the arms than the legs, with weak femoral pulses. This child's equal pressures and strong femoral pulses argue against it.",
+          "Pulmonary stenosis strains the RIGHT ventricle. Mild PS causes only a murmur; severe PS causes right-sided HF or cyanosis rather than LV-output symptoms like syncope with chest pain.",
+          "An ASD is often asymptomatic in childhood and does not typically cause exertional syncope with chest pain."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old has severe pulmonary stenosis and is scheduled for balloon valvuloplasty. When assessing the child, which finding should the nurse recognize as consistent with this defect's effect on the heart?",
+      "options": [
+        "Hepatomegaly and edema from right ventricular strain",
+        "Crackles in the lungs from left ventricular strain",
+        "Bounding pulses with a widened pulse pressure",
+        "Higher blood pressure in the arms than the legs"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: whichever ventricle pumps against a narrowing works harder, hypertrophies, and eventually fails. Pulmonary stenosis narrows the pulmonary valve, so the RIGHT ventricle hypertrophies (RVH) and blood backs up into the systemic veins, causing right-sided HF with edema and hepatomegaly. Severe PS can also cause exercise intolerance or cyanosis; mild PS causes only a murmur. Take action: assess for right-sided HF while the child awaits valvuloplasty.",
+        "incorrect": [
+          "Linking pulmonary stenosis to left ventricular strain is the guide's trap. The left ventricle is strained by aortic stenosis and coarctation, not PS.",
+          "Bounding pulses with a wide pulse pressure are the PDA pattern, caused by aortic runoff into the pulmonary artery, not by an obstructed pulmonary valve.",
+          "A higher arm BP than leg BP is the coarctation hallmark. PS does not create an arm–leg difference."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old had balloon angioplasty for coarctation of the aorta. Which finding the next morning best indicates the procedure achieved its goal?",
+      "options": [
+        "Arm blood pressure remains higher than leg pressure, but the child is eating well",
+        "Radial pulses are bounding and the arm blood pressure has risen from baseline",
+        "Femoral pulses are now strong, and arm and leg blood pressures are similar",
+        "The child is pink with an SpO2 of 98% on room air at rest and with play"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: coarctation is a 'kinked hose', with high pressure before the narrowing (arms) and low pressure after it (legs, weak femorals, cool feet). Opening the narrowing should equalize flow, so the outcome to look for is strong femoral pulses and similar arm and leg BPs with warm feet. That is the 'normal/expected' row in the guide.",
+        "incorrect": [
+          "A persisting arm–leg gradient means the obstruction is still there. Eating well is reassuring but does not evaluate whether the narrowing was fixed.",
+          "Rising arm pressure and bounding upper pulses suggest more pressure before the narrowing, not relief of it. This would be a reason to report.",
+          "Coarctation is acyanotic, so the child was pink with a normal SpO2 before the procedure. SpO2 cannot show whether the obstruction was relieved."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is returning calls from caregivers of 3-month-olds. Which report is most suggestive of an underlying cardiac problem and needs follow-up first?",
+      "options": [
+        "\"He sweats on his back when I bundle him in two blankets for his nap.\"",
+        "\"Her forehead gets sweaty and she has to stop to breathe several times during each bottle.\"",
+        "\"He spits up a small amount after most feeds but is gaining weight on his growth chart.\"",
+        "\"Her hands and feet look a little bluish when she first wakes up, but her lips stay pink.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: sweating and pausing to breathe during every feed. Analyze cues: feeding is the hardest work an infant does, so feeding is the infant's exercise test. Where adults report breathlessness on stairs, infants show cardiac exercise intolerance as sweating, tiring, and tachypnea with feeds. Prioritize hypotheses: this pattern suggests heart failure from congenital heart disease and needs prompt evaluation.",
+        "incorrect": [
+          "Sweating when overbundled has an environmental explanation. 'Sweaty because the room is warm' is the trap only when the sweating happens with feeds.",
+          "Small spit-ups with normal weight gain are common and reassuring. Poor weight gain would be the cardiac cue.",
+          "Bluish hands and feet with pink lips is peripheral, not central, cyanosis. Cyanotic heart disease is judged at central sites (lips, tongue, mucous membranes) with pulse oximetry, so blue hands and feet alone are the trap."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn is severely cyanotic within an hour of birth, with an SpO2 of 62% that does not improve with oxygen. The echocardiogram shows the aorta arising from the right ventricle and the pulmonary artery from the left ventricle. Which conclusion should guide the team's immediate plan?",
+      "options": [
+        "Pulmonary stenosis is limiting lung flow, so blood must be redirected to the lungs with a shunt",
+        "Too much blood is recirculating to the lungs, so the priority is diuresis and heart failure care",
+        "The aorta is narrowed past the arm vessels, so lower-body perfusion must be restored first",
+        "The two circulations run in parallel, so survival depends on keeping a route open for mixing"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: severe cyanosis right after birth, no response to oxygen, aorta from the RV and pulmonary artery from the LV. Analyze cues: this is TGA. Blue blood goes body→RA→RV→aorta→body and never visits the lungs, while red blood goes lungs→LA→LV→pulmonary artery→lungs, so there are two parallel circuits. Prioritize hypotheses: the infant survives only if blood mixes through a PDA, ASD/foramen ovale, or VSD. Generate solutions: PGE1 to keep the ductus open, balloon atrial septostomy to enlarge the atrial opening, then arterial switch surgery in the first weeks.",
+        "incorrect": [
+          "This describes the TOF flow problem. TOF also causes cyanosis, but this echo shows swapped great arteries, not pulmonary stenosis with an overriding aorta.",
+          "This describes acyanotic left-to-right shunts such as VSD or PDA, whose main risk is heart failure. This infant's problem is severe hypoxemia.",
+          "This describes coarctation, an acyanotic obstructive defect with an arm–leg difference, not profound cyanosis at birth."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-week-old has a low SpO2 and visible central cyanosis. The infant also has tachypnea, sweating during feeds, poor weight gain, and a liver edge palpable 3 cm below the costal margin. The echocardiogram shows a single great vessel arising over a large VSD. Which defect does this represent?",
+      "options": [
+        "Tetralogy of Fallot",
+        "Tricuspid atresia",
+        "Truncus arteriosus",
+        "Transposition of the great arteries"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: central cyanosis together with heart-failure signs (tachypnea, sweaty feeds, poor weight gain, hepatomegaly), and one great vessel over a large VSD. Analyze cues: in truncus arteriosus, a single vessel leaves the heart instead of an aorta plus a pulmonary artery. Blood mixes, causing cyanosis, AND too much of it goes to the lungs, causing heart failure. Prioritize hypotheses: 'cyanosis plus HF signs' with one great vessel is the hallmark of truncus.",
+        "incorrect": [
+          "TOF is cyanotic, but pulmonary stenosis limits lung flow, so heart-failure signs from pulmonary overcirculation are not its pattern. TOF also has two great vessels with an overriding aorta.",
+          "Tricuspid atresia means no tricuspid valve and too little blood to the lungs. 'Truncus = no tricuspid valve' is the guide's trap.",
+          "TGA has two great vessels that are swapped, not a single vessel, and it presents as severe cyanosis from parallel circuits."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-month-old with unrepaired tetralogy of Fallot begins crying hard after a blood draw. Within a minute the toddler is deeply cyanotic, breathing rapidly and deeply, and very irritable. SpO2 drops from a baseline of 84% to 62%. What should the nurse do first?",
+      "options": [
+        "Apply 100% oxygen by face mask and increase the flow until the SpO2 rises",
+        "Prepare the prescribed IV morphine to reduce agitation and hyperpnea",
+        "Lay the toddler flat on the back and elevate the legs to improve venous return",
+        "Place the toddler in a knee-chest position, holding the knees up to the chest"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a known TOF child with a trigger (crying), sudden severe cyanosis, hyperpnea, irritability, and a sharp SpO2 drop. Analyze cues: this is a tet (hypercyanotic) spell. Crying lowers systemic vascular resistance and raises O2 demand, so even more blood shunts right to left across the VSD (blood is lazy and the body side is now easier), which starts a spiral of hypoxemia. Take action: knee-chest positioning comes FIRST. It kinks the large leg arteries, raises SVR, and pushes blood back through the lungs. The guide's order is (1) knee-chest, (2) calm/comfort with a parent holding, (3) 100% O2, (4) morphine, (5) IV fluids, (6) notify. Evaluate outcomes: color pinks up, SpO2 rises, breathing slows.",
+        "incorrect": [
+          "Oxygen is step 3. It comforts the child but is unlikely to fix a shunt problem on its own, because the lungs are not the issue; blood is not reaching them. It is the right action at the wrong priority.",
+          "Morphine is step 4 and is given as ordered after positioning, calming, and oxygen. Preparing it first delays the immediate mechanical fix.",
+          "Laying a hypoxic TOF child flat is the guide's trap answer. It does not raise SVR, so right-to-left shunting continues; this is an adult-style response."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse has placed a 10-month-old with tetralogy of Fallot in the knee-chest position during a hypercyanotic spell. The infant is still crying and dusky. Which action should the nurse take next?",
+      "options": [
+        "Have the caregiver hold the infant in the knee-chest position and soothe them",
+        "Start the prescribed IV fluid bolus to treat possible dehydration",
+        "Call the provider to report a prolonged spell and request evaluation",
+        "Give the prescribed IV morphine to slow the infant's breathing"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Generate solutions/Take action: after knee-chest positioning, step 2 is calm and comfort, ideally with a parent holding the infant. Crying lowers SVR and raises O2 demand, which keeps the right-to-left shunt going, so reducing distress directly treats the spell's mechanism. Oxygen, morphine, IV fluids, and notification then follow in order. Evaluate outcomes: the infant settles, color improves, hyperpnea resolves.",
+        "incorrect": [
+          "IV fluids support preload and treat dehydration, which can trigger spells, but they are step 5. This is right action, wrong priority.",
+          "Notification is step 6. Prolonged or repeated spells may mean urgent surgery is needed, but bedside measures to stop the spell come first.",
+          "Morphine is step 4, given as ordered after calming and oxygen. Giving it before soothing skips a faster, nonpharmacologic step."
+        ]
+      }
+    },
+    {
+      "stem": "Ten minutes after interventions for a tet spell in an 18-month-old with tetralogy of Fallot, which finding best indicates that the spell is resolving?",
+      "options": [
+        "The toddler has stopped crying and is now limp and hard to rouse, with an SpO2 of 64%",
+        "The toddler's nail beds look pinker, but respirations remain deep at 64/min and SpO2 is unchanged",
+        "Respirations have slowed from 66 to 38/min, SpO2 has risen from 61% to 82%, and the toddler is calm",
+        "Respirations have increased to 72/min as the toddler works harder to bring in more oxygen"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: a resolving spell looks like color pinking up, SpO2 climbing back toward the child's baseline, breathing slowing as the hyperpnea resolves, and the child calming. This option shows all of them. If spells are repeated or prolonged, the nurse still notifies the provider, because surgery may be needed.",
+        "incorrect": [
+          "Quiet does not mean better. A toddler who becomes limp and hard to rouse while SpO2 stays low is getting worse from severe hypoxemia, which requires escalation.",
+          "Nail beds are a peripheral site. Persistent hyperpnea and an unchanged SpO2 show the shunting has not improved, so this is a misleading cue.",
+          "Worsening hyperpnea is part of the spell spiral, not compensation that signals recovery. This shows the spell is progressing."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is reviewing home care with the caregivers of a 3-year-old with tetralogy of Fallot who is awaiting surgery. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"If she has a long spell or they start happening more often, we will call the cardiologist right away.\"",
+        "\"When she crouches down in the yard after running, I'll help her stand back up so her legs don't get stiff.\"",
+        "\"If she suddenly turns very blue and breathes hard, I'll bring her knees to her chest and keep her calm.\"",
+        "\"We'll offer extra fluids when she has a stomach bug, since getting dried out can bring on a spell.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: squatting is the toddler's own treatment for hypoxemia. Squatting kinks the large leg arteries and raises SVR, which sends more blood back through the lungs. A caregiver who stops the child from squatting removes that protective response. Generate solutions: re-teach to let the child squat and never pull them out of it.",
+        "incorrect": [
+          "This is correct. Prolonged or repeated spells need the provider, because the child may need urgent surgery.",
+          "This is correct. Knees to chest (or squatting) is the first action during a spell, and keeping the child calm is the next step.",
+          "This is correct. Dehydration is a known spell trigger, so keeping the child hydrated during illness is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 4-year-old with unrepaired tetralogy of Fallot asks why their child always squats after playing. Which explanation by the nurse is most accurate?",
+      "options": [
+        "\"Squatting lowers the blood pressure in the body so the heart can rest and recover after exertion.\"",
+        "\"Squatting slows the return of blood from the legs, which lets the heart fill less and work less.\"",
+        "\"Squatting raises resistance in the body's arteries, so more blood is pushed to the lungs for oxygen.\"",
+        "\"Squatting opens the blood vessels in the lungs wider, so the lungs can absorb oxygen faster.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: in TOF, pulmonary stenosis raises right-sided pressure, so blood shunts right to left across the VSD and the child is hypoxemic. Exertion lowers SVR and makes the shunt worse. Generate solutions: squatting kinks the big leg arteries and raises SVR, so the body side becomes 'harder' and blood goes back through the lungs, improving oxygenation. Teaching the mechanism helps caregivers see why they should let the child squat.",
+        "incorrect": [
+          "This is the guide's trap answer. Squatting RAISES systemic resistance rather than lowering blood pressure to rest the heart.",
+          "The benefit of squatting comes from increased systemic resistance redirecting blood to the lungs, not from reducing the heart's filling.",
+          "Squatting acts on systemic resistance, not on the lung vessels. The blockage in TOF is at the pulmonary valve, which positioning does not open."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching the caregivers of a 9-month-old with tetralogy of Fallot how to recognize situations that can trigger a hypercyanotic spell. Which situations should the nurse include? Select all that apply.",
+      "options": [
+        "A long period of hard crying",
+        "Straining during a bowel movement",
+        "Waking up from a nap",
+        "A deep, quiet sleep",
+        "Several days of vomiting and diarrhea",
+        "Being held with the knees folded to the chest"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "The guide lists tet spell triggers as crying, feeding, defecation, waking, and dehydration. Each lowers SVR and/or raises oxygen demand, which increases right-to-left shunting. Deep sleep is a low-demand state, and the knees-to-chest position is the treatment, not a trigger. Spells are not limited to exercise.",
+        "incorrect": [
+          "Correct—crying lowers SVR and raises O2 demand, the classic trigger.",
+          "Correct—defecation (straining with a bowel movement) is a listed trigger.",
+          "Correct—waking is a listed trigger, so caregivers should watch the infant closely after naps.",
+          "Incorrect—deep sleep lowers oxygen demand and is not a listed trigger. Waking from sleep is the trigger.",
+          "Correct—dehydration from vomiting and diarrhea is a listed trigger, which is why fluids matter during illness.",
+          "Incorrect—knees to chest is the infant version of squatting and treats a spell by raising SVR."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is caring for a 3-year-old with unrepaired tetralogy of Fallot. Which finding requires the nurse's immediate follow-up?",
+      "options": [
+        "Clubbing of the fingertips with a nail-bed angle of about 180 degrees",
+        "A hematocrit above the normal range on this morning's laboratory results",
+        "A resting SpO2 of 84%, the same as the value documented at the last visit",
+        "Sudden deeper cyanosis with fast, deep breathing and irritability at lunch"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: four TOF findings, three chronic and one acute. Analyze cues: clubbing, polycythemia, and a stable low baseline SpO2 are expected in long-standing hypoxemia; the body has adapted to a low pulse ox. Prioritize hypotheses: sudden worsening cyanosis with hyperpnea and irritability, triggered by feeding, is an acute tet spell, which can spiral into severe hypoxemia. Take action: knee-chest first, then calm, O2, morphine, fluids, and notify.",
+        "incorrect": [
+          "Clubbing reflects chronic low O2 in an unrepaired cyanotic defect. It is expected and documented, not acute.",
+          "Polycythemia is the body making extra RBCs to carry more O2, an expected compensation in TOF. It needs monitoring but is not the acute priority.",
+          "A low SpO2 that matches the child's baseline is expected in cyanotic disease. The change from baseline is what matters, and here there is none."
+        ]
+      }
+    },
+    {
+      "stem": "The caregivers of a 2-month-old newly diagnosed with tetralogy of Fallot ask why their baby's oxygen level runs in the low 80s. Which explanation by the nurse best describes the blood flow?",
+      "options": [
+        "\"A narrowed valve limits blood going to the lungs, so blue blood crosses the hole between the pumping chambers and goes out to the body.\"",
+        "\"A hole between the pumping chambers lets red blood flow back to the lungs, so the lungs get flooded and can't pick up oxygen.\"",
+        "\"The two main arteries are switched, so blue blood keeps circling back to the body without ever reaching the lungs.\"",
+        "\"The main artery to the body is pinched, so less red blood gets past the narrowing to reach the lower body.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: answer the three questions for TOF. Lungs: too little blood (pulmonary stenosis). Body: yes, but mixed. Oxygenated blood where it should be: no, so the baby is blue. PS limits lung flow, RV pressure rises, blood shunts right to left across the VSD, and the overriding aorta sends mixed blood to the body, which lowers SpO2. Take action: explain in plain language so caregivers understand why spells and squatting matter.",
+        "incorrect": [
+          "This describes a left-to-right VSD. The infant would be pink and at risk for HF, not hypoxemic. 'VSD shunts right to left from birth' is a guide trap.",
+          "This describes TGA's parallel circuits, a different cyanotic defect. TOF has normally connected great arteries with an overriding aorta.",
+          "This describes coarctation, an acyanotic obstructive defect, not a cause of a low SpO2."
+        ]
+      }
+    },
+    {
+      "stem": "A 1-day-old with hypoplastic left heart syndrome is receiving a continuous prostaglandin E1 (alprostadil) infusion while awaiting surgery. Which finding requires the nurse's immediate action?",
+      "options": [
+        "SpO2 of 80% on the pulse oximeter",
+        "Pauses in breathing lasting 20 seconds",
+        "Heart rate of 150 while the infant is awake",
+        "Mild acrocyanosis of the hands and feet"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a newborn on PGE1 with breathing pauses. Analyze cues: apnea is the key side effect of PGE1. In HLHS the PDA is essential for systemic blood flow, so the drug cannot simply be stopped, and the airway must be supported. Prioritize hypotheses: apnea is an immediate threat to oxygenation. Take action: stimulate and support breathing (airway and respiratory support should already be ready), notify the provider, and keep the ductus open; never let it close in a ductal-dependent baby.",
+        "incorrect": [
+          "In HLHS blood is mixed, so an SpO2 around 80% is an expected finding, not a sign of failure. The change to act on here is the apnea.",
+          "An HR of 150 in an awake newborn is within the expected newborn range and is not the urgent cue.",
+          "Acrocyanosis is peripheral cyanosis, common in newborns, and less urgent than apnea."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-day-old with hypoplastic left heart syndrome is on a prostaglandin E1 infusion. The nurse finds the peripheral IV infiltrated and the infusion stopped for an unknown length of time. SpO2 is 78% and the infant's pulses feel slightly weaker. What should the nurse do first?",
+      "options": [
+        "Increase oxygen to 100% by hood and recheck SpO2 and pulses in 15 minutes",
+        "Elevate the extremity, apply a warm compress, and document the infiltration",
+        "Report the infiltration to the provider during the next scheduled rounds",
+        "Establish new IV access and resume the PGE1 infusion, notifying the provider"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the PGE1 infusion has been interrupted in a ductal-dependent newborn, and pulses are weakening. Analyze cues: in HLHS the PDA is the only route for systemic blood flow. PGE1 keeps it open, and if the ductus closes the result is cardiovascular collapse. Prioritize hypotheses: the ductus may be starting to constrict. Take action: restore the infusion right away through new access and notify the provider. Evaluate outcomes: pulses and perfusion should return to baseline; watch for apnea once the infusion restarts.",
+        "incorrect": [
+          "Oxygen does not keep the ductus open; rising O2 actually helps it constrict. Waiting 15 minutes while the ductus closes risks collapse.",
+          "Caring for the infiltrated site is appropriate, but it is not the priority while the infant's systemic flow depends on the stopped drug.",
+          "Delaying the report misses a time-critical threat. Weakening pulses mean systemic flow may already be falling."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-hour-old newborn is diagnosed with transposition of the great arteries and an intact ventricular septum. SpO2 is 65%. Which prescription should the nurse question?",
+      "options": [
+        "Begin a prostaglandin E1 infusion and have respiratory support at the bedside",
+        "IV indomethacin to promote closure of the ductus arteriosus",
+        "Prepare the infant for a balloon atrial septostomy",
+        "Continuous cardiorespiratory and pulse oximetry monitoring"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: in TGA the two circulations run in parallel, so survival requires mixing through a PDA, ASD/foramen ovale, or VSD. With an intact septum, the ductus and the atrial opening are the only routes. Take action: question indomethacin. Closing the PDA would remove a mixing route and could cause profound hypoxemia. 'Give oxygen and close the PDA in TGA' is the guide's trap. The right plan is PGE1, then septostomy, then arterial switch.",
+        "incorrect": [
+          "PGE1 keeps the ductus open for mixing, and having respiratory support ready addresses its apnea risk. This order is appropriate.",
+          "Balloon atrial septostomy enlarges the atrial opening to improve mixing. This order is appropriate.",
+          "Continuous monitoring is expected for a cyanotic newborn on PGE1, which can cause apnea. This order is appropriate."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-month-old with a large ventricular septal defect is admitted for poor feeding. Which assessment finding best indicates worsening heart failure in this infant?",
+      "options": [
+        "New 2+ pitting edema of both ankles and the tops of both feet",
+        "Caregiver report that the infant seems short of breath with exertion",
+        "Puffy eyelids and a liver edge now 3 cm below the costal margin",
+        "Bluish hands and feet when the temperature in the room is cool"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: periorbital edema plus a newly enlarged liver. Analyze cues: pediatric HF looks different from adult HF. In infants, fluid backs up into the liver (hepatomegaly) and the soft tissue around the eyes rather than the legs, along with sweating with feeds, tachypnea, tachycardia, and poor weight gain. Prioritize hypotheses: a growing liver edge and puffy eyes mean fluid overload is worsening. Take action: report the change and anticipate diuretics and fluid management.",
+        "incorrect": [
+          "Ankle or leg edema is the classic adult HF sign. In babies, edema shows up around the eyes rather than the legs, so an answer with 'ankle edema' for an infant is likely the trap.",
+          "Exertional shortness of breath is an adult-style complaint. An infant shows exercise intolerance as sweating, tiring, and tachypnea during feeds.",
+          "Bluish hands and feet in a cool room are peripheral and nonspecific. They do not indicate worsening HF and are not a central cyanosis finding."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-month-old with heart failure from a large VSD takes about 50 minutes to finish each bottle and becomes sweaty and tachypneic partway through. Which nursing action is most appropriate?",
+      "options": [
+        "Continue offering the bottle until the infant finishes the full prescribed volume",
+        "Space feedings farther apart so the infant is hungrier and feeds more vigorously",
+        "Offer small sips of water between feeds to keep the infant well hydrated",
+        "Limit feeding time and give the remaining volume by NG tube as prescribed"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: long feeds with sweating and tachypnea. Analyze cues: feeding is the infant's exercise, and a 50-minute feed burns more calories than it delivers, which leads to poor weight gain. Generate solutions/Take action: give small, frequent, high-calorie feeds, limit feeding time (background: about 20–30 minutes), and give the rest by NG or G-tube to save energy and support weight gain for surgery. Evaluate outcomes: steady weight gain, and feeds finished without sweating or tachypnea.",
+        "incorrect": [
+          "Making the infant work until the bottle is empty prolongs the exertion that is causing the HF signs and wastes calories.",
+          "Infants with HF need small, frequent feeds. Larger, less frequent feeds increase the work per feed.",
+          "Water adds volume without calories. These infants need more calories in less volume, such as high-calorie formula or fortified breast milk."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is planning care for a 3-month-old with heart failure secondary to a large patent ductus arteriosus. Which interventions should the nurse include? Select all that apply.",
+      "options": [
+        "Cluster care to allow uninterrupted periods of rest",
+        "Position the infant flat and supine between feedings",
+        "Weigh the infant naked on the same scale at the same time daily",
+        "Offer high-calorie formula in small, frequent feedings",
+        "Elevate the head of the whole bed to a semi-upright position",
+        "Encourage longer feeding sessions to maximize oral intake"
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "HF nursing care (slides 57–58): small, frequent, high-calorie feeds with limited feeding time (tube feeds as needed); cluster care and rest to save energy and O2; semi-upright positioning by elevating the whole bed; daily weights (naked, same scale, same time) with strict I&O; and diuretics, ACE inhibitors, and digoxin as ordered.",
+        "incorrect": [
+          "Correct—clustering care saves the infant's energy and oxygen.",
+          "Incorrect—lying flat makes breathing harder. Semi-upright positioning eases the work of breathing.",
+          "Correct—consistent daily weights detect fluid retention, a key HF evaluation tool.",
+          "Correct—more calories in less volume supports growth without extra work per feed.",
+          "Correct—a semi-upright position, made by elevating the whole bed, makes breathing easier.",
+          "Incorrect—feeding is exercise for infants. Feeding time should be limited, with tube feeding considered, not extended."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-week-old with heart failure has been receiving diuretics, high-calorie feeds, and clustered care for 1 week. Which finding best indicates that the plan of care is effective?",
+      "options": [
+        "Weight increased 250 g overnight, and the infant now sleeps for longer stretches",
+        "Steady daily weight gain, with feeds finished without sweating or tachypnea",
+        "Urine output doubled, and the infant takes about 40 minutes to finish feeds",
+        "The infant takes less formula per feed but cries less during care"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the HF goals are adequate weight gain, feeds completed without distress, a stable HR and RR, and no fluid overload. Steady weight gain together with feeds finished without sweating or tachypnea shows that the infant is growing and that feeding, the infant's exercise, no longer exceeds cardiac capacity.",
+        "incorrect": [
+          "A sudden 250-g overnight gain suggests fluid retention, not tissue growth, so it needs follow-up. Sleeping longer may simply reflect fatigue.",
+          "Better urine output shows the diuretic is working, but a 40-minute feed still means feeding is too much work. The overall plan has not succeeded.",
+          "Taking less per feed threatens weight gain. Crying less is not a measure of HF improvement."
+        ]
+      }
+    },
+    {
+      "stem": "The grandparent of a 3-month-old with heart failure from a large ventricular septal defect (VSD) says, 'I had heart failure after my heart attack. Did the baby have a heart attack too?' Which response by the nurse is most accurate?",
+      "options": [
+        "\"In babies, heart failure is most often caused by blocked heart arteries that formed before birth.\"",
+        "\"In babies, heart failure is most often caused by high blood pressure that strains the heart over time.\"",
+        "\"In babies, heart failure is most often caused by a heart defect present at birth, like her VSD.\"",
+        "\"In babies, heart failure is most often caused by a lung infection that spreads to the heart muscle.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the grandparent is applying the adult pattern. Pediatric HF is most often caused by congenital heart disease, such as volume overload from a large VSD or PDA or pressure overload from AS or coarctation, less often a weak muscle (cardiomyopathy or myocarditis). Adults usually have acquired causes like MI or hypertension. Take action: correct the misconception in plain language and link it to the infant's actual defect.",
+        "incorrect": [
+          "This is the guide's trap answer. HF in kids is not usually from coronary artery disease, which is the adult cause.",
+          "Hypertension is a common adult cause. Pressure overload in infants comes from structural obstruction such as AS or coarctation, not long-standing high BP.",
+          "Myocarditis can cause a weak muscle, but it is not the most common cause, and congenital disease still leads."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is preparing the caregivers of a 4-month-old with heart failure for discharge on a diuretic and digoxin. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"I'll call if she starts sweating and breathing fast during her bottles again.\"",
+        "\"I'll keep her feeds short and give the rest through her feeding tube like you showed us.\"",
+        "\"I'll raise the head of her whole crib mattress so she breathes more easily.\"",
+        "\"I'll weigh her each day with her diaper and sleeper on, using whatever scale is closest.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: daily weights detect fluid retention only if they are consistent, meaning naked, on the same scale, at the same time. Weighing in clothes on different scales adds error that can hide a gain from fluid. Generate solutions: re-teach the weighing technique and the weight change that should prompt a call.",
+        "incorrect": [
+          "This is correct. Sweating and tachypnea with feeds mean the heart is working too hard, which is a reason to call.",
+          "This is correct. Limiting feeding time and giving the rest by tube saves energy and supports weight gain.",
+          "This is correct. Semi-upright positioning by elevating the whole bed eases breathing."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-month-old with heart failure has a prescription for digoxin with the parameter 'hold for apical heart rate less than 100.' The nurse counts an apical pulse of 88 for 1 full minute. The infant is feeding and has no vomiting. What is the nurse's best action?",
+      "options": [
+        "Give the dose, then recount the apical pulse in 1 hour to confirm the rate",
+        "Recheck with a radial pulse counted for 15 seconds and multiplied by 4",
+        "Give half of the prescribed dose and document the reduced heart rate",
+        "Hold the dose and notify the provider of the apical heart rate"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a full-minute apical HR of 88, below the ordered parameter of 100. Analyze cues: digoxin slows the HR. Bradycardia below the parameter signals toxicity or risk of dysrhythmia, even without vomiting. Take action: when the HR is below the parameter, HOLD and notify, not 'give and recheck.' Evaluate outcomes: the provider decides on the next dose and may check a level and potassium.",
+        "incorrect": [
+          "'Give digoxin and recheck the pulse in an hour' is the guide's trap answer. Once the dose is given, a further drop in HR cannot be prevented.",
+          "Counting a radial pulse for 15 seconds × 4 is the trap technique. Kids' rates are fast and irregular, so digoxin requires an apical pulse counted for one full minute, which has already been done.",
+          "The nurse cannot change a prescribed dose. Giving a partial dose of a high-alert drug with tiny pediatric doses is unsafe and outside nursing scope."
+        ]
+      }
+    },
+    {
+      "stem": "An 11-month-old receiving digoxin and furosemide for heart failure has vomited after the last two feeds and is refusing the bottle. The apical pulse is 92 (hold parameter is less than 100), and this morning's potassium is 3.0 mEq/L. Which conclusion should guide the nurse's action?",
+      "options": [
+        "Digoxin toxicity is likely, made more probable by low potassium from the diuretic",
+        "The infant likely has viral gastroenteritis, which is causing the vomiting and refusal",
+        "Feeding intolerance is expected with heart failure and calls for smaller, thicker feeds",
+        "Vomiting is a common, harmless digoxin side effect, so the dose should be given as usual"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: vomiting, poor feeding, an HR below the parameter, low K+, and a diuretic. Analyze cues: in infants, vomiting and poor feeding are often the first clue of digoxin toxicity, and bradycardia adds to the concern. Diuretics lower potassium, and low K+ raises the risk of digoxin toxicity. Prioritize hypotheses: digoxin toxicity explains every cue together. Take action: hold the digoxin and notify the provider with the HR and potassium.",
+        "incorrect": [
+          "Gastroenteritis could cause vomiting but does not explain the bradycardia and low K+. Assuming a benign cause misses the medication hazard.",
+          "Infants with HF can tire during feeds, but vomiting with bradycardia in a child on digoxin points to toxicity, not routine intolerance.",
+          "Treating vomiting as harmless is a needs-further-teaching statement in the guide. Vomiting is a toxicity sign that requires holding and reporting."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching the caregiver of a 6-month-old who will take digoxin at home. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"I'll count his heartbeat for a whole minute before each dose and call if it's under the number you gave me.\"",
+        "\"I'll measure the dose with the syringe that comes with the medicine and have my partner check it too.\"",
+        "\"If he throws up more than once or stops wanting his bottle, I'll call because the medicine could be too strong.\"",
+        "\"If I forget a dose and remember at the next dose time, I'll give both so his level doesn't drop.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: doubling a missed dose of digoxin, a drug with tiny pediatric doses where small errors cause toxicity, could cause bradycardia and dysrhythmias. The teaching is to never double a missed dose. Generate solutions: re-teach the missed-dose plan given by the provider and pharmacist, and review the signs of toxicity.",
+        "incorrect": [
+          "This is correct. A full-minute heart rate count before each dose, with a call if it is below the parameter, is the core safety check.",
+          "This is correct. Using the dosing syringe and having a second adult double-check prevents dosing errors with tiny doses.",
+          "This is correct. Vomiting and poor feeding are early signs of toxicity in infants and warrant a call."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-month-old with heart failure started digoxin 3 days ago. The infant's baseline heart rate was 178 with tachypnea and sweaty feeds. Which finding best indicates that digoxin is having its intended effect?",
+      "options": [
+        "Heart rate of 82 at rest, and the infant now sleeps through most care",
+        "Heart rate of 134, with feeds finished with less sweating and tachypnea",
+        "Heart rate unchanged at 176, but urine output has increased",
+        "Heart rate of 140, with one episode of vomiting after each dose"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: digoxin helps the heart pump more effectively and slows the HR, which allows more filling and therefore more output. A heart rate that falls toward normal, combined with better feeding tolerance (less sweating and tachypnea), shows improved cardiac output.",
+        "incorrect": [
+          "An HR of 82 in an infant is bradycardia, a sign of toxicity, and very likely below the hold parameter. Sleeping through care may be lethargy rather than rest.",
+          "Increased urine output reflects the diuretic. An unchanged HR shows digoxin has not had its intended rate effect.",
+          "A slower rate is reassuring, but vomiting after doses is an early sign of toxicity and needs reporting, so the drug is not working safely."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-year-old has had a fever of 39.6°C (103.3°F) for 6 days. The child is very irritable and has red eyes in both sides without discharge, cracked red lips with a 'strawberry' tongue, a rash on the trunk, swollen red hands, and one enlarged lymph node on one side of the neck. Which condition does the nurse suspect?",
+      "options": [
+        "Rheumatic fever following a recent strep throat",
+        "Infective endocarditis from bacteria in the bloodstream",
+        "Kawasaki disease involving the medium-sized blood vessels",
+        "Bacterial conjunctivitis with an accompanying viral rash"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a child under 5 with fever of 5 days or more plus at least 4 of 5 criteria: bilateral conjunctivitis without drainage, oral changes (strawberry tongue, red cracked lips), rash, extremity changes (red swollen hands), and a single unilateral enlarged neck node, along with marked irritability. Analyze cues: this is the Kawasaki pattern ('CRASH and BURN'). Prioritize hypotheses: Kawasaki is a vasculitis whose major danger is coronary artery aneurysm. Take action: anticipate IVIG within 10 days of fever onset, aspirin, and an echocardiogram.",
+        "incorrect": [
+          "Rheumatic fever presents 2–4 weeks after strep with JONES findings (migratory polyarthritis, carditis, nodules, erythema marginatum, chorea), not conjunctivitis, strawberry tongue, and hand swelling.",
+          "Endocarditis is suspected with prolonged fever plus a new or changed murmur in a child with heart disease or a central line, not with mucocutaneous findings.",
+          "Bacterial conjunctivitis produces purulent drainage. Eyes without drainage, plus 6 days of fever and the other criteria, fit Kawasaki."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old is being evaluated for possible Kawasaki disease. Which finding would most lead the nurse to question that diagnosis?",
+      "options": [
+        "Peeling skin on the fingertips noted at a follow-up visit",
+        "A single enlarged lymph node on one side of the neck",
+        "Marked irritability that is difficult to console",
+        "Fever for 2 days with thick yellow drainage from both eyes"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: Kawasaki requires fever of 5 days or more, and its conjunctivitis is bilateral WITHOUT drainage (not purulent). Two days of fever with purulent eye drainage matches the guide's trap row and points to a different cause, such as bacterial conjunctivitis. Prioritize hypotheses: this finding weakens the Kawasaki hypothesis, while the other three support it.",
+        "incorrect": [
+          "Peeling of the fingers and toes is expected later in Kawasaki, following the red, swollen hands and feet. It supports the diagnosis.",
+          "One enlarged neck node is a Kawasaki criterion and supports the diagnosis.",
+          "Marked irritability is expected in Kawasaki, especially in young children. It supports the diagnosis."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old was just diagnosed with Kawasaki disease on day 7 of fever. The provider prescribes IVIG, high-dose aspirin, and an echocardiogram. Which nursing action is the priority?",
+      "options": [
+        "Start the IVIG infusion promptly and monitor vital signs and reactions during it",
+        "Apply a moisturizing cream to the red, swollen hands to prevent cracking skin",
+        "Teach the family about expected skin peeling of the fingers in coming weeks",
+        "Schedule the echocardiogram for after discharge once the fever has resolved"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Prioritize hypotheses: the biggest worry in Kawasaki is coronary artery aneurysm, because all the vessels are inflamed. Generate solutions/Take action: the priority is protecting the coronary arteries with prompt IVIG, ideally within 10 days of fever onset (this child is on day 7), plus aspirin and echo monitoring. IVIG requires monitoring during the infusion for vital-sign changes and reactions.",
+        "incorrect": [
+          "Skin comfort is a reasonable supportive measure, but 'treat the rash' is the guide's trap priority. The coronary arteries come first.",
+          "Teaching that peeling is expected is appropriate before discharge, but it does not prevent coronary damage. This is correct, but not yet.",
+          "Echocardiograms are done at diagnosis and in follow-up to look for aneurysms. Waiting until after discharge delays the baseline cardiac evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is providing discharge teaching to the caregivers of a 3-year-old who received IVIG and is taking aspirin for Kawasaki disease. Which statement by a caregiver indicates a need for further teaching?",
+      "options": [
+        "\"Her measles-mumps-rubella shot is due next week, so we'll keep that appointment as scheduled.\"",
+        "\"She takes aspirin because this illness can affect her heart's arteries, which is a special exception.\"",
+        "\"We'll keep every echocardiogram appointment even after the fever is completely gone.\"",
+        "\"If the skin on her fingers and toes starts to peel in a couple of weeks, that's part of the illness.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: after IVIG, vaccine timing must be checked with the provider (background: live vaccines such as MMR are delayed after IVIG because the antibodies can blunt the response). Keeping the appointment without asking shows a gap in understanding. Generate solutions: re-teach the family to check vaccine timing with the provider before any immunizations.",
+        "incorrect": [
+          "This is correct. Aspirin is given in Kawasaki as one of the exceptions to avoiding aspirin in children.",
+          "This is correct. Echocardiogram follow-ups watch for coronary aneurysms, which can develop even after the fever resolves.",
+          "This is correct. Peeling of the fingers and toes is an expected later feature, not a new infection."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-year-old is brought in with painful, swollen knees, followed 2 days later by a painful, swollen elbow. The caregiver reports a sore throat about 3 weeks ago that 'went away on its own' without treatment. The nurse notes tachycardia, a new murmur, and a pink rash with clear centers on the trunk. Which condition does the nurse suspect?",
+      "options": [
+        "Kawasaki disease",
+        "Rheumatic fever",
+        "Infective endocarditis",
+        "Aortic stenosis"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an untreated sore throat 3 weeks earlier, migratory polyarthritis of large joints, carditis (tachycardia, new murmur), and erythema marginatum (pink rash with clear centers). Analyze cues: rheumatic fever is an immune overreaction 2–4 weeks after group A strep that affects the heart, joints, skin, and brain (JONES). Prioritize hypotheses: the timing plus multiple JONES findings point to RF. The worst outcome is rheumatic heart disease (valve damage). Take action: anticipate antibiotics, anti-inflammatory therapy, and rest with activity limits for carditis.",
+        "incorrect": [
+          "Kawasaki is a vasculitis in children under 5 with fever of 5 days or more, non-purulent conjunctivitis, oral changes, and hand and foot changes, not migratory arthritis after strep.",
+          "Endocarditis causes a new murmur and prolonged fever in a child with heart disease or a central line. It does not explain migratory arthritis and erythema marginatum after a sore throat.",
+          "Aortic stenosis is a congenital obstructive defect causing exercise intolerance, chest pain, or fainting, not acute arthritis and rash after an infection."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-year-old is being treated for rheumatic fever with carditis. The child says, 'I feel fine now, and the coach said I can go back to basketball practice this week to build my heart back up.' Which response by the nurse is most appropriate?",
+      "options": [
+        "\"Light basketball drills are fine as long as you stop when your joints start to ache.\"",
+        "\"Exercise will strengthen your heart, so returning to practice will speed your recovery.\"",
+        "\"Your heart is inflamed right now, so rest and limited activity are part of your treatment.\"",
+        "\"You can practice as soon as you finish the antibiotics, since the infection will be gone.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: carditis means the heart itself is inflamed, which can cause tachycardia, a murmur, and heart failure, and feeling better does not mean it has resolved. Generate solutions/Take action: treatment for carditis includes rest and activity limits along with antibiotics and anti-inflammatory therapy. 'Encourage sports to strengthen the heart during carditis' is the guide's trap.",
+        "incorrect": [
+          "Joint pain is the wrong cue to guide activity. The heart inflammation, not the arthritis, is why activity is limited.",
+          "This is the guide's trap. Exertion during carditis increases the workload on an inflamed heart.",
+          "Rheumatic fever is an immune reaction, not an ongoing infection of the heart. Finishing the antibiotics does not mean the carditis has resolved."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching the family of an 8-year-old who is recovering from rheumatic fever. Which statement by a family member indicates a need for further teaching?",
+      "options": [
+        "\"The jerky movements she's having are part of the illness, and she isn't doing them on purpose.\"",
+        "\"When her brother gets strep, he'll take every dose of his antibiotic even once he feels better.\"",
+        "\"Since her knees and elbows feel fine now, we can stop her preventive antibiotic after this refill.\"",
+        "\"She'll rest and take it easy while her heart is still inflamed, even if she feels well.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: after rheumatic fever, prevention requires long-term antibiotic prophylaxis to prevent another attack and further valve damage. Resolution of joint symptoms is not a reason to stop. Generate solutions: re-teach that prophylaxis continues long-term as prescribed, not until symptoms resolve.",
+        "incorrect": [
+          "This is correct. Sydenham chorea is the involuntary movement component of rheumatic fever.",
+          "This is correct. Completing the full strep course prevents rheumatic fever in other family members.",
+          "This is correct. Rest and activity limits are part of treatment for carditis."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old with a repaired congenital heart defect that included prosthetic material has had a fever for 6 days, fatigue, and poor appetite. The nurse hears a murmur that was not documented before. The provider prescribes multiple blood cultures, IV antibiotics, and an echocardiogram. What should the nurse do first?",
+      "options": [
+        "Start the first dose of IV antibiotics so treatment of the infection is not delayed",
+        "Draw the blood cultures from separate sites before giving the first antibiotic dose",
+        "Transport the child for the echocardiogram to look for vegetations on the valves",
+        "Give the prescribed antipyretic and recheck the temperature in 30 minutes"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a high-risk child (CHD with prosthetic material) with prolonged fever, fatigue, poor appetite, and a NEW murmur. Analyze cues: this suggests infective endocarditis, with bacteria or fungi (usually staph or strep) forming vegetations on abnormal heart tissue. Take action: draw multiple blood cultures BEFORE antibiotics, so the organism can be identified, then start IV antibiotics. Evaluate outcomes: cultures guide weeks of targeted IV therapy, often completed at home through a PICC.",
+        "incorrect": [
+          "'Start antibiotics, then draw cultures' is the guide's trap. Antibiotics given first can sterilize the cultures and hide the organism.",
+          "The echocardiogram is needed to find vegetations, but cultures come first so antibiotics can start soon after. This is correct, but not yet.",
+          "Treating the fever addresses comfort, not the infection. It also delays cultures and antibiotics and does not treat the underlying problem."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is teaching the caregivers of a 5-year-old with an unrepaired ventricular septal defect about preventing infective endocarditis. Which caregiver statement shows correct understanding?",
+      "options": [
+        "\"Baby teeth fall out anyway, so we'll focus his dental care on his permanent teeth.\"",
+        "\"Brushing and flossing every day and regular dental visits help protect his heart.\"",
+        "\"A low fever that lingers is normal for kids with heart defects, so we'll wait it out.\"",
+        "\"All children need antibiotics before every dental cleaning, so we'll ask each time.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: bacteria from the mouth can enter the blood and stick to abnormal heart tissue, so oral hygiene (brushing, flossing, regular dental visits, including for young kids) protects the heart. Families should also report a prolonged fever. Generate solutions: reinforce daily oral care and dental follow-up.",
+        "incorrect": [
+          "This misunderstands the risk. Mouth bacteria can cause endocarditis whatever the type of tooth, and kids need dental care too.",
+          "A prolonged or lingering fever is a warning sign of endocarditis that should be reported, not watched.",
+          "Antibiotics before certain dental procedures are for the highest-risk children only, not all children before every cleaning. 'All children need dental antibiotic prophylaxis' is the guide's trap."
+        ]
+      }
+    },
+    {
+      "stem": "Two hours after a cardiac catheterization through the right femoral artery, a 5-year-old's dressing becomes saturated with bright red blood, and blood is pooling under the leg. What should the nurse do first?",
+      "options": [
+        "Reinforce the dressing with more gauze and notify the provider",
+        "Apply firm direct pressure just below the puncture site",
+        "Apply firm direct pressure just above the puncture site",
+        "Help the child bend the knee to slow blood flow to the leg"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: active bleeding from the femoral puncture site. Analyze cues: the vessel was entered above the skin puncture, so pressure must be applied where the vessel was entered. Take action: apply direct pressure just ABOVE the site, then notify the provider. Evaluate outcomes: bleeding stops, distal pulses stay present, and the leg stays warm and pink.",
+        "incorrect": [
+          "Adding dressing on top is a trap answer. It hides ongoing bleeding instead of stopping it.",
+          "Pressure below the site is the guide's trap. It does not compress the point where the vessel was entered.",
+          "The leg must stay straight for the ordered time (often 4–6 hours). Bending it can worsen bleeding at the site."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is assessing a 6-year-old 3 hours after a cardiac catheterization through the left femoral artery. Which findings require immediate notification of the provider? Select all that apply.",
+      "options": [
+        "Left pedal pulse is weaker than the right",
+        "Left foot is cool and pale compared with the right",
+        "Capillary refill of 2 seconds in both feet",
+        "Child reports numbness and tingling in the left foot",
+        "Small dry spot on the dressing that has not enlarged"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "After cath, assess BELOW the insertion site and compare both legs. A weak or absent pulse, a cool or pale extremity, or numbness or changed sensation can mean a clot or spasm is cutting off blood to the leg, and must be reported immediately. A small dry spot that does not grow and a cap refill under 3 seconds are expected.",
+        "incorrect": [
+          "Correct—a weaker pulse in the affected leg suggests compromised arterial flow.",
+          "Correct—coolness and pallor below the site indicate poor perfusion.",
+          "Incorrect—cap refill under 3 seconds bilaterally is normal and expected.",
+          "Correct—a change in sensation (numbness, tingling) is a listed warning sign of compromised flow.",
+          "Incorrect—a small dry spot that is not growing is expected. An expanding hematoma or active bleeding would be the concern."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-month-old returns from cardiac catheterization after being NPO for the procedure. Distal pulses are strong and equal, and the dressing is dry. One hour later the infant is jittery, sweaty, and difficult to settle. Which action should the nurse take first?",
+      "options": [
+        "Check the infant's blood glucose level",
+        "Apply pressure above the insertion site",
+        "Swaddle the infant and dim the room lights",
+        "Reassess distal pulses in both legs again"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an infant who has been NPO for a procedure and is now jittery, sweaty, and irritable, with normal perfusion and a dry site. Analyze cues: infants have limited glucose reserves, and the guide lists checking glucose in infants (with encouraging fluids after contrast and NPO time) as a post-cath priority. Prioritize hypotheses: hypoglycemia best explains these cues. Take action: check glucose first, then treat as ordered. This is a peds-specific priority that adult post-cath care does not stress.",
+        "incorrect": [
+          "Pressure above the site is for active bleeding. The dressing is dry, so this is the right action for a different problem.",
+          "Comfort measures may help, but they treat irritability as behavioral and could delay recognizing hypoglycemia.",
+          "Pulses were just found strong and equal. Reassessing perfusion is ongoing care, but it does not address these new cues."
+        ]
+      }
+    }
+  ]
+}

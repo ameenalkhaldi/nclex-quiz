@@ -1,0 +1,960 @@
+{
+  "topic": "peds2-wk8-neurologic",
+  "label": "Peds 2: Week 8 — Neurologic",
+  "questions": [
+    {
+      "stem": "A nurse at a pediatric clinic is returning four phone messages. Which message requires the most immediate follow-up?",
+      "options": [
+        "A caregiver of an 8-year-old reports a mild headache after school that went away after a snack and a short rest on the couch",
+        "A caregiver of a 7-month-old reports that the infant's soft spot looks raised and feels tight even while the infant sits quietly on their lap",
+        "A caregiver of a 4-year-old reports trouble falling asleep each night since the child moved into a new bedroom last week",
+        "A caregiver of a 2-year-old reports the child is still saying fewer words than a cousin of the same age but adds new words each month"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a fontanel that bulges while the infant is calm. Analyze cues: a fontanel normally feels soft and flat and may bulge briefly only with crying, so bulging at rest reflects increased intracranial pressure. Prioritize hypotheses: of the four calls, this is the only neurologic red flag; the others are common, self-limited, or slow-but-progressing concerns. Take action: call this caregiver back first and arrange prompt evaluation.",
+        "incorrect": [
+          "A mild headache after school that resolves with food and rest is a classic trap answer. It has none of the headache red flags (morning pattern, waking from sleep, worsening, neuro change), so it is right to address but wrong priority.",
+          "Difficulty sleeping after a change in environment is a behavioral concern, not a neurologic red flag. It can wait while the infant with signs of increased ICP is called first.",
+          "A child who is slow but still gaining words is showing delay, not loss. Losing a milestone is worse than being slow to gain one, and this child continues to progress, so this is lower priority."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver brings a 15-month-old to the clinic and reports that the child walked independently at 12 months, but over the last 2 weeks has stopped walking and will only crawl. There is no history of injury, and vital signs are within normal limits. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "Independent walking can normally be delayed until 18 months, so the child is still within the expected range and can be rechecked at the next visit",
+        "Toddlers commonly lose skills briefly during a growth spurt, so the nurse should reassure the caregiver and encourage practice with push toys",
+        "Losing a gross motor skill the child already had is a neurologic red flag that needs prompt provider evaluation",
+        "The child's motor skills should first be compared with standard age charts, and referral can wait until the child falls below the chart range"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a skill the child already had (walking at 12 months) has been lost over 2 weeks. Analyze cues: the guide stresses that loss of a previously achieved milestone is far more meaningful than any single number and is worse than being slow to gain one. Prioritize hypotheses: a new neurologic process must be ruled out. Take action: report the regression for prompt evaluation rather than waiting for the next routine visit.",
+        "incorrect": [
+          "This applies the 'slow to gain' norm to a child who has lost a skill. The normal age range for first walking does not apply once the child has already walked, so it misreads the cue.",
+          "This explains away a red flag with reassurance. A change from this child's own baseline needs action, not watchful encouragement.",
+          "Comparing with general charts misses the point; the guide says to compare with THIS child's baseline. By that standard the child has already declined, so delaying referral is unsafe."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-month-old is admitted for dehydration from gastroenteritis. The nurse is completing the initial neurologic assessment. Which approach will give the nurse the most meaningful information?",
+      "options": [
+        "Ask the caregiver how the infant usually acts, feeds, and moves, then compare current behavior with it",
+        "Ask the infant to squeeze the nurse's fingers on command and compare grip strength on the right and left sides",
+        "Score the infant's orientation and speech against standard neurologic norms used for older children and adults",
+        "Rely mainly on the pupil check, since that is the only part of a neurologic exam an infant this age can complete"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 9-month-old cannot follow commands or report symptoms. Analyze cues: a pediatric neuro exam is built around development, so the nurse watches behavior, feeding, cry, tone, and movement and asks the parents what is normal for their child. Generate solutions: the most useful comparison is the child's own baseline. Take action: obtain the caregiver's description of usual behavior and compare current findings with it.",
+        "incorrect": [
+          "An infant cannot follow a command to squeeze fingers. The nurse should observe spontaneous movement and tone instead, so this method will not yield valid data.",
+          "Orientation and speech norms are adult-pattern measures. Using adult neuro norms is a listed trap; infants are assessed through developmentally appropriate behavior.",
+          "Pupils are only one piece. Behavior, feeding, cry, tone, movement, fontanel, and head growth all give essential information in an infant, so pupils alone are incomplete."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old with a known developmental delay is 1 day postoperative after an appendectomy. The caregiver says the child usually speaks in two-word phrases and walks with a walker. This morning the caregiver states, \"They're not acting right. They won't say any of their usual words and keep falling asleep while I talk to them.\" Vital signs are stable. What should the nurse do first?",
+      "options": [
+        "Document the findings, because limited speech is already part of this child's usual developmental picture",
+        "Let the child rest after a poor night of sleep in the hospital and repeat the assessment in 4 hours",
+        "Explain to the caregiver that hospitalized children often regress for a few days and that this is expected",
+        "Perform a full neurologic assessment and promptly report the change in mental status to the provider"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver, who knows the child's baseline, reports new loss of usual words and new sleepiness. Analyze cues: altered mental status and new lethargy are red flags, and the key question is 'Is this normal for THIS child?' Here it is not. Prioritize hypotheses: a change in neurologic status matters regardless of the child's baseline delay. Take action: assess fully and escalate now.",
+        "incorrect": [
+          "The child's baseline includes two-word phrases, so loss of those words is a change. Documenting without acting treats the delay as the explanation and misses the change from baseline.",
+          "Waiting 4 hours with new lethargy delays action on a red flag. On priority questions, the answer that acts on a change from baseline beats the one that waits.",
+          "This explains away the caregiver's concern. Parents are the best source on baseline, and a parent saying the child is 'not acting right' is a listed red flag."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver tells the nurse that their 6-year-old stops in the middle of reading aloud, stares blankly for about 5 to 8 seconds, then continues the same sentence as if nothing happened. This occurs dozens of times a day. When the caregiver calls the child's name during an episode, the child does not respond. Which condition best fits this presentation?",
+      "options": [
+        "Focal seizures",
+        "Absence seizures",
+        "Daydreaming from inattention",
+        "Brief tonic-clonic seizures"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: seconds-long staring, many times a day, immediate resumption of activity, and no response to the child's name. Analyze cues: absence seizures are generalized, last seconds, occur with high frequency, and have no postictal period; unlike daydreaming, they cannot be interrupted. Prioritize hypotheses: absence seizure fits every cue. Take action: refer for evaluation (EEG) rather than labeling it inattention.",
+        "incorrect": [
+          "Focal seizures start in one area and typically cause one-sided movements or sensory changes. Their length varies, and they do not classically produce dozens of brief stares with instant recovery.",
+          "A daydreaming child can be snapped out of it by hearing their name. This child does not respond, which is the cue that separates absence seizures from daydreaming.",
+          "Tonic-clonic seizures last minutes, involve stiffening and jerking, and are followed by a postictal period. Instant resumption of the same sentence rules this out."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is observing a 9-year-old who is being evaluated for recurrent episodes. Which observation best supports absence seizures rather than tonic-clonic seizures?",
+      "options": [
+        "The child loses awareness of their surroundings during each episode",
+        "The EEG shows the episodes involve both hemispheres of the brain",
+        "The episodes are recurrent and occur without any identifiable trigger",
+        "The child resumes the conversation at once, without sleepiness or confusion"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: absence and tonic-clonic seizures are both generalized, both affect consciousness, and both can be recurrent and unprovoked. Prioritize hypotheses: the distinguishing feature is what happens afterward: absence has NO postictal period and the child resumes activity immediately, while tonic-clonic seizures are followed by a postictal period of sleepiness and confusion. Evaluate outcomes: immediate resumption without confusion points to absence.",
+        "incorrect": [
+          "Both absence and tonic-clonic seizures are generalized and affect consciousness, so loss of awareness does not distinguish them.",
+          "Both seizure types are generalized and involve both hemispheres. This finding is true of both and cannot separate them.",
+          "Recurrent unprovoked seizures define epilepsy, which can include either seizure type. This finding does not tell the two apart."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-year-old is brought in after an episode at home. The caregiver describes 2 minutes of rhythmic jerking of the right arm and right side of the face. The child says their right hand \"felt tingly\" and remembers parts of the event. Temperature is 37.0°C (98.6°F). How should the nurse interpret this episode?",
+      "options": [
+        "An absence seizure with motor features",
+        "A generalized tonic-clonic seizure",
+        "A focal seizure starting in one hemisphere",
+        "A complex febrile seizure with focal features"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: one-sided jerking, one-sided tingling, partial awareness, and no fever in a 10-year-old. Analyze cues: focal seizures begin in one area or one hemisphere, so symptoms depend on the spot (one-sided movements, sensory changes), and awareness may or may not be affected. Prioritize hypotheses: focal seizure fits; the child's age and normal temperature exclude a febrile seizure.",
+        "incorrect": [
+          "Absence seizures are brief staring spells lasting seconds. Two minutes of one-sided jerking with tingling does not fit.",
+          "Tonic-clonic seizures are generalized, with loss of consciousness and whole-body stiffening then jerking. One-sided activity with partial awareness points to a focal origin.",
+          "Focal features can make a febrile seizure complex, but febrile seizures occur with fever in children 6 months to 5 years. This 10-year-old is afebrile, so the label does not apply."
+        ]
+      }
+    },
+    {
+      "stem": "An 11-year-old had a single generalized seizure at school with no fever or injury. The workup is in progress. The caregiver asks, \"Does this mean my child has epilepsy now?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"Epilepsy means repeated seizures that happen without a trigger, so one seizure on its own does not mean your child has epilepsy.\"",
+        "\"Any seizure in a child is considered epilepsy, so your child will be started on a daily seizure medicine before discharge.\"",
+        "\"Because this seizure was generalized instead of focal, epilepsy is unlikely, and no follow-up testing will be needed.\"",
+        "\"Epilepsy is diagnosed only when a seizure lasts longer than 5 minutes, so this short seizure rules it out completely.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: one unprovoked seizure and a frightened caregiver. Analyze cues: epilepsy is defined as RECURRENT UNPROVOKED seizures, and the professor states that one seizure does not automatically mean a child has epilepsy. Generate solutions: give accurate information without false reassurance about the workup. Take action: explain the definition while the evaluation continues.",
+        "incorrect": [
+          "\"Any seizure means epilepsy\" is a listed trap. One seizure does not meet the definition of recurrent unprovoked seizures, and maintenance medicine is not automatic.",
+          "Epilepsy can involve generalized or focal seizures, so seizure type does not rule it out. Promising no testing is false reassurance while the workup is in progress.",
+          "The 5-minute mark defines status epilepticus, not epilepsy. This confuses two different concepts."
+        ]
+      }
+    },
+    {
+      "stem": "A 12-year-old had a witnessed episode in which their whole body stiffened and then jerked for about 2 minutes. Ten minutes after the jerking stopped, the child is lying on their side, sleepy, and confused about where they are. Respirations are regular, and SpO₂ is 97% on room air. Which interpretation is most accurate?",
+      "options": [
+        "The child has not returned to baseline, so this meets the definition of status epilepticus and needs a rescue benzodiazepine now",
+        "This was most likely an absence seizure, and the confusion is an unusually long recovery from that type of seizure",
+        "This is the expected postictal period, so the nurse keeps the child side-lying and monitors return to baseline",
+        "Confusion after the event signals late increased intracranial pressure and needs emergency treatment for brainstem compression"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: stiffening then jerking for 2 minutes, followed by sleepiness and confusion, with an open airway and good SpO₂. Analyze cues: tonic-clonic seizures follow LOC → tonic → clonic → postictal period, and in children they look highly similar to adult seizures. Prioritize hypotheses: a single seizure that has stopped, followed by sleepiness, is postictal recovery. Evaluate outcomes: airway and SpO₂ maintained and gradual return toward baseline are signs things are going as expected.",
+        "incorrect": [
+          "Status epilepticus is a seizure lasting more than 5 minutes or recurrent seizures without recovery. This child had one 2-minute seizure that stopped, so expected postictal drowsiness is being misread as status.",
+          "Absence seizures last seconds, have no stiffening or jerking, and have NO postictal period. Saying absence causes confusion afterward is a listed trap.",
+          "Late ICP shows Cushing's triad (bradycardia, hypertension, irregular respirations), fixed pupils, and posturing. None of these is present, and the postictal state better explains the confusion."
+        ]
+      }
+    },
+    {
+      "stem": "A teacher refers a 7-year-old to the school nurse for \"not paying attention,\" and the family is considering an evaluation for an attention disorder. During a 20-minute observation, the nurse sees four episodes in which the child stops writing, stares for a few seconds without responding to the teacher, and then resumes writing mid-word. What is the nurse's best action?",
+      "options": [
+        "Suggest seating the child near the teacher and using a reward chart to improve the child's focus during classwork",
+        "Recommend evaluation, including an EEG, for possible absence seizures before an attention diagnosis is pursued",
+        "Teach the teacher to gently tap the child's shoulder during an episode to bring the child's attention back to the work",
+        "Advise the family to seek emergency care only if one of the staring episodes lasts longer than 5 minutes"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: frequent seconds-long stares, no response to the teacher, and immediate resumption mid-task. Analyze cues: this is the classic pediatric picture of absence seizures, which hide in school as 'not paying attention.' Prioritize hypotheses: absence seizure over inattention. Take action: refer for evaluation/EEG; the guide's look-alike chart says 'not inattention.'",
+        "incorrect": [
+          "Classroom strategies treat the behavior as inattention and delay diagnosis of a seizure disorder. Right tool for attention problems, wrong hypothesis for this child.",
+          "Absence seizures cannot be interrupted, so tapping will not end an episode. The real problem is that it treats the episodes as lapses in focus rather than seizures.",
+          "The 5-minute rule applies to convulsive seizures and status epilepticus. Absence episodes last seconds, so waiting for this threshold means the child would never be evaluated."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse in the emergency department is caring for four children who each had a seizure with fever today. Which child's seizure has a feature that calls for further evaluation?",
+      "options": [
+        "An 18-month-old who had a 3-minute generalized seizure as the temperature rose to 39.6°C (103.3°F)",
+        "A 3-year-old who had one 8-minute generalized seizure today and is now back to baseline",
+        "A 4-year-old who had one 2-minute generalized seizure at the start of a viral illness",
+        "A 2-year-old whose 6-minute seizure involved jerking of only the left arm and left leg"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever plus a seizure affecting only one side of the body. Analyze cues: a febrile seizure is complex if it lasts more than 15 minutes, has focal features, or recurs within 24 hours. Prioritize hypotheses: one-sided jerking is a focal feature, so this is a complex febrile seizure. Take action: anticipate further evaluation for this child.",
+        "incorrect": [
+          "Under 15 minutes, generalized, once, at age 18 months with a rapid rise in temperature: this meets every criterion for a simple febrile seizure.",
+          "Eight minutes is under the 15-minute cutoff, the seizure was generalized, and it happened once, so it is still simple. Duration is the trap here: more than 5 minutes is the cue to call EMS during the event, but it does not by itself make the seizure complex.",
+          "This is a textbook simple febrile seizure: brief, generalized, and once, at the start of an illness when the temperature rises."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching the caregiver of a 2-year-old who had a simple febrile seizure. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"If I give ibuprofen on a schedule every time my child gets sick, that should keep this from happening again.\"",
+        "\"If it happens again, I'll lay my child on their side on the floor and push the coffee table out of the way.\"",
+        "\"If the shaking keeps going past 5 minutes, I'll call 911 instead of waiting for it to stop.\"",
+        "\"Even if the seizure stops on its own, we'll still follow up with the pediatrician afterward.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: febrile seizures are triggered by how fast the temperature RISES, often before the caregiver knows there is a fever. Antipyretics are for comfort only and do not prevent febrile seizures. Generate solutions: reteach that fever medicine keeps the child comfortable but cannot guarantee another seizure won't happen, and reinforce seizure safety instead.",
+        "incorrect": [
+          "This is correct teaching: safe surface, side-lying, and moving hazards protect the child from injury.",
+          "This is correct teaching: a seizure lasting more than 5 minutes is becoming status epilepticus and needs EMS.",
+          "This is correct teaching: follow-up with the provider after a seizure is part of the plan, even when it stops on its own."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-month-old is evaluated after a brief generalized seizure at home. The caregiver, crying, says, \"I didn't even know they had a fever until afterward. If I'd given acetaminophen earlier, would this have happened?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"Giving fever medicine at the first sign of illness is the main way to prevent these seizures, so next time start it right away.\"",
+        "\"These seizures happen when a fever gets too high, so keeping the temperature below 38.5°C (101.3°F) will prevent another one.\"",
+        "\"Starting a daily seizure medicine now is the best way to keep this from happening during your child's future fevers.\"",
+        "\"These seizures are set off by how fast the temperature climbs, often before a fever is noticed, so you didn't miss anything.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a guilty, frightened caregiver and a seizure that occurred before the fever was noticed. Analyze cues: a rapid RISE in temperature triggers febrile seizures, often before the fever is recognized, and antipyretics do not prevent them. Generate solutions: correct the misconception while relieving guilt. Take action: give accurate, supportive teaching; family teaching is a big part of the nursing role with febrile seizures.",
+        "incorrect": [
+          "Antipyretics are for comfort, not seizure prevention. This reinforces the misconception and sets up more guilt if a seizure happens again.",
+          "The trigger is the speed of the rise, not the peak temperature. Promising that a temperature target will prevent seizures is inaccurate.",
+          "A simple febrile seizure is benign and does not mean epilepsy. Daily anticonvulsants are for seizure disorders, so this overtreats and frightens the family."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-year-old with a temperature of 39.8°C (103.6°F) begins a generalized seizure in the emergency department at 14:02. The nurse has placed the child side-lying and the airway is clear. At 14:08 the child is still seizing. Which action should the nurse take next?",
+      "options": [
+        "Give the prescribed rescue benzodiazepine, IV lorazepam, and begin emergency seizure management",
+        "Continue to observe, since febrile seizures are benign and usually stop without treatment",
+        "Give rectal acetaminophen to bring the temperature down so that the seizure will stop",
+        "Finish documenting the seizure's onset and features before notifying the provider"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a seizure that has lasted 6 minutes. Analyze cues: the professor's rule is that a seizure lasting more than 5 minutes is status epilepticus, a medical emergency, whatever the cause. Prioritize hypotheses: status epilepticus outranks the 'benign febrile seizure' label. Take action: give the rescue benzodiazepine; in the hospital, IV lorazepam is the gold standard first-line drug.",
+        "incorrect": [
+          "'Febrile seizures are benign' applies to simple seizures under 15 minutes, but the 5-minute rule still governs the event. Waiting past 5 minutes lets the seizure become prolonged status.",
+          "Antipyretics are for comfort and do not stop or prevent febrile seizures. Fever control is reasonable later but does not treat status epilepticus.",
+          "Documenting first is a listed trap. At 6 minutes the priority is emergency seizure management, not paperwork."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old with a temperature of 39.4°C (102.9°F) has a 3-minute generalized seizure. The caregiver says, \"My nephew had these fever seizures, so I know it's nothing serious.\" Which conclusion by the nurse is most appropriate?",
+      "options": [
+        "This is a simple febrile seizure because it was generalized, lasted under 15 minutes, and occurred once",
+        "The child is older than the febrile seizure age range, so the nurse anticipates evaluation for another cause",
+        "This is a complex febrile seizure because a generalized seizure in a child this age needs evaluation",
+        "This is an absence seizure brought on by the fever, so the nurse expects the child to recover right away"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever and a brief generalized seizure, but in a 7-year-old. Analyze cues: febrile seizures occur in children 6 months to 5 years. Prioritize hypotheses: a seizure with fever outside that age window cannot be assumed to be a benign febrile seizure, and an infection of the brain or meninges must be considered. Take action: do not reassure; anticipate further evaluation and frequent neuro checks.",
+        "incorrect": [
+          "Duration, generalized pattern, and a single episode fit simple criteria, but the definition also requires an age of 6 months to 5 years. Ignoring the age cue leads to false reassurance.",
+          "'Complex' is defined by more than 15 minutes, focal features, or more than one seizure in 24 hours, and none applies here. The label is wrong even though further evaluation is right.",
+          "Absence seizures are seconds-long staring spells without convulsions. A 3-minute generalized convulsion does not fit."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old in the pediatric playroom suddenly falls to the floor and begins a generalized tonic-clonic seizure. The nurse is the only staff member in the room. Which action should the nurse take first?",
+      "options": [
+        "Lift the child onto the nearby bed so the child is on a padded surface off the floor",
+        "Sit the child upright against the wall so saliva can drain out of the mouth",
+        "Stay with the child, call out for help, and note the time the seizure started",
+        "Step out to the hallway to bring back the suction setup and the oxygen"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an active generalized seizure with one nurse present. Generate solutions: the guide's first five actions start with staying with the child, calling for help, and noting the time; then side-lying and protecting from injury, maintaining the airway, no restraint and nothing in the mouth, and observing/documenting. Take action: timing starts now because the 5-minute mark changes everything.",
+        "incorrect": [
+          "Lifting a seizing child risks injury to both child and nurse. The child is lowered to (or kept on) a safe surface and hazards are moved away.",
+          "Sitting the child upright is a listed trap. Side-lying, not upright, lets secretions drain and protects the airway.",
+          "Leaving the child to get equipment or medication is a listed wrong action. The nurse stays and calls for help so others bring supplies."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-year-old with a seizure disorder begins a generalized tonic-clonic seizure in bed. Which actions should the nurse take? Select all that apply.",
+      "options": [
+        "Turn the child onto their side",
+        "Pad the side rails and move hard objects away from the bed",
+        "Note the time the seizure began",
+        "Gently hold the child's arms at their sides to limit injury",
+        "Place a padded tongue blade between the back teeth",
+        "Give the scheduled oral levetiracetam dose that is due now"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions and take action: side-lying, protect from injury, and time the seizure. Do not restrain, put nothing in the mouth, and give nothing by mouth during a seizure.",
+        "incorrect": [
+          "Correct—side-lying lets secretions drain and keeps the airway open.",
+          "Correct—protecting the child from injury is a core seizure precaution.",
+          "Correct—timing determines when the seizure becomes status epilepticus (more than 5 minutes).",
+          "Incorrect—restraint can cause fractures and injury; the guide says never restrain.",
+          "Incorrect—nothing goes in the mouth; it can break teeth, cause aspiration, or injure fingers.",
+          "Incorrect—nothing is given by mouth during a seizure; oral meds are maintenance therapy and the child cannot swallow safely."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old hospitalized with epilepsy has been having a generalized seizure for 7 minutes. A peripheral IV is in place and patent. Which prescription should the nurse expect to carry out first?",
+      "options": [
+        "Lorazepam IV push now",
+        "Levetiracetam by mouth now",
+        "Diazepam rectal gel now",
+        "Midazolam intranasal now"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a seizure longer than 5 minutes in a hospitalized child with a working IV. Analyze cues: this is status epilepticus; the goal is to stop the seizure quickly to prevent neurologic injury. Generate solutions: rescue benzodiazepines are chosen by setting. Take action: IV lorazepam is the gold standard first-line rescue drug in the hospital.",
+        "incorrect": [
+          "Levetiracetam is a maintenance anticonvulsant that prevents seizures; it does not stop one. Giving anything by mouth during a seizure is a listed trap.",
+          "Rectal diazepam is the established caregiver-given rescue option at home. It works, but it is not the best choice when an IV is available in the hospital.",
+          "Intranasal midazolam is the school and community rescue option. It works, but it is not the hospital's first-line drug when IV access exists."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 9-year-old newly diagnosed with epilepsy asks, \"Why does my child need a pill every day and a nasal spray in their backpack?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"The nasal spray is used each morning to prevent seizures, and the daily pill stops a seizure once it starts.\"",
+        "\"Both are rescue medicines, so give the spray first and then the pill if the seizure is still going.\"",
+        "\"The daily medicine helps prevent seizures, and the nasal spray is used to stop a seizure that goes on too long.\"",
+        "\"The daily pill is needed only until the nasal spray has the seizures under control, and then it can stop.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: maintenance anticonvulsants (levetiracetam, valproic acid, phenytoin, lamotrigine) PREVENT further seizures, while rescue benzodiazepines (intranasal midazolam at school or in the community) STOP a seizure in progress. Take action: teach the purpose of each so the family uses them correctly. Evaluate outcomes: the family can state when to give the rescue drug (seizure longer than 5 minutes) and that the daily drug is not skipped.",
+        "incorrect": [
+          "This reverses the two roles. Intranasal midazolam is a rescue drug, not a daily preventive.",
+          "The daily pill is maintenance therapy, not rescue, and nothing is given by mouth during a seizure.",
+          "Maintenance therapy prevents seizures and is not replaced by a rescue drug. Stopping it would increase seizures."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-year-old started valproic acid 3 months ago for a seizure disorder. Which finding at the follow-up visit best shows that the medication is working?",
+      "options": [
+        "The child's seizures now stop after about 4 minutes instead of lasting 6 minutes",
+        "The seizure log shows no seizures in 6 weeks, and the child is attending school full days",
+        "The child now sleeps for several hours after each seizure instead of just one hour",
+        "The child now senses a warning feeling and can lie down before each seizure begins"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: a maintenance anticonvulsant is given to prevent seizures, so success is fewer or no seizures and the child participating in school, as the guide's 'how you know it's working' box states. Six seizure-free weeks with full school attendance meets that goal.",
+        "incorrect": [
+          "Shorter seizures still mean seizures are happening. The goal of maintenance therapy is fewer or no seizures, not slightly shorter ones.",
+          "A longer postictal period does not show control and may reflect more severe events. It is not an outcome measure for prevention.",
+          "Recognizing a warning helps with safety, but the child is still having every seizure, so prevention has not been achieved."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old in status epilepticus received IV lorazepam 10 minutes ago. Which assessment finding best indicates that the intervention was effective?",
+      "options": [
+        "The jerking has slowed but continues in the right arm, and the child's SpO₂ is 95% with oxygen by mask",
+        "The jerking has stopped, and the child is unresponsive with shallow respirations at 8 breaths per minute",
+        "The jerking has stopped, and the child's temperature has come down from 38.9°C to 37.6°C (102°F to 99.7°F)",
+        "The jerking has stopped, breathing is regular with SpO₂ 96% on room air, and the child is slowly waking"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: rescue therapy has worked when the seizure stops, the child breathes effectively with SpO₂ maintained, and the child gradually returns toward baseline (postictal recovery) without injury. All three are present here.",
+        "incorrect": [
+          "Continued one-sided jerking means the seizure has not stopped, so the outcome is not met and further emergency management is needed.",
+          "The seizure stopped, but breathing is not effective. A rate of 8 with shallow breaths is a new airway and breathing problem that needs immediate action, not a sign of success.",
+          "A falling temperature does not tell the nurse whether the seizure treatment worked. Airway, breathing, SpO₂, and neurologic recovery are the measures."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing the seizure action plan with the caregiver of a 6-year-old with epilepsy who has rectal diazepam for home use. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"If my child seizes at the dinner table, I'll sit them up in the chair and hold them steady.\"",
+        "\"If the seizure lasts more than 5 minutes, I'll give the rectal diazepam and call 911.\"",
+        "\"I'll keep giving the daily seizure medicine even on days when there haven't been any seizures.\"",
+        "\"I'll write down when it started, what it looked like, and how my child acted afterward.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: this statement contains two listed traps, sitting the child upright and holding (restraining) them. Generate solutions: reteach lowering the child to the floor, turning them side-lying, moving hazards, timing the seizure, and never restraining, since restraint can cause fractures and injury.",
+        "incorrect": [
+          "This is correct: more than 5 minutes means emergency management, and rectal diazepam is the caregiver-given rescue option at home.",
+          "This is correct: maintenance anticonvulsants prevent seizures and are taken every day, not only after a seizure.",
+          "This is correct: observing and documenting onset, features, and the period afterward is one of the first five actions."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-year-old is admitted for observation after a fall from a tree. Which change in the child's assessment requires the nurse's most immediate action?",
+      "options": [
+        "The child has become irritable, says their head hurts, and asks for the lights to be turned off",
+        "The child has vomited once and now says they feel a little better and would like to rest",
+        "Heart rate has risen from 98 to 124, and blood pressure has fallen from 108/64 to 90/52",
+        "Heart rate has dropped from 98 to 58, BP has risen from 108/64 to 142/70, and breathing is irregular"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: falling heart rate, rising blood pressure, and irregular breathing. Analyze cues: this is Cushing's triad, a LATE sign of increased ICP meaning the brainstem is being compressed. Prioritize hypotheses: late ICP is an emergency and outranks early behavioral signs. Take action: escalate immediately.",
+        "incorrect": [
+          "Irritability and headache are EARLY signs of increased ICP. They need neuro checks and notification, but calling them late signs is a listed trap.",
+          "A single episode of vomiting is an early sign that needs monitoring. It does not outrank Cushing's triad.",
+          "Rising heart rate with falling blood pressure is a shock pattern, the opposite of Cushing's triad. It is serious, but the question asks about the brain: 'BP up, HR down, breathing irregular' means late ICP."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing a 4-month-old whose caregiver says the infant has been \"fussier than usual.\" Which cluster of findings is most consistent with increased intracranial pressure in this infant?",
+      "options": [
+        "Fontanel that is sunken, dry mucous membranes, and fewer wet diapers than usual over the past day",
+        "Fontanel that is soft and flat, tugging at one ear, and crying that gets worse when lying flat",
+        "Fontanel that bulges while the infant is calm, sutures that feel separated, and a high-pitched cry",
+        "Fontanel that bulges only while crying, head growth following its curve, and a strong suck"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: bulging fontanel at rest, separated sutures, and a high-pitched cry. Analyze cues: infants have open sutures and fontanels, so increased ICP shows up as a bulging fontanel, growing head, separated sutures, high-pitched cry, and setting-sun eyes rather than as a reported headache. Prioritize hypotheses: increased ICP. Take action: notify the provider and measure head circumference.",
+        "incorrect": [
+          "A sunken fontanel with dry mucous membranes and low urine output points to dehydration, the opposite fontanel finding from increased ICP.",
+          "A soft, flat fontanel is normal. Ear tugging and fussiness lying down suggest an ear problem, not increased ICP.",
+          "A fontanel may bulge briefly with crying and is normal if it is flat at rest. Normal head growth and a strong suck are reassuring."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 7-month-old with hydrocephalus asks, \"My baby can't tell me if their head hurts. How will I know if pressure is building up?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"Watch for your baby rubbing or holding their head, since that is the main way infants show you that they have a headache.\"",
+        "\"Watch for a soft spot that bulges when your baby is calm, fast head growth, a high-pitched cry, or downward-looking eyes.\"",
+        "\"Watch for squinting or covering one eye, because seeing double is the first thing that babies with pressure develop.\"",
+        "\"Watch for a slow heartbeat and breathing that becomes irregular, since those are the earliest signs you'll notice.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a caregiver who correctly knows infants cannot report headache. Analyze cues: in infants with open sutures, increased ICP appears as a growing head, bulging fontanel, separated sutures, high-pitched cry, setting-sun eyes, irritability, and poor feeding. Generate solutions: teach observable, infant-specific signs. Evaluate outcomes: the caregiver can name warning signs to report.",
+        "incorrect": [
+          "Infants with increased ICP do not complain of headache, and head-holding is not a reliable sign. 'Infants with increased ICP complain of headache' is a listed trap.",
+          "Double vision is an older-child sign of increased ICP. It applies a closed-skull pattern to an infant with open sutures.",
+          "Bradycardia and irregular respirations are LATE signs, part of Cushing's triad, not the earliest ones. Teaching caregivers to wait for them delays care."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-year-old has had headaches, vomiting, and episodes of seeing double over the past 4 days. The caregiver says, \"I think they've just been on their tablet too much and need glasses.\" Which conclusion should guide the nurse's response?",
+      "options": [
+        "Eye strain from screen use explains the double vision and headache, so the nurse recommends a vision screening at school",
+        "Headache, vomiting, and double vision suggest increased intracranial pressure, so the child needs prompt neuro evaluation",
+        "The combination of headache and vomiting points to a migraine, so the nurse suggests a headache diary for the next month",
+        "Vomiting with headache in a school-age child is most likely a viral stomach illness, so the nurse focuses on oral fluids"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: headache, vomiting, and diplopia in a school-age child. Analyze cues: older children have a closed skull, so pressure rises faster and appears as headache, vomiting, diplopia, and behavior change. Prioritize hypotheses: increased ICP must be ruled out before benign explanations. Take action: arrange prompt neurologic evaluation.",
+        "incorrect": [
+          "Eye strain can cause headaches, but double vision with vomiting is a classic older-child sign of increased ICP. A routine vision screen delays needed care.",
+          "Migraine requires a pattern of distinct episodes with a normal neuro exam between them. Double vision for 4 days with vomiting is a red flag, not a reason to watch and wait.",
+          "'Probably a stomach bug' is the listed trap. Vomiting with headache and a visual change is a neurologic red flag, not simply a GI complaint."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old with a brain tumor is on hourly neurologic checks. Which findings would the nurse recognize as LATE signs of increased intracranial pressure? Select all that apply.",
+      "options": [
+        "Heart rate falling from 110 to 64",
+        "Blood pressure rising from 96/58 to 132/60",
+        "A new, irregular breathing pattern",
+        "Pupils that are fixed and do not react to light",
+        "New irritability and complaints of headache",
+        "Heart rate rising while blood pressure falls"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize and analyze cues: late increased ICP means the brainstem is being compressed. Cushing's triad (bradycardia, hypertension, irregular respirations), fixed pupils, decreased LOC, and posturing are late emergency signs; irritability, headache, vomiting, and behavior change are early.",
+        "incorrect": [
+          "Correct—bradycardia is part of Cushing's triad, a late sign.",
+          "Correct—hypertension is part of Cushing's triad.",
+          "Correct—irregular respirations complete Cushing's triad.",
+          "Correct—fixed pupils are a late sign along with decreased LOC and posturing.",
+          "Incorrect—irritability and headache are EARLY signs; calling them late is a listed trap.",
+          "Incorrect—this is a shock pattern, the opposite of Cushing's triad."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 5-year-old reports that for the past week the child has vomited forcefully most mornings without first saying they feel sick to their stomach, then eats breakfast normally. The child also says their head hurts when they wake up. The caregiver adds, \"There's a stomach bug going around preschool.\" How should the nurse interpret these findings?",
+      "options": [
+        "The pattern fits a viral gastroenteritis, so the nurse teaches small, frequent sips of oral rehydration fluid",
+        "The pattern suggests anxiety about preschool, since symptoms occur only in the morning before the school day",
+        "Morning vomiting without nausea plus headache on waking is a neurologic red flag that needs prompt evaluation",
+        "The pattern suggests a food intolerance, so the nurse asks the caregiver to keep a food diary for 2 weeks"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: repeated morning vomiting that is forceful and without nausea, plus morning headache. Analyze cues: vomiting from increased ICP is often projectile, in the morning, and without nausea; persistent or morning vomiting with headache is a neurologic red flag, not simply a GI complaint. Prioritize hypotheses: increased ICP from a cause such as a tumor until proven otherwise. Take action: arrange prompt evaluation.",
+        "incorrect": [
+          "'Probably a stomach bug' is the listed trap. A week of morning-only vomiting without nausea, followed by a normal breakfast, does not fit gastroenteritis.",
+          "Anxiety may be asked about, but morning headache and vomiting are red flags that must not be dismissed as school-related.",
+          "A food diary delays evaluation of a red-flag pattern. Vomiting before eating, with a headache on waking, does not point to food."
+        ]
+      }
+    },
+    {
+      "stem": "A caregiver calls the pediatric clinic and says, \"My 3-year-old has a VP shunt. They threw up twice this morning and seem more tired than usual.\" Which response by the nurse is best?",
+      "options": [
+        "\"Please take your child to the emergency department now so they can be checked for a shunt problem.\"",
+        "\"Give small sips of clear liquids for 4 hours, and call back if the vomiting hasn't stopped by then.\"",
+        "\"Before I can advise you, I need to go through a full list of questions about all of the symptoms.\"",
+        "\"Call the neurosurgery office this afternoon to schedule the next available appointment this week.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a child with a VP shunt, new vomiting, and increased sleepiness. Analyze cues: vomiting in a child with a VP shunt means shunt malfunction until proven otherwise; a blocked shunt causes CSF to back up and raise ICP. Prioritize hypotheses: shunt malfunction over gastroenteritis. Take action: send the child to the ED now; shunt problems are always a medical emergency.",
+        "incorrect": [
+          "Treating vomiting like a stomach bug at home is the listed trap. Waiting 4 hours with possible increased ICP is unsafe.",
+          "Questions about headache, sleepiness, fever, and vision are useful, but the guide warns not to let questions delay sending the child in.",
+          "A routine appointment this week is far too slow. Possible shunt malfunction needs prompt evaluation in the ED."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-month-old had a VP shunt placed 2 weeks ago. The infant now has a temperature of 38.9°C (102°F), redness along the shunt tract on the neck and chest, irritability, and resistance when the nurse flexes the infant's neck. Which conclusion is most accurate?",
+      "options": [
+        "These findings suggest a blocked shunt without infection",
+        "These findings suggest a viral illness with mild irritation",
+        "These findings are expected inflammation of a healing incision",
+        "These findings suggest an infected shunt needing prompt evaluation"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever, redness along the shunt tract, irritability, and neck stiffness 2 weeks after placement. Analyze cues: shunt infection presents with fever, redness along the tract, irritability, neck stiffness, and meningitis signs, and is more common soon after placement. Prioritize hypotheses: shunt infection. Take action: prompt evaluation in the ED.",
+        "incorrect": [
+          "Malfunction (blockage) presents with increased ICP signs such as vomiting, decreased LOC, and bulging fontanel. Fever with redness along the tract points to infection.",
+          "'Fever with a shunt = a cold' is a listed trap. Neck stiffness and redness along the tract make this an emergency.",
+          "Incisions should be healed and without spreading redness. Redness along the tract with fever and a stiff neck is abnormal."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old with a VP shunt is brought in with headache, vomiting, and irritability. Which additional finding would most strongly suggest a shunt infection rather than a malfunction alone?",
+      "options": [
+        "The child is harder to wake and confused about the day",
+        "The child's headache worsened through the night",
+        "The vomiting is forceful and happens without nausea",
+        "A temperature of 38.7°C (101.7°F) and redness along the tubing"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: headache, vomiting, and irritability occur with both a blocked shunt and an infected one, so they do not separate the two. Prioritize hypotheses: fever plus redness along the tract are the cues specific to infection. Take action: both conditions need prompt ED evaluation, but recognizing infection guides the workup.",
+        "incorrect": [
+          "Decreased LOC or confusion is a malfunction (increased ICP) sign. It is serious but does not point to infection.",
+          "A worsening headache reflects rising pressure and fits a blocked shunt. It does not separate infection from malfunction.",
+          "Forceful vomiting without nausea is typical of increased ICP from hydrocephalus or shunt blockage, not a specific infection sign."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching the caregiver of a 10-month-old who went home with a new VP shunt. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"If my baby's soft spot bulges while they're calm, I'll call right away.\"",
+        "\"If my baby is vomiting and sleepier than usual, we'll go to the ED.\"",
+        "\"Some redness along the tubing is normal for the first few weeks.\"",
+        "\"I'll make sure my baby's head size is measured at every checkup.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: redness along the shunt tract is a sign of infection, which is more common soon after placement, so treating it as normal is the dangerous misunderstanding. Generate solutions: reteach that fever or redness along the tubing needs a call right away.",
+        "incorrect": [
+          "This is correct: a bulging fontanel at rest is a warning sign of shunt malfunction in an infant.",
+          "This is correct: vomiting with increased sleepiness means possible shunt malfunction and calls for the ED.",
+          "This is correct: head circumference reflects brain growth, and rapid growth is a warning sign in hydrocephalus."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse in a neurosurgery clinic has four children with VP shunts waiting to be seen. Which child should the nurse assess first?",
+      "options": [
+        "A 2-year-old who has vomited three times today and is sleepier than usual; a sibling has a stomach virus",
+        "A 4-year-old who is playing in the waiting room, has a healed incision, and is here for a routine follow-up visit",
+        "A 7-month-old with a soft, flat fontanel who is feeding well and has a mild diaper rash the caregiver wants checked",
+        "A 9-year-old who has a runny nose and mild sore throat, has no fever, and is acting like their usual self today"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: vomiting plus increased sleepiness in a child with a shunt. Analyze cues: shunt plus vomiting, headache, or lethargy means malfunction first, even when a parent suspects a stomach bug. Prioritize hypotheses: increased ICP from a blocked shunt is the most dangerous possibility on this list. Take action: assess this child first and escalate.",
+        "incorrect": [
+          "Normal play and a healed incision are expected findings for a child with a shunt. This is a routine visit.",
+          "A soft, flat fontanel with good feeding is the normal picture for an infant with a shunt. A diaper rash is not urgent.",
+          "Cold symptoms without fever in a child acting normally do not suggest malfunction or infection. Lower priority."
+        ]
+      }
+    },
+    {
+      "stem": "At a 2-month well visit, the nurse notes that an infant's head circumference has moved from the 50th to the 95th percentile since birth. The anterior fontanel is full while the infant is calm, and the eyes appear to look downward with white sclera showing above the irises. What should the nurse do?",
+      "options": [
+        "Ask whether the parents have large heads, since a big head often runs in families and needs only routine follow-up",
+        "Notify the provider of findings that suggest hydrocephalus, and plan for close head-circumference measurements",
+        "Recheck the head circumference at the 4-month visit to see if the growth curve levels off on its own",
+        "Teach the parents to give more supervised tummy time to help the shape and size of the infant's head"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: rapidly increasing head circumference crossing percentiles, a full fontanel at rest, and setting-sun eyes. Analyze cues: excess CSF enlarges the ventricles and, with open sutures, the infant's head expands. Prioritize hypotheses: hydrocephalus with increased ICP. Take action: the look-alike chart says notify and measure head circumference.",
+        "incorrect": [
+          "Family history may be asked about, but setting-sun eyes and a full fontanel are not explained by a familial large head. Routine follow-up misses a red flag.",
+          "Waiting 2 months with signs of increased ICP is unsafe. A rapidly increasing head circumference calls for action now.",
+          "Tummy time does not treat excess CSF. This mistakes a pressure problem for a head-shape concern."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-week-old is brought to the emergency department because the infant is \"not acting right.\" Findings: temperature 35.9°C (96.6°F), taking only half of usual feedings, a high-pitched cry, lethargy, and a bulging fontanel. The neck is supple, and Kernig and Brudzinski signs are negative. Which conclusion should guide the nurse's action?",
+      "options": [
+        "Meningitis is unlikely because the infant has no fever, no neck stiffness, and negative meningeal signs, so the nurse continues to monitor",
+        "The low temperature suggests cold exposure, so the nurse warms the infant and reassesses feeding and alertness in 1 hour",
+        "These findings fit meningitis; negative Kernig and Brudzinski signs do not rule it out in an infant, so the nurse escalates urgently",
+        "The poor feeding and crying suggest a feeding problem such as colic, so the nurse requests a lactation or feeding consult"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hypothermia, poor feeding, high-pitched cry, lethargy, and a bulging fontanel in a young infant. Analyze cues: infants do not follow the rules. They may be cold instead of febrile, floppy and irritable, and Kernig and Brudzinski signs are often absent; the guide flags that these signs are NOT always present in infants and young children. Prioritize hypotheses: meningitis with increased ICP. Take action: escalate urgently, start droplet precautions, and anticipate prompt IV antibiotics.",
+        "incorrect": [
+          "This relies on adult-pattern signs. Infants often lack fever, neck stiffness, and positive meningeal signs, so a negative sign does not rule out meningitis.",
+          "In an infant, a low temperature can be a sign of infection. Warming and waiting an hour ignores the lethargy and bulging fontanel and delays antibiotics.",
+          "Colic does not cause a bulging fontanel, lethargy, or hypothermia. This misses 'lethargy (that scary word!!!)' as a red flag."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is assessing a 3-month-old whose caregiver says the infant \"just seems off.\" Which findings should the nurse recognize as possible signs of meningitis in this infant? Select all that apply.",
+      "options": [
+        "Temperature of 36.0°C (96.8°F)",
+        "Taking about half of their usual feeding volume",
+        "A high-pitched cry that is hard to console",
+        "Floppy, decreased muscle tone when picked up",
+        "A sunken fontanel with dry mucous membranes",
+        "Rapid breathing with nasal flaring and wheezing"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: infants with meningitis may show fever or hypothermia, poor feeding, irritability, a high-pitched cry, a bulging fontanel, lethargy, and hypotonia or neck rigidity. Kernig and Brudzinski signs are often absent at this age.",
+        "incorrect": [
+          "Correct—infants with meningitis may be hypothermic rather than febrile.",
+          "Correct—poor feeding or anorexia is a common infant presentation.",
+          "Correct—a high-pitched cry reflects irritability and increased ICP.",
+          "Correct—hypotonia, like neck rigidity, can signal infant meningitis.",
+          "Incorrect—this suggests dehydration; meningitis causes a BULGING fontanel from increased ICP.",
+          "Incorrect—this points to a respiratory illness, not the neurologic pattern of meningitis."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old is admitted with suspected bacterial meningitis: fever, neck stiffness, photophobia, and vomiting. The provider has prescribed droplet precautions, IV antibiotics, neurologic checks every hour, and blood and cerebrospinal fluid studies. Which action is the nurse's priority?",
+      "options": [
+        "Hold the IV antibiotics until the cerebrospinal fluid results confirm a bacterial cause, then start the first dose",
+        "Place the child in an airborne isolation room, since meningitis organisms spread through tiny airborne particles",
+        "Dim the lights and cluster care to ease the photophobia before starting the first set of hourly neuro checks",
+        "Start droplet precautions and give the IV antibiotics as soon as prescribed, without waiting for all lab results"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever, neck stiffness, photophobia, and vomiting. Analyze cues: suspected bacterial meningitis is a medical emergency. Prioritize hypotheses: preventing neurologic injury and spread comes first. Take action: droplet precautions (mask and eye protection within about 3 feet) and prompt IV antibiotics; the guide says do not delay antibiotics waiting for all labs.",
+        "incorrect": [
+          "Delaying antibiotics for culture results is a listed trap. Bacterial meningitis is an emergency, and antibiotics are started promptly.",
+          "Meningitis requires DROPLET precautions. 'Contact or airborne only' is a listed trap answer.",
+          "A quiet, dim room is appropriate supportive care but is not the priority over infection control and antibiotics. Right action, wrong priority."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-year-old is diagnosed with viral meningitis. The caregiver asks, \"My neighbor's child had meningitis and got IV antibiotics. Why isn't my child getting them?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"Viral meningitis is more dangerous than bacterial, and antibiotics won't work, so your child will need intensive care until the virus clears.\"",
+        "\"Viral meningitis is usually milder and resolves on its own, so it's treated with supportive care, while bacterial needs IV antibiotics.\"",
+        "\"Your child will start IV antibiotics as soon as the viral test results come back, since the antibiotics treat both types of meningitis.\"",
+        "\"Viral meningitis is less common than bacterial, so the team prefers to watch closely for a few days before deciding on antibiotics.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: viral and bacterial meningitis differ. Viral is more common, self-limited, treated with supportive care, and has a better prognosis ('the better one to get'). Bacterial is less common, a medical emergency, and treated with IV antibiotics. Generate solutions: explain the difference so the caregiver understands the plan. Evaluate outcomes: the caregiver can state why care differs.",
+        "incorrect": [
+          "This reverses the prognosis. Viral meningitis is milder and has a better prognosis; it does not routinely need intensive care.",
+          "'Viral meningitis needs IV antibiotics' is a listed trap. Antibiotics do not treat viruses, and viral meningitis is managed supportively.",
+          "Viral meningitis is MORE common than bacterial. The plan is supportive care because of the cause, not a wait-and-see approach to antibiotics."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is talking with the caregiver of a 2-month-old about vaccines and meningitis prevention. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"The rotavirus vaccine my baby gets today is the one that protects against meningitis.\"",
+        "\"The Hib shots in the first year protect against a germ that used to cause a lot of meningitis.\"",
+        "\"The pneumococcal vaccine helps protect my baby from one of the bacteria that cause meningitis.\"",
+        "\"Keeping my baby on the recommended vaccine schedule lowers the risk of bacterial meningitis.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: rotavirus vaccine protects against a GI virus, not meningitis, so this caregiver has confused the vaccines. Rotavirus, varicella, and hepatitis A are the listed trap answers. Generate solutions: reteach that Hib (given in the first year of life), pneumococcal (Streptococcus pneumoniae), and meningococcal (Neisseria meningitidis) vaccines target the bacteria that cause meningitis, and that following AAP guidelines reduces risk.",
+        "incorrect": [
+          "This is correct: Hib vaccine in the first year of life dramatically reduced bacterial meningitis in young children.",
+          "This is correct: Streptococcus pneumoniae is one of the vaccine-preventable causes of bacterial meningitis.",
+          "This is correct: the professor stresses following AAP vaccine guidelines to prevent bacterial meningitis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse at a high school health office sees four students who report feeling sick. Which student needs immediate follow-up for possible meningitis?",
+      "options": [
+        "A 14-year-old with fever, headache, and body aches who has a cough and says several classmates have the flu",
+        "A 16-year-old with fever and headache who has a very sore throat with swollen, tender glands in the neck",
+        "A 15-year-old with fever, headache, and vomiting who has neck stiffness and asks to have the lights turned off",
+        "A 17-year-old with a throbbing headache, nausea, and light sensitivity, which they say feels like past migraines"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever, headache, vomiting, neck stiffness, and photophobia. Analyze cues: meningitis combines signs of infection and increased ICP; neck stiffness is the distinguishing sign, and photophobia reflects an irritated brain. Prioritize hypotheses: meningitis is a neurologic emergency. Take action: arrange immediate evaluation and use droplet precautions.",
+        "incorrect": [
+          "Fever, headache, and body aches with cough during a flu outbreak fit influenza. Without neck stiffness or photophobia, this is lower priority.",
+          "Neck pain from swollen glands with a sore throat suggests a throat infection. It is not true neck stiffness from inflamed meninges.",
+          "Photophobia also occurs with migraine. A familiar episodic pattern without fever or neck stiffness fits migraine better than meningitis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is taking a headache history from an 11-year-old and their caregiver. Which findings should the nurse identify as red flags needing immediate evaluation? Select all that apply.",
+      "options": [
+        "Headaches that wake the child from sleep",
+        "Headaches that are getting worse each week",
+        "Teachers noticing a recent change in personality",
+        "Headaches that ease after drinking water following sports",
+        "A headache that started along with an ear infection",
+        "Vomiting on several mornings before breakfast"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: headache red flags are morning headaches or vomiting, waking from sleep, neurologic or personality change, progressive worsening, thunderclap headache, neck stiffness, and an abnormal neuro exam. The nurse's job is to spot the headache that isn't ordinary.",
+        "incorrect": [
+          "Correct—a headache that wakes the child from sleep is a listed red flag.",
+          "Correct—a progressive, worsening pattern suggests a mass such as a brain tumor.",
+          "Correct—neurologic or personality change is a red flag.",
+          "Incorrect—this suggests dehydration; it is a listed trap, not a red flag.",
+          "Incorrect—headache with otitis media is a listed trap; it has an ordinary explanation.",
+          "Correct—morning headaches or vomiting are red flags for increased ICP or tumor."
+        ]
+      }
+    },
+    {
+      "stem": "A 13-year-old has recurrent headaches. Which finding best supports migraine rather than a brain tumor?",
+      "options": [
+        "The headaches are present on waking and are often followed by vomiting",
+        "The neuro exam is normal, and the child feels completely well between episodes",
+        "The child has developed a new unsteady gait over the past few weeks",
+        "The headaches are becoming more frequent and harder to relieve each month"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: migraine is episodic, with symptoms that resolve and a NORMAL neuro exam between episodes. A brain tumor is progressive, symptoms do not fully resolve, and focal deficits are very likely. Prioritize hypotheses: a normal exam with complete recovery between attacks favors migraine.",
+        "incorrect": [
+          "Morning headaches with vomiting are a classic brain tumor and increased ICP clue, not a migraine feature.",
+          "New ataxia is a focal neurologic deficit and points toward a tumor.",
+          "A progressive, worsening pattern is the hallmark of a tumor. Migraine comes in distinct episodes."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-year-old describes seeing zigzag, flickering lights for about 20 minutes. As the lights fade, a throbbing headache begins with nausea, and the teen wants to lie in a dark, quiet room. The teen's parent has similar headaches. Between episodes the teen feels fine, and the neurologic exam today is normal. Which condition best fits this presentation?",
+      "options": [
+        "Brain tumor",
+        "Focal seizure",
+        "Concussion",
+        "Migraine with aura"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: visual aura that ends before a throbbing headache begins, nausea, light and sound sensitivity, family history, full recovery between episodes, and a normal exam. Analyze cues: aura is the hallmark that separates migraine from an ordinary headache, and migraine is episodic, more likely genetic, and has a normal neuro exam. Prioritize hypotheses: migraine. Generate solutions: supportive care and identifying triggers.",
+        "incorrect": [
+          "A tumor is progressive, does not fully resolve between episodes, and usually causes an abnormal or focal exam. This teen is normal between episodes.",
+          "A focal seizure can cause sensory changes, but the classic sequence of aura, then throbbing headache with nausea and photophobia, family history, and full recovery fits migraine.",
+          "Concussion requires a jolt or head injury and produces ongoing symptoms over days, not repeated, separate episodes with an aura."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old has had headaches on waking for 2 months. The caregiver also reports new clumsiness, frequent tripping, and the child \"acting moody and not like themselves.\" The caregiver says, \"I think it's stress from starting a new school.\" What is the nurse's priority action?",
+      "options": [
+        "Perform a focused neurologic exam and a thorough history, and report the findings for urgent evaluation",
+        "Suggest that the family meet with the school counselor to help the child adjust to the new school",
+        "Ask the caregiver to keep a headache diary for 4 weeks and return to review the pattern with the provider",
+        "Recommend an over-the-counter pain reliever and more fluids, then follow up if symptoms continue"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: morning headaches, ataxia, and personality change developing gradually over 2 months. Analyze cues: brain tumors are the most common solid tumors of childhood; symptoms develop gradually and progress, with morning headaches, morning vomiting, ataxia, vision and personality changes, new seizures, and focal deficits. Prioritize hypotheses: brain tumor until proven otherwise. Take action: neuro exam, thorough history, and urgent evaluation. It is fine to ask about school stress, but do not dismiss.",
+        "incorrect": [
+          "School stress can be explored, but attributing ataxia and personality change to adjustment dismisses red flags.",
+          "A diary delays evaluation of a worsening pattern with focal findings. The guide says to evaluate immediately.",
+          "Treating symptoms masks a progressive neurologic picture and delays diagnosis of a possible tumor."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is teaching a 12-year-old with migraines and their caregiver. Which statement indicates a need for further teaching?",
+      "options": [
+        "\"Between my migraines, I feel totally normal and can do all of my usual activities.\"",
+        "\"Lying down in a dark, quiet room helps me get through a migraine when it starts.\"",
+        "\"If one side of my body stays weak after a headache ends, that's just part of my migraines.\"",
+        "\"A headache that wakes me up at night or gets worse each week is something to report.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: migraine has a normal neurologic exam between episodes; 'migraine causes focal weakness that persists' is a listed trap. Persistent one-sided weakness is a focal deficit that needs immediate evaluation. Generate solutions: reteach that any lasting weakness or other neuro change must be reported right away.",
+        "incorrect": [
+          "This is correct: children with migraine return to baseline between episodes.",
+          "This is correct: supportive care for photophobia and phonophobia, such as a dark, quiet room, is appropriate.",
+          "This is correct: waking from sleep and progressive worsening are headache red flags."
+        ]
+      }
+    },
+    {
+      "stem": "An 11-year-old is being discharged from the emergency department after a concussion with a normal CT scan. Which findings should the nurse teach the caregiver to treat as reasons to return for emergency evaluation? Select all that apply.",
+      "options": [
+        "Vomiting repeatedly",
+        "Becoming sleepier and harder to wake",
+        "One pupil looking larger than the other",
+        "A mild headache that improves with rest",
+        "Feeling tired and a bit foggy on the second day",
+        "New confusion about where they are"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: concussion symptoms can appear after the child seems fine. Red flags are repeated vomiting, worsening headache, increasing sleepiness or difficulty waking, confusion, seizure, unequal pupils, and focal weakness. A mild headache, tiredness, and fogginess that improve over days are expected.",
+        "incorrect": [
+          "Correct—repeated vomiting is a red flag after head injury.",
+          "Correct—increasing sleepiness or difficulty waking signals worsening injury.",
+          "Correct—unequal pupils are an emergency sign.",
+          "Incorrect—mild headache that is improving over days is expected after a concussion.",
+          "Incorrect—fatigue and fogginess are expected physical and cognitive symptoms that improve over days.",
+          "Correct—new confusion is a red flag requiring emergency evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "A 15-year-old soccer player is recovering from a concussion. The teen has completed symptom-limited activity and then light aerobic exercise on a stationary bike with no return of symptoms. Which activity is the appropriate next step?",
+      "options": [
+        "Running and dribbling drills alone with no heading of the ball",
+        "Non-contact team practice with complex passing drills",
+        "Full-contact practice once the coach approves it",
+        "Playing in this weekend's game since symptoms are gone"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: return-to-play follows six steps in order: (1) symptom-limited activity, (2) light aerobic exercise, (3) sport-specific exercise with no head impact, (4) non-contact practice, (5) full practice after medical clearance, (6) game participation. Take action: the teen has finished step 2, so step 3, sport-specific drills without head impact, comes next.",
+        "incorrect": [
+          "Non-contact practice is step 4. It skips sport-specific exercise; correct activity, but not yet.",
+          "Full practice is step 5 and requires MEDICAL clearance, not just a coach's approval. It skips two steps.",
+          "'They feel fine, so they can play Saturday' is the listed trap. Game play is the final step, and returning early risks second-impact syndrome."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 9-year-old who had a concussion 2 days ago is reviewing discharge teaching with the nurse. Which caregiver statement indicates a need for further teaching?",
+      "options": [
+        "\"We'll ask the school for shorter assignments and extra breaks while my child gets back into the routine.\"",
+        "\"We'll limit video games and tablet time for now, since screens can make the symptoms worse.\"",
+        "\"If my child gets harder to wake up or starts vomiting again, we'll go back to the emergency department.\"",
+        "\"The CT scan was normal, so it wasn't really a concussion and my child can go back to everything.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: a concussion is a mild TBI with a temporary neurometabolic disruption and usually no structural abnormality on CT or MRI, so 'a normal CT means no concussion' is a listed trap. Generate solutions: reteach that the recovering brain is vulnerable and needs a gradual return-to-learn and return-to-play plan.",
+        "incorrect": [
+          "This is correct: return-to-learn includes shorter assignments, frequent breaks, and a gradual return to school.",
+          "This is correct: reduced screen time is a return-to-learn accommodation.",
+          "This is correct: increasing sleepiness, difficulty waking, and repeated vomiting are red flags that need emergency evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "A 16-year-old football player had a concussion last Friday and still had a mild headache this week but played in tonight's game. After a tackle, the teen walked to the sideline, then within minutes became confused, then unresponsive, with one pupil larger than the other. Which conclusion should guide the nurse's response?",
+      "options": [
+        "This is a second concussion that will take longer to heal, so the teen should rest at home and be watched overnight",
+        "This is likely second-impact syndrome, an emergency requiring immediate airway, breathing, circulation, and C-spine support",
+        "This is likely an exertional migraine triggered by the game, so the teen should rest in a dark, quiet space on the sideline",
+        "This is likely heat exhaustion and dehydration, so the teen should be moved to shade, cooled, and given oral fluids"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a second hit before the first concussion healed, followed by rapid decline and unequal pupils. Analyze cues: second-impact syndrome is a second hit before healing causing rapid, massive brain swelling that can lead to severe injury or death. Prioritize hypotheses: second-impact syndrome, an emergency. Take action: ABCs and C-spine protection with emergency transport. This is the reason return-to-play is gradual.",
+        "incorrect": [
+          "'A second concussion just takes longer to heal' is a listed trap. Rapid decline with unequal pupils is an emergency, not home care.",
+          "Migraine does not cause unresponsiveness and unequal pupils after a hit. This misses the head-injury cue.",
+          "Heat illness does not explain unequal pupils after a tackle in a teen with an unhealed concussion. Oral fluids are unsafe in an unresponsive patient."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-year-old is brought to the emergency department after being struck by a car. The child responds only to pain, has snoring respirations, a heart rate of 130, a blood pressure of 88/50, and a bleeding scalp laceration. Which action should the nurse take first?",
+      "options": [
+        "Apply firm, direct pressure to the bleeding scalp laceration",
+        "Open the airway while keeping the cervical spine in neutral alignment",
+        "Complete a full neurologic exam, including pupil size and reaction",
+        "Prepare the child for transport to an urgent CT scan of the head"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: snoring respirations (a partially obstructed airway) in a child with decreased LOC after trauma. Prioritize hypotheses: airway compromise is the most immediate threat, and the injury mechanism means the C-spine must be protected. Take action: the moderate-to-severe TBI priority is Airway and Breathing → Circulation → C-spine protection throughout → frequent neuro exams → monitor for increased ICP. The goal is to prevent secondary brain injury by keeping oxygen flowing to the brain.",
+        "incorrect": [
+          "Bleeding control supports circulation, which matters with a low blood pressure, but it comes after the airway. Right action, wrong priority.",
+          "Frequent neuro exams are essential but follow ABCs and C-spine protection. Assessing before securing the airway is unsafe.",
+          "Imaging comes after the child is stabilized. Transporting a child with an obstructed airway is unsafe."
+        ]
+      }
+    }
+  ]
+}

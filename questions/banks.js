@@ -43,7 +43,11 @@ window.NCLEX_DATA = {
     "mat2-wk5-lactation": "Maternity 2: Week 5 — Lactation",
     "mat2-wk6-postpartum": "Maternity 2: Week 6 — Postpartum",
     "mat2-wk7-complications": "Maternity 2: Week 7 — Complications",
-    "mat2-wk8-newborn": "Maternity 2: Week 8 — Newborn"
+    "mat2-wk8-newborn": "Maternity 2: Week 8 — Newborn",
+    "peds2-wk6-immuno-sensory": "Peds 2: Week 6 — Immunologic & Sensory",
+    "peds2-wk7-cardiovascular": "Peds 2: Week 7 — Cardiovascular",
+    "peds2-wk8-neurologic": "Peds 2: Week 8 — Neurologic",
+    "peds2-wk9-musculoskeletal": "Peds 2: Week 9 — Musculoskeletal"
   },
   "banks": {
     "upper-gi": [
@@ -28569,6 +28573,3398 @@ window.NCLEX_DATA = {
           "CJMM — Generate solutions: immediate skin-to-skin stabilizes temperature, HR, and breathing, reduces stress and crying, supports breastfeeding, helps prevent hypoglycemia, and increases maternal oxytocin and uterine contraction. Take action: explain these benefits to support the parent's informed choice, and keep the parent safe and supported while holding the newborn.",
           "Skin-to-skin is not a treatment for retained lung fluid. That claim goes beyond the stated benefits.",
           "Antibodies pass through the placenta and breast milk, not through skin contact. The rationale is wrong even though skin-to-skin is the right choice."
+        ]
+      }
+    ],
+    "peds2-wk6-immuno-sensory": [
+      {
+        "stem": "During a 9-month well visit, the nurse performs the red reflex exam with an ophthalmoscope in a dimmed room and reviews the infant's other vision findings. Which finding requires prompt follow-up?",
+        "options": [
+          "Both pupils glow an equal orangish-red when the light is shone into them",
+          "The left pupil's glow is noticeably duller and paler than the glow in the right pupil",
+          "The infant reaches accurately for a toy and seems to judge how far away it is",
+          "The caregiver says the infant's eyes crossed briefly a few times as a young newborn"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is the expected finding. A normal red reflex is orangish-red and equal in both eyes, so it needs no follow-up.",
+          "CJMM — Recognize cues: the reflex is not the same in both eyes; one glow is dull and pale. Analyze cues: a normal red reflex is orangish-red AND symmetrical. A reflex that is absent, weak, dull, white, or unequal can mean a cataract, retinoblastoma, strabismus, or a retinal abnormality. Prioritize hypotheses: something is blocking or changing the light path in the left eye, and the brain is building its visual pathways right now. Take action: an abnormal red reflex always gets a prompt ophthalmology referral, not a recheck later.",
+          "Judging distance is on track at 7–12 months. It shows normal depth perception and hand-eye development, not a problem.",
+          "Brief, intermittent misalignment can be normal in early infancy. It becomes a concern only if it persists past 4–6 months, and this history describes the newborn period."
+        ]
+      },
+      {
+        "stem": "A nurse is completing discharge for a healthy 2-day-old newborn. The chart shows the hearing screen was done, but no red reflex exam has been documented. The caregiver says, \"The pediatrician can check his eyes at the 2-week visit.\" What is the nurse's best action?",
+        "options": [
+          "Agree to defer the exam and add a note asking the pediatrician to check it at 2 weeks",
+          "Teach the caregiver to watch whether the newborn tracks faces and report concerns",
+          "Ensure the red reflex exam is completed and documented before the newborn goes home",
+          "Ask the caregiver to take flash photos at home and bring them to the first visit"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Deferring breaks the screening schedule. The red reflex belongs before discharge, and the longer a visual problem goes unfound, the greater the risk of permanent loss.",
+          "Newborns are not expected to track faces yet; following faces begins around 2–3 months. This teaching cannot replace the red reflex screen.",
+          "CJMM — Recognize cues: a required newborn screen is missing at discharge. Analyze cues: the red reflex is checked before newborn discharge and then at every well visit for the first 5 years. It is quick, painless, and detects cataracts, retinoblastoma, and other problems that block clear input while the visual pathways are forming. Generate solutions/Take action: complete and document the exam before the newborn leaves rather than relying on a later visit.",
+          "Photos may show a white pupil, but phone cameras can also hide it. Photos do not replace a documented ophthalmoscope exam."
+        ]
+      },
+      {
+        "stem": "At a 3-year-old's well visit, the nurse sees a white glow in the child's left pupil during the red reflex exam; the right reflex is orangish-red. The caregiver says, \"That can't be right. His eyes look fine in all our phone pictures, and he hasn't complained about anything.\" What is the nurse's best response?",
+        "options": [
+          "\"A white pupil needs a prompt eye specialist visit. Phone cameras can miss it, and he may not have symptoms.\"",
+          "\"Since his photos look normal, we'll recheck his eyes carefully at his next well visit.\"",
+          "\"Let's test his vision with a picture chart first. If his vision is reduced, we'll send him to an eye doctor.\"",
+          "\"It is probably from the bright light. Watch for eye pain or redness, and call us if they develop.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a white pupil (leukocoria) in one eye on red reflex in a child under 5. Analyze cues: leukocoria is the classic sign of retinoblastoma, a malignant tumor of the retina, and is often found on routine screening with no complaints. Newer phone cameras may hide the white pupil, so normal photos do not rule it out. Prioritize hypotheses: retinoblastoma until proven otherwise. Take action: do not reassure. Arrange a prompt ophthalmology referral.",
+          "\"Recheck at the next visit\" is the classic trap. An abnormal red reflex always needs a prompt referral, and a white pupil should never be ignored.",
+          "The red reflex does not test visual acuity, and a child with retinoblastoma may have normal acuity at first. Waiting for an acuity result delays the referral.",
+          "Retinoblastoma does not usually first show up as eye pain or a red, draining eye. Waiting for those symptoms misreads the cue and delays care."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing messages from caregivers of four 2-year-olds. Which child's presentation is most consistent with retinoblastoma?",
+        "options": [
+          "A child with a red, painful left eye and thick yellow drainage that glues the lids shut",
+          "A child whose eyes drift outward when tired and who has started to squint in sunlight",
+          "A child with a swollen, red eyelid, a fever, and crying when looking toward a toy",
+          "A playful child whose left pupil looked white in a flash photo while the right looked red"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Thick purulent drainage with matted lids describes bacterial conjunctivitis. Expecting retinoblastoma to present as a red, draining, painful eye is a listed trap.",
+          "Outward drift describes exotropia (strabismus). It needs referral for amblyopia risk, but it is not the classic presentation of retinoblastoma.",
+          "A swollen lid with fever and pain on eye movement suggests orbital cellulitis, which is an emergency, but it is an infection, not a retinal tumor.",
+          "CJMM — Recognize cues: a white pupil in one eye in a well-appearing toddler. Analyze cues: leukocoria is the classic sign of retinoblastoma. It is often found on routine screening or in a photo, usually before age 5, and the child often has no complaints. Prioritize hypotheses: of these presentations, only this one matches a retinal tumor. Take action: prompt ophthalmology referral and a documented red reflex exam."
+        ]
+      },
+      {
+        "stem": "After a normal red reflex exam on their 18-month-old, a caregiver says, \"Great, so that means her eyesight is perfect.\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"Yes. A normal red reflex at this age shows that her vision is sharp in both eyes.\"",
+          "\"Yes, but only for distance vision. Near vision is checked once she starts reading.\"",
+          "\"Not quite. This test looks for things like cataracts, tumors, or misaligned eyes, not how sharply she sees.\"",
+          "\"Not quite. The red reflex mainly checks whether her eyes make enough tears and stay healthy.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This repeats the listed trap that the red reflex tests acuity. False reassurance can lead the family to ignore later warning signs.",
+          "The red reflex does not measure distance or near acuity. Splitting vision this way still treats the screen as an acuity test.",
+          "CJMM — Recognize cues: the caregiver has misunderstood what the screen measures. Analyze cues: the red reflex (Bruckner) screens for cataracts, retinoblastoma, strabismus, and retinal abnormalities. It does not test visual acuity. Generate solutions/Take action: correct the misconception clearly so the family keeps up with every well-visit screening and reports concerns such as squinting or eyes not lining up.",
+          "Tear production and surface health are not what the red reflex assesses. It detects problems inside the eye that block or change the reflected light."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 3-month-old reports that the infant's eyes sometimes cross for a few seconds when the infant is tired, then line up again. The red reflex is equal and orangish-red, and the infant follows faces. What should the nurse conclude?",
+        "options": [
+          "This can be normal at this age; recheck alignment at well visits and report if it persists past 4–6 months",
+          "This is esotropia that will cause amblyopia, so the nurse should request a patch for the weaker eye today",
+          "This is a sign of retinoblastoma because misalignment is often the first symptom of a retinal tumor",
+          "This needs no further follow-up because infants outgrow eye crossing on their own before school age"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: brief, intermittent crossing at 3 months, with a normal red reflex and normal tracking. Analyze cues: brief, intermittent misalignment can be normal in early infancy. It becomes a concern when it persists past 4–6 months. Prioritize hypotheses: likely normal developmental variation, with no other abnormal findings. Generate solutions/Evaluate outcomes: keep checking alignment (corneal light reflex and red reflex) at each well visit and refer if it persists.",
+          "Treatment is not indicated for brief crossing at 3 months. In addition, patching covers the STRONGER eye, not the weaker one.",
+          "The red reflex is normal. Leukocoria, not brief crossing in a young infant, is the classic sign of retinoblastoma.",
+          "\"He'll grow out of it, so we can wait until school\" is a listed needs-further-teaching statement. Misalignment that persists past 4–6 months does need follow-up."
+        ]
+      },
+      {
+        "stem": "A 10-month-old's caregiver says the infant's right eye has turned in toward the nose \"most of the time\" for several months. The caregiver adds, \"She doesn't seem bothered, and my mother says babies grow out of it.\" What is the nurse's priority action?",
+        "options": [
+          "Reassure the caregiver that the infant is not bothered, which means the brain is adjusting normally",
+          "Ask the caregiver whether the infant seems to see double, then refer only if the answer is yes",
+          "Plan to recheck the eye alignment at the 12-month visit before making any referral",
+          "Arrange a referral for persistent misalignment because it can lead to permanent vision loss"
+        ],
+        "answer": 3,
+        "explanations": [
+          "\"Not bothered\" is exactly what happens when the brain shuts off the deviated eye's image. That is the start of amblyopia, not reassurance.",
+          "This is the adult pattern. Young children do not complain of double vision, so strabismus is found by screening and looking, not by asking.",
+          "Waiting two more months prolongs the period of suppression. The longer a visual problem continues, the greater the risk of permanent loss.",
+          "CJMM — Recognize cues: constant inward turning (esotropia) that has lasted several months in a 10-month-old. Analyze cues: misalignment persisting past 4–6 months is a concern. The brain receives two different images and suppresses the deviated eye, which leads to amblyopia, and the loss can become permanent if untreated. Prioritize hypotheses: strabismus with high amblyopia risk. Take action: refer now, because the earlier treatment starts, the better the vision outcome."
+        ]
+      },
+      {
+        "stem": "A nurse is screening a 2-year-old for strabismus at a well visit. Which assessment approach is most appropriate for this child's age?",
+        "options": [
+          "Ask the child whether objects ever look doubled or blurry when looking at books",
+          "Shine a light toward the eyes and check whether the light reflection sits symmetrically",
+          "Have the child read the smallest line possible on a standard letter chart",
+          "Ask the caregiver whether the child rubs the eyes or complains that they hurt"
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is an adult-pattern assessment. Adults with new misalignment report double vision; young children usually do not, so asking can miss strabismus.",
+          "CJMM — Recognize cues: the child is 2 years old. Analyze cues: strabismus is checked with the corneal light reflex. A young child will not report double vision because the brain shuts off the second image. Generate solutions/Take action: use an objective test, the corneal light reflex (plus the red reflex), that finds misalignment by looking, not by asking.",
+          "A letter chart needs a child who can read and cooperate. It also measures acuity, not alignment.",
+          "Rubbing or eye pain is not how strabismus presents in young children, who usually have no complaints. Relying on symptoms misses the diagnosis."
+        ]
+      },
+      {
+        "stem": "A nurse teaches the caregiver of a 4-year-old with amblyopia in the left eye about patching. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"The earlier we stick with the patching, the better her vision is likely to turn out.\"",
+          "\"If she pulls the patch off, I'll put it back on so she still gets the prescribed hours.\"",
+          "\"Her right eye is the strong one, so that is the eye that gets covered by the patch.\"",
+          "\"We'll cover her left eye during the day so it can rest and stop working so hard.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Correct understanding. Earlier treatment gives a better outcome, because the loss can become permanent once the visual system matures.",
+          "Correct understanding. The patch must be worn for the hours prescribed even if the child fusses; skipping time undermines the treatment.",
+          "Correct understanding. The stronger right eye is covered so the brain has to use the weaker left eye.",
+          "CJMM — Analyze cues: in amblyopia the brain has been ignoring the weaker (left) eye. Generate solutions: treatment forces the brain to use the weaker eye by patching the STRONGER eye (or blurring it with drops), along with corrective lenses and treating the cause. Evaluate outcomes: a plan to cover the weak eye so it can \"rest\" shows the core logic was misunderstood. It would deepen the suppression, so this statement needs further teaching."
+        ]
+      },
+      {
+        "stem": "A 5-year-old is found at kindergarten screening to have an inward-turning right eye that the family says has been present \"since she was a toddler.\" The caregiver asks what the biggest worry is. Which response best reflects the most concerning complication?",
+        "options": [
+          "\"The pressure inside the turned eye may rise over time and damage the nerve at the back of it.\"",
+          "\"The lens of the turned eye may become cloudy because it has not been focusing properly for years.\"",
+          "\"Her brain may have learned to ignore the turned eye, which can cause lasting vision loss in that eye.\"",
+          "\"The turned eye is more likely to get infections because it does not close and blink normally.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This describes glaucoma. It is a listed trap answer, not the most concerning complication of strabismus.",
+          "This describes a cataract. That is also a listed trap; a cataract can cause an abnormal red reflex, but it is not what strabismus leads to.",
+          "CJMM — Recognize cues: strabismus that has gone untreated for years in a young child. Analyze cues: two different images lead the brain to suppress the deviated eye, which receives less stimulation. Prioritize hypotheses: the most concerning complication of strabismus is amblyopia, reduced vision from decreased use, which can be permanent if untreated. Take action: refer promptly, and explain that treatment (lenses, patching the stronger eye, treating the cause) works best early.",
+          "This describes conjunctivitis, the third listed trap. Misalignment does not make the eye prone to infection."
+        ]
+      },
+      {
+        "stem": "A 6-year-old has amblyopia of the LEFT eye caused by strabismus. The right eye has normal vision. Which prescription should the nurse question?",
+        "options": [
+          "Corrective eyeglasses to be worn during all waking hours",
+          "Instill the prescribed blurring eye drop into the left eye daily",
+          "Ophthalmology follow-up to monitor vision and alignment",
+          "Adhesive patch over the right eye for the prescribed hours each day"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Corrective lenses are part of standard amblyopia treatment and are appropriate as written.",
+          "CJMM — Recognize cues: the weak (amblyopic) eye is the left; the right is the stronger eye. Analyze cues: amblyopia treatment forces the brain to use the weaker eye by patching OR using drops that blur the STRONGER eye. Generate solutions/Take action: blurring drops in the left eye would blur the already-weak eye and make the brain favor the right eye even more, worsening the amblyopia. The nurse should clarify this order before giving it.",
+          "Follow-up is appropriate. Treating the underlying cause and monitoring vision are part of the plan.",
+          "Patching the stronger right eye is correct. It forces the brain to use and strengthen the left eye."
+        ]
+      },
+      {
+        "stem": "A nurse reviews findings from four infants at well visits. Which infant's finding should be reported for follow-up?",
+        "options": [
+          "A 4-month-old who does not follow the caregiver's face or a bright toy moved across the field of view",
+          "A 1-month-old who gazes steadily at the caregiver's face during feeding but not at objects across the room",
+          "A 9-month-old who reaches for a cup on the table and adjusts the reach to grab it accurately",
+          "A 6-week-old whose eyes occasionally look slightly misaligned for a moment and then realign"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a 4-month-old who is not tracking faces or objects. Analyze cues: infants follow faces and moving objects by 2–3 months, and not tracking by about 3 months is listed as abnormal. Prioritize hypotheses: a possible visual problem during the period when the eyes and brain are building their connection. Take action: report for evaluation, because the longer a visual impairment continues, the greater the risk of permanent deficit.",
+          "This is expected. Newborns focus best at 8–15 inches, about the distance to a caregiver's face during feeding, which supports bonding.",
+          "This is expected. Judging distance and reaching accurately are on track at 7–12 months.",
+          "Brief, intermittent misalignment can be normal in early infancy. It is a concern only if it persists past 4–6 months."
+        ]
+      },
+      {
+        "stem": "A second-grade teacher tells the school nurse that a 7-year-old has had falling grades this term, squints at the board, and keeps moving to a seat in the front row. The child responds right away when called from the back of the room. What is the nurse's best next step?",
+        "options": [
+          "Recommend a hearing evaluation, because poor school performance is a common sign of hearing loss",
+          "Suggest the teacher use a behavior chart, because moving seats suggests difficulty following class rules",
+          "Perform a vision screening, because squinting and sitting close to the board suggest reduced acuity",
+          "Recommend that the family limit screen time at home to rest the child's eyes before school"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Poor school performance can signal hearing loss, but this child responds to voice from the back of the room, and the specific cues here are visual.",
+          "This treats a sensory cue as a behavior problem. Moving closer to see is a compensating behavior, not a discipline issue.",
+          "CJMM — Recognize cues: squinting, moving close to the board, and falling grades, with a normal response to the child's name. Analyze cues: squinting, sitting close to the board or TV, and poor school performance are listed as abnormal school-age findings that call for a vision screen. Prioritize hypotheses: falling grades fit both vision and hearing problems, but the visual behaviors and the intact response to voice point to vision. Take action: screen the child's vision.",
+          "Limiting screen time does not evaluate the problem and delays the screening this child needs."
+        ]
+      },
+      {
+        "stem": "In April, a 6-year-old is brought in with red eyes in both eyes. The child keeps rubbing them and says they are \"super itchy.\" The nurse notes stringy, mucoid discharge, a bumpy, cobblestone look to the inner lids, and swollen, gel-like conjunctiva. The child has no fever or sore throat. What does the nurse anticipate?",
+        "options": [
+          "Topical antibiotic drops, plus strict hand hygiene to keep it from spreading to classmates",
+          "Cool compresses and lubricating drops only, plus staying home because it is highly contagious",
+          "Topical antihistamine or mast cell stabilizer drops, plus reducing pollen exposure",
+          "Antibiotic ointment at bedtime and warm compresses to loosen crusting each morning"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Antibiotics treat bacterial conjunctivitis, which has thick purulent discharge. Itching points to allergy, and the listed trap is \"itching = bacterial.\"",
+          "Supportive care fits viral conjunctivitis, which has watery discharge with a URI. Allergic conjunctivitis is not contagious, so the child does not need to stay home.",
+          "CJMM — Recognize cues: intense itching, stringy mucoid discharge, cobblestone conjunctiva, chemosis, both eyes affected, spring season, no URI. Analyze cues: the cardinal sign of allergic conjunctivitis is intense itching, and chemosis is a hallmark. Prioritize hypotheses: allergic conjunctivitis, triggered by pollen, dust, pet dander, or mold. Generate solutions: topical antihistamines or mast cell stabilizers, and avoid allergens. It is NOT contagious.",
+          "Antibiotic ointment treats bacterial conjunctivitis with matted, crusted lids. That is the wrong type for intense itching and stringy mucus."
+        ]
+      },
+      {
+        "stem": "A 4-year-old has watery, tearing drainage that started in the right eye yesterday and is now in the left. The child also has a runny nose and a sore throat. The caregiver asks for antibiotic eye drops \"so it clears faster for daycare.\" What is the nurse's best response?",
+        "options": [
+          "\"This looks viral, so antibiotics won't help. Cool compresses and lubricating drops ease it while it runs its course.\"",
+          "\"Antibiotic drops will help prevent a bacterial infection on top of this, so I'll ask the provider for them.\"",
+          "\"This looks allergic, so antihistamine drops will help, and it is not contagious to the other children.\"",
+          "\"Antibiotic drops will shorten it, but she needs to be on them a full day before she goes back.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: watery, serous discharge spreading from one eye to the other, with a sore throat and runny nose. Analyze cues: viral conjunctivitis is watery, occurs with a URI or sore throat, starts in one eye and spreads to the other, and is highly contagious. Prioritize hypotheses: viral conjunctivitis. Generate solutions: supportive care (cool compresses, lubricating drops); it is self-limiting. Take action: explain that antibiotics won't work, and teach hand hygiene and no shared towels.",
+          "The listed trap is \"watery eye with a cold → antibiotics.\" Antibiotics do not work on a viral infection, and nothing here suggests a bacterial infection.",
+          "Allergic conjunctivitis has intense itching, stringy mucus, and usually affects both eyes from allergen exposure. Calling a URI-linked, spreading infection non-contagious is unsafe.",
+          "This treats the infection as bacterial. Antibiotics will not shorten viral conjunctivitis; that belief is a listed needs-further-teaching statement."
+        ]
+      },
+      {
+        "stem": "A nurse teaches the caregiver of a 5-year-old diagnosed with bacterial conjunctivitis. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"I'll clean her eye from the inner corner outward with a fresh clean cloth each time.\"",
+          "\"Her brother and sister will use their own towels and pillowcases until this is gone.\"",
+          "\"I'll wash my hands before and after I put in her drops and remind her not to rub.\"",
+          "\"Once the crusting is gone, usually after a day or two, I can stop putting in the drops.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Correct understanding. Wiping from the inner corner outward with a clean cloth keeps drainage away from the tear duct and the other eye.",
+          "Correct understanding. Bacterial conjunctivitis is contagious, and not sharing towels or pillows limits the spread to the family.",
+          "Correct understanding. Washing hands before and after drops prevents spread, since the infection spreads easily.",
+          "CJMM — Analyze cues: bacterial conjunctivitis is contagious and treated with topical antibiotic drops or ointment, which the family uses for the full time ordered. Evaluate outcomes: stopping when the crusting improves misunderstands the plan and risks the infection returning or spreading, so this statement needs further teaching. Teaching should also cover hand hygiene, not sharing pillows, washcloths, or towels, and wiping inner to outer with a clean cloth."
+        ]
+      },
+      {
+        "stem": "Two siblings, ages 3 and 6, both have red eyes. Which finding in one of the children most strongly supports bacterial rather than viral conjunctivitis?",
+        "options": [
+          "Thick yellow-green drainage that has glued the lids shut on waking, with marked conjunctival swelling",
+          "Thin, clear tearing that began in one eye and spread to the other over a day or two",
+          "Redness with crusting and some itching, along with a cough and runny nose for 3 days",
+          "Redness in one eye that burns, with a sore throat that started around the same time"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: thick, purulent drainage, lids matted shut in the morning, and marked conjunctival edema. Analyze cues: all three types share redness, drainage, crusting, and itching; the type of discharge and the itch tell them apart. Prioritize hypotheses: purulent, thick, \"matted\" drainage means bacterial. Generate solutions: topical antibiotic drops or ointment plus hand hygiene.",
+          "Watery discharge that spreads from one eye to the other is the viral pattern, not bacterial.",
+          "Redness, crusting, and itching occur in all three types and do not distinguish them. The URI symptoms point toward viral.",
+          "Burning with a sore throat fits viral conjunctivitis, which occurs with a URI or sore throat and may burn or itch."
+        ]
+      },
+      {
+        "stem": "A nurse in a pediatric urgent care has four children with eye complaints. Which child should the nurse see first?",
+        "options": [
+          "A 4-year-old whose upper eyelid is so red and swollen it is nearly shut, who can look in all directions without discomfort and sees normally",
+          "A 7-year-old recovering from a sinus infection with a mildly swollen lid who cries when looking to the side and says things look blurry",
+          "A 3-year-old with thick yellow drainage from both eyes and lids that were stuck together this morning",
+          "A 9-year-old with bilateral eye redness, intense itching, and stringy mucus after playing in a field"
+        ],
+        "answer": 1,
+        "explanations": [
+          "The swelling is dramatic, but vision is intact and eye movement is normal and painless. That is preseptal cellulitis, which is treated and monitored and can wait briefly.",
+          "CJMM — Recognize cues: a recent sinus infection, pain with eye movement, and a change in vision, even though the lid swelling is mild. Analyze cues: pain or limitation with eye movement or a vision change means the infection has spread BEHIND the orbital septum, often from a sinus infection. Prioritize hypotheses: orbital cellulitis, a medical emergency that risks vision loss, abscess, and meningitis. Take action: see this child first, notify the provider immediately, and anticipate IV antibiotics and imaging.",
+          "This is bacterial conjunctivitis. It needs topical antibiotics but is not an emergency.",
+          "This is allergic conjunctivitis. It is uncomfortable but not a threat to vision or life."
+        ]
+      },
+      {
+        "stem": "A 6-year-old has a red, swollen right eyelid. Which findings would indicate orbital rather than preseptal (periorbital) cellulitis? Select all that apply.",
+        "options": [
+          "Bulging of the right eye compared with the left",
+          "Crying with pain when asked to look up and to the side",
+          "Redness and swelling of the upper and lower eyelid",
+          "Reporting that a picture on the wall looks blurry",
+          "Warmth of the eyelid tissue on gentle palpation",
+          "Following a toy in all directions without discomfort"
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—proptosis (a bulging eye) is an orbital finding; preseptal eye position is normal.",
+          "Correct—painful eye movement means the infection involves the orbit around the eye muscles.",
+          "Incorrect—lid redness and swelling occur in BOTH types, so they cannot tell the two apart.",
+          "Correct—vision changes are an orbital finding; vision stays intact in preseptal cellulitis.",
+          "Incorrect—lid warmth occurs with preseptal cellulitis too, so it does not distinguish them.",
+          "Incorrect—normal, painless eye movement is the preseptal pattern and is reassuring."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "An 8-year-old who had a sinus infection last week now has a swollen, red left eyelid, a temperature of 39.2°C (102.6°F), a left eye that bulges forward, and pain when moving the eye. What is the nurse's priority action?",
+        "options": [
+          "Apply warm compresses and recheck visual acuity in 4 hours to see whether the swelling is spreading",
+          "Teach the family to give the oral antibiotic and to return if the child develops vision changes",
+          "Instill antibiotic eye drops and cover the eye to rest it until the provider evaluates the child",
+          "Notify the provider immediately and prepare for IV antibiotics and imaging of the orbit"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Waiting 4 hours with proptosis and painful eye movement delays emergency treatment. Monitoring and watchful care fit preseptal cellulitis, not orbital.",
+          "Oral antibiotics at home fit preseptal cellulitis. This child already has the emergency findings, so outpatient management is unsafe.",
+          "Topical drops do not reach an infection behind the septum, and patching does not treat it. This confuses orbital cellulitis with conjunctivitis.",
+          "CJMM — Recognize cues: a sinus infection followed by proptosis, painful eye movement, and fever. Analyze cues: the infection has spread behind the orbital septum, often as an extension of a sinus infection. Prioritize hypotheses: orbital cellulitis, a medical emergency with risks of vision loss, abscess, and meningitis. Take action: notify the provider immediately and anticipate IV antibiotics and imaging, not outpatient care."
+        ]
+      },
+      {
+        "stem": "A 3-week-old did not pass the newborn hearing screen and was referred for a full hearing evaluation. The caregiver says, \"The first audiology opening is when she's 5 months old, so we'll just wait for that.\" What is the nurse's best action?",
+        "options": [
+          "Agree with the plan, because hearing aids are not usually started until after 6 months of age",
+          "Help the family get an earlier appointment, because diagnosis should be done by 3 months of age",
+          "Reassure the family that many newborns fail the screen because of fluid, so the delay is acceptable",
+          "Teach the family to clap behind the infant each week and call if the infant does not startle"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Intervention by 6 months requires diagnosis by 3 months. \"Screen by 3 months, intervene by 1 year\" is a listed trap timeline.",
+          "CJMM — Recognize cues: a failed newborn screen with diagnostic testing planned for 5 months. Analyze cues: the 1-3-6 benchmark is screen by 1 month, diagnose by 3 months, intervene by 6 months. A 5-month diagnosis would push intervention past 6 months. Prioritize hypotheses: language develops fastest in the first years, so a delay risks speech, language, and academic outcomes. Take action: advocate for an earlier appointment so diagnosis happens by 3 months.",
+          "Explaining away a failed screen and accepting a late diagnosis misses the 1-3-6 benchmark. The cause is found by completing the diagnostic evaluation on time.",
+          "Home clapping tests are not a diagnostic evaluation and cannot replace audiology. This still leaves diagnosis past the 3-month benchmark."
+        ]
+      },
+      {
+        "stem": "At a 2-year-old's well visit, the caregiver says the child uses far fewer words than a cousin of the same age and \"ignores us when we call him from another room. My dad says boys just talk later.\" What is the nurse's best action?",
+        "options": [
+          "Reassure the caregiver that boys often talk later, and plan to reassess speech at age 3",
+          "Give the family strategies for managing a toddler who ignores directions on purpose",
+          "Encourage daily reading aloud and recheck the child's speech at the next well visit",
+          "Arrange a hearing evaluation, since a delay in speech and not responding to name can signal hearing loss"
+        ],
+        "answer": 3,
+        "explanations": [
+          "\"Boys talk later; wait until 3\" is the listed trap. Waiting loses language-development time.",
+          "This labels a possible sensory deficit as a behavior problem. Hearing loss is often mislabeled this way.",
+          "Reading aloud supports language, but it is not the priority. Rechecking later delays evaluation of a child with two warning signs.",
+          "CJMM — Recognize cues: speech delay plus not responding to his name. Analyze cues: delayed speech and not responding to name are listed signs of possible hearing loss. Children rarely say \"I can't hear\"; hearing loss shows up as speech delay and \"behavior.\" Prioritize hypotheses: possible hearing loss during the years when language develops fastest. Take action: a toddler with speech delay gets a hearing evaluation."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 7-year-old asks whether the child's behavior could mean a hearing problem. Which reports should the nurse identify as concerning for possible hearing loss? Select all that apply.",
+        "options": [
+          "The child says \"What?\" many times a day, at home and at school",
+          "The child turns the tablet and TV volume up much louder than siblings like",
+          "The teacher reports the child often seems inattentive and grades are slipping",
+          "The child once asked a friend to repeat something in a loud cafeteria",
+          "The child prefers quiet games and reading over team sports at recess"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—frequently saying \"What?\" in more than one setting is a persistent pattern and a listed sign of hearing loss.",
+          "Correct—turning up the TV or device volume is a listed sign of possible hearing loss.",
+          "Correct—inattention and poor school performance are listed signs; they may be mislabeled as a behavior problem.",
+          "Incorrect—a single request to repeat something in a noisy room is expected; only persistent repetition is concerning.",
+          "Incorrect—an activity preference is not a hearing cue and does not suggest hearing loss."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is taking the history at a 4-year-old's well visit. Which question is most useful for detecting a possible hearing problem?",
+        "options": [
+          "\"Does she ever tell you that she can't hear you or that sounds are too quiet?\"",
+          "\"Has she had any ear infections or ear pain since her last checkup?\"",
+          "\"Has anyone, such as you, her preschool teacher, or a relative, been concerned about her hearing?\"",
+          "\"Does she cover her ears or get upset when there are loud noises around?\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This relies on the child reporting the problem, which is an adult pattern. Young children usually do not say they can't hear.",
+          "Ear-infection history is relevant, since repeated otitis can muffle hearing, but it does not screen directly for current hearing concerns.",
+          "CJMM — Recognize cues: the child is 4 and in preschool. Analyze cues: children rarely say \"I can't hear\"; hearing loss shows up in behavior and development, and parents and teachers are often the first to notice. Generate solutions/Take action: always ask whether anyone has been concerned about the child's hearing, which captures what caregivers and teachers have observed.",
+          "Covering the ears at loud noises describes noise sensitivity, not a sign of hearing loss."
+        ]
+      },
+      {
+        "stem": "A 14-month-old had a cold last week and now has a temperature of 38.8°C (101.8°F), is fussy, sleeps poorly, and keeps pulling at the right ear. When the nurse gently moves the right pinna, the toddler's crying does not change. What is the most likely explanation?",
+        "options": [
+          "Otitis externa, because ear pulling shows pain in the canal skin that touch would irritate",
+          "Acute otitis media, because fever and ear tugging after a cold with no pain on pinna movement fit a middle ear infection",
+          "Mastoiditis, because a fever after a recent cold signals that infection has reached the bone behind the ear",
+          "Otitis externa from bath water, because water trapped in the canal causes fever and fussiness in toddlers"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Otitis externa causes severe pain when the pinna or tragus is moved, and fever is uncommon. This toddler shows neither.",
+          "CJMM — Recognize cues: a recent URI, fever, ear tugging, fussiness and poor sleep, and NO increase in pain when the pinna is moved. Analyze cues: AOM often follows a viral URI because children's eustachian tubes are smaller and narrower, so fluid gets trapped. Fever and tugging are common, and moving the ear does NOT worsen AOM pain. Prioritize hypotheses: acute otitis media. Generate solutions: pain control and antibiotics as prescribed, and watch for complications.",
+          "Mastoiditis requires swelling, redness, and tenderness behind the ear with the ear pushed outward. Fever after a cold alone does not indicate it.",
+          "Otitis externa follows water exposure, but it does not usually cause fever, and moving the pinna would worsen the pain."
+        ]
+      },
+      {
+        "stem": "A nurse assists with otoscopic exams on four children who have ear complaints. Which finding meets a diagnostic criterion for acute otitis media?",
+        "options": [
+          "A mildly bulging tympanic membrane in a child whose ear pain began yesterday",
+          "A red tympanic membrane without bulging in an infant who was crying during the exam",
+          "Drainage in the canal of a swimmer whose canal is swollen and tender to touch",
+          "A mildly bulging tympanic membrane in a child with no ear pain and no redness"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: AOM is diagnosed with ANY ONE of: moderate-to-severe bulging of the TM; new otorrhea not due to otitis externa; or mild TM bulging AND recent ear pain or intense erythema. Prioritize hypotheses: mild bulging with ear pain that began yesterday meets the third criterion. Take action: anticipate pain control and antibiotics as prescribed.",
+          "Redness alone without bulging does not meet the criteria, and crying can make the TM look red. The intense-erythema criterion still requires mild bulging.",
+          "New otorrhea counts only when it is NOT due to otitis externa. A swollen, tender canal in a swimmer points to otitis externa.",
+          "Mild bulging counts only when paired with recent ear pain or intense erythema. Without either, this does not meet a criterion."
+        ]
+      },
+      {
+        "stem": "A 9-month-old is on day 3 of treatment for acute otitis media. The nurse returns four phone messages from the caregiver's call. Which report needs immediate follow-up?",
+        "options": [
+          "\"The fever is gone, but she still pulls at her ear sometimes when she's tired.\"",
+          "\"She's sleeping better at night, but she is still a little fussier than usual.\"",
+          "\"She's eating a little less than usual, but she's drinking and wetting diapers.\"",
+          "\"Her ear is sticking out down and away from her head, and it's red and puffy behind it.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Fever resolving with occasional tugging shows improvement, which is an expected course while the infection settles.",
+          "Better sleep with mild fussiness shows the infant is improving and is not an alarm finding.",
+          "Eating a little less while drinking and wetting diapers shows adequate hydration and does not need urgent follow-up.",
+          "CJMM — Recognize cues: in an infant with AOM, the auricle is pushed outward and downward with red, swollen tissue behind the ear. Analyze cues: AOM can spread into the mastoid bone. In infants the ear is displaced DOWN and out (older children: up and out). Prioritize hypotheses: mastoiditis, a medical emergency that needs IV antibiotics or surgery and, untreated, leads to abscess, bone infection, or meningitis. Take action: have the infant seen immediately."
+        ]
+      },
+      {
+        "stem": "A nurse in a pediatric clinic receives four children with ear complaints at the same time. Which child should the nurse see first?",
+        "options": [
+          "A 10-year-old with severe pain when the tragus is pressed, after a week of daily swim practice",
+          "A 3-year-old with a fever of 39.5°C (103.1°F) and ear tugging who is crying but consolable",
+          "A 6-year-old with a fever, red and tender swelling behind the ear, and the ear pushed up and out",
+          "A 2-year-old with mild ear pain and a low-grade fever who is playing in the waiting room"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Tragus pain after swimming is otitis externa. It is painful but treated in the canal, and it is not an emergency.",
+          "AOM with a high fever comes second in the triage order, after mastoiditis. A consolable child is not the most urgent.",
+          "CJMM — Recognize cues: fever, postauricular redness, swelling, and tenderness, and an auricle displaced up and out, which is the older-child pattern. Analyze cues: these findings mean otitis media has spread to the mastoid bone. Prioritize hypotheses: mastoiditis, a medical emergency. The ear triage order is mastoiditis > AOM with high fever or a very ill child > OE or uncomplicated AOM. Take action: see this child first and escalate for IV antibiotics or surgery.",
+          "Uncomplicated AOM in a playful child is the lowest priority on this list."
+        ]
+      },
+      {
+        "stem": "After a week at swim camp, a 9-year-old reports that the left ear \"itched for a couple of days and now really hurts.\" The child winces when the nurse presses the tragus. The canal is red and swollen with some purulent drainage, and the temperature is 37.1°C (98.8°F). What does the nurse anticipate?",
+        "options": [
+          "Topical antibiotic ear drops, possibly with a steroid, and keeping the ear canal dry",
+          "Oral antibiotics and pain control for a middle ear infection that has drained into the canal",
+          "Referral for tympanostomy tubes, because drainage after swimming shows fluid behind the eardrum",
+          "IV antibiotics and imaging, because purulent drainage indicates spread into the mastoid bone"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: recent swimming, early itching, severe pain on pressing the tragus, a red and swollen canal with purulent discharge, and no fever. Analyze cues: otitis externa (swimmer's ear) is infection of the canal skin from moisture or trauma; itching is an early sign and fever is uncommon. Prioritize hypotheses: otitis externa, not AOM. Generate solutions: topical antibiotic (± steroid), keep the ear dry, and no cotton swabs.",
+          "Otorrhea counts toward AOM only when it is not due to otitis externa. Pain on moving the tragus with a swollen canal after swimming points to the canal, and \"tragus pain = otitis media\" is a listed trap.",
+          "Tubes are for recurrent otitis media or chronic middle ear effusion, not a single canal infection after swimming.",
+          "Mastoiditis causes fever, swelling behind the ear, and an ear pushed outward. None of those is present."
+        ]
+      },
+      {
+        "stem": "The nurse teaches the caregiver of an 11-year-old who has otitis externa. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"I'll put the ear drops in exactly as prescribed, even after it starts feeling better.\"",
+          "\"He'll keep that ear dry while it heals and check with the provider before swimming again.\"",
+          "\"I'll call if he gets a fever or if the pain gets worse instead of better.\"",
+          "\"Each night I'll clean the drainage out of his ear canal with a cotton swab.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Correct understanding. Topical antibiotic drops are the treatment and are used for the full course.",
+          "Correct understanding. Keeping the canal dry is a core part of treatment, because moisture caused the infection.",
+          "Correct understanding. Worsening pain or fever is a reason to call, since fever is uncommon with otitis externa.",
+          "CJMM — Analyze cues: otitis externa is an infection of the canal skin from moisture or trauma, and cotton swabs are a cause of that trauma. Generate solutions: treatment is a topical antibiotic (± steroid), keeping the ear dry, and NO cotton swabs. Evaluate outcomes: a plan to swab the canal nightly would re-injure the inflamed skin, so this statement needs further teaching."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 20-month-old who has had repeated ear infections and ongoing middle ear fluid asks, \"So the tubes are how the doctor will get the antibiotics into her ear, right?\" What is the nurse's best response?",
+        "options": [
+          "\"Not exactly. The tubes let air into the middle ear and let fluid drain, which helps protect her hearing and speech.\"",
+          "\"Yes. The tubes let the ear drops reach the middle ear, so she won't need antibiotics by mouth.\"",
+          "\"Not exactly. The tubes stay in place until she outgrows ear infections, so she won't get more of them.\"",
+          "\"Yes. The tubes give the doctor a way to rinse out infection whenever she has a new ear infection.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the caregiver misunderstands why tubes are placed. Analyze cues: tympanostomy tubes are indicated for recurrent otitis media or chronic middle ear effusion. They ventilate the middle ear and let fluid drain, which protects hearing and language development. Repeated effusion can muffle hearing during the language years. Generate solutions/Take action: correct the misconception and link the tubes to the child's speech development.",
+          "\"Tubes are placed to give antibiotics into the ear\" is a listed trap. Their purpose is ventilation and drainage.",
+          "Tubes do not stay until a child outgrows infections; they usually fall out on their own in about 16–18 months. Promising no more infections also overstates what they do.",
+          "Rinsing out infection is not the purpose of tubes. Like the antibiotic-delivery idea, this misstates why they are placed."
+        ]
+      },
+      {
+        "stem": "The nurse is reinforcing discharge teaching for the caregiver of a 2-year-old who just had tympanostomy tubes placed. Which statements by the caregiver show correct understanding? Select all that apply.",
+        "options": [
+          "\"A little drainage can happen, but I'll call the ENT if there is drainage, fever, or ear pain.\"",
+          "\"He has to wear earplugs every time he has a bath or gets in the pool.\"",
+          "\"We'll keep his ENT appointments so they can check that the tubes are still in place.\"",
+          "\"The tubes usually fall out on their own in about a year and a half.\"",
+          "\"Since the tubes drain the fluid, we won't need the ENT anymore unless he gets sick.\"",
+          "\"I'll ask the ENT what the rules are for swimming, since plugs may only be needed for lake water.\""
+        ],
+        "answer": [
+          0,
+          2,
+          3,
+          5
+        ],
+        "explanations": [
+          "Correct—some drainage is expected, but drainage, fever, or pain should still be reported as instructed.",
+          "Incorrect—earplugs for every bath and pool visit is a listed needs-further-teaching statement; plugs are only needed for lake water.",
+          "Correct—follow-up checks that the tube is still in place.",
+          "Correct—tubes usually fall out on their own in about 16–18 months and do not need surgical removal.",
+          "Incorrect—\"we don't need follow-up\" is a listed needs-further-teaching statement; ENT follow-up continues.",
+          "Correct—families follow the provider's recommendations on water exposure, and plugs are only needed for lake water."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "Three weeks after tympanostomy tube placement, the caregiver of a 22-month-old calls to report yellow drainage from the left ear since yesterday, a temperature of 38.6°C (101.5°F), and the child crying and holding the ear. What is the nurse's best response?",
+        "options": [
+          "\"Drainage is expected with tubes, so keep wiping the outer ear and we'll check at his next visit.\"",
+          "\"Put cotton in his ear to absorb the drainage and keep his head dry until it stops on its own.\"",
+          "\"Please call his ENT today to have him seen, because drainage with fever and ear pain needs to be checked.\"",
+          "\"The tube has probably fallen out early, so he will need to have a new one placed right away.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This takes a half-true fact too far. Some drainage is expected, but drainage with fever and pain is exactly what families are told to report, not to watch until the next visit.",
+          "Packing the ear and waiting delays evaluation of a child with fever and pain. It does not follow the instruction to report these findings.",
+          "CJMM — Recognize cues: ear drainage PLUS fever PLUS ear pain after tube placement. Analyze cues: some drainage can be expected with tubes, but families are taught to monitor and report drainage, fever, or pain as instructed. Prioritize hypotheses: the combination suggests infection that needs evaluation, not routine drainage. Take action: direct the family to contact the ENT for evaluation today.",
+          "Tubes fall out on their own in about 16–18 months, not 3 weeks. Nothing here indicates the tube has come out, and this jumps to a conclusion without evaluation."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing the histories of four children. Which child's history most suggests an immune system that underperforms rather than one that overreacts or is chronically activated?",
+        "options": [
+          "A 4-year-old who developed hives and vomiting within minutes of eating scrambled eggs",
+          "A 6-year-old with rough, itchy, red patches inside both elbows that flare in winter",
+          "A 3-year-old who has needed treatment for pneumonia and ear infections many times this year",
+          "A 5-year-old whose knee has been swollen, warm, and stiff each morning for 2 months"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Hives and vomiting after a food is an overreaction to a harmless substance, which is a food allergy.",
+          "Itchy, red patches in the flexor areas of an older child fit eczema, an immune system that is chronically activated.",
+          "CJMM — Recognize cues: repeated, significant infections. Analyze cues: an immune system that overreacts causes allergies and anaphylaxis; one that is chronically activated causes eczema and JIA; one that underperforms causes recurrent infections (immunodeficiency). Prioritize hypotheses: recurrent infections point to underperformance. Take action: flag this pattern for the provider's evaluation.",
+          "Morning stiffness with a swollen, warm joint for more than 6 weeks fits JIA, an immune system that is chronically activated against the joints."
+        ]
+      },
+      {
+        "stem": "The nurse reviews food allergy teaching with the caregiver of a 6-year-old with a peanut allergy whose only previous reaction was a rash. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"I'll read the label every time, even on snacks she has eaten before.\"",
+          "\"Her last reaction was just a rash, so a bite of a cookie that might have peanut won't be dangerous.\"",
+          "\"Her epinephrine and her emergency action plan go wherever she goes, including to playdates.\"",
+          "\"I'll ask how food was prepared, since peanut can get onto shared surfaces and utensils.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "Correct understanding. Reading labels every time guards against hidden and unlabeled exposure, since recipes can change.",
+          "CJMM — Analyze cues: food allergy reactions range from hives (mild) to anaphylaxis (severe), and a past mild reaction does not predict the next one. Prioritize hypotheses: any exposure risks a severe, multisystem reaction. Evaluate outcomes: believing a small amount is safe because the last reaction was mild is a dangerous misunderstanding, so this statement needs further teaching.",
+          "Correct understanding. The child needs an emergency action plan and epinephrine wherever they go.",
+          "Correct understanding. Cross-contamination and shared prep surfaces are sources of hidden exposure."
+        ]
+      },
+      {
+        "stem": "A 7-year-old with a tree nut allergy is starting first grade. The caregiver plans to tell the teacher and the school nurse. Which additional teaching should the nurse prioritize?",
+        "options": [
+          "Teach the child to name the allergy, refuse food from others, and tell an adult right away about symptoms",
+          "Teach the caregiver to pack a lunch every day so the child does not need to know the allergy details",
+          "Teach the caregiver to keep the epinephrine at home, where it is safe from heat and from other children",
+          "Teach the child that allergy symptoms usually start with hives, so the child can watch the skin for warnings"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a school-age child moving into a setting with less adult supervision. Analyze cues: kids should be taught about their own allergy. They need an emergency action plan and epinephrine wherever they go, and hidden exposure often comes from sharing food without asking. Generate solutions/Take action: at 7, the child can learn to name the allergy, refuse shared food, and tell an adult about symptoms, which supports safety when caregivers are not there.",
+          "Packing a lunch helps, but it does not prevent shared food or cross-contamination. The child still needs to understand their own allergy.",
+          "Epinephrine must go wherever the child goes. Epinephrine left at home is unavailable when it is needed.",
+          "Skin signs are not always present in anaphylaxis, so teaching the child to wait for hives could delay help."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 5-month-old whose older sibling has a peanut allergy says, \"To be safe, we'll keep her away from peanut and egg until she starts school.\" What is the nurse's best response?",
+        "options": [
+          "\"That is a good plan. Delaying these foods until school age gives her immune system time to mature.\"",
+          "\"That is a good plan. Wait until she can tell you her mouth feels funny, and then try a small amount.\"",
+          "\"Let's talk with her provider, because introducing common allergens early, as advised, can lower allergy risk.\"",
+          "\"Start her on whole peanuts and scrambled eggs this week so her body can build tolerance quickly.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Delaying allergens is the opposite of the current guidance and may raise allergy risk. It is listed as a wrong belief.",
+          "Waiting for the child to describe symptoms delays introduction for years and relies on reporting a young child cannot give.",
+          "CJMM — Recognize cues: a plan to delay major allergens for years in an infant with a family history. Analyze cues: early introduction of allergens can help reduce future food allergies. Waiting until school age is a listed needs-further-teaching belief. Generate solutions/Take action: redirect the family to introduce allergens early under the provider's guidance, especially with a sibling who has a peanut allergy.",
+          "Introduction should follow the provider's advice. Whole peanuts are also a choking hazard for an infant, so this is unsafe."
+        ]
+      },
+      {
+        "stem": "A 10-year-old with a known peanut allergy comes to the school nurse 10 minutes after eating a granola bar from a friend. The child has a hoarse voice, says the throat \"feels tight,\" and has vomited once. The skin is clear with no hives. What is the nurse's first action?",
+        "options": [
+          "Give the oral antihistamine from the child's action plan and observe for the hives that would confirm anaphylaxis",
+          "Give the child's prescribed albuterol inhaler for the throat tightness, then reassess breathing in 5 minutes",
+          "Call the caregiver to pick up the child and take them to the provider for an evaluation",
+          "Give the child's epinephrine auto-injector into the outer thigh now, then call 911"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Waiting for hives is the listed red-flag error. Antihistamines are supportive only and never come before or instead of epinephrine.",
+          "Albuterol is supportive and does not reverse airway swelling or low blood pressure. Giving it first delays epinephrine, and delayed epinephrine increases mortality.",
+          "Calling the caregiver for a provider visit delays treatment of a reaction that can close the airway within minutes. This child needs epinephrine and 911.",
+          "CJMM — Recognize cues: a known allergen exposure, then a hoarse voice and throat tightness (airway) and vomiting (GI) within minutes. Analyze cues: two systems are involved, with possible airway swelling. Skin signs are not always present, so do not wait for hives. Prioritize hypotheses: anaphylaxis with airway compromise. Take action: epinephrine IM in the lateral thigh NOW, call 911, and repeat in 5–15 minutes if not improving. If you even suspect it, give epinephrine now."
+        ]
+      },
+      {
+        "stem": "The nurse teaches the caregiver of a 4-year-old with a milk allergy how to use the prescribed epinephrine auto-injector. Which statements by the caregiver indicate correct understanding? Select all that apply.",
+        "options": [
+          "\"I'll inject it into the outer part of her thigh, and I can go right through her pants.\"",
+          "\"I'll give her the antihistamine first and use the auto-injector only if that doesn't help.\"",
+          "\"After I give it, I'll call 911 right away.\"",
+          "\"If she isn't getting better 5 to 15 minutes after the first dose, she may need a second one.\"",
+          "\"If she feels fine after the injection, we can watch her at home instead of going in.\"",
+          "\"I'll inject it just under the skin of her upper arm, the way her shots are given.\""
+        ],
+        "answer": [
+          0,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—the site is IM in the lateral thigh, and it can be given through clothing.",
+          "Incorrect—giving an antihistamine first and the EpiPen only if that fails is a listed needs-further-teaching statement; nothing delays epinephrine.",
+          "Correct—call 911 immediately after giving epinephrine.",
+          "Correct—repeat the dose in 5–15 minutes if the child is not improving, as the provider orders.",
+          "Incorrect—even after the EpiPen, the child needs emergency evaluation; symptoms can return.",
+          "Incorrect—subcutaneous injection in the arm is a listed trap; the route is IM in the lateral thigh."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 3-year-old with a known egg allergy accidentally ate a bite of cake at a party 10 minutes ago. The caregiver has the child's epinephrine. Which finding is most concerning?",
+        "options": [
+          "Flushing of the cheeks and neck that began a few minutes after eating",
+          "A few raised hives around the mouth and on the chin",
+          "Vomiting once, then saying the stomach feels a little better",
+          "A high-pitched sound on inhaling and a newly swollen tongue"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Flushing is a skin sign of an allergic reaction. It still needs close watching, but it does not threaten the airway the way stridor does.",
+          "Localized hives are a skin finding. They raise concern, but the airway findings are the immediate threat.",
+          "A single episode of vomiting is a GI sign and does not compromise the airway.",
+          "CJMM — Recognize cues: stridor (high-pitched inspiratory sound) and tongue swelling soon after a known allergen. Analyze cues: anaphylaxis can compromise the airway within minutes, and stridor with tongue swelling means the upper airway is narrowing. Prioritize hypotheses: airway obstruction is the most immediate threat. Take action: give epinephrine IM in the lateral thigh now and call 911."
+        ]
+      },
+      {
+        "stem": "A 7-year-old in anaphylaxis received IM epinephrine 5 minutes ago. Which reassessment finding best indicates that the epinephrine is working?",
+        "options": [
+          "Wheezing is softer, blood pressure is rising toward normal, and the child is more alert",
+          "The hives are fading, but the child's voice is now hoarser and the breathing is louder",
+          "The child has stopped crying and is now sleepy and hard to keep awake",
+          "The blood pressure is improving, but the lips and tongue are swelling more"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes: epinephrine constricts blood vessels (raising BP), relaxes bronchial smooth muscle, and reduces airway swelling. It is working when breathing eases (wheeze or stridor resolving), swelling goes down, BP and HR return toward normal, and the child is more alert. The child still needs emergency evaluation, and the provider may order more epinephrine if symptoms return.",
+          "Fading hives does not outweigh worsening airway signs. Increasing hoarseness and noisy breathing mean the airway is not improving, so a repeat dose may be needed.",
+          "Becoming sleepy and hard to arouse is a decline in mental status, which can reflect poor perfusion or hypoxia, not improvement.",
+          "Increasing lip and tongue swelling shows the airway is still at risk even if BP is improving, so the response is incomplete."
+        ]
+      },
+      {
+        "stem": "A 6-year-old with no known allergies develops a few itchy hives on both forearms 20 minutes after trying shrimp for the first time. Breathing is unlabored with clear lung sounds, there is no lip or tongue swelling, no vomiting or abdominal pain, and heart rate and blood pressure are normal for age. What should the nurse conclude?",
+        "options": [
+          "Any hives after a food are anaphylaxis, so the nurse should give epinephrine now",
+          "This is a skin-only reaction; watch closely for any respiratory, cardiovascular, or GI signs",
+          "This is a minor rash that needs no further monitoring, so the child can return to play",
+          "This is anaphylaxis that is improving on its own, so the nurse should give diphenhydramine only"
+        ],
+        "answer": 1,
+        "explanations": [
+          "\"Hives alone after a food = anaphylaxis requiring epinephrine\" is a listed trap. Anaphylaxis involves multiple systems; this child needs close watching.",
+          "CJMM — Recognize cues: hives only, with no respiratory, cardiovascular, or GI findings and normal vital signs. Analyze cues: anaphylaxis is a multisystem reaction with rapid onset and possible airway compromise, and reactions range from hives (mild) to anaphylaxis (severe). Prioritize hypotheses: this is a single-system allergic reaction right now, but it can progress fast. Take action/Evaluate outcomes: monitor closely and give epinephrine immediately if a second system becomes involved or anaphylaxis is suspected.",
+          "Reactions can progress from hives to anaphylaxis quickly. Stopping monitoring 20 minutes after a first exposure is unsafe.",
+          "Calling this anaphylaxis but treating it with an antihistamine alone is unsafe. If it were anaphylaxis, epinephrine would come first."
+        ]
+      },
+      {
+        "stem": "A 9-year-old in the emergency department has hives, wheezing, and a blood pressure below normal for age after eating a cashew. The child says they feel faint. Which prescription should the nurse question?",
+        "options": [
+          "Epinephrine, weight-based dose, subcutaneously in the deltoid",
+          "Albuterol nebulizer for persistent wheezing after epinephrine",
+          "Lie the child flat with the legs raised while the child feels faint",
+          "Oral prednisone after the child's airway and breathing stabilize"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: multisystem signs (skin, respiratory, cardiovascular) after a known allergen. Analyze cues: this is anaphylaxis, and the first and most important medication is epinephrine given IM in the lateral thigh. Generate solutions/Take action: the route and site in this order (subcutaneous, deltoid) are the listed trap. The nurse should clarify it, because the correct route and site matter for a time-critical reaction.",
+          "Albuterol is an appropriate supportive medication for bronchospasm after epinephrine is given.",
+          "Lying flat with the legs up is the position for a child who feels faint. A child struggling to breathe would sit up instead.",
+          "A steroid is an appropriate supportive medication once epinephrine has been given and the child is stabilizing."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 7-month-old with rough, scaly, red patches on the cheeks, scalp, and outer arms says, \"Is this because I'm not bathing her enough? Do I need to keep her away from her brother so he doesn't catch it?\" What is the nurse's best response?",
+        "options": [
+          "\"It is a skin infection, so bathe her twice a day with an antibacterial soap and keep their towels separate.\"",
+          "\"It is a skin allergy to her food, so separating her from her brother isn't needed but changing her formula is.\"",
+          "\"It is eczema, which is a leaky skin barrier. It isn't from hygiene and isn't contagious, and daily moisturizing helps.\"",
+          "\"It is eczema. It can spread through shared towels while the patches are red, so wash her linens separately.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Eczema is not an infection. Frequent washing with harsh soaps strips the skin barrier, and soaps are a trigger.",
+          "Food can be one trigger, but eczema is a barrier disorder, not simply a food allergy. Changing formula is not the core teaching here.",
+          "CJMM — Recognize cues: xerosis, erythematous papules, and a cheek, scalp, and extensor distribution in an infant. Analyze cues: atopic dermatitis is a defective skin barrier that lets moisture escape. In infants it appears on the cheeks, scalp, and extensor surfaces, and it is not contagious and not caused by poor hygiene. Generate solutions/Take action: correct both misconceptions and teach daily maintenance: lukewarm baths, pat dry, and fragrance-free moisturizer 1–2 times a day.",
+          "Eczema is not contagious. Teaching that it spreads through towels repeats a listed misconception."
+        ]
+      },
+      {
+        "stem": "The nurse reviews home care with the caregiver of a 5-year-old with atopic dermatitis. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"I'll put the thick fragrance-free cream on after her lukewarm bath, even on days her skin looks clear.\"",
+          "\"When she has a flare, I'll use the steroid cream on the red patches as the provider showed me.\"",
+          "\"I'll keep her nails filed short and put soft mittens on her at night so she doesn't scratch.\"",
+          "\"I'll use the steroid cream on all her skin every day, even when it's clear, so flares don't start.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Correct understanding. Daily fragrance-free moisturizing, even when the skin is clear, is the core of eczema maintenance.",
+          "Correct understanding. Topical corticosteroids are used during flares as prescribed.",
+          "Correct understanding. Filed nails and mittens protect the skin and break the itch-scratch cycle.",
+          "CJMM — Analyze cues: topical corticosteroids are for flares only; overuse causes hypopigmentation. Daily maintenance is moisturizer, not steroid. Evaluate outcomes: a plan to apply steroid cream daily to clear skin confuses the flare treatment with maintenance and risks skin damage, so this statement needs further teaching."
+        ]
+      },
+      {
+        "stem": "A nurse is planning care for a 3-year-old with atopic dermatitis who scratches constantly and sleeps poorly. Which interventions should the nurse include? Select all that apply.",
+        "options": [
+          "Give a lukewarm bath, then pat the skin dry instead of rubbing",
+          "Apply a fragrance-free cream or ointment once or twice daily, even on clear days",
+          "Give a warm-to-hot bath at bedtime to calm the itching before sleep",
+          "Keep the nails filed short and use cool compresses on itchy areas",
+          "Dress the child in a soft wool sweater to keep the skin warm and covered",
+          "Apply the moisturizer only on days the skin is visibly red or flaring"
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—lukewarm baths and patting dry protect the leaky skin barrier.",
+          "Correct—daily fragrance-free moisturizing, even when clear, rebuilds the barrier.",
+          "Incorrect—heat is a listed trigger; baths should be lukewarm.",
+          "Correct—filed nails and cool compresses protect the skin and interrupt the itch-scratch cycle.",
+          "Incorrect—wool is a listed trigger and worsens itching.",
+          "Incorrect—\"treat only when it flares\" is the listed trap; moisturizing is daily maintenance."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse assesses a 4-year-old with atopic dermatitis at a follow-up visit. Which finding needs the most prompt follow-up?",
+        "options": [
+          "Dry, rough, scaly skin on the inner elbows that the caregiver moisturizes twice daily",
+          "Open, weeping areas with crusting where the child has been scratching behind the knees",
+          "Faint red papules on the wrists that the caregiver says are improving with the flare cream",
+          "Several thin scratch lines on the forearms that the child made during a recent flare"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Xerosis being managed with daily moisturizer is an expected eczema finding and shows the plan is being followed.",
+          "CJMM — Recognize cues: open, weeping, crusted skin in scratched areas. Analyze cues: scratching damages the skin, and open or weeping areas carry an infection risk (\"risk for infection\" is a nursing problem in eczema). Prioritize hypotheses: a break in skin integrity that may be infected outranks expected dryness and resolving papules. Take action: report for evaluation and reinforce skin protection to break the itch-scratch cycle.",
+          "Papules improving with the flare cream show the treatment is working; this is an evaluation finding, not an alarm.",
+          "Superficial scratch marks reflect the itch-scratch cycle and need skin protection, but they are less urgent than open, weeping areas with infection risk."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 3-year-old says that for about 2 months the child has refused to walk or has limped when getting out of bed, then plays normally by afternoon. The nurse finds the right knee swollen, warm, and with reduced range of motion. The child has had no falls or injuries. Which explanation fits best?",
+        "options": [
+          "Juvenile idiopathic arthritis, because stiffness after rest that eases with movement and a warm, swollen joint for over 6 weeks fit JIA",
+          "Overuse pain from active play, because the child's symptoms follow a busy day and settle with rest overnight",
+          "A sports-type injury to the knee, because swelling and limping in a toddler most likely mean a sprain from play",
+          "Normal stiffness after sleep, because many young children are slow to get moving for a few minutes each morning"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a toddler who limps or won't walk in the morning but is fine by afternoon, a swollen and warm joint with decreased ROM, lasting 2 months, with no trauma. Analyze cues: JIA is onset before 16 with arthritis lasting 6 or more weeks. The joint is stiff after rest, worst in the morning, and loosens with movement. Toddlers don't complain; they limp. Prioritize hypotheses: JIA, not an adult-style \"wear and tear\" or injury pattern.",
+          "Overuse pain would be worse at the end of the day. \"Pain worse at the end of the day = JIA\" is a listed trap, and this child is worst in the morning.",
+          "No injury occurred, and the problem has lasted 2 months. \"JIA = any joint pain after a sports injury\" is a listed trap.",
+          "Brief stiffness that is gone in a few minutes is normal. Two months of morning limping with a warm, swollen joint is not."
+        ]
+      },
+      {
+        "stem": "An 8-year-old with JIA is seen for a routine visit. The caregiver says, \"Her eyes are fine. She never complains about them, so we cancelled the eye appointment.\" What is the nurse's priority response?",
+        "options": [
+          "\"That makes sense. As long as she has no eye pain or redness, the eye exams can wait.\"",
+          "\"Please reschedule it. Eye inflammation can happen with JIA without symptoms, so regular eye exams are needed.\"",
+          "\"That's fine for now. Her joint medicines treat the whole immune system, so they protect her eyes too.\"",
+          "\"Let's check her vision with the wall chart today. If she can read it, she won't need the eye doctor.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "Waiting for pain or redness misses the point: uveitis in JIA is silent, so symptoms cannot be used as the trigger for an exam.",
+          "CJMM — Recognize cues: a child with JIA whose eye exams were cancelled because she has no symptoms. Analyze cues: uveitis (eye inflammation) can develop in JIA with NO symptoms. Prioritize hypotheses: undetected uveitis threatens vision. Take action: reinforce that regular eye exams are part of JIA care, whether or not symptoms are present, and help the family reschedule.",
+          "Assuming the joint medications protect the eyes is not a reason to skip screening. Regular eye exams remain part of the JIA plan.",
+          "A wall-chart acuity check is not an eye exam for uveitis. Silent inflammation can be present before acuity changes."
+        ]
+      },
+      {
+        "stem": "The nurse reviews the care plan with the caregiver of a 10-year-old with JIA. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"She'll do the exercises her physical therapist taught her to keep her joints moving.\"",
+          "\"A warm-up routine in the morning helps, and she can stand and stretch after sitting a long time.\"",
+          "\"We'll have her sit out of gym class and recess from now on so her joints don't wear out.\"",
+          "\"We'll keep her regular eye exams even though her eyes don't bother her.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Correct understanding. PT/OT and regular movement preserve joint function and range of motion.",
+          "Correct understanding. Stiffness follows mornings and long periods of sitting, so planning movement for those times helps.",
+          "CJMM — Analyze cues: JIA is an immune attack on the joint lining, not adult \"wear and tear\" arthritis. Generate solutions: nursing goals are to control symptoms, preserve joint function, support growth and development, and keep the child participating in school and activities, with movement, ROM, and PT/OT. Evaluate outcomes: removing all activity to keep the joints from \"wearing out\" applies an adult wear-and-tear idea and works against preserving function and participation, so this statement needs further teaching.",
+          "Correct understanding. Silent uveitis requires regular eye exams even without symptoms."
+        ]
+      }
+    ],
+    "peds2-wk7-cardiovascular": [
+      {
+        "stem": "A 6-week-old is brought to the clinic because the caregiver says the infant 'breathes fast and gets sweaty' during bottles and takes a long time to finish. The infant is pink, SpO2 is 97% on room air, the respiratory rate is 68, and the infant has gained little weight since birth. The nurse hears a harsh holosystolic murmur. Which defect best fits this presentation?",
+        "options": [
+          "Tetralogy of Fallot, with right-to-left shunting across the ventricular septal defect",
+          "Ventricular septal defect, with left-to-right shunting that floods the lungs",
+          "Coarctation of the aorta, with reduced blood flow past the narrowed segment",
+          "Transposition of the great arteries, with two parallel circulations that do not mix"
+        ],
+        "answer": 1,
+        "explanations": [
+          "TOF is a cyanotic defect. Pulmonary stenosis limits lung flow and blood shunts right to left, so the infant would be blue with a low SpO2, not pink at 97%.",
+          "CJMM — Recognize cues: sweating, tachypnea, and slow feeding during bottles; poor weight gain; a pink infant with a normal SpO2; a harsh holosystolic murmur. Analyze cues: apply the three questions. Blood reaches the body and oxygenated blood ends up where it should (pink, SpO2 97%), but the lungs are getting too much blood. That is a left-to-right shunt. For infants, feeding is exercise, so sweating and tachypnea with feeds are heart-failure signs from increased pulmonary blood flow. Prioritize hypotheses: a large VSD is the most common congenital heart defect, and its hallmark is a harsh holosystolic murmur plus HF signs with feeds.",
+          "Coarctation is an obstructive defect. Its hallmark is a difference between arms and legs (higher arm BP, weak femoral pulses), which this stem does not describe.",
+          "TGA causes severe cyanosis right after birth because blue blood circulates back to the body. A pink 6-week-old with an SpO2 of 97% does not fit."
+        ]
+      },
+      {
+        "stem": "A 3-day-old who was discharged home yesterday is brought to the emergency department because the caregiver noticed the newborn's lips and tongue turning blue. SpO2 is 68% and does not improve after 10 minutes of 100% oxygen. An echocardiogram is pending. Which prescription should the nurse anticipate as the priority?",
+        "options": [
+          "Continue 100% oxygen by mask and recheck SpO2 every 15 minutes until it rises",
+          "IV indomethacin to promote closure of the ductus arteriosus",
+          "Prostaglandin E1 (PGE1) infusion to reopen and maintain the ductus arteriosus",
+          "Oral digoxin to strengthen contractility and improve cardiac output"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Oxygen alone is the classic mistake here. The problem is not the lungs but the lack of blood flow to them, which is why SpO2 has not risen. Continuing to wait delays the drug that restores flow.",
+          "Indomethacin is used to close a PDA in preterm infants. Closing the ductus in a ductal-dependent newborn would remove the only route for blood flow and could be fatal.",
+          "CJMM — Recognize cues: a newborn who looked well for the first 48–72 hours, went home, and is now centrally cyanotic with an SpO2 of 68% that does not respond to oxygen. Analyze cues: the ductus arteriosus constricts after birth as O2 rises and prostaglandins fall. A ductal-dependent defect (such as TOF with severe pulmonary stenosis, tricuspid atresia, or TGA) looks fine until the ductus closes, then the infant crashes. The lungs are not the problem; blood is not getting to them. Prioritize hypotheses: ductal-dependent congenital heart disease. Take action: PGE1 keeps the ductus open and restores flow while the definitive fix (for example, a BT shunt or surgery) is planned. Evaluate outcomes: SpO2 rises; watch for apnea, a side effect of PGE1.",
+          "Digoxin treats heart failure by slowing the HR and improving output. It does not reopen the ductus or fix a ductal-dependent flow problem, so it is the wrong solution for this cue."
+        ]
+      },
+      {
+        "stem": "A parent of a 2-day-old says, 'The pediatrician said my baby had an opening between the top chambers of the heart before birth that should close on its own. Why would it close?' Which response by the nurse is most accurate?",
+        "options": [
+          "\"When your baby started breathing, pressure in the left side of the heart rose above the right, which pushes the flap closed.\"",
+          "\"When your baby started breathing, the oxygen level inside the heart's top chambers dropped, which signals the flap to close.\"",
+          "\"After delivery your baby's prostaglandin level rose, and prostaglandins cause that opening to tighten and close.\"",
+          "\"After delivery the pressure in the right side of the heart rose above the left, which pushes the flap shut.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: the parent is describing the foramen ovale, the fetal flap between the right and left atria. Analyze cues: at birth the lungs expand, so pulmonary resistance drops; the placenta is removed, so systemic resistance rises. Left atrial pressure now exceeds right atrial pressure and pushes the flap closed. Generate solutions/Take action: give the parent the pressure-based explanation in plain language. 'Blood is lazy' and follows pressure, which is also why later defects shunt left to right.",
+          "This is the guide's trap answer. The foramen ovale closes because of a pressure change (left atrial pressure greater than right), not because atrial oxygen levels drop.",
+          "This confuses the foramen ovale with the ductus arteriosus and reverses the drug effect. Falling prostaglandins and rising O2 constrict the ductus; prostaglandins keep the ductus open.",
+          "This reverses the pressures. After birth the right side becomes the low-pressure side. If right pressure exceeded left, blood would cross right to left, which is the cyanotic pattern."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing the charts of infants on a pediatric cardiac unit. Using the question 'Is blood getting to the lungs?', the nurse identifies which defects as causing INCREASED pulmonary blood flow? Select all that apply.",
+        "options": [
+          "Ventricular septal defect",
+          "Tetralogy of Fallot",
+          "Patent ductus arteriosus",
+          "Tricuspid atresia",
+          "Truncus arteriosus",
+          "Coarctation of the aorta"
+        ],
+        "answer": [
+          0,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—a VSD shunts left to right at the ventricular level, so oxygenated blood recirculates to the lungs and causes HF signs.",
+          "Incorrect—in TOF, pulmonary stenosis limits flow to the lungs and blood shunts right to left across the VSD. That is DECREASED pulmonary flow.",
+          "Correct—after birth, a PDA carries blood from the aorta to the pulmonary artery, which adds to pulmonary blood flow.",
+          "Incorrect—with no tricuspid valve, blood cannot go RA→RV, so the lungs receive too little blood unless a VSD or PDA supplies them.",
+          "Correct—truncus is the defect with cyanosis plus HF signs. The single vessel sends mixed blood out, and too much of it goes to the lungs.",
+          "Incorrect—coarctation obstructs outflow to the lower body. Lung flow is not the problem; the legs receive less blood."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A newborn nursery nurse is reviewing which congenital heart defects are expected to cause central cyanosis because deoxygenated blood reaches the systemic circulation. Which defects should the nurse identify? Select all that apply.",
+        "options": [
+          "Transposition of the great arteries",
+          "Atrial septal defect",
+          "Hypoplastic left heart syndrome",
+          "Coarctation of the aorta",
+          "Tricuspid atresia",
+          "Patent ductus arteriosus"
+        ],
+        "answer": [
+          0,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—in TGA the aorta arises from the right ventricle, so blue blood returns to the body. That produces severe cyanosis right after birth.",
+          "Incorrect—an ASD shunts left to right at the atrial level. The child is pink and often asymptomatic.",
+          "Correct—in HLHS systemic flow depends on the PDA and blood is mixed, so the infant is cyanotic.",
+          "Incorrect—coarctation is an obstructive, acyanotic defect. The child is pink, and the cue is arms versus legs.",
+          "Correct—with no tricuspid valve, too little blood reaches the lungs and mixed blood crosses the ASD to the left side and out to the body.",
+          "Incorrect—a PDA shunts aorta→pulmonary artery (left to right). The infant is pink, with bounding pulses and a machinery murmur."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 5-month-old with a large unrepaired ventricular septal defect is admitted for a respiratory infection. The infant is pink with an SpO2 of 96%. When planning care, which hypothesis about the infant's cardiac status should guide the nurse's ongoing assessments?",
+        "options": [
+          "Deoxygenated blood is bypassing the lungs, so the nurse should watch mainly for worsening cyanosis and hypercyanotic spells",
+          "Outflow from the left ventricle is narrowed, so the nurse should compare upper and lower extremity pulses and BPs each shift",
+          "Oxygenated blood is recirculating to the lungs, so the nurse should watch mainly for signs of heart failure during feeds and care",
+          "Blood flow depends on the ductus arteriosus, so the nurse should watch mainly for sudden collapse if the ductus closes"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This describes the cyanotic pattern (right-to-left shunting, main risk hypoxemia) and tet spells, which belong to TOF. A pink infant with a VSD has the opposite flow problem.",
+          "Comparing arm and leg pulses and BPs is the key assessment for coarctation, an obstructive defect. It does not target the main risk of a VSD.",
+          "CJMM — Analyze cues: a large VSD is an acyanotic defect with a left-to-right shunt. Oxygenated blood goes 'somewhere extra' (back to the lungs) while the body still gets red blood, so the infant stays pink. Prioritize hypotheses: the main risk of acyanotic defects is heart failure from excess pulmonary blood flow, not hypoxemia. Generate solutions: focus assessment on HR, RR, retractions, sweating or tiring with feeds, weight, hepatomegaly, and periorbital edema, especially now that an infection adds metabolic demand.",
+          "Ductal dependence applies to defects such as TGA, tricuspid atresia, HLHS, and severe TOF. A 5-month-old with a VSD does not rely on the ductus for lung or body flow."
+        ]
+      },
+      {
+        "stem": "A neonate born at 28 weeks' gestation is now 5 days old and has a continuous 'machinery-like' murmur, bounding peripheral pulses, and a wide pulse pressure. An echocardiogram confirms a patent ductus arteriosus. Which prescription should the nurse question?",
+        "options": [
+          "Obtain daily weights and strict intake and output",
+          "Prostaglandin E1 continuous IV infusion",
+          "IV ibuprofen as scheduled for ductal closure",
+          "Repeat echocardiogram after the medication course"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Daily weights and strict I&O are appropriate. A PDA floods the lungs and can lead to HF and fluid retention, so these track fluid status.",
+          "CJMM — Recognize cues: a preterm neonate with the classic PDA triad of a continuous machinery murmur, bounding pulses, and a wide pulse pressure. Analyze cues: here the goal is to CLOSE the ductus, which in preterm infants is done with medication (background: indomethacin or ibuprofen). Take action: question PGE1. Prostaglandin keeps a ductus OPEN, so it is used only for ductal-dependent defects and would worsen this infant's left-to-right shunt and pulmonary overcirculation. 'Give prostaglandin to close a PDA' is the guide's trap.",
+          "Medication to close the ductus is the expected first-line treatment for a PDA in a preterm infant, so this order is appropriate.",
+          "A follow-up echocardiogram is the appropriate way to evaluate outcomes and see whether the ductus closed after treatment."
+        ]
+      },
+      {
+        "stem": "A 7-week-old has tachypnea, poor feeding, and poor weight gain. The provider is trying to decide between a patent ductus arteriosus and a ventricular septal defect. Which additional finding most supports a PDA rather than a VSD?",
+        "options": [
+          "Sweating on the forehead during feeds",
+          "A harsh holosystolic murmur at the left sternal border",
+          "Bounding pulses with a wide pulse pressure",
+          "Respiratory rate that rises with each feeding"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Sweating with feeds is an HF sign that occurs with any large left-to-right shunt, including both VSD and PDA, so it does not tell them apart.",
+          "A harsh holosystolic murmur is the VSD hallmark. Calling it a PDA finding is the guide's trap; a PDA has a continuous machinery-like murmur.",
+          "CJMM — Recognize cues: both PDA and a large VSD are left-to-right shunts that cause HF signs (tachypnea, poor feeding, poor weight gain), so those findings do not tell them apart. Analyze cues: in a PDA, blood runs off from the aorta into the pulmonary artery during both systole and diastole. Diastolic pressure drops, which produces bounding pulses and a wide pulse pressure along with a continuous machinery-like murmur. Prioritize hypotheses: bounding pulses with a wide pulse pressure point to PDA.",
+          "Tachypnea that worsens with feeds reflects pulmonary overcirculation and HF in both defects. It is not specific to a PDA."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching the caregivers of a 3-year-old who has a small atrial septal defect and no symptoms. Which statement by a caregiver indicates a need for further teaching?",
+        "options": [
+          "\"Blood moves from the left side to the right through the hole because the left side has higher pressure.\"",
+          "\"If the hole stays large as she grows, it may be closed with a device placed through a catheter.\"",
+          "\"Small holes like hers sometimes close on their own, so the doctor will keep checking it.\"",
+          "\"Because the hole is between the top chambers, we should expect her lips to turn blue when she plays.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is accurate. Left-sided pressure is higher after birth, so blood takes the path of least resistance from left to right.",
+          "This is accurate. A larger ASD that does not close is treated with a catheter device or surgical closure.",
+          "This is accurate. A small ASD may close on its own, so it is monitored.",
+          "CJMM — Evaluate outcomes: the caregiver expects cyanosis with play, which shows they do not understand the defect. An ASD is an acyanotic left-to-right shunt at the atrial level. Oxygenated blood goes back to the lungs while the body still receives red blood, so the child stays pink. Small ASDs are often asymptomatic in childhood. Generate solutions: re-teach that blue lips would be a new, concerning finding to report, not something to expect."
+        ]
+      },
+      {
+        "stem": "During a well-child visit, the nurse notes that a 4-year-old has strong radial pulses but faint, delayed femoral pulses, and the child's feet feel cool. Which assessment should the nurse perform next?",
+        "options": [
+          "Measure blood pressure in an arm and a leg and compare the readings",
+          "Place a pulse oximeter on a finger and a toe and compare the readings",
+          "Auscultate for a continuous machinery murmur under the left clavicle",
+          "Inspect the eyelids and palpate the liver edge for signs of fluid overload"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: strong arm pulses, weak and delayed femoral pulses, and cool feet. Analyze cues: a difference between upper- and lower-extremity perfusion should bring coarctation of the aorta to mind. The aorta is narrowed like a kinked garden hose; the arm arteries branch off before the narrowing (high pressure) and the legs get less after it (low pressure). Generate solutions/Take action: always compare upper- and lower-extremity pulses AND BPs. A higher arm BP than leg BP confirms the pattern and should be reported.",
+          "Comparing SpO2 at a finger and a toe screens for other shunt patterns. Coarctation is acyanotic, and the defining finding is the arm–leg BP and pulse difference, so this does not test the leading hypothesis.",
+          "A continuous machinery murmur is the PDA hallmark. PDA causes bounding pulses, the opposite of the weak femoral pulses found here.",
+          "Periorbital edema and hepatomegaly are infant HF signs. Checking them may be appropriate later, but it does not confirm the obstruction these cues point to."
+        ]
+      },
+      {
+        "stem": "Two children are being evaluated for left-sided obstructive heart defects. One has coarctation of the aorta and the other has aortic stenosis. Which finding is most specific to coarctation?",
+        "options": [
+          "Left ventricular hypertrophy seen on the echocardiogram",
+          "Arm blood pressure markedly higher than leg blood pressure",
+          "Exercise intolerance during recess and physical education",
+          "Signs of heart failure that develop over time if untreated"
+        ],
+        "answer": 1,
+        "explanations": [
+          "LV hypertrophy happens in both defects, because the left ventricle pumps against a narrowing in each.",
+          "CJMM — Analyze cues: coarctation and aortic stenosis both make the LEFT ventricle work harder, which leads to hypertrophy and eventually HF. Both can also limit exercise tolerance. Prioritize hypotheses: only coarctation narrows the aorta after the arm arteries branch off, so arm BP is higher than leg BP, with weak femoral pulses and cool legs. Any stem with 'BP higher in arms' or 'weak femoral pulses' means coarctation.",
+          "Exercise intolerance is a key finding in older children with aortic stenosis and can occur with coarctation. It does not tell them apart.",
+          "Heart failure is the eventual result of any obstruction that makes a ventricle work harder, so it is not specific to coarctation."
+        ]
+      },
+      {
+        "stem": "A 12-year-old collapses briefly during soccer practice and reports chest pain and dizziness before fainting. Arm and leg blood pressures are similar, femoral pulses are strong, and the child is pink. Which cardiac condition is most consistent with these findings?",
+        "options": [
+          "Coarctation of the aorta",
+          "Pulmonary stenosis",
+          "Atrial septal defect",
+          "Aortic stenosis"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Coarctation would produce a higher BP in the arms than the legs, with weak femoral pulses. This child's equal pressures and strong femoral pulses argue against it.",
+          "Pulmonary stenosis strains the RIGHT ventricle. Mild PS causes only a murmur; severe PS causes right-sided HF or cyanosis rather than LV-output symptoms like syncope with chest pain.",
+          "An ASD is often asymptomatic in childhood and does not typically cause exertional syncope with chest pain.",
+          "CJMM — Recognize cues: an older child with exertional chest pain, dizziness, and fainting; arm and leg BPs are equal; strong femoral pulses; pink. Analyze cues: in aortic stenosis the left ventricle pumps against a narrowed aortic valve, which leads to LVH and reduced cardiac output. Older children present with exercise intolerance, chest pain, and dizziness or fainting; infants present with weak pulses, poor feeding, and HF. Prioritize hypotheses: equal arm and leg pressures rule against coarctation, which makes aortic stenosis the best fit."
+        ]
+      },
+      {
+        "stem": "A 6-year-old has severe pulmonary stenosis and is scheduled for balloon valvuloplasty. When assessing the child, which finding should the nurse recognize as consistent with this defect's effect on the heart?",
+        "options": [
+          "Hepatomegaly and edema from right ventricular strain",
+          "Crackles in the lungs from left ventricular strain",
+          "Bounding pulses with a widened pulse pressure",
+          "Higher blood pressure in the arms than the legs"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: whichever ventricle pumps against a narrowing works harder, hypertrophies, and eventually fails. Pulmonary stenosis narrows the pulmonary valve, so the RIGHT ventricle hypertrophies (RVH) and blood backs up into the systemic veins, causing right-sided HF with edema and hepatomegaly. Severe PS can also cause exercise intolerance or cyanosis; mild PS causes only a murmur. Take action: assess for right-sided HF while the child awaits valvuloplasty.",
+          "Linking pulmonary stenosis to left ventricular strain is the guide's trap. The left ventricle is strained by aortic stenosis and coarctation, not PS.",
+          "Bounding pulses with a wide pulse pressure are the PDA pattern, caused by aortic runoff into the pulmonary artery, not by an obstructed pulmonary valve.",
+          "A higher arm BP than leg BP is the coarctation hallmark. PS does not create an arm–leg difference."
+        ]
+      },
+      {
+        "stem": "A 2-year-old had balloon angioplasty for coarctation of the aorta. Which finding the next morning best indicates the procedure achieved its goal?",
+        "options": [
+          "Arm blood pressure remains higher than leg pressure, but the child is eating well",
+          "Radial pulses are bounding and the arm blood pressure has risen from baseline",
+          "Femoral pulses are now strong, and arm and leg blood pressures are similar",
+          "The child is pink with an SpO2 of 98% on room air at rest and with play"
+        ],
+        "answer": 2,
+        "explanations": [
+          "A persisting arm–leg gradient means the obstruction is still there. Eating well is reassuring but does not evaluate whether the narrowing was fixed.",
+          "Rising arm pressure and bounding upper pulses suggest more pressure before the narrowing, not relief of it. This would be a reason to report.",
+          "CJMM — Evaluate outcomes: coarctation is a 'kinked hose', with high pressure before the narrowing (arms) and low pressure after it (legs, weak femorals, cool feet). Opening the narrowing should equalize flow, so the outcome to look for is strong femoral pulses and similar arm and leg BPs with warm feet. That is the 'normal/expected' row in the guide.",
+          "Coarctation is acyanotic, so the child was pink with a normal SpO2 before the procedure. SpO2 cannot show whether the obstruction was relieved."
+        ]
+      },
+      {
+        "stem": "A nurse is returning calls from caregivers of 3-month-olds. Which report is most suggestive of an underlying cardiac problem and needs follow-up first?",
+        "options": [
+          "\"He sweats on his back when I bundle him in two blankets for his nap.\"",
+          "\"Her forehead gets sweaty and she has to stop to breathe several times during each bottle.\"",
+          "\"He spits up a small amount after most feeds but is gaining weight on his growth chart.\"",
+          "\"Her hands and feet look a little bluish when she first wakes up, but her lips stay pink.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "Sweating when overbundled has an environmental explanation. 'Sweaty because the room is warm' is the trap only when the sweating happens with feeds.",
+          "CJMM — Recognize cues: sweating and pausing to breathe during every feed. Analyze cues: feeding is the hardest work an infant does, so feeding is the infant's exercise test. Where adults report breathlessness on stairs, infants show cardiac exercise intolerance as sweating, tiring, and tachypnea with feeds. Prioritize hypotheses: this pattern suggests heart failure from congenital heart disease and needs prompt evaluation.",
+          "Small spit-ups with normal weight gain are common and reassuring. Poor weight gain would be the cardiac cue.",
+          "Bluish hands and feet with pink lips is peripheral, not central, cyanosis. Cyanotic heart disease is judged at central sites (lips, tongue, mucous membranes) with pulse oximetry, so blue hands and feet alone are the trap."
+        ]
+      },
+      {
+        "stem": "A newborn is severely cyanotic within an hour of birth, with an SpO2 of 62% that does not improve with oxygen. The echocardiogram shows the aorta arising from the right ventricle and the pulmonary artery from the left ventricle. Which conclusion should guide the team's immediate plan?",
+        "options": [
+          "Pulmonary stenosis is limiting lung flow, so blood must be redirected to the lungs with a shunt",
+          "Too much blood is recirculating to the lungs, so the priority is diuresis and heart failure care",
+          "The aorta is narrowed past the arm vessels, so lower-body perfusion must be restored first",
+          "The two circulations run in parallel, so survival depends on keeping a route open for mixing"
+        ],
+        "answer": 3,
+        "explanations": [
+          "This describes the TOF flow problem. TOF also causes cyanosis, but this echo shows swapped great arteries, not pulmonary stenosis with an overriding aorta.",
+          "This describes acyanotic left-to-right shunts such as VSD or PDA, whose main risk is heart failure. This infant's problem is severe hypoxemia.",
+          "This describes coarctation, an acyanotic obstructive defect with an arm–leg difference, not profound cyanosis at birth.",
+          "CJMM — Recognize cues: severe cyanosis right after birth, no response to oxygen, aorta from the RV and pulmonary artery from the LV. Analyze cues: this is TGA. Blue blood goes body→RA→RV→aorta→body and never visits the lungs, while red blood goes lungs→LA→LV→pulmonary artery→lungs, so there are two parallel circuits. Prioritize hypotheses: the infant survives only if blood mixes through a PDA, ASD/foramen ovale, or VSD. Generate solutions: PGE1 to keep the ductus open, balloon atrial septostomy to enlarge the atrial opening, then arterial switch surgery in the first weeks."
+        ]
+      },
+      {
+        "stem": "A 2-week-old has a low SpO2 and visible central cyanosis. The infant also has tachypnea, sweating during feeds, poor weight gain, and a liver edge palpable 3 cm below the costal margin. The echocardiogram shows a single great vessel arising over a large VSD. Which defect does this represent?",
+        "options": [
+          "Tetralogy of Fallot",
+          "Tricuspid atresia",
+          "Truncus arteriosus",
+          "Transposition of the great arteries"
+        ],
+        "answer": 2,
+        "explanations": [
+          "TOF is cyanotic, but pulmonary stenosis limits lung flow, so heart-failure signs from pulmonary overcirculation are not its pattern. TOF also has two great vessels with an overriding aorta.",
+          "Tricuspid atresia means no tricuspid valve and too little blood to the lungs. 'Truncus = no tricuspid valve' is the guide's trap.",
+          "CJMM — Recognize cues: central cyanosis together with heart-failure signs (tachypnea, sweaty feeds, poor weight gain, hepatomegaly), and one great vessel over a large VSD. Analyze cues: in truncus arteriosus, a single vessel leaves the heart instead of an aorta plus a pulmonary artery. Blood mixes, causing cyanosis, AND too much of it goes to the lungs, causing heart failure. Prioritize hypotheses: 'cyanosis plus HF signs' with one great vessel is the hallmark of truncus.",
+          "TGA has two great vessels that are swapped, not a single vessel, and it presents as severe cyanosis from parallel circuits."
+        ]
+      },
+      {
+        "stem": "A 14-month-old with unrepaired tetralogy of Fallot begins crying hard after a blood draw. Within a minute the toddler is deeply cyanotic, breathing rapidly and deeply, and very irritable. SpO2 drops from a baseline of 84% to 62%. What should the nurse do first?",
+        "options": [
+          "Apply 100% oxygen by face mask and increase the flow until the SpO2 rises",
+          "Prepare the prescribed IV morphine to reduce agitation and hyperpnea",
+          "Lay the toddler flat on the back and elevate the legs to improve venous return",
+          "Place the toddler in a knee-chest position, holding the knees up to the chest"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Oxygen is step 3. It comforts the child but is unlikely to fix a shunt problem on its own, because the lungs are not the issue; blood is not reaching them. It is the right action at the wrong priority.",
+          "Morphine is step 4 and is given as ordered after positioning, calming, and oxygen. Preparing it first delays the immediate mechanical fix.",
+          "Laying a hypoxic TOF child flat is the guide's trap answer. It does not raise SVR, so right-to-left shunting continues; this is an adult-style response.",
+          "CJMM — Recognize cues: a known TOF child with a trigger (crying), sudden severe cyanosis, hyperpnea, irritability, and a sharp SpO2 drop. Analyze cues: this is a tet (hypercyanotic) spell. Crying lowers systemic vascular resistance and raises O2 demand, so even more blood shunts right to left across the VSD (blood is lazy and the body side is now easier), which starts a spiral of hypoxemia. Take action: knee-chest positioning comes FIRST. It kinks the large leg arteries, raises SVR, and pushes blood back through the lungs. The guide's order is (1) knee-chest, (2) calm/comfort with a parent holding, (3) 100% O2, (4) morphine, (5) IV fluids, (6) notify. Evaluate outcomes: color pinks up, SpO2 rises, breathing slows."
+        ]
+      },
+      {
+        "stem": "The nurse has placed a 10-month-old with tetralogy of Fallot in the knee-chest position during a hypercyanotic spell. The infant is still crying and dusky. Which action should the nurse take next?",
+        "options": [
+          "Have the caregiver hold the infant in the knee-chest position and soothe them",
+          "Start the prescribed IV fluid bolus to treat possible dehydration",
+          "Call the provider to report a prolonged spell and request evaluation",
+          "Give the prescribed IV morphine to slow the infant's breathing"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Generate solutions/Take action: after knee-chest positioning, step 2 is calm and comfort, ideally with a parent holding the infant. Crying lowers SVR and raises O2 demand, which keeps the right-to-left shunt going, so reducing distress directly treats the spell's mechanism. Oxygen, morphine, IV fluids, and notification then follow in order. Evaluate outcomes: the infant settles, color improves, hyperpnea resolves.",
+          "IV fluids support preload and treat dehydration, which can trigger spells, but they are step 5. This is right action, wrong priority.",
+          "Notification is step 6. Prolonged or repeated spells may mean urgent surgery is needed, but bedside measures to stop the spell come first.",
+          "Morphine is step 4, given as ordered after calming and oxygen. Giving it before soothing skips a faster, nonpharmacologic step."
+        ]
+      },
+      {
+        "stem": "Ten minutes after interventions for a tet spell in an 18-month-old with tetralogy of Fallot, which finding best indicates that the spell is resolving?",
+        "options": [
+          "The toddler has stopped crying and is now limp and hard to rouse, with an SpO2 of 64%",
+          "The toddler's nail beds look pinker, but respirations remain deep at 64/min and SpO2 is unchanged",
+          "Respirations have slowed from 66 to 38/min, SpO2 has risen from 61% to 82%, and the toddler is calm",
+          "Respirations have increased to 72/min as the toddler works harder to bring in more oxygen"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Quiet does not mean better. A toddler who becomes limp and hard to rouse while SpO2 stays low is getting worse from severe hypoxemia, which requires escalation.",
+          "Nail beds are a peripheral site. Persistent hyperpnea and an unchanged SpO2 show the shunting has not improved, so this is a misleading cue.",
+          "CJMM — Evaluate outcomes: a resolving spell looks like color pinking up, SpO2 climbing back toward the child's baseline, breathing slowing as the hyperpnea resolves, and the child calming. This option shows all of them. If spells are repeated or prolonged, the nurse still notifies the provider, because surgery may be needed.",
+          "Worsening hyperpnea is part of the spell spiral, not compensation that signals recovery. This shows the spell is progressing."
+        ]
+      },
+      {
+        "stem": "The nurse is reviewing home care with the caregivers of a 3-year-old with tetralogy of Fallot who is awaiting surgery. Which caregiver statement indicates a need for further teaching?",
+        "options": [
+          "\"If she has a long spell or they start happening more often, we will call the cardiologist right away.\"",
+          "\"When she crouches down in the yard after running, I'll help her stand back up so her legs don't get stiff.\"",
+          "\"If she suddenly turns very blue and breathes hard, I'll bring her knees to her chest and keep her calm.\"",
+          "\"We'll offer extra fluids when she has a stomach bug, since getting dried out can bring on a spell.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. Prolonged or repeated spells need the provider, because the child may need urgent surgery.",
+          "CJMM — Evaluate outcomes: squatting is the toddler's own treatment for hypoxemia. Squatting kinks the large leg arteries and raises SVR, which sends more blood back through the lungs. A caregiver who stops the child from squatting removes that protective response. Generate solutions: re-teach to let the child squat and never pull them out of it.",
+          "This is correct. Knees to chest (or squatting) is the first action during a spell, and keeping the child calm is the next step.",
+          "This is correct. Dehydration is a known spell trigger, so keeping the child hydrated during illness is appropriate."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 4-year-old with unrepaired tetralogy of Fallot asks why their child always squats after playing. Which explanation by the nurse is most accurate?",
+        "options": [
+          "\"Squatting lowers the blood pressure in the body so the heart can rest and recover after exertion.\"",
+          "\"Squatting slows the return of blood from the legs, which lets the heart fill less and work less.\"",
+          "\"Squatting raises resistance in the body's arteries, so more blood is pushed to the lungs for oxygen.\"",
+          "\"Squatting opens the blood vessels in the lungs wider, so the lungs can absorb oxygen faster.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is the guide's trap answer. Squatting RAISES systemic resistance rather than lowering blood pressure to rest the heart.",
+          "The benefit of squatting comes from increased systemic resistance redirecting blood to the lungs, not from reducing the heart's filling.",
+          "CJMM — Analyze cues: in TOF, pulmonary stenosis raises right-sided pressure, so blood shunts right to left across the VSD and the child is hypoxemic. Exertion lowers SVR and makes the shunt worse. Generate solutions: squatting kinks the big leg arteries and raises SVR, so the body side becomes 'harder' and blood goes back through the lungs, improving oxygenation. Teaching the mechanism helps caregivers see why they should let the child squat.",
+          "Squatting acts on systemic resistance, not on the lung vessels. The blockage in TOF is at the pulmonary valve, which positioning does not open."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching the caregivers of a 9-month-old with tetralogy of Fallot how to recognize situations that can trigger a hypercyanotic spell. Which situations should the nurse include? Select all that apply.",
+        "options": [
+          "A long period of hard crying",
+          "Straining during a bowel movement",
+          "Waking up from a nap",
+          "A deep, quiet sleep",
+          "Several days of vomiting and diarrhea",
+          "Being held with the knees folded to the chest"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "explanations": [
+          "Correct—crying lowers SVR and raises O2 demand, the classic trigger.",
+          "Correct—defecation (straining with a bowel movement) is a listed trigger.",
+          "Correct—waking is a listed trigger, so caregivers should watch the infant closely after naps.",
+          "Incorrect—deep sleep lowers oxygen demand and is not a listed trigger. Waking from sleep is the trigger.",
+          "Correct—dehydration from vomiting and diarrhea is a listed trigger, which is why fluids matter during illness.",
+          "Incorrect—knees to chest is the infant version of squatting and treats a spell by raising SVR."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse is caring for a 3-year-old with unrepaired tetralogy of Fallot. Which finding requires the nurse's immediate follow-up?",
+        "options": [
+          "Clubbing of the fingertips with a nail-bed angle of about 180 degrees",
+          "A hematocrit above the normal range on this morning's laboratory results",
+          "A resting SpO2 of 84%, the same as the value documented at the last visit",
+          "Sudden deeper cyanosis with fast, deep breathing and irritability at lunch"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Clubbing reflects chronic low O2 in an unrepaired cyanotic defect. It is expected and documented, not acute.",
+          "Polycythemia is the body making extra RBCs to carry more O2, an expected compensation in TOF. It needs monitoring but is not the acute priority.",
+          "A low SpO2 that matches the child's baseline is expected in cyanotic disease. The change from baseline is what matters, and here there is none.",
+          "CJMM — Recognize cues: four TOF findings, three chronic and one acute. Analyze cues: clubbing, polycythemia, and a stable low baseline SpO2 are expected in long-standing hypoxemia; the body has adapted to a low pulse ox. Prioritize hypotheses: sudden worsening cyanosis with hyperpnea and irritability, triggered by feeding, is an acute tet spell, which can spiral into severe hypoxemia. Take action: knee-chest first, then calm, O2, morphine, fluids, and notify."
+        ]
+      },
+      {
+        "stem": "The caregivers of a 2-month-old newly diagnosed with tetralogy of Fallot ask why their baby's oxygen level runs in the low 80s. Which explanation by the nurse best describes the blood flow?",
+        "options": [
+          "\"A narrowed valve limits blood going to the lungs, so blue blood crosses the hole between the pumping chambers and goes out to the body.\"",
+          "\"A hole between the pumping chambers lets red blood flow back to the lungs, so the lungs get flooded and can't pick up oxygen.\"",
+          "\"The two main arteries are switched, so blue blood keeps circling back to the body without ever reaching the lungs.\"",
+          "\"The main artery to the body is pinched, so less red blood gets past the narrowing to reach the lower body.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: answer the three questions for TOF. Lungs: too little blood (pulmonary stenosis). Body: yes, but mixed. Oxygenated blood where it should be: no, so the baby is blue. PS limits lung flow, RV pressure rises, blood shunts right to left across the VSD, and the overriding aorta sends mixed blood to the body, which lowers SpO2. Take action: explain in plain language so caregivers understand why spells and squatting matter.",
+          "This describes a left-to-right VSD. The infant would be pink and at risk for HF, not hypoxemic. 'VSD shunts right to left from birth' is a guide trap.",
+          "This describes TGA's parallel circuits, a different cyanotic defect. TOF has normally connected great arteries with an overriding aorta.",
+          "This describes coarctation, an acyanotic obstructive defect, not a cause of a low SpO2."
+        ]
+      },
+      {
+        "stem": "A 1-day-old with hypoplastic left heart syndrome is receiving a continuous prostaglandin E1 (alprostadil) infusion while awaiting surgery. Which finding requires the nurse's immediate action?",
+        "options": [
+          "SpO2 of 80% on the pulse oximeter",
+          "Pauses in breathing lasting 20 seconds",
+          "Heart rate of 150 while the infant is awake",
+          "Mild acrocyanosis of the hands and feet"
+        ],
+        "answer": 1,
+        "explanations": [
+          "In HLHS blood is mixed, so an SpO2 around 80% is an expected finding, not a sign of failure. The change to act on here is the apnea.",
+          "CJMM — Recognize cues: a newborn on PGE1 with breathing pauses. Analyze cues: apnea is the key side effect of PGE1. In HLHS the PDA is essential for systemic blood flow, so the drug cannot simply be stopped, and the airway must be supported. Prioritize hypotheses: apnea is an immediate threat to oxygenation. Take action: stimulate and support breathing (airway and respiratory support should already be ready), notify the provider, and keep the ductus open; never let it close in a ductal-dependent baby.",
+          "An HR of 150 in an awake newborn is within the expected newborn range and is not the urgent cue.",
+          "Acrocyanosis is peripheral cyanosis, common in newborns, and less urgent than apnea."
+        ]
+      },
+      {
+        "stem": "A 2-day-old with hypoplastic left heart syndrome is on a prostaglandin E1 infusion. The nurse finds the peripheral IV infiltrated and the infusion stopped for an unknown length of time. SpO2 is 78% and the infant's pulses feel slightly weaker. What should the nurse do first?",
+        "options": [
+          "Increase oxygen to 100% by hood and recheck SpO2 and pulses in 15 minutes",
+          "Elevate the extremity, apply a warm compress, and document the infiltration",
+          "Report the infiltration to the provider during the next scheduled rounds",
+          "Establish new IV access and resume the PGE1 infusion, notifying the provider"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Oxygen does not keep the ductus open; rising O2 actually helps it constrict. Waiting 15 minutes while the ductus closes risks collapse.",
+          "Caring for the infiltrated site is appropriate, but it is not the priority while the infant's systemic flow depends on the stopped drug.",
+          "Delaying the report misses a time-critical threat. Weakening pulses mean systemic flow may already be falling.",
+          "CJMM — Recognize cues: the PGE1 infusion has been interrupted in a ductal-dependent newborn, and pulses are weakening. Analyze cues: in HLHS the PDA is the only route for systemic blood flow. PGE1 keeps it open, and if the ductus closes the result is cardiovascular collapse. Prioritize hypotheses: the ductus may be starting to constrict. Take action: restore the infusion right away through new access and notify the provider. Evaluate outcomes: pulses and perfusion should return to baseline; watch for apnea once the infusion restarts."
+        ]
+      },
+      {
+        "stem": "A 6-hour-old newborn is diagnosed with transposition of the great arteries and an intact ventricular septum. SpO2 is 65%. Which prescription should the nurse question?",
+        "options": [
+          "Begin a prostaglandin E1 infusion and have respiratory support at the bedside",
+          "IV indomethacin to promote closure of the ductus arteriosus",
+          "Prepare the infant for a balloon atrial septostomy",
+          "Continuous cardiorespiratory and pulse oximetry monitoring"
+        ],
+        "answer": 1,
+        "explanations": [
+          "PGE1 keeps the ductus open for mixing, and having respiratory support ready addresses its apnea risk. This order is appropriate.",
+          "CJMM — Analyze cues: in TGA the two circulations run in parallel, so survival requires mixing through a PDA, ASD/foramen ovale, or VSD. With an intact septum, the ductus and the atrial opening are the only routes. Take action: question indomethacin. Closing the PDA would remove a mixing route and could cause profound hypoxemia. 'Give oxygen and close the PDA in TGA' is the guide's trap. The right plan is PGE1, then septostomy, then arterial switch.",
+          "Balloon atrial septostomy enlarges the atrial opening to improve mixing. This order is appropriate.",
+          "Continuous monitoring is expected for a cyanotic newborn on PGE1, which can cause apnea. This order is appropriate."
+        ]
+      },
+      {
+        "stem": "A 4-month-old with a large ventricular septal defect is admitted for poor feeding. Which assessment finding best indicates worsening heart failure in this infant?",
+        "options": [
+          "New 2+ pitting edema of both ankles and the tops of both feet",
+          "Caregiver report that the infant seems short of breath with exertion",
+          "Puffy eyelids and a liver edge now 3 cm below the costal margin",
+          "Bluish hands and feet when the temperature in the room is cool"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Ankle or leg edema is the classic adult HF sign. In babies, edema shows up around the eyes rather than the legs, so an answer with 'ankle edema' for an infant is likely the trap.",
+          "Exertional shortness of breath is an adult-style complaint. An infant shows exercise intolerance as sweating, tiring, and tachypnea during feeds.",
+          "CJMM — Recognize cues: periorbital edema plus a newly enlarged liver. Analyze cues: pediatric HF looks different from adult HF. In infants, fluid backs up into the liver (hepatomegaly) and the soft tissue around the eyes rather than the legs, along with sweating with feeds, tachypnea, tachycardia, and poor weight gain. Prioritize hypotheses: a growing liver edge and puffy eyes mean fluid overload is worsening. Take action: report the change and anticipate diuretics and fluid management.",
+          "Bluish hands and feet in a cool room are peripheral and nonspecific. They do not indicate worsening HF and are not a central cyanosis finding."
+        ]
+      },
+      {
+        "stem": "A 2-month-old with heart failure from a large VSD takes about 50 minutes to finish each bottle and becomes sweaty and tachypneic partway through. Which nursing action is most appropriate?",
+        "options": [
+          "Continue offering the bottle until the infant finishes the full prescribed volume",
+          "Space feedings farther apart so the infant is hungrier and feeds more vigorously",
+          "Offer small sips of water between feeds to keep the infant well hydrated",
+          "Limit feeding time and give the remaining volume by NG tube as prescribed"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Making the infant work until the bottle is empty prolongs the exertion that is causing the HF signs and wastes calories.",
+          "Infants with HF need small, frequent feeds. Larger, less frequent feeds increase the work per feed.",
+          "Water adds volume without calories. These infants need more calories in less volume, such as high-calorie formula or fortified breast milk.",
+          "CJMM — Recognize cues: long feeds with sweating and tachypnea. Analyze cues: feeding is the infant's exercise, and a 50-minute feed burns more calories than it delivers, which leads to poor weight gain. Generate solutions/Take action: give small, frequent, high-calorie feeds, limit feeding time (background: about 20–30 minutes), and give the rest by NG or G-tube to save energy and support weight gain for surgery. Evaluate outcomes: steady weight gain, and feeds finished without sweating or tachypnea."
+        ]
+      },
+      {
+        "stem": "The nurse is planning care for a 3-month-old with heart failure secondary to a large patent ductus arteriosus. Which interventions should the nurse include? Select all that apply.",
+        "options": [
+          "Cluster care to allow uninterrupted periods of rest",
+          "Position the infant flat and supine between feedings",
+          "Weigh the infant naked on the same scale at the same time daily",
+          "Offer high-calorie formula in small, frequent feedings",
+          "Elevate the head of the whole bed to a semi-upright position",
+          "Encourage longer feeding sessions to maximize oral intake"
+        ],
+        "answer": [
+          0,
+          2,
+          3,
+          4
+        ],
+        "explanations": [
+          "Correct—clustering care saves the infant's energy and oxygen.",
+          "Incorrect—lying flat makes breathing harder. Semi-upright positioning eases the work of breathing.",
+          "Correct—consistent daily weights detect fluid retention, a key HF evaluation tool.",
+          "Correct—more calories in less volume supports growth without extra work per feed.",
+          "Correct—a semi-upright position, made by elevating the whole bed, makes breathing easier.",
+          "Incorrect—feeding is exercise for infants. Feeding time should be limited, with tube feeding considered, not extended."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "An 8-week-old with heart failure has been receiving diuretics, high-calorie feeds, and clustered care for 1 week. Which finding best indicates that the plan of care is effective?",
+        "options": [
+          "Weight increased 250 g overnight, and the infant now sleeps for longer stretches",
+          "Steady daily weight gain, with feeds finished without sweating or tachypnea",
+          "Urine output doubled, and the infant takes about 40 minutes to finish feeds",
+          "The infant takes less formula per feed but cries less during care"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A sudden 250-g overnight gain suggests fluid retention, not tissue growth, so it needs follow-up. Sleeping longer may simply reflect fatigue.",
+          "CJMM — Evaluate outcomes: the HF goals are adequate weight gain, feeds completed without distress, a stable HR and RR, and no fluid overload. Steady weight gain together with feeds finished without sweating or tachypnea shows that the infant is growing and that feeding, the infant's exercise, no longer exceeds cardiac capacity.",
+          "Better urine output shows the diuretic is working, but a 40-minute feed still means feeding is too much work. The overall plan has not succeeded.",
+          "Taking less per feed threatens weight gain. Crying less is not a measure of HF improvement."
+        ]
+      },
+      {
+        "stem": "The grandparent of a 3-month-old with heart failure from a large ventricular septal defect (VSD) says, 'I had heart failure after my heart attack. Did the baby have a heart attack too?' Which response by the nurse is most accurate?",
+        "options": [
+          "\"In babies, heart failure is most often caused by blocked heart arteries that formed before birth.\"",
+          "\"In babies, heart failure is most often caused by high blood pressure that strains the heart over time.\"",
+          "\"In babies, heart failure is most often caused by a heart defect present at birth, like her VSD.\"",
+          "\"In babies, heart failure is most often caused by a lung infection that spreads to the heart muscle.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is the guide's trap answer. HF in kids is not usually from coronary artery disease, which is the adult cause.",
+          "Hypertension is a common adult cause. Pressure overload in infants comes from structural obstruction such as AS or coarctation, not long-standing high BP.",
+          "CJMM — Analyze cues: the grandparent is applying the adult pattern. Pediatric HF is most often caused by congenital heart disease, such as volume overload from a large VSD or PDA or pressure overload from AS or coarctation, less often a weak muscle (cardiomyopathy or myocarditis). Adults usually have acquired causes like MI or hypertension. Take action: correct the misconception in plain language and link it to the infant's actual defect.",
+          "Myocarditis can cause a weak muscle, but it is not the most common cause, and congenital disease still leads."
+        ]
+      },
+      {
+        "stem": "The nurse is preparing the caregivers of a 4-month-old with heart failure for discharge on a diuretic and digoxin. Which caregiver statement indicates a need for further teaching?",
+        "options": [
+          "\"I'll call if she starts sweating and breathing fast during her bottles again.\"",
+          "\"I'll keep her feeds short and give the rest through her feeding tube like you showed us.\"",
+          "\"I'll raise the head of her whole crib mattress so she breathes more easily.\"",
+          "\"I'll weigh her each day with her diaper and sleeper on, using whatever scale is closest.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct. Sweating and tachypnea with feeds mean the heart is working too hard, which is a reason to call.",
+          "This is correct. Limiting feeding time and giving the rest by tube saves energy and supports weight gain.",
+          "This is correct. Semi-upright positioning by elevating the whole bed eases breathing.",
+          "CJMM — Evaluate outcomes: daily weights detect fluid retention only if they are consistent, meaning naked, on the same scale, at the same time. Weighing in clothes on different scales adds error that can hide a gain from fluid. Generate solutions: re-teach the weighing technique and the weight change that should prompt a call."
+        ]
+      },
+      {
+        "stem": "A 9-month-old with heart failure has a prescription for digoxin with the parameter 'hold for apical heart rate less than 100.' The nurse counts an apical pulse of 88 for 1 full minute. The infant is feeding and has no vomiting. What is the nurse's best action?",
+        "options": [
+          "Give the dose, then recount the apical pulse in 1 hour to confirm the rate",
+          "Recheck with a radial pulse counted for 15 seconds and multiplied by 4",
+          "Give half of the prescribed dose and document the reduced heart rate",
+          "Hold the dose and notify the provider of the apical heart rate"
+        ],
+        "answer": 3,
+        "explanations": [
+          "'Give digoxin and recheck the pulse in an hour' is the guide's trap answer. Once the dose is given, a further drop in HR cannot be prevented.",
+          "Counting a radial pulse for 15 seconds × 4 is the trap technique. Kids' rates are fast and irregular, so digoxin requires an apical pulse counted for one full minute, which has already been done.",
+          "The nurse cannot change a prescribed dose. Giving a partial dose of a high-alert drug with tiny pediatric doses is unsafe and outside nursing scope.",
+          "CJMM — Recognize cues: a full-minute apical HR of 88, below the ordered parameter of 100. Analyze cues: digoxin slows the HR. Bradycardia below the parameter signals toxicity or risk of dysrhythmia, even without vomiting. Take action: when the HR is below the parameter, HOLD and notify, not 'give and recheck.' Evaluate outcomes: the provider decides on the next dose and may check a level and potassium."
+        ]
+      },
+      {
+        "stem": "An 11-month-old receiving digoxin and furosemide for heart failure has vomited after the last two feeds and is refusing the bottle. The apical pulse is 92 (hold parameter is less than 100), and this morning's potassium is 3.0 mEq/L. Which conclusion should guide the nurse's action?",
+        "options": [
+          "Digoxin toxicity is likely, made more probable by low potassium from the diuretic",
+          "The infant likely has viral gastroenteritis, which is causing the vomiting and refusal",
+          "Feeding intolerance is expected with heart failure and calls for smaller, thicker feeds",
+          "Vomiting is a common, harmless digoxin side effect, so the dose should be given as usual"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: vomiting, poor feeding, an HR below the parameter, low K+, and a diuretic. Analyze cues: in infants, vomiting and poor feeding are often the first clue of digoxin toxicity, and bradycardia adds to the concern. Diuretics lower potassium, and low K+ raises the risk of digoxin toxicity. Prioritize hypotheses: digoxin toxicity explains every cue together. Take action: hold the digoxin and notify the provider with the HR and potassium.",
+          "Gastroenteritis could cause vomiting but does not explain the bradycardia and low K+. Assuming a benign cause misses the medication hazard.",
+          "Infants with HF can tire during feeds, but vomiting with bradycardia in a child on digoxin points to toxicity, not routine intolerance.",
+          "Treating vomiting as harmless is a needs-further-teaching statement in the guide. Vomiting is a toxicity sign that requires holding and reporting."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching the caregiver of a 6-month-old who will take digoxin at home. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"I'll count his heartbeat for a whole minute before each dose and call if it's under the number you gave me.\"",
+          "\"I'll measure the dose with the syringe that comes with the medicine and have my partner check it too.\"",
+          "\"If he throws up more than once or stops wanting his bottle, I'll call because the medicine could be too strong.\"",
+          "\"If I forget a dose and remember at the next dose time, I'll give both so his level doesn't drop.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct. A full-minute heart rate count before each dose, with a call if it is below the parameter, is the core safety check.",
+          "This is correct. Using the dosing syringe and having a second adult double-check prevents dosing errors with tiny doses.",
+          "This is correct. Vomiting and poor feeding are early signs of toxicity in infants and warrant a call.",
+          "CJMM — Evaluate outcomes: doubling a missed dose of digoxin, a drug with tiny pediatric doses where small errors cause toxicity, could cause bradycardia and dysrhythmias. The teaching is to never double a missed dose. Generate solutions: re-teach the missed-dose plan given by the provider and pharmacist, and review the signs of toxicity."
+        ]
+      },
+      {
+        "stem": "A 5-month-old with heart failure started digoxin 3 days ago. The infant's baseline heart rate was 178 with tachypnea and sweaty feeds. Which finding best indicates that digoxin is having its intended effect?",
+        "options": [
+          "Heart rate of 82 at rest, and the infant now sleeps through most care",
+          "Heart rate of 134, with feeds finished with less sweating and tachypnea",
+          "Heart rate unchanged at 176, but urine output has increased",
+          "Heart rate of 140, with one episode of vomiting after each dose"
+        ],
+        "answer": 1,
+        "explanations": [
+          "An HR of 82 in an infant is bradycardia, a sign of toxicity, and very likely below the hold parameter. Sleeping through care may be lethargy rather than rest.",
+          "CJMM — Evaluate outcomes: digoxin helps the heart pump more effectively and slows the HR, which allows more filling and therefore more output. A heart rate that falls toward normal, combined with better feeding tolerance (less sweating and tachypnea), shows improved cardiac output.",
+          "Increased urine output reflects the diuretic. An unchanged HR shows digoxin has not had its intended rate effect.",
+          "A slower rate is reassuring, but vomiting after doses is an early sign of toxicity and needs reporting, so the drug is not working safely."
+        ]
+      },
+      {
+        "stem": "A 3-year-old has had a fever of 39.6°C (103.3°F) for 6 days. The child is very irritable and has red eyes in both sides without discharge, cracked red lips with a 'strawberry' tongue, a rash on the trunk, swollen red hands, and one enlarged lymph node on one side of the neck. Which condition does the nurse suspect?",
+        "options": [
+          "Rheumatic fever following a recent strep throat",
+          "Infective endocarditis from bacteria in the bloodstream",
+          "Kawasaki disease involving the medium-sized blood vessels",
+          "Bacterial conjunctivitis with an accompanying viral rash"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Rheumatic fever presents 2–4 weeks after strep with JONES findings (migratory polyarthritis, carditis, nodules, erythema marginatum, chorea), not conjunctivitis, strawberry tongue, and hand swelling.",
+          "Endocarditis is suspected with prolonged fever plus a new or changed murmur in a child with heart disease or a central line, not with mucocutaneous findings.",
+          "CJMM — Recognize cues: a child under 5 with fever of 5 days or more plus at least 4 of 5 criteria: bilateral conjunctivitis without drainage, oral changes (strawberry tongue, red cracked lips), rash, extremity changes (red swollen hands), and a single unilateral enlarged neck node, along with marked irritability. Analyze cues: this is the Kawasaki pattern ('CRASH and BURN'). Prioritize hypotheses: Kawasaki is a vasculitis whose major danger is coronary artery aneurysm. Take action: anticipate IVIG within 10 days of fever onset, aspirin, and an echocardiogram.",
+          "Bacterial conjunctivitis produces purulent drainage. Eyes without drainage, plus 6 days of fever and the other criteria, fit Kawasaki."
+        ]
+      },
+      {
+        "stem": "A 2-year-old is being evaluated for possible Kawasaki disease. Which finding would most lead the nurse to question that diagnosis?",
+        "options": [
+          "Peeling skin on the fingertips noted at a follow-up visit",
+          "A single enlarged lymph node on one side of the neck",
+          "Marked irritability that is difficult to console",
+          "Fever for 2 days with thick yellow drainage from both eyes"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Peeling of the fingers and toes is expected later in Kawasaki, following the red, swollen hands and feet. It supports the diagnosis.",
+          "One enlarged neck node is a Kawasaki criterion and supports the diagnosis.",
+          "Marked irritability is expected in Kawasaki, especially in young children. It supports the diagnosis.",
+          "CJMM — Analyze cues: Kawasaki requires fever of 5 days or more, and its conjunctivitis is bilateral WITHOUT drainage (not purulent). Two days of fever with purulent eye drainage matches the guide's trap row and points to a different cause, such as bacterial conjunctivitis. Prioritize hypotheses: this finding weakens the Kawasaki hypothesis, while the other three support it."
+        ]
+      },
+      {
+        "stem": "A 4-year-old was just diagnosed with Kawasaki disease on day 7 of fever. The provider prescribes IVIG, high-dose aspirin, and an echocardiogram. Which nursing action is the priority?",
+        "options": [
+          "Start the IVIG infusion promptly and monitor vital signs and reactions during it",
+          "Apply a moisturizing cream to the red, swollen hands to prevent cracking skin",
+          "Teach the family about expected skin peeling of the fingers in coming weeks",
+          "Schedule the echocardiogram for after discharge once the fever has resolved"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Prioritize hypotheses: the biggest worry in Kawasaki is coronary artery aneurysm, because all the vessels are inflamed. Generate solutions/Take action: the priority is protecting the coronary arteries with prompt IVIG, ideally within 10 days of fever onset (this child is on day 7), plus aspirin and echo monitoring. IVIG requires monitoring during the infusion for vital-sign changes and reactions.",
+          "Skin comfort is a reasonable supportive measure, but 'treat the rash' is the guide's trap priority. The coronary arteries come first.",
+          "Teaching that peeling is expected is appropriate before discharge, but it does not prevent coronary damage. This is correct, but not yet.",
+          "Echocardiograms are done at diagnosis and in follow-up to look for aneurysms. Waiting until after discharge delays the baseline cardiac evaluation."
+        ]
+      },
+      {
+        "stem": "The nurse is providing discharge teaching to the caregivers of a 3-year-old who received IVIG and is taking aspirin for Kawasaki disease. Which statement by a caregiver indicates a need for further teaching?",
+        "options": [
+          "\"Her measles-mumps-rubella shot is due next week, so we'll keep that appointment as scheduled.\"",
+          "\"She takes aspirin because this illness can affect her heart's arteries, which is a special exception.\"",
+          "\"We'll keep every echocardiogram appointment even after the fever is completely gone.\"",
+          "\"If the skin on her fingers and toes starts to peel in a couple of weeks, that's part of the illness.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes: after IVIG, vaccine timing must be checked with the provider (background: live vaccines such as MMR are delayed after IVIG because the antibodies can blunt the response). Keeping the appointment without asking shows a gap in understanding. Generate solutions: re-teach the family to check vaccine timing with the provider before any immunizations.",
+          "This is correct. Aspirin is given in Kawasaki as one of the exceptions to avoiding aspirin in children.",
+          "This is correct. Echocardiogram follow-ups watch for coronary aneurysms, which can develop even after the fever resolves.",
+          "This is correct. Peeling of the fingers and toes is an expected later feature, not a new infection."
+        ]
+      },
+      {
+        "stem": "A 9-year-old is brought in with painful, swollen knees, followed 2 days later by a painful, swollen elbow. The caregiver reports a sore throat about 3 weeks ago that 'went away on its own' without treatment. The nurse notes tachycardia, a new murmur, and a pink rash with clear centers on the trunk. Which condition does the nurse suspect?",
+        "options": [
+          "Kawasaki disease",
+          "Rheumatic fever",
+          "Infective endocarditis",
+          "Aortic stenosis"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Kawasaki is a vasculitis in children under 5 with fever of 5 days or more, non-purulent conjunctivitis, oral changes, and hand and foot changes, not migratory arthritis after strep.",
+          "CJMM — Recognize cues: an untreated sore throat 3 weeks earlier, migratory polyarthritis of large joints, carditis (tachycardia, new murmur), and erythema marginatum (pink rash with clear centers). Analyze cues: rheumatic fever is an immune overreaction 2–4 weeks after group A strep that affects the heart, joints, skin, and brain (JONES). Prioritize hypotheses: the timing plus multiple JONES findings point to RF. The worst outcome is rheumatic heart disease (valve damage). Take action: anticipate antibiotics, anti-inflammatory therapy, and rest with activity limits for carditis.",
+          "Endocarditis causes a new murmur and prolonged fever in a child with heart disease or a central line. It does not explain migratory arthritis and erythema marginatum after a sore throat.",
+          "Aortic stenosis is a congenital obstructive defect causing exercise intolerance, chest pain, or fainting, not acute arthritis and rash after an infection."
+        ]
+      },
+      {
+        "stem": "A 10-year-old is being treated for rheumatic fever with carditis. The child says, 'I feel fine now, and the coach said I can go back to basketball practice this week to build my heart back up.' Which response by the nurse is most appropriate?",
+        "options": [
+          "\"Light basketball drills are fine as long as you stop when your joints start to ache.\"",
+          "\"Exercise will strengthen your heart, so returning to practice will speed your recovery.\"",
+          "\"Your heart is inflamed right now, so rest and limited activity are part of your treatment.\"",
+          "\"You can practice as soon as you finish the antibiotics, since the infection will be gone.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Joint pain is the wrong cue to guide activity. The heart inflammation, not the arthritis, is why activity is limited.",
+          "This is the guide's trap. Exertion during carditis increases the workload on an inflamed heart.",
+          "CJMM — Analyze cues: carditis means the heart itself is inflamed, which can cause tachycardia, a murmur, and heart failure, and feeling better does not mean it has resolved. Generate solutions/Take action: treatment for carditis includes rest and activity limits along with antibiotics and anti-inflammatory therapy. 'Encourage sports to strengthen the heart during carditis' is the guide's trap.",
+          "Rheumatic fever is an immune reaction, not an ongoing infection of the heart. Finishing the antibiotics does not mean the carditis has resolved."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching the family of an 8-year-old who is recovering from rheumatic fever. Which statement by a family member indicates a need for further teaching?",
+        "options": [
+          "\"The jerky movements she's having are part of the illness, and she isn't doing them on purpose.\"",
+          "\"When her brother gets strep, he'll take every dose of his antibiotic even once he feels better.\"",
+          "\"Since her knees and elbows feel fine now, we can stop her preventive antibiotic after this refill.\"",
+          "\"She'll rest and take it easy while her heart is still inflamed, even if she feels well.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. Sydenham chorea is the involuntary movement component of rheumatic fever.",
+          "This is correct. Completing the full strep course prevents rheumatic fever in other family members.",
+          "CJMM — Evaluate outcomes: after rheumatic fever, prevention requires long-term antibiotic prophylaxis to prevent another attack and further valve damage. Resolution of joint symptoms is not a reason to stop. Generate solutions: re-teach that prophylaxis continues long-term as prescribed, not until symptoms resolve.",
+          "This is correct. Rest and activity limits are part of treatment for carditis."
+        ]
+      },
+      {
+        "stem": "A 7-year-old with a repaired congenital heart defect that included prosthetic material has had a fever for 6 days, fatigue, and poor appetite. The nurse hears a murmur that was not documented before. The provider prescribes multiple blood cultures, IV antibiotics, and an echocardiogram. What should the nurse do first?",
+        "options": [
+          "Start the first dose of IV antibiotics so treatment of the infection is not delayed",
+          "Draw the blood cultures from separate sites before giving the first antibiotic dose",
+          "Transport the child for the echocardiogram to look for vegetations on the valves",
+          "Give the prescribed antipyretic and recheck the temperature in 30 minutes"
+        ],
+        "answer": 1,
+        "explanations": [
+          "'Start antibiotics, then draw cultures' is the guide's trap. Antibiotics given first can sterilize the cultures and hide the organism.",
+          "CJMM — Recognize cues: a high-risk child (CHD with prosthetic material) with prolonged fever, fatigue, poor appetite, and a NEW murmur. Analyze cues: this suggests infective endocarditis, with bacteria or fungi (usually staph or strep) forming vegetations on abnormal heart tissue. Take action: draw multiple blood cultures BEFORE antibiotics, so the organism can be identified, then start IV antibiotics. Evaluate outcomes: cultures guide weeks of targeted IV therapy, often completed at home through a PICC.",
+          "The echocardiogram is needed to find vegetations, but cultures come first so antibiotics can start soon after. This is correct, but not yet.",
+          "Treating the fever addresses comfort, not the infection. It also delays cultures and antibiotics and does not treat the underlying problem."
+        ]
+      },
+      {
+        "stem": "The nurse is teaching the caregivers of a 5-year-old with an unrepaired ventricular septal defect about preventing infective endocarditis. Which caregiver statement shows correct understanding?",
+        "options": [
+          "\"Baby teeth fall out anyway, so we'll focus his dental care on his permanent teeth.\"",
+          "\"Brushing and flossing every day and regular dental visits help protect his heart.\"",
+          "\"A low fever that lingers is normal for kids with heart defects, so we'll wait it out.\"",
+          "\"All children need antibiotics before every dental cleaning, so we'll ask each time.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This misunderstands the risk. Mouth bacteria can cause endocarditis whatever the type of tooth, and kids need dental care too.",
+          "CJMM — Evaluate outcomes: bacteria from the mouth can enter the blood and stick to abnormal heart tissue, so oral hygiene (brushing, flossing, regular dental visits, including for young kids) protects the heart. Families should also report a prolonged fever. Generate solutions: reinforce daily oral care and dental follow-up.",
+          "A prolonged or lingering fever is a warning sign of endocarditis that should be reported, not watched.",
+          "Antibiotics before certain dental procedures are for the highest-risk children only, not all children before every cleaning. 'All children need dental antibiotic prophylaxis' is the guide's trap."
+        ]
+      },
+      {
+        "stem": "Two hours after a cardiac catheterization through the right femoral artery, a 5-year-old's dressing becomes saturated with bright red blood, and blood is pooling under the leg. What should the nurse do first?",
+        "options": [
+          "Reinforce the dressing with more gauze and notify the provider",
+          "Apply firm direct pressure just below the puncture site",
+          "Apply firm direct pressure just above the puncture site",
+          "Help the child bend the knee to slow blood flow to the leg"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Adding dressing on top is a trap answer. It hides ongoing bleeding instead of stopping it.",
+          "Pressure below the site is the guide's trap. It does not compress the point where the vessel was entered.",
+          "CJMM — Recognize cues: active bleeding from the femoral puncture site. Analyze cues: the vessel was entered above the skin puncture, so pressure must be applied where the vessel was entered. Take action: apply direct pressure just ABOVE the site, then notify the provider. Evaluate outcomes: bleeding stops, distal pulses stay present, and the leg stays warm and pink.",
+          "The leg must stay straight for the ordered time (often 4–6 hours). Bending it can worsen bleeding at the site."
+        ]
+      },
+      {
+        "stem": "The nurse is assessing a 6-year-old 3 hours after a cardiac catheterization through the left femoral artery. Which findings require immediate notification of the provider? Select all that apply.",
+        "options": [
+          "Left pedal pulse is weaker than the right",
+          "Left foot is cool and pale compared with the right",
+          "Capillary refill of 2 seconds in both feet",
+          "Child reports numbness and tingling in the left foot",
+          "Small dry spot on the dressing that has not enlarged"
+        ],
+        "answer": [
+          0,
+          1,
+          3
+        ],
+        "explanations": [
+          "Correct—a weaker pulse in the affected leg suggests compromised arterial flow.",
+          "Correct—coolness and pallor below the site indicate poor perfusion.",
+          "Incorrect—cap refill under 3 seconds bilaterally is normal and expected.",
+          "Correct—a change in sensation (numbness, tingling) is a listed warning sign of compromised flow.",
+          "Incorrect—a small dry spot that is not growing is expected. An expanding hematoma or active bleeding would be the concern."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 4-month-old returns from cardiac catheterization after being NPO for the procedure. Distal pulses are strong and equal, and the dressing is dry. One hour later the infant is jittery, sweaty, and difficult to settle. Which action should the nurse take first?",
+        "options": [
+          "Check the infant's blood glucose level",
+          "Apply pressure above the insertion site",
+          "Swaddle the infant and dim the room lights",
+          "Reassess distal pulses in both legs again"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: an infant who has been NPO for a procedure and is now jittery, sweaty, and irritable, with normal perfusion and a dry site. Analyze cues: infants have limited glucose reserves, and the guide lists checking glucose in infants (with encouraging fluids after contrast and NPO time) as a post-cath priority. Prioritize hypotheses: hypoglycemia best explains these cues. Take action: check glucose first, then treat as ordered. This is a peds-specific priority that adult post-cath care does not stress.",
+          "Pressure above the site is for active bleeding. The dressing is dry, so this is the right action for a different problem.",
+          "Comfort measures may help, but they treat irritability as behavioral and could delay recognizing hypoglycemia.",
+          "Pulses were just found strong and equal. Reassessing perfusion is ongoing care, but it does not address these new cues."
+        ]
+      }
+    ],
+    "peds2-wk8-neurologic": [
+      {
+        "stem": "A nurse at a pediatric clinic is returning four phone messages. Which message requires the most immediate follow-up?",
+        "options": [
+          "A caregiver of an 8-year-old reports a mild headache after school that went away after a snack and a short rest on the couch",
+          "A caregiver of a 7-month-old reports that the infant's soft spot looks raised and feels tight even while the infant sits quietly on their lap",
+          "A caregiver of a 4-year-old reports trouble falling asleep each night since the child moved into a new bedroom last week",
+          "A caregiver of a 2-year-old reports the child is still saying fewer words than a cousin of the same age but adds new words each month"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A mild headache after school that resolves with food and rest is a classic trap answer. It has none of the headache red flags (morning pattern, waking from sleep, worsening, neuro change), so it is right to address but wrong priority.",
+          "CJMM — Recognize cues: a fontanel that bulges while the infant is calm. Analyze cues: a fontanel normally feels soft and flat and may bulge briefly only with crying, so bulging at rest reflects increased intracranial pressure. Prioritize hypotheses: of the four calls, this is the only neurologic red flag; the others are common, self-limited, or slow-but-progressing concerns. Take action: call this caregiver back first and arrange prompt evaluation.",
+          "Difficulty sleeping after a change in environment is a behavioral concern, not a neurologic red flag. It can wait while the infant with signs of increased ICP is called first.",
+          "A child who is slow but still gaining words is showing delay, not loss. Losing a milestone is worse than being slow to gain one, and this child continues to progress, so this is lower priority."
+        ]
+      },
+      {
+        "stem": "A caregiver brings a 15-month-old to the clinic and reports that the child walked independently at 12 months, but over the last 2 weeks has stopped walking and will only crawl. There is no history of injury, and vital signs are within normal limits. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "Independent walking can normally be delayed until 18 months, so the child is still within the expected range and can be rechecked at the next visit",
+          "Toddlers commonly lose skills briefly during a growth spurt, so the nurse should reassure the caregiver and encourage practice with push toys",
+          "Losing a gross motor skill the child already had is a neurologic red flag that needs prompt provider evaluation",
+          "The child's motor skills should first be compared with standard age charts, and referral can wait until the child falls below the chart range"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This applies the 'slow to gain' norm to a child who has lost a skill. The normal age range for first walking does not apply once the child has already walked, so it misreads the cue.",
+          "This explains away a red flag with reassurance. A change from this child's own baseline needs action, not watchful encouragement.",
+          "CJMM — Recognize cues: a skill the child already had (walking at 12 months) has been lost over 2 weeks. Analyze cues: the guide stresses that loss of a previously achieved milestone is far more meaningful than any single number and is worse than being slow to gain one. Prioritize hypotheses: a new neurologic process must be ruled out. Take action: report the regression for prompt evaluation rather than waiting for the next routine visit.",
+          "Comparing with general charts misses the point; the guide says to compare with THIS child's baseline. By that standard the child has already declined, so delaying referral is unsafe."
+        ]
+      },
+      {
+        "stem": "A 9-month-old is admitted for dehydration from gastroenteritis. The nurse is completing the initial neurologic assessment. Which approach will give the nurse the most meaningful information?",
+        "options": [
+          "Ask the caregiver how the infant usually acts, feeds, and moves, then compare current behavior with it",
+          "Ask the infant to squeeze the nurse's fingers on command and compare grip strength on the right and left sides",
+          "Score the infant's orientation and speech against standard neurologic norms used for older children and adults",
+          "Rely mainly on the pupil check, since that is the only part of a neurologic exam an infant this age can complete"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a 9-month-old cannot follow commands or report symptoms. Analyze cues: a pediatric neuro exam is built around development, so the nurse watches behavior, feeding, cry, tone, and movement and asks the parents what is normal for their child. Generate solutions: the most useful comparison is the child's own baseline. Take action: obtain the caregiver's description of usual behavior and compare current findings with it.",
+          "An infant cannot follow a command to squeeze fingers. The nurse should observe spontaneous movement and tone instead, so this method will not yield valid data.",
+          "Orientation and speech norms are adult-pattern measures. Using adult neuro norms is a listed trap; infants are assessed through developmentally appropriate behavior.",
+          "Pupils are only one piece. Behavior, feeding, cry, tone, movement, fontanel, and head growth all give essential information in an infant, so pupils alone are incomplete."
+        ]
+      },
+      {
+        "stem": "A 6-year-old with a known developmental delay is 1 day postoperative after an appendectomy. The caregiver says the child usually speaks in two-word phrases and walks with a walker. This morning the caregiver states, \"They're not acting right. They won't say any of their usual words and keep falling asleep while I talk to them.\" Vital signs are stable. What should the nurse do first?",
+        "options": [
+          "Document the findings, because limited speech is already part of this child's usual developmental picture",
+          "Let the child rest after a poor night of sleep in the hospital and repeat the assessment in 4 hours",
+          "Explain to the caregiver that hospitalized children often regress for a few days and that this is expected",
+          "Perform a full neurologic assessment and promptly report the change in mental status to the provider"
+        ],
+        "answer": 3,
+        "explanations": [
+          "The child's baseline includes two-word phrases, so loss of those words is a change. Documenting without acting treats the delay as the explanation and misses the change from baseline.",
+          "Waiting 4 hours with new lethargy delays action on a red flag. On priority questions, the answer that acts on a change from baseline beats the one that waits.",
+          "This explains away the caregiver's concern. Parents are the best source on baseline, and a parent saying the child is 'not acting right' is a listed red flag.",
+          "CJMM — Recognize cues: the caregiver, who knows the child's baseline, reports new loss of usual words and new sleepiness. Analyze cues: altered mental status and new lethargy are red flags, and the key question is 'Is this normal for THIS child?' Here it is not. Prioritize hypotheses: a change in neurologic status matters regardless of the child's baseline delay. Take action: assess fully and escalate now."
+        ]
+      },
+      {
+        "stem": "A caregiver tells the nurse that their 6-year-old stops in the middle of reading aloud, stares blankly for about 5 to 8 seconds, then continues the same sentence as if nothing happened. This occurs dozens of times a day. When the caregiver calls the child's name during an episode, the child does not respond. Which condition best fits this presentation?",
+        "options": [
+          "Focal seizures",
+          "Absence seizures",
+          "Daydreaming from inattention",
+          "Brief tonic-clonic seizures"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Focal seizures start in one area and typically cause one-sided movements or sensory changes. Their length varies, and they do not classically produce dozens of brief stares with instant recovery.",
+          "CJMM — Recognize cues: seconds-long staring, many times a day, immediate resumption of activity, and no response to the child's name. Analyze cues: absence seizures are generalized, last seconds, occur with high frequency, and have no postictal period; unlike daydreaming, they cannot be interrupted. Prioritize hypotheses: absence seizure fits every cue. Take action: refer for evaluation (EEG) rather than labeling it inattention.",
+          "A daydreaming child can be snapped out of it by hearing their name. This child does not respond, which is the cue that separates absence seizures from daydreaming.",
+          "Tonic-clonic seizures last minutes, involve stiffening and jerking, and are followed by a postictal period. Instant resumption of the same sentence rules this out."
+        ]
+      },
+      {
+        "stem": "A nurse is observing a 9-year-old who is being evaluated for recurrent episodes. Which observation best supports absence seizures rather than tonic-clonic seizures?",
+        "options": [
+          "The child loses awareness of their surroundings during each episode",
+          "The EEG shows the episodes involve both hemispheres of the brain",
+          "The episodes are recurrent and occur without any identifiable trigger",
+          "The child resumes the conversation at once, without sleepiness or confusion"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Both absence and tonic-clonic seizures are generalized and affect consciousness, so loss of awareness does not distinguish them.",
+          "Both seizure types are generalized and involve both hemispheres. This finding is true of both and cannot separate them.",
+          "Recurrent unprovoked seizures define epilepsy, which can include either seizure type. This finding does not tell the two apart.",
+          "CJMM — Analyze cues: absence and tonic-clonic seizures are both generalized, both affect consciousness, and both can be recurrent and unprovoked. Prioritize hypotheses: the distinguishing feature is what happens afterward: absence has NO postictal period and the child resumes activity immediately, while tonic-clonic seizures are followed by a postictal period of sleepiness and confusion. Evaluate outcomes: immediate resumption without confusion points to absence."
+        ]
+      },
+      {
+        "stem": "A 10-year-old is brought in after an episode at home. The caregiver describes 2 minutes of rhythmic jerking of the right arm and right side of the face. The child says their right hand \"felt tingly\" and remembers parts of the event. Temperature is 37.0°C (98.6°F). How should the nurse interpret this episode?",
+        "options": [
+          "An absence seizure with motor features",
+          "A generalized tonic-clonic seizure",
+          "A focal seizure starting in one hemisphere",
+          "A complex febrile seizure with focal features"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Absence seizures are brief staring spells lasting seconds. Two minutes of one-sided jerking with tingling does not fit.",
+          "Tonic-clonic seizures are generalized, with loss of consciousness and whole-body stiffening then jerking. One-sided activity with partial awareness points to a focal origin.",
+          "CJMM — Recognize cues: one-sided jerking, one-sided tingling, partial awareness, and no fever in a 10-year-old. Analyze cues: focal seizures begin in one area or one hemisphere, so symptoms depend on the spot (one-sided movements, sensory changes), and awareness may or may not be affected. Prioritize hypotheses: focal seizure fits; the child's age and normal temperature exclude a febrile seizure.",
+          "Focal features can make a febrile seizure complex, but febrile seizures occur with fever in children 6 months to 5 years. This 10-year-old is afebrile, so the label does not apply."
+        ]
+      },
+      {
+        "stem": "An 11-year-old had a single generalized seizure at school with no fever or injury. The workup is in progress. The caregiver asks, \"Does this mean my child has epilepsy now?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"Epilepsy means repeated seizures that happen without a trigger, so one seizure on its own does not mean your child has epilepsy.\"",
+          "\"Any seizure in a child is considered epilepsy, so your child will be started on a daily seizure medicine before discharge.\"",
+          "\"Because this seizure was generalized instead of focal, epilepsy is unlikely, and no follow-up testing will be needed.\"",
+          "\"Epilepsy is diagnosed only when a seizure lasts longer than 5 minutes, so this short seizure rules it out completely.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: one unprovoked seizure and a frightened caregiver. Analyze cues: epilepsy is defined as RECURRENT UNPROVOKED seizures, and the professor states that one seizure does not automatically mean a child has epilepsy. Generate solutions: give accurate information without false reassurance about the workup. Take action: explain the definition while the evaluation continues.",
+          "\"Any seizure means epilepsy\" is a listed trap. One seizure does not meet the definition of recurrent unprovoked seizures, and maintenance medicine is not automatic.",
+          "Epilepsy can involve generalized or focal seizures, so seizure type does not rule it out. Promising no testing is false reassurance while the workup is in progress.",
+          "The 5-minute mark defines status epilepticus, not epilepsy. This confuses two different concepts."
+        ]
+      },
+      {
+        "stem": "A 12-year-old had a witnessed episode in which their whole body stiffened and then jerked for about 2 minutes. Ten minutes after the jerking stopped, the child is lying on their side, sleepy, and confused about where they are. Respirations are regular, and SpO₂ is 97% on room air. Which interpretation is most accurate?",
+        "options": [
+          "The child has not returned to baseline, so this meets the definition of status epilepticus and needs a rescue benzodiazepine now",
+          "This was most likely an absence seizure, and the confusion is an unusually long recovery from that type of seizure",
+          "This is the expected postictal period, so the nurse keeps the child side-lying and monitors return to baseline",
+          "Confusion after the event signals late increased intracranial pressure and needs emergency treatment for brainstem compression"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Status epilepticus is a seizure lasting more than 5 minutes or recurrent seizures without recovery. This child had one 2-minute seizure that stopped, so expected postictal drowsiness is being misread as status.",
+          "Absence seizures last seconds, have no stiffening or jerking, and have NO postictal period. Saying absence causes confusion afterward is a listed trap.",
+          "CJMM — Recognize cues: stiffening then jerking for 2 minutes, followed by sleepiness and confusion, with an open airway and good SpO₂. Analyze cues: tonic-clonic seizures follow LOC → tonic → clonic → postictal period, and in children they look highly similar to adult seizures. Prioritize hypotheses: a single seizure that has stopped, followed by sleepiness, is postictal recovery. Evaluate outcomes: airway and SpO₂ maintained and gradual return toward baseline are signs things are going as expected.",
+          "Late ICP shows Cushing's triad (bradycardia, hypertension, irregular respirations), fixed pupils, and posturing. None of these is present, and the postictal state better explains the confusion."
+        ]
+      },
+      {
+        "stem": "A teacher refers a 7-year-old to the school nurse for \"not paying attention,\" and the family is considering an evaluation for an attention disorder. During a 20-minute observation, the nurse sees four episodes in which the child stops writing, stares for a few seconds without responding to the teacher, and then resumes writing mid-word. What is the nurse's best action?",
+        "options": [
+          "Suggest seating the child near the teacher and using a reward chart to improve the child's focus during classwork",
+          "Recommend evaluation, including an EEG, for possible absence seizures before an attention diagnosis is pursued",
+          "Teach the teacher to gently tap the child's shoulder during an episode to bring the child's attention back to the work",
+          "Advise the family to seek emergency care only if one of the staring episodes lasts longer than 5 minutes"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Classroom strategies treat the behavior as inattention and delay diagnosis of a seizure disorder. Right tool for attention problems, wrong hypothesis for this child.",
+          "CJMM — Recognize cues: frequent seconds-long stares, no response to the teacher, and immediate resumption mid-task. Analyze cues: this is the classic pediatric picture of absence seizures, which hide in school as 'not paying attention.' Prioritize hypotheses: absence seizure over inattention. Take action: refer for evaluation/EEG; the guide's look-alike chart says 'not inattention.'",
+          "Absence seizures cannot be interrupted, so tapping will not end an episode. The real problem is that it treats the episodes as lapses in focus rather than seizures.",
+          "The 5-minute rule applies to convulsive seizures and status epilepticus. Absence episodes last seconds, so waiting for this threshold means the child would never be evaluated."
+        ]
+      },
+      {
+        "stem": "A nurse in the emergency department is caring for four children who each had a seizure with fever today. Which child's seizure has a feature that calls for further evaluation?",
+        "options": [
+          "An 18-month-old who had a 3-minute generalized seizure as the temperature rose to 39.6°C (103.3°F)",
+          "A 3-year-old who had one 8-minute generalized seizure today and is now back to baseline",
+          "A 4-year-old who had one 2-minute generalized seizure at the start of a viral illness",
+          "A 2-year-old whose 6-minute seizure involved jerking of only the left arm and left leg"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Under 15 minutes, generalized, once, at age 18 months with a rapid rise in temperature: this meets every criterion for a simple febrile seizure.",
+          "Eight minutes is under the 15-minute cutoff, the seizure was generalized, and it happened once, so it is still simple. Duration is the trap here: more than 5 minutes is the cue to call EMS during the event, but it does not by itself make the seizure complex.",
+          "This is a textbook simple febrile seizure: brief, generalized, and once, at the start of an illness when the temperature rises.",
+          "CJMM — Recognize cues: fever plus a seizure affecting only one side of the body. Analyze cues: a febrile seizure is complex if it lasts more than 15 minutes, has focal features, or recurs within 24 hours. Prioritize hypotheses: one-sided jerking is a focal feature, so this is a complex febrile seizure. Take action: anticipate further evaluation for this child."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching the caregiver of a 2-year-old who had a simple febrile seizure. Which caregiver statement indicates a need for further teaching?",
+        "options": [
+          "\"If I give ibuprofen on a schedule every time my child gets sick, that should keep this from happening again.\"",
+          "\"If it happens again, I'll lay my child on their side on the floor and push the coffee table out of the way.\"",
+          "\"If the shaking keeps going past 5 minutes, I'll call 911 instead of waiting for it to stop.\"",
+          "\"Even if the seizure stops on its own, we'll still follow up with the pediatrician afterward.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes: febrile seizures are triggered by how fast the temperature RISES, often before the caregiver knows there is a fever. Antipyretics are for comfort only and do not prevent febrile seizures. Generate solutions: reteach that fever medicine keeps the child comfortable but cannot guarantee another seizure won't happen, and reinforce seizure safety instead.",
+          "This is correct teaching: safe surface, side-lying, and moving hazards protect the child from injury.",
+          "This is correct teaching: a seizure lasting more than 5 minutes is becoming status epilepticus and needs EMS.",
+          "This is correct teaching: follow-up with the provider after a seizure is part of the plan, even when it stops on its own."
+        ]
+      },
+      {
+        "stem": "A 14-month-old is evaluated after a brief generalized seizure at home. The caregiver, crying, says, \"I didn't even know they had a fever until afterward. If I'd given acetaminophen earlier, would this have happened?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"Giving fever medicine at the first sign of illness is the main way to prevent these seizures, so next time start it right away.\"",
+          "\"These seizures happen when a fever gets too high, so keeping the temperature below 38.5°C (101.3°F) will prevent another one.\"",
+          "\"Starting a daily seizure medicine now is the best way to keep this from happening during your child's future fevers.\"",
+          "\"These seizures are set off by how fast the temperature climbs, often before a fever is noticed, so you didn't miss anything.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "Antipyretics are for comfort, not seizure prevention. This reinforces the misconception and sets up more guilt if a seizure happens again.",
+          "The trigger is the speed of the rise, not the peak temperature. Promising that a temperature target will prevent seizures is inaccurate.",
+          "A simple febrile seizure is benign and does not mean epilepsy. Daily anticonvulsants are for seizure disorders, so this overtreats and frightens the family.",
+          "CJMM — Recognize cues: a guilty, frightened caregiver and a seizure that occurred before the fever was noticed. Analyze cues: a rapid RISE in temperature triggers febrile seizures, often before the fever is recognized, and antipyretics do not prevent them. Generate solutions: correct the misconception while relieving guilt. Take action: give accurate, supportive teaching; family teaching is a big part of the nursing role with febrile seizures."
+        ]
+      },
+      {
+        "stem": "A 3-year-old with a temperature of 39.8°C (103.6°F) begins a generalized seizure in the emergency department at 14:02. The nurse has placed the child side-lying and the airway is clear. At 14:08 the child is still seizing. Which action should the nurse take next?",
+        "options": [
+          "Give the prescribed rescue benzodiazepine, IV lorazepam, and begin emergency seizure management",
+          "Continue to observe, since febrile seizures are benign and usually stop without treatment",
+          "Give rectal acetaminophen to bring the temperature down so that the seizure will stop",
+          "Finish documenting the seizure's onset and features before notifying the provider"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a seizure that has lasted 6 minutes. Analyze cues: the professor's rule is that a seizure lasting more than 5 minutes is status epilepticus, a medical emergency, whatever the cause. Prioritize hypotheses: status epilepticus outranks the 'benign febrile seizure' label. Take action: give the rescue benzodiazepine; in the hospital, IV lorazepam is the gold standard first-line drug.",
+          "'Febrile seizures are benign' applies to simple seizures under 15 minutes, but the 5-minute rule still governs the event. Waiting past 5 minutes lets the seizure become prolonged status.",
+          "Antipyretics are for comfort and do not stop or prevent febrile seizures. Fever control is reasonable later but does not treat status epilepticus.",
+          "Documenting first is a listed trap. At 6 minutes the priority is emergency seizure management, not paperwork."
+        ]
+      },
+      {
+        "stem": "A 7-year-old with a temperature of 39.4°C (102.9°F) has a 3-minute generalized seizure. The caregiver says, \"My nephew had these fever seizures, so I know it's nothing serious.\" Which conclusion by the nurse is most appropriate?",
+        "options": [
+          "This is a simple febrile seizure because it was generalized, lasted under 15 minutes, and occurred once",
+          "The child is older than the febrile seizure age range, so the nurse anticipates evaluation for another cause",
+          "This is a complex febrile seizure because a generalized seizure in a child this age needs evaluation",
+          "This is an absence seizure brought on by the fever, so the nurse expects the child to recover right away"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Duration, generalized pattern, and a single episode fit simple criteria, but the definition also requires an age of 6 months to 5 years. Ignoring the age cue leads to false reassurance.",
+          "CJMM — Recognize cues: fever and a brief generalized seizure, but in a 7-year-old. Analyze cues: febrile seizures occur in children 6 months to 5 years. Prioritize hypotheses: a seizure with fever outside that age window cannot be assumed to be a benign febrile seizure, and an infection of the brain or meninges must be considered. Take action: do not reassure; anticipate further evaluation and frequent neuro checks.",
+          "'Complex' is defined by more than 15 minutes, focal features, or more than one seizure in 24 hours, and none applies here. The label is wrong even though further evaluation is right.",
+          "Absence seizures are seconds-long staring spells without convulsions. A 3-minute generalized convulsion does not fit."
+        ]
+      },
+      {
+        "stem": "A 5-year-old in the pediatric playroom suddenly falls to the floor and begins a generalized tonic-clonic seizure. The nurse is the only staff member in the room. Which action should the nurse take first?",
+        "options": [
+          "Lift the child onto the nearby bed so the child is on a padded surface off the floor",
+          "Sit the child upright against the wall so saliva can drain out of the mouth",
+          "Stay with the child, call out for help, and note the time the seizure started",
+          "Step out to the hallway to bring back the suction setup and the oxygen"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Lifting a seizing child risks injury to both child and nurse. The child is lowered to (or kept on) a safe surface and hazards are moved away.",
+          "Sitting the child upright is a listed trap. Side-lying, not upright, lets secretions drain and protects the airway.",
+          "CJMM — Recognize cues: an active generalized seizure with one nurse present. Generate solutions: the guide's first five actions start with staying with the child, calling for help, and noting the time; then side-lying and protecting from injury, maintaining the airway, no restraint and nothing in the mouth, and observing/documenting. Take action: timing starts now because the 5-minute mark changes everything.",
+          "Leaving the child to get equipment or medication is a listed wrong action. The nurse stays and calls for help so others bring supplies."
+        ]
+      },
+      {
+        "stem": "An 8-year-old with a seizure disorder begins a generalized tonic-clonic seizure in bed. Which actions should the nurse take? Select all that apply.",
+        "options": [
+          "Turn the child onto their side",
+          "Pad the side rails and move hard objects away from the bed",
+          "Note the time the seizure began",
+          "Gently hold the child's arms at their sides to limit injury",
+          "Place a padded tongue blade between the back teeth",
+          "Give the scheduled oral levetiracetam dose that is due now"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—side-lying lets secretions drain and keeps the airway open.",
+          "Correct—protecting the child from injury is a core seizure precaution.",
+          "Correct—timing determines when the seizure becomes status epilepticus (more than 5 minutes).",
+          "Incorrect—restraint can cause fractures and injury; the guide says never restrain.",
+          "Incorrect—nothing goes in the mouth; it can break teeth, cause aspiration, or injure fingers.",
+          "Incorrect—nothing is given by mouth during a seizure; oral meds are maintenance therapy and the child cannot swallow safely."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 6-year-old hospitalized with epilepsy has been having a generalized seizure for 7 minutes. A peripheral IV is in place and patent. Which prescription should the nurse expect to carry out first?",
+        "options": [
+          "Lorazepam IV push now",
+          "Levetiracetam by mouth now",
+          "Diazepam rectal gel now",
+          "Midazolam intranasal now"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a seizure longer than 5 minutes in a hospitalized child with a working IV. Analyze cues: this is status epilepticus; the goal is to stop the seizure quickly to prevent neurologic injury. Generate solutions: rescue benzodiazepines are chosen by setting. Take action: IV lorazepam is the gold standard first-line rescue drug in the hospital.",
+          "Levetiracetam is a maintenance anticonvulsant that prevents seizures; it does not stop one. Giving anything by mouth during a seizure is a listed trap.",
+          "Rectal diazepam is the established caregiver-given rescue option at home. It works, but it is not the best choice when an IV is available in the hospital.",
+          "Intranasal midazolam is the school and community rescue option. It works, but it is not the hospital's first-line drug when IV access exists."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 9-year-old newly diagnosed with epilepsy asks, \"Why does my child need a pill every day and a nasal spray in their backpack?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"The nasal spray is used each morning to prevent seizures, and the daily pill stops a seizure once it starts.\"",
+          "\"Both are rescue medicines, so give the spray first and then the pill if the seizure is still going.\"",
+          "\"The daily medicine helps prevent seizures, and the nasal spray is used to stop a seizure that goes on too long.\"",
+          "\"The daily pill is needed only until the nasal spray has the seizures under control, and then it can stop.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This reverses the two roles. Intranasal midazolam is a rescue drug, not a daily preventive.",
+          "The daily pill is maintenance therapy, not rescue, and nothing is given by mouth during a seizure.",
+          "CJMM — Generate solutions: maintenance anticonvulsants (levetiracetam, valproic acid, phenytoin, lamotrigine) PREVENT further seizures, while rescue benzodiazepines (intranasal midazolam at school or in the community) STOP a seizure in progress. Take action: teach the purpose of each so the family uses them correctly. Evaluate outcomes: the family can state when to give the rescue drug (seizure longer than 5 minutes) and that the daily drug is not skipped.",
+          "Maintenance therapy prevents seizures and is not replaced by a rescue drug. Stopping it would increase seizures."
+        ]
+      },
+      {
+        "stem": "A 10-year-old started valproic acid 3 months ago for a seizure disorder. Which finding at the follow-up visit best shows that the medication is working?",
+        "options": [
+          "The child's seizures now stop after about 4 minutes instead of lasting 6 minutes",
+          "The seizure log shows no seizures in 6 weeks, and the child is attending school full days",
+          "The child now sleeps for several hours after each seizure instead of just one hour",
+          "The child now senses a warning feeling and can lie down before each seizure begins"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Shorter seizures still mean seizures are happening. The goal of maintenance therapy is fewer or no seizures, not slightly shorter ones.",
+          "CJMM — Evaluate outcomes: a maintenance anticonvulsant is given to prevent seizures, so success is fewer or no seizures and the child participating in school, as the guide's 'how you know it's working' box states. Six seizure-free weeks with full school attendance meets that goal.",
+          "A longer postictal period does not show control and may reflect more severe events. It is not an outcome measure for prevention.",
+          "Recognizing a warning helps with safety, but the child is still having every seizure, so prevention has not been achieved."
+        ]
+      },
+      {
+        "stem": "A 4-year-old in status epilepticus received IV lorazepam 10 minutes ago. Which assessment finding best indicates that the intervention was effective?",
+        "options": [
+          "The jerking has slowed but continues in the right arm, and the child's SpO₂ is 95% with oxygen by mask",
+          "The jerking has stopped, and the child is unresponsive with shallow respirations at 8 breaths per minute",
+          "The jerking has stopped, and the child's temperature has come down from 38.9°C to 37.6°C (102°F to 99.7°F)",
+          "The jerking has stopped, breathing is regular with SpO₂ 96% on room air, and the child is slowly waking"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Continued one-sided jerking means the seizure has not stopped, so the outcome is not met and further emergency management is needed.",
+          "The seizure stopped, but breathing is not effective. A rate of 8 with shallow breaths is a new airway and breathing problem that needs immediate action, not a sign of success.",
+          "A falling temperature does not tell the nurse whether the seizure treatment worked. Airway, breathing, SpO₂, and neurologic recovery are the measures.",
+          "CJMM — Evaluate outcomes: rescue therapy has worked when the seizure stops, the child breathes effectively with SpO₂ maintained, and the child gradually returns toward baseline (postictal recovery) without injury. All three are present here."
+        ]
+      },
+      {
+        "stem": "A nurse is reviewing the seizure action plan with the caregiver of a 6-year-old with epilepsy who has rectal diazepam for home use. Which caregiver statement indicates a need for further teaching?",
+        "options": [
+          "\"If my child seizes at the dinner table, I'll sit them up in the chair and hold them steady.\"",
+          "\"If the seizure lasts more than 5 minutes, I'll give the rectal diazepam and call 911.\"",
+          "\"I'll keep giving the daily seizure medicine even on days when there haven't been any seizures.\"",
+          "\"I'll write down when it started, what it looked like, and how my child acted afterward.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes: this statement contains two listed traps, sitting the child upright and holding (restraining) them. Generate solutions: reteach lowering the child to the floor, turning them side-lying, moving hazards, timing the seizure, and never restraining, since restraint can cause fractures and injury.",
+          "This is correct: more than 5 minutes means emergency management, and rectal diazepam is the caregiver-given rescue option at home.",
+          "This is correct: maintenance anticonvulsants prevent seizures and are taken every day, not only after a seizure.",
+          "This is correct: observing and documenting onset, features, and the period afterward is one of the first five actions."
+        ]
+      },
+      {
+        "stem": "A 10-year-old is admitted for observation after a fall from a tree. Which change in the child's assessment requires the nurse's most immediate action?",
+        "options": [
+          "The child has become irritable, says their head hurts, and asks for the lights to be turned off",
+          "The child has vomited once and now says they feel a little better and would like to rest",
+          "Heart rate has risen from 98 to 124, and blood pressure has fallen from 108/64 to 90/52",
+          "Heart rate has dropped from 98 to 58, BP has risen from 108/64 to 142/70, and breathing is irregular"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Irritability and headache are EARLY signs of increased ICP. They need neuro checks and notification, but calling them late signs is a listed trap.",
+          "A single episode of vomiting is an early sign that needs monitoring. It does not outrank Cushing's triad.",
+          "Rising heart rate with falling blood pressure is a shock pattern, the opposite of Cushing's triad. It is serious, but the question asks about the brain: 'BP up, HR down, breathing irregular' means late ICP.",
+          "CJMM — Recognize cues: falling heart rate, rising blood pressure, and irregular breathing. Analyze cues: this is Cushing's triad, a LATE sign of increased ICP meaning the brainstem is being compressed. Prioritize hypotheses: late ICP is an emergency and outranks early behavioral signs. Take action: escalate immediately."
+        ]
+      },
+      {
+        "stem": "A nurse is assessing a 4-month-old whose caregiver says the infant has been \"fussier than usual.\" Which cluster of findings is most consistent with increased intracranial pressure in this infant?",
+        "options": [
+          "Fontanel that is sunken, dry mucous membranes, and fewer wet diapers than usual over the past day",
+          "Fontanel that is soft and flat, tugging at one ear, and crying that gets worse when lying flat",
+          "Fontanel that bulges while the infant is calm, sutures that feel separated, and a high-pitched cry",
+          "Fontanel that bulges only while crying, head growth following its curve, and a strong suck"
+        ],
+        "answer": 2,
+        "explanations": [
+          "A sunken fontanel with dry mucous membranes and low urine output points to dehydration, the opposite fontanel finding from increased ICP.",
+          "A soft, flat fontanel is normal. Ear tugging and fussiness lying down suggest an ear problem, not increased ICP.",
+          "CJMM — Recognize cues: bulging fontanel at rest, separated sutures, and a high-pitched cry. Analyze cues: infants have open sutures and fontanels, so increased ICP shows up as a bulging fontanel, growing head, separated sutures, high-pitched cry, and setting-sun eyes rather than as a reported headache. Prioritize hypotheses: increased ICP. Take action: notify the provider and measure head circumference.",
+          "A fontanel may bulge briefly with crying and is normal if it is flat at rest. Normal head growth and a strong suck are reassuring."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 7-month-old with hydrocephalus asks, \"My baby can't tell me if their head hurts. How will I know if pressure is building up?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"Watch for your baby rubbing or holding their head, since that is the main way infants show you that they have a headache.\"",
+          "\"Watch for a soft spot that bulges when your baby is calm, fast head growth, a high-pitched cry, or downward-looking eyes.\"",
+          "\"Watch for squinting or covering one eye, because seeing double is the first thing that babies with pressure develop.\"",
+          "\"Watch for a slow heartbeat and breathing that becomes irregular, since those are the earliest signs you'll notice.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "Infants with increased ICP do not complain of headache, and head-holding is not a reliable sign. 'Infants with increased ICP complain of headache' is a listed trap.",
+          "CJMM — Recognize cues: a caregiver who correctly knows infants cannot report headache. Analyze cues: in infants with open sutures, increased ICP appears as a growing head, bulging fontanel, separated sutures, high-pitched cry, setting-sun eyes, irritability, and poor feeding. Generate solutions: teach observable, infant-specific signs. Evaluate outcomes: the caregiver can name warning signs to report.",
+          "Double vision is an older-child sign of increased ICP. It applies a closed-skull pattern to an infant with open sutures.",
+          "Bradycardia and irregular respirations are LATE signs, part of Cushing's triad, not the earliest ones. Teaching caregivers to wait for them delays care."
+        ]
+      },
+      {
+        "stem": "A 9-year-old has had headaches, vomiting, and episodes of seeing double over the past 4 days. The caregiver says, \"I think they've just been on their tablet too much and need glasses.\" Which conclusion should guide the nurse's response?",
+        "options": [
+          "Eye strain from screen use explains the double vision and headache, so the nurse recommends a vision screening at school",
+          "Headache, vomiting, and double vision suggest increased intracranial pressure, so the child needs prompt neuro evaluation",
+          "The combination of headache and vomiting points to a migraine, so the nurse suggests a headache diary for the next month",
+          "Vomiting with headache in a school-age child is most likely a viral stomach illness, so the nurse focuses on oral fluids"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Eye strain can cause headaches, but double vision with vomiting is a classic older-child sign of increased ICP. A routine vision screen delays needed care.",
+          "CJMM — Recognize cues: headache, vomiting, and diplopia in a school-age child. Analyze cues: older children have a closed skull, so pressure rises faster and appears as headache, vomiting, diplopia, and behavior change. Prioritize hypotheses: increased ICP must be ruled out before benign explanations. Take action: arrange prompt neurologic evaluation.",
+          "Migraine requires a pattern of distinct episodes with a normal neuro exam between them. Double vision for 4 days with vomiting is a red flag, not a reason to watch and wait.",
+          "'Probably a stomach bug' is the listed trap. Vomiting with headache and a visual change is a neurologic red flag, not simply a GI complaint."
+        ]
+      },
+      {
+        "stem": "A 7-year-old with a brain tumor is on hourly neurologic checks. Which findings would the nurse recognize as LATE signs of increased intracranial pressure? Select all that apply.",
+        "options": [
+          "Heart rate falling from 110 to 64",
+          "Blood pressure rising from 96/58 to 132/60",
+          "A new, irregular breathing pattern",
+          "Pupils that are fixed and do not react to light",
+          "New irritability and complaints of headache",
+          "Heart rate rising while blood pressure falls"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—bradycardia is part of Cushing's triad, a late sign.",
+          "Correct—hypertension is part of Cushing's triad.",
+          "Correct—irregular respirations complete Cushing's triad.",
+          "Correct—fixed pupils are a late sign along with decreased LOC and posturing.",
+          "Incorrect—irritability and headache are EARLY signs; calling them late is a listed trap.",
+          "Incorrect—this is a shock pattern, the opposite of Cushing's triad."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The caregiver of a 5-year-old reports that for the past week the child has vomited forcefully most mornings without first saying they feel sick to their stomach, then eats breakfast normally. The child also says their head hurts when they wake up. The caregiver adds, \"There's a stomach bug going around preschool.\" How should the nurse interpret these findings?",
+        "options": [
+          "The pattern fits a viral gastroenteritis, so the nurse teaches small, frequent sips of oral rehydration fluid",
+          "The pattern suggests anxiety about preschool, since symptoms occur only in the morning before the school day",
+          "Morning vomiting without nausea plus headache on waking is a neurologic red flag that needs prompt evaluation",
+          "The pattern suggests a food intolerance, so the nurse asks the caregiver to keep a food diary for 2 weeks"
+        ],
+        "answer": 2,
+        "explanations": [
+          "'Probably a stomach bug' is the listed trap. A week of morning-only vomiting without nausea, followed by a normal breakfast, does not fit gastroenteritis.",
+          "Anxiety may be asked about, but morning headache and vomiting are red flags that must not be dismissed as school-related.",
+          "CJMM — Recognize cues: repeated morning vomiting that is forceful and without nausea, plus morning headache. Analyze cues: vomiting from increased ICP is often projectile, in the morning, and without nausea; persistent or morning vomiting with headache is a neurologic red flag, not simply a GI complaint. Prioritize hypotheses: increased ICP from a cause such as a tumor until proven otherwise. Take action: arrange prompt evaluation.",
+          "A food diary delays evaluation of a red-flag pattern. Vomiting before eating, with a headache on waking, does not point to food."
+        ]
+      },
+      {
+        "stem": "A caregiver calls the pediatric clinic and says, \"My 3-year-old has a VP shunt. They threw up twice this morning and seem more tired than usual.\" Which response by the nurse is best?",
+        "options": [
+          "\"Please take your child to the emergency department now so they can be checked for a shunt problem.\"",
+          "\"Give small sips of clear liquids for 4 hours, and call back if the vomiting hasn't stopped by then.\"",
+          "\"Before I can advise you, I need to go through a full list of questions about all of the symptoms.\"",
+          "\"Call the neurosurgery office this afternoon to schedule the next available appointment this week.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a child with a VP shunt, new vomiting, and increased sleepiness. Analyze cues: vomiting in a child with a VP shunt means shunt malfunction until proven otherwise; a blocked shunt causes CSF to back up and raise ICP. Prioritize hypotheses: shunt malfunction over gastroenteritis. Take action: send the child to the ED now; shunt problems are always a medical emergency.",
+          "Treating vomiting like a stomach bug at home is the listed trap. Waiting 4 hours with possible increased ICP is unsafe.",
+          "Questions about headache, sleepiness, fever, and vision are useful, but the guide warns not to let questions delay sending the child in.",
+          "A routine appointment this week is far too slow. Possible shunt malfunction needs prompt evaluation in the ED."
+        ]
+      },
+      {
+        "stem": "An 8-month-old had a VP shunt placed 2 weeks ago. The infant now has a temperature of 38.9°C (102°F), redness along the shunt tract on the neck and chest, irritability, and resistance when the nurse flexes the infant's neck. Which conclusion is most accurate?",
+        "options": [
+          "These findings suggest a blocked shunt without infection",
+          "These findings suggest a viral illness with mild irritation",
+          "These findings are expected inflammation of a healing incision",
+          "These findings suggest an infected shunt needing prompt evaluation"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Malfunction (blockage) presents with increased ICP signs such as vomiting, decreased LOC, and bulging fontanel. Fever with redness along the tract points to infection.",
+          "'Fever with a shunt = a cold' is a listed trap. Neck stiffness and redness along the tract make this an emergency.",
+          "Incisions should be healed and without spreading redness. Redness along the tract with fever and a stiff neck is abnormal.",
+          "CJMM — Recognize cues: fever, redness along the shunt tract, irritability, and neck stiffness 2 weeks after placement. Analyze cues: shunt infection presents with fever, redness along the tract, irritability, neck stiffness, and meningitis signs, and is more common soon after placement. Prioritize hypotheses: shunt infection. Take action: prompt evaluation in the ED."
+        ]
+      },
+      {
+        "stem": "A 6-year-old with a VP shunt is brought in with headache, vomiting, and irritability. Which additional finding would most strongly suggest a shunt infection rather than a malfunction alone?",
+        "options": [
+          "The child is harder to wake and confused about the day",
+          "The child's headache worsened through the night",
+          "The vomiting is forceful and happens without nausea",
+          "A temperature of 38.7°C (101.7°F) and redness along the tubing"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Decreased LOC or confusion is a malfunction (increased ICP) sign. It is serious but does not point to infection.",
+          "A worsening headache reflects rising pressure and fits a blocked shunt. It does not separate infection from malfunction.",
+          "Forceful vomiting without nausea is typical of increased ICP from hydrocephalus or shunt blockage, not a specific infection sign.",
+          "CJMM — Analyze cues: headache, vomiting, and irritability occur with both a blocked shunt and an infected one, so they do not separate the two. Prioritize hypotheses: fever plus redness along the tract are the cues specific to infection. Take action: both conditions need prompt ED evaluation, but recognizing infection guides the workup."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching the caregiver of a 10-month-old who went home with a new VP shunt. Which caregiver statement indicates a need for further teaching?",
+        "options": [
+          "\"If my baby's soft spot bulges while they're calm, I'll call right away.\"",
+          "\"If my baby is vomiting and sleepier than usual, we'll go to the ED.\"",
+          "\"Some redness along the tubing is normal for the first few weeks.\"",
+          "\"I'll make sure my baby's head size is measured at every checkup.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct: a bulging fontanel at rest is a warning sign of shunt malfunction in an infant.",
+          "This is correct: vomiting with increased sleepiness means possible shunt malfunction and calls for the ED.",
+          "CJMM — Evaluate outcomes: redness along the shunt tract is a sign of infection, which is more common soon after placement, so treating it as normal is the dangerous misunderstanding. Generate solutions: reteach that fever or redness along the tubing needs a call right away.",
+          "This is correct: head circumference reflects brain growth, and rapid growth is a warning sign in hydrocephalus."
+        ]
+      },
+      {
+        "stem": "A nurse in a neurosurgery clinic has four children with VP shunts waiting to be seen. Which child should the nurse assess first?",
+        "options": [
+          "A 2-year-old who has vomited three times today and is sleepier than usual; a sibling has a stomach virus",
+          "A 4-year-old who is playing in the waiting room, has a healed incision, and is here for a routine follow-up visit",
+          "A 7-month-old with a soft, flat fontanel who is feeding well and has a mild diaper rash the caregiver wants checked",
+          "A 9-year-old who has a runny nose and mild sore throat, has no fever, and is acting like their usual self today"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: vomiting plus increased sleepiness in a child with a shunt. Analyze cues: shunt plus vomiting, headache, or lethargy means malfunction first, even when a parent suspects a stomach bug. Prioritize hypotheses: increased ICP from a blocked shunt is the most dangerous possibility on this list. Take action: assess this child first and escalate.",
+          "Normal play and a healed incision are expected findings for a child with a shunt. This is a routine visit.",
+          "A soft, flat fontanel with good feeding is the normal picture for an infant with a shunt. A diaper rash is not urgent.",
+          "Cold symptoms without fever in a child acting normally do not suggest malfunction or infection. Lower priority."
+        ]
+      },
+      {
+        "stem": "At a 2-month well visit, the nurse notes that an infant's head circumference has moved from the 50th to the 95th percentile since birth. The anterior fontanel is full while the infant is calm, and the eyes appear to look downward with white sclera showing above the irises. What should the nurse do?",
+        "options": [
+          "Ask whether the parents have large heads, since a big head often runs in families and needs only routine follow-up",
+          "Notify the provider of findings that suggest hydrocephalus, and plan for close head-circumference measurements",
+          "Recheck the head circumference at the 4-month visit to see if the growth curve levels off on its own",
+          "Teach the parents to give more supervised tummy time to help the shape and size of the infant's head"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Family history may be asked about, but setting-sun eyes and a full fontanel are not explained by a familial large head. Routine follow-up misses a red flag.",
+          "CJMM — Recognize cues: rapidly increasing head circumference crossing percentiles, a full fontanel at rest, and setting-sun eyes. Analyze cues: excess CSF enlarges the ventricles and, with open sutures, the infant's head expands. Prioritize hypotheses: hydrocephalus with increased ICP. Take action: the look-alike chart says notify and measure head circumference.",
+          "Waiting 2 months with signs of increased ICP is unsafe. A rapidly increasing head circumference calls for action now.",
+          "Tummy time does not treat excess CSF. This mistakes a pressure problem for a head-shape concern."
+        ]
+      },
+      {
+        "stem": "A 5-week-old is brought to the emergency department because the infant is \"not acting right.\" Findings: temperature 35.9°C (96.6°F), taking only half of usual feedings, a high-pitched cry, lethargy, and a bulging fontanel. The neck is supple, and Kernig and Brudzinski signs are negative. Which conclusion should guide the nurse's action?",
+        "options": [
+          "Meningitis is unlikely because the infant has no fever, no neck stiffness, and negative meningeal signs, so the nurse continues to monitor",
+          "The low temperature suggests cold exposure, so the nurse warms the infant and reassesses feeding and alertness in 1 hour",
+          "These findings fit meningitis; negative Kernig and Brudzinski signs do not rule it out in an infant, so the nurse escalates urgently",
+          "The poor feeding and crying suggest a feeding problem such as colic, so the nurse requests a lactation or feeding consult"
+        ],
+        "answer": 2,
+        "explanations": [
+          "This relies on adult-pattern signs. Infants often lack fever, neck stiffness, and positive meningeal signs, so a negative sign does not rule out meningitis.",
+          "In an infant, a low temperature can be a sign of infection. Warming and waiting an hour ignores the lethargy and bulging fontanel and delays antibiotics.",
+          "CJMM — Recognize cues: hypothermia, poor feeding, high-pitched cry, lethargy, and a bulging fontanel in a young infant. Analyze cues: infants do not follow the rules. They may be cold instead of febrile, floppy and irritable, and Kernig and Brudzinski signs are often absent; the guide flags that these signs are NOT always present in infants and young children. Prioritize hypotheses: meningitis with increased ICP. Take action: escalate urgently, start droplet precautions, and anticipate prompt IV antibiotics.",
+          "Colic does not cause a bulging fontanel, lethargy, or hypothermia. This misses 'lethargy (that scary word!!!)' as a red flag."
+        ]
+      },
+      {
+        "stem": "A nurse is assessing a 3-month-old whose caregiver says the infant \"just seems off.\" Which findings should the nurse recognize as possible signs of meningitis in this infant? Select all that apply.",
+        "options": [
+          "Temperature of 36.0°C (96.8°F)",
+          "Taking about half of their usual feeding volume",
+          "A high-pitched cry that is hard to console",
+          "Floppy, decreased muscle tone when picked up",
+          "A sunken fontanel with dry mucous membranes",
+          "Rapid breathing with nasal flaring and wheezing"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—infants with meningitis may be hypothermic rather than febrile.",
+          "Correct—poor feeding or anorexia is a common infant presentation.",
+          "Correct—a high-pitched cry reflects irritability and increased ICP.",
+          "Correct—hypotonia, like neck rigidity, can signal infant meningitis.",
+          "Incorrect—this suggests dehydration; meningitis causes a BULGING fontanel from increased ICP.",
+          "Incorrect—this points to a respiratory illness, not the neurologic pattern of meningitis."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 6-year-old is admitted with suspected bacterial meningitis: fever, neck stiffness, photophobia, and vomiting. The provider has prescribed droplet precautions, IV antibiotics, neurologic checks every hour, and blood and cerebrospinal fluid studies. Which action is the nurse's priority?",
+        "options": [
+          "Hold the IV antibiotics until the cerebrospinal fluid results confirm a bacterial cause, then start the first dose",
+          "Place the child in an airborne isolation room, since meningitis organisms spread through tiny airborne particles",
+          "Dim the lights and cluster care to ease the photophobia before starting the first set of hourly neuro checks",
+          "Start droplet precautions and give the IV antibiotics as soon as prescribed, without waiting for all lab results"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Delaying antibiotics for culture results is a listed trap. Bacterial meningitis is an emergency, and antibiotics are started promptly.",
+          "Meningitis requires DROPLET precautions. 'Contact or airborne only' is a listed trap answer.",
+          "A quiet, dim room is appropriate supportive care but is not the priority over infection control and antibiotics. Right action, wrong priority.",
+          "CJMM — Recognize cues: fever, neck stiffness, photophobia, and vomiting. Analyze cues: suspected bacterial meningitis is a medical emergency. Prioritize hypotheses: preventing neurologic injury and spread comes first. Take action: droplet precautions (mask and eye protection within about 3 feet) and prompt IV antibiotics; the guide says do not delay antibiotics waiting for all labs."
+        ]
+      },
+      {
+        "stem": "A 10-year-old is diagnosed with viral meningitis. The caregiver asks, \"My neighbor's child had meningitis and got IV antibiotics. Why isn't my child getting them?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"Viral meningitis is more dangerous than bacterial, and antibiotics won't work, so your child will need intensive care until the virus clears.\"",
+          "\"Viral meningitis is usually milder and resolves on its own, so it's treated with supportive care, while bacterial needs IV antibiotics.\"",
+          "\"Your child will start IV antibiotics as soon as the viral test results come back, since the antibiotics treat both types of meningitis.\"",
+          "\"Viral meningitis is less common than bacterial, so the team prefers to watch closely for a few days before deciding on antibiotics.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This reverses the prognosis. Viral meningitis is milder and has a better prognosis; it does not routinely need intensive care.",
+          "CJMM — Analyze cues: viral and bacterial meningitis differ. Viral is more common, self-limited, treated with supportive care, and has a better prognosis ('the better one to get'). Bacterial is less common, a medical emergency, and treated with IV antibiotics. Generate solutions: explain the difference so the caregiver understands the plan. Evaluate outcomes: the caregiver can state why care differs.",
+          "'Viral meningitis needs IV antibiotics' is a listed trap. Antibiotics do not treat viruses, and viral meningitis is managed supportively.",
+          "Viral meningitis is MORE common than bacterial. The plan is supportive care because of the cause, not a wait-and-see approach to antibiotics."
+        ]
+      },
+      {
+        "stem": "A nurse is talking with the caregiver of a 2-month-old about vaccines and meningitis prevention. Which caregiver statement indicates a need for further teaching?",
+        "options": [
+          "\"The rotavirus vaccine my baby gets today is the one that protects against meningitis.\"",
+          "\"The Hib shots in the first year protect against a germ that used to cause a lot of meningitis.\"",
+          "\"The pneumococcal vaccine helps protect my baby from one of the bacteria that cause meningitis.\"",
+          "\"Keeping my baby on the recommended vaccine schedule lowers the risk of bacterial meningitis.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes: rotavirus vaccine protects against a GI virus, not meningitis, so this caregiver has confused the vaccines. Rotavirus, varicella, and hepatitis A are the listed trap answers. Generate solutions: reteach that Hib (given in the first year of life), pneumococcal (Streptococcus pneumoniae), and meningococcal (Neisseria meningitidis) vaccines target the bacteria that cause meningitis, and that following AAP guidelines reduces risk.",
+          "This is correct: Hib vaccine in the first year of life dramatically reduced bacterial meningitis in young children.",
+          "This is correct: Streptococcus pneumoniae is one of the vaccine-preventable causes of bacterial meningitis.",
+          "This is correct: the professor stresses following AAP vaccine guidelines to prevent bacterial meningitis."
+        ]
+      },
+      {
+        "stem": "A nurse at a high school health office sees four students who report feeling sick. Which student needs immediate follow-up for possible meningitis?",
+        "options": [
+          "A 14-year-old with fever, headache, and body aches who has a cough and says several classmates have the flu",
+          "A 16-year-old with fever and headache who has a very sore throat with swollen, tender glands in the neck",
+          "A 15-year-old with fever, headache, and vomiting who has neck stiffness and asks to have the lights turned off",
+          "A 17-year-old with a throbbing headache, nausea, and light sensitivity, which they say feels like past migraines"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Fever, headache, and body aches with cough during a flu outbreak fit influenza. Without neck stiffness or photophobia, this is lower priority.",
+          "Neck pain from swollen glands with a sore throat suggests a throat infection. It is not true neck stiffness from inflamed meninges.",
+          "CJMM — Recognize cues: fever, headache, vomiting, neck stiffness, and photophobia. Analyze cues: meningitis combines signs of infection and increased ICP; neck stiffness is the distinguishing sign, and photophobia reflects an irritated brain. Prioritize hypotheses: meningitis is a neurologic emergency. Take action: arrange immediate evaluation and use droplet precautions.",
+          "Photophobia also occurs with migraine. A familiar episodic pattern without fever or neck stiffness fits migraine better than meningitis."
+        ]
+      },
+      {
+        "stem": "A nurse is taking a headache history from an 11-year-old and their caregiver. Which findings should the nurse identify as red flags needing immediate evaluation? Select all that apply.",
+        "options": [
+          "Headaches that wake the child from sleep",
+          "Headaches that are getting worse each week",
+          "Teachers noticing a recent change in personality",
+          "Headaches that ease after drinking water following sports",
+          "A headache that started along with an ear infection",
+          "Vomiting on several mornings before breakfast"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—a headache that wakes the child from sleep is a listed red flag.",
+          "Correct—a progressive, worsening pattern suggests a mass such as a brain tumor.",
+          "Correct—neurologic or personality change is a red flag.",
+          "Incorrect—this suggests dehydration; it is a listed trap, not a red flag.",
+          "Incorrect—headache with otitis media is a listed trap; it has an ordinary explanation.",
+          "Correct—morning headaches or vomiting are red flags for increased ICP or tumor."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 13-year-old has recurrent headaches. Which finding best supports migraine rather than a brain tumor?",
+        "options": [
+          "The headaches are present on waking and are often followed by vomiting",
+          "The neuro exam is normal, and the child feels completely well between episodes",
+          "The child has developed a new unsteady gait over the past few weeks",
+          "The headaches are becoming more frequent and harder to relieve each month"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Morning headaches with vomiting are a classic brain tumor and increased ICP clue, not a migraine feature.",
+          "CJMM — Analyze cues: migraine is episodic, with symptoms that resolve and a NORMAL neuro exam between episodes. A brain tumor is progressive, symptoms do not fully resolve, and focal deficits are very likely. Prioritize hypotheses: a normal exam with complete recovery between attacks favors migraine.",
+          "New ataxia is a focal neurologic deficit and points toward a tumor.",
+          "A progressive, worsening pattern is the hallmark of a tumor. Migraine comes in distinct episodes."
+        ]
+      },
+      {
+        "stem": "A 14-year-old describes seeing zigzag, flickering lights for about 20 minutes. As the lights fade, a throbbing headache begins with nausea, and the teen wants to lie in a dark, quiet room. The teen's parent has similar headaches. Between episodes the teen feels fine, and the neurologic exam today is normal. Which condition best fits this presentation?",
+        "options": [
+          "Brain tumor",
+          "Focal seizure",
+          "Concussion",
+          "Migraine with aura"
+        ],
+        "answer": 3,
+        "explanations": [
+          "A tumor is progressive, does not fully resolve between episodes, and usually causes an abnormal or focal exam. This teen is normal between episodes.",
+          "A focal seizure can cause sensory changes, but the classic sequence of aura, then throbbing headache with nausea and photophobia, family history, and full recovery fits migraine.",
+          "Concussion requires a jolt or head injury and produces ongoing symptoms over days, not repeated, separate episodes with an aura.",
+          "CJMM — Recognize cues: visual aura that ends before a throbbing headache begins, nausea, light and sound sensitivity, family history, full recovery between episodes, and a normal exam. Analyze cues: aura is the hallmark that separates migraine from an ordinary headache, and migraine is episodic, more likely genetic, and has a normal neuro exam. Prioritize hypotheses: migraine. Generate solutions: supportive care and identifying triggers."
+        ]
+      },
+      {
+        "stem": "A 7-year-old has had headaches on waking for 2 months. The caregiver also reports new clumsiness, frequent tripping, and the child \"acting moody and not like themselves.\" The caregiver says, \"I think it's stress from starting a new school.\" What is the nurse's priority action?",
+        "options": [
+          "Perform a focused neurologic exam and a thorough history, and report the findings for urgent evaluation",
+          "Suggest that the family meet with the school counselor to help the child adjust to the new school",
+          "Ask the caregiver to keep a headache diary for 4 weeks and return to review the pattern with the provider",
+          "Recommend an over-the-counter pain reliever and more fluids, then follow up if symptoms continue"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: morning headaches, ataxia, and personality change developing gradually over 2 months. Analyze cues: brain tumors are the most common solid tumors of childhood; symptoms develop gradually and progress, with morning headaches, morning vomiting, ataxia, vision and personality changes, new seizures, and focal deficits. Prioritize hypotheses: brain tumor until proven otherwise. Take action: neuro exam, thorough history, and urgent evaluation. It is fine to ask about school stress, but do not dismiss.",
+          "School stress can be explored, but attributing ataxia and personality change to adjustment dismisses red flags.",
+          "A diary delays evaluation of a worsening pattern with focal findings. The guide says to evaluate immediately.",
+          "Treating symptoms masks a progressive neurologic picture and delays diagnosis of a possible tumor."
+        ]
+      },
+      {
+        "stem": "A nurse is teaching a 12-year-old with migraines and their caregiver. Which statement indicates a need for further teaching?",
+        "options": [
+          "\"Between my migraines, I feel totally normal and can do all of my usual activities.\"",
+          "\"Lying down in a dark, quiet room helps me get through a migraine when it starts.\"",
+          "\"If one side of my body stays weak after a headache ends, that's just part of my migraines.\"",
+          "\"A headache that wakes me up at night or gets worse each week is something to report.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct: children with migraine return to baseline between episodes.",
+          "This is correct: supportive care for photophobia and phonophobia, such as a dark, quiet room, is appropriate.",
+          "CJMM — Evaluate outcomes: migraine has a normal neurologic exam between episodes; 'migraine causes focal weakness that persists' is a listed trap. Persistent one-sided weakness is a focal deficit that needs immediate evaluation. Generate solutions: reteach that any lasting weakness or other neuro change must be reported right away.",
+          "This is correct: waking from sleep and progressive worsening are headache red flags."
+        ]
+      },
+      {
+        "stem": "An 11-year-old is being discharged from the emergency department after a concussion with a normal CT scan. Which findings should the nurse teach the caregiver to treat as reasons to return for emergency evaluation? Select all that apply.",
+        "options": [
+          "Vomiting repeatedly",
+          "Becoming sleepier and harder to wake",
+          "One pupil looking larger than the other",
+          "A mild headache that improves with rest",
+          "Feeling tired and a bit foggy on the second day",
+          "New confusion about where they are"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—repeated vomiting is a red flag after head injury.",
+          "Correct—increasing sleepiness or difficulty waking signals worsening injury.",
+          "Correct—unequal pupils are an emergency sign.",
+          "Incorrect—mild headache that is improving over days is expected after a concussion.",
+          "Incorrect—fatigue and fogginess are expected physical and cognitive symptoms that improve over days.",
+          "Correct—new confusion is a red flag requiring emergency evaluation."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 15-year-old soccer player is recovering from a concussion. The teen has completed symptom-limited activity and then light aerobic exercise on a stationary bike with no return of symptoms. Which activity is the appropriate next step?",
+        "options": [
+          "Running and dribbling drills alone with no heading of the ball",
+          "Non-contact team practice with complex passing drills",
+          "Full-contact practice once the coach approves it",
+          "Playing in this weekend's game since symptoms are gone"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Generate solutions: return-to-play follows six steps in order: (1) symptom-limited activity, (2) light aerobic exercise, (3) sport-specific exercise with no head impact, (4) non-contact practice, (5) full practice after medical clearance, (6) game participation. Take action: the teen has finished step 2, so step 3, sport-specific drills without head impact, comes next.",
+          "Non-contact practice is step 4. It skips sport-specific exercise; correct activity, but not yet.",
+          "Full practice is step 5 and requires MEDICAL clearance, not just a coach's approval. It skips two steps.",
+          "'They feel fine, so they can play Saturday' is the listed trap. Game play is the final step, and returning early risks second-impact syndrome."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 9-year-old who had a concussion 2 days ago is reviewing discharge teaching with the nurse. Which caregiver statement indicates a need for further teaching?",
+        "options": [
+          "\"We'll ask the school for shorter assignments and extra breaks while my child gets back into the routine.\"",
+          "\"We'll limit video games and tablet time for now, since screens can make the symptoms worse.\"",
+          "\"If my child gets harder to wake up or starts vomiting again, we'll go back to the emergency department.\"",
+          "\"The CT scan was normal, so it wasn't really a concussion and my child can go back to everything.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct: return-to-learn includes shorter assignments, frequent breaks, and a gradual return to school.",
+          "This is correct: reduced screen time is a return-to-learn accommodation.",
+          "This is correct: increasing sleepiness, difficulty waking, and repeated vomiting are red flags that need emergency evaluation.",
+          "CJMM — Evaluate outcomes: a concussion is a mild TBI with a temporary neurometabolic disruption and usually no structural abnormality on CT or MRI, so 'a normal CT means no concussion' is a listed trap. Generate solutions: reteach that the recovering brain is vulnerable and needs a gradual return-to-learn and return-to-play plan."
+        ]
+      },
+      {
+        "stem": "A 16-year-old football player had a concussion last Friday and still had a mild headache this week but played in tonight's game. After a tackle, the teen walked to the sideline, then within minutes became confused, then unresponsive, with one pupil larger than the other. Which conclusion should guide the nurse's response?",
+        "options": [
+          "This is a second concussion that will take longer to heal, so the teen should rest at home and be watched overnight",
+          "This is likely second-impact syndrome, an emergency requiring immediate airway, breathing, circulation, and C-spine support",
+          "This is likely an exertional migraine triggered by the game, so the teen should rest in a dark, quiet space on the sideline",
+          "This is likely heat exhaustion and dehydration, so the teen should be moved to shade, cooled, and given oral fluids"
+        ],
+        "answer": 1,
+        "explanations": [
+          "'A second concussion just takes longer to heal' is a listed trap. Rapid decline with unequal pupils is an emergency, not home care.",
+          "CJMM — Recognize cues: a second hit before the first concussion healed, followed by rapid decline and unequal pupils. Analyze cues: second-impact syndrome is a second hit before healing causing rapid, massive brain swelling that can lead to severe injury or death. Prioritize hypotheses: second-impact syndrome, an emergency. Take action: ABCs and C-spine protection with emergency transport. This is the reason return-to-play is gradual.",
+          "Migraine does not cause unresponsiveness and unequal pupils after a hit. This misses the head-injury cue.",
+          "Heat illness does not explain unequal pupils after a tackle in a teen with an unhealed concussion. Oral fluids are unsafe in an unresponsive patient."
+        ]
+      },
+      {
+        "stem": "An 8-year-old is brought to the emergency department after being struck by a car. The child responds only to pain, has snoring respirations, a heart rate of 130, a blood pressure of 88/50, and a bleeding scalp laceration. Which action should the nurse take first?",
+        "options": [
+          "Apply firm, direct pressure to the bleeding scalp laceration",
+          "Open the airway while keeping the cervical spine in neutral alignment",
+          "Complete a full neurologic exam, including pupil size and reaction",
+          "Prepare the child for transport to an urgent CT scan of the head"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Bleeding control supports circulation, which matters with a low blood pressure, but it comes after the airway. Right action, wrong priority.",
+          "CJMM — Recognize cues: snoring respirations (a partially obstructed airway) in a child with decreased LOC after trauma. Prioritize hypotheses: airway compromise is the most immediate threat, and the injury mechanism means the C-spine must be protected. Take action: the moderate-to-severe TBI priority is Airway and Breathing → Circulation → C-spine protection throughout → frequent neuro exams → monitor for increased ICP. The goal is to prevent secondary brain injury by keeping oxygen flowing to the brain.",
+          "Frequent neuro exams are essential but follow ABCs and C-spine protection. Assessing before securing the airway is unsafe.",
+          "Imaging comes after the child is stabilized. Transporting a child with an obstructed airway is unsafe."
+        ]
+      }
+    ],
+    "peds2-wk9-musculoskeletal": [
+      {
+        "stem": "A nurse in a pediatric clinic reviews the charts of four children seen today. Which finding should the nurse flag for prompt provider follow-up?",
+        "options": [
+          "A 9-month-old whose knee X-ray shows gaps between the bone ends where cartilage has not yet turned to bone",
+          "An 18-month-old who walked independently at 12 months but now only crawls and pulls to stand",
+          "A 6-year-old whose forearm bent and bulged after a fall instead of snapping completely through",
+          "A 13-year-old whose wrist X-ray still shows open growth plates near the ends of the long bones"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Ossification (cartilage turning into bone) is not complete until adolescence. Cartilage gaps on a 9-month-old's X-ray are an expected developmental finding, not a lesion.",
+          "CJMM — Recognize cues: the 18-month-old has lost a motor skill (walking) that was already achieved. Analyze cues: the guide lists lost milestones as an abnormal MSK/neuromuscular finding; milestones are how the nurse sees the nervous and muscular systems maturing, and losing one suggests a progressive process (for example, a muscular dystrophy) rather than simple delay. Prioritize hypotheses: a regression is more concerning than any expected developmental variation on this list. Take action: flag the regression for prompt provider evaluation. The other three findings are expected because ossification is incomplete until adolescence and children's bones bend rather than break.",
+          "Children's softer bones bend or buckle rather than break. A buckle fracture still needs immobilization, but the bending pattern itself is the expected pediatric response, not a red flag.",
+          "Growth plates stay open through adolescence, which is where new bone is made. An open physis at 13 is expected; it is a vulnerable spot if injured, not an abnormal finding."
+        ]
+      },
+      {
+        "stem": "The caregiver of a 10-year-old with a fracture through the growth plate of the distal tibia asks why so many orthopedic follow-up visits are scheduled when the cast \"feels fine.\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"By age 10 the bones have finished hardening, so the visits mainly check that the cast still fits well.\"",
+          "\"Growth plate breaks heal the same way adult fractures do, so the extra visits are only a precaution.\"",
+          "\"An injury to the growth plate can change how that bone grows in length, so the team checks it is healing correctly.\"",
+          "\"Children's bones heal more slowly than adults' bones, so the cast needs to be checked more often.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is the trap that bones are fully ossified early. Ossification is not complete until adolescence, so a 10-year-old's growth plates are still active.",
+          "The guide lists this exact statement as a trap. Growth plate fractures are more concerning than other fractures because they can impair the bone's growth.",
+          "CJMM — Recognize cues: the fracture involves the physis (growth plate) of a school-age child. Analyze cues: the growth plate is where new bone is made, and an injury there can interrupt growth and cause a limb-length difference later if it is not treated correctly. Generate solutions / Take action: explain the purpose of follow-up in terms the caregiver can act on, which supports keeping every appointment even when the child feels well. Evaluate outcomes: the caregiver keeps the follow-up schedule.",
+          "Children heal faster than adults because growing bone has a good blood supply. The reason for close follow-up is the growth plate, not slow healing."
+        ]
+      },
+      {
+        "stem": "During a newborn assessment, the nurse notes a small dimple with a tuft of dark hair over the lower lumbar spine. There is no sac. The newborn kicks both legs vigorously, withdraws both feet to touch, and has passed meconium and voided. Which conclusion is best supported?",
+        "options": [
+          "These findings fit spina bifida occulta, a vertebral defect with the cord intact, so neurologic deficits are not expected",
+          "These findings fit a meningocele, with the meninges protruding under the skin, so bowel and bladder deficits are likely",
+          "These findings fit a closed myelomeningocele, so the newborn should be placed prone with a moist sterile dressing",
+          "These findings fit a normal skin variation, so no documentation or further evaluation is needed"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a sacral dimple and hair tuft, no protruding sac, and normal motor, sensory, bowel, and bladder function. Analyze cues: in occulta (\"hidden\") the vertebrae do not close but nothing protrudes; the cord is intact and there are usually no neurologic symptoms. Meningocele and myelomeningocele both produce a visible sac. Prioritize hypotheses: occulta is the only type that fits a skin marker without a sac. Take action: document the finding and report it so it can be followed.",
+          "A meningocele produces a visible fluid-filled sac. There is no sac here, so a meningocele does not fit.",
+          "A myelomeningocele is a visible sac containing meninges and spinal cord, with motor and sensory deficits below the level. This newborn has no sac and normal leg movement and elimination.",
+          "A dimple, hair tuft, or skin discoloration over the lower back is the classic marker of spina bifida occulta. It should be documented, not dismissed."
+        ]
+      },
+      {
+        "stem": "A newborn has a skin-covered, fluid-filled sac over the lumbar spine. Which additional assessment finding most strongly suggests a meningocele rather than a myelomeningocele?",
+        "options": [
+          "The defect was identified on a prenatal fetal ultrasound",
+          "The sac is covered with intact skin rather than open membranes",
+          "The sac is located over the lower lumbar or sacral spine",
+          "Active movement and sensation in both legs, with normal stooling and voiding"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Both meningocele and myelomeningocele can be seen on fetal ultrasound, so this finding does not tell them apart.",
+          "A meningocele is usually skin-covered, but a myelomeningocele can also have skin covering. Skin coverage alone does not distinguish them.",
+          "Both types most often occur in the lower spine, so the location of the sac does not separate them.",
+          "CJMM — Recognize cues: a visible sac, plus intact movement, sensation, and elimination below the level of the defect. Analyze cues: in a meningocele only the meninges protrude and the spinal cord stays in its normal position, so deficits are usually fewer. In a myelomeningocele the cord itself is in the sac, causing motor and sensory loss below the level along with bowel and bladder dysfunction. Prioritize hypotheses: normal function below the sac is the discriminating cue that points to meningocele. Note that ultrasound detection, location, and skin coverage are shared by both."
+        ]
+      },
+      {
+        "stem": "A term newborn is delivered with an open lumbar myelomeningocele. The membranes of the sac are intact. Which action should the nurse take first?",
+        "options": [
+          "Position the newborn side-lying and cover the sac with dry sterile gauze so it stays clean",
+          "Measure the head circumference and fontanel to establish a baseline before moving the newborn",
+          "Position the newborn prone and cover the sac with a moist sterile dressing",
+          "Position the newborn supine on a padded ring so the parents can hold and feed the newborn"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Side-lying is less protective than prone, and a dry dressing is the trap: it sticks to and dries the delicate tissue.",
+          "Head circumference and fontanel monitoring for hydrocephalus is part of care, but it is correct-but-not-yet. Protecting the exposed sac comes first.",
+          "CJMM — Recognize cues: an open sac containing spinal cord and meninges. Analyze cues: the sac is at risk for rupture, drying, and infection, which would worsen neurologic damage and invite meningitis. Prioritize hypotheses: protecting the sac is the first priority. Generate solutions / Take action: position PRONE (no pressure on the sac) and keep the membranes moist under a sterile dressing. Then prevent infection, keep the environment latex-free, prepare for surgical repair, and monitor neurologic status, bowel and bladder function, and head circumference.",
+          "Supine positioning puts pressure on the sac, and the guide lists starting oral feeds immediately as a trap. Feeding is not the preoperative priority."
+        ]
+      },
+      {
+        "stem": "A 4-day-old is 3 days post-repair of a lumbar myelomeningocele. Which finding requires the nurse's immediate follow-up?",
+        "options": [
+          "Flaccid legs with no response to touch below the knees, unchanged since birth",
+          "Head circumference 2 cm larger than yesterday, with a tense, bulging anterior fontanel",
+          "A bladder that does not empty on its own, requiring intermittent catheterization",
+          "Lying prone and settling between feeds, with a clean, dry incision"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Motor and sensory loss below the level of the defect is the expected deficit of a myelomeningocele. It needs ongoing care, but an unchanged finding is not a new emergency.",
+          "CJMM — Recognize cues: rapid head growth and a tense, bulging fontanel. Analyze cues: myelomeningocele is strongly associated with hydrocephalus because CSF cannot circulate normally, and the guide makes frequent neurologic assessment for hydrocephalus/increased ICP the post-repair priority (bulging fontanel, increasing head circumference, irritability, setting-sun eyes). Prioritize hypotheses: rising ICP is a new, time-sensitive change. The leg and bladder deficits are long-standing and expected. Take action: report to the provider immediately and continue close neurologic checks.",
+          "Bladder dysfunction is an expected deficit of a myelomeningocele and is managed with a bladder program. It is not a sudden change.",
+          "This is a stable, expected post-op picture."
+        ]
+      },
+      {
+        "stem": "A 3-year-old with a myelomeningocele is admitted for a shunt revision. Which actions should the nurse include in the plan of care? Select all that apply.",
+        "options": [
+          "Use nitrile or vinyl gloves for all care, including diaper changes",
+          "Stock the room with 100% silicone or latex-free urinary catheters",
+          "Screen every supply that touches the child, including tape and tubing, for latex",
+          "Allow latex balloons from visitors as long as the child has no history of hives",
+          "Use latex gloves only for brief, non-sterile tasks such as taking vital signs",
+          "Confirm that epinephrine is available in case of an anaphylactic reaction"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—a latex-safe environment uses nitrile or vinyl gloves for every contact.",
+          "Correct—frequent catheterization is a major latex exposure. Catheters must be silicone or latex-free.",
+          "Correct—the guide says to screen all supplies, because hidden latex can trigger a reaction.",
+          "Incorrect—the absence of a past reaction does not make latex safe. Children with spina bifida have an exceptionally high risk of life-threatening latex allergy, and balloons are a named exposure.",
+          "Incorrect—\"a little latex is okay\" is a listed misunderstanding. Every exposure counts and can cause anaphylaxis.",
+          "Correct—latex allergy can cause anaphylaxis, which is treated with epinephrine."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "The nurse is preparing the parents of an infant with a repaired myelomeningocele for discharge. Which statement by a parent indicates a need for further teaching?",
+        "options": [
+          "\"We'll call right away if our baby becomes very irritable, vomits, or the soft spot feels tight or bulging.\"",
+          "\"I'll start taking folic acid as soon as a pregnancy test is positive next time.\"",
+          "\"We'll give the latex-free supply list to every office we visit, even the dentist.\"",
+          "\"We'll keep to the catheterization schedule because the bladder may not empty on its own.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This is correct. Irritability and a bulging fontanel are signs of hydrocephalus/increased ICP that must be reported.",
+          "CJMM — Evaluate outcomes: the teaching on folic acid did not take. The neural tube closes very early in pregnancy, often before a pregnancy is recognized, so folic acid must be taken BEFORE and during pregnancy to lower recurrence risk. \"Folic acid only matters after I find out I'm pregnant\" is a listed misunderstanding. The other three statements show correct monitoring for hydrocephalus, latex safety, and bladder management.",
+          "This is correct. The child needs a latex-safe environment in every setting.",
+          "This is correct. Bladder dysfunction is an expected deficit, and regular emptying is part of home care."
+        ]
+      },
+      {
+        "stem": "An infant returned from surgical closure of a myelomeningocele 6 hours ago. Which nursing action is the priority at this time?",
+        "options": [
+          "Perform frequent neurologic assessments, including fontanel and head circumference",
+          "Teach the parents about taking folic acid before any future pregnancy",
+          "Inspect the skin around the incision for hair growth and pigment changes",
+          "Begin arranging physical therapy and urology referrals for discharge"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Prioritize hypotheses: after myelomeningocele repair, the greatest immediate threat is hydrocephalus with rising ICP, which can develop or worsen once the sac is closed. Take action: frequent neurologic assessment (fontanel, head circumference, irritability, setting-sun eyes) is the guide's stated post-repair priority. Folic acid teaching and therapy coordination come later, and inspecting for hair growth is an occulta cue, not a post-op priority.",
+          "Folic acid teaching matters but is not the priority. The guide places it after neurologic monitoring post-op.",
+          "Checking hair growth at the site is a listed trap. It describes occulta markers and does not address the immediate post-op risk.",
+          "Care coordination is needed eventually, but it is correct-but-not-yet in the first post-op hours."
+        ]
+      },
+      {
+        "stem": "The nurse reviews home care with the caregiver of a 3-week-old who is having serial casting for bilateral clubfoot. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"Each new cast stays on for a couple of weeks and moves the feet a little closer to normal.\"",
+          "\"I'll check that the toes stay pink and warm and call if they look pale or swollen.\"",
+          "\"If the casts seem to bother our baby, we can soak them off at home for a day or two.\"",
+          "\"We can still do tummy time with the casts on to help our baby develop.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. In serial casting each cast stays a couple of weeks and is then replaced with a new one.",
+          "This is correct. Neurovascular checks below the cast are essential home care.",
+          "CJMM — Evaluate outcomes: the caregiver misunderstands how serial casting works. Each cast holds the progress made by the last manipulation, and removing casts at home loses that correction, so treatment can fail and surgery may become necessary. \"If the cast bothers him we can take it off for a few days\" is a listed misunderstanding. The other statements show correct neurovascular checks, correct cast scheduling, and appropriate developmental activity.",
+          "This is correct. Tummy time and weight-bearing activities are part of the clubfoot plan."
+        ]
+      },
+      {
+        "stem": "Two hours after new long-leg casts are applied for clubfoot, the nurse assesses a 5-week-old. Which finding requires the nurse to notify the provider?",
+        "options": [
+          "The toes of the right foot are pale and cool, with sluggish capillary refill compared with the left",
+          "The infant fussed during casting but settled after a feeding and is now sleeping",
+          "The toes of both feet are pink and warm and curl when the soles are stroked",
+          "The casts feel damp in a few spots and still have a slight plaster smell"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: pallor, coolness, and slow capillary refill in one foot. Analyze cues: comparing with the other limb shows asymmetric loss of perfusion below the cast. Pale, cool, or blue skin and slow refill are \"act now\" findings on the neurovascular check. Prioritize hypotheses: a cast that is too tight and compromising circulation outranks expected post-procedure fussing or a drying cast. Take action: notify the provider promptly. \"Cold, pale toes are expected in a cast\" is a listed misunderstanding.",
+          "Fussing during the procedure that resolves with comfort measures is expected.",
+          "These are normal neurovascular findings: good color, warmth, and movement.",
+          "A cast that is still drying shortly after application is expected. It should be handled gently, but it does not signal compromised circulation."
+        ]
+      },
+      {
+        "stem": "A parent of newborn twins, one of whom has bilateral clubfoot, asks the nurse, \"Did I do something to cause this?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"It happens when a crowded uterus presses on the feet, so it usually straightens out without treatment.\"",
+          "\"It comes from how the lower-leg muscles developed. It is linked to genetics and to twin births, and it is very fixable.\"",
+          "\"It usually affects one foot, so finding it in both feet means a genetic syndrome is likely.\"",
+          "\"It usually needs surgery in the first few weeks, so the surgeon will plan the operation.\""
+        ],
+        "answer": 1,
+        "explanations": [
+          "This misstates the cause, and it falsely suggests no treatment is needed. Clubfoot needs stretching, serial casting, and orthopedic follow-up.",
+          "CJMM — Recognize cues: parental guilt and a twin birth. Analyze cues: clubfoot results from abnormal lower-leg muscle development, is usually bilateral, and is associated with genetics, multiple gestation, and certain trisomies. It is described as \"fixable.\" Generate solutions / Take action: give an accurate, non-blaming explanation that also sets correct expectations for stretching and serial casting, with surgery only if needed.",
+          "Clubfoot is usually bilateral (both feet). Bilateral involvement alone does not imply a syndrome.",
+          "Treatment starts with gentle stretching and serial casting. Surgery is only for severe cases or when casting or bracing fails."
+        ]
+      },
+      {
+        "stem": "A 2-year-old is seen for a third fracture this year, each after a minor bump. The nurse notes bluish sclerae, very loose joints, and height below the 5th percentile. A parent says they \"broke a lot of bones as a kid too.\" Which conclusion should guide the nurse's next action?",
+        "options": [
+          "The findings point to physical abuse, so the priority is to remove the child from the caregivers immediately",
+          "The findings point to Duchenne muscular dystrophy, so the nurse should check for a Gower sign",
+          "The findings point to a dietary calcium deficiency, so the nurse should teach calcium-rich foods",
+          "The findings point to osteogenesis imperfecta, so the nurse documents the findings carefully and reports them"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Multiple fractures do make the nurse think of abuse first, but blue sclerae, hypermobile joints, and a positive family history point to OI. The nurse documents carefully and reports per policy, but jumping to removal ignores the cues.",
+          "DMD causes progressive muscle weakness and a Gower sign, not fractures with minimal trauma and blue sclerae.",
+          "\"OI is caused by a lack of calcium in the diet\" is a listed misunderstanding. OI is a genetic collagen defect.",
+          "CJMM — Recognize cues: fractures with minimal trauma, blue sclerae, hypermobile joints, short stature, and a parent with a similar history. Analyze cues: this cluster is the hallmark of osteogenesis imperfecta, a usually autosomal dominant collagen defect (collagen is also in the sclera and joints). Prioritize hypotheses: abuse is the classic look-alike, and the guide says to check for blue sclerae, family history, and hypermobile joints to tell them apart. Take action: document carefully and report either way so the team can evaluate."
+        ]
+      },
+      {
+        "stem": "An 18-month-old with osteogenesis imperfecta is admitted for observation after a fall. The admission orders include vital signs every 4 hours. How should the nurse obtain the blood pressure?",
+        "options": [
+          "Use a manual cuff, inflating only as much as needed, and limit readings to those ordered",
+          "Use an automatic cuff on a 15-minute cycle so the child is handled as little as possible",
+          "Omit blood pressure readings and document that they are contraindicated in OI",
+          "Use an automatic cuff on the thigh, because the femur is larger and stronger than the arm"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: OI means brittle bones that fracture with minimal trauma. Analyze cues: the professor flagged in red that automatic BP cuffs can fracture bones in OI. Generate solutions: BP should be taken but limited, with a manual cuff where the nurse controls inflation. Take action: use a manual cuff, inflate gently, and avoid unnecessary readings and pokes.",
+          "An automatic cuff inflates with high, uncontrolled pressure that can fracture fragile bones. Frequent cycling multiplies that risk.",
+          "\"Her doctor can never take her blood pressure\" is a listed misunderstanding. BP should still be taken, just limited and with a manual cuff.",
+          "Any bone in OI can fracture. The problem is the automatic cuff, not the limb chosen."
+        ]
+      },
+      {
+        "stem": "The nurse reviews home care with the parents of a 3-year-old with osteogenesis imperfecta. Which statement by a parent indicates a need for further teaching?",
+        "options": [
+          "\"We'll keep our child in bed or in the stroller most of the day so there is no risk of a fracture.\"",
+          "\"When changing diapers, I'll lift by the hips and bottom instead of pulling up by the ankles.\"",
+          "\"Genetic counseling will help us understand the chances for any future children.\"",
+          "\"Physical therapy helps keep our child's muscles strong without stressing the bones.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes: the parents have overcorrected. The professor stressed NEVER limiting ALL activity in OI. Immobility weakens muscle and bone, while safe, supervised activity and PT keep the child strong. \"She should stay in bed so she never breaks a bone\" is a listed misunderstanding. The other statements show correct handling, genetic understanding, and therapy use.",
+          "This is correct. Lifting by supporting the buttocks and back avoids the twisting force of pulling on the ankles or arms.",
+          "This is correct. OI is genetic, and genetic counseling is part of the plan.",
+          "This is correct. PT and safe activity are encouraged."
+        ]
+      },
+      {
+        "stem": "A parent who has osteogenesis imperfecta asks the nurse how their 4-year-old inherited the condition and whether a future child could have it. Which explanation is most accurate?",
+        "options": [
+          "\"OI is X-linked recessive, so only sons are affected, and daughters can be carriers.\"",
+          "\"OI is autosomal recessive, so both parents must carry the gene for a child to be affected.\"",
+          "\"OI is usually autosomal dominant, so one copy from either parent can cause it, and it can also arise as a new mutation.\"",
+          "\"OI develops from low calcium during pregnancy, so it is not passed down in families.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This describes Duchenne muscular dystrophy, not OI. Confusing the two is a listed trap.",
+          "OI is usually autosomal dominant, so it does not require two copies.",
+          "CJMM — Recognize cues: an affected parent and an affected child. Analyze cues: OI is usually autosomal dominant, so only ONE copy of the gene from either parent is needed, and it can also occur as a new mutation. Generate solutions / Take action: give an accurate explanation and refer the family to genetic counseling, which the guide lists as core OI care. The X-linked pattern belongs to DMD.",
+          "OI is a genetic collagen defect, not a nutritional problem."
+        ]
+      },
+      {
+        "stem": "A 4-month-old is evaluated for a femur fracture, and a skeletal survey shows two older rib fractures. Which additional finding most supports osteogenesis imperfecta rather than abuse as the cause?",
+        "options": [
+          "Fractures in more than one stage of healing on the skeletal survey",
+          "A caregiver who waited 2 days before bringing the infant for care",
+          "A femur fracture in an infant who is not yet walking",
+          "Blue sclerae, hypermobile joints, and a parent with frequent childhood fractures"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Multiple fractures of different ages can occur with either abuse or OI, so this does not discriminate.",
+          "Delay in seeking care increases suspicion for abuse. It does not point toward OI.",
+          "A non-walking infant's femur fracture is a concerning fracture for abuse (or OI). It raises suspicion but does not distinguish the two.",
+          "CJMM — Analyze cues: a non-walking infant's femur fracture with old rib fractures is a concerning-fracture pattern, and the guide says to think of abuse first. Prioritize hypotheses: OI is the classic look-alike, and the cues that separate it are blue sclerae, family history, and hypermobile joints, which reflect the underlying collagen defect. Take action: document all findings carefully and report either way. Healing stage, delayed care, and the femur fracture itself do not distinguish the two."
+        ]
+      },
+      {
+        "stem": "A provider examines a 2-day-old with the diaper off. With the newborn's hips flexed, the provider abducts one thigh while lifting the femur forward and feels a distinct clunk. What should the nurse conclude and anticipate?",
+        "options": [
+          "A positive Barlow sign shows the hip slipping out, so the nurse anticipates rechecking it at the 2-month visit",
+          "A positive Ortolani sign shows a dislocated hip moving back in, so the nurse anticipates imaging and orthopedic evaluation",
+          "A clunk is a normal finding from newborn ligament looseness, so the nurse documents it as expected",
+          "A positive Ortolani sign confirms DDH, so the nurse anticipates applying a spica cast without imaging"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Barlow is adduction with downward pressure, which makes an unstable hip slip OUT. The described maneuver (abduct and lift forward) is Ortolani, and waiting 2 months delays treatment of a fixable problem.",
+          "CJMM — Recognize cues: abduction with the femur lifted forward produces a clunk. Analyze cues: Ortolani = abduct and lift, so a dislocated femoral head clunks back IN (\"Only back IN\"). Barlow = adduct and push, so the hip slips out (\"Bye-bye\"). Prioritize hypotheses: a positive Ortolani means the hip was dislocated, which is DDH. Generate solutions: imaging is still needed, followed by orthopedic evaluation, and a Pavlik harness is first choice under 6 months.",
+          "A clunk on the hip exam is the abnormal finding that the newborn maneuvers are designed to detect. Calling it normal misses DDH.",
+          "The guide notes that imaging (X-ray) is still needed after the maneuvers. A spica cast is used after 6 months or when the Pavlik harness fails, not first-line in a newborn."
+        ]
+      },
+      {
+        "stem": "A nurse reviews well-child findings for four infants. Which infant's finding should the nurse report for orthopedic evaluation?",
+        "options": [
+          "A 2-month-old who kicks both legs equally and cries during the hip examination",
+          "A 1-month-old who keeps the hips and knees flexed when lying on the back",
+          "A 4-month-old with thigh and buttock creases that match, whose knees are level when flexed",
+          "A 4-month-old with one knee lower than the other when the knees are flexed, and limited abduction on that side"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Symmetric kicking is reassuring, and crying during an exam is expected at this age.",
+          "A flexed resting posture is typical of young infants and does not suggest hip instability.",
+          "Symmetric creases and equal knee height are the normal counterparts of the DDH signs.",
+          "CJMM — Recognize cues: unequal knee height and limited hip abduction on one side. Analyze cues: the guide's DDH sign chart lists one leg shorter or turned out, unequal knee height, uneven buttock creases, and limited hip ROM. Prioritize hypotheses: by 4 months the Barlow and Ortolani maneuvers become less reliable, so these asymmetry signs are the cues that point to DDH. Take action: refer for orthopedic evaluation and imaging. Caught early, DDH is fixable (Pavlik harness under 6 months)."
+        ]
+      },
+      {
+        "stem": "The parent of a healthy 1-week-old asks the nurse for tips on swaddling. Which instruction best protects the newborn's hip development?",
+        "options": [
+          "\"Wrap the arms and legs straight and snug so your baby feels secure and startles less.\"",
+          "\"Use two diapers so your baby's legs are spread wide and held apart at all times.\"",
+          "\"Keep the blanket snug around the chest but loose at the hips so the legs can bend up and out.\"",
+          "\"Swaddle firmly from the waist down and leave the arms free so your baby can self-soothe.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "Tight swaddling with the legs straight and together is the listed trap. It forces the hips into extension and adduction, which works against hip development.",
+          "Double-diapering is not a recommended treatment or prevention method and appears in the guide's misunderstanding list. Proper positioning comes from loose swaddling, not bulk.",
+          "CJMM — Generate solutions: the guide says to avoid tight swaddling with the legs straight and together, and to position the hips flexed and abducted, which is the same position the Pavlik harness uses to let the socket grow around the femoral head. Take action: teach hip-healthy swaddling that leaves the legs free to bend up and out. Evaluate outcomes: the parent shows a swaddle that is loose at the hips.",
+          "Swaddling firmly from the waist down still holds the hips extended and together, the position to avoid."
+        ]
+      },
+      {
+        "stem": "An 8-month-old is newly diagnosed with developmental dysplasia of the hip. The parent says, \"My niece wore a little harness for this as a newborn. Will we get one too?\" Which response by the nurse is most accurate?",
+        "options": [
+          "\"Yes. The Pavlik harness is first choice at any age, and it is worn about 12 hours a day.\"",
+          "\"Instead of a harness, your baby will stay off the leg with no weight bearing until the hip stabilizes.\"",
+          "\"At 8 months, a spica cast or surgery is more likely, because the harness works best before 6 months.\"",
+          "\"We'll wait until your baby starts walking and then check the gait before choosing a treatment.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "The Pavlik harness is first choice under 6 months and is worn 24/7, off only briefly for bathing. Both parts of this answer are wrong.",
+          "Non-weight-bearing is the treatment for SCFE, not DDH. Confusing the two is a listed trap.",
+          "CJMM — Recognize cues: DDH diagnosed at 8 months. Analyze cues: the professor flagged that the Pavlik harness is first choice under 6 months, worn 24/7. A spica cast is used after 6 months or if the Pavlik fails. Prioritize hypotheses: the child's age, not the diagnosis alone, changes the treatment. Take action: set accurate expectations with the parent.",
+          "Waiting lets the dysplasia worsen and loses the window when DDH is most fixable."
+        ]
+      },
+      {
+        "stem": "A 20-month-old who began walking at 15 months is brought in because of a persistent waddling limp. The nurse notes that one leg appears shorter, and when the toddler stands on that leg the opposite hip drops. There is no fever and no history of injury. Which conclusion is best supported?",
+        "options": [
+          "Late-detected developmental dysplasia of the hip, requiring orthopedic evaluation",
+          "Slipped capital femoral epiphysis, requiring immediate non-weight-bearing",
+          "Osteomyelitis of the femur, requiring prompt IV antibiotics",
+          "A normal wide-based toddler gait that will resolve with more walking practice"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a new walker with a waddling limp, an apparent leg-length difference, and a hip that drops on the opposite side when standing (Trendelenburg gait). Analyze cues: the guide's limping-child chart pairs \"waddling gait / leg-length difference in a new walker\" with DDH. Prioritize hypotheses: age rules out SCFE, and the absence of fever argues against osteomyelitis. Take action: refer for orthopedic evaluation and possible harness or casting.",
+          "SCFE occurs in adolescents (11–16) during a growth spurt, not in toddlers.",
+          "Osteomyelitis causes bone pain, fever, and chills. This toddler is afebrile with no tenderness described.",
+          "A leg-length difference and a hip drop (Trendelenburg gait) are abnormal. Calling them a normal toddler gait misses the diagnosis."
+        ]
+      },
+      {
+        "stem": "The nurse teaches the caregiver of a 6-week-old who has a new Pavlik harness. Which instructions should the nurse include? Select all that apply.",
+        "options": [
+          "Keep the harness on day and night, removing it only briefly for bathing",
+          "Do not put clothing such as a onesie underneath the harness straps",
+          "Diaper with the legs spread, and check the skin under the straps each day",
+          "Take the harness off at night so the infant can sleep comfortably",
+          "Loosen or tighten the straps at home whenever the infant seems uncomfortable",
+          "Lift the infant's legs by the ankles to slide a clean diaper underneath"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—the Pavlik is worn 24/7 and is off only briefly for a bath.",
+          "Correct—nothing goes under the harness, so it does not shift out of position.",
+          "Correct—this keeps the hips flexed and abducted and catches skin breakdown early.",
+          "Incorrect—removing it at night is a listed misunderstanding. It loses the correction the harness is building.",
+          "Incorrect—strap position is set by the orthopedic team. Changing it at home can undo hip positioning.",
+          "Incorrect—the guide warns against pulling or yanking the leg. Lift by supporting the hips instead."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 5-year-old biologically male child is brought in because of frequent falls. The parents report that the child climbed stairs easily last year but now cannot. To stand up from the floor, the child pushes the hands against the knees and thighs. Which conclusion is best supported?",
+        "options": [
+          "Duchenne muscular dystrophy, because the child shows a Gower sign and is losing motor milestones",
+          "Cerebral palsy, because the child has delayed motor skills and abnormal movement",
+          "Osteogenesis imperfecta, because the falls point to weak bones and a short stature pattern",
+          "Slipped capital femoral epiphysis, because hip weakness is making the child fall"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: a biological male, a lost milestone (stair climbing), frequent falls, and using the hands to \"walk\" up the legs to stand. Analyze cues: Gower sign reflects proximal (trunk and hip) weakness, which comes first in DMD, and losing milestones signals a progressive disease. Prioritize hypotheses: DMD fits the progressive, X-linked pattern. CP is non-progressive, and OI is a bone disorder. Take action: report for evaluation and begin respiratory and cardiac monitoring as part of the plan.",
+          "CP is non-progressive. A child with CP does not typically lose skills already achieved, and this child has lost the ability to climb stairs.",
+          "OI presents with fractures from minimal trauma and blue sclerae, not proximal muscle weakness and a Gower sign.",
+          "SCFE affects adolescents, causes hip or knee pain with a limp, and does not cause the hands-on-thighs rise."
+        ]
+      },
+      {
+        "stem": "The mother of a 7-year-old with Duchenne muscular dystrophy asks whether the family's 4-year-old daughter could also have the disease. Which response by the nurse is most accurate?",
+        "options": [
+          "\"Because the gene is on the X chromosome, your daughter is more likely to be a carrier than to have the disease.\"",
+          "\"Because the disease is autosomal dominant, your daughter has the same chance of having it as your son.\"",
+          "\"Only boys can carry the gene, so your daughter does not need any genetic counseling.\"",
+          "\"The disease comes from a collagen defect, so your daughter's risk depends on the father's genes.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: DMD is X-linked recessive. Girls need two copies to be affected, so one copy makes them a carrier, while boys need only one copy and therefore cannot \"just be carriers.\" The mother is usually the carrier. Generate solutions / Take action: answer accurately and support referral to genetic counseling for the family.",
+          "DMD is X-linked recessive, not autosomal dominant. Autosomal dominant is the inheritance pattern of OI.",
+          "This reverses the pattern. Mothers are usually the carriers, and boys cannot be carriers because one copy makes them affected.",
+          "A collagen defect describes OI. DMD is a missing dystrophin protein."
+        ]
+      },
+      {
+        "stem": "A nurse assesses a 14-year-old with Duchenne muscular dystrophy during a clinic visit. Which finding requires immediate follow-up?",
+        "options": [
+          "The adolescent no longer walks and now uses a power wheelchair full time",
+          "A weak cough and new breathlessness when lying flat, with a resting heart rate of 126",
+          "The adolescent needs both hands to lift a cup and tires during handwriting",
+          "The adolescent says they feel left out at school since starting to use a wheelchair"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Loss of walking by adolescence is the expected course of DMD. It needs support, not urgent escalation.",
+          "CJMM — Recognize cues: a weak cough, breathlessness when lying flat, and resting tachycardia. Analyze cues: DMD eventually weakens the diaphragm, chest wall, and heart, and death is usually from cardiac or respiratory failure. Prioritize hypotheses: these cues suggest respiratory compromise and possible cardiac failure, the disease's most dangerous complications. Take action: escalate for respiratory and cardiac evaluation now. Loss of walking and arm weakness are the expected progression.",
+          "Progressive upper-extremity weakness is expected and is managed with assistive devices and OT.",
+          "This psychosocial concern deserves attention and support, but it is not a physiologic threat."
+        ]
+      },
+      {
+        "stem": "A 6-year-old with Duchenne muscular dystrophy has been taking a prescribed corticosteroid for 1 year. Which finding best indicates that the medication is having its intended effect?",
+        "options": [
+          "The child's Gower sign has disappeared, and the child now rises from the floor without using the hands",
+          "Joint swelling and morning stiffness have resolved since the medication was started",
+          "Walking and stair-climbing ability have stayed about the same instead of declining as expected",
+          "The child has had no new fractures since the medication was started"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Corticosteroids do not reverse DMD or restore dystrophin. A disappearing Gower sign would suggest a cure, which is not the expected outcome.",
+          "Relief of joint swelling and morning stiffness is the goal in juvenile idiopathic arthritis, not DMD.",
+          "CJMM — Generate solutions: the professor flagged in red that corticosteroids SLOW the decline of muscle strength in DMD; they do not cure it. Evaluate outcomes: success therefore looks like preserved function (stable walking and stair climbing) instead of the expected loss. Expecting a reversal, or using JIA or OI goals, misreads why the drug is given.",
+          "Fracture prevention is a goal in OI. It does not measure the effect of corticosteroids on muscle decline in DMD."
+        ]
+      },
+      {
+        "stem": "A 10-year-old with Duchenne muscular dystrophy is admitted with increasing fatigue. Which nursing intervention should the nurse include as a priority in the plan of care?",
+        "options": [
+          "Strict bed rest to conserve the child's remaining muscle strength",
+          "A daily progressive weight-lifting program to rebuild lost muscle",
+          "A genetic counseling session for the family during this admission",
+          "Scheduled deep-breathing exercises, with ongoing assessment of cough strength"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Bed rest speeds deconditioning and raises the risk of respiratory complications. The goal is to maintain function and independence.",
+          "Intensive resistance training cannot rebuild muscle that lacks dystrophin and may overwork damaged fibers.",
+          "Genetic counseling is appropriate for the family, but it does not address the child's immediate physiologic risk.",
+          "CJMM — Prioritize hypotheses: as DMD progresses, weakness of the diaphragm and chest wall leads to ineffective breathing, poor airway clearance, and respiratory infection, a leading cause of death. Generate solutions / Take action: deep-breathing exercises and cough assessment are core DMD nursing interventions, along with cardiac screening, assistive devices, and care coordination. Evaluate outcomes: effective breathing and cough, and no respiratory infections."
+        ]
+      },
+      {
+        "stem": "A 3-year-old who was born at 28 weeks' gestation walks on the toes. When the child is lifted under the arms, the legs stiffen and cross. Passive range of motion of the ankles meets marked resistance. Which type of cerebral palsy do these findings best fit?",
+        "options": [
+          "Spastic cerebral palsy, with tight, hypertonic muscles",
+          "Ataxic cerebral palsy, with poor balance and coordination",
+          "Dyskinetic cerebral palsy, with involuntary movements",
+          "Mixed cerebral palsy, with tone that shifts from hour to hour"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: prematurity (a risk factor for brain injury), toe walking, scissoring legs, and resistance to passive movement. Analyze cues: spastic CP, the most common type, causes tight, stiff, hypertonic muscles, and scissoring is its signature. Prioritize hypotheses: spastic CP fits. Generate solutions: anticipate interventions that prevent contractures, such as ROM, positioning, braces, PT, and muscle relaxants.",
+          "Ataxic CP causes shakiness, poor balance, and poor coordination, not hypertonia and scissoring.",
+          "Dyskinetic CP causes involuntary, uncontrolled, repetitive movements with fluctuating tone, not constant stiffness.",
+          "Mixed CP combines spastic and dyskinetic features. Nothing here suggests involuntary movements or fluctuating tone."
+        ]
+      },
+      {
+        "stem": "The nurse reviews home care with the parents of a 5-year-old with spastic cerebral palsy. Which statement by a parent indicates a need for further teaching?",
+        "options": [
+          "\"The brain injury won't get worse, but the stiffness can get worse if we skip the stretching.\"",
+          "\"We watch closely during meals because our child can cough, choke, or aspirate food.\"",
+          "\"We give extra fluids and fiber and follow the bowel program because constipation is common.\"",
+          "\"Since the brain damage is permanent, we can stop the home stretching program.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct. CP is non-progressive, but symptoms such as contractures can worsen without care.",
+          "This is correct. Dysphagia and aspiration are known CP complications.",
+          "This is correct. Immobility and weak peristalsis cause constipation in CP.",
+          "CJMM — Evaluate outcomes: the parent has misread \"non-progressive\" as \"nothing helps.\" The professor stressed that CP symptoms CAN worsen without care and stretching, even though the brain injury does not. \"Physical therapy won't help since CP is permanent\" is a listed misunderstanding. The other statements correctly address contracture prevention, aspiration risk, and constipation."
+        ]
+      },
+      {
+        "stem": "A 6-year-old with spastic quadriplegic cerebral palsy is hospitalized for a seizure medication adjustment. Which finding requires the nurse's immediate follow-up?",
+        "options": [
+          "Hip abduction on the left is more limited than it was at the visit a year ago",
+          "A wet, gurgly voice after meals, a temperature of 38.4°C (101.1°F), and a respiratory rate of 34",
+          "No bowel movement for 3 days, with a soft, nondistended abdomen",
+          "The legs scissor and stiffen when the child is lifted from the bed to the chair"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Increasing hip limitation needs monitoring for hip dislocation, but it is a gradual change, not an immediate threat.",
+          "CJMM — Recognize cues: a wet voice after eating, fever, and tachypnea. Analyze cues: dysphagia in CP causes aspiration, and these cues together suggest aspiration pneumonia. Prioritize hypotheses: a breathing threat (airway and breathing) outranks the chronic complications of hip changes, constipation, and spasticity. Take action: assess respiratory status, hold oral intake, and notify the provider. Evaluate outcomes: respiratory rate, temperature, and oxygenation improve.",
+          "Constipation is common in CP and needs the bowel program, but it is not urgent with a soft abdomen.",
+          "Scissoring is an expected feature of spastic CP."
+        ]
+      },
+      {
+        "stem": "A 7-year-old with spastic cerebral palsy started an oral muscle relaxant 6 weeks ago. Which finding best indicates that the medication is working?",
+        "options": [
+          "The child has had fewer seizures than in the month before the medication started",
+          "Imaging shows that the area of brain injury has become smaller",
+          "Stretching is easier, and the ankle braces now fit without pressure areas",
+          "The child has gained weight and finishes meals more quickly"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Seizure control is the goal of seizure medications, which are a separate drug class in CP.",
+          "The CP brain injury does not heal or shrink. No medication is expected to change it.",
+          "CJMM — Generate solutions: muscle relaxants are given in CP to reduce spasticity (hypertonia), which drives contractures, skin breakdown under braces, and hip problems. Evaluate outcomes: reduced tone shows up as easier passive stretching and better brace fit. Seizure control is the goal of a different drug class, and the brain injury itself does not change.",
+          "Weight gain reflects the nutrition plan and swallowing. It is not the target of a muscle relaxant."
+        ]
+      },
+      {
+        "stem": "A nurse is evaluating a 4-year-old with delayed gross motor skills. Which finding most strongly suggests Duchenne muscular dystrophy rather than cerebral palsy?",
+        "options": [
+          "The child could run and climb at age 3 but can no longer do either",
+          "The child did not walk independently until 18 months of age",
+          "The child was born prematurely after a complicated delivery",
+          "The child's legs are stiff and cross like scissors when the child is lifted"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Analyze cues: the key difference in the guide's chart is the COURSE. DMD is progressive, so the child loses milestones already achieved. CP is non-progressive: delays and abnormal tone, but no loss of skills from new brain damage. Prioritize hypotheses: a lost milestone is the discriminating cue for DMD. Delayed walking is shared by both, and prematurity and scissoring point to CP.",
+          "Delayed walking occurs in both DMD and CP, so it does not distinguish them.",
+          "Prematurity and birth complications are causes of CP, so this points away from DMD.",
+          "Scissoring and hypertonia are hallmarks of spastic CP."
+        ]
+      },
+      {
+        "stem": "A nurse plans care for an 8-year-old with spastic cerebral palsy who uses leg braces and a wheelchair. Which complications should the nurse monitor for and work to prevent? Select all that apply.",
+        "options": [
+          "Contractures from shortening of spastic muscles",
+          "Skin breakdown under the braces and over pressure points",
+          "Hip dislocation from muscle imbalance pulling on the joint",
+          "Cardiac failure from progressive loss of muscle fibers",
+          "Fractures from a collagen defect that also causes blue sclerae",
+          "Constipation from immobility, tone, and weak peristalsis"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          5
+        ],
+        "explanations": [
+          "Correct—spastic muscles shorten. ROM, positioning, braces, and PT prevent contractures.",
+          "Correct—limited mobility and braces cause pressure injury. Reposition and check the skin.",
+          "Correct—muscle imbalance pulls the hip out of place, so the hips are monitored.",
+          "Incorrect—progressive muscle loss leading to cardiac failure is DMD. CP is non-progressive.",
+          "Incorrect—a collagen defect with blue sclerae and fractures is OI, not CP.",
+          "Correct—immobility, tone, medications, and weak peristalsis cause constipation, so fluids, fiber, and a bowel program are used."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 13-year-old with obesity reports 3 weeks of right knee pain that worsens with walking and has developed a limp. The knee exam shows no swelling, tenderness, or redness, and the child is afebrile. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "Because the knee exam is normal, the pain is most likely growing pains that need ibuprofen and rest",
+          "The knee pain may be referred from the hip, so SCFE is suspected and weight bearing should stop pending evaluation",
+          "The limp suggests developmental dysplasia of the hip, so the nurse should anticipate Barlow and Ortolani testing",
+          "The pain with walking suggests osteomyelitis, so the nurse should anticipate starting IV antibiotics"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Dismissing knee pain because the knee itself is normal is the trap \"knee pain = knee problem only.\" It misses referred hip pain.",
+          "CJMM — Recognize cues: an adolescent with obesity, knee pain with weight bearing, a limp, and a normal knee exam. Analyze cues: in SCFE the femoral head slips off at the growth plate during the growth spurt, and the pain is often felt in the knee (referred pain). Prioritize hypotheses: SCFE fits the age, body size, and pattern. Take action: stop weight bearing so the head does not slip further, and anticipate imaging and surgical pinning.",
+          "DDH is a newborn and infant diagnosis found with Barlow and Ortolani. The guide lists \"SCFE is found with Barlow/Ortolani\" as a trap.",
+          "Osteomyelitis comes with fever, chills, and bone tenderness and swelling. This child is afebrile with no local findings."
+        ]
+      },
+      {
+        "stem": "A 12-year-old is admitted with a newly diagnosed slipped capital femoral epiphysis and is scheduled for surgical pinning tomorrow. The child asks to walk to the bathroom because \"it only hurts a little.\" What should the nurse do?",
+        "options": [
+          "Encourage the walk, because using the leg keeps the hip muscles strong before surgery",
+          "Allow the child to walk with a staff member standing by, since the pain is mild",
+          "Provide a wheelchair or bedside commode and keep the child non-weight-bearing on the affected leg",
+          "Apply a spica cast or brace so the child can bear weight safely until surgery"
+        ],
+        "answer": 2,
+        "explanations": [
+          "\"Encourage walking to strengthen the hip\" is the listed SCFE trap. Weight bearing can make the femoral head slip further.",
+          "Mild pain does not make weight bearing safe. The slip is mechanical, and pain level does not predict further displacement.",
+          "CJMM — Recognize cues: a confirmed SCFE awaiting pinning, and a request to bear weight. Analyze cues: the growth plate is unstable, so loading the hip can push the femoral head further out of place. Generate solutions / Take action: the guide's priority is to stop weight bearing (non-weight-bearing or restricted, crutches or wheelchair), then stabilize surgically. Evaluate outcomes: the child reaches surgery without further slippage.",
+          "A spica cast is a DDH treatment. SCFE is managed with non-weight-bearing followed by surgical pinning."
+        ]
+      },
+      {
+        "stem": "A school nurse is reviewing sports physicals. Which student has the greatest risk for slipped capital femoral epiphysis?",
+        "options": [
+          "A 12-year-old biologically female gymnast with a low body weight and a recent growth spurt",
+          "A 14-year-old biologically male student with obesity and hypothyroidism who is in a growth spurt",
+          "A 16-year-old who was treated with a Pavlik harness for hip dysplasia as an infant",
+          "A 9-year-old with well-controlled asthma who plays soccer three times a week"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A growth spurt is a risk factor, but low body weight and female sex lower the risk compared with the other risk factors.",
+          "CJMM — Recognize cues: adolescent age, biological male sex, obesity, an endocrine disorder (hypothyroidism), and a growth spurt. Analyze cues: SCFE risk factors are adolescence (11–16), obesity (extra pressure on the hip), biological male sex, endocrine disorders, and family history. Prioritize hypotheses: this student has the most risk factors. Take action: educate the student and family to report hip or knee pain with a limp promptly.",
+          "Treated infant DDH is not a listed SCFE risk factor. DDH is a socket problem, while SCFE is a growth plate slip.",
+          "This child is younger than the typical 11–16 range and has none of the listed risk factors."
+        ]
+      },
+      {
+        "stem": "A school nurse is screening an 11-year-old for scoliosis. Which technique should the nurse use?",
+        "options": [
+          "Have the child stand upright in a loose T-shirt while the nurse compares hip heights from the front",
+          "Have the child lie prone on a cot while the nurse palpates along the spine for a curve",
+          "Have the child touch the toes while the nurse watches from the side for tight hamstrings",
+          "Have the child bend forward at the waist with arms dangling, in minimal clothing, while the nurse looks from behind"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Loose clothing hides asymmetry, and viewing from the front while standing misses the rib hump that the forward bend reveals.",
+          "Lying prone flattens the posture and is not the screening method. Palpation alone does not show rotation.",
+          "Watching from the side assesses flexibility, not spinal curvature or rib asymmetry.",
+          "CJMM — Generate solutions / Take action: the forward bend test is the screening method. The child bends forward with arms dangling and minimal clothing on, and the nurse looks from behind for a rib hump or uneven back. A scoliometer can quantify it. Recognize cues: uneven shoulders or waist, or a rib hump, prompt referral. Routine screening targets girls 10–12 and boys 13–14."
+        ]
+      },
+      {
+        "stem": "The nurse reviews care with the parent of a 12-year-old who has just been fitted for a scoliosis brace. Which statement by the parent indicates a need for further teaching?",
+        "options": [
+          "\"Our child will wear the brace for the hours prescribed so the curve doesn't get worse.\"",
+          "\"We'll keep the regular check-ups so the team can see whether the curve is changing.\"",
+          "\"The brace should straighten the curve completely within a couple of months.\"",
+          "\"Most children with scoliosis do not need surgery, so this brace is a step to avoid it.\""
+        ],
+        "answer": 2,
+        "explanations": [
+          "This is correct. A brace is meant to stop the curve from progressing, and only if it is worn as prescribed.",
+          "This is correct. Monitoring at check-ups is the backbone of scoliosis care.",
+          "CJMM — Evaluate outcomes: the parent expects the brace to cure the curve quickly, which sets up disappointment and poor adherence. \"The brace will straighten the curve completely in a few weeks\" is a listed misunderstanding. Bracing aims to keep the curve from worsening. The other statements correctly describe wear time, monitoring, and the rarity of surgery.",
+          "This is correct. Bracing and surgery are rare, and surgery is reserved for severe curves."
+        ]
+      },
+      {
+        "stem": "During school screening, the nurse examines a 12-year-old. Which findings should prompt referral for scoliosis evaluation? Select all that apply.",
+        "options": [
+          "One shoulder blade sits noticeably higher than the other",
+          "The waistline is uneven, with more space between the arm and the waist on one side",
+          "A rib hump appears on one side when the child bends forward",
+          "Level shoulders and a symmetric back, with mild soreness after carrying a heavy backpack",
+          "Level hips and shoulders, with a spine that looks straight on the forward bend"
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ],
+        "explanations": [
+          "Correct—uneven shoulders (one shoulder blade higher) are a listed sign of scoliosis.",
+          "Correct—an uneven waist is a listed sign.",
+          "Correct—a rib hump on the forward bend test is the key screening finding.",
+          "Incorrect—with a symmetric back on exam, mild activity-related soreness alone does not meet referral criteria.",
+          "Incorrect—this is a normal screening result."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A nurse in a pediatric emergency department reviews four children with fractures. Which child's injury most requires further evaluation for possible abuse?",
+        "options": [
+          "A 7-year-old with a buckle fracture of the distal radius after falling off the monkey bars",
+          "A 4-month-old with a spiral femur fracture whose caregiver says the leg caught in the crib slats",
+          "An 11-year-old with a growth plate fracture of the ankle sustained while playing soccer",
+          "A 10-year-old with bruising at a wrist fracture who is upset about missing soccer season"
+        ],
+        "answer": 1,
+        "explanations": [
+          "A buckle fracture of the radius from a fall on an outstretched hand matches the story and the child's development.",
+          "CJMM — Recognize cues: a non-walking infant, a femur fracture, a spiral (twisting) pattern, and an explanation that does not fit. Analyze cues: the professor flagged in red that a fracture that doesn't match the story or development, a spiral fracture, or a non-walking infant's femur fracture means concern for abuse. Prioritize hypotheses: this is the most concerning fracture. Take action: document carefully and report or evaluate per policy, considering OI as the look-alike.",
+          "Sports injuries are the usual cause of fractures at this age, and the story fits.",
+          "The guide lists this as a trap distractor. Bruising is an expected fracture sign, and being upset is a normal reaction."
+        ]
+      },
+      {
+        "stem": "An 8-year-old had a long-arm cast applied for a forearm fracture 6 hours ago. Which findings should the nurse report to the provider immediately? Select all that apply.",
+        "options": [
+          "A radial pulse on the casted arm that is weak compared with the other arm",
+          "Fingers on the casted hand that are pale and cool to the touch",
+          "Numbness and tingling in the fingers, with difficulty wiggling them",
+          "Pain that is out of proportion and not relieved by elevation and analgesics",
+          "Capillary refill of less than 2 seconds in the fingers of both hands",
+          "Mild aching that improves with elevation and the prescribed analgesic"
+        ],
+        "answer": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "explanations": [
+          "Correct—an absent or weak distal pulse is an \"act now\" finding: notify the provider immediately.",
+          "Correct—pale, cool, or blue skin signals compromised perfusion.",
+          "Correct—numbness, tingling, or inability to move indicates nerve compromise.",
+          "Correct—unrelieved pain out of proportion with a tight cast suggests compartment syndrome.",
+          "Incorrect—brisk capillary refill is a normal finding.",
+          "Incorrect—pain controlled with elevation and medication is expected."
+        ],
+        "type": "sata"
+      },
+      {
+        "stem": "A 9-year-old in a long-arm cast reports pain of 8/10 one hour after receiving a prescribed dose of IV morphine. The fingers are swollen, and the child cannot extend them. Which action should the nurse take first?",
+        "options": [
+          "Give a second dose of the PRN analgesic and reassess the pain in 30 minutes",
+          "Raise the arm higher on pillows and reassess the pain and fingers in 1 hour",
+          "Encourage the child to wiggle and exercise the fingers to improve circulation",
+          "Notify the provider immediately of possible neurovascular compromise"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Treating the pain as routine masks a warning sign. Pain unrelieved by medication is an \"act now\" finding, not a dosing problem.",
+          "Elevation helps control expected swelling, but waiting an hour with unrelieved pain and loss of movement delays treatment of possible compartment syndrome.",
+          "Range-of-motion exercises are the listed trap response to neurovascular compromise. They do not relieve a constricting cast.",
+          "CJMM — Recognize cues: severe pain that persists after an opioid, swollen fingers, and inability to move them. Analyze cues: pain out of proportion that is unrelieved, combined with loss of movement, indicates neurovascular compromise from a tight cast (compartment syndrome). Prioritize hypotheses: this threatens the limb and is time-sensitive. Take action: notify the provider immediately. More medication, more elevation and waiting, or exercises are all listed wrong responses."
+        ]
+      },
+      {
+        "stem": "The nurse provides discharge teaching to the caregiver of a 6-year-old with a new short-leg cast. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"If it itches, a ruler slid gently under the cast edge should help.\"",
+          "\"I'll call if the toes are pale, cold, or numb, or if my child can't move them.\"",
+          "\"I'll keep the leg propped up on pillows to help keep the swelling down.\"",
+          "\"I'll cover the cast with a plastic bag at bath time so it stays dry.\""
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Evaluate outcomes: putting anything inside the cast (a coat hanger, ruler, or similar object) can break the skin under the cast where it cannot be seen, leading to infection. \"I'll use a coat hanger to scratch under the cast\" is a listed misunderstanding. The other statements show correct neurovascular monitoring, elevation, and keeping the cast dry.",
+          "This is correct. These are the neurovascular warning signs to report.",
+          "This is correct. Elevation reduces swelling under a cast.",
+          "This is correct. Keeping the cast dry protects it and the skin underneath."
+        ]
+      },
+      {
+        "stem": "A 2-year-old is brought in after a caregiver swung the child by the hands at the park. The child is calm and not crying, but holds the right arm slightly bent at the side and will not reach for a toy with it. Which conclusion should guide the nurse's next action?",
+        "options": [
+          "The calm behavior shows the child is not in pain, so a minor sprain is likely and can be treated with ice at home",
+          "The arm position suggests a fractured clavicle, so the nurse should anticipate a figure-8 brace",
+          "The history and arm position fit radial head subluxation, so the nurse should anticipate reduction by the provider",
+          "The child's refusal to use the arm suggests a growth plate fracture, so the nurse should anticipate a long-arm cast"
+        ],
+        "answer": 2,
+        "explanations": [
+          "\"No pain means no injury\" is the listed trap. A nursemaid's elbow may look painless, but the child won't use the arm.",
+          "\"Toddler refusing arm = fractured clavicle every time\" is a listed trap. The story of a pull on the arm points to the elbow.",
+          "CJMM — Recognize cues: a toddler, a sudden pull or swing by the hands, an arm held slightly bent, and refusal to use it without much distress. Analyze cues: a toddler's loose elbow ligament lets the radial head slip partly out when the arm is pulled. The professor flagged that it may look painless but the child won't use the arm. Prioritize hypotheses: nursemaid's elbow fits the mechanism and presentation. Take action: anticipate reduction by the provider plus pain management. Children often use the arm within minutes afterward.",
+          "\"Treatment = long-arm cast for 6 weeks\" is a listed trap. There was no fall or direct trauma, and the mechanism was a pull."
+        ]
+      },
+      {
+        "stem": "After the provider reduces a 3-year-old's radial head subluxation, the nurse teaches the caregiver. Which statement by the caregiver indicates a need for further teaching?",
+        "options": [
+          "\"I'll lift my child under the arms instead of by the hands or wrists.\"",
+          "\"We'll stop playing the swinging-by-the-arms game, even though our child loves it.\"",
+          "\"If our child stops using the arm after a pull, it may have slipped again and needs to be checked.\"",
+          "\"If it happens again, I'll pull the arm out straight at home to pop it back in.\""
+        ],
+        "answer": 3,
+        "explanations": [
+          "This is correct. Lifting under the arms avoids pulling on the elbow.",
+          "This is correct. Swinging by the arms is a common cause.",
+          "This is correct. This statement shows the caregiver recognizes a recurrence.",
+          "CJMM — Evaluate outcomes: the caregiver plans to reduce the elbow at home by pulling, which is the same force that caused the injury. Reduction is a provider procedure (supination and flexion), and \"I'll pull the arm straight to fix it at home\" is a listed misunderstanding. Prevention teaching (lift under the arms, no swinging) and recognizing a recurrence are correct."
+        ]
+      },
+      {
+        "stem": "A 6-year-old has had a limp for 3 days and now refuses to bear weight on the left leg. The temperature is 39.2°C (102.6°F), with chills, and the distal femur is warm, swollen, and very tender. The caregiver recalls no injury. Which action should the nurse anticipate as the priority?",
+        "options": [
+          "Obtaining IV access so that prescribed IV antibiotics can be started promptly",
+          "Applying a splint and ice and teaching rest at home for a likely sprain",
+          "Keeping the child non-weight-bearing in preparation for surgical pinning",
+          "Reporting a suspected abuse injury because the caregiver cannot explain the limp"
+        ],
+        "answer": 0,
+        "explanations": [
+          "CJMM — Recognize cues: refusal to bear weight, high fever with chills, and a warm, swollen, tender long bone. Analyze cues: injury-like findings plus infection signs equal osteomyelitis, a bacterial infection of the bone, usually the long bones of the legs. Prioritize hypotheses: osteomyelitis is time-sensitive because bone destruction progresses without treatment. Take action: prompt IV antibiotics, plus pain management and possible drainage or debridement.",
+          "\"Limp + fever = just a sprain\" and \"rest and ice only\" are listed traps. They ignore fever and chills, which signal infection.",
+          "Non-weight-bearing and pinning treat SCFE in adolescents. Fever and bone tenderness in a 6-year-old point to infection.",
+          "Not recalling an injury does not by itself suggest abuse. The fever and chills give a clear infectious explanation."
+        ]
+      },
+      {
+        "stem": "Two school-age children are evaluated for leg pain and refusal to bear weight. Which finding most reliably distinguishes osteomyelitis from a fracture?",
+        "options": [
+          "Point tenderness over the affected area of bone",
+          "Swelling over the painful area of the leg",
+          "Fever and chills accompanying the bone pain",
+          "Restricted movement and refusal to bear weight"
+        ],
+        "answer": 2,
+        "explanations": [
+          "Point tenderness is a classic fracture sign and also occurs in osteomyelitis, so it does not distinguish them.",
+          "Swelling occurs with both fracture and infection.",
+          "CJMM — Analyze cues: osteomyelitis and fracture share bone pain, tenderness, swelling, and restricted movement. The guide's discriminator is systemic infection: fever and chills mean osteomyelitis. Prioritize hypotheses: fever moves osteomyelitis to the top. Take action: anticipate prompt IV antibiotics rather than immobilization alone.",
+          "Both conditions cause restricted movement and refusal to bear weight. This is part of the shared presentation in the stem."
+        ]
+      },
+      {
+        "stem": "A 9-year-old with osteomyelitis of the tibia is on day 6 of IV antibiotics after surgical debridement. Which finding best indicates that treatment is effective?",
+        "options": [
+          "The child sleeps more and asks for less pain medication, though the temperature is still 38.9°C (102°F)",
+          "Drainage from the debridement site has increased and become thicker over 24 hours",
+          "The IV site is clean, and the child is drinking well and passing clear urine",
+          "The child has been afebrile for 48 hours, has less swelling over the tibia, and is starting to bear weight"
+        ],
+        "answer": 3,
+        "explanations": [
+          "Persistent fever means the infection is not controlled. Sleeping more could even be a sign of illness, not improvement.",
+          "Increasing, thickening drainage suggests ongoing or worsening infection.",
+          "A healthy IV site and good hydration are good findings, but they do not show that the bone infection is resolving.",
+          "CJMM — Evaluate outcomes: osteomyelitis presents with fever and chills, bone pain, swelling, tenderness, and refusal to bear weight. Effective IV antibiotics plus debridement should reverse those same cues: the fever resolves, local swelling and tenderness decrease, and function (weight bearing) returns. Persistent fever or increasing drainage would mean the plan needs revision. IV site status and hydration do not measure the bone infection."
+        ]
+      },
+      {
+        "stem": "A 4-year-old is brought in for a limp. The caregiver reports that the child's right knee is stiff for more than an hour every morning and loosens up as the day goes on. The knee is swollen and warm, the temperature is 37.0°C (98.6°F), and there has been no injury. Which condition do these findings best fit?",
+        "options": [
+          "Osteomyelitis, which requires prompt IV antibiotics",
+          "Juvenile idiopathic arthritis, managed with support of function",
+          "Slipped capital femoral epiphysis, which requires non-weight-bearing",
+          "A buckle fracture, which requires immobilization and neurovascular checks"
+        ],
+        "answer": 1,
+        "explanations": [
+          "Osteomyelitis brings fever and chills with bone pain. This child is afebrile with a joint, not bone, pattern.",
+          "CJMM — Recognize cues: morning stiffness lasting more than 30 minutes that improves with activity, a swollen, warm joint, no fever, and no trauma. Analyze cues: the guide's limping-child chart pairs \"morning stiffness >30 min, swollen warm joint\" with JIA (from Week 6). Prioritize hypotheses: the absence of fever argues against osteomyelitis, the age rules out SCFE, and the absence of trauma argues against fracture. Take action: support function and coordinate care for JIA.",
+          "SCFE occurs in adolescents (11–16) and causes hip or knee pain with weight bearing, not morning stiffness in a preschooler.",
+          "A fracture follows a fall or injury and causes point tenderness. Stiffness that eases through the day does not fit."
         ]
       }
     ]

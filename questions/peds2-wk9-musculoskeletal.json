@@ -1,0 +1,957 @@
+{
+  "topic": "peds2-wk9-musculoskeletal",
+  "label": "Peds 2: Week 9 — Musculoskeletal",
+  "questions": [
+    {
+      "stem": "A nurse in a pediatric clinic reviews the charts of four children seen today. Which finding should the nurse flag for prompt provider follow-up?",
+      "options": [
+        "A 9-month-old whose knee X-ray shows gaps between the bone ends where cartilage has not yet turned to bone",
+        "An 18-month-old who walked independently at 12 months but now only crawls and pulls to stand",
+        "A 6-year-old whose forearm bent and bulged after a fall instead of snapping completely through",
+        "A 13-year-old whose wrist X-ray still shows open growth plates near the ends of the long bones"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the 18-month-old has lost a motor skill (walking) that was already achieved. Analyze cues: the guide lists lost milestones as an abnormal MSK/neuromuscular finding; milestones are how the nurse sees the nervous and muscular systems maturing, and losing one suggests a progressive process (for example, a muscular dystrophy) rather than simple delay. Prioritize hypotheses: a regression is more concerning than any expected developmental variation on this list. Take action: flag the regression for prompt provider evaluation. The other three findings are expected because ossification is incomplete until adolescence and children's bones bend rather than break.",
+        "incorrect": [
+          "Ossification (cartilage turning into bone) is not complete until adolescence. Cartilage gaps on a 9-month-old's X-ray are an expected developmental finding, not a lesion.",
+          "Children's softer bones bend or buckle rather than break. A buckle fracture still needs immobilization, but the bending pattern itself is the expected pediatric response, not a red flag.",
+          "Growth plates stay open through adolescence, which is where new bone is made. An open physis at 13 is expected; it is a vulnerable spot if injured, not an abnormal finding."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 10-year-old with a fracture through the growth plate of the distal tibia asks why so many orthopedic follow-up visits are scheduled when the cast \"feels fine.\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"By age 10 the bones have finished hardening, so the visits mainly check that the cast still fits well.\"",
+        "\"Growth plate breaks heal the same way adult fractures do, so the extra visits are only a precaution.\"",
+        "\"An injury to the growth plate can change how that bone grows in length, so the team checks it is healing correctly.\"",
+        "\"Children's bones heal more slowly than adults' bones, so the cast needs to be checked more often.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the fracture involves the physis (growth plate) of a school-age child. Analyze cues: the growth plate is where new bone is made, and an injury there can interrupt growth and cause a limb-length difference later if it is not treated correctly. Generate solutions / Take action: explain the purpose of follow-up in terms the caregiver can act on, which supports keeping every appointment even when the child feels well. Evaluate outcomes: the caregiver keeps the follow-up schedule.",
+        "incorrect": [
+          "This is the trap that bones are fully ossified early. Ossification is not complete until adolescence, so a 10-year-old's growth plates are still active.",
+          "The guide lists this exact statement as a trap. Growth plate fractures are more concerning than other fractures because they can impair the bone's growth.",
+          "Children heal faster than adults because growing bone has a good blood supply. The reason for close follow-up is the growth plate, not slow healing."
+        ]
+      }
+    },
+    {
+      "stem": "During a newborn assessment, the nurse notes a small dimple with a tuft of dark hair over the lower lumbar spine. There is no sac. The newborn kicks both legs vigorously, withdraws both feet to touch, and has passed meconium and voided. Which conclusion is best supported?",
+      "options": [
+        "These findings fit spina bifida occulta, a vertebral defect with the cord intact, so neurologic deficits are not expected",
+        "These findings fit a meningocele, with the meninges protruding under the skin, so bowel and bladder deficits are likely",
+        "These findings fit a closed myelomeningocele, so the newborn should be placed prone with a moist sterile dressing",
+        "These findings fit a normal skin variation, so no documentation or further evaluation is needed"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a sacral dimple and hair tuft, no protruding sac, and normal motor, sensory, bowel, and bladder function. Analyze cues: in occulta (\"hidden\") the vertebrae do not close but nothing protrudes; the cord is intact and there are usually no neurologic symptoms. Meningocele and myelomeningocele both produce a visible sac. Prioritize hypotheses: occulta is the only type that fits a skin marker without a sac. Take action: document the finding and report it so it can be followed.",
+        "incorrect": [
+          "A meningocele produces a visible fluid-filled sac. There is no sac here, so a meningocele does not fit.",
+          "A myelomeningocele is a visible sac containing meninges and spinal cord, with motor and sensory deficits below the level. This newborn has no sac and normal leg movement and elimination.",
+          "A dimple, hair tuft, or skin discoloration over the lower back is the classic marker of spina bifida occulta. It should be documented, not dismissed."
+        ]
+      }
+    },
+    {
+      "stem": "A newborn has a skin-covered, fluid-filled sac over the lumbar spine. Which additional assessment finding most strongly suggests a meningocele rather than a myelomeningocele?",
+      "options": [
+        "The defect was identified on a prenatal fetal ultrasound",
+        "The sac is covered with intact skin rather than open membranes",
+        "The sac is located over the lower lumbar or sacral spine",
+        "Active movement and sensation in both legs, with normal stooling and voiding"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a visible sac, plus intact movement, sensation, and elimination below the level of the defect. Analyze cues: in a meningocele only the meninges protrude and the spinal cord stays in its normal position, so deficits are usually fewer. In a myelomeningocele the cord itself is in the sac, causing motor and sensory loss below the level along with bowel and bladder dysfunction. Prioritize hypotheses: normal function below the sac is the discriminating cue that points to meningocele. Note that ultrasound detection, location, and skin coverage are shared by both.",
+        "incorrect": [
+          "Both meningocele and myelomeningocele can be seen on fetal ultrasound, so this finding does not tell them apart.",
+          "A meningocele is usually skin-covered, but a myelomeningocele can also have skin covering. Skin coverage alone does not distinguish them.",
+          "Both types most often occur in the lower spine, so the location of the sac does not separate them."
+        ]
+      }
+    },
+    {
+      "stem": "A term newborn is delivered with an open lumbar myelomeningocele. The membranes of the sac are intact. Which action should the nurse take first?",
+      "options": [
+        "Position the newborn side-lying and cover the sac with dry sterile gauze so it stays clean",
+        "Measure the head circumference and fontanel to establish a baseline before moving the newborn",
+        "Position the newborn prone and cover the sac with a moist sterile dressing",
+        "Position the newborn supine on a padded ring so the parents can hold and feed the newborn"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an open sac containing spinal cord and meninges. Analyze cues: the sac is at risk for rupture, drying, and infection, which would worsen neurologic damage and invite meningitis. Prioritize hypotheses: protecting the sac is the first priority. Generate solutions / Take action: position PRONE (no pressure on the sac) and keep the membranes moist under a sterile dressing. Then prevent infection, keep the environment latex-free, prepare for surgical repair, and monitor neurologic status, bowel and bladder function, and head circumference.",
+        "incorrect": [
+          "Side-lying is less protective than prone, and a dry dressing is the trap: it sticks to and dries the delicate tissue.",
+          "Head circumference and fontanel monitoring for hydrocephalus is part of care, but it is correct-but-not-yet. Protecting the exposed sac comes first.",
+          "Supine positioning puts pressure on the sac, and the guide lists starting oral feeds immediately as a trap. Feeding is not the preoperative priority."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-day-old is 3 days post-repair of a lumbar myelomeningocele. Which finding requires the nurse's immediate follow-up?",
+      "options": [
+        "Flaccid legs with no response to touch below the knees, unchanged since birth",
+        "Head circumference 2 cm larger than yesterday, with a tense, bulging anterior fontanel",
+        "A bladder that does not empty on its own, requiring intermittent catheterization",
+        "Lying prone and settling between feeds, with a clean, dry incision"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: rapid head growth and a tense, bulging fontanel. Analyze cues: myelomeningocele is strongly associated with hydrocephalus because CSF cannot circulate normally, and the guide makes frequent neurologic assessment for hydrocephalus/increased ICP the post-repair priority (bulging fontanel, increasing head circumference, irritability, setting-sun eyes). Prioritize hypotheses: rising ICP is a new, time-sensitive change. The leg and bladder deficits are long-standing and expected. Take action: report to the provider immediately and continue close neurologic checks.",
+        "incorrect": [
+          "Motor and sensory loss below the level of the defect is the expected deficit of a myelomeningocele. It needs ongoing care, but an unchanged finding is not a new emergency.",
+          "Bladder dysfunction is an expected deficit of a myelomeningocele and is managed with a bladder program. It is not a sudden change.",
+          "This is a stable, expected post-op picture."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-year-old with a myelomeningocele is admitted for a shunt revision. Which actions should the nurse include in the plan of care? Select all that apply.",
+      "options": [
+        "Use nitrile or vinyl gloves for all care, including diaper changes",
+        "Stock the room with 100% silicone or latex-free urinary catheters",
+        "Screen every supply that touches the child, including tape and tubing, for latex",
+        "Allow latex balloons from visitors as long as the child has no history of hives",
+        "Use latex gloves only for brief, non-sterile tasks such as taking vital signs",
+        "Confirm that epinephrine is available in case of an anaphylactic reaction"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: spina bifida with repeated surgeries and catheterizations. Analyze cues: these early, repeated exposures make the child's risk of life-threatening latex allergy exceptionally high. Generate solutions / Take action: provide a latex-safe environment (nitrile or vinyl gloves, silicone catheters, all supplies screened) and keep epinephrine available for anaphylaxis. Partial latex exposure is never acceptable.",
+        "incorrect": [
+          "Correct—a latex-safe environment uses nitrile or vinyl gloves for every contact.",
+          "Correct—frequent catheterization is a major latex exposure. Catheters must be silicone or latex-free.",
+          "Correct—the guide says to screen all supplies, because hidden latex can trigger a reaction.",
+          "Incorrect—the absence of a past reaction does not make latex safe. Children with spina bifida have an exceptionally high risk of life-threatening latex allergy, and balloons are a named exposure.",
+          "Incorrect—\"a little latex is okay\" is a listed misunderstanding. Every exposure counts and can cause anaphylaxis.",
+          "Correct—latex allergy can cause anaphylaxis, which is treated with epinephrine."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is preparing the parents of an infant with a repaired myelomeningocele for discharge. Which statement by a parent indicates a need for further teaching?",
+      "options": [
+        "\"We'll call right away if our baby becomes very irritable, vomits, or the soft spot feels tight or bulging.\"",
+        "\"I'll start taking folic acid as soon as a pregnancy test is positive next time.\"",
+        "\"We'll give the latex-free supply list to every office we visit, even the dentist.\"",
+        "\"We'll keep to the catheterization schedule because the bladder may not empty on its own.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the teaching on folic acid did not take. The neural tube closes very early in pregnancy, often before a pregnancy is recognized, so folic acid must be taken BEFORE and during pregnancy to lower recurrence risk. \"Folic acid only matters after I find out I'm pregnant\" is a listed misunderstanding. The other three statements show correct monitoring for hydrocephalus, latex safety, and bladder management.",
+        "incorrect": [
+          "This is correct. Irritability and a bulging fontanel are signs of hydrocephalus/increased ICP that must be reported.",
+          "This is correct. The child needs a latex-safe environment in every setting.",
+          "This is correct. Bladder dysfunction is an expected deficit, and regular emptying is part of home care."
+        ]
+      }
+    },
+    {
+      "stem": "An infant returned from surgical closure of a myelomeningocele 6 hours ago. Which nursing action is the priority at this time?",
+      "options": [
+        "Perform frequent neurologic assessments, including fontanel and head circumference",
+        "Teach the parents about taking folic acid before any future pregnancy",
+        "Inspect the skin around the incision for hair growth and pigment changes",
+        "Begin arranging physical therapy and urology referrals for discharge"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Prioritize hypotheses: after myelomeningocele repair, the greatest immediate threat is hydrocephalus with rising ICP, which can develop or worsen once the sac is closed. Take action: frequent neurologic assessment (fontanel, head circumference, irritability, setting-sun eyes) is the guide's stated post-repair priority. Folic acid teaching and therapy coordination come later, and inspecting for hair growth is an occulta cue, not a post-op priority.",
+        "incorrect": [
+          "Folic acid teaching matters but is not the priority. The guide places it after neurologic monitoring post-op.",
+          "Checking hair growth at the site is a listed trap. It describes occulta markers and does not address the immediate post-op risk.",
+          "Care coordination is needed eventually, but it is correct-but-not-yet in the first post-op hours."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews home care with the caregiver of a 3-week-old who is having serial casting for bilateral clubfoot. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"Each new cast stays on for a couple of weeks and moves the feet a little closer to normal.\"",
+        "\"I'll check that the toes stay pink and warm and call if they look pale or swollen.\"",
+        "\"If the casts seem to bother our baby, we can soak them off at home for a day or two.\"",
+        "\"We can still do tummy time with the casts on to help our baby develop.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the caregiver misunderstands how serial casting works. Each cast holds the progress made by the last manipulation, and removing casts at home loses that correction, so treatment can fail and surgery may become necessary. \"If the cast bothers him we can take it off for a few days\" is a listed misunderstanding. The other statements show correct neurovascular checks, correct cast scheduling, and appropriate developmental activity.",
+        "incorrect": [
+          "This is correct. In serial casting each cast stays a couple of weeks and is then replaced with a new one.",
+          "This is correct. Neurovascular checks below the cast are essential home care.",
+          "This is correct. Tummy time and weight-bearing activities are part of the clubfoot plan."
+        ]
+      }
+    },
+    {
+      "stem": "Two hours after new long-leg casts are applied for clubfoot, the nurse assesses a 5-week-old. Which finding requires the nurse to notify the provider?",
+      "options": [
+        "The toes of the right foot are pale and cool, with sluggish capillary refill compared with the left",
+        "The infant fussed during casting but settled after a feeding and is now sleeping",
+        "The toes of both feet are pink and warm and curl when the soles are stroked",
+        "The casts feel damp in a few spots and still have a slight plaster smell"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: pallor, coolness, and slow capillary refill in one foot. Analyze cues: comparing with the other limb shows asymmetric loss of perfusion below the cast. Pale, cool, or blue skin and slow refill are \"act now\" findings on the neurovascular check. Prioritize hypotheses: a cast that is too tight and compromising circulation outranks expected post-procedure fussing or a drying cast. Take action: notify the provider promptly. \"Cold, pale toes are expected in a cast\" is a listed misunderstanding.",
+        "incorrect": [
+          "Fussing during the procedure that resolves with comfort measures is expected.",
+          "These are normal neurovascular findings: good color, warmth, and movement.",
+          "A cast that is still drying shortly after application is expected. It should be handled gently, but it does not signal compromised circulation."
+        ]
+      }
+    },
+    {
+      "stem": "A parent of newborn twins, one of whom has bilateral clubfoot, asks the nurse, \"Did I do something to cause this?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"It happens when a crowded uterus presses on the feet, so it usually straightens out without treatment.\"",
+        "\"It comes from how the lower-leg muscles developed. It is linked to genetics and to twin births, and it is very fixable.\"",
+        "\"It usually affects one foot, so finding it in both feet means a genetic syndrome is likely.\"",
+        "\"It usually needs surgery in the first few weeks, so the surgeon will plan the operation.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: parental guilt and a twin birth. Analyze cues: clubfoot results from abnormal lower-leg muscle development, is usually bilateral, and is associated with genetics, multiple gestation, and certain trisomies. It is described as \"fixable.\" Generate solutions / Take action: give an accurate, non-blaming explanation that also sets correct expectations for stretching and serial casting, with surgery only if needed.",
+        "incorrect": [
+          "This misstates the cause, and it falsely suggests no treatment is needed. Clubfoot needs stretching, serial casting, and orthopedic follow-up.",
+          "Clubfoot is usually bilateral (both feet). Bilateral involvement alone does not imply a syndrome.",
+          "Treatment starts with gentle stretching and serial casting. Surgery is only for severe cases or when casting or bracing fails."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old is seen for a third fracture this year, each after a minor bump. The nurse notes bluish sclerae, very loose joints, and height below the 5th percentile. A parent says they \"broke a lot of bones as a kid too.\" Which conclusion should guide the nurse's next action?",
+      "options": [
+        "The findings point to physical abuse, so the priority is to remove the child from the caregivers immediately",
+        "The findings point to Duchenne muscular dystrophy, so the nurse should check for a Gower sign",
+        "The findings point to a dietary calcium deficiency, so the nurse should teach calcium-rich foods",
+        "The findings point to osteogenesis imperfecta, so the nurse documents the findings carefully and reports them"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fractures with minimal trauma, blue sclerae, hypermobile joints, short stature, and a parent with a similar history. Analyze cues: this cluster is the hallmark of osteogenesis imperfecta, a usually autosomal dominant collagen defect (collagen is also in the sclera and joints). Prioritize hypotheses: abuse is the classic look-alike, and the guide says to check for blue sclerae, family history, and hypermobile joints to tell them apart. Take action: document carefully and report either way so the team can evaluate.",
+        "incorrect": [
+          "Multiple fractures do make the nurse think of abuse first, but blue sclerae, hypermobile joints, and a positive family history point to OI. The nurse documents carefully and reports per policy, but jumping to removal ignores the cues.",
+          "DMD causes progressive muscle weakness and a Gower sign, not fractures with minimal trauma and blue sclerae.",
+          "\"OI is caused by a lack of calcium in the diet\" is a listed misunderstanding. OI is a genetic collagen defect."
+        ]
+      }
+    },
+    {
+      "stem": "An 18-month-old with osteogenesis imperfecta is admitted for observation after a fall. The admission orders include vital signs every 4 hours. How should the nurse obtain the blood pressure?",
+      "options": [
+        "Use a manual cuff, inflating only as much as needed, and limit readings to those ordered",
+        "Use an automatic cuff on a 15-minute cycle so the child is handled as little as possible",
+        "Omit blood pressure readings and document that they are contraindicated in OI",
+        "Use an automatic cuff on the thigh, because the femur is larger and stronger than the arm"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: OI means brittle bones that fracture with minimal trauma. Analyze cues: the professor flagged in red that automatic BP cuffs can fracture bones in OI. Generate solutions: BP should be taken but limited, with a manual cuff where the nurse controls inflation. Take action: use a manual cuff, inflate gently, and avoid unnecessary readings and pokes.",
+        "incorrect": [
+          "An automatic cuff inflates with high, uncontrolled pressure that can fracture fragile bones. Frequent cycling multiplies that risk.",
+          "\"Her doctor can never take her blood pressure\" is a listed misunderstanding. BP should still be taken, just limited and with a manual cuff.",
+          "Any bone in OI can fracture. The problem is the automatic cuff, not the limb chosen."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews home care with the parents of a 3-year-old with osteogenesis imperfecta. Which statement by a parent indicates a need for further teaching?",
+      "options": [
+        "\"We'll keep our child in bed or in the stroller most of the day so there is no risk of a fracture.\"",
+        "\"When changing diapers, I'll lift by the hips and bottom instead of pulling up by the ankles.\"",
+        "\"Genetic counseling will help us understand the chances for any future children.\"",
+        "\"Physical therapy helps keep our child's muscles strong without stressing the bones.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parents have overcorrected. The professor stressed NEVER limiting ALL activity in OI. Immobility weakens muscle and bone, while safe, supervised activity and PT keep the child strong. \"She should stay in bed so she never breaks a bone\" is a listed misunderstanding. The other statements show correct handling, genetic understanding, and therapy use.",
+        "incorrect": [
+          "This is correct. Lifting by supporting the buttocks and back avoids the twisting force of pulling on the ankles or arms.",
+          "This is correct. OI is genetic, and genetic counseling is part of the plan.",
+          "This is correct. PT and safe activity are encouraged."
+        ]
+      }
+    },
+    {
+      "stem": "A parent who has osteogenesis imperfecta asks the nurse how their 4-year-old inherited the condition and whether a future child could have it. Which explanation is most accurate?",
+      "options": [
+        "\"OI is X-linked recessive, so only sons are affected, and daughters can be carriers.\"",
+        "\"OI is autosomal recessive, so both parents must carry the gene for a child to be affected.\"",
+        "\"OI is usually autosomal dominant, so one copy from either parent can cause it, and it can also arise as a new mutation.\"",
+        "\"OI develops from low calcium during pregnancy, so it is not passed down in families.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an affected parent and an affected child. Analyze cues: OI is usually autosomal dominant, so only ONE copy of the gene from either parent is needed, and it can also occur as a new mutation. Generate solutions / Take action: give an accurate explanation and refer the family to genetic counseling, which the guide lists as core OI care. The X-linked pattern belongs to DMD.",
+        "incorrect": [
+          "This describes Duchenne muscular dystrophy, not OI. Confusing the two is a listed trap.",
+          "OI is usually autosomal dominant, so it does not require two copies.",
+          "OI is a genetic collagen defect, not a nutritional problem."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-month-old is evaluated for a femur fracture, and a skeletal survey shows two older rib fractures. Which additional finding most supports osteogenesis imperfecta rather than abuse as the cause?",
+      "options": [
+        "Fractures in more than one stage of healing on the skeletal survey",
+        "A caregiver who waited 2 days before bringing the infant for care",
+        "A femur fracture in an infant who is not yet walking",
+        "Blue sclerae, hypermobile joints, and a parent with frequent childhood fractures"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: a non-walking infant's femur fracture with old rib fractures is a concerning-fracture pattern, and the guide says to think of abuse first. Prioritize hypotheses: OI is the classic look-alike, and the cues that separate it are blue sclerae, family history, and hypermobile joints, which reflect the underlying collagen defect. Take action: document all findings carefully and report either way. Healing stage, delayed care, and the femur fracture itself do not distinguish the two.",
+        "incorrect": [
+          "Multiple fractures of different ages can occur with either abuse or OI, so this does not discriminate.",
+          "Delay in seeking care increases suspicion for abuse. It does not point toward OI.",
+          "A non-walking infant's femur fracture is a concerning fracture for abuse (or OI). It raises suspicion but does not distinguish the two."
+        ]
+      }
+    },
+    {
+      "stem": "A provider examines a 2-day-old with the diaper off. With the newborn's hips flexed, the provider abducts one thigh while lifting the femur forward and feels a distinct clunk. What should the nurse conclude and anticipate?",
+      "options": [
+        "A positive Barlow sign shows the hip slipping out, so the nurse anticipates rechecking it at the 2-month visit",
+        "A positive Ortolani sign shows a dislocated hip moving back in, so the nurse anticipates imaging and orthopedic evaluation",
+        "A clunk is a normal finding from newborn ligament looseness, so the nurse documents it as expected",
+        "A positive Ortolani sign confirms DDH, so the nurse anticipates applying a spica cast without imaging"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: abduction with the femur lifted forward produces a clunk. Analyze cues: Ortolani = abduct and lift, so a dislocated femoral head clunks back IN (\"Only back IN\"). Barlow = adduct and push, so the hip slips out (\"Bye-bye\"). Prioritize hypotheses: a positive Ortolani means the hip was dislocated, which is DDH. Generate solutions: imaging is still needed, followed by orthopedic evaluation, and a Pavlik harness is first choice under 6 months.",
+        "incorrect": [
+          "Barlow is adduction with downward pressure, which makes an unstable hip slip OUT. The described maneuver (abduct and lift forward) is Ortolani, and waiting 2 months delays treatment of a fixable problem.",
+          "A clunk on the hip exam is the abnormal finding that the newborn maneuvers are designed to detect. Calling it normal misses DDH.",
+          "The guide notes that imaging (X-ray) is still needed after the maneuvers. A spica cast is used after 6 months or when the Pavlik harness fails, not first-line in a newborn."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews well-child findings for four infants. Which infant's finding should the nurse report for orthopedic evaluation?",
+      "options": [
+        "A 2-month-old who kicks both legs equally and cries during the hip examination",
+        "A 1-month-old who keeps the hips and knees flexed when lying on the back",
+        "A 4-month-old with thigh and buttock creases that match, whose knees are level when flexed",
+        "A 4-month-old with one knee lower than the other when the knees are flexed, and limited abduction on that side"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: unequal knee height and limited hip abduction on one side. Analyze cues: the guide's DDH sign chart lists one leg shorter or turned out, unequal knee height, uneven buttock creases, and limited hip ROM. Prioritize hypotheses: by 4 months the Barlow and Ortolani maneuvers become less reliable, so these asymmetry signs are the cues that point to DDH. Take action: refer for orthopedic evaluation and imaging. Caught early, DDH is fixable (Pavlik harness under 6 months).",
+        "incorrect": [
+          "Symmetric kicking is reassuring, and crying during an exam is expected at this age.",
+          "A flexed resting posture is typical of young infants and does not suggest hip instability.",
+          "Symmetric creases and equal knee height are the normal counterparts of the DDH signs."
+        ]
+      }
+    },
+    {
+      "stem": "The parent of a healthy 1-week-old asks the nurse for tips on swaddling. Which instruction best protects the newborn's hip development?",
+      "options": [
+        "\"Wrap the arms and legs straight and snug so your baby feels secure and startles less.\"",
+        "\"Use two diapers so your baby's legs are spread wide and held apart at all times.\"",
+        "\"Keep the blanket snug around the chest but loose at the hips so the legs can bend up and out.\"",
+        "\"Swaddle firmly from the waist down and leave the arms free so your baby can self-soothe.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the guide says to avoid tight swaddling with the legs straight and together, and to position the hips flexed and abducted, which is the same position the Pavlik harness uses to let the socket grow around the femoral head. Take action: teach hip-healthy swaddling that leaves the legs free to bend up and out. Evaluate outcomes: the parent shows a swaddle that is loose at the hips.",
+        "incorrect": [
+          "Tight swaddling with the legs straight and together is the listed trap. It forces the hips into extension and adduction, which works against hip development.",
+          "Double-diapering is not a recommended treatment or prevention method and appears in the guide's misunderstanding list. Proper positioning comes from loose swaddling, not bulk.",
+          "Swaddling firmly from the waist down still holds the hips extended and together, the position to avoid."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-month-old is newly diagnosed with developmental dysplasia of the hip. The parent says, \"My niece wore a little harness for this as a newborn. Will we get one too?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"Yes. The Pavlik harness is first choice at any age, and it is worn about 12 hours a day.\"",
+        "\"Instead of a harness, your baby will stay off the leg with no weight bearing until the hip stabilizes.\"",
+        "\"At 8 months, a spica cast or surgery is more likely, because the harness works best before 6 months.\"",
+        "\"We'll wait until your baby starts walking and then check the gait before choosing a treatment.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: DDH diagnosed at 8 months. Analyze cues: the professor flagged that the Pavlik harness is first choice under 6 months, worn 24/7. A spica cast is used after 6 months or if the Pavlik fails. Prioritize hypotheses: the child's age, not the diagnosis alone, changes the treatment. Take action: set accurate expectations with the parent.",
+        "incorrect": [
+          "The Pavlik harness is first choice under 6 months and is worn 24/7, off only briefly for bathing. Both parts of this answer are wrong.",
+          "Non-weight-bearing is the treatment for SCFE, not DDH. Confusing the two is a listed trap.",
+          "Waiting lets the dysplasia worsen and loses the window when DDH is most fixable."
+        ]
+      }
+    },
+    {
+      "stem": "A 20-month-old who began walking at 15 months is brought in because of a persistent waddling limp. The nurse notes that one leg appears shorter, and when the toddler stands on that leg the opposite hip drops. There is no fever and no history of injury. Which conclusion is best supported?",
+      "options": [
+        "Late-detected developmental dysplasia of the hip, requiring orthopedic evaluation",
+        "Slipped capital femoral epiphysis, requiring immediate non-weight-bearing",
+        "Osteomyelitis of the femur, requiring prompt IV antibiotics",
+        "A normal wide-based toddler gait that will resolve with more walking practice"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a new walker with a waddling limp, an apparent leg-length difference, and a hip that drops on the opposite side when standing (Trendelenburg gait). Analyze cues: the guide's limping-child chart pairs \"waddling gait / leg-length difference in a new walker\" with DDH. Prioritize hypotheses: age rules out SCFE, and the absence of fever argues against osteomyelitis. Take action: refer for orthopedic evaluation and possible harness or casting.",
+        "incorrect": [
+          "SCFE occurs in adolescents (11–16) during a growth spurt, not in toddlers.",
+          "Osteomyelitis causes bone pain, fever, and chills. This toddler is afebrile with no tenderness described.",
+          "A leg-length difference and a hip drop (Trendelenburg gait) are abnormal. Calling them a normal toddler gait misses the diagnosis."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches the caregiver of a 6-week-old who has a new Pavlik harness. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Keep the harness on day and night, removing it only briefly for bathing",
+        "Do not put clothing such as a onesie underneath the harness straps",
+        "Diaper with the legs spread, and check the skin under the straps each day",
+        "Take the harness off at night so the infant can sleep comfortably",
+        "Loosen or tighten the straps at home whenever the infant seems uncomfortable",
+        "Lift the infant's legs by the ankles to slide a clean diaper underneath"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions / Take action: the harness holds the hips flexed and abducted so the shallow socket can grow around the femoral head. That only works if it is worn 24/7 (off briefly for a bath), with nothing underneath, the legs spread for diapering, and the skin checked. Removing it at night, adjusting the straps, or pulling the legs undermines treatment.",
+        "incorrect": [
+          "Correct—the Pavlik is worn 24/7 and is off only briefly for a bath.",
+          "Correct—nothing goes under the harness, so it does not shift out of position.",
+          "Correct—this keeps the hips flexed and abducted and catches skin breakdown early.",
+          "Incorrect—removing it at night is a listed misunderstanding. It loses the correction the harness is building.",
+          "Incorrect—strap position is set by the orthopedic team. Changing it at home can undo hip positioning.",
+          "Incorrect—the guide warns against pulling or yanking the leg. Lift by supporting the hips instead."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old biologically male child is brought in because of frequent falls. The parents report that the child climbed stairs easily last year but now cannot. To stand up from the floor, the child pushes the hands against the knees and thighs. Which conclusion is best supported?",
+      "options": [
+        "Duchenne muscular dystrophy, because the child shows a Gower sign and is losing motor milestones",
+        "Cerebral palsy, because the child has delayed motor skills and abnormal movement",
+        "Osteogenesis imperfecta, because the falls point to weak bones and a short stature pattern",
+        "Slipped capital femoral epiphysis, because hip weakness is making the child fall"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a biological male, a lost milestone (stair climbing), frequent falls, and using the hands to \"walk\" up the legs to stand. Analyze cues: Gower sign reflects proximal (trunk and hip) weakness, which comes first in DMD, and losing milestones signals a progressive disease. Prioritize hypotheses: DMD fits the progressive, X-linked pattern. CP is non-progressive, and OI is a bone disorder. Take action: report for evaluation and begin respiratory and cardiac monitoring as part of the plan.",
+        "incorrect": [
+          "CP is non-progressive. A child with CP does not typically lose skills already achieved, and this child has lost the ability to climb stairs.",
+          "OI presents with fractures from minimal trauma and blue sclerae, not proximal muscle weakness and a Gower sign.",
+          "SCFE affects adolescents, causes hip or knee pain with a limp, and does not cause the hands-on-thighs rise."
+        ]
+      }
+    },
+    {
+      "stem": "The mother of a 7-year-old with Duchenne muscular dystrophy asks whether the family's 4-year-old daughter could also have the disease. Which response by the nurse is most accurate?",
+      "options": [
+        "\"Because the gene is on the X chromosome, your daughter is more likely to be a carrier than to have the disease.\"",
+        "\"Because the disease is autosomal dominant, your daughter has the same chance of having it as your son.\"",
+        "\"Only boys can carry the gene, so your daughter does not need any genetic counseling.\"",
+        "\"The disease comes from a collagen defect, so your daughter's risk depends on the father's genes.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: DMD is X-linked recessive. Girls need two copies to be affected, so one copy makes them a carrier, while boys need only one copy and therefore cannot \"just be carriers.\" The mother is usually the carrier. Generate solutions / Take action: answer accurately and support referral to genetic counseling for the family.",
+        "incorrect": [
+          "DMD is X-linked recessive, not autosomal dominant. Autosomal dominant is the inheritance pattern of OI.",
+          "This reverses the pattern. Mothers are usually the carriers, and boys cannot be carriers because one copy makes them affected.",
+          "A collagen defect describes OI. DMD is a missing dystrophin protein."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a 14-year-old with Duchenne muscular dystrophy during a clinic visit. Which finding requires immediate follow-up?",
+      "options": [
+        "The adolescent no longer walks and now uses a power wheelchair full time",
+        "A weak cough and new breathlessness when lying flat, with a resting heart rate of 126",
+        "The adolescent needs both hands to lift a cup and tires during handwriting",
+        "The adolescent says they feel left out at school since starting to use a wheelchair"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a weak cough, breathlessness when lying flat, and resting tachycardia. Analyze cues: DMD eventually weakens the diaphragm, chest wall, and heart, and death is usually from cardiac or respiratory failure. Prioritize hypotheses: these cues suggest respiratory compromise and possible cardiac failure, the disease's most dangerous complications. Take action: escalate for respiratory and cardiac evaluation now. Loss of walking and arm weakness are the expected progression.",
+        "incorrect": [
+          "Loss of walking by adolescence is the expected course of DMD. It needs support, not urgent escalation.",
+          "Progressive upper-extremity weakness is expected and is managed with assistive devices and OT.",
+          "This psychosocial concern deserves attention and support, but it is not a physiologic threat."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old with Duchenne muscular dystrophy has been taking a prescribed corticosteroid for 1 year. Which finding best indicates that the medication is having its intended effect?",
+      "options": [
+        "The child's Gower sign has disappeared, and the child now rises from the floor without using the hands",
+        "Joint swelling and morning stiffness have resolved since the medication was started",
+        "Walking and stair-climbing ability have stayed about the same instead of declining as expected",
+        "The child has had no new fractures since the medication was started"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the professor flagged in red that corticosteroids SLOW the decline of muscle strength in DMD; they do not cure it. Evaluate outcomes: success therefore looks like preserved function (stable walking and stair climbing) instead of the expected loss. Expecting a reversal, or using JIA or OI goals, misreads why the drug is given.",
+        "incorrect": [
+          "Corticosteroids do not reverse DMD or restore dystrophin. A disappearing Gower sign would suggest a cure, which is not the expected outcome.",
+          "Relief of joint swelling and morning stiffness is the goal in juvenile idiopathic arthritis, not DMD.",
+          "Fracture prevention is a goal in OI. It does not measure the effect of corticosteroids on muscle decline in DMD."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-year-old with Duchenne muscular dystrophy is admitted with increasing fatigue. Which nursing intervention should the nurse include as a priority in the plan of care?",
+      "options": [
+        "Strict bed rest to conserve the child's remaining muscle strength",
+        "A daily progressive weight-lifting program to rebuild lost muscle",
+        "A genetic counseling session for the family during this admission",
+        "Scheduled deep-breathing exercises, with ongoing assessment of cough strength"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Prioritize hypotheses: as DMD progresses, weakness of the diaphragm and chest wall leads to ineffective breathing, poor airway clearance, and respiratory infection, a leading cause of death. Generate solutions / Take action: deep-breathing exercises and cough assessment are core DMD nursing interventions, along with cardiac screening, assistive devices, and care coordination. Evaluate outcomes: effective breathing and cough, and no respiratory infections.",
+        "incorrect": [
+          "Bed rest speeds deconditioning and raises the risk of respiratory complications. The goal is to maintain function and independence.",
+          "Intensive resistance training cannot rebuild muscle that lacks dystrophin and may overwork damaged fibers.",
+          "Genetic counseling is appropriate for the family, but it does not address the child's immediate physiologic risk."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-year-old who was born at 28 weeks' gestation walks on the toes. When the child is lifted under the arms, the legs stiffen and cross. Passive range of motion of the ankles meets marked resistance. Which type of cerebral palsy do these findings best fit?",
+      "options": [
+        "Spastic cerebral palsy, with tight, hypertonic muscles",
+        "Ataxic cerebral palsy, with poor balance and coordination",
+        "Dyskinetic cerebral palsy, with involuntary movements",
+        "Mixed cerebral palsy, with tone that shifts from hour to hour"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: prematurity (a risk factor for brain injury), toe walking, scissoring legs, and resistance to passive movement. Analyze cues: spastic CP, the most common type, causes tight, stiff, hypertonic muscles, and scissoring is its signature. Prioritize hypotheses: spastic CP fits. Generate solutions: anticipate interventions that prevent contractures, such as ROM, positioning, braces, PT, and muscle relaxants.",
+        "incorrect": [
+          "Ataxic CP causes shakiness, poor balance, and poor coordination, not hypertonia and scissoring.",
+          "Dyskinetic CP causes involuntary, uncontrolled, repetitive movements with fluctuating tone, not constant stiffness.",
+          "Mixed CP combines spastic and dyskinetic features. Nothing here suggests involuntary movements or fluctuating tone."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews home care with the parents of a 5-year-old with spastic cerebral palsy. Which statement by a parent indicates a need for further teaching?",
+      "options": [
+        "\"The brain injury won't get worse, but the stiffness can get worse if we skip the stretching.\"",
+        "\"We watch closely during meals because our child can cough, choke, or aspirate food.\"",
+        "\"We give extra fluids and fiber and follow the bowel program because constipation is common.\"",
+        "\"Since the brain damage is permanent, we can stop the home stretching program.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parent has misread \"non-progressive\" as \"nothing helps.\" The professor stressed that CP symptoms CAN worsen without care and stretching, even though the brain injury does not. \"Physical therapy won't help since CP is permanent\" is a listed misunderstanding. The other statements correctly address contracture prevention, aspiration risk, and constipation.",
+        "incorrect": [
+          "This is correct. CP is non-progressive, but symptoms such as contractures can worsen without care.",
+          "This is correct. Dysphagia and aspiration are known CP complications.",
+          "This is correct. Immobility and weak peristalsis cause constipation in CP."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old with spastic quadriplegic cerebral palsy is hospitalized for a seizure medication adjustment. Which finding requires the nurse's immediate follow-up?",
+      "options": [
+        "Hip abduction on the left is more limited than it was at the visit a year ago",
+        "A wet, gurgly voice after meals, a temperature of 38.4°C (101.1°F), and a respiratory rate of 34",
+        "No bowel movement for 3 days, with a soft, nondistended abdomen",
+        "The legs scissor and stiffen when the child is lifted from the bed to the chair"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a wet voice after eating, fever, and tachypnea. Analyze cues: dysphagia in CP causes aspiration, and these cues together suggest aspiration pneumonia. Prioritize hypotheses: a breathing threat (airway and breathing) outranks the chronic complications of hip changes, constipation, and spasticity. Take action: assess respiratory status, hold oral intake, and notify the provider. Evaluate outcomes: respiratory rate, temperature, and oxygenation improve.",
+        "incorrect": [
+          "Increasing hip limitation needs monitoring for hip dislocation, but it is a gradual change, not an immediate threat.",
+          "Constipation is common in CP and needs the bowel program, but it is not urgent with a soft abdomen.",
+          "Scissoring is an expected feature of spastic CP."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old with spastic cerebral palsy started an oral muscle relaxant 6 weeks ago. Which finding best indicates that the medication is working?",
+      "options": [
+        "The child has had fewer seizures than in the month before the medication started",
+        "Imaging shows that the area of brain injury has become smaller",
+        "Stretching is easier, and the ankle braces now fit without pressure areas",
+        "The child has gained weight and finishes meals more quickly"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Generate solutions: muscle relaxants are given in CP to reduce spasticity (hypertonia), which drives contractures, skin breakdown under braces, and hip problems. Evaluate outcomes: reduced tone shows up as easier passive stretching and better brace fit. Seizure control is the goal of a different drug class, and the brain injury itself does not change.",
+        "incorrect": [
+          "Seizure control is the goal of seizure medications, which are a separate drug class in CP.",
+          "The CP brain injury does not heal or shrink. No medication is expected to change it.",
+          "Weight gain reflects the nutrition plan and swallowing. It is not the target of a muscle relaxant."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is evaluating a 4-year-old with delayed gross motor skills. Which finding most strongly suggests Duchenne muscular dystrophy rather than cerebral palsy?",
+      "options": [
+        "The child could run and climb at age 3 but can no longer do either",
+        "The child did not walk independently until 18 months of age",
+        "The child was born prematurely after a complicated delivery",
+        "The child's legs are stiff and cross like scissors when the child is lifted"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: the key difference in the guide's chart is the COURSE. DMD is progressive, so the child loses milestones already achieved. CP is non-progressive: delays and abnormal tone, but no loss of skills from new brain damage. Prioritize hypotheses: a lost milestone is the discriminating cue for DMD. Delayed walking is shared by both, and prematurity and scissoring point to CP.",
+        "incorrect": [
+          "Delayed walking occurs in both DMD and CP, so it does not distinguish them.",
+          "Prematurity and birth complications are causes of CP, so this points away from DMD.",
+          "Scissoring and hypertonia are hallmarks of spastic CP."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse plans care for an 8-year-old with spastic cerebral palsy who uses leg braces and a wheelchair. Which complications should the nurse monitor for and work to prevent? Select all that apply.",
+      "options": [
+        "Contractures from shortening of spastic muscles",
+        "Skin breakdown under the braces and over pressure points",
+        "Hip dislocation from muscle imbalance pulling on the joint",
+        "Cardiac failure from progressive loss of muscle fibers",
+        "Fractures from a collagen defect that also causes blue sclerae",
+        "Constipation from immobility, tone, and weak peristalsis"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Generate solutions: the guide's CP monitor-and-prevent list is contractures, skin breakdown, hip dislocation, constipation, and nutrition/aspiration. Progressive cardiac failure belongs to DMD, and collagen-defect fractures belong to OI. Mixing up the OI, DMD, and CP charts is the trap.",
+        "incorrect": [
+          "Correct—spastic muscles shorten. ROM, positioning, braces, and PT prevent contractures.",
+          "Correct—limited mobility and braces cause pressure injury. Reposition and check the skin.",
+          "Correct—muscle imbalance pulls the hip out of place, so the hips are monitored.",
+          "Incorrect—progressive muscle loss leading to cardiac failure is DMD. CP is non-progressive.",
+          "Incorrect—a collagen defect with blue sclerae and fractures is OI, not CP.",
+          "Correct—immobility, tone, medications, and weak peristalsis cause constipation, so fluids, fiber, and a bowel program are used."
+        ]
+      }
+    },
+    {
+      "stem": "A 13-year-old with obesity reports 3 weeks of right knee pain that worsens with walking and has developed a limp. The knee exam shows no swelling, tenderness, or redness, and the child is afebrile. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "Because the knee exam is normal, the pain is most likely growing pains that need ibuprofen and rest",
+        "The knee pain may be referred from the hip, so SCFE is suspected and weight bearing should stop pending evaluation",
+        "The limp suggests developmental dysplasia of the hip, so the nurse should anticipate Barlow and Ortolani testing",
+        "The pain with walking suggests osteomyelitis, so the nurse should anticipate starting IV antibiotics"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: an adolescent with obesity, knee pain with weight bearing, a limp, and a normal knee exam. Analyze cues: in SCFE the femoral head slips off at the growth plate during the growth spurt, and the pain is often felt in the knee (referred pain). Prioritize hypotheses: SCFE fits the age, body size, and pattern. Take action: stop weight bearing so the head does not slip further, and anticipate imaging and surgical pinning.",
+        "incorrect": [
+          "Dismissing knee pain because the knee itself is normal is the trap \"knee pain = knee problem only.\" It misses referred hip pain.",
+          "DDH is a newborn and infant diagnosis found with Barlow and Ortolani. The guide lists \"SCFE is found with Barlow/Ortolani\" as a trap.",
+          "Osteomyelitis comes with fever, chills, and bone tenderness and swelling. This child is afebrile with no local findings."
+        ]
+      }
+    },
+    {
+      "stem": "A 12-year-old is admitted with a newly diagnosed slipped capital femoral epiphysis and is scheduled for surgical pinning tomorrow. The child asks to walk to the bathroom because \"it only hurts a little.\" What should the nurse do?",
+      "options": [
+        "Encourage the walk, because using the leg keeps the hip muscles strong before surgery",
+        "Allow the child to walk with a staff member standing by, since the pain is mild",
+        "Provide a wheelchair or bedside commode and keep the child non-weight-bearing on the affected leg",
+        "Apply a spica cast or brace so the child can bear weight safely until surgery"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a confirmed SCFE awaiting pinning, and a request to bear weight. Analyze cues: the growth plate is unstable, so loading the hip can push the femoral head further out of place. Generate solutions / Take action: the guide's priority is to stop weight bearing (non-weight-bearing or restricted, crutches or wheelchair), then stabilize surgically. Evaluate outcomes: the child reaches surgery without further slippage.",
+        "incorrect": [
+          "\"Encourage walking to strengthen the hip\" is the listed SCFE trap. Weight bearing can make the femoral head slip further.",
+          "Mild pain does not make weight bearing safe. The slip is mechanical, and pain level does not predict further displacement.",
+          "A spica cast is a DDH treatment. SCFE is managed with non-weight-bearing followed by surgical pinning."
+        ]
+      }
+    },
+    {
+      "stem": "A school nurse is reviewing sports physicals. Which student has the greatest risk for slipped capital femoral epiphysis?",
+      "options": [
+        "A 12-year-old biologically female gymnast with a low body weight and a recent growth spurt",
+        "A 14-year-old biologically male student with obesity and hypothyroidism who is in a growth spurt",
+        "A 16-year-old who was treated with a Pavlik harness for hip dysplasia as an infant",
+        "A 9-year-old with well-controlled asthma who plays soccer three times a week"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: adolescent age, biological male sex, obesity, an endocrine disorder (hypothyroidism), and a growth spurt. Analyze cues: SCFE risk factors are adolescence (11–16), obesity (extra pressure on the hip), biological male sex, endocrine disorders, and family history. Prioritize hypotheses: this student has the most risk factors. Take action: educate the student and family to report hip or knee pain with a limp promptly.",
+        "incorrect": [
+          "A growth spurt is a risk factor, but low body weight and female sex lower the risk compared with the other risk factors.",
+          "Treated infant DDH is not a listed SCFE risk factor. DDH is a socket problem, while SCFE is a growth plate slip.",
+          "This child is younger than the typical 11–16 range and has none of the listed risk factors."
+        ]
+      }
+    },
+    {
+      "stem": "A school nurse is screening an 11-year-old for scoliosis. Which technique should the nurse use?",
+      "options": [
+        "Have the child stand upright in a loose T-shirt while the nurse compares hip heights from the front",
+        "Have the child lie prone on a cot while the nurse palpates along the spine for a curve",
+        "Have the child touch the toes while the nurse watches from the side for tight hamstrings",
+        "Have the child bend forward at the waist with arms dangling, in minimal clothing, while the nurse looks from behind"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Generate solutions / Take action: the forward bend test is the screening method. The child bends forward with arms dangling and minimal clothing on, and the nurse looks from behind for a rib hump or uneven back. A scoliometer can quantify it. Recognize cues: uneven shoulders or waist, or a rib hump, prompt referral. Routine screening targets girls 10–12 and boys 13–14.",
+        "incorrect": [
+          "Loose clothing hides asymmetry, and viewing from the front while standing misses the rib hump that the forward bend reveals.",
+          "Lying prone flattens the posture and is not the screening method. Palpation alone does not show rotation.",
+          "Watching from the side assesses flexibility, not spinal curvature or rib asymmetry."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews care with the parent of a 12-year-old who has just been fitted for a scoliosis brace. Which statement by the parent indicates a need for further teaching?",
+      "options": [
+        "\"Our child will wear the brace for the hours prescribed so the curve doesn't get worse.\"",
+        "\"We'll keep the regular check-ups so the team can see whether the curve is changing.\"",
+        "\"The brace should straighten the curve completely within a couple of months.\"",
+        "\"Most children with scoliosis do not need surgery, so this brace is a step to avoid it.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the parent expects the brace to cure the curve quickly, which sets up disappointment and poor adherence. \"The brace will straighten the curve completely in a few weeks\" is a listed misunderstanding. Bracing aims to keep the curve from worsening. The other statements correctly describe wear time, monitoring, and the rarity of surgery.",
+        "incorrect": [
+          "This is correct. A brace is meant to stop the curve from progressing, and only if it is worn as prescribed.",
+          "This is correct. Monitoring at check-ups is the backbone of scoliosis care.",
+          "This is correct. Bracing and surgery are rare, and surgery is reserved for severe curves."
+        ]
+      }
+    },
+    {
+      "stem": "During school screening, the nurse examines a 12-year-old. Which findings should prompt referral for scoliosis evaluation? Select all that apply.",
+      "options": [
+        "One shoulder blade sits noticeably higher than the other",
+        "The waistline is uneven, with more space between the arm and the waist on one side",
+        "A rib hump appears on one side when the child bends forward",
+        "Level shoulders and a symmetric back, with mild soreness after carrying a heavy backpack",
+        "Level hips and shoulders, with a spine that looks straight on the forward bend"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: uneven shoulders, an uneven waist, and a rib hump on forward bend are the screening signs of scoliosis. Analyze cues: back pain is a symptom, but the visible asymmetries are the cues that point to a sideways \"S\" curve. Take action: refer for evaluation and scoliometer measurement. Most children are then monitored, with PT as needed.",
+        "incorrect": [
+          "Correct—uneven shoulders (one shoulder blade higher) are a listed sign of scoliosis.",
+          "Correct—an uneven waist is a listed sign.",
+          "Correct—a rib hump on the forward bend test is the key screening finding.",
+          "Incorrect—with a symmetric back on exam, mild activity-related soreness alone does not meet referral criteria.",
+          "Incorrect—this is a normal screening result."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse in a pediatric emergency department reviews four children with fractures. Which child's injury most requires further evaluation for possible abuse?",
+      "options": [
+        "A 7-year-old with a buckle fracture of the distal radius after falling off the monkey bars",
+        "A 4-month-old with a spiral femur fracture whose caregiver says the leg caught in the crib slats",
+        "An 11-year-old with a growth plate fracture of the ankle sustained while playing soccer",
+        "A 10-year-old with bruising at a wrist fracture who is upset about missing soccer season"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a non-walking infant, a femur fracture, a spiral (twisting) pattern, and an explanation that does not fit. Analyze cues: the professor flagged in red that a fracture that doesn't match the story or development, a spiral fracture, or a non-walking infant's femur fracture means concern for abuse. Prioritize hypotheses: this is the most concerning fracture. Take action: document carefully and report or evaluate per policy, considering OI as the look-alike.",
+        "incorrect": [
+          "A buckle fracture of the radius from a fall on an outstretched hand matches the story and the child's development.",
+          "Sports injuries are the usual cause of fractures at this age, and the story fits.",
+          "The guide lists this as a trap distractor. Bruising is an expected fracture sign, and being upset is a normal reaction."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-year-old had a long-arm cast applied for a forearm fracture 6 hours ago. Which findings should the nurse report to the provider immediately? Select all that apply.",
+      "options": [
+        "A radial pulse on the casted arm that is weak compared with the other arm",
+        "Fingers on the casted hand that are pale and cool to the touch",
+        "Numbness and tingling in the fingers, with difficulty wiggling them",
+        "Pain that is out of proportion and not relieved by elevation and analgesics",
+        "Capillary refill of less than 2 seconds in the fingers of both hands",
+        "Mild aching that improves with elevation and the prescribed analgesic"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "CJMM — Recognize cues: compare the injured limb with the other limb for pulses, color and temperature, capillary refill, sensation and movement, and swelling and pain. Analyze cues: a weak pulse, pallor and coolness, numbness, and pain out of proportion signal neurovascular compromise (possibly compartment syndrome). Take action: notify the provider immediately. Brisk refill and controlled pain are normal.",
+        "incorrect": [
+          "Correct—an absent or weak distal pulse is an \"act now\" finding: notify the provider immediately.",
+          "Correct—pale, cool, or blue skin signals compromised perfusion.",
+          "Correct—numbness, tingling, or inability to move indicates nerve compromise.",
+          "Correct—unrelieved pain out of proportion with a tight cast suggests compartment syndrome.",
+          "Incorrect—brisk capillary refill is a normal finding.",
+          "Incorrect—pain controlled with elevation and medication is expected."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-year-old in a long-arm cast reports pain of 8/10 one hour after receiving a prescribed dose of IV morphine. The fingers are swollen, and the child cannot extend them. Which action should the nurse take first?",
+      "options": [
+        "Give a second dose of the PRN analgesic and reassess the pain in 30 minutes",
+        "Raise the arm higher on pillows and reassess the pain and fingers in 1 hour",
+        "Encourage the child to wiggle and exercise the fingers to improve circulation",
+        "Notify the provider immediately of possible neurovascular compromise"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: severe pain that persists after an opioid, swollen fingers, and inability to move them. Analyze cues: pain out of proportion that is unrelieved, combined with loss of movement, indicates neurovascular compromise from a tight cast (compartment syndrome). Prioritize hypotheses: this threatens the limb and is time-sensitive. Take action: notify the provider immediately. More medication, more elevation and waiting, or exercises are all listed wrong responses.",
+        "incorrect": [
+          "Treating the pain as routine masks a warning sign. Pain unrelieved by medication is an \"act now\" finding, not a dosing problem.",
+          "Elevation helps control expected swelling, but waiting an hour with unrelieved pain and loss of movement delays treatment of possible compartment syndrome.",
+          "Range-of-motion exercises are the listed trap response to neurovascular compromise. They do not relieve a constricting cast."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse provides discharge teaching to the caregiver of a 6-year-old with a new short-leg cast. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"If it itches, a ruler slid gently under the cast edge should help.\"",
+        "\"I'll call if the toes are pale, cold, or numb, or if my child can't move them.\"",
+        "\"I'll keep the leg propped up on pillows to help keep the swelling down.\"",
+        "\"I'll cover the cast with a plastic bag at bath time so it stays dry.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: putting anything inside the cast (a coat hanger, ruler, or similar object) can break the skin under the cast where it cannot be seen, leading to infection. \"I'll use a coat hanger to scratch under the cast\" is a listed misunderstanding. The other statements show correct neurovascular monitoring, elevation, and keeping the cast dry.",
+        "incorrect": [
+          "This is correct. These are the neurovascular warning signs to report.",
+          "This is correct. Elevation reduces swelling under a cast.",
+          "This is correct. Keeping the cast dry protects it and the skin underneath."
+        ]
+      }
+    },
+    {
+      "stem": "A 2-year-old is brought in after a caregiver swung the child by the hands at the park. The child is calm and not crying, but holds the right arm slightly bent at the side and will not reach for a toy with it. Which conclusion should guide the nurse's next action?",
+      "options": [
+        "The calm behavior shows the child is not in pain, so a minor sprain is likely and can be treated with ice at home",
+        "The arm position suggests a fractured clavicle, so the nurse should anticipate a figure-8 brace",
+        "The history and arm position fit radial head subluxation, so the nurse should anticipate reduction by the provider",
+        "The child's refusal to use the arm suggests a growth plate fracture, so the nurse should anticipate a long-arm cast"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a toddler, a sudden pull or swing by the hands, an arm held slightly bent, and refusal to use it without much distress. Analyze cues: a toddler's loose elbow ligament lets the radial head slip partly out when the arm is pulled. The professor flagged that it may look painless but the child won't use the arm. Prioritize hypotheses: nursemaid's elbow fits the mechanism and presentation. Take action: anticipate reduction by the provider plus pain management. Children often use the arm within minutes afterward.",
+        "incorrect": [
+          "\"No pain means no injury\" is the listed trap. A nursemaid's elbow may look painless, but the child won't use the arm.",
+          "\"Toddler refusing arm = fractured clavicle every time\" is a listed trap. The story of a pull on the arm points to the elbow.",
+          "\"Treatment = long-arm cast for 6 weeks\" is a listed trap. There was no fall or direct trauma, and the mechanism was a pull."
+        ]
+      }
+    },
+    {
+      "stem": "After the provider reduces a 3-year-old's radial head subluxation, the nurse teaches the caregiver. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"I'll lift my child under the arms instead of by the hands or wrists.\"",
+        "\"We'll stop playing the swinging-by-the-arms game, even though our child loves it.\"",
+        "\"If our child stops using the arm after a pull, it may have slipped again and needs to be checked.\"",
+        "\"If it happens again, I'll pull the arm out straight at home to pop it back in.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: the caregiver plans to reduce the elbow at home by pulling, which is the same force that caused the injury. Reduction is a provider procedure (supination and flexion), and \"I'll pull the arm straight to fix it at home\" is a listed misunderstanding. Prevention teaching (lift under the arms, no swinging) and recognizing a recurrence are correct.",
+        "incorrect": [
+          "This is correct. Lifting under the arms avoids pulling on the elbow.",
+          "This is correct. Swinging by the arms is a common cause.",
+          "This is correct. This statement shows the caregiver recognizes a recurrence."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old has had a limp for 3 days and now refuses to bear weight on the left leg. The temperature is 39.2°C (102.6°F), with chills, and the distal femur is warm, swollen, and very tender. The caregiver recalls no injury. Which action should the nurse anticipate as the priority?",
+      "options": [
+        "Obtaining IV access so that prescribed IV antibiotics can be started promptly",
+        "Applying a splint and ice and teaching rest at home for a likely sprain",
+        "Keeping the child non-weight-bearing in preparation for surgical pinning",
+        "Reporting a suspected abuse injury because the caregiver cannot explain the limp"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: refusal to bear weight, high fever with chills, and a warm, swollen, tender long bone. Analyze cues: injury-like findings plus infection signs equal osteomyelitis, a bacterial infection of the bone, usually the long bones of the legs. Prioritize hypotheses: osteomyelitis is time-sensitive because bone destruction progresses without treatment. Take action: prompt IV antibiotics, plus pain management and possible drainage or debridement.",
+        "incorrect": [
+          "\"Limp + fever = just a sprain\" and \"rest and ice only\" are listed traps. They ignore fever and chills, which signal infection.",
+          "Non-weight-bearing and pinning treat SCFE in adolescents. Fever and bone tenderness in a 6-year-old point to infection.",
+          "Not recalling an injury does not by itself suggest abuse. The fever and chills give a clear infectious explanation."
+        ]
+      }
+    },
+    {
+      "stem": "Two school-age children are evaluated for leg pain and refusal to bear weight. Which finding most reliably distinguishes osteomyelitis from a fracture?",
+      "options": [
+        "Point tenderness over the affected area of bone",
+        "Swelling over the painful area of the leg",
+        "Fever and chills accompanying the bone pain",
+        "Restricted movement and refusal to bear weight"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: osteomyelitis and fracture share bone pain, tenderness, swelling, and restricted movement. The guide's discriminator is systemic infection: fever and chills mean osteomyelitis. Prioritize hypotheses: fever moves osteomyelitis to the top. Take action: anticipate prompt IV antibiotics rather than immobilization alone.",
+        "incorrect": [
+          "Point tenderness is a classic fracture sign and also occurs in osteomyelitis, so it does not distinguish them.",
+          "Swelling occurs with both fracture and infection.",
+          "Both conditions cause restricted movement and refusal to bear weight. This is part of the shared presentation in the stem."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-year-old with osteomyelitis of the tibia is on day 6 of IV antibiotics after surgical debridement. Which finding best indicates that treatment is effective?",
+      "options": [
+        "The child sleeps more and asks for less pain medication, though the temperature is still 38.9°C (102°F)",
+        "Drainage from the debridement site has increased and become thicker over 24 hours",
+        "The IV site is clean, and the child is drinking well and passing clear urine",
+        "The child has been afebrile for 48 hours, has less swelling over the tibia, and is starting to bear weight"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: osteomyelitis presents with fever and chills, bone pain, swelling, tenderness, and refusal to bear weight. Effective IV antibiotics plus debridement should reverse those same cues: the fever resolves, local swelling and tenderness decrease, and function (weight bearing) returns. Persistent fever or increasing drainage would mean the plan needs revision. IV site status and hydration do not measure the bone infection.",
+        "incorrect": [
+          "Persistent fever means the infection is not controlled. Sleeping more could even be a sign of illness, not improvement.",
+          "Increasing, thickening drainage suggests ongoing or worsening infection.",
+          "A healthy IV site and good hydration are good findings, but they do not show that the bone infection is resolving."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old is brought in for a limp. The caregiver reports that the child's right knee is stiff for more than an hour every morning and loosens up as the day goes on. The knee is swollen and warm, the temperature is 37.0°C (98.6°F), and there has been no injury. Which condition do these findings best fit?",
+      "options": [
+        "Osteomyelitis, which requires prompt IV antibiotics",
+        "Juvenile idiopathic arthritis, managed with support of function",
+        "Slipped capital femoral epiphysis, which requires non-weight-bearing",
+        "A buckle fracture, which requires immobilization and neurovascular checks"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: morning stiffness lasting more than 30 minutes that improves with activity, a swollen, warm joint, no fever, and no trauma. Analyze cues: the guide's limping-child chart pairs \"morning stiffness >30 min, swollen warm joint\" with JIA (from Week 6). Prioritize hypotheses: the absence of fever argues against osteomyelitis, the age rules out SCFE, and the absence of trauma argues against fracture. Take action: support function and coordinate care for JIA.",
+        "incorrect": [
+          "Osteomyelitis brings fever and chills with bone pain. This child is afebrile with a joint, not bone, pattern.",
+          "SCFE occurs in adolescents (11–16) and causes hip or knee pain with weight bearing, not morning stiffness in a preschooler.",
+          "A fracture follows a fall or injury and causes point tenderness. Stiffness that eases through the day does not fit."
+        ]
+      }
+    }
+  ]
+}

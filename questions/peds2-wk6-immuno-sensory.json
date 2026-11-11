@@ -1,0 +1,955 @@
+{
+  "topic": "peds2-wk6-immuno-sensory",
+  "label": "Peds 2: Week 6 — Immunologic & Sensory",
+  "questions": [
+    {
+      "stem": "During a 9-month well visit, the nurse performs the red reflex exam with an ophthalmoscope in a dimmed room and reviews the infant's other vision findings. Which finding requires prompt follow-up?",
+      "options": [
+        "Both pupils glow an equal orangish-red when the light is shone into them",
+        "The left pupil's glow is noticeably duller and paler than the glow in the right pupil",
+        "The infant reaches accurately for a toy and seems to judge how far away it is",
+        "The caregiver says the infant's eyes crossed briefly a few times as a young newborn"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the reflex is not the same in both eyes; one glow is dull and pale. Analyze cues: a normal red reflex is orangish-red AND symmetrical. A reflex that is absent, weak, dull, white, or unequal can mean a cataract, retinoblastoma, strabismus, or a retinal abnormality. Prioritize hypotheses: something is blocking or changing the light path in the left eye, and the brain is building its visual pathways right now. Take action: an abnormal red reflex always gets a prompt ophthalmology referral, not a recheck later.",
+        "incorrect": [
+          "This is the expected finding. A normal red reflex is orangish-red and equal in both eyes, so it needs no follow-up.",
+          "Judging distance is on track at 7–12 months. It shows normal depth perception and hand-eye development, not a problem.",
+          "Brief, intermittent misalignment can be normal in early infancy. It becomes a concern only if it persists past 4–6 months, and this history describes the newborn period."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is completing discharge for a healthy 2-day-old newborn. The chart shows the hearing screen was done, but no red reflex exam has been documented. The caregiver says, \"The pediatrician can check his eyes at the 2-week visit.\" What is the nurse's best action?",
+      "options": [
+        "Agree to defer the exam and add a note asking the pediatrician to check it at 2 weeks",
+        "Teach the caregiver to watch whether the newborn tracks faces and report concerns",
+        "Ensure the red reflex exam is completed and documented before the newborn goes home",
+        "Ask the caregiver to take flash photos at home and bring them to the first visit"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a required newborn screen is missing at discharge. Analyze cues: the red reflex is checked before newborn discharge and then at every well visit for the first 5 years. It is quick, painless, and detects cataracts, retinoblastoma, and other problems that block clear input while the visual pathways are forming. Generate solutions/Take action: complete and document the exam before the newborn leaves rather than relying on a later visit.",
+        "incorrect": [
+          "Deferring breaks the screening schedule. The red reflex belongs before discharge, and the longer a visual problem goes unfound, the greater the risk of permanent loss.",
+          "Newborns are not expected to track faces yet; following faces begins around 2–3 months. This teaching cannot replace the red reflex screen.",
+          "Photos may show a white pupil, but phone cameras can also hide it. Photos do not replace a documented ophthalmoscope exam."
+        ]
+      }
+    },
+    {
+      "stem": "At a 3-year-old's well visit, the nurse sees a white glow in the child's left pupil during the red reflex exam; the right reflex is orangish-red. The caregiver says, \"That can't be right. His eyes look fine in all our phone pictures, and he hasn't complained about anything.\" What is the nurse's best response?",
+      "options": [
+        "\"A white pupil needs a prompt eye specialist visit. Phone cameras can miss it, and he may not have symptoms.\"",
+        "\"Since his photos look normal, we'll recheck his eyes carefully at his next well visit.\"",
+        "\"Let's test his vision with a picture chart first. If his vision is reduced, we'll send him to an eye doctor.\"",
+        "\"It is probably from the bright light. Watch for eye pain or redness, and call us if they develop.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a white pupil (leukocoria) in one eye on red reflex in a child under 5. Analyze cues: leukocoria is the classic sign of retinoblastoma, a malignant tumor of the retina, and is often found on routine screening with no complaints. Newer phone cameras may hide the white pupil, so normal photos do not rule it out. Prioritize hypotheses: retinoblastoma until proven otherwise. Take action: do not reassure. Arrange a prompt ophthalmology referral.",
+        "incorrect": [
+          "\"Recheck at the next visit\" is the classic trap. An abnormal red reflex always needs a prompt referral, and a white pupil should never be ignored.",
+          "The red reflex does not test visual acuity, and a child with retinoblastoma may have normal acuity at first. Waiting for an acuity result delays the referral.",
+          "Retinoblastoma does not usually first show up as eye pain or a red, draining eye. Waiting for those symptoms misreads the cue and delays care."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing messages from caregivers of four 2-year-olds. Which child's presentation is most consistent with retinoblastoma?",
+      "options": [
+        "A child with a red, painful left eye and thick yellow drainage that glues the lids shut",
+        "A child whose eyes drift outward when tired and who has started to squint in sunlight",
+        "A child with a swollen, red eyelid, a fever, and crying when looking toward a toy",
+        "A playful child whose left pupil looked white in a flash photo while the right looked red"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a white pupil in one eye in a well-appearing toddler. Analyze cues: leukocoria is the classic sign of retinoblastoma. It is often found on routine screening or in a photo, usually before age 5, and the child often has no complaints. Prioritize hypotheses: of these presentations, only this one matches a retinal tumor. Take action: prompt ophthalmology referral and a documented red reflex exam.",
+        "incorrect": [
+          "Thick purulent drainage with matted lids describes bacterial conjunctivitis. Expecting retinoblastoma to present as a red, draining, painful eye is a listed trap.",
+          "Outward drift describes exotropia (strabismus). It needs referral for amblyopia risk, but it is not the classic presentation of retinoblastoma.",
+          "A swollen lid with fever and pain on eye movement suggests orbital cellulitis, which is an emergency, but it is an infection, not a retinal tumor."
+        ]
+      }
+    },
+    {
+      "stem": "After a normal red reflex exam on their 18-month-old, a caregiver says, \"Great, so that means her eyesight is perfect.\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"Yes. A normal red reflex at this age shows that her vision is sharp in both eyes.\"",
+        "\"Yes, but only for distance vision. Near vision is checked once she starts reading.\"",
+        "\"Not quite. This test looks for things like cataracts, tumors, or misaligned eyes, not how sharply she sees.\"",
+        "\"Not quite. The red reflex mainly checks whether her eyes make enough tears and stay healthy.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver has misunderstood what the screen measures. Analyze cues: the red reflex (Bruckner) screens for cataracts, retinoblastoma, strabismus, and retinal abnormalities. It does not test visual acuity. Generate solutions/Take action: correct the misconception clearly so the family keeps up with every well-visit screening and reports concerns such as squinting or eyes not lining up.",
+        "incorrect": [
+          "This repeats the listed trap that the red reflex tests acuity. False reassurance can lead the family to ignore later warning signs.",
+          "The red reflex does not measure distance or near acuity. Splitting vision this way still treats the screen as an acuity test.",
+          "Tear production and surface health are not what the red reflex assesses. It detects problems inside the eye that block or change the reflected light."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 3-month-old reports that the infant's eyes sometimes cross for a few seconds when the infant is tired, then line up again. The red reflex is equal and orangish-red, and the infant follows faces. What should the nurse conclude?",
+      "options": [
+        "This can be normal at this age; recheck alignment at well visits and report if it persists past 4–6 months",
+        "This is esotropia that will cause amblyopia, so the nurse should request a patch for the weaker eye today",
+        "This is a sign of retinoblastoma because misalignment is often the first symptom of a retinal tumor",
+        "This needs no further follow-up because infants outgrow eye crossing on their own before school age"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: brief, intermittent crossing at 3 months, with a normal red reflex and normal tracking. Analyze cues: brief, intermittent misalignment can be normal in early infancy. It becomes a concern when it persists past 4–6 months. Prioritize hypotheses: likely normal developmental variation, with no other abnormal findings. Generate solutions/Evaluate outcomes: keep checking alignment (corneal light reflex and red reflex) at each well visit and refer if it persists.",
+        "incorrect": [
+          "Treatment is not indicated for brief crossing at 3 months. In addition, patching covers the STRONGER eye, not the weaker one.",
+          "The red reflex is normal. Leukocoria, not brief crossing in a young infant, is the classic sign of retinoblastoma.",
+          "\"He'll grow out of it, so we can wait until school\" is a listed needs-further-teaching statement. Misalignment that persists past 4–6 months does need follow-up."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-month-old's caregiver says the infant's right eye has turned in toward the nose \"most of the time\" for several months. The caregiver adds, \"She doesn't seem bothered, and my mother says babies grow out of it.\" What is the nurse's priority action?",
+      "options": [
+        "Reassure the caregiver that the infant is not bothered, which means the brain is adjusting normally",
+        "Ask the caregiver whether the infant seems to see double, then refer only if the answer is yes",
+        "Plan to recheck the eye alignment at the 12-month visit before making any referral",
+        "Arrange a referral for persistent misalignment because it can lead to permanent vision loss"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: constant inward turning (esotropia) that has lasted several months in a 10-month-old. Analyze cues: misalignment persisting past 4–6 months is a concern. The brain receives two different images and suppresses the deviated eye, which leads to amblyopia, and the loss can become permanent if untreated. Prioritize hypotheses: strabismus with high amblyopia risk. Take action: refer now, because the earlier treatment starts, the better the vision outcome.",
+        "incorrect": [
+          "\"Not bothered\" is exactly what happens when the brain shuts off the deviated eye's image. That is the start of amblyopia, not reassurance.",
+          "This is the adult pattern. Young children do not complain of double vision, so strabismus is found by screening and looking, not by asking.",
+          "Waiting two more months prolongs the period of suppression. The longer a visual problem continues, the greater the risk of permanent loss."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is screening a 2-year-old for strabismus at a well visit. Which assessment approach is most appropriate for this child's age?",
+      "options": [
+        "Ask the child whether objects ever look doubled or blurry when looking at books",
+        "Shine a light toward the eyes and check whether the light reflection sits symmetrically",
+        "Have the child read the smallest line possible on a standard letter chart",
+        "Ask the caregiver whether the child rubs the eyes or complains that they hurt"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the child is 2 years old. Analyze cues: strabismus is checked with the corneal light reflex. A young child will not report double vision because the brain shuts off the second image. Generate solutions/Take action: use an objective test, the corneal light reflex (plus the red reflex), that finds misalignment by looking, not by asking.",
+        "incorrect": [
+          "This is an adult-pattern assessment. Adults with new misalignment report double vision; young children usually do not, so asking can miss strabismus.",
+          "A letter chart needs a child who can read and cooperate. It also measures acuity, not alignment.",
+          "Rubbing or eye pain is not how strabismus presents in young children, who usually have no complaints. Relying on symptoms misses the diagnosis."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches the caregiver of a 4-year-old with amblyopia in the left eye about patching. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"The earlier we stick with the patching, the better her vision is likely to turn out.\"",
+        "\"If she pulls the patch off, I'll put it back on so she still gets the prescribed hours.\"",
+        "\"Her right eye is the strong one, so that is the eye that gets covered by the patch.\"",
+        "\"We'll cover her left eye during the day so it can rest and stop working so hard.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: in amblyopia the brain has been ignoring the weaker (left) eye. Generate solutions: treatment forces the brain to use the weaker eye by patching the STRONGER eye (or blurring it with drops), along with corrective lenses and treating the cause. Evaluate outcomes: a plan to cover the weak eye so it can \"rest\" shows the core logic was misunderstood. It would deepen the suppression, so this statement needs further teaching.",
+        "incorrect": [
+          "Correct understanding. Earlier treatment gives a better outcome, because the loss can become permanent once the visual system matures.",
+          "Correct understanding. The patch must be worn for the hours prescribed even if the child fusses; skipping time undermines the treatment.",
+          "Correct understanding. The stronger right eye is covered so the brain has to use the weaker left eye."
+        ]
+      }
+    },
+    {
+      "stem": "A 5-year-old is found at kindergarten screening to have an inward-turning right eye that the family says has been present \"since she was a toddler.\" The caregiver asks what the biggest worry is. Which response best reflects the most concerning complication?",
+      "options": [
+        "\"The pressure inside the turned eye may rise over time and damage the nerve at the back of it.\"",
+        "\"The lens of the turned eye may become cloudy because it has not been focusing properly for years.\"",
+        "\"Her brain may have learned to ignore the turned eye, which can cause lasting vision loss in that eye.\"",
+        "\"The turned eye is more likely to get infections because it does not close and blink normally.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: strabismus that has gone untreated for years in a young child. Analyze cues: two different images lead the brain to suppress the deviated eye, which receives less stimulation. Prioritize hypotheses: the most concerning complication of strabismus is amblyopia, reduced vision from decreased use, which can be permanent if untreated. Take action: refer promptly, and explain that treatment (lenses, patching the stronger eye, treating the cause) works best early.",
+        "incorrect": [
+          "This describes glaucoma. It is a listed trap answer, not the most concerning complication of strabismus.",
+          "This describes a cataract. That is also a listed trap; a cataract can cause an abnormal red reflex, but it is not what strabismus leads to.",
+          "This describes conjunctivitis, the third listed trap. Misalignment does not make the eye prone to infection."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old has amblyopia of the LEFT eye caused by strabismus. The right eye has normal vision. Which prescription should the nurse question?",
+      "options": [
+        "Corrective eyeglasses to be worn during all waking hours",
+        "Instill the prescribed blurring eye drop into the left eye daily",
+        "Ophthalmology follow-up to monitor vision and alignment",
+        "Adhesive patch over the right eye for the prescribed hours each day"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the weak (amblyopic) eye is the left; the right is the stronger eye. Analyze cues: amblyopia treatment forces the brain to use the weaker eye by patching OR using drops that blur the STRONGER eye. Generate solutions/Take action: blurring drops in the left eye would blur the already-weak eye and make the brain favor the right eye even more, worsening the amblyopia. The nurse should clarify this order before giving it.",
+        "incorrect": [
+          "Corrective lenses are part of standard amblyopia treatment and are appropriate as written.",
+          "Follow-up is appropriate. Treating the underlying cause and monitoring vision are part of the plan.",
+          "Patching the stronger right eye is correct. It forces the brain to use and strengthen the left eye."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse reviews findings from four infants at well visits. Which infant's finding should be reported for follow-up?",
+      "options": [
+        "A 4-month-old who does not follow the caregiver's face or a bright toy moved across the field of view",
+        "A 1-month-old who gazes steadily at the caregiver's face during feeding but not at objects across the room",
+        "A 9-month-old who reaches for a cup on the table and adjusts the reach to grab it accurately",
+        "A 6-week-old whose eyes occasionally look slightly misaligned for a moment and then realign"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a 4-month-old who is not tracking faces or objects. Analyze cues: infants follow faces and moving objects by 2–3 months, and not tracking by about 3 months is listed as abnormal. Prioritize hypotheses: a possible visual problem during the period when the eyes and brain are building their connection. Take action: report for evaluation, because the longer a visual impairment continues, the greater the risk of permanent deficit.",
+        "incorrect": [
+          "This is expected. Newborns focus best at 8–15 inches, about the distance to a caregiver's face during feeding, which supports bonding.",
+          "This is expected. Judging distance and reaching accurately are on track at 7–12 months.",
+          "Brief, intermittent misalignment can be normal in early infancy. It is a concern only if it persists past 4–6 months."
+        ]
+      }
+    },
+    {
+      "stem": "A second-grade teacher tells the school nurse that a 7-year-old has had falling grades this term, squints at the board, and keeps moving to a seat in the front row. The child responds right away when called from the back of the room. What is the nurse's best next step?",
+      "options": [
+        "Recommend a hearing evaluation, because poor school performance is a common sign of hearing loss",
+        "Suggest the teacher use a behavior chart, because moving seats suggests difficulty following class rules",
+        "Perform a vision screening, because squinting and sitting close to the board suggest reduced acuity",
+        "Recommend that the family limit screen time at home to rest the child's eyes before school"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: squinting, moving close to the board, and falling grades, with a normal response to the child's name. Analyze cues: squinting, sitting close to the board or TV, and poor school performance are listed as abnormal school-age findings that call for a vision screen. Prioritize hypotheses: falling grades fit both vision and hearing problems, but the visual behaviors and the intact response to voice point to vision. Take action: screen the child's vision.",
+        "incorrect": [
+          "Poor school performance can signal hearing loss, but this child responds to voice from the back of the room, and the specific cues here are visual.",
+          "This treats a sensory cue as a behavior problem. Moving closer to see is a compensating behavior, not a discipline issue.",
+          "Limiting screen time does not evaluate the problem and delays the screening this child needs."
+        ]
+      }
+    },
+    {
+      "stem": "In April, a 6-year-old is brought in with red eyes in both eyes. The child keeps rubbing them and says they are \"super itchy.\" The nurse notes stringy, mucoid discharge, a bumpy, cobblestone look to the inner lids, and swollen, gel-like conjunctiva. The child has no fever or sore throat. What does the nurse anticipate?",
+      "options": [
+        "Topical antibiotic drops, plus strict hand hygiene to keep it from spreading to classmates",
+        "Cool compresses and lubricating drops only, plus staying home because it is highly contagious",
+        "Topical antihistamine or mast cell stabilizer drops, plus reducing pollen exposure",
+        "Antibiotic ointment at bedtime and warm compresses to loosen crusting each morning"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: intense itching, stringy mucoid discharge, cobblestone conjunctiva, chemosis, both eyes affected, spring season, no URI. Analyze cues: the cardinal sign of allergic conjunctivitis is intense itching, and chemosis is a hallmark. Prioritize hypotheses: allergic conjunctivitis, triggered by pollen, dust, pet dander, or mold. Generate solutions: topical antihistamines or mast cell stabilizers, and avoid allergens. It is NOT contagious.",
+        "incorrect": [
+          "Antibiotics treat bacterial conjunctivitis, which has thick purulent discharge. Itching points to allergy, and the listed trap is \"itching = bacterial.\"",
+          "Supportive care fits viral conjunctivitis, which has watery discharge with a URI. Allergic conjunctivitis is not contagious, so the child does not need to stay home.",
+          "Antibiotic ointment treats bacterial conjunctivitis with matted, crusted lids. That is the wrong type for intense itching and stringy mucus."
+        ]
+      }
+    },
+    {
+      "stem": "A 4-year-old has watery, tearing drainage that started in the right eye yesterday and is now in the left. The child also has a runny nose and a sore throat. The caregiver asks for antibiotic eye drops \"so it clears faster for daycare.\" What is the nurse's best response?",
+      "options": [
+        "\"This looks viral, so antibiotics won't help. Cool compresses and lubricating drops ease it while it runs its course.\"",
+        "\"Antibiotic drops will help prevent a bacterial infection on top of this, so I'll ask the provider for them.\"",
+        "\"This looks allergic, so antihistamine drops will help, and it is not contagious to the other children.\"",
+        "\"Antibiotic drops will shorten it, but she needs to be on them a full day before she goes back.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: watery, serous discharge spreading from one eye to the other, with a sore throat and runny nose. Analyze cues: viral conjunctivitis is watery, occurs with a URI or sore throat, starts in one eye and spreads to the other, and is highly contagious. Prioritize hypotheses: viral conjunctivitis. Generate solutions: supportive care (cool compresses, lubricating drops); it is self-limiting. Take action: explain that antibiotics won't work, and teach hand hygiene and no shared towels.",
+        "incorrect": [
+          "The listed trap is \"watery eye with a cold → antibiotics.\" Antibiotics do not work on a viral infection, and nothing here suggests a bacterial infection.",
+          "Allergic conjunctivitis has intense itching, stringy mucus, and usually affects both eyes from allergen exposure. Calling a URI-linked, spreading infection non-contagious is unsafe.",
+          "This treats the infection as bacterial. Antibiotics will not shorten viral conjunctivitis; that belief is a listed needs-further-teaching statement."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse teaches the caregiver of a 5-year-old diagnosed with bacterial conjunctivitis. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"I'll clean her eye from the inner corner outward with a fresh clean cloth each time.\"",
+        "\"Her brother and sister will use their own towels and pillowcases until this is gone.\"",
+        "\"I'll wash my hands before and after I put in her drops and remind her not to rub.\"",
+        "\"Once the crusting is gone, usually after a day or two, I can stop putting in the drops.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: bacterial conjunctivitis is contagious and treated with topical antibiotic drops or ointment, which the family uses for the full time ordered. Evaluate outcomes: stopping when the crusting improves misunderstands the plan and risks the infection returning or spreading, so this statement needs further teaching. Teaching should also cover hand hygiene, not sharing pillows, washcloths, or towels, and wiping inner to outer with a clean cloth.",
+        "incorrect": [
+          "Correct understanding. Wiping from the inner corner outward with a clean cloth keeps drainage away from the tear duct and the other eye.",
+          "Correct understanding. Bacterial conjunctivitis is contagious, and not sharing towels or pillows limits the spread to the family.",
+          "Correct understanding. Washing hands before and after drops prevents spread, since the infection spreads easily."
+        ]
+      }
+    },
+    {
+      "stem": "Two siblings, ages 3 and 6, both have red eyes. Which finding in one of the children most strongly supports bacterial rather than viral conjunctivitis?",
+      "options": [
+        "Thick yellow-green drainage that has glued the lids shut on waking, with marked conjunctival swelling",
+        "Thin, clear tearing that began in one eye and spread to the other over a day or two",
+        "Redness with crusting and some itching, along with a cough and runny nose for 3 days",
+        "Redness in one eye that burns, with a sore throat that started around the same time"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: thick, purulent drainage, lids matted shut in the morning, and marked conjunctival edema. Analyze cues: all three types share redness, drainage, crusting, and itching; the type of discharge and the itch tell them apart. Prioritize hypotheses: purulent, thick, \"matted\" drainage means bacterial. Generate solutions: topical antibiotic drops or ointment plus hand hygiene.",
+        "incorrect": [
+          "Watery discharge that spreads from one eye to the other is the viral pattern, not bacterial.",
+          "Redness, crusting, and itching occur in all three types and do not distinguish them. The URI symptoms point toward viral.",
+          "Burning with a sore throat fits viral conjunctivitis, which occurs with a URI or sore throat and may burn or itch."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse in a pediatric urgent care has four children with eye complaints. Which child should the nurse see first?",
+      "options": [
+        "A 4-year-old whose upper eyelid is so red and swollen it is nearly shut, who can look in all directions without discomfort and sees normally",
+        "A 7-year-old recovering from a sinus infection with a mildly swollen lid who cries when looking to the side and says things look blurry",
+        "A 3-year-old with thick yellow drainage from both eyes and lids that were stuck together this morning",
+        "A 9-year-old with bilateral eye redness, intense itching, and stringy mucus after playing in a field"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a recent sinus infection, pain with eye movement, and a change in vision, even though the lid swelling is mild. Analyze cues: pain or limitation with eye movement or a vision change means the infection has spread BEHIND the orbital septum, often from a sinus infection. Prioritize hypotheses: orbital cellulitis, a medical emergency that risks vision loss, abscess, and meningitis. Take action: see this child first, notify the provider immediately, and anticipate IV antibiotics and imaging.",
+        "incorrect": [
+          "The swelling is dramatic, but vision is intact and eye movement is normal and painless. That is preseptal cellulitis, which is treated and monitored and can wait briefly.",
+          "This is bacterial conjunctivitis. It needs topical antibiotics but is not an emergency.",
+          "This is allergic conjunctivitis. It is uncomfortable but not a threat to vision or life."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old has a red, swollen right eyelid. Which findings would indicate orbital rather than preseptal (periorbital) cellulitis? Select all that apply.",
+      "options": [
+        "Bulging of the right eye compared with the left",
+        "Crying with pain when asked to look up and to the side",
+        "Redness and swelling of the upper and lower eyelid",
+        "Reporting that a picture on the wall looks blurry",
+        "Warmth of the eyelid tissue on gentle palpation",
+        "Following a toy in all directions without discomfort"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Preseptal and orbital cellulitis both cause a red, swollen lid. Proptosis, painful eye movement, and vision changes mean the infection is behind the septum (orbital), which is a medical emergency. Lid redness, swelling, and warmth occur in both, and painless full eye movement points to preseptal.",
+        "incorrect": [
+          "Correct—proptosis (a bulging eye) is an orbital finding; preseptal eye position is normal.",
+          "Correct—painful eye movement means the infection involves the orbit around the eye muscles.",
+          "Incorrect—lid redness and swelling occur in BOTH types, so they cannot tell the two apart.",
+          "Correct—vision changes are an orbital finding; vision stays intact in preseptal cellulitis.",
+          "Incorrect—lid warmth occurs with preseptal cellulitis too, so it does not distinguish them.",
+          "Incorrect—normal, painless eye movement is the preseptal pattern and is reassuring."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-year-old who had a sinus infection last week now has a swollen, red left eyelid, a temperature of 39.2°C (102.6°F), a left eye that bulges forward, and pain when moving the eye. What is the nurse's priority action?",
+      "options": [
+        "Apply warm compresses and recheck visual acuity in 4 hours to see whether the swelling is spreading",
+        "Teach the family to give the oral antibiotic and to return if the child develops vision changes",
+        "Instill antibiotic eye drops and cover the eye to rest it until the provider evaluates the child",
+        "Notify the provider immediately and prepare for IV antibiotics and imaging of the orbit"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a sinus infection followed by proptosis, painful eye movement, and fever. Analyze cues: the infection has spread behind the orbital septum, often as an extension of a sinus infection. Prioritize hypotheses: orbital cellulitis, a medical emergency with risks of vision loss, abscess, and meningitis. Take action: notify the provider immediately and anticipate IV antibiotics and imaging, not outpatient care.",
+        "incorrect": [
+          "Waiting 4 hours with proptosis and painful eye movement delays emergency treatment. Monitoring and watchful care fit preseptal cellulitis, not orbital.",
+          "Oral antibiotics at home fit preseptal cellulitis. This child already has the emergency findings, so outpatient management is unsafe.",
+          "Topical drops do not reach an infection behind the septum, and patching does not treat it. This confuses orbital cellulitis with conjunctivitis."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-week-old did not pass the newborn hearing screen and was referred for a full hearing evaluation. The caregiver says, \"The first audiology opening is when she's 5 months old, so we'll just wait for that.\" What is the nurse's best action?",
+      "options": [
+        "Agree with the plan, because hearing aids are not usually started until after 6 months of age",
+        "Help the family get an earlier appointment, because diagnosis should be done by 3 months of age",
+        "Reassure the family that many newborns fail the screen because of fluid, so the delay is acceptable",
+        "Teach the family to clap behind the infant each week and call if the infant does not startle"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a failed newborn screen with diagnostic testing planned for 5 months. Analyze cues: the 1-3-6 benchmark is screen by 1 month, diagnose by 3 months, intervene by 6 months. A 5-month diagnosis would push intervention past 6 months. Prioritize hypotheses: language develops fastest in the first years, so a delay risks speech, language, and academic outcomes. Take action: advocate for an earlier appointment so diagnosis happens by 3 months.",
+        "incorrect": [
+          "Intervention by 6 months requires diagnosis by 3 months. \"Screen by 3 months, intervene by 1 year\" is a listed trap timeline.",
+          "Explaining away a failed screen and accepting a late diagnosis misses the 1-3-6 benchmark. The cause is found by completing the diagnostic evaluation on time.",
+          "Home clapping tests are not a diagnostic evaluation and cannot replace audiology. This still leaves diagnosis past the 3-month benchmark."
+        ]
+      }
+    },
+    {
+      "stem": "At a 2-year-old's well visit, the caregiver says the child uses far fewer words than a cousin of the same age and \"ignores us when we call him from another room. My dad says boys just talk later.\" What is the nurse's best action?",
+      "options": [
+        "Reassure the caregiver that boys often talk later, and plan to reassess speech at age 3",
+        "Give the family strategies for managing a toddler who ignores directions on purpose",
+        "Encourage daily reading aloud and recheck the child's speech at the next well visit",
+        "Arrange a hearing evaluation, since a delay in speech and not responding to name can signal hearing loss"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: speech delay plus not responding to his name. Analyze cues: delayed speech and not responding to name are listed signs of possible hearing loss. Children rarely say \"I can't hear\"; hearing loss shows up as speech delay and \"behavior.\" Prioritize hypotheses: possible hearing loss during the years when language develops fastest. Take action: a toddler with speech delay gets a hearing evaluation.",
+        "incorrect": [
+          "\"Boys talk later; wait until 3\" is the listed trap. Waiting loses language-development time.",
+          "This labels a possible sensory deficit as a behavior problem. Hearing loss is often mislabeled this way.",
+          "Reading aloud supports language, but it is not the priority. Rechecking later delays evaluation of a child with two warning signs."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 7-year-old asks whether the child's behavior could mean a hearing problem. Which reports should the nurse identify as concerning for possible hearing loss? Select all that apply.",
+      "options": [
+        "The child says \"What?\" many times a day, at home and at school",
+        "The child turns the tablet and TV volume up much louder than siblings like",
+        "The teacher reports the child often seems inattentive and grades are slipping",
+        "The child once asked a friend to repeat something in a loud cafeteria",
+        "The child prefers quiet games and reading over team sports at recess"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Persistent \"What?\", turning up TV or device volume, and inattention or poor school performance are signs of possible hearing loss. Every child sometimes does these things; PERSISTENT repetition is the concern. Teachers are often the first to notice, so their reports are taken seriously.",
+        "incorrect": [
+          "Correct—frequently saying \"What?\" in more than one setting is a persistent pattern and a listed sign of hearing loss.",
+          "Correct—turning up the TV or device volume is a listed sign of possible hearing loss.",
+          "Correct—inattention and poor school performance are listed signs; they may be mislabeled as a behavior problem.",
+          "Incorrect—a single request to repeat something in a noisy room is expected; only persistent repetition is concerning.",
+          "Incorrect—an activity preference is not a hearing cue and does not suggest hearing loss."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is taking the history at a 4-year-old's well visit. Which question is most useful for detecting a possible hearing problem?",
+      "options": [
+        "\"Does she ever tell you that she can't hear you or that sounds are too quiet?\"",
+        "\"Has she had any ear infections or ear pain since her last checkup?\"",
+        "\"Has anyone, such as you, her preschool teacher, or a relative, been concerned about her hearing?\"",
+        "\"Does she cover her ears or get upset when there are loud noises around?\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the child is 4 and in preschool. Analyze cues: children rarely say \"I can't hear\"; hearing loss shows up in behavior and development, and parents and teachers are often the first to notice. Generate solutions/Take action: always ask whether anyone has been concerned about the child's hearing, which captures what caregivers and teachers have observed.",
+        "incorrect": [
+          "This relies on the child reporting the problem, which is an adult pattern. Young children usually do not say they can't hear.",
+          "Ear-infection history is relevant, since repeated otitis can muffle hearing, but it does not screen directly for current hearing concerns.",
+          "Covering the ears at loud noises describes noise sensitivity, not a sign of hearing loss."
+        ]
+      }
+    },
+    {
+      "stem": "A 14-month-old had a cold last week and now has a temperature of 38.8°C (101.8°F), is fussy, sleeps poorly, and keeps pulling at the right ear. When the nurse gently moves the right pinna, the toddler's crying does not change. What is the most likely explanation?",
+      "options": [
+        "Otitis externa, because ear pulling shows pain in the canal skin that touch would irritate",
+        "Acute otitis media, because fever and ear tugging after a cold with no pain on pinna movement fit a middle ear infection",
+        "Mastoiditis, because a fever after a recent cold signals that infection has reached the bone behind the ear",
+        "Otitis externa from bath water, because water trapped in the canal causes fever and fussiness in toddlers"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a recent URI, fever, ear tugging, fussiness and poor sleep, and NO increase in pain when the pinna is moved. Analyze cues: AOM often follows a viral URI because children's eustachian tubes are smaller and narrower, so fluid gets trapped. Fever and tugging are common, and moving the ear does NOT worsen AOM pain. Prioritize hypotheses: acute otitis media. Generate solutions: pain control and antibiotics as prescribed, and watch for complications.",
+        "incorrect": [
+          "Otitis externa causes severe pain when the pinna or tragus is moved, and fever is uncommon. This toddler shows neither.",
+          "Mastoiditis requires swelling, redness, and tenderness behind the ear with the ear pushed outward. Fever after a cold alone does not indicate it.",
+          "Otitis externa follows water exposure, but it does not usually cause fever, and moving the pinna would worsen the pain."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assists with otoscopic exams on four children who have ear complaints. Which finding meets a diagnostic criterion for acute otitis media?",
+      "options": [
+        "A mildly bulging tympanic membrane in a child whose ear pain began yesterday",
+        "A red tympanic membrane without bulging in an infant who was crying during the exam",
+        "Drainage in the canal of a swimmer whose canal is swollen and tender to touch",
+        "A mildly bulging tympanic membrane in a child with no ear pain and no redness"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: AOM is diagnosed with ANY ONE of: moderate-to-severe bulging of the TM; new otorrhea not due to otitis externa; or mild TM bulging AND recent ear pain or intense erythema. Prioritize hypotheses: mild bulging with ear pain that began yesterday meets the third criterion. Take action: anticipate pain control and antibiotics as prescribed.",
+        "incorrect": [
+          "Redness alone without bulging does not meet the criteria, and crying can make the TM look red. The intense-erythema criterion still requires mild bulging.",
+          "New otorrhea counts only when it is NOT due to otitis externa. A swollen, tender canal in a swimmer points to otitis externa.",
+          "Mild bulging counts only when paired with recent ear pain or intense erythema. Without either, this does not meet a criterion."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-month-old is on day 3 of treatment for acute otitis media. The nurse returns four phone messages from the caregiver's call. Which report needs immediate follow-up?",
+      "options": [
+        "\"The fever is gone, but she still pulls at her ear sometimes when she's tired.\"",
+        "\"She's sleeping better at night, but she is still a little fussier than usual.\"",
+        "\"She's eating a little less than usual, but she's drinking and wetting diapers.\"",
+        "\"Her ear is sticking out down and away from her head, and it's red and puffy behind it.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: in an infant with AOM, the auricle is pushed outward and downward with red, swollen tissue behind the ear. Analyze cues: AOM can spread into the mastoid bone. In infants the ear is displaced DOWN and out (older children: up and out). Prioritize hypotheses: mastoiditis, a medical emergency that needs IV antibiotics or surgery and, untreated, leads to abscess, bone infection, or meningitis. Take action: have the infant seen immediately.",
+        "incorrect": [
+          "Fever resolving with occasional tugging shows improvement, which is an expected course while the infection settles.",
+          "Better sleep with mild fussiness shows the infant is improving and is not an alarm finding.",
+          "Eating a little less while drinking and wetting diapers shows adequate hydration and does not need urgent follow-up."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse in a pediatric clinic receives four children with ear complaints at the same time. Which child should the nurse see first?",
+      "options": [
+        "A 10-year-old with severe pain when the tragus is pressed, after a week of daily swim practice",
+        "A 3-year-old with a fever of 39.5°C (103.1°F) and ear tugging who is crying but consolable",
+        "A 6-year-old with a fever, red and tender swelling behind the ear, and the ear pushed up and out",
+        "A 2-year-old with mild ear pain and a low-grade fever who is playing in the waiting room"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: fever, postauricular redness, swelling, and tenderness, and an auricle displaced up and out, which is the older-child pattern. Analyze cues: these findings mean otitis media has spread to the mastoid bone. Prioritize hypotheses: mastoiditis, a medical emergency. The ear triage order is mastoiditis > AOM with high fever or a very ill child > OE or uncomplicated AOM. Take action: see this child first and escalate for IV antibiotics or surgery.",
+        "incorrect": [
+          "Tragus pain after swimming is otitis externa. It is painful but treated in the canal, and it is not an emergency.",
+          "AOM with a high fever comes second in the triage order, after mastoiditis. A consolable child is not the most urgent.",
+          "Uncomplicated AOM in a playful child is the lowest priority on this list."
+        ]
+      }
+    },
+    {
+      "stem": "After a week at swim camp, a 9-year-old reports that the left ear \"itched for a couple of days and now really hurts.\" The child winces when the nurse presses the tragus. The canal is red and swollen with some purulent drainage, and the temperature is 37.1°C (98.8°F). What does the nurse anticipate?",
+      "options": [
+        "Topical antibiotic ear drops, possibly with a steroid, and keeping the ear canal dry",
+        "Oral antibiotics and pain control for a middle ear infection that has drained into the canal",
+        "Referral for tympanostomy tubes, because drainage after swimming shows fluid behind the eardrum",
+        "IV antibiotics and imaging, because purulent drainage indicates spread into the mastoid bone"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: recent swimming, early itching, severe pain on pressing the tragus, a red and swollen canal with purulent discharge, and no fever. Analyze cues: otitis externa (swimmer's ear) is infection of the canal skin from moisture or trauma; itching is an early sign and fever is uncommon. Prioritize hypotheses: otitis externa, not AOM. Generate solutions: topical antibiotic (± steroid), keep the ear dry, and no cotton swabs.",
+        "incorrect": [
+          "Otorrhea counts toward AOM only when it is not due to otitis externa. Pain on moving the tragus with a swollen canal after swimming points to the canal, and \"tragus pain = otitis media\" is a listed trap.",
+          "Tubes are for recurrent otitis media or chronic middle ear effusion, not a single canal infection after swimming.",
+          "Mastoiditis causes fever, swelling behind the ear, and an ear pushed outward. None of those is present."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches the caregiver of an 11-year-old who has otitis externa. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"I'll put the ear drops in exactly as prescribed, even after it starts feeling better.\"",
+        "\"He'll keep that ear dry while it heals and check with the provider before swimming again.\"",
+        "\"I'll call if he gets a fever or if the pain gets worse instead of better.\"",
+        "\"Each night I'll clean the drainage out of his ear canal with a cotton swab.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: otitis externa is an infection of the canal skin from moisture or trauma, and cotton swabs are a cause of that trauma. Generate solutions: treatment is a topical antibiotic (± steroid), keeping the ear dry, and NO cotton swabs. Evaluate outcomes: a plan to swab the canal nightly would re-injure the inflamed skin, so this statement needs further teaching.",
+        "incorrect": [
+          "Correct understanding. Topical antibiotic drops are the treatment and are used for the full course.",
+          "Correct understanding. Keeping the canal dry is a core part of treatment, because moisture caused the infection.",
+          "Correct understanding. Worsening pain or fever is a reason to call, since fever is uncommon with otitis externa."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 20-month-old who has had repeated ear infections and ongoing middle ear fluid asks, \"So the tubes are how the doctor will get the antibiotics into her ear, right?\" What is the nurse's best response?",
+      "options": [
+        "\"Not exactly. The tubes let air into the middle ear and let fluid drain, which helps protect her hearing and speech.\"",
+        "\"Yes. The tubes let the ear drops reach the middle ear, so she won't need antibiotics by mouth.\"",
+        "\"Not exactly. The tubes stay in place until she outgrows ear infections, so she won't get more of them.\"",
+        "\"Yes. The tubes give the doctor a way to rinse out infection whenever she has a new ear infection.\""
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: the caregiver misunderstands why tubes are placed. Analyze cues: tympanostomy tubes are indicated for recurrent otitis media or chronic middle ear effusion. They ventilate the middle ear and let fluid drain, which protects hearing and language development. Repeated effusion can muffle hearing during the language years. Generate solutions/Take action: correct the misconception and link the tubes to the child's speech development.",
+        "incorrect": [
+          "\"Tubes are placed to give antibiotics into the ear\" is a listed trap. Their purpose is ventilation and drainage.",
+          "Tubes do not stay until a child outgrows infections; they usually fall out on their own in about 16–18 months. Promising no more infections also overstates what they do.",
+          "Rinsing out infection is not the purpose of tubes. Like the antibiotic-delivery idea, this misstates why they are placed."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse is reinforcing discharge teaching for the caregiver of a 2-year-old who just had tympanostomy tubes placed. Which statements by the caregiver show correct understanding? Select all that apply.",
+      "options": [
+        "\"A little drainage can happen, but I'll call the ENT if there is drainage, fever, or ear pain.\"",
+        "\"He has to wear earplugs every time he has a bath or gets in the pool.\"",
+        "\"We'll keep his ENT appointments so they can check that the tubes are still in place.\"",
+        "\"The tubes usually fall out on their own in about a year and a half.\"",
+        "\"Since the tubes drain the fluid, we won't need the ENT anymore unless he gets sick.\"",
+        "\"I'll ask the ENT what the rules are for swimming, since plugs may only be needed for lake water.\""
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Teaching after tubes: follow the provider's instructions about water (plugs are not needed unless swimming in lake water), know that some drainage is expected but still monitor and report drainage, fever, or pain, keep ENT follow-up to confirm the tubes are in place, and expect the tubes to fall out on their own in about 16–18 months.",
+        "incorrect": [
+          "Correct—some drainage is expected, but drainage, fever, or pain should still be reported as instructed.",
+          "Incorrect—earplugs for every bath and pool visit is a listed needs-further-teaching statement; plugs are only needed for lake water.",
+          "Correct—follow-up checks that the tube is still in place.",
+          "Correct—tubes usually fall out on their own in about 16–18 months and do not need surgical removal.",
+          "Incorrect—\"we don't need follow-up\" is a listed needs-further-teaching statement; ENT follow-up continues.",
+          "Correct—families follow the provider's recommendations on water exposure, and plugs are only needed for lake water."
+        ]
+      }
+    },
+    {
+      "stem": "Three weeks after tympanostomy tube placement, the caregiver of a 22-month-old calls to report yellow drainage from the left ear since yesterday, a temperature of 38.6°C (101.5°F), and the child crying and holding the ear. What is the nurse's best response?",
+      "options": [
+        "\"Drainage is expected with tubes, so keep wiping the outer ear and we'll check at his next visit.\"",
+        "\"Put cotton in his ear to absorb the drainage and keep his head dry until it stops on its own.\"",
+        "\"Please call his ENT today to have him seen, because drainage with fever and ear pain needs to be checked.\"",
+        "\"The tube has probably fallen out early, so he will need to have a new one placed right away.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: ear drainage PLUS fever PLUS ear pain after tube placement. Analyze cues: some drainage can be expected with tubes, but families are taught to monitor and report drainage, fever, or pain as instructed. Prioritize hypotheses: the combination suggests infection that needs evaluation, not routine drainage. Take action: direct the family to contact the ENT for evaluation today.",
+        "incorrect": [
+          "This takes a half-true fact too far. Some drainage is expected, but drainage with fever and pain is exactly what families are told to report, not to watch until the next visit.",
+          "Packing the ear and waiting delays evaluation of a child with fever and pain. It does not follow the instruction to report these findings.",
+          "Tubes fall out on their own in about 16–18 months, not 3 weeks. Nothing here indicates the tube has come out, and this jumps to a conclusion without evaluation."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is reviewing the histories of four children. Which child's history most suggests an immune system that underperforms rather than one that overreacts or is chronically activated?",
+      "options": [
+        "A 4-year-old who developed hives and vomiting within minutes of eating scrambled eggs",
+        "A 6-year-old with rough, itchy, red patches inside both elbows that flare in winter",
+        "A 3-year-old who has needed treatment for pneumonia and ear infections many times this year",
+        "A 5-year-old whose knee has been swollen, warm, and stiff each morning for 2 months"
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: repeated, significant infections. Analyze cues: an immune system that overreacts causes allergies and anaphylaxis; one that is chronically activated causes eczema and JIA; one that underperforms causes recurrent infections (immunodeficiency). Prioritize hypotheses: recurrent infections point to underperformance. Take action: flag this pattern for the provider's evaluation.",
+        "incorrect": [
+          "Hives and vomiting after a food is an overreaction to a harmless substance, which is a food allergy.",
+          "Itchy, red patches in the flexor areas of an older child fit eczema, an immune system that is chronically activated.",
+          "Morning stiffness with a swollen, warm joint for more than 6 weeks fits JIA, an immune system that is chronically activated against the joints."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews food allergy teaching with the caregiver of a 6-year-old with a peanut allergy whose only previous reaction was a rash. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"I'll read the label every time, even on snacks she has eaten before.\"",
+        "\"Her last reaction was just a rash, so a bite of a cookie that might have peanut won't be dangerous.\"",
+        "\"Her epinephrine and her emergency action plan go wherever she goes, including to playdates.\"",
+        "\"I'll ask how food was prepared, since peanut can get onto shared surfaces and utensils.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: food allergy reactions range from hives (mild) to anaphylaxis (severe), and a past mild reaction does not predict the next one. Prioritize hypotheses: any exposure risks a severe, multisystem reaction. Evaluate outcomes: believing a small amount is safe because the last reaction was mild is a dangerous misunderstanding, so this statement needs further teaching.",
+        "incorrect": [
+          "Correct understanding. Reading labels every time guards against hidden and unlabeled exposure, since recipes can change.",
+          "Correct understanding. The child needs an emergency action plan and epinephrine wherever they go.",
+          "Correct understanding. Cross-contamination and shared prep surfaces are sources of hidden exposure."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old with a tree nut allergy is starting first grade. The caregiver plans to tell the teacher and the school nurse. Which additional teaching should the nurse prioritize?",
+      "options": [
+        "Teach the child to name the allergy, refuse food from others, and tell an adult right away about symptoms",
+        "Teach the caregiver to pack a lunch every day so the child does not need to know the allergy details",
+        "Teach the caregiver to keep the epinephrine at home, where it is safe from heat and from other children",
+        "Teach the child that allergy symptoms usually start with hives, so the child can watch the skin for warnings"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a school-age child moving into a setting with less adult supervision. Analyze cues: kids should be taught about their own allergy. They need an emergency action plan and epinephrine wherever they go, and hidden exposure often comes from sharing food without asking. Generate solutions/Take action: at 7, the child can learn to name the allergy, refuse shared food, and tell an adult about symptoms, which supports safety when caregivers are not there.",
+        "incorrect": [
+          "Packing a lunch helps, but it does not prevent shared food or cross-contamination. The child still needs to understand their own allergy.",
+          "Epinephrine must go wherever the child goes. Epinephrine left at home is unavailable when it is needed.",
+          "Skin signs are not always present in anaphylaxis, so teaching the child to wait for hives could delay help."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 5-month-old whose older sibling has a peanut allergy says, \"To be safe, we'll keep her away from peanut and egg until she starts school.\" What is the nurse's best response?",
+      "options": [
+        "\"That is a good plan. Delaying these foods until school age gives her immune system time to mature.\"",
+        "\"That is a good plan. Wait until she can tell you her mouth feels funny, and then try a small amount.\"",
+        "\"Let's talk with her provider, because introducing common allergens early, as advised, can lower allergy risk.\"",
+        "\"Start her on whole peanuts and scrambled eggs this week so her body can build tolerance quickly.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a plan to delay major allergens for years in an infant with a family history. Analyze cues: early introduction of allergens can help reduce future food allergies. Waiting until school age is a listed needs-further-teaching belief. Generate solutions/Take action: redirect the family to introduce allergens early under the provider's guidance, especially with a sibling who has a peanut allergy.",
+        "incorrect": [
+          "Delaying allergens is the opposite of the current guidance and may raise allergy risk. It is listed as a wrong belief.",
+          "Waiting for the child to describe symptoms delays introduction for years and relies on reporting a young child cannot give.",
+          "Introduction should follow the provider's advice. Whole peanuts are also a choking hazard for an infant, so this is unsafe."
+        ]
+      }
+    },
+    {
+      "stem": "A 10-year-old with a known peanut allergy comes to the school nurse 10 minutes after eating a granola bar from a friend. The child has a hoarse voice, says the throat \"feels tight,\" and has vomited once. The skin is clear with no hives. What is the nurse's first action?",
+      "options": [
+        "Give the oral antihistamine from the child's action plan and observe for the hives that would confirm anaphylaxis",
+        "Give the child's prescribed albuterol inhaler for the throat tightness, then reassess breathing in 5 minutes",
+        "Call the caregiver to pick up the child and take them to the provider for an evaluation",
+        "Give the child's epinephrine auto-injector into the outer thigh now, then call 911"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a known allergen exposure, then a hoarse voice and throat tightness (airway) and vomiting (GI) within minutes. Analyze cues: two systems are involved, with possible airway swelling. Skin signs are not always present, so do not wait for hives. Prioritize hypotheses: anaphylaxis with airway compromise. Take action: epinephrine IM in the lateral thigh NOW, call 911, and repeat in 5–15 minutes if not improving. If you even suspect it, give epinephrine now.",
+        "incorrect": [
+          "Waiting for hives is the listed red-flag error. Antihistamines are supportive only and never come before or instead of epinephrine.",
+          "Albuterol is supportive and does not reverse airway swelling or low blood pressure. Giving it first delays epinephrine, and delayed epinephrine increases mortality.",
+          "Calling the caregiver for a provider visit delays treatment of a reaction that can close the airway within minutes. This child needs epinephrine and 911."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse teaches the caregiver of a 4-year-old with a milk allergy how to use the prescribed epinephrine auto-injector. Which statements by the caregiver indicate correct understanding? Select all that apply.",
+      "options": [
+        "\"I'll inject it into the outer part of her thigh, and I can go right through her pants.\"",
+        "\"I'll give her the antihistamine first and use the auto-injector only if that doesn't help.\"",
+        "\"After I give it, I'll call 911 right away.\"",
+        "\"If she isn't getting better 5 to 15 minutes after the first dose, she may need a second one.\"",
+        "\"If she feels fine after the injection, we can watch her at home instead of going in.\"",
+        "\"I'll inject it just under the skin of her upper arm, the way her shots are given.\""
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Epinephrine is given IM in the lateral thigh, through clothing if needed, followed by a call to 911. It may be repeated in 5–15 minutes if the child is not improving. It is never delayed for other medications, and the child still needs emergency evaluation after it.",
+        "incorrect": [
+          "Correct—the site is IM in the lateral thigh, and it can be given through clothing.",
+          "Incorrect—giving an antihistamine first and the EpiPen only if that fails is a listed needs-further-teaching statement; nothing delays epinephrine.",
+          "Correct—call 911 immediately after giving epinephrine.",
+          "Correct—repeat the dose in 5–15 minutes if the child is not improving, as the provider orders.",
+          "Incorrect—even after the EpiPen, the child needs emergency evaluation; symptoms can return.",
+          "Incorrect—subcutaneous injection in the arm is a listed trap; the route is IM in the lateral thigh."
+        ]
+      }
+    },
+    {
+      "stem": "A 3-year-old with a known egg allergy accidentally ate a bite of cake at a party 10 minutes ago. The caregiver has the child's epinephrine. Which finding is most concerning?",
+      "options": [
+        "Flushing of the cheeks and neck that began a few minutes after eating",
+        "A few raised hives around the mouth and on the chin",
+        "Vomiting once, then saying the stomach feels a little better",
+        "A high-pitched sound on inhaling and a newly swollen tongue"
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: stridor (high-pitched inspiratory sound) and tongue swelling soon after a known allergen. Analyze cues: anaphylaxis can compromise the airway within minutes, and stridor with tongue swelling means the upper airway is narrowing. Prioritize hypotheses: airway obstruction is the most immediate threat. Take action: give epinephrine IM in the lateral thigh now and call 911.",
+        "incorrect": [
+          "Flushing is a skin sign of an allergic reaction. It still needs close watching, but it does not threaten the airway the way stridor does.",
+          "Localized hives are a skin finding. They raise concern, but the airway findings are the immediate threat.",
+          "A single episode of vomiting is a GI sign and does not compromise the airway."
+        ]
+      }
+    },
+    {
+      "stem": "A 7-year-old in anaphylaxis received IM epinephrine 5 minutes ago. Which reassessment finding best indicates that the epinephrine is working?",
+      "options": [
+        "Wheezing is softer, blood pressure is rising toward normal, and the child is more alert",
+        "The hives are fading, but the child's voice is now hoarser and the breathing is louder",
+        "The child has stopped crying and is now sleepy and hard to keep awake",
+        "The blood pressure is improving, but the lips and tongue are swelling more"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Evaluate outcomes: epinephrine constricts blood vessels (raising BP), relaxes bronchial smooth muscle, and reduces airway swelling. It is working when breathing eases (wheeze or stridor resolving), swelling goes down, BP and HR return toward normal, and the child is more alert. The child still needs emergency evaluation, and the provider may order more epinephrine if symptoms return.",
+        "incorrect": [
+          "Fading hives does not outweigh worsening airway signs. Increasing hoarseness and noisy breathing mean the airway is not improving, so a repeat dose may be needed.",
+          "Becoming sleepy and hard to arouse is a decline in mental status, which can reflect poor perfusion or hypoxia, not improvement.",
+          "Increasing lip and tongue swelling shows the airway is still at risk even if BP is improving, so the response is incomplete."
+        ]
+      }
+    },
+    {
+      "stem": "A 6-year-old with no known allergies develops a few itchy hives on both forearms 20 minutes after trying shrimp for the first time. Breathing is unlabored with clear lung sounds, there is no lip or tongue swelling, no vomiting or abdominal pain, and heart rate and blood pressure are normal for age. What should the nurse conclude?",
+      "options": [
+        "Any hives after a food are anaphylaxis, so the nurse should give epinephrine now",
+        "This is a skin-only reaction; watch closely for any respiratory, cardiovascular, or GI signs",
+        "This is a minor rash that needs no further monitoring, so the child can return to play",
+        "This is anaphylaxis that is improving on its own, so the nurse should give diphenhydramine only"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: hives only, with no respiratory, cardiovascular, or GI findings and normal vital signs. Analyze cues: anaphylaxis is a multisystem reaction with rapid onset and possible airway compromise, and reactions range from hives (mild) to anaphylaxis (severe). Prioritize hypotheses: this is a single-system allergic reaction right now, but it can progress fast. Take action/Evaluate outcomes: monitor closely and give epinephrine immediately if a second system becomes involved or anaphylaxis is suspected.",
+        "incorrect": [
+          "\"Hives alone after a food = anaphylaxis requiring epinephrine\" is a listed trap. Anaphylaxis involves multiple systems; this child needs close watching.",
+          "Reactions can progress from hives to anaphylaxis quickly. Stopping monitoring 20 minutes after a first exposure is unsafe.",
+          "Calling this anaphylaxis but treating it with an antihistamine alone is unsafe. If it were anaphylaxis, epinephrine would come first."
+        ]
+      }
+    },
+    {
+      "stem": "A 9-year-old in the emergency department has hives, wheezing, and a blood pressure below normal for age after eating a cashew. The child says they feel faint. Which prescription should the nurse question?",
+      "options": [
+        "Epinephrine, weight-based dose, subcutaneously in the deltoid",
+        "Albuterol nebulizer for persistent wheezing after epinephrine",
+        "Lie the child flat with the legs raised while the child feels faint",
+        "Oral prednisone after the child's airway and breathing stabilize"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: multisystem signs (skin, respiratory, cardiovascular) after a known allergen. Analyze cues: this is anaphylaxis, and the first and most important medication is epinephrine given IM in the lateral thigh. Generate solutions/Take action: the route and site in this order (subcutaneous, deltoid) are the listed trap. The nurse should clarify it, because the correct route and site matter for a time-critical reaction.",
+        "incorrect": [
+          "Albuterol is an appropriate supportive medication for bronchospasm after epinephrine is given.",
+          "Lying flat with the legs up is the position for a child who feels faint. A child struggling to breathe would sit up instead.",
+          "A steroid is an appropriate supportive medication once epinephrine has been given and the child is stabilizing."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 7-month-old with rough, scaly, red patches on the cheeks, scalp, and outer arms says, \"Is this because I'm not bathing her enough? Do I need to keep her away from her brother so he doesn't catch it?\" What is the nurse's best response?",
+      "options": [
+        "\"It is a skin infection, so bathe her twice a day with an antibacterial soap and keep their towels separate.\"",
+        "\"It is a skin allergy to her food, so separating her from her brother isn't needed but changing her formula is.\"",
+        "\"It is eczema, which is a leaky skin barrier. It isn't from hygiene and isn't contagious, and daily moisturizing helps.\"",
+        "\"It is eczema. It can spread through shared towels while the patches are red, so wash her linens separately.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: xerosis, erythematous papules, and a cheek, scalp, and extensor distribution in an infant. Analyze cues: atopic dermatitis is a defective skin barrier that lets moisture escape. In infants it appears on the cheeks, scalp, and extensor surfaces, and it is not contagious and not caused by poor hygiene. Generate solutions/Take action: correct both misconceptions and teach daily maintenance: lukewarm baths, pat dry, and fragrance-free moisturizer 1–2 times a day.",
+        "incorrect": [
+          "Eczema is not an infection. Frequent washing with harsh soaps strips the skin barrier, and soaps are a trigger.",
+          "Food can be one trigger, but eczema is a barrier disorder, not simply a food allergy. Changing formula is not the core teaching here.",
+          "Eczema is not contagious. Teaching that it spreads through towels repeats a listed misconception."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews home care with the caregiver of a 5-year-old with atopic dermatitis. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"I'll put the thick fragrance-free cream on after her lukewarm bath, even on days her skin looks clear.\"",
+        "\"When she has a flare, I'll use the steroid cream on the red patches as the provider showed me.\"",
+        "\"I'll keep her nails filed short and put soft mittens on her at night so she doesn't scratch.\"",
+        "\"I'll use the steroid cream on all her skin every day, even when it's clear, so flares don't start.\""
+      ],
+      "answer": 3,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: topical corticosteroids are for flares only; overuse causes hypopigmentation. Daily maintenance is moisturizer, not steroid. Evaluate outcomes: a plan to apply steroid cream daily to clear skin confuses the flare treatment with maintenance and risks skin damage, so this statement needs further teaching.",
+        "incorrect": [
+          "Correct understanding. Daily fragrance-free moisturizing, even when the skin is clear, is the core of eczema maintenance.",
+          "Correct understanding. Topical corticosteroids are used during flares as prescribed.",
+          "Correct understanding. Filed nails and mittens protect the skin and break the itch-scratch cycle."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse is planning care for a 3-year-old with atopic dermatitis who scratches constantly and sleeps poorly. Which interventions should the nurse include? Select all that apply.",
+      "options": [
+        "Give a lukewarm bath, then pat the skin dry instead of rubbing",
+        "Apply a fragrance-free cream or ointment once or twice daily, even on clear days",
+        "Give a warm-to-hot bath at bedtime to calm the itching before sleep",
+        "Keep the nails filed short and use cool compresses on itchy areas",
+        "Dress the child in a soft wool sweater to keep the skin warm and covered",
+        "Apply the moisturizer only on days the skin is visibly red or flaring"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "type": "sata",
+      "rationale": {
+        "correct": "Eczema care is daily maintenance: lukewarm baths, pat dry, fragrance-free creams or ointments 1–2 times a day, avoiding triggers (soaps, fragrances, heat, sweating, wool), and skin protection (filed nails, mittens, cool compresses) to break the itch-scratch cycle. Topical steroids are for flares only.",
+        "incorrect": [
+          "Correct—lukewarm baths and patting dry protect the leaky skin barrier.",
+          "Correct—daily fragrance-free moisturizing, even when clear, rebuilds the barrier.",
+          "Incorrect—heat is a listed trigger; baths should be lukewarm.",
+          "Correct—filed nails and cool compresses protect the skin and interrupt the itch-scratch cycle.",
+          "Incorrect—wool is a listed trigger and worsens itching.",
+          "Incorrect—\"treat only when it flares\" is the listed trap; moisturizing is daily maintenance."
+        ]
+      }
+    },
+    {
+      "stem": "A nurse assesses a 4-year-old with atopic dermatitis at a follow-up visit. Which finding needs the most prompt follow-up?",
+      "options": [
+        "Dry, rough, scaly skin on the inner elbows that the caregiver moisturizes twice daily",
+        "Open, weeping areas with crusting where the child has been scratching behind the knees",
+        "Faint red papules on the wrists that the caregiver says are improving with the flare cream",
+        "Several thin scratch lines on the forearms that the child made during a recent flare"
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: open, weeping, crusted skin in scratched areas. Analyze cues: scratching damages the skin, and open or weeping areas carry an infection risk (\"risk for infection\" is a nursing problem in eczema). Prioritize hypotheses: a break in skin integrity that may be infected outranks expected dryness and resolving papules. Take action: report for evaluation and reinforce skin protection to break the itch-scratch cycle.",
+        "incorrect": [
+          "Xerosis being managed with daily moisturizer is an expected eczema finding and shows the plan is being followed.",
+          "Papules improving with the flare cream show the treatment is working; this is an evaluation finding, not an alarm.",
+          "Superficial scratch marks reflect the itch-scratch cycle and need skin protection, but they are less urgent than open, weeping areas with infection risk."
+        ]
+      }
+    },
+    {
+      "stem": "The caregiver of a 3-year-old says that for about 2 months the child has refused to walk or has limped when getting out of bed, then plays normally by afternoon. The nurse finds the right knee swollen, warm, and with reduced range of motion. The child has had no falls or injuries. Which explanation fits best?",
+      "options": [
+        "Juvenile idiopathic arthritis, because stiffness after rest that eases with movement and a warm, swollen joint for over 6 weeks fit JIA",
+        "Overuse pain from active play, because the child's symptoms follow a busy day and settle with rest overnight",
+        "A sports-type injury to the knee, because swelling and limping in a toddler most likely mean a sprain from play",
+        "Normal stiffness after sleep, because many young children are slow to get moving for a few minutes each morning"
+      ],
+      "answer": 0,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a toddler who limps or won't walk in the morning but is fine by afternoon, a swollen and warm joint with decreased ROM, lasting 2 months, with no trauma. Analyze cues: JIA is onset before 16 with arthritis lasting 6 or more weeks. The joint is stiff after rest, worst in the morning, and loosens with movement. Toddlers don't complain; they limp. Prioritize hypotheses: JIA, not an adult-style \"wear and tear\" or injury pattern.",
+        "incorrect": [
+          "Overuse pain would be worse at the end of the day. \"Pain worse at the end of the day = JIA\" is a listed trap, and this child is worst in the morning.",
+          "No injury occurred, and the problem has lasted 2 months. \"JIA = any joint pain after a sports injury\" is a listed trap.",
+          "Brief stiffness that is gone in a few minutes is normal. Two months of morning limping with a warm, swollen joint is not."
+        ]
+      }
+    },
+    {
+      "stem": "An 8-year-old with JIA is seen for a routine visit. The caregiver says, \"Her eyes are fine. She never complains about them, so we cancelled the eye appointment.\" What is the nurse's priority response?",
+      "options": [
+        "\"That makes sense. As long as she has no eye pain or redness, the eye exams can wait.\"",
+        "\"Please reschedule it. Eye inflammation can happen with JIA without symptoms, so regular eye exams are needed.\"",
+        "\"That's fine for now. Her joint medicines treat the whole immune system, so they protect her eyes too.\"",
+        "\"Let's check her vision with the wall chart today. If she can read it, she won't need the eye doctor.\""
+      ],
+      "answer": 1,
+      "rationale": {
+        "correct": "CJMM — Recognize cues: a child with JIA whose eye exams were cancelled because she has no symptoms. Analyze cues: uveitis (eye inflammation) can develop in JIA with NO symptoms. Prioritize hypotheses: undetected uveitis threatens vision. Take action: reinforce that regular eye exams are part of JIA care, whether or not symptoms are present, and help the family reschedule.",
+        "incorrect": [
+          "Waiting for pain or redness misses the point: uveitis in JIA is silent, so symptoms cannot be used as the trigger for an exam.",
+          "Assuming the joint medications protect the eyes is not a reason to skip screening. Regular eye exams remain part of the JIA plan.",
+          "A wall-chart acuity check is not an eye exam for uveitis. Silent inflammation can be present before acuity changes."
+        ]
+      }
+    },
+    {
+      "stem": "The nurse reviews the care plan with the caregiver of a 10-year-old with JIA. Which statement by the caregiver indicates a need for further teaching?",
+      "options": [
+        "\"She'll do the exercises her physical therapist taught her to keep her joints moving.\"",
+        "\"A warm-up routine in the morning helps, and she can stand and stretch after sitting a long time.\"",
+        "\"We'll have her sit out of gym class and recess from now on so her joints don't wear out.\"",
+        "\"We'll keep her regular eye exams even though her eyes don't bother her.\""
+      ],
+      "answer": 2,
+      "rationale": {
+        "correct": "CJMM — Analyze cues: JIA is an immune attack on the joint lining, not adult \"wear and tear\" arthritis. Generate solutions: nursing goals are to control symptoms, preserve joint function, support growth and development, and keep the child participating in school and activities, with movement, ROM, and PT/OT. Evaluate outcomes: removing all activity to keep the joints from \"wearing out\" applies an adult wear-and-tear idea and works against preserving function and participation, so this statement needs further teaching.",
+        "incorrect": [
+          "Correct understanding. PT/OT and regular movement preserve joint function and range of motion.",
+          "Correct understanding. Stiffness follows mornings and long periods of sitting, so planning movement for those times helps.",
+          "Correct understanding. Silent uveitis requires regular eye exams even without symptoms."
+        ]
+      }
+    }
+  ]
+}
